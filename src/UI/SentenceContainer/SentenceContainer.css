@@ -1,0 +1,28 @@
+.sentenceContainer {
+  position: relative;
+  text-align: left;
+  border: solid gray 1px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+.sentenceContainer .sentence {
+  margin-bottom: 40px;
+}
+.sentenceContainer .sentence.sentence_rtl {
+  text-align: right;
+}
+
+.sentenceContainer .play-button {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+  padding: 7px 9px;
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  font-size: 16px;
+  cursor: pointer;
+}

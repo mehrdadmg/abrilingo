@@ -1,0 +1,71 @@
+.header {
+  height: 5vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.back-button {
+  background: none;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.page_name {
+  background: none;
+  border: none;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 10px 20px;
+}
+
+.setting_titel {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+
+.wrapper_lang {
+  margin-top: 50px;
+  text-align: left;
+}
+
+.input_language {
+  display: block;
+  line-height: 35px;
+}
+
+.review-status {
+  height: 5vh;
+  margin-bottom: 0px;
+  text-align: center;
+  font-size: 20px;
+  color: #888;
+}
+
+.card {
+  min-height: 85%;
+  position: relative;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 3%;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* .memorized-word {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  font-size: 14px;
+  color: #888;
+} */
+
+/* .menu-button {
+  background: none;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+} */
