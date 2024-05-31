@@ -17,6 +17,7 @@ const ContentContainer = (props) => {
       <div className="top_sentenceContainer">
         <SentenceContainer
           text={props.typePage === 'Learn' ? props.content.sentence : props.content[props.translatTo]}
+          isRTL={props.translatTo === 'farsi' && props.typePage !== 'Learn'}
         />
       </div>
       <div className="bottom_sentenceContainer">
@@ -27,12 +28,9 @@ const ContentContainer = (props) => {
         ) : (
           <SentenceContainer
             text={props.typePage === 'Learn' ? props.content[props.translatTo] : props.content.sentence}
-            translatTo={props.translatTo}
+            isRTL={props.translatTo === 'farsi' && props.typePage === 'Learn'}
           />
         )}
-
-        {/* <SentenceContainer text={props.content.en} />
-        <SentenceContainer text={props.content.pr} /> */}
       </div>
     </div>
   );
