@@ -19,6 +19,11 @@
   color: #1a73e8;
 }
 
+.action-btn[disabled] {
+  color: #535353;
+  cursor: default;
+}
+
 .btn_left {
   text-align: left;
 }

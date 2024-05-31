@@ -42,7 +42,12 @@ const LearningSentences = (props) => {
           translatTo={props.translatTo}
           typePage={props.typePage}
         />
-        <BottomActions next={handlerNextContent} previous={handlerPreviousContent} />
+        <BottomActions
+          next={handlerNextContent}
+          previous={handlerPreviousContent}
+          contentIndex={contentIndex}
+          contentLength={props.learnContent.content.length}
+        />
       </div>
     </div>
   );
