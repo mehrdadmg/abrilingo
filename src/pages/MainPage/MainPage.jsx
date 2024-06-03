@@ -32,7 +32,8 @@ function MainPage(props) {
             props.goToPage('chose_lesson');
           }}
         >
-          Chose Lesson
+          Chose Lesson <br /> <br />
+          <span> Active Lesson: " {props.nameUnit} "</span>
         </button>
         <button
           className="middle_btn btn"

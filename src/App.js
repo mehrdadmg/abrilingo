@@ -24,13 +24,13 @@ function App() {
   const handelLanguageTranslate = (language) => {
     setLanguageTranslate(language);
   };
-
+  console.log(learnContent.info.name);
   return (
     <div className="App">
       {(() => {
         switch (displayed) {
           case 'main_page':
-            return <MainPage goToPage={handlerGoToPage} />;
+            return <MainPage goToPage={handlerGoToPage} nameUnit={learnContent.info.name} />;
 
           case 'chose_lesson':
             return (
