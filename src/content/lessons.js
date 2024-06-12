@@ -26,6 +26,9 @@ import a2_u12 from './deutschSentences_a2_u12';
 import a2_u13 from './deutschSentences_a2_u13';
 import a2_u14 from './deutschSentences_a2_u14';
 import a2_s4 from './deutschSentences_a2_s4';
+import frontend_1_100 from './deutschSentences_frontend_1_100.js';
+import frontend_100_200 from './deutschSentences_frontend_100_200.js';
+import alle_konnektoren from './deutschSentences_alle_konnektoren.js';
 
 const allLessonsContent = [
   a1_u06,
@@ -55,6 +58,9 @@ const allLessonsContent = [
   a2_u13,
   a2_u14,
   a2_s4,
+  alle_konnektoren,
+  frontend_1_100,
+  frontend_100_200,
 ];
 const allLanguagesTranslate = ['english', 'russian', 'farsi'];
 

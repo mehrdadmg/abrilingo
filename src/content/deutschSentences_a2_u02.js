@@ -6,12 +6,6 @@ const deutschSentences_a2_u02 = {
 
   content: [
     {
-      sentence: 'Praxis Dr. Ortac, Karimi am Apparat, guten Tag.',
-      english: "Dr. Ortac's practice, Karimi speaking, good day.",
-      russian: 'Практика доктора Ортака, Карими у телефона, добрый день.',
-      farsi: 'مطب دکتر اورتاک، کاریمی صحبت می‌کند، روز بخیر.',
-    },
-    {
       sentence: 'Unser Thema heute: Wie wichtig ist das Internet für den Alltag?',
       english: 'Our topic today: How important is the internet for everyday life?',
       russian: 'Наша тема сегодня: Насколько важен интернет в повседневной жизни?',
