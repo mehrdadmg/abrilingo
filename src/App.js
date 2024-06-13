@@ -6,23 +6,40 @@ import ChoseLesson from './pages/ChoseLesson/ChoseLesson';
 import Setting from './pages/Setting/Setting';
 
 import { fancContentLesson } from '../src/content/lessons';
+import {
+  getLang,
+  setLang,
+  getLesson,
+  setLesson,
+  getLearnSentenceNo,
+  setLearnSentenceNo,
+  getPracticeSentenceNo,
+  setPracticeSentenceNo,
+} from './api/handelLocalStorage';
 
 import './App.css';
 
 function App() {
+  let lang = getLang();
+  let lesson = getLesson();
+  let learnSentenceNo = getLearnSentenceNo();
+  let practiceSentenceNo = getPracticeSentenceNo();
+
   const [displayed, setDisplayed] = useState('main_page');
-  const [learnContent, setLearnContent] = useState(fancContentLesson('A1U07'));
-  const [languageTranslate, setLanguageTranslate] = useState('russian');
+  const [learnContent, setLearnContent] = useState(fancContentLesson(lesson));
+  const [languageTranslate, setLanguageTranslate] = useState(lang);
 
   const handlerGoToPage = (page) => {
     setDisplayed(page);
   };
   const handelChoseLesson = (newLesson) => {
-    setLearnContent(fancContentLesson(newLesson));
+    setLesson(newLesson);
+    setLearnContent(fancContentLesson(getLesson()));
   };
 
   const handelLanguageTranslate = (language) => {
-    setLanguageTranslate(language);
+    setLang(language);
+    setLanguageTranslate(getLang());
   };
   console.log(learnContent.info.name);
   return (
@@ -48,9 +65,13 @@ function App() {
                 BackToMainPage={() => {
                   setDisplayed('main_page');
                 }}
+                handelSentenceNo={(sentenceNo) => {
+                  setLearnSentenceNo(sentenceNo);
+                }}
                 typePage="Learn"
                 translatTo={languageTranslate}
                 learnContent={learnContent}
+                sentenceNo={learnSentenceNo}
               />
             );
 
@@ -60,9 +81,13 @@ function App() {
                 BackToMainPage={() => {
                   setDisplayed('main_page');
                 }}
+                handelSentenceNo={(sentenceNo) => {
+                  setPracticeSentenceNo(sentenceNo);
+                }}
                 typePage="Practice"
                 translatTo={languageTranslate}
                 learnContent={learnContent}
+                sentenceNo={practiceSentenceNo}
               />
             );
 
@@ -73,6 +98,7 @@ function App() {
                   setDisplayed('main_page');
                 }}
                 fancLanguageTranslate={handelLanguageTranslate}
+                lang={lang}
               />
             );
 

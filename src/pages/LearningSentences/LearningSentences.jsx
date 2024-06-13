@@ -6,16 +6,18 @@ import './LearningSentences.css';
 import { useState } from 'react';
 
 const LearningSentences = (props) => {
-  const [contentIndex, setContentIndex] = useState(0);
+  const [contentIndex, setContentIndex] = useState(parseInt(props.sentenceNo));
 
   const handlerNextContent = () => {
     if (contentIndex < props.learnContent.content.length - 1) {
+      props.handelSentenceNo(contentIndex + 1);
       setContentIndex(contentIndex + 1);
     }
   };
 
   const handlerPreviousContent = () => {
     if (contentIndex > 0) {
+      props.handelSentenceNo(contentIndex - 1);
       setContentIndex(contentIndex - 1);
     }
   };

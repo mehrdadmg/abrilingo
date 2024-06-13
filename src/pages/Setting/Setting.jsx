@@ -28,6 +28,7 @@ const Setting = (props) => {
                 onChange={(e) => {
                   props.fancLanguageTranslate(e.target.value);
                 }}
+                checked={props.lang === language ? true : false}
               />
               {language}
             </label>
