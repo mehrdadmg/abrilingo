@@ -30,7 +30,12 @@ import frontend_1_100 from './deutschSentences_frontend_1_100.js';
 import frontend_100_200 from './deutschSentences_frontend_100_200.js';
 import alle_konnektoren from './deutschSentences_alle_konnektoren.js';
 
+import verben_01 from './verben_01.js';
+import verben_02 from './verben_02.js';
+
 const allLessonsContent = [
+  verben_01,
+  verben_02,
   a1_u06,
   a1_u07,
   a1_u08,
