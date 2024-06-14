@@ -3,6 +3,8 @@ import { allLessonTitle } from '../../content/lessons';
 import './ChoseLesson.css';
 
 const ChoseLesson = (props) => {
+  console.log(props);
+
   return (
     <div className="container">
       <div className="header">
@@ -28,6 +30,7 @@ const ChoseLesson = (props) => {
                 onChange={(e) => {
                   props.fancChoosenLesson(e.target.value);
                 }}
+                checked={props.lesson === lessonName ? true : false}
               />
               {lessonName}
             </label>

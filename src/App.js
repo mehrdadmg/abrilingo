@@ -5,7 +5,7 @@ import LearningSentences from './pages/LearningSentences/LearningSentences';
 import ChoseLesson from './pages/ChoseLesson/ChoseLesson';
 import Setting from './pages/Setting/Setting';
 
-import { fancContentLesson } from '../src/content/lessons';
+import { fancContentLesson, defaultLesson } from '../src/content/lessons';
 import {
   getLang,
   setLang,
@@ -41,13 +41,24 @@ function App() {
     setLang(language);
     setLanguageTranslate(getLang());
   };
-  console.log(learnContent.info.name);
+
+  let isTrueContent = !!(learnContent && learnContent.content);
+
+  if (learnContent.content.length <= learnSentenceNo) {
+    setLearnSentenceNo('0');
+  }
+  if (learnContent.content.length <= practiceSentenceNo) {
+    setPracticeSentenceNo('0');
+  }
+
   return (
     <div className="App">
       {(() => {
         switch (displayed) {
           case 'main_page':
-            return <MainPage goToPage={handlerGoToPage} nameUnit={learnContent.info.name} />;
+            return (
+              <MainPage goToPage={handlerGoToPage} nameUnit={isTrueContent ? learnContent.info.name : defaultLesson} />
+            );
 
           case 'chose_lesson':
             return (
@@ -56,6 +67,7 @@ function App() {
                   setDisplayed('main_page');
                 }}
                 fancChoosenLesson={handelChoseLesson}
+                lesson={lesson}
               />
             );
 
@@ -103,7 +115,7 @@ function App() {
             );
 
           default:
-            return <MainPage goToPage={handlerGoToPage} />;
+            return <MainPage goToPage={handlerGoToPage} nameUnit={learnContent.info.name} />;
         }
       })()}
     </div>

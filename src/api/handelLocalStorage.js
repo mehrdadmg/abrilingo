@@ -20,6 +20,8 @@ const getLesson = () => {
 
 const setLesson = (lesson) => {
   localStorage.setItem('Lesson', lesson);
+  localStorage.setItem('LearnSentenceNo', '0');
+  localStorage.setItem('PracticeSentenceNo', '0');
 };
 
 const getLearnSentenceNo = () => {

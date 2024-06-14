@@ -67,6 +67,7 @@ const allLessonsContent = [
   frontend_1_100,
   frontend_100_200,
 ];
+const defaultLesson = 'Verben_01';
 const allLanguagesTranslate = ['english', 'russian', 'farsi'];
 
 const allLessonTitle = allLessonsContent.map((lesson) => {
@@ -75,4 +76,4 @@ const allLessonTitle = allLessonsContent.map((lesson) => {
 
 const fancContentLesson = (lessonName) => allLessonsContent.find(({ info }) => info.name === lessonName);
 
-export { allLessonTitle, fancContentLesson, allLanguagesTranslate };
+export { allLessonTitle, fancContentLesson, allLanguagesTranslate, defaultLesson };
