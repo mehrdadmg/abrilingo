@@ -12,7 +12,7 @@ const Setting = (props) => {
             props.BackToMainPage();
           }}
         >
-          &larr; Back
+          &larr; Continue
         </button>
         <h2 className="page_name">Settings</h2>
       </div>

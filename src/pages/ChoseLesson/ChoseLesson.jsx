@@ -14,7 +14,7 @@ const ChoseLesson = (props) => {
             props.BackToMainPage();
           }}
         >
-          &larr; Back
+          &larr; Continue
         </button>
       </div>
       <div className="wrapper_unit">

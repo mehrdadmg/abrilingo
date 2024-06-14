@@ -1,6 +1,8 @@
 .main_page {
   max-height: 100vh;
   position: relative;
+  max-width: 780px;
+  margin: auto;
 }
 
 .main_page .app_header {
