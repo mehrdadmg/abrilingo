@@ -26,16 +26,19 @@ import a2_u12 from './deutschSentences_a2_u12';
 import a2_u13 from './deutschSentences_a2_u13';
 import a2_u14 from './deutschSentences_a2_u14';
 import a2_s4 from './deutschSentences_a2_s4';
+
 import frontend_1_100 from './deutschSentences_frontend_1_100.js';
 import frontend_100_200 from './deutschSentences_frontend_100_200.js';
-import alle_konnektoren from './deutschSentences_alle_konnektoren.js';
-
 import verben_01 from './verben_01.js';
 import verben_02 from './verben_02.js';
+import alle_konnektoren from './deutschSentences_alle_konnektoren.js';
+import lokale_präpositionen from './lokale_präpositionen.js';
 
 const allLessonsContent = [
   verben_01,
   verben_02,
+  alle_konnektoren,
+  lokale_präpositionen,
   a1_u06,
   a1_u07,
   a1_u08,
@@ -63,7 +66,6 @@ const allLessonsContent = [
   a2_u13,
   a2_u14,
   a2_s4,
-  alle_konnektoren,
   frontend_1_100,
   frontend_100_200,
 ];

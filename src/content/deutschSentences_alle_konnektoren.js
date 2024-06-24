@@ -1,6 +1,6 @@
 const deutschSentences_alle_konnektoren = {
   info: {
-    name: 'AlleKonnektoren',
+    name: 'Alle_Konnektoren',
     learning: 'Sentences',
   },
 
