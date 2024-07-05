@@ -29,11 +29,11 @@ function MainPage(props) {
         <button
           className="top_btn btn"
           onClick={() => {
-            props.goToPage('chose_lesson');
+            props.goToPage('chose_lessen');
           }}
         >
-          Chose Lesson <br /> <br />
-          <span> Active Lesson: " {props.nameUnit} "</span>
+          Chose lessen <br /> <br />
+          <span> Active lessen: " {props.nameUnit} "</span>
         </button>
         <button
           className="middle_btn btn"

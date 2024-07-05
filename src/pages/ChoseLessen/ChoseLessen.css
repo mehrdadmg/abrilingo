@@ -1,0 +1,97 @@
+.chose_lessen .gap {
+  height: 50px;
+}
+.header {
+  height: 5vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.back-button {
+  background: none;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.wrapper_unit {
+  margin-top: 50px;
+  text-align: left;
+}
+
+.input_unit {
+  position: relative;
+  padding: 15px;
+  display: block;
+  line-height: 35px;
+  border: solid 2px black;
+  border-bottom: none;
+}
+
+.input_unit.first_input {
+  border-radius: 10px 10px 0 0;
+  border-bottom: none;
+}
+
+.input_unit.last_input {
+  border: solid 2px black;
+  border-radius: 0 0 10px 10px;
+}
+
+.unit_name {
+  background: none;
+  border: none;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 10px 0px;
+}
+
+.review-status {
+  height: 5vh;
+  margin-bottom: 0px;
+  text-align: center;
+  font-size: 20px;
+  color: #888;
+}
+
+.card {
+  min-height: 85%;
+  position: relative;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 3%;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.chose_lessen .action_to_lessen {
+  background-color: white;
+  border: none;
+  padding: 13px;
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.chose_lessen .action_to_lessen svg {
+  width: 25px;
+  height: 25px;
+}
+
+/* .memorized-word {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  font-size: 14px;
+  color: #888;
+} */
+
+/* .menu-button {
+  background: none;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+} */

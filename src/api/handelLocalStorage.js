@@ -10,16 +10,13 @@ const setLang = (lang) => {
   localStorage.setItem('Lang', lang);
 };
 
-const getLesson = () => {
-  let lesson = localStorage.getItem('Lesson');
-  if (lesson) return lesson;
-  lesson = 'A1U06';
-  localStorage.setItem('Lesson', lesson);
-  return lesson;
+const getlessen = () => {
+  let lessen = localStorage.getItem('lessen');
+  return lessen;
 };
 
-const setLesson = (lesson) => {
-  localStorage.setItem('Lesson', lesson);
+const setlessen = (lessen) => {
+  localStorage.setItem('lessen', lessen);
   localStorage.setItem('LearnSentenceNo', '0');
   localStorage.setItem('PracticeSentenceNo', '0');
 };
@@ -51,8 +48,8 @@ const setPracticeSentenceNo = (practiceSentenceNo) => {
 export {
   getLang,
   setLang,
-  getLesson,
-  setLesson,
+  getlessen,
+  setlessen,
   getLearnSentenceNo,
   setLearnSentenceNo,
   getPracticeSentenceNo,

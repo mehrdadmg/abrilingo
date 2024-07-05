@@ -1,0 +1,737 @@
+{
+  "info": {
+    "name": "A2U09",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": true,
+      "sentence": "Wir haben heute zwei Gäste in unserem Magazin am Samstagmorgen: Herrn Duarte und Frau Fischer.",
+      "english": "We have two guests in our magazine this Saturday morning: Mr. Duarte and Mrs. Fischer.",
+      "russian": "У нас сегодня два гостя в нашем журнале в субботу утром: господин Дуарт и госпожа Фишер.",
+      "farsi": "ما امروز دو مهمان در مجله‌مان صبح شنبه داریم: آقای دوارته و خانم فیشر."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Unser Thema ist das gesunde Leben.",
+      "english": "Our topic is healthy living.",
+      "russian": "Наша тема - здоровая жизнь.",
+      "farsi": "موضوع ما زندگی سالم است."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Herr Duarte, bitte erzählen Sie uns, was Sie für Ihre Gesundheit tun.",
+      "english": "Mr. Duarte, please tell us what you do for your health.",
+      "russian": "Господин Дуарт, пожалуйста, расскажите нам, что вы делаете для своего здоровья.",
+      "farsi": "آقای دوارته، لطفاً به ما بگویید که برای سلامتی خود چه کار می‌کنید."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ja, gerne. Vor zwei Jahren hatte ich sehr viel Stress.",
+      "english": "Yes, gladly. Two years ago, I had a lot of stress.",
+      "russian": "Да, с удовольствием. Два года назад у меня было много стресса.",
+      "farsi": "بله، با کمال میل. دو سال پیش، من استرس زیادی داشتم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Meine Arbeit war unsicher und ich habe mir Sorgen gemacht, wie es weitergeht.",
+      "english": "My job was insecure, and I was worried about what would happen next.",
+      "russian": "Моя работа была нестабильной, и я беспокоился о будущем.",
+      "farsi": "شغل من ناامن بود و نگران آینده بودم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Das war nicht gut für meine Gesundheit.",
+      "english": "That was not good for my health.",
+      "russian": "Это было плохо для моего здоровья.",
+      "farsi": "این برای سلامتی من خوب نبود."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ich habe keine Zeit gehabt für meine Familie, für gute Ernährung, ich habe immer schnell zwischendurch Fastfood gegessen und habe natürlich zugenommen, zehn Kilo!",
+      "english": "I had no time for my family, for good nutrition, I always ate fast food quickly in between and, of course, gained ten kilos!",
+      "russian": "У меня не было времени на семью, на хорошее питание, я всегда ел фастфуд на ходу и, конечно, набрал десять килограммов!",
+      "farsi": "من وقت برای خانواده‌ام نداشتم، برای تغذیه خوب، همیشه سریع فست فود می‌خوردم و البته ده کیلو وزن اضافه کردم!"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Dann hat meine Frau gesagt, so geht es nicht, wenn du so weitermachst, machst du dir deine Gesundheit kaputt.",
+      "english": "Then my wife said, this won't do, if you keep going like this, you'll ruin your health.",
+      "russian": "Тогда моя жена сказала, так не пойдет, если ты продолжишь в том же духе, ты разрушишь свое здоровье.",
+      "farsi": "سپس همسرم گفت، اینطور نمی‌شود، اگر اینطور ادامه دهی، سلامتیت را خراب می‌کنی."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Du musst etwas für deine Gesundheit tun.",
+      "english": "You have to do something for your health.",
+      "russian": "Ты должен что-то делать для своего здоровья.",
+      "farsi": "تو باید برای سلامتی خود کاری کنی."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ja, und da habe ich mit dem Laufen angefangen.",
+      "english": "Yes, and that's when I started running.",
+      "russian": "Да, и тогда я начал бегать.",
+      "farsi": "بله، و آن زمان بود که شروع به دویدن کردم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Das hat mir gut getan.",
+      "english": "That did me good.",
+      "russian": "Это пошло мне на пользу.",
+      "farsi": "این برای من خوب بود."
+    },
+    {
+      "isSelected": true,
+      "sentence": "In diesem Jahr bin ich sogar beim Marathon mitgelaufen, keine gute Zeit, aber ich habe es geschafft.",
+      "english": "This year I even ran a marathon, not a good time, but I made it.",
+      "russian": "В этом году я даже пробежал марафон, время было неважное, но я справился.",
+      "farsi": "امسال حتی در ماراتون شرکت کردم، زمان خوبی نبود، اما موفق شدم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Jetzt bin ich fit und ich fühle mich richtig gut.",
+      "english": "Now I am fit and I feel really good.",
+      "russian": "Теперь я в хорошей форме и чувствую себя действительно хорошо.",
+      "farsi": "الان تناسب اندام دارم و احساس بسیار خوبی دارم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Frau Fischer, was machen Sie für Ihre Gesundheit?",
+      "english": "Mrs. Fischer, what do you do for your health?",
+      "russian": "Госпожа Фишер, что вы делаете для своего здоровья?",
+      "farsi": "خانم فیشر، شما برای سلامتی خود چه کار می‌کنید؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Früher habe ich in der Stadt gewohnt, da war es laut und die Luft war schlecht.",
+      "english": "I used to live in the city, it was noisy and the air was bad.",
+      "russian": "Раньше я жила в городе, там было шумно и воздух был плохой.",
+      "farsi": "قبلاً در شهر زندگی می‌کردم، آنجا شلوغ بود و هوا آلوده بود."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ich habe oft schlecht geschlafen.",
+      "english": "I often slept poorly.",
+      "russian": "Я часто плохо спала.",
+      "farsi": "من اغلب خواب بدی داشتم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Das war nicht gut für meine Gesundheit.",
+      "english": "That was not good for my health.",
+      "russian": "Это было плохо для моего здоровья.",
+      "farsi": "این برای سلامتی من خوب نبود."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Jetzt wohne ich auf dem Land.",
+      "english": "Now I live in the countryside.",
+      "russian": "Теперь я живу в деревне.",
+      "farsi": "الان در حومه شهر زندگی می‌کنم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ich kann im Wald spazieren gehen, die Luft ist gut, es ist ruhig.",
+      "english": "I can walk in the forest, the air is good, it is quiet.",
+      "russian": "Я могу гулять в лесу, воздух хороший, тихо.",
+      "farsi": "می‌توانم در جنگل پیاده‌روی کنم، هوا خوب است، آرام است."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Und dann habe ich meinen Garten.",
+      "english": "And then I have my garden.",
+      "russian": "А еще у меня есть сад.",
+      "farsi": "و بعد از آن باغ خودم را دارم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ich brauche kein Fitnesscenter; wenn ich trainieren möchte und fit bleiben möchte, arbeite ich im Garten, das macht mir Spaß und ist gut für meine Gesundheit.",
+      "english": "I don't need a gym; if I want to work out and stay fit, I work in the garden, which I enjoy and is good for my health.",
+      "russian": "Мне не нужен фитнес-центр; если я хочу тренироваться и оставаться в форме, я работаю в саду, это мне нравится и полезно для моего здоровья.",
+      "farsi": "من به باشگاه نیاز ندارم؛ اگر بخواهم ورزش کنم و تناسب اندام داشته باشم، در باغ کار می‌کنم، که برایم لذت‌بخش است و برای سلامتی‌ام خوب است."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Bitte machen Sie den Arm frei, ... ja noch weiter, ...... .120 zu 80. Das ist sehr gut.",
+      "english": "Please free your arm, ... yes, a bit more, ...... .120 to 80. That's very good.",
+      "russian": "Пожалуйста, освободите руку, ... да, еще немного, ...... .120 на 80. Это очень хорошо.",
+      "farsi": "لطفاً بازوی خود را آزاد کنید، ... بله، کمی بیشتر، ...... .120 به 80. این بسیار خوب است."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Setzen Sie sich bitte hierher, ja, so ist gut. Bitte lesen Sie die erste Reihe. TOZ.",
+      "english": "Please sit here, yes, that's good. Please read the first row. TOZ.",
+      "russian": "Пожалуйста, садитесь сюда, да, так хорошо. Пожалуйста, прочитайте первый ряд. TOZ.",
+      "farsi": "لطفاً اینجا بنشینید، بله، این خوب است. لطفاً ردیف اول را بخوانید. TOZ."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ja, und jetzt? LFED.",
+      "english": "Yes, and now? LFED.",
+      "russian": "Да, а теперь? LFED.",
+      "farsi": "بله، و اکنون؟ LFED."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Und jetzt? Ich weiß nicht genau, vielleicht FECPO.",
+      "english": "And now? I'm not sure, maybe FECPO.",
+      "russian": "А теперь? Я точно не знаю, может быть, FECPO.",
+      "farsi": "و اکنون؟ دقیق نمی‌دانم، شاید FECPO."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Guten Tag, Sie sind zur Kontrolle hier? Ja.",
+      "english": "Good day, are you here for a check-up? Yes.",
+      "russian": "Добрый день, вы здесь на контроль? Да.",
+      "farsi": "روز بخیر، شما برای چک‌آپ اینجا هستید؟ بله."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Gut, dann wollen wir mal. So, dann öffnen Sie bitte den Mund.",
+      "english": "Good, then let's get started. So, please open your mouth.",
+      "russian": "Хорошо, тогда начнем. Итак, откройте, пожалуйста, рот.",
+      "farsi": "خوب، پس بیایید شروع کنیم. لطفاً دهان خود را باز کنید."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Frau Brivio, bitten notieren Sie: 3 ...",
+      "english": "Mrs. Brivio, please note: 3 ...",
+      "russian": "Госпожа Бривио, пожалуйста, запишите: 3 ...",
+      "farsi": "خانم بریویو، لطفاً یادداشت کنید: 3 ..."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Guten Tag, Herr Doktor Heinemann. Ich möchte Max untersuchen lassen.",
+      "english": "Good day, Dr. Heinemann. I want Max to be examined.",
+      "russian": "Добрый день, доктор Хайнеманн. Я хочу, чтобы Макса осмотрели.",
+      "farsi": "روز بخیر، دکتر هاینمن. می‌خواهم مکس معاینه شود."
+    },
+    {
+      "isSelected": true,
+      "sentence": "So, genau, heute machen wir die nächste Vorsorgeuntersuchung die U9.",
+      "english": "So, exactly, today we will do the next preventive check-up, the U9.",
+      "russian": "Итак, именно сегодня мы проведем следующий профилактический осмотр, U9.",
+      "farsi": "خوب، دقیقاً، امروز چک‌آپ بعدی را انجام می‌دهیم، U9."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Haben Sie den Vorsorgepass dabei?",
+      "english": "Do you have the preventive care pass with you?",
+      "russian": "У вас с собой паспорт профилактики?",
+      "farsi": "آیا کارت مراقبت پیشگیرانه را همراه دارید؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ja, hier ist er. Bitte schön.",
+      "english": "Yes, here it is. Here you go.",
+      "russian": "Да, вот он. Вот, пожалуйста.",
+      "farsi": "بله، اینجاست. بفرمایید."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Gut, dann fangen wir mit den Augen an.",
+      "english": "Good, then let's start with the eyes.",
+      "russian": "Хорошо, тогда начнем с глаз.",
+      "farsi": "خوب، پس با چشم‌ها شروع کنیم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Max, kannst du mir sagen, was du auf dem Bild siehst?",
+      "english": "Max, can you tell me what you see in the picture?",
+      "russian": "Макс, ты можешь сказать мне, что ты видишь на картинке?",
+      "farsi": "مکس، می‌توانی به من بگویی در تصویر چه می‌بینی؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Das ist ein Haus und ein Junge. Der Junge spielt Ball.",
+      "english": "That is a house and a boy. The boy is playing ball.",
+      "russian": "Это дом и мальчик. Мальчик играет в мяч.",
+      "farsi": "این یک خانه و یک پسر است. پسر در حال بازی با توپ است."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ganz toll, Max. Gut, dann muss ich noch in deinen Hals gucken. Mach mal den Mund auf.",
+      "english": "Very good, Max. Now, I need to look at your throat. Open your mouth.",
+      "russian": "Отлично, Макс. Хорошо, теперь мне нужно посмотреть твое горло. Открой рот.",
+      "farsi": "خیلی خوب، مکس. حالا باید به گلویت نگاه کنم. دهانت را باز کن."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Prima. Alles in Ordnung. Du kannst dir ein Spielzeug aus der Dose nehmen.",
+      "english": "Great. Everything is fine. You can take a toy from the box.",
+      "russian": "Отлично. Все в порядке. Ты можешь взять игрушку из коробки.",
+      "farsi": "عالی. همه چیز خوب است. می‌توانی یک اسباب‌بازی از جعبه برداری."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Kann ich den Hund haben?",
+      "english": "Can I have the dog?",
+      "russian": "Можно мне собаку?",
+      "farsi": "می‌توانم آن سگ را داشته باشم؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Na klar.",
+      "english": "Of course.",
+      "russian": "Конечно.",
+      "farsi": "البته."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Herr Doktor, wir möchten uns auch gerne noch von Ihnen beraten lassen.",
+      "english": "Doctor, we would also like to get some advice from you.",
+      "russian": "Доктор, мы также хотели бы получить от вас совет.",
+      "farsi": "دکتر، ما همچنین می‌خواهیم از شما مشاوره بگیریم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Was meinen Sie, ist es besser, wenn wir Max gegen Grippe impfen lassen?",
+      "english": "What do you think, is it better if we have Max vaccinated against the flu?",
+      "russian": "Как вы думаете, будет лучше, если мы сделаем Максу прививку от гриппа?",
+      "farsi": "نظر شما چیست، آیا بهتر است مکس را در برابر آنفولانزا واکسینه کنیم؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Guten Tag, was kann ich für Sie tun?",
+      "english": "Good day, what can I do for you?",
+      "russian": "Добрый день, чем я могу вам помочь?",
+      "farsi": "روز بخیر، چه کاری می‌توانم برای شما انجام دهم؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ich habe hier ein Rezept für mein Kind.",
+      "english": "I have a prescription here for my child.",
+      "russian": "У меня здесь рецепт для моего ребенка.",
+      "farsi": "اینجا یک نسخه برای فرزندم دارم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Einen Moment, bitte. Hier, bitte.",
+      "english": "One moment, please. Here you go.",
+      "russian": "Минуточку, пожалуйста. Вот, пожалуйста.",
+      "farsi": "یک لحظه لطفاً. بفرمایید."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Was kostet das?",
+      "english": "How much does it cost?",
+      "russian": "Сколько это стоит?",
+      "farsi": "این چقدر هزینه دارد؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Oh, das ist frei. Kinder bis zum 18. Lebensjahr müssen nichts bezahlen.",
+      "english": "Oh, that's free. Children up to the age of 18 do not have to pay anything.",
+      "russian": "О, это бесплатно. Дети до 18 лет не должны ничего платить.",
+      "farsi": "اوه، این رایگان است. کودکان تا سن 18 سال نیازی به پرداخت ندارند."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ja, bitte? Der Doktor hat mir dieses Medikament verschrieben.",
+      "english": "Yes, please? The doctor prescribed this medication for me.",
+      "russian": "Да, пожалуйста? Доктор прописал мне это лекарство.",
+      "farsi": "بله، لطفاً؟ دکتر این دارو را برای من تجویز کرده است."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ich glaube, das haben wir im Moment nicht da.",
+      "english": "I believe we don't have that right now.",
+      "russian": "Я думаю, у нас этого сейчас нет.",
+      "farsi": "فکر می‌کنم در حال حاضر آن را نداریم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ich schau noch mal nach - richtig - ich kann es aber für Sie bestellen.",
+      "english": "I'll check again - right - but I can order it for you.",
+      "russian": "Я проверю еще раз - правильно - но я могу заказать это для вас.",
+      "farsi": "دوباره چک می‌کنم - درست است - اما می‌توانم آن را برای شما سفارش دهم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Wann ist das Medikament dann da?",
+      "english": "When will the medication be available?",
+      "russian": "Когда лекарство будет доступно?",
+      "farsi": "کی دارو در دسترس خواهد بود؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ach, das geht schnell. Sie können es heute Nachmittag abholen.",
+      "english": "Oh, that's quick. You can pick it up this afternoon.",
+      "russian": "О, это быстро. Вы можете забрать его сегодня днем.",
+      "farsi": "اوه، این سریع است. می‌توانید آن را امروز بعد از ظهر تحویل بگیرید."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Nein, das geht nicht. Ich probiere es noch in einer anderen Apotheke, danke.",
+      "english": "No, that's not possible. I'll try another pharmacy, thanks.",
+      "russian": "Нет, это невозможно. Я попробую в другой аптеке, спасибо.",
+      "farsi": "نه، این ممکن نیست. من در داروخانه دیگری امتحان می‌کنم، ممنون."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Guten Tag, was kann ich für Sie tun?",
+      "english": "Good day, what can I do for you?",
+      "russian": "Добрый день, чем я могу вам помочь?",
+      "farsi": "روز بخیر، چه کاری می‌توانم برای شما انجام دهم؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ich hätte gerne Sofomirin-Tabletten.",
+      "english": "I would like Sofomirin tablets.",
+      "russian": "Я бы хотел таблетки Софомирин.",
+      "farsi": "من قرص‌های سوفومیرین می‌خواهم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Haben Sie ein Rezept?",
+      "english": "Do you have a prescription?",
+      "russian": "У вас есть рецепт?",
+      "farsi": "آیا نسخه دارید؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Nein, aber ich habe die Tabletten schon früher genommen.",
+      "english": "No, but I've taken the tablets before.",
+      "russian": "Нет, но я уже принимал эти таблетки раньше.",
+      "farsi": "نه، اما قبلاً این قرص‌ها را مصرف کرده‌ام."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Das tut mir leid. Die Tabletten sind rezeptpflichtig.",
+      "english": "I'm sorry. The tablets require a prescription.",
+      "russian": "Мне жаль. Эти таблетки отпускаются по рецепту.",
+      "farsi": "متاسفم. این قرص‌ها نیاز به نسخه دارند."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ich brauche ein Rezept vom Arzt.",
+      "english": "I need a prescription from the doctor.",
+      "russian": "Мне нужен рецепт от врача.",
+      "farsi": "به نسخه‌ای از دکتر نیاز دارم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Das ist ärgerlich.",
+      "english": "That's annoying.",
+      "russian": "Это раздражает.",
+      "farsi": "این ناراحت‌کننده است."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ich kann da nichts machen.",
+      "english": "I can't do anything about it.",
+      "russian": "Я ничего не могу с этим поделать.",
+      "farsi": "نمی‌توانم کاری انجام دهم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Sie müssen zum Arzt gehen.",
+      "english": "You need to go to the doctor.",
+      "russian": "Вам нужно сходить к врачу.",
+      "farsi": "باید به دکتر مراجعه کنید."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Der schreibt Ihnen ein Rezept.",
+      "english": "He will write you a prescription.",
+      "russian": "Он выпишет вам рецепт.",
+      "farsi": "او برای شما نسخه خواهد نوشت."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Dann können Sie die Tabletten bekommen.",
+      "english": "Then you can get the tablets.",
+      "russian": "Тогда вы сможете получить таблетки.",
+      "farsi": "سپس می‌توانید قرص‌ها را بگیرید."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Gut, danke für die Auskunft.",
+      "english": "Good, thanks for the information.",
+      "russian": "Хорошо, спасибо за информацию.",
+      "farsi": "خوب، ممنون بابت اطلاعات."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Guten Tag, ich habe hier ein Rezept.",
+      "english": "Good day, I have a prescription here.",
+      "russian": "Добрый день, у меня есть рецепт.",
+      "farsi": "روز بخیر، من اینجا یک نسخه دارم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Haben Sie dieses Medikament?",
+      "english": "Do you have this medication?",
+      "russian": "У вас есть это лекарство?",
+      "farsi": "آیا این دارو را دارید؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ja, das haben wir. Hier, bitte schön.",
+      "english": "Yes, we have it. Here you go.",
+      "russian": "Да, у нас есть. Вот, пожалуйста.",
+      "farsi": "بله، آن را داریم. بفرمایید."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Wie oft muss ich die Tabletten einnehmen?",
+      "english": "How often do I need to take the tablets?",
+      "russian": "Как часто мне нужно принимать таблетки?",
+      "farsi": "چند وقت یکبار باید این قرص‌ها را مصرف کنم؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Moment, ich lese den Beipackzettel.",
+      "english": "One moment, I'll read the package insert.",
+      "russian": "Минуточку, я прочитаю вкладыш.",
+      "farsi": "یک لحظه، بروشور را می‌خوانم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Sie müssen die Tabletten dreimal täglich nehmen.",
+      "english": "You need to take the tablets three times a day.",
+      "russian": "Вам нужно принимать таблетки три раза в день.",
+      "farsi": "باید این قرص‌ها را سه بار در روز مصرف کنید."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Wenn Sie einen empfindlichen Magen haben, empfehle ich Ihnen, dass Sie die Tabletten nach dem Essen nehmen.",
+      "english": "If you have a sensitive stomach, I recommend that you take the tablets after eating.",
+      "russian": "Если у вас чувствительный желудок, я рекомендую принимать таблетки после еды.",
+      "farsi": "اگر معده حساسی دارید، توصیه می‌کنم قرص‌ها را بعد از غذا مصرف کنید."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Wieso? Welche Nebenwirkungen haben die Tabletten denn?",
+      "english": "Why? What side effects do the tablets have?",
+      "russian": "Почему? Какие побочные эффекты у этих таблеток?",
+      "farsi": "چرا؟ این قرص‌ها چه عوارض جانبی‌ای دارند؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Meistens keine, aber es kann schon mal zu Magenschmerzen kommen.",
+      "english": "Usually none, but it can sometimes cause stomach pain.",
+      "russian": "Обычно никаких, но иногда может вызвать боль в желудке.",
+      "farsi": "معمولاً هیچ، اما گاهی ممکن است باعث درد معده شود."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Selten haben die Patienten auch Kopfschmerzen.",
+      "english": "Rarely, patients also have headaches.",
+      "russian": "Редко у пациентов также бывают головные боли.",
+      "farsi": "به ندرت، بیماران نیز سردرد دارند."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Aber die meisten Patienten haben keine Probleme.",
+      "english": "But most patients don't have any problems.",
+      "russian": "Но у большинства пациентов нет никаких проблем.",
+      "farsi": "اما بیشتر بیماران مشکلی ندارند."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Gut, wie viel kostet das?",
+      "english": "Good, how much does it cost?",
+      "russian": "Хорошо, сколько это стоит?",
+      "farsi": "خوب، این چقدر هزینه دارد؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Fünf Euro bitte.",
+      "english": "Five euros please.",
+      "russian": "Пять евро, пожалуйста.",
+      "farsi": "پنج یورو لطفاً."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ich habe hier ein Rezept.",
+      "english": "I have a prescription here.",
+      "russian": "У меня здесь рецепт.",
+      "farsi": "اینجا یک نسخه دارم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Wie oft muss ich die Tabletten nehmen?",
+      "english": "How often do I need to take the tablets?",
+      "russian": "Как часто мне нужно принимать таблетки?",
+      "farsi": "چند وقت یکبار باید این قرص‌ها را مصرف کنم؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Nach dem Essen.",
+      "english": "After eating.",
+      "russian": "После еды.",
+      "farsi": "بعد از غذا."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Guten Tag, wie kann ich Ihnen helfen?",
+      "english": "Good day, how can I help you?",
+      "russian": "Добрый день, чем я могу вам помочь?",
+      "farsi": "روز بخیر، چگونه می‌توانم به شما کمک کنم؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Wie teuer ist das?",
+      "english": "How expensive is that?",
+      "russian": "Сколько это стоит?",
+      "farsi": "این چقدر هزینه دارد؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Das ist kostenlos.",
+      "english": "That is free.",
+      "russian": "Это бесплатно.",
+      "farsi": "این رایگان است."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ich hätte gern eine Packung Aspirin.",
+      "english": "I would like a pack of aspirin.",
+      "russian": "Я бы хотел упаковку аспирина.",
+      "farsi": "من یک بسته آسپیرین می‌خواهم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Das kostet zwei Euro.",
+      "english": "That costs two euros.",
+      "russian": "Это стоит два евро.",
+      "farsi": "این دو یورو هزینه دارد."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Vielen Dank, hier ist das Geld.",
+      "english": "Thank you very much, here is the money.",
+      "russian": "Большое спасибо, вот деньги.",
+      "farsi": "خیلی ممنون، این پول است."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Danke, einen schönen Tag noch.",
+      "english": "Thanks, have a nice day.",
+      "russian": "Спасибо, хорошего дня.",
+      "farsi": "متشکرم، روز خوبی داشته باشید."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ich hätte gern Schmerzmittel.",
+      "english": "I would like painkillers.",
+      "russian": "Я бы хотел обезболивающие.",
+      "farsi": "من مسکن می‌خواهم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Welche Art von Schmerzmitteln?",
+      "english": "What type of painkillers?",
+      "russian": "Какой вид обезболивающих?",
+      "farsi": "چه نوع مسکنی؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Aspirin oder Paracetamol?",
+      "english": "Aspirin or paracetamol?",
+      "russian": "Аспирин или парацетамол?",
+      "farsi": "آسپیرین یا پاراستامول؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Paracetamol, bitte.",
+      "english": "Paracetamol, please.",
+      "russian": "Парацетамол, пожалуйста.",
+      "farsi": "پاراستامول، لطفاً."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Das kostet drei Euro.",
+      "english": "That costs three euros.",
+      "russian": "Это стоит три евро.",
+      "farsi": "این سه یورو هزینه دارد."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Hier ist das Geld. Vielen Dank.",
+      "english": "Here is the money. Thank you very much.",
+      "russian": "Вот деньги. Большое спасибо.",
+      "farsi": "این پول است. خیلی ممنون."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Bitte schön. Einen schönen Tag noch.",
+      "english": "You're welcome. Have a nice day.",
+      "russian": "Пожалуйста. Хорошего дня.",
+      "farsi": "خواهش می‌کنم. روز خوبی داشته باشید."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Hallo, ich habe hier ein Rezept von meinem Arzt.",
+      "english": "Hello, I have a prescription here from my doctor.",
+      "russian": "Здравствуйте, у меня здесь рецепт от моего врача.",
+      "farsi": "سلام، من اینجا یک نسخه از دکترم دارم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Für welche Tabletten?",
+      "english": "For which tablets?",
+      "russian": "Для каких таблеток?",
+      "farsi": "برای چه قرص‌هایی؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Für Schmerzmittel.",
+      "english": "For painkillers.",
+      "russian": "Для обезболивающих.",
+      "farsi": "برای مسکن."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Wie oft muss ich die Tabletten einnehmen?",
+      "english": "How often do I need to take the tablets?",
+      "russian": "Как часто мне нужно принимать таблетки?",
+      "farsi": "چند وقت یکبار باید این قرص‌ها را مصرف کنم؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Zweimal am Tag.",
+      "english": "Twice a day.",
+      "russian": "Дважды в день.",
+      "farsi": "دو بار در روز."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Wann?",
+      "english": "When?",
+      "russian": "Когда?",
+      "farsi": "چه زمانی؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Morgens und abends.",
+      "english": "In the morning and in the evening.",
+      "russian": "Утром и вечером.",
+      "farsi": "صبح و عصر."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Gut, danke für die Auskunft.",
+      "english": "Good, thanks for the information.",
+      "russian": "Хорошо, спасибо за информацию.",
+      "farsi": "خوب، ممنون بابت اطلاعات."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Danke, einen schönen Tag noch.",
+      "english": "Thanks, have a nice day.",
+      "russian": "Спасибо, хорошего дня.",
+      "farsi": "متشکرم، روز خوبی داشته باشید."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ich brauche ein Rezept vom Arzt.",
+      "english": "I need a prescription from the doctor.",
+      "russian": "Мне нужен рецепт от врача.",
+      "farsi": "به نسخه‌ای از دکتر نیاز دارم."
+    }
+  ]
+}

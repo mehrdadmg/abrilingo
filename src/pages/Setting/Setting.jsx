@@ -1,4 +1,4 @@
-import { allLanguagesTranslate } from '../../content/lessons';
+import { allLanguagesTranslate } from '../../content/lessens';
 
 import './Setting.css';
 

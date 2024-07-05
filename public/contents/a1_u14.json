@@ -1,0 +1,590 @@
+{
+  "info": {
+    "name": "A1U14",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": true,
+      "sentence": "Hier wohnt Familie Waltermann. Hausnummer 13.",
+      "english": "The Waltermann family lives here. Number 13.",
+      "russian": "Здесь живет семья Вальтерман. Номер 13.",
+      "farsi": "خانواده والترمان اینجا زندگی می‌کند. شماره ۱۳."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Oh, die Haustür ist offen.",
+      "english": "Oh, the front door is open.",
+      "russian": "О, входная дверь открыта.",
+      "farsi": "اوه، در ورودی باز است."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Waltermanns wohnen im dritten Stock und haben einen schönen Balkon.",
+      "english": "The Waltermanns live on the third floor and have a nice balcony.",
+      "russian": "Вальтерманы живут на третьем этаже и у них красивый балкон.",
+      "farsi": "والترمان‌ها در طبقه سوم زندگی می‌کنند و یک بالکن زیبا دارند."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Hier ist der Aufzug.",
+      "english": "Here is the elevator.",
+      "russian": "Вот лифт.",
+      "farsi": "اینجا آسانسور است."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ach nein, wir gehen lieber zu Fuß.",
+      "english": "Oh no, we prefer to walk.",
+      "russian": "О нет, мы лучше пойдем пешком.",
+      "farsi": "اوه نه، ما ترجیح می‌دهیم پیاده برویم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Treppen steigen, das ist gut für die Gesundheit.",
+      "english": "Climbing stairs is good for your health.",
+      "russian": "Подъем по лестнице полезен для здоровья.",
+      "farsi": "بالا رفتن از پله‌ها برای سلامتی خوب است."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Puh, die Treppe war ganz schön anstrengend, so, hier ist die Tür, wo ist die Klingel?",
+      "english": "Phew, the stairs were quite tiring, so, here is the door, where is the bell?",
+      "russian": "Фух, лестница была довольно утомительной, так, вот дверь, где звонок?",
+      "farsi": "اه، پله‌ها خیلی خسته‌کننده بودند، خب، اینجا در است، زنگ کجاست؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Hier.",
+      "english": "Here.",
+      "russian": "Здесь.",
+      "farsi": "اینجا."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Was ist das denn, hat Familie Waltermann jetzt einen Hund?",
+      "english": "What is this, does the Waltermann family have a dog now?",
+      "russian": "Что это, у семьи Вальтерман теперь есть собака?",
+      "farsi": "این چیه، آیا خانواده والترمان حالا سگ دارند؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Entschuldigung, ich möchte nicht stören, aber ich habe eine Bitte.",
+      "english": "Excuse me, I don't want to disturb you, but I have a request.",
+      "russian": "Извините, я не хочу беспокоить вас, но у меня есть просьба.",
+      "farsi": "ببخشید، نمی‌خواهم مزاحم شوم، اما یک درخواست دارم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Nein, nein, Sie stören mich nicht, kann ich Ihnen helfen?",
+      "english": "No, no, you are not disturbing me, can I help you?",
+      "russian": "Нет, нет, вы меня не беспокоите, могу я вам помочь?",
+      "farsi": "نه، نه، شما مزاحم نمی‌شوید، می‌توانم کمکتان کنم؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ich backe gerade einen Kuchen und habe keine Eier mehr.",
+      "english": "I'm baking a cake and I have no more eggs.",
+      "russian": "Я пеку торт и у меня больше нет яиц.",
+      "farsi": "من در حال پختن کیک هستم و دیگر تخم‌مرغ ندارم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Können Sie mir vielleicht drei Eier geben?",
+      "english": "Could you maybe give me three eggs?",
+      "russian": "Не могли бы вы дать мне три яйца?",
+      "farsi": "می‌توانید شاید سه تخم‌مرغ به من بدهید؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Aber gerne, warten Sie, ich hole die Eier … so, hier sind sie.",
+      "english": "Sure, wait, I'll get the eggs … so, here they are.",
+      "russian": "Конечно, подождите, я принесу яйца … вот, они здесь.",
+      "farsi": "البته، صبر کنید، تخم‌مرغ‌ها را می‌آورم … خب، اینجا هستند."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Vielen Dank!",
+      "english": "Thank you very much!",
+      "russian": "Большое спасибо!",
+      "farsi": "بسیار متشکرم!"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Gern geschehen.",
+      "english": "You're welcome.",
+      "russian": "Пожалуйста.",
+      "farsi": "خواهش می‌کنم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Guten Tag, ich glaube, der Paketdienst hat bei Ihnen ein Paket für mich abgegeben.",
+      "english": "Good day, I think the delivery service left a package for me with you.",
+      "russian": "Добрый день, я думаю, служба доставки оставила для меня посылку у вас.",
+      "farsi": "روز بخیر، فکر می‌کنم سرویس تحویل بسته‌ای برای من نزد شما گذاشته است."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ja, Moment, hier ist es.",
+      "english": "Yes, one moment, here it is.",
+      "russian": "Да, минутку, вот оно.",
+      "farsi": "بله، یک لحظه، اینجاست."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Vielen Dank!",
+      "english": "Thank you very much!",
+      "russian": "Большое спасибо!",
+      "farsi": "بسیار متشکرم!"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Kein Problem, ich bin ja viel zu Hause.",
+      "english": "No problem, I'm home a lot.",
+      "russian": "Без проблем, я много дома.",
+      "farsi": "مشکلی نیست، من بیشتر اوقات در خانه هستم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Guten Tag!",
+      "english": "Good day!",
+      "russian": "Добрый день!",
+      "farsi": "روز بخیر!"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Guten Tag, Frau Wagner, Sie wollen bestimmt Lena abholen.",
+      "english": "Good day, Mrs. Wagner, you probably want to pick up Lena.",
+      "russian": "Добрый день, госпожа Вагнер, вы, вероятно, хотите забрать Лену.",
+      "farsi": "روز بخیر، خانم واگنر، احتمالاً می‌خواهید لنا را بردارید."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ja, genau.",
+      "english": "Yes, exactly.",
+      "russian": "Да, точно.",
+      "farsi": "بله، دقیقاً."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Hallo, Mama, wir malen gerade.",
+      "english": "Hello, Mom, we're just painting.",
+      "russian": "Привет, мама, мы просто рисуем.",
+      "farsi": "سلام، مامان، ما داریم نقاشی می‌کنیم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Hallo, Lena, komm, wir gehen nach Hause.",
+      "english": "Hello, Lena, come on, we're going home.",
+      "russian": "Привет, Лена, давай, мы идем домой.",
+      "farsi": "سلام، لنا، بیا، ما داریم به خانه می‌رویم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Sie kann gerne noch ein bisschen bleiben und wollen Sie nicht auch reinkommen?",
+      "english": "She can stay a little longer and don't you want to come in too?",
+      "russian": "Она может остаться немного дольше, и вы не хотите зайти тоже?",
+      "farsi": "او می‌تواند کمی بیشتر بماند و آیا شما هم نمی‌خواهید داخل بیایید؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ach ja, gerne, warum nicht?",
+      "english": "Oh yes, sure, why not?",
+      "russian": "О да, конечно, почему бы и нет?",
+      "farsi": "اوه بله، البته، چرا که نه؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ich trinke gerade einen Tee.",
+      "english": "I'm just having a tea.",
+      "russian": "Я просто пью чай.",
+      "farsi": "من دارم یک چای می‌خورم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Möchten Sie auch eine Tasse?",
+      "english": "Would you like a cup too?",
+      "russian": "Хотите чашку тоже?",
+      "farsi": "آیا شما هم یک فنجان می‌خواهید؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Oh, vielen Dank.",
+      "english": "Oh, thank you very much.",
+      "russian": "О, большое спасибо.",
+      "farsi": "اوه، بسیار متشکرم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Hallo, sind Sie auch neu hier in der Schlossstraße?",
+      "english": "Hello, are you new here on Schlossstraße too?",
+      "russian": "Привет, вы тоже новенький здесь на Шлоссштрассе?",
+      "farsi": "سلام، آیا شما هم در این ساختمان جدید هستید؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Nein, ich wohne schon lange hier.",
+      "english": "No, I've been living here for a long time.",
+      "russian": "Нет, я живу здесь уже давно.",
+      "farsi": "نه، من مدت زیادی است که اینجا زندگی می‌کنم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Hallo, die Musik ist toll, wollen wir tanzen?",
+      "english": "Hello, the music is great, do you want to dance?",
+      "russian": "Привет, музыка отличная, хочешь потанцевать?",
+      "farsi": "سلام، موسیقی عالی است، می‌خواهید برقصیم؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ja, das ist eine gute Idee, kommen …",
+      "english": "Yes, that's a good idea, come …",
+      "russian": "Да, это хорошая идея, пойдем …",
+      "farsi": "بله، این یک ایده خوب است، بیا …"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Schönes Wetter heute.",
+      "english": "Nice weather today.",
+      "russian": "Хорошая погода сегодня.",
+      "farsi": "هوای خوبی امروز."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ja, wir haben wirklich Glück mit dem Wetter.",
+      "english": "Yes, we are really lucky with the weather.",
+      "russian": "Да, нам действительно повезло с погодой.",
+      "farsi": "بله، ما واقعاً خوش‌شانس هستیم با این هوا."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Die ganze Woche hat es geregnet. Und jetzt – wunderbar!",
+      "english": "It rained all week. And now – wonderful!",
+      "russian": "Всю неделю шел дождь. А теперь – чудесно!",
+      "farsi": "کل هفته باران باریده بود. و حالا – فوق‌العاده!"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Oh nein, die Mülltonnen sind ja schon wieder voll!",
+      "english": "Oh no, the trash cans are full again!",
+      "russian": "О нет, мусорные баки снова полные!",
+      "farsi": "اوه نه، سطل‌های زباله دوباره پر هستند!"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ja, das ist ärgerlich. Die Müllabfuhr kommt erst nächste Woche, am Mittwoch.",
+      "english": "Yes, that's annoying. The garbage collection doesn't come until next week, on Wednesday.",
+      "russian": "Да, это раздражает. Мусоровоз придет только на следующей неделе, в среду.",
+      "farsi": "بله، این ناراحت‌کننده است. جمع‌آوری زباله تا هفته آینده، چهارشنبه نمی‌آید."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Das ist wieder mal ärgerlich. Die Hausverwaltung muss etwas ändern.",
+      "english": "That's annoying again. The property management must change something.",
+      "russian": "Это снова раздражает. Управляющая компания должна что-то изменить.",
+      "farsi": "این دوباره ناراحت‌کننده است. مدیریت ساختمان باید کاری انجام دهد."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ja, aber oft sind die Leute von der Hausverwaltung langsam. Wissen Sie noch?",
+      "english": "Yes, but often the people from the property management are slow. Do you remember?",
+      "russian": "Да, но часто сотрудники управляющей компании медлительны. Вы помните?",
+      "farsi": "بله، اما اغلب کارکنان مدیریت ساختمان کند هستند. به خاطر دارید؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Im Mai war das Licht im Treppenhaus kaputt.",
+      "english": "In May, the light in the stairwell was broken.",
+      "russian": "В мае свет в лестничной клетке был сломан.",
+      "farsi": "در ماه مه، چراغ راه‌پله خراب بود."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Erst nach einer Woche ist jemand gekommen und hat es repariert.",
+      "english": "It wasn't until a week later that someone came and repaired it.",
+      "russian": "Только через неделю кто-то пришел и починил его.",
+      "farsi": "تازه بعد از یک هفته کسی آمد و آن را تعمیر کرد."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Wir müssen etwas tun. Zum Beispiel einen Brief schreiben.",
+      "english": "We have to do something. For example, write a letter.",
+      "russian": "Мы должны что-то сделать. Например, написать письмо.",
+      "farsi": "ما باید کاری انجام دهیم. برای مثال، نامه‌ای بنویسیم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ja, ich schlage vor, wir machen das zusammen.",
+      "english": "Yes, I suggest we do it together.",
+      "russian": "Да, я предлагаю сделать это вместе.",
+      "farsi": "بله، من پیشنهاد می‌کنم این کار را با هم انجام دهیم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Das ist eine gute Idee! Mein Name ist übrigens Hans Wagner.",
+      "english": "That's a good idea! By the way, my name is Hans Wagner.",
+      "russian": "Это хорошая идея! Кстати, меня зовут Ханс Вагнер.",
+      "farsi": "این یک ایده خوب است! راستی، اسم من هانس واگنر است."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ich wohne mit meiner Familie im 2. Stock.",
+      "english": "I live with my family on the 2nd floor.",
+      "russian": "Я живу с семьей на 2-м этаже.",
+      "farsi": "من با خانواده‌ام در طبقه دوم زندگی می‌کنم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Haben Sie morgen Abend Zeit?",
+      "english": "Do you have time tomorrow evening?",
+      "russian": "У вас есть время завтра вечером?",
+      "farsi": "آیا شما فردا عصر وقت دارید؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Morgen so gegen sechs, das passt mir gut.",
+      "english": "Tomorrow around six, that suits me well.",
+      "russian": "Завтра около шести, это мне подходит.",
+      "farsi": "فردا حدود ساعت شش، این برای من مناسب است."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Dann kommen Sie doch zu mir.",
+      "english": "Then come to me.",
+      "russian": "Тогда приходите ко мне.",
+      "farsi": "پس به من مراجعه کنید."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ja, gerne, Herr Lischka. Bis morgen.",
+      "english": "Yes, gladly, Mr. Lischka. See you tomorrow.",
+      "russian": "Да, с удовольствием, господин Лишка. До завтра.",
+      "farsi": "بله، با کمال میل، آقای لیژکا. تا فردا."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Bis morgen, Herr Wagner.",
+      "english": "See you tomorrow, Mr. Wagner.",
+      "russian": "До завтра, господин Вагнер.",
+      "farsi": "تا فردا، آقای واگنر."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Das ist wirklich ärgerlich. Da kann man nichts machen.",
+      "english": "That's really annoying. There's nothing you can do about it.",
+      "russian": "Это действительно раздражает. Ничего не поделаешь.",
+      "farsi": "این واقعاً ناراحت‌کننده است. کاری نمی‌توان کرد."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Mama, ich habe Durst.",
+      "english": "Mom, I'm thirsty.",
+      "russian": "Мама, я хочу пить.",
+      "farsi": "مامان، من تشنه‌ام."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Tut mir leid, Manuel, aber der Saft ist alle.",
+      "english": "I'm sorry, Manuel, but the juice is all gone.",
+      "russian": "Прости, Мануэль, но сок закончился.",
+      "farsi": "ببخشید، مانوئل، اما آب‌میوه تمام شده."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Entschuldigen Sie, aber ich habe noch Tee. Möchten Sie …?",
+      "english": "Excuse me, but I still have tea. Would you like …?",
+      "russian": "Извините, но у меня еще есть чай. Хотите …?",
+      "farsi": "ببخشید، اما من هنوز چای دارم. آیا می‌خواهید …؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Das ist nett – gern. Hier, nimm, Manuel, und sag 'Danke'!",
+      "english": "That's nice – gladly. Here, take it, Manuel, and say 'Thank you'!",
+      "russian": "Это мило – с удовольствием. Вот, возьми, Мануэль, и скажи 'Спасибо'!",
+      "farsi": "این خوب است – با کمال میل. اینجا، بگیر، مانوئل، و بگو 'متشکرم'!"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Sind Sie oft hier?",
+      "english": "Are you often here?",
+      "russian": "Вы часто здесь бываете?",
+      "farsi": "آیا شما اغلب اینجا هستید؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ja, ich wohne ganz hier in der Nähe.",
+      "english": "Yes, I live right nearby.",
+      "russian": "Да, я живу прямо рядом.",
+      "farsi": "بله، من درست نزدیک اینجا زندگی می‌کنم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ich, auch. So ein Spielplatz in der Nähe ist wirklich praktisch.",
+      "english": "Me too. Such a playground nearby is really convenient.",
+      "russian": "Я тоже. Такая площадка рядом очень удобна.",
+      "farsi": "من هم. چنین زمین بازی در نزدیکی واقعاً راحت است."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Übrigens, ich heiße Anna, wollen wir nicht “du” sagen?",
+      "english": "By the way, my name is Anna, shall we use 'du'?",
+      "russian": "Кстати, меня зовут Анна, можем ли мы перейти на 'ты'?",
+      "farsi": "راستی، اسم من آنا است، می‌خواهید به 'تو' بگوییم؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ja, gerne, ich heiße Gabrielle. Kommen Sie, äh, ich meine, kommst du oft auf diesen Spielplatz?",
+      "english": "Yes, gladly, my name is Gabrielle. Do you, uh, I mean, do you often come to this playground?",
+      "russian": "Да, с удовольствием, меня зовут Габриэль. Вы, э, я имею в виду, ты часто приходишь на эту площадку?",
+      "farsi": "بله، با کمال میل، اسم من گابریله است. آیا شما، اه، منظورم این است، آیا شما اغلب به این زمین بازی می‌آیید؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ja, fast jeden Tag.",
+      "english": "Yes, almost every day.",
+      "russian": "Да, почти каждый день.",
+      "farsi": "بله، تقریباً هر روز."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ich auch. Dort hinten, das ist meine Tochter, sie heißt Melinda.",
+      "english": "Me too. Over there, that's my daughter, her name is Melinda.",
+      "russian": "Я тоже. Вон там моя дочь, ее зовут Мелинда.",
+      "farsi": "من هم. آنجا، آن دختر من است، او ملینا نام دارد."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Wie alt ist sie?",
+      "english": "How old is she?",
+      "russian": "Сколько ей лет?",
+      "farsi": "چند سال دارد؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Melinda ist drei.",
+      "english": "Melinda is three.",
+      "russian": "Мелинде три года.",
+      "farsi": "ملینا سه ساله است."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Manuel ist auch drei. Ab August soll er in den Kindergarten gehen.",
+      "english": "Manuel is also three. He is supposed to go to kindergarten starting in August.",
+      "russian": "Мануэлю тоже три. С августа он должен пойти в детский сад.",
+      "farsi": "مانوئل هم سه ساله است. او قرار است از اوت به مهدکودک برود."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ich möchte wieder arbeiten.",
+      "english": "I want to work again.",
+      "russian": "Я хочу снова работать.",
+      "farsi": "من می‌خواهم دوباره کار کنم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ich bin zu Hause. Aber mein Mann hat ein Geschäft und braucht meine Hilfe.",
+      "english": "I am at home. But my husband has a business and needs my help.",
+      "russian": "Я дома. Но у моего мужа бизнес, и ему нужна моя помощь.",
+      "farsi": "من در خانه هستم. اما شوهرم یک کسب و کار دارد و به کمک من نیاز دارد."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Vielleicht suche ich auch einen Kindergartenplatz für Melinda.",
+      "english": "Maybe I will also look for a kindergarten place for Melinda.",
+      "russian": "Может быть, я тоже поищу место в детском саду для Мелинды.",
+      "farsi": "شاید من هم به دنبال یک جای مهدکودک برای ملینا بگردم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Das ist sicher gut. Sie kann dort mit anderen Kindern spielen …",
+      "english": "That is surely good. She can play with other children there …",
+      "russian": "Это наверняка хорошо. Она сможет играть там с другими детьми …",
+      "farsi": "این مطمئناً خوب است. او می‌تواند با کودکان دیگر در آنجا بازی کند …"
+    },
+    {
+      "isSelected": true,
+      "sentence": "… Und dann muss sie Deutsch sprechen.",
+      "english": "… And then she has to speak German.",
+      "russian": "… И тогда ей придется говорить по-немецки.",
+      "farsi": "… و سپس او باید آلمانی صحبت کند."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Wissen Sie, ich meine, weißt du, wir sprechen zu Hause Französisch und nur draußen Deutsch.",
+      "english": "You know, I mean, you know, we speak French at home and only German outside.",
+      "russian": "Знаете, я имею в виду, понимаете, мы говорим дома по-французски, а на улице только по-немецки.",
+      "farsi": "می‌دانید، منظورم این است، می‌دانید، ما در خانه فرانسوی صحبت می‌کنیم و فقط بیرون از خانه آلمانی."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Melinda versteht viel, aber sie spricht zu wenig Deutsch.",
+      "english": "Melinda understands a lot, but she speaks too little German.",
+      "russian": "Мелинда понимает многое, но она слишком мало говорит по-немецки.",
+      "farsi": "ملینا خیلی می‌فهمد، اما او خیلی کم آلمانی صحبت می‌کند."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Wir gehen nächste Woche in den Kindergarten …",
+      "english": "We are going to the kindergarten next week …",
+      "russian": "На следующей неделе мы идем в детский сад …",
+      "farsi": "ما هفته آینده به مهدکودک می‌رویم …"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Wir gehen nächste Woche in den Kindergarten, warum kommt ihr nicht einfach mit?",
+      "english": "We are going to the kindergarten next week, why don't you just come along?",
+      "russian": "На следующей неделе мы идем в детский сад, почему бы вам просто не пойти с нами?",
+      "farsi": "ما هفته آینده به مهدکودک می‌رویم، چرا شما همراه نمی‌آیید؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Das ist eine gute Idee. Ich komme gern mit.",
+      "english": "That's a good idea. I'd love to come along.",
+      "russian": "Это хорошая идея. Я с удовольствием пойду с вами.",
+      "farsi": "این یک ایده خوب است. من خوشحال می‌شوم همراه بیایم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Soll ich dich anrufen, dann können wir einen Termin machen?",
+      "english": "Should I call you, then we can make an appointment?",
+      "russian": "Должен ли я позвонить тебе, тогда мы можем назначить встречу?",
+      "farsi": "آیا باید به شما زنگ بزنم، سپس می‌توانیم قرار بگذاریم؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ja, aber ich weiß meine Handynummer nicht.",
+      "english": "Yes, but I don't know my mobile number.",
+      "russian": "Да, но я не знаю свой номер мобильного телефона.",
+      "farsi": "بله، اما من شماره موبایلم را نمی‌دانم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Oh, es fängt an zu regnen. Willst du nicht mit mir kommen?",
+      "english": "Oh, it's starting to rain. Don't you want to come with me?",
+      "russian": "О, начинается дождь. Не хочешь пойти со мной?",
+      "farsi": "اوه، باران شروع می‌شود. نمی‌خواهی با من بیایی؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ja, gern, Manuel. Wir gehen nach Hause.",
+      "english": "Yes, gladly, Manuel. We are going home.",
+      "russian": "Да, с удовольствием, Мануэль. Мы идем домой.",
+      "farsi": "بله، با کمال میل، مانوئل. ما به خانه می‌رویم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Auf Wiedersehen, Frau Schuster, ich rufe Sie an.",
+      "english": "Goodbye, Mrs. Schuster, I'll call you.",
+      "russian": "До свидания, госпожа Шустер, я вам позвоню.",
+      "farsi": "خداحافظ، خانم شوستر، من به شما زنگ می‌زنم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Auf Wiedersehen, Frau Lehmann.",
+      "english": "Goodbye, Mrs. Lehmann.",
+      "russian": "До свидания, госпожа Леман.",
+      "farsi": "خداحافظ، خانم لمن."
+    }
+  ]
+}

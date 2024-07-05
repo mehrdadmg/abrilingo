@@ -1,0 +1,927 @@
+{
+  "info": {
+    "name": "A2S3",
+    "learning": "Sentences"
+  },
+  "content": [
+    {
+      "isSelected": true,
+      "sentence": "Frau Arkaeva, Sie kommen aus der Ukraine und arbeiten als Krankenschwester in einem Krankenhaus in Köln.",
+      "english": "Ms. Arkaeva, you come from Ukraine and work as a nurse in a hospital in Cologne.",
+      "russian": "Госпожа Аркаева, вы из Украины и работаете медсестрой в больнице в Кёльне.",
+      "farsi": "خانم آرکایوا، شما از اوکراین آمده‌اید و به عنوان پرستار در بیمارستانی در کلن کار می‌کنید."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Haben Sie Ihre Ausbildung in Deutschland gemacht?",
+      "english": "Did you do your training in Germany?",
+      "russian": "Вы проходили обучение в Германии?",
+      "farsi": "آیا آموزش خود را در آلمان گذرانده‌اید؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Den Beruf habe ich in meinem Heimatland gelernt, aber in Deutschland brauchte ich eine staatliche Anerkennung für die Ausbildung.",
+      "english": "I learned the profession in my home country, but in Germany I needed state recognition for the training.",
+      "russian": "Профессию я освоила в своей родной стране, но в Германии мне нужно было государственное признание для обучения.",
+      "farsi": "این حرفه را در کشورم آموختم، اما در آلمان نیاز به تأیید دولتی برای آموزش داشتم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "In Deutschland musste ich zuerst einen Lehrgang machen, um die staatliche Anerkennung als Krankenschwester zu bekommen.",
+      "english": "In Germany, I first had to take a course to get state recognition as a nurse.",
+      "russian": "В Германии мне сначала нужно было пройти курс, чтобы получить государственное признание как медсестра.",
+      "farsi": "در آلمان، ابتدا باید یک دوره آموزشی می‌گذراندم تا تأیید دولتی به عنوان پرستار را دریافت کنم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Wie lange hat das gedauert?",
+      "english": "How long did that take?",
+      "russian": "Сколько времени это заняло?",
+      "farsi": "این چقدر طول کشید؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ungefähr sechs Monate.",
+      "english": "About six months.",
+      "russian": "Примерно шесть месяцев.",
+      "farsi": "حدود شش ماه."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Der Lehrgang war eine Kombination aus Theorie und Praxis.",
+      "english": "The course was a combination of theory and practice.",
+      "russian": "Курс был сочетанием теории и практики.",
+      "farsi": "این دوره ترکیبی از نظریه و عمل بود."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Haben Sie auch eine Prüfung gemacht?",
+      "english": "Did you also take an exam?",
+      "russian": "Вы также сдавали экзамен?",
+      "farsi": "آیا شما هم آزمونی دادید؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ja, am Ende war die Prüfung. Und ich musste nachweisen, dass ich Deutsch auf dem Niveau B2 spreche.",
+      "english": "Yes, there was an exam at the end. And I had to prove that I spoke German at level B2.",
+      "russian": "Да, в конце был экзамен. И мне нужно было доказать, что я говорю по-немецки на уровне B2.",
+      "farsi": "بله، در پایان آزمون بود. و من باید ثابت می‌کردم که به آلمانی در سطح B2 صحبت می‌کنم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Deshalb habe ich auch die B2-Prüfung gemacht.",
+      "english": "That's why I also took the B2 exam.",
+      "russian": "Поэтому я также сдала экзамен на уровень B2.",
+      "farsi": "به همین دلیل هم آزمون B2 را گذراندم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Wie gefällt Ihnen Ihr Beruf?",
+      "english": "Do you like your job?",
+      "russian": "Вам нравится ваша работа?",
+      "farsi": "آیا از شغلتان راضی هستید؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ich arbeite gern mit Menschen und Medizin ist ein sehr interessantes Fach.",
+      "english": "I enjoy working with people and medicine is a very interesting field.",
+      "russian": "Мне нравится работать с людьми, и медицина - это очень интересная область.",
+      "farsi": "من از کار کردن با مردم لذت می‌برم و پزشکی یک رشته بسیار جالب است."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Man lernt immer etwas Neues.",
+      "english": "You always learn something new.",
+      "russian": "Всегда узнаешь что-то новое.",
+      "farsi": "همیشه چیز جدیدی یاد می‌گیری."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Welche Aufgaben haben Sie?",
+      "english": "What tasks do you have?",
+      "russian": "Какие у вас обязанности?",
+      "farsi": "وظایف شما چیست؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Viele Leute denken zum Beispiel, dass das Pflegepersonal nur Medikamente bringt, Betten macht oder Patienten wäscht.",
+      "english": "Many people think, for example, that the nursing staff only brings medication, makes beds, or washes patients.",
+      "russian": "Многие люди думают, что медперсонал только приносит лекарства, заправляет кровати или моет пациентов.",
+      "farsi": "بسیاری از مردم فکر می‌کنند که پرسنل پرستاری فقط دارو می‌آورند، تخت‌ها را مرتب می‌کنند یا بیماران را می‌شویند."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Aber wir haben viele Aufgaben.",
+      "english": "But we have many tasks.",
+      "russian": "Но у нас много обязанностей.",
+      "farsi": "اما ما وظایف زیادی داریم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Können Sie einige nennen?",
+      "english": "Can you name some?",
+      "russian": "Можете назвать некоторые?",
+      "farsi": "آیا می‌توانید چند مورد را نام ببرید؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Wir müssen uns zum Beispiel um die Hygiene kümmern, die Medikamente vorbereiten und verteilen und die Ärzte über den Zustand der Patienten informieren.",
+      "english": "We have to take care of hygiene, prepare and distribute medication, and inform the doctors about the patients' condition.",
+      "russian": "Например, мы должны заботиться о гигиене, подготавливать и распределять лекарства и информировать врачей о состоянии пациентов.",
+      "farsi": "ما باید بهداشت را رعایت کنیم، داروها را آماده و توزیع کنیم و پزشکان را از وضعیت بیماران مطلع کنیم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Wie wichtig ist die Hygiene?",
+      "english": "How important is hygiene?",
+      "russian": "Насколько важна гигиена?",
+      "farsi": "بهداشت چقدر اهمیت دارد؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Es ist wichtig, dass die Patienten im Krankenhaus nicht noch andere Krankheiten bekommen.",
+      "english": "It is important that patients do not get other diseases in the hospital.",
+      "russian": "Важно, чтобы пациенты в больнице не заразились другими болезнями.",
+      "farsi": "مهم است که بیماران در بیمارستان به بیماری‌های دیگر مبتلا نشوند."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Auch die Ärzte und Krankenschwestern sollen keine Infektionskrankheiten bekommen.",
+      "english": "Doctors and nurses should not get infectious diseases either.",
+      "russian": "Также врачи и медсестры не должны заразиться инфекционными болезнями.",
+      "farsi": "پزشکان و پرستاران هم نباید به بیماری‌های عفونی مبتلا شوند."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Das bedeutet zum Beispiel, dass wir uns regelmäßig die Hände waschen und desinfizieren.",
+      "english": "This means, for example, that we wash and disinfect our hands regularly.",
+      "russian": "Это означает, например, что мы регулярно моем и дезинфицируем руки.",
+      "farsi": "این به این معناست که ما به طور منظم دست‌های خود را می‌شوییم و ضدعفونی می‌کنیم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ist die Pflege für alle Patienten gleich oder gibt es Unterschiede?",
+      "english": "Is care the same for all patients or are there differences?",
+      "russian": "Уход за всеми пациентами одинаков или есть различия?",
+      "farsi": "آیا مراقبت از همه بیماران یکسان است یا تفاوت‌هایی وجود دارد؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Die Patienten haben verschiedene Krankheiten und deshalb ist die Pflege unterschiedlich.",
+      "english": "Patients have different illnesses and therefore the care is different.",
+      "russian": "У пациентов разные болезни, поэтому уход различается.",
+      "farsi": "بیماران بیماری‌های مختلفی دارند و به همین دلیل مراقبت متفاوت است."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Oft können sie nicht aufstehen oder sie brauchen Hilfe beim Essen und Anziehen.",
+      "english": "Often they cannot get up or they need help with eating and dressing.",
+      "russian": "Часто они не могут вставать или им нужна помощь в еде и одевании.",
+      "farsi": "اغلب نمی‌توانند از تخت بلند شوند یا برای غذا خوردن و لباس پوشیدن به کمک نیاز دارند."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Patienten, die immer im Bett liegen, müssen wir beim Bettenmachen oder Waschen drehen und heben.",
+      "english": "Patients who are always in bed have to be turned and lifted when making the bed or washing.",
+      "russian": "Пациентов, которые всегда лежат в постели, нужно поворачивать и поднимать при заправке кровати или мытье.",
+      "farsi": "بیمارانی که همیشه در تخت هستند باید هنگام مرتب کردن تخت یا شستشو چرخانده و بلند شوند."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Wie arbeiten Sie mit den Ärzten zusammen?",
+      "english": "How do you work with the doctors?",
+      "russian": "Как вы работаете с врачами?",
+      "farsi": "چگونه با پزشکان همکاری می‌کنید؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Die Ärzte sagen uns zum Beispiel, wie wir Patienten auf Untersuchungen vorbereiten sollen.",
+      "english": "The doctors tell us, for example, how to prepare patients for examinations.",
+      "russian": "Врачи, например, говорят нам, как готовить пациентов к обследованиям.",
+      "farsi": "پزشکان به ما می‌گویند که چگونه بیماران را برای معاینات آماده کنیم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Aber wir haben verschiedene Aufgaben.",
+      "english": "But we have different tasks.",
+      "russian": "Но у нас разные задачи.",
+      "farsi": "اما ما وظایف متفاوتی داریم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Die Ärzte behandeln die Patienten, wir pflegen sie und dazu gehört viel Organisation.",
+      "english": "The doctors treat the patients, we care for them, and that involves a lot of organization.",
+      "russian": "Врачи лечат пациентов, мы за ними ухаживаем, и это требует много организации.",
+      "farsi": "پزشکان بیماران را درمان می‌کنند، ما از آن‌ها مراقبت می‌کنیم و این کار نیاز به سازماندهی زیادی دارد."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Die Ärzte sind nicht unsere Vorgesetzten.",
+      "english": "The doctors are not our superiors.",
+      "russian": "Врачи не являются нашими начальниками.",
+      "farsi": "پزشکان مافوق ما نیستند."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Welche Aufstiegsmöglichkeiten hat das Pflegepersonal?",
+      "english": "What are the advancement opportunities for nursing staff?",
+      "russian": "Какие возможности продвижения у медперсонала?",
+      "farsi": "فرصت‌های پیشرفت برای پرسنل پرستاری چیست؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Man kann zum Beispiel Stationsleiterin oder Pflegedienstleiterin für ein ganzes Krankenhaus werden.",
+      "english": "For example, you can become a ward manager or head nurse for an entire hospital.",
+      "russian": "Например, можно стать начальником отделения или старшей медсестрой для всей больницы.",
+      "farsi": "به عنوان مثال، می‌توانید مدیر بخش یا مدیر پرستاری کل بیمارستان شوید."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Außerdem kann man in der Fortbildung arbeiten und zum Beispiel Krankenpflegeschüler ausbilden.",
+      "english": "You can also work in further education and train nursing students, for example.",
+      "russian": "Кроме того, можно работать в дополнительном образовании и, например, обучать студентов-медсестер.",
+      "farsi": "علاوه بر این، می‌توانید در آموزش‌های بیشتر کار کنید و به عنوان مثال دانشجویان پرستاری را آموزش دهید."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ist Ihr Beruf anstrengend?",
+      "english": "Is your job strenuous?",
+      "russian": "Ваша работа утомительна?",
+      "farsi": "آیا شغل شما خسته‌کننده است؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ja, das kann ich sagen.",
+      "english": "Yes, I can say that.",
+      "russian": "Да, я могу это сказать.",
+      "farsi": "بله، می‌توانم این را بگویم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Wenn wir zum Beispiel Patienten heben müssen, ist das nicht gut für den Rücken.",
+      "english": "For example, when we have to lift patients, it's not good for the back.",
+      "russian": "Например, когда мы должны поднимать пациентов, это не полезно для спины.",
+      "farsi": "به عنوان مثال، وقتی باید بیماران را بلند کنیم، برای کمر خوب نیست."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Wie sind Ihre Arbeitszeiten?",
+      "english": "What are your working hours?",
+      "russian": "Каковы ваши рабочие часы?",
+      "farsi": "ساعات کاری شما چگونه است؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Meine Arbeitszeit dauert acht Stunden und es gibt eine Früh- und Spätschicht.",
+      "english": "My working hours are eight hours long and there is an early and late shift.",
+      "russian": "Моя рабочая смена длится восемь часов, и есть ранняя и поздняя смена.",
+      "farsi": "ساعات کاری من هشت ساعت طول می‌کشد و یک شیفت صبح و یک شیفت عصر وجود دارد."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Man arbeitet zwölf Tage ohne Pause und dann bekommt man zwei Tage frei.",
+      "english": "You work twelve days without a break and then you get two days off.",
+      "russian": "Работаешь двенадцать дней без перерыва, а затем получаешь два выходных.",
+      "farsi": "شما دوازده روز بدون وقفه کار می‌کنید و سپس دو روز تعطیل می‌شوید."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Das ist mein Wochenende.",
+      "english": "That's my weekend.",
+      "russian": "Это мои выходные.",
+      "farsi": "این تعطیلات آخر هفته من است."
+    },
+    {
+      "isSelected": true,
+      "sentence": "So, Ihre Papiere sind jetzt fertig, Frau Zeis.",
+      "english": "So, your papers are ready now, Ms. Zeis.",
+      "russian": "Итак, ваши документы готовы, госпожа Цейс.",
+      "farsi": "خوب، مدارک شما اکنون آماده است، خانم زایس."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Geben Sie diesen Brief bitte Ihrem Hausarzt.",
+      "english": "Please give this letter to your family doctor.",
+      "russian": "Пожалуйста, передайте это письмо своему терапевту.",
+      "farsi": "لطفاً این نامه را به پزشک خانواده‌تان بدهید."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Bekomme ich auch noch Medikamente?",
+      "english": "Will I also get medication?",
+      "russian": "Мне также дадут лекарства?",
+      "farsi": "آیا من هم دارو خواهم گرفت؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Nein, das ist im Moment nicht mehr nötig.",
+      "english": "No, that is not necessary at the moment.",
+      "russian": "Нет, в данный момент это не требуется.",
+      "farsi": "نه، در حال حاضر نیازی نیست."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Dann verabschiede ich mich jetzt.",
+      "english": "Then I'll say goodbye now.",
+      "russian": "Тогда я сейчас попрощаюсь.",
+      "farsi": "پس الان خداحافظی می‌کنم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Vielen Dank auch für Ihre Hilfe.",
+      "english": "Thank you also for your help.",
+      "russian": "Спасибо вам за вашу помощь.",
+      "farsi": "همچنین بابت کمکتان متشکرم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Auf Wiedersehen und alles Gute, Frau Zeis.",
+      "english": "Goodbye and all the best, Ms. Zeis.",
+      "russian": "До свидания и всего наилучшего, госпожа Цейс.",
+      "farsi": "خداحافظ و بهترین‌ها را برایتان آرزومندم، خانم زایس."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Der Lkw mit der Haustür und den Fenstern ist jetzt angekommen.",
+      "english": "The truck with the front door and windows has now arrived.",
+      "russian": "Грузовик с входной дверью и окнами прибыл.",
+      "farsi": "کامیون با درب ورودی و پنجره‌ها اکنون رسیده است."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Wohin kommen die Sachen?",
+      "english": "Where should the things go?",
+      "russian": "Куда нужно поставить вещи?",
+      "farsi": "این چیزها باید کجا گذاشته شوند؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Stellt die Fenster erstmal hier hinter das Haus, die Haustür bauen wir noch heute ein.",
+      "english": "Put the windows behind the house for now, we'll install the front door today.",
+      "russian": "Поставьте окна пока за домом, входную дверь установим сегодня.",
+      "farsi": "فعلاً پنجره‌ها را پشت خانه بگذارید، درب ورودی را امروز نصب می‌کنیم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Stellt sie gleich hier neben den Hauseingang.",
+      "english": "Put them right here next to the entrance.",
+      "russian": "Поставьте их прямо здесь рядом с входом.",
+      "farsi": "آن‌ها را همین‌جا کنار ورودی خانه بگذارید."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Okay, das machen wir.",
+      "english": "Okay, we'll do that.",
+      "russian": "Хорошо, мы это сделаем.",
+      "farsi": "باشه، انجام می‌دهیم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Bringt dann bitte noch die große Bohrmaschine zum Wagen.",
+      "english": "Then please bring the big drill to the truck.",
+      "russian": "Затем принесите большую дрель к грузовику.",
+      "farsi": "سپس لطفاً دریل بزرگ را به کامیون بیاورید."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Wir brauchen sie heute nicht mehr.",
+      "english": "We don't need it anymore today.",
+      "russian": "Она нам больше не понадобится сегодня.",
+      "farsi": "امروز دیگر به آن نیاز نداریم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Wo ist die Bohrmaschine?",
+      "english": "Where is the drill?",
+      "russian": "Где дрель?",
+      "farsi": "دریل کجاست؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Sie steht hinter dem Haus.",
+      "english": "It's behind the house.",
+      "russian": "Она стоит за домом.",
+      "farsi": "پشت خانه است."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Meister, ich habe jetzt im Wohnzimmer alles abgeklebt.",
+      "english": "Master, I have taped everything off in the living room now.",
+      "russian": "Мастер, я заклеил всё в гостиной.",
+      "farsi": "استاد، من اکنون همه چیز را در اتاق نشیمن چسباندم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Können Sie mal kommen und schauen, ob das so in Ordnung ist?",
+      "english": "Can you come and see if that's okay?",
+      "russian": "Можете подойти и посмотреть, всё ли в порядке?",
+      "farsi": "آیا می‌توانید بیایید و ببینید که آیا همه چیز درست است؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Moment... Ja, das haben Sie an den Fenstern und an der Tür ganz gut gemacht.",
+      "english": "One moment... Yes, you've done a good job on the windows and the door.",
+      "russian": "Минуточку... Да, вы хорошо поработали над окнами и дверью.",
+      "farsi": "یک لحظه... بله، شما کار خوبی روی پنجره‌ها و درب انجام داده‌اید."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Aber Sie müssen auch die Steckdosen abkleben.",
+      "english": "But you also need to tape off the sockets.",
+      "russian": "Но вам также нужно заклеить розетки.",
+      "farsi": "اما شما باید پریزها را هم چسب بزنید."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Oh, das mache ich gleich noch.",
+      "english": "Oh, I'll do that right away.",
+      "russian": "О, я сделаю это прямо сейчас.",
+      "farsi": "اوه، همین الان آن را انجام می‌دهم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Das hat noch Zeit bis morgen.",
+      "english": "That can wait until tomorrow.",
+      "russian": "Это можно сделать завтра.",
+      "farsi": "این تا فردا وقت دارد."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Jetzt sollten wir noch die Küche fertig lackieren.",
+      "english": "Now we should finish painting the kitchen.",
+      "russian": "Сейчас нам нужно закончить красить кухню.",
+      "farsi": "حالا باید نقاشی آشپزخانه را تمام کنیم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Setzen Sie sich, Frau Hantelmann.",
+      "english": "Sit down, Ms. Hantelmann.",
+      "russian": "Садитесь, госпожа Хантельман.",
+      "farsi": "بنشینید، خانم هانتلمن."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Was ist Ihr Problem?",
+      "english": "What is your problem?",
+      "russian": "В чём ваша проблема?",
+      "farsi": "مشکل شما چیست؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ich hatte vor zwei Tagen ein Gespräch mit dem Abteilungsleiter.",
+      "english": "I had a conversation with the department head two days ago.",
+      "russian": "Два дня назад у меня был разговор с начальником отдела.",
+      "farsi": "دو روز پیش با رئیس بخش صحبت کردم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Er hat mir gesagt, dass die Firma mir kündigen will.",
+      "english": "He told me that the company wants to fire me.",
+      "russian": "Он сказал мне, что компания хочет меня уволить.",
+      "farsi": "او به من گفت که شرکت می‌خواهد مرا اخراج کند."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Was soll ich tun? Ich habe Angst.",
+      "english": "What should I do? I am afraid.",
+      "russian": "Что мне делать? Мне страшно.",
+      "farsi": "چه کار باید بکنم؟ من می‌ترسم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Sie haben noch keine schriftliche Kündigung?",
+      "english": "You haven't received a written termination yet?",
+      "russian": "Вы ещё не получили письменное уведомление об увольнении?",
+      "farsi": "هنوز اخراج کتبی دریافت نکرده‌اید؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Nein, noch nicht.",
+      "english": "No, not yet.",
+      "russian": "Нет, пока нет.",
+      "farsi": "نه، هنوز نه."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Hat der Abteilungsleiter gesagt, warum die Firma Ihnen kündigen will?",
+      "english": "Did the department head say why the company wants to fire you?",
+      "russian": "Начальник отдела сказал, почему компания хочет вас уволить?",
+      "farsi": "آیا رئیس بخش گفت که چرا شرکت می‌خواهد شما را اخراج کند؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Das habe ich nicht ganz verstanden.",
+      "english": "I didn't quite understand that.",
+      "russian": "Я это не совсем понял.",
+      "farsi": "من آن را کاملاً متوجه نشدم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ich glaube, dass unsere Abteilung, also die Einkaufsabteilung, für die Firma zu teuer ist.",
+      "english": "I think that our department, the purchasing department, is too expensive for the company.",
+      "russian": "Я думаю, что наш отдел, то есть отдел закупок, слишком дорог для компании.",
+      "farsi": "فکر می‌کنم که بخش ما، یعنی بخش خرید، برای شرکت خیلی گران است."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ich habe schon etwas über Änderungen in der Einkaufsabteilung gehört.",
+      "english": "I have already heard something about changes in the purchasing department.",
+      "russian": "Я уже слышал о некоторых изменениях в отделе закупок.",
+      "farsi": "من قبلاً چیزی درباره تغییرات در بخش خرید شنیده‌ام."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Aber noch keine genauen Informationen.",
+      "english": "But no exact information yet.",
+      "russian": "Но пока никаких точных сведений.",
+      "farsi": "اما هنوز اطلاعات دقیقی ندارم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ich denke, ich rufe jetzt Ihren Abteilungsleiter Herrn Mischka an und frage ihn mal, was los ist.",
+      "english": "I think I'll call your department head, Mr. Mischka, now and ask him what's going on.",
+      "russian": "Думаю, я сейчас позвоню вашему начальнику отдела, господину Мишке, и спрошу его, что происходит.",
+      "farsi": "فکر می‌کنم الان به رئیس بخش شما، آقای میشکا، زنگ بزنم و بپرسم چه خبر است."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ah, vielen Dank.",
+      "english": "Ah, thank you very much.",
+      "russian": "Ах, большое спасибо.",
+      "farsi": "آه، بسیار متشکرم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ich hoffe wirklich, dass ich hier weiter arbeiten kann.",
+      "english": "I really hope that I can continue working here.",
+      "russian": "Я действительно надеюсь, что смогу продолжить здесь работать.",
+      "farsi": "واقعاً امیدوارم که بتوانم به کارم در اینجا ادامه دهم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Haben Sie schon die Dokumente für die Konferenz kopiert?",
+      "english": "Have you already copied the documents for the conference?",
+      "russian": "Вы уже скопировали документы для конференции?",
+      "farsi": "آیا مدارک کنفرانس را قبلاً کپی کرده‌اید؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ja, sie sind schon fertig.",
+      "english": "Yes, they are already done.",
+      "russian": "Да, они уже готовы.",
+      "farsi": "بله، آن‌ها قبلاً انجام شده‌اند."
+    },
+
+    {
+      "isSelected": true,
+      "sentence": "Nein, noch nicht, die brauchen Sie doch erst morgen.",
+      "english": "No, not yet, you won't need them until tomorrow.",
+      "russian": "Нет, пока нет, они вам понадобятся только завтра.",
+      "farsi": "نه، هنوز نه، شما به آنها تا فردا نیاز ندارید."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Aber nein! Ich habe Ihnen gestern gesagt, dass ich sie heute Nachmittag brauche.",
+      "english": "But no! I told you yesterday that I need them this afternoon.",
+      "russian": "Но нет! Я сказал вам вчера, что мне они нужны сегодня днем.",
+      "farsi": "اما نه! دیروز به شما گفتم که امروز بعدازظهر به آنها نیاز دارم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Die Konferenz beginnt um 14.30 Uhr.",
+      "english": "The conference starts at 2:30 PM.",
+      "russian": "Конференция начинается в 14:30.",
+      "farsi": "کنفرانس ساعت 2:30 بعدازظهر شروع می‌شود."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Entschuldigen Sie bitte. Das habe ich wohl falsch verstanden. Ich mache die Kopien sofort.",
+      "english": "Excuse me, please. I must have misunderstood that. I'll make the copies immediately.",
+      "russian": "Извините, пожалуйста. Я, должно быть, неправильно понял. Я сделаю копии немедленно.",
+      "farsi": "ببخشید، لطفاً. باید آن را اشتباه فهمیده باشم. فوراً کپی‌ها را انجام می‌دهم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Burkard Dietz.",
+      "english": "Burkard Dietz.",
+      "russian": "Буркард Дитц.",
+      "farsi": "بورکارد دیتز."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Hallo Burkard, hier ist Simon.",
+      "english": "Hello Burkard, this is Simon.",
+      "russian": "Привет, Буркард, это Симон.",
+      "farsi": "سلام بورکارد، اینجا سایمون است."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ich habe hier den Dienstplan für morgen.",
+      "english": "I have the schedule for tomorrow here.",
+      "russian": "У меня здесь график на завтра.",
+      "farsi": "برنامه کاری فردا را اینجا دارم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Wir sind ab morgen für einen Neubau in Weisweil im Rosenweg eingeteilt, wo wir die Elektroleitungen installieren sollen.",
+      "english": "Starting tomorrow, we are assigned to a new construction in Weisweil on Rosenweg, where we need to install the electrical wiring.",
+      "russian": "С завтрашнего дня мы назначены на новое строительство в Вайсвайле на Розенвеге, где нам нужно установить электропроводку.",
+      "farsi": "از فردا به یک ساخت‌وساز جدید در وایسوایل در رزنوگ منصوب شده‌ایم، جایی که باید سیم‌کشی الکتریکی را نصب کنیم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Kannst du mir den Weg dorthin ab der Firma beschreiben?",
+      "english": "Can you describe the way there from the company?",
+      "russian": "Можешь описать мне путь туда от компании?",
+      "farsi": "آیا می‌توانی راه رسیدن به آنجا را از شرکت توضیح دهی؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Das ist ein Neubaugebiet und ich konnte es gestern nicht mit dem Navi finden.",
+      "english": "It's a new development area, and I couldn't find it with the GPS yesterday.",
+      "russian": "Это новый район, и я не смог найти его вчера с помощью навигатора.",
+      "farsi": "این یک منطقه ساخت‌وساز جدید است و دیروز نتوانستم با ناوبری آن را پیدا کنم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ja, du fährst zuerst von der Firma die Crüsemannallee entlang und dann ....",
+      "english": "Yes, you drive along Crüsemannallee from the company first, and then ....",
+      "russian": "Да, сначала ты едешь вдоль Крюземанн-аллее от компании, а потом ....",
+      "farsi": "بله، ابتدا از شرکت در امتداد کروزمن‌اله می‌روی و سپس ...."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Kannst du mir das per SMS schreiben? Das ist vielleicht einfacher.",
+      "english": "Can you text that to me? It might be easier.",
+      "russian": "Можешь написать мне это по SMS? Это может быть проще.",
+      "farsi": "آیا می‌توانی آن را از طریق پیامک برای من بفرستی؟ شاید آسان‌تر باشد."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Okay, mache ich. zwar gibt es Leihomas.",
+      "english": "Okay, I'll do that. There are indeed 'loan grandmas'.",
+      "russian": "Хорошо, сделаю. Есть действительно 'бабушки на прокат'.",
+      "farsi": "باشه، انجام می‌دهم. واقعاً 'مادربزرگ‌های قرضی' وجود دارند."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Leihomas? Was ist das?",
+      "english": "'Loan grandmas'? What is that?",
+      "russian": "Бабушки на прокат? Что это?",
+      "farsi": "'مادربزرگ‌های قرضی'؟ آن چیست؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Das ist eine Art ehrenamtliches Engagement.",
+      "english": "That's a kind of voluntary service.",
+      "russian": "Это своего рода волонтерская деятельность.",
+      "farsi": "این نوعی خدمات داوطلبانه است."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Es gibt da einen Verein, der so etwas organisiert.",
+      "english": "There is an organization that arranges such things.",
+      "russian": "Есть организация, которая устраивает такие вещи.",
+      "farsi": "یک انجمن وجود دارد که چنین چیزهایی را ترتیب می‌دهد."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Und wie funktioniert das?",
+      "english": "And how does it work?",
+      "russian": "И как это работает?",
+      "farsi": "و این چگونه کار می‌کند؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ganz einfach. Der Verein bringt junge Eltern, die Hilfe brauchen, mit älteren Menschen zusammen.",
+      "english": "Quite simple. The organization connects young parents who need help with older people.",
+      "russian": "Совсем просто. Организация связывает молодых родителей, которым нужна помощь, с пожилыми людьми.",
+      "farsi": "خیلی ساده. انجمن والدین جوانی که نیاز به کمک دارند را با افراد مسن‌تر ارتباط می‌دهد."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Das sind dann ältere Menschen, die Zeit haben und Familien oder jungen Müttern mit kleinen Kindern helfen möchten.",
+      "english": "These are older people who have time and want to help families or young mothers with small children.",
+      "russian": "Это пожилые люди, у которых есть время и которые хотят помочь семьям или молодым мамам с маленькими детьми.",
+      "farsi": "این‌ها افراد مسن‌تری هستند که وقت دارند و می‌خواهند به خانواده‌ها یا مادران جوان با کودکان کوچک کمک کنند."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Das ist ja spannend.",
+      "english": "That's fascinating.",
+      "russian": "Это захватывающе.",
+      "farsi": "این جذاب است."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ich überlege, ob ich da mal anrufen soll.",
+      "english": "I'm thinking about calling them.",
+      "russian": "Я думаю, не позвонить ли им.",
+      "farsi": "دارم فکر می‌کنم که به آنها زنگ بزنم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ja, das ist eine gute Idee.",
+      "english": "Yes, that's a good idea.",
+      "russian": "Да, это хорошая идея.",
+      "farsi": "بله، این یک ایده خوب است."
+    },
+
+    {
+      "isSelected": true,
+      "sentence": "Die Unterlagen müssen bis morgen fertig sein.",
+      "english": "The documents must be ready by tomorrow.",
+      "russian": "Документы должны быть готовы к завтрашнему дню.",
+      "farsi": "مدارک باید تا فردا آماده باشند."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ist das nicht Herr Krause?",
+      "english": "Isn't that Mr. Krause?",
+      "russian": "Разве это не господин Краузе?",
+      "farsi": "آیا آن آقای کراوزه نیست؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Doch, das ist er.",
+      "english": "Yes, that is him.",
+      "russian": "Да, это он.",
+      "farsi": "بله، او است."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Warum kommt er zu uns?",
+      "english": "Why is he coming to us?",
+      "russian": "Почему он идёт к нам?",
+      "farsi": "چرا او به سمت ما می‌آید؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Er kommt doch sonst nie ins Sekretariat.",
+      "english": "He never comes to the secretary's office.",
+      "russian": "Он никогда не приходит в секретариат.",
+      "farsi": "او هرگز به دفتر منشی نمی‌آید."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Herr Krause, was können wir für Sie tun?",
+      "english": "Mr. Krause, what can we do for you?",
+      "russian": "Господин Краузе, что мы можем для вас сделать?",
+      "farsi": "آقای کراوزه، چه کاری می‌توانیم برای شما انجام دهیم؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Guten Morgen, ich muss dringend Herrn Müller sprechen.",
+      "english": "Good morning, I urgently need to speak with Mr. Müller.",
+      "russian": "Доброе утро, мне срочно нужно поговорить с господином Мюллером.",
+      "farsi": "صبح بخیر، من باید فوراً با آقای مولر صحبت کنم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Herr Müller ist im Moment nicht hier.",
+      "english": "Mr. Müller is not here at the moment.",
+      "russian": "Господина Мюллера сейчас здесь нет.",
+      "farsi": "آقای مولر در حال حاضر اینجا نیست."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Kommen Sie bitte in einer Stunde noch einmal vorbei.",
+      "english": "Please come back in an hour.",
+      "russian": "Пожалуйста, зайдите ещё раз через час.",
+      "farsi": "لطفاً یک ساعت دیگر برگردید."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Guten Tag, Herr Adams.",
+      "english": "Good day, Mr. Adams.",
+      "russian": "Добрый день, господин Адамс.",
+      "farsi": "روز بخیر، آقای آدامز."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Tag, wie geht es Ihnen?",
+      "english": "Hello, how are you?",
+      "russian": "Здравствуйте, как вы?",
+      "farsi": "سلام، حال شما چطور است؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Gut, danke.",
+      "english": "Good, thanks.",
+      "russian": "Хорошо, спасибо.",
+      "farsi": "خوب، ممنون."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Und Ihnen?",
+      "english": "And you?",
+      "russian": "А вы?",
+      "farsi": "و شما؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Auch gut, danke.",
+      "english": "Also good, thanks.",
+      "russian": "Тоже хорошо, спасибо.",
+      "farsi": "من هم خوب هستم، ممنون."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ich habe Sie schon lange nicht mehr gesehen.",
+      "english": "I haven't seen you for a long time.",
+      "russian": "Я давно вас не видел.",
+      "farsi": "مدت زیادی است که شما را ندیده‌ام."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ja, das stimmt.",
+      "english": "Yes, that's true.",
+      "russian": "Да, это правда.",
+      "farsi": "بله، درست است."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Wo waren Sie?",
+      "english": "Where have you been?",
+      "russian": "Где вы были?",
+      "farsi": "کجا بودید؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ich habe zwei Wochen in Italien Urlaub gemacht.",
+      "english": "I was on vacation in Italy for two weeks.",
+      "russian": "Я был в отпуске в Италии две недели.",
+      "farsi": "دو هفته در ایتالیا تعطیلات بودم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Oh, das ist schön.",
+      "english": "Oh, that's nice.",
+      "russian": "О, это прекрасно.",
+      "farsi": "اوه، این خوب است."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Wie war es?",
+      "english": "How was it?",
+      "russian": "Как это было?",
+      "farsi": "چطور بود؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Wunderbar! Ich habe viel gesehen und jeden Tag gutes italienisches Essen genossen.",
+      "english": "Wonderful! I saw a lot and enjoyed good Italian food every day.",
+      "russian": "Чудесно! Я много чего видел и каждый день наслаждался вкусной итальянской едой.",
+      "farsi": "فوق‌العاده! چیزهای زیادی دیدم و هر روز از غذای خوب ایتالیایی لذت بردم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ich war schon mehrmals in Italien und es gefällt mir immer.",
+      "english": "I have been to Italy several times and I always like it.",
+      "russian": "Я был в Италии несколько раз, и мне всегда нравится.",
+      "farsi": "چندین بار به ایتالیا رفته‌ام و همیشه از آن لذت می‌برم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ich fahre oft dorthin.",
+      "english": "I often go there.",
+      "russian": "Я часто туда езжу.",
+      "farsi": "من اغلب به آنجا می‌روم."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Können wir uns morgen wiedersehen?",
+      "english": "Can we see each other again tomorrow?",
+      "russian": "Можем мы увидеться снова завтра?",
+      "farsi": "آیا می‌توانیم فردا دوباره یکدیگر را ببینیم؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Ja, gerne. Um wie viel Uhr?",
+      "english": "Yes, gladly. At what time?",
+      "russian": "Да, с удовольствием. Во сколько?",
+      "farsi": "بله، با کمال میل. چه ساعتی؟"
+    },
+    {
+      "isSelected": true,
+      "sentence": "Um zwei Uhr.",
+      "english": "At two o'clock.",
+      "russian": "В два часа.",
+      "farsi": "در ساعت دو."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Das ist gut. Dann bis morgen.",
+      "english": "That's good. See you tomorrow then.",
+      "russian": "Это хорошо. Тогда до завтра.",
+      "farsi": "این خوب است. پس تا فردا."
+    },
+    {
+      "isSelected": true,
+      "sentence": "Bis morgen!",
+      "english": "See you tomorrow!",
+      "russian": "До завтра!",
+      "farsi": "تا فردا!"
+    }
+  ]
+}

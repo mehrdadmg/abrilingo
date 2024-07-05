@@ -1,40 +1,87 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 
 import MainPage from './pages/MainPage/MainPage';
 import LearningSentences from './pages/LearningSentences/LearningSentences';
-import ChoseLesson from './pages/ChoseLesson/ChoseLesson';
+import Choselessen from './pages/ChoseLessen/ChoseLessen';
 import Setting from './pages/Setting/Setting';
 
-import { fancContentLesson, defaultLesson } from '../src/content/lessons';
 import {
   getLang,
   setLang,
-  getLesson,
-  setLesson,
+  getlessen,
+  setlessen,
   getLearnSentenceNo,
   setLearnSentenceNo,
   getPracticeSentenceNo,
   setPracticeSentenceNo,
 } from './api/handelLocalStorage';
+import { getData } from './api/handelIndexedDB';
 
 import './App.css';
 
+const startLessen = {
+  info: {
+    name: 'Start_Lessen',
+    learning: 'sentences',
+  },
+
+  content: [
+    {
+      sentence: 'Willkommen bei Abri Lingo!',
+      english: 'Welcome to Abri Lingo!',
+      russian: 'Добро пожаловать в Абри Линго!',
+      farsi: 'به Abri Lingo خوش آمدید!',
+    },
+  ],
+};
+
 function App() {
   let lang = getLang();
-  let lesson = getLesson();
+  let lessen = getlessen();
+
   let learnSentenceNo = getLearnSentenceNo();
   let practiceSentenceNo = getPracticeSentenceNo();
 
   const [displayed, setDisplayed] = useState('main_page');
-  const [learnContent, setLearnContent] = useState(fancContentLesson(lesson));
+  const [learnContent, setLearnContent] = useState(startLessen);
   const [languageTranslate, setLanguageTranslate] = useState(lang);
+
+  useEffect(
+    () => () => {
+      loadLessen(lessen);
+    },
+    []
+  );
+
+  const loadLessen = async (newlessen) => {
+    let content = await getData(newlessen);
+
+    console.log('content 1:', content);
+
+    /* if (lessen) {
+      setlessen(newlessen);
+      content = await getData(lessen);
+    } */
+
+    if (!content) {
+      console.log('content 2:', content);
+
+      content = startLessen;
+      setlessen('startLessen');
+    }
+    setLearnContent(content);
+  };
 
   const handlerGoToPage = (page) => {
     setDisplayed(page);
   };
-  const handelChoseLesson = (newLesson) => {
-    setLesson(newLesson);
-    setLearnContent(fancContentLesson(getLesson()));
+  const handelChoselessen = async (newlessen) => {
+    setlessen(newlessen);
+    let content = await getData(newlessen);
+    if (!content) {
+      content = startLessen;
+    }
+    setLearnContent(content);
   };
 
   const handelLanguageTranslate = (language) => {
@@ -44,10 +91,19 @@ function App() {
 
   let isTrueContent = !!(learnContent && learnContent.content);
 
-  if (learnContent.content.length <= learnSentenceNo) {
+  if (
+    learnContent.info.name !== startLessen.info.name &&
+    learnContent.content &&
+    learnContent.content.length <= learnSentenceNo
+  ) {
+    console.log('learnContent: ', learnContent);
     setLearnSentenceNo('0');
   }
-  if (learnContent.content.length <= practiceSentenceNo) {
+  if (
+    learnContent.info.name !== startLessen.info.name &&
+    learnContent.content &&
+    learnContent.content.length <= practiceSentenceNo
+  ) {
     setPracticeSentenceNo('0');
   }
 
@@ -57,17 +113,17 @@ function App() {
         switch (displayed) {
           case 'main_page':
             return (
-              <MainPage goToPage={handlerGoToPage} nameUnit={isTrueContent ? learnContent.info.name : defaultLesson} />
+              <MainPage goToPage={handlerGoToPage} nameUnit={isTrueContent ? learnContent.info.name : startLessen} />
             );
 
-          case 'chose_lesson':
+          case 'chose_lessen':
             return (
-              <ChoseLesson
+              <Choselessen
                 BackToMainPage={() => {
                   setDisplayed('main_page');
                 }}
-                fancChoosenLesson={handelChoseLesson}
-                lesson={lesson}
+                fancChoosenlessen={handelChoselessen}
+                lessen={lessen}
               />
             );
 
