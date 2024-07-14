@@ -6,462 +6,462 @@
 
   "content": [
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich lege das Buch auf den Tisch.",
       "english": "I put the book on the table.",
       "russian": "Я кладу книгу на стол.",
       "farsi": "من کتاب را روی میز می‌گذارم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie stellt die Vase auf den Schrank.",
       "english": "She puts the vase on the cabinet.",
       "russian": "Она ставит вазу на шкаф.",
       "farsi": "او گلدان را روی کمد می‌گذارد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir setzen uns auf die Bank.",
       "english": "We sit on the bench.",
       "russian": "Мы садимся на скамейку.",
       "farsi": "ما روی نیمکت می‌نشینیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er legt das Handy auf den Boden.",
       "english": "He puts the phone on the floor.",
       "russian": "Он кладет телефон на пол.",
       "farsi": "او گوشی را روی زمین می‌گذارد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Die Katze springt auf das Bett.",
       "english": "The cat jumps on the bed.",
       "russian": "Кошка прыгает на кровать.",
       "farsi": "گربه روی تخت می‌پرد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Kind legt seine Spielzeuge auf den Teppich.",
       "english": "The child puts his toys on the carpet.",
       "russian": "Ребенок кладет свои игрушки на ковер.",
       "farsi": "کودک اسباب‌بازی‌هایش را روی فرش می‌گذارد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich setze mich auf den Stuhl.",
       "english": "I sit on the chair.",
       "russian": "Я сажусь на стул.",
       "farsi": "من روی صندلی می‌نشینم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie legt den Schlüssel auf die Kommode.",
       "english": "She puts the key on the dresser.",
       "russian": "Она кладет ключ на комод.",
       "farsi": "او کلید را روی دراور می‌گذارد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Vogel fliegt auf das Dach.",
       "english": "The bird flies onto the roof.",
       "russian": "Птица летит на крышу.",
       "farsi": "پرنده روی سقف می‌پرد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Hund legt sich auf den Rasen.",
       "english": "The dog lies down on the lawn.",
       "russian": "Собака ложится на газон.",
       "farsi": "سگ روی چمن دراز می‌کشد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er stellt die Tasse auf das Regal.",
       "english": "He puts the cup on the shelf.",
       "russian": "Он ставит чашку на полку.",
       "farsi": "او فنجان را روی قفسه می‌گذارد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie legt die Zeitung auf den Tisch.",
       "english": "She puts the newspaper on the table.",
       "russian": "Она кладет газету на стол.",
       "farsi": "او روزنامه را روی میز می‌گذارد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Maler stellt die Leiter auf die Straße.",
       "english": "The painter places the ladder on the street.",
       "russian": "Художник ставит лестницу на улицу.",
       "farsi": "نقاش نردبان را روی خیابان می‌گذارد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich lege mein Handy auf das Ladegerät.",
       "english": "I put my phone on the charger.",
       "russian": "Я кладу телефон на зарядное устройство.",
       "farsi": "من گوشی‌ام را روی شارژر می‌گذارم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie stellt die Kerze auf das Fensterbrett.",
       "english": "She puts the candle on the windowsill.",
       "russian": "Она ставит свечу на подоконник.",
       "farsi": "او شمع را روی طاقچه می‌گذارد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Buch liegt auf dem Tisch.",
       "english": "The book is on the table.",
       "russian": "Книга лежит на столе.",
       "farsi": "کتاب روی میز است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Die Vase steht auf dem Schrank.",
       "english": "The vase is on the cabinet.",
       "russian": "Ваза стоит на шкафу.",
       "farsi": "گلدان روی کمد است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir sitzen auf der Bank.",
       "english": "We are sitting on the bench.",
       "russian": "Мы сидим на скамейке.",
       "farsi": "ما روی نیمکت نشسته‌ایم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Handy liegt auf dem Boden.",
       "english": "The phone is on the floor.",
       "russian": "Телефон лежит на полу.",
       "farsi": "گوشی روی زمین است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Die Katze schläft auf dem Bett.",
       "english": "The cat is sleeping on the bed.",
       "russian": "Кошка спит на кровати.",
       "farsi": "گربه روی تخت خواب است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Die Spielzeuge liegen auf dem Teppich.",
       "english": "The toys are on the carpet.",
       "russian": "Игрушки лежат на ковре.",
       "farsi": "اسباب‌بازی‌ها روی فرش هستند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich sitze auf dem Stuhl.",
       "english": "I am sitting on the chair.",
       "russian": "Я сижу на стуле.",
       "farsi": "من روی صندلی نشسته‌ام."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Schlüssel liegt auf der Kommode.",
       "english": "The key is on the dresser.",
       "russian": "Ключ лежит на комоде.",
       "farsi": "کلید روی دراور است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Vogel sitzt auf dem Dach.",
       "english": "The bird is sitting on the roof.",
       "russian": "Птица сидит на крыше.",
       "farsi": "پرنده روی سقف نشسته است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Hund liegt auf dem Rasen.",
       "english": "The dog is lying on the lawn.",
       "russian": "Собака лежит на газоне.",
       "farsi": "سگ روی چمن خوابیده است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Die Tasse steht auf dem Regal.",
       "english": "The cup is on the shelf.",
       "russian": "Чашка стоит на полке.",
       "farsi": "فنجان روی قفسه است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Die Zeitung liegt auf dem Tisch.",
       "english": "The newspaper is on the table.",
       "russian": "Газета лежит на столе.",
       "farsi": "روزنامه روی میز است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Die Leiter steht auf der Straße.",
       "english": "The ladder is on the street.",
       "russian": "Лестница стоит на улице.",
       "farsi": "نردبان روی خیابان است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Mein Handy liegt auf dem Ladegerät.",
       "english": "My phone is on the charger.",
       "russian": "Мой телефон лежит на зарядном устройстве.",
       "farsi": "گوشی من روی شارژر است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Die Kerze steht auf dem Fensterbrett.",
       "english": "The candle is on the windowsill.",
       "russian": "Свеча стоит на подоконнике.",
       "farsi": "شمع روی طاقچه است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich hänge das Bild an die Wand.",
       "english": "I hang the picture on the wall.",
       "russian": "Я вешаю картину на стену.",
       "farsi": "من تصویر را به دیوار آویزان می‌کنم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie stellt den Stuhl an den Tisch.",
       "english": "She puts the chair by the table.",
       "russian": "Она ставит стул к столу.",
       "farsi": "او صندلی را کنار میز می‌گذارد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir lehnen uns an die Mauer.",
       "english": "We lean against the wall.",
       "russian": "Мы опираемся на стену.",
       "farsi": "ما به دیوار تکیه می‌دهیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er klebt das Poster an die Tür.",
       "english": "He sticks the poster on the door.",
       "russian": "Он клеит плакат на дверь.",
       "farsi": "او پوستر را به در می‌چسباند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Vogel fliegt an das Fenster.",
       "english": "The bird flies to the window.",
       "russian": "Птица летит к окну.",
       "farsi": "پرنده به سمت پنجره پرواز می‌کند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie fährt das Auto an die Garage.",
       "english": "She drives the car to the garage.",
       "russian": "Она ведет машину к гаражу.",
       "farsi": "او ماشین را به سمت گاراژ می‌راند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich setze mich an den Schreibtisch.",
       "english": "I sit down at the desk.",
       "russian": "Я сажусь за письменный стол.",
       "farsi": "من پشت میز تحریر می‌نشینم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie legt die Hand an die Wange.",
       "english": "She puts her hand on her cheek.",
       "russian": "Она кладет руку на щеку.",
       "farsi": "او دستش را روی گونه‌اش می‌گذارد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Hund springt an den Zaun.",
       "english": "The dog jumps at the fence.",
       "russian": "Собака прыгает к забору.",
       "farsi": "سگ به سمت نرده می‌پرد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Schüler stellt sich an die Tafel.",
       "english": "The student stands by the board.",
       "russian": "Ученик становится у доски.",
       "farsi": "دانش‌آموز کنار تخته می‌ایستد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Künstler malt an die Leinwand.",
       "english": "The artist paints on the canvas.",
       "russian": "Художник рисует на холсте.",
       "farsi": "هنرمند روی بوم نقاشی می‌کند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er drückt das Ohr an die Tür.",
       "english": "He presses his ear to the door.",
       "russian": "Он прижимает ухо к двери.",
       "farsi": "او گوشش را به در می‌چسباند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie lehnt die Leiter an das Haus.",
       "english": "She leans the ladder against the house.",
       "russian": "Она прислоняет лестницу к дому.",
       "farsi": "او نردبان را به خانه تکیه می‌دهد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Tourist stellt sich an die Bushaltestelle.",
       "english": "The tourist stands at the bus stop.",
       "russian": "Турист становится на автобусной остановке.",
       "farsi": "توریست در ایستگاه اتوبوس می‌ایستد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er legt den Brief an den Rand des Tisches.",
       "english": "He puts the letter on the edge of the table.",
       "russian": "Он кладет письмо на край стола.",
       "farsi": "او نامه را روی لبه میز می‌گذارد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Bild hängt an der Wand.",
       "english": "The picture is hanging on the wall.",
       "russian": "Картина висит на стене.",
       "farsi": "تصویر به دیوار آویزان است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Stuhl steht an dem Tisch.",
       "english": "The chair is by the table.",
       "russian": "Стул стоит у стола.",
       "farsi": "صندلی کنار میز است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir lehnen uns an der Mauer.",
       "english": "We lean against the wall.",
       "russian": "Мы опираемся на стену.",
       "farsi": "ما به دیوار تکیه داده‌ایم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Poster klebt an der Tür.",
       "english": "The poster is stuck to the door.",
       "russian": "Плакат приклеен к двери.",
       "farsi": "پوستر به در چسبیده است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Vogel sitzt an dem Fenster.",
       "english": "The bird is sitting by the window.",
       "russian": "Птица сидит у окна.",
       "farsi": "پرنده کنار پنجره نشسته است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Auto steht an der Garage.",
       "english": "The car is by the garage.",
       "russian": "Машина стоит у гаража.",
       "farsi": "ماشین کنار گاراژ است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich sitze an dem Schreibtisch.",
       "english": "I am sitting at the desk.",
       "russian": "Я сижу за письменным столом.",
       "farsi": "من پشت میز تحریر نشسته‌ام."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ihre Hand liegt an der Wange.",
       "english": "Her hand is on her cheek.",
       "russian": "Ее рука лежит на щеке.",
       "farsi": "دستش روی گونه‌اش است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Hund steht an dem Zaun.",
       "english": "The dog is standing by the fence.",
       "russian": "Собака стоит у забора.",
       "farsi": "سگ کنار نرده ایستاده است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Schüler steht an der Tafel.",
       "english": "The student is standing at the board.",
       "russian": "Ученик стоит у доски.",
       "farsi": "دانش‌آموز کنار تخته ایستاده است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Bild hängt an der Leinwand.",
       "english": "The picture is hanging on the canvas.",
       "russian": "Картина висит на холсте.",
       "farsi": "تصویر به بوم آویزان است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sein Ohr ist an der Tür.",
       "english": "His ear is on the door.",
       "russian": "Его ухо на двери.",
       "farsi": "گوش او روی در است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Die Leiter lehnt an dem Haus.",
       "english": "The ladder is leaning against the house.",
       "russian": "Лестница прислонена к дому.",
       "farsi": "نردبان به خانه تکیه داده شده است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Tourist steht an der Bushaltestelle.",
       "english": "The tourist is standing at the bus stop.",
       "russian": "Турист стоит на автобусной остановке.",
       "farsi": "توریست در ایستگاه اتوبوس ایستاده است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Brief liegt an dem Rand des Tisches.",
       "english": "The letter is on the edge of the table.",
       "russian": "Письмо лежит на краю стола.",
       "farsi": "نامه روی لبه میز است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich stelle die Lampe neben das Sofa.",
       "english": "I put the lamp next to the sofa.",
       "russian": "Я ставлю лампу рядом с диваном.",
       "farsi": "من لامپ را کنار مبل می‌گذارم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie legt das Buch neben den Computer.",
       "english": "She puts the book next to the computer.",
       "russian": "Она кладет книгу рядом с компьютером.",
       "farsi": "او کتاب را کنار کامپیوتر می‌گذارد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir setzen uns neben den Baum.",
       "english": "We sit next to the tree.",
       "russian": "Мы садимся рядом с деревом.",
       "farsi": "ما کنار درخت می‌نشینیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er stellt den Stuhl neben das Fenster.",
       "english": "He puts the chair next to the window.",
       "russian": "Он ставит стул рядом с окном.",
       "farsi": "او صندلی را کنار پنجره می‌گذارد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Die Katze legt sich neben den Hund.",
       "english": "The cat lies down next to the dog.",
       "russian": "Кошка ложится рядом с собакой.",
       "farsi": "گربه کنار سگ دراز می‌کشد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Kind setzt das Spielzeug neben den Tisch.",
       "english": "The child puts the toy next to the table.",
       "russian": "Ребенок кладет игрушку рядом со столом.",
@@ -469,1568 +469,1568 @@
     },
 
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich stelle die Tasche neben die Tür.",
       "english": "I put the bag next to the door.",
       "russian": "Я ставлю сумку рядом с дверью.",
       "farsi": "من کیف را کنار در می‌گذارم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie legt die Jacke neben das Bett.",
       "english": "She puts the jacket next to the bed.",
       "russian": "Она кладет куртку рядом с кроватью.",
       "farsi": "او ژاکت را کنار تخت می‌گذارد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Vogel fliegt neben den Baum.",
       "english": "The bird flies next to the tree.",
       "russian": "Птица летит рядом с деревом.",
       "farsi": "پرنده کنار درخت پرواز می‌کند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Hund läuft neben das Auto.",
       "english": "The dog runs next to the car.",
       "russian": "Собака бежит рядом с машиной.",
       "farsi": "سگ کنار ماشین می‌دود."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie stellt die Vase neben den Spiegel.",
       "english": "She puts the vase next to the mirror.",
       "russian": "Она ставит вазу рядом с зеркалом.",
       "farsi": "او گلدان را کنار آینه می‌گذارد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er setzt sich neben die Lehrerin.",
       "english": "He sits down next to the teacher.",
       "russian": "Он садится рядом с учительницей.",
       "farsi": "او کنار معلم می‌نشیند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Schüler legt den Rucksack neben den Schreibtisch.",
       "english": "The student puts the backpack next to the desk.",
       "russian": "Ученик кладет рюкзак рядом с письменным столом.",
       "farsi": "دانش‌آموز کوله‌پشتی را کنار میز تحریر می‌گذارد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Bild hängt neben die Uhr.",
       "english": "The picture hangs next to the clock.",
       "russian": "Картина висит рядом с часами.",
       "farsi": "تصویر کنار ساعت آویزان است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Ball rollt neben den Zaun.",
       "english": "The ball rolls next to the fence.",
       "russian": "Мяч катится рядом с забором.",
       "farsi": "توپ کنار نرده می‌غلتد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Die Lampe steht neben dem Sofa.",
       "english": "The lamp is next to the sofa.",
       "russian": "Лампа стоит рядом с диваном.",
       "farsi": "لامپ کنار مبل است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Buch liegt neben dem Computer.",
       "english": "The book is next to the computer.",
       "russian": "Книга лежит рядом с компьютером.",
       "farsi": "کتاب کنار کامپیوتر است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir sitzen neben dem Baum.",
       "english": "We are sitting next to the tree.",
       "russian": "Мы сидим рядом с деревом.",
       "farsi": "ما کنار درخت نشسته‌ایم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Stuhl steht neben dem Fenster.",
       "english": "The chair is next to the window.",
       "russian": "Стул стоит рядом с окном.",
       "farsi": "صندلی کنار پنجره است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Die Katze liegt neben dem Hund.",
       "english": "The cat is lying next to the dog.",
       "russian": "Кошка лежит рядом с собакой.",
       "farsi": "گربه کنار سگ خوابیده است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Spielzeug liegt neben dem Tisch.",
       "english": "The toy is next to the table.",
       "russian": "Игрушка лежит рядом со столом.",
       "farsi": "اسباب‌بازی کنار میز است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Die Tasche steht neben der Tür.",
       "english": "The bag is next to the door.",
       "russian": "Сумка стоит рядом с дверью.",
       "farsi": "کیف کنار در است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Die Jacke liegt neben dem Bett.",
       "english": "The jacket is next to the bed.",
       "russian": "Куртка лежит рядом с кроватью.",
       "farsi": "ژاکت کنار تخت است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Vogel sitzt neben dem Baum.",
       "english": "The bird is sitting next to the tree.",
       "russian": "Птица сидит рядом с деревом.",
       "farsi": "پرنده کنار درخت نشسته است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Hund steht neben dem Auto.",
       "english": "The dog is standing next to the car.",
       "russian": "Собака стоит рядом с машиной.",
       "farsi": "سگ کنار ماشین ایستاده است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Die Vase steht neben dem Spiegel.",
       "english": "The vase is next to the mirror.",
       "russian": "Ваза стоит рядом с зеркалом.",
       "farsi": "گلدان کنار آینه است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er sitzt neben der Lehrerin.",
       "english": "He is sitting next to the teacher.",
       "russian": "Он сидит рядом с учительницей.",
       "farsi": "او کنار معلم نشسته است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Rucksack liegt neben dem Schreibtisch.",
       "english": "The backpack is next to the desk.",
       "russian": "Рюкзак лежит рядом с письменным столом.",
       "farsi": "کوله‌پشتی کنار میز تحریر است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Bild hängt neben der Uhr.",
       "english": "The picture is hanging next to the clock.",
       "russian": "Картина висит рядом с часами.",
       "farsi": "تصویر کنار ساعت آویزان است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Ball liegt neben dem Zaun.",
       "english": "The ball is next to the fence.",
       "russian": "Мяч лежит рядом с забором.",
       "farsi": "توپ کنار نرده است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich stelle das Auto vor das Haus.",
       "english": "I put the car in front of the house.",
       "russian": "Я ставлю машину перед домом.",
       "farsi": "من ماشین را جلوی خانه می‌گذارم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie legt die Zeitung vor die Tür.",
       "english": "She puts the newspaper in front of the door.",
       "russian": "Она кладет газету перед дверью.",
       "farsi": "او روزنامه را جلوی در می‌گذارد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir setzen uns vor den Fernseher.",
       "english": "We sit in front of the TV.",
       "russian": "Мы садимся перед телевизором.",
       "farsi": "ما جلوی تلویزیون می‌نشینیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er stellt den Stuhl vor das Fenster.",
       "english": "He puts the chair in front of the window.",
       "russian": "Он ставит стул перед окном.",
       "farsi": "او صندلی را جلوی پنجره می‌گذارد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Die Katze läuft vor den Hund.",
       "english": "The cat runs in front of the dog.",
       "russian": "Кошка бежит перед собакой.",
       "farsi": "گربه جلوی سگ می‌دود."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Kind stellt das Spielzeug vor den Schrank.",
       "english": "The child puts the toy in front of the closet.",
       "russian": "Ребенок кладет игрушку перед шкафом.",
       "farsi": "کودک اسباب‌بازی را جلوی کمد می‌گذارد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich lege das Buch vor den Computer.",
       "english": "I put the book in front of the computer.",
       "russian": "Я кладу книгу перед компьютером.",
       "farsi": "من کتاب را جلوی کامپیوتر می‌گذارم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie stellt die Tasche vor das Regal.",
       "english": "She puts the bag in front of the shelf.",
       "russian": "Она ставит сумку перед полкой.",
       "farsi": "او کیف را جلوی قفسه می‌گذارد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Vogel fliegt vor das Fenster.",
       "english": "The bird flies in front of the window.",
       "russian": "Птица летит перед окном.",
       "farsi": "پرنده جلوی پنجره پرواز می‌کند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Hund läuft vor das Auto.",
       "english": "The dog runs in front of the car.",
       "russian": "Собака бежит перед машиной.",
       "farsi": "سگ جلوی ماشین می‌دود."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie legt die Vase vor den Spiegel.",
       "english": "She puts the vase in front of the mirror.",
       "russian": "Она кладет вазу перед зеркалом.",
       "farsi": "او گلدان را جلوی آینه می‌گذارد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er stellt sich vor die Lehrerin.",
       "english": "He stands in front of the teacher.",
       "russian": "Он становится перед учительницей.",
       "farsi": "او جلوی معلم می‌ایستد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Schüler stellt den Rucksack vor den Schreibtisch.",
       "english": "The student puts the backpack in front of the desk.",
       "russian": "Ученик кладет рюкзак перед письменным столом.",
       "farsi": "دانش‌آموز کوله‌پشتی را جلوی میز تحریر می‌گذارد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Bild hängt vor den Spiegel.",
       "english": "The picture hangs in front of the mirror.",
       "russian": "Картина висит перед зеркалом.",
       "farsi": "تصویر جلوی آینه آویزان است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Ball rollt vor das Tor.",
       "english": "The ball rolls in front of the gate.",
       "russian": "Мяч катится перед воротами.",
       "farsi": "توپ جلوی دروازه می‌غلتد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Auto steht vor dem Haus.",
       "english": "The car is in front of the house.",
       "russian": "Машина стоит перед домом.",
       "farsi": "ماشین جلوی خانه است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Die Zeitung liegt vor der Tür.",
       "english": "The newspaper is in front of the door.",
       "russian": "Газета лежит перед дверью.",
       "farsi": "روزنامه جلوی در است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir sitzen vor dem Fernseher.",
       "english": "We are sitting in front of the TV.",
       "russian": "Мы сидим перед телевизором.",
       "farsi": "ما جلوی تلویزیون نشسته‌ایم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Stuhl steht vor dem Fenster.",
       "english": "The chair is in front of the window.",
       "russian": "Стул стоит перед окном.",
       "farsi": "صندلی جلوی پنجره است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Die Katze liegt vor dem Hund.",
       "english": "The cat is lying in front of the dog.",
       "russian": "Кошка лежит перед собакой.",
       "farsi": "گربه جلوی سگ خوابیده است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Spielzeug liegt vor dem Schrank.",
       "english": "The toy is in front of the closet.",
       "russian": "Игрушка лежит перед шкафом.",
       "farsi": "اسباب‌بازی جلوی کمد است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Buch liegt vor dem Computer.",
       "english": "The book is in front of the computer.",
       "russian": "Книга лежит перед компьютером.",
       "farsi": "کتاب جلوی کامپیوتر است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Die Tasche steht vor dem Regal.",
       "english": "The bag is in front of the shelf.",
       "russian": "Сумка стоит перед полкой.",
       "farsi": "کیف جلوی قفسه است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Vogel sitzt vor dem Fenster.",
       "english": "The bird is sitting in front of the window.",
       "russian": "Птица сидит перед окном.",
       "farsi": "پرنده جلوی پنجره نشسته است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Hund steht vor dem Auto.",
       "english": "The dog is standing in front of the car.",
       "russian": "Собака стоит перед машиной.",
       "farsi": "سگ جلوی ماشین ایستاده است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Die Vase steht vor dem Spiegel.",
       "english": "The vase is in front of the mirror.",
       "russian": "Ваза стоит перед зеркалом.",
       "farsi": "گلدان جلوی آینه است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er steht vor der Lehrerin.",
       "english": "He is standing in front of the teacher.",
       "russian": "Он стоит перед учительницей.",
       "farsi": "او جلوی معلم ایستاده است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Rucksack steht vor dem Schreibtisch.",
       "english": "The backpack is in front of the desk.",
       "russian": "Рюкзак стоит перед письменным столом.",
       "farsi": "کوله‌پشتی جلوی میز تحریر است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Bild hängt vor dem Spiegel.",
       "english": "The picture is hanging in front of the mirror.",
       "russian": "Картина висит перед зеркалом.",
       "farsi": "تصویر جلوی آینه آویزان است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Ball liegt vor dem Tor.",
       "english": "The ball is in front of the gate.",
       "russian": "Мяч лежит перед воротами.",
       "farsi": "توپ جلوی دروازه است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie stellt die Vase vor den Spiegel.",
       "english": "She puts the vase in front of the mirror.",
       "russian": "Она ставит вазу перед зеркалом.",
       "farsi": "او گلدان را جلوی آینه می‌گذارد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er setzt sich vor die Tafel.",
       "english": "He sits in front of the board.",
       "russian": "Он садится перед доской.",
       "farsi": "او جلوی تخته می‌نشیند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Schüler stellt den Rucksack vor den Tisch.",
       "english": "The student puts the backpack in front of the table.",
       "russian": "Ученик кладет рюкзак перед столом.",
       "farsi": "دانش‌آموز کوله‌پشتی را جلوی میز می‌گذارد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Bild hängt vor das Fenster.",
       "english": "The picture hangs in front of the window.",
       "russian": "Картина висит перед окном.",
       "farsi": "تصویر جلوی پنجره آویزان است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Ball rollt vor den Zaun.",
       "english": "The ball rolls in front of the fence.",
       "russian": "Мяч катится перед забором.",
       "farsi": "توپ جلوی نرده می‌غلتد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Auto steht vor dem Haus.",
       "english": "The car is in front of the house.",
       "russian": "Машина стоит перед домом.",
       "farsi": "ماشین جلوی خانه است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Die Zeitung liegt vor der Tür.",
       "english": "The newspaper is in front of the door.",
       "russian": "Газета лежит перед дверью.",
       "farsi": "روزنامه جلوی در است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir sitzen vor dem Fernseher.",
       "english": "We are sitting in front of the TV.",
       "russian": "Мы сидим перед телевизором.",
       "farsi": "ما جلوی تلویزیون نشسته‌ایم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Stuhl steht vor dem Fenster.",
       "english": "The chair is in front of the window.",
       "russian": "Стул стоит перед окном.",
       "farsi": "صندلی جلوی پنجره است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Die Katze sitzt vor dem Hund.",
       "english": "The cat is sitting in front of the dog.",
       "russian": "Кошка сидит перед собакой.",
       "farsi": "گربه جلوی سگ نشسته است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Spielzeug liegt vor dem Schrank.",
       "english": "The toy is in front of the closet.",
       "russian": "Игрушка лежит перед шкафом.",
       "farsi": "اسباب‌بازی جلوی کمد است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Buch liegt vor dem Computer.",
       "english": "The book is in front of the computer.",
       "russian": "Книга лежит перед компьютером.",
       "farsi": "کتاب جلوی کامپیوتر است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Die Tasche steht vor dem Regal.",
       "english": "The bag is in front of the shelf.",
       "russian": "Сумка стоит перед полкой.",
       "farsi": "کیف جلوی قفسه است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Vogel sitzt vor dem Fenster.",
       "english": "The bird is sitting in front of the window.",
       "russian": "Птица сидит перед окном.",
       "farsi": "پرنده جلوی پنجره نشسته است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Hund steht vor dem Auto.",
       "english": "The dog is standing in front of the car.",
       "russian": "Собака стоит перед машиной.",
       "farsi": "سگ جلوی ماشین ایستاده است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Die Vase steht vor dem Spiegel.",
       "english": "The vase is in front of the mirror.",
       "russian": "Ваза стоит перед зеркалом.",
       "farsi": "گلدان جلوی آینه است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er sitzt vor der Tafel.",
       "english": "He is sitting in front of the board.",
       "russian": "Он сидит перед доской.",
       "farsi": "او جلوی تخته نشسته است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Rucksack liegt vor dem Tisch.",
       "english": "The backpack is in front of the table.",
       "russian": "Рюкзак лежит перед столом.",
       "farsi": "کوله‌پشتی جلوی میز است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Bild hängt vor dem Fenster.",
       "english": "The picture is hanging in front of the window.",
       "russian": "Картина висит перед окном.",
       "farsi": "تصویر جلوی پنجره آویزان است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Ball liegt vor dem Zaun.",
       "english": "The ball is in front of the fence.",
       "russian": "Мяч лежит перед забором.",
       "farsi": "توپ جلوی نرده است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich stelle das Fahrrad hinter das Haus.",
       "english": "I put the bike behind the house.",
       "russian": "Я ставлю велосипед за домом.",
       "farsi": "من دوچرخه را پشت خانه می‌گذارم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie legt die Tasche hinter den Stuhl.",
       "english": "She puts the bag behind the chair.",
       "russian": "Она кладет сумку за стул.",
       "farsi": "او کیف را پشت صندلی می‌گذارد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir parken das Auto hinter das Gebäude.",
       "english": "We park the car behind the building.",
       "russian": "Мы паркуем машину за зданием.",
       "farsi": "ما ماشین را پشت ساختمان پارک می‌کنیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er versteckt sich hinter den Baum.",
       "english": "He hides behind the tree.",
       "russian": "Он прячется за деревом.",
       "farsi": "او پشت درخت پنهان می‌شود."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Die Katze läuft hinter den Hund.",
       "english": "The cat runs behind the dog.",
       "russian": "Кошка бежит за собакой.",
       "farsi": "گربه پشت سگ می‌دود."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Kind stellt den Ball hinter den Schrank.",
       "english": "The child puts the ball behind the closet.",
       "russian": "Ребенок кладет мяч за шкаф.",
       "farsi": "کودک توپ را پشت کمد می‌گذارد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich lege das Buch hinter den Computer.",
       "english": "I put the book behind the computer.",
       "russian": "Я кладу книгу за компьютер.",
       "farsi": "من کتاب را پشت کامپیوتر می‌گذارم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie stellt den Koffer hinter das Bett.",
       "english": "She puts the suitcase behind the bed.",
       "russian": "Она ставит чемодан за кровать.",
       "farsi": "او چمدان را پشت تخت می‌گذارد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Hund rennt hinter das Auto.",
       "english": "The dog runs behind the car.",
       "russian": "Собака бежит за машиной.",
       "farsi": "سگ پشت ماشین می‌دود."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Vogel fliegt hinter das Fenster.",
       "english": "The bird flies behind the window.",
       "russian": "Птица летит за окном.",
       "farsi": "پرنده پشت پنجره پرواز می‌کند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie setzt sich hinter den Tisch.",
       "english": "She sits behind the table.",
       "russian": "Она садится за стол.",
       "farsi": "او پشت میز می‌نشیند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er stellt die Leiter hinter die Garage.",
       "english": "He puts the ladder behind the garage.",
       "russian": "Он ставит лестницу за гараж.",
       "farsi": "او نردبان را پشت گاراژ می‌گذارد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Schüler stellt den Rucksack hinter die Tür.",
       "english": "The student puts the backpack behind the door.",
       "russian": "Ученик кладет рюкзак за дверь.",
       "farsi": "دانش‌آموز کوله‌پشتی را پشت در می‌گذارد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Bild hängt hinter den Vorhang.",
       "english": "The picture hangs behind the curtain.",
       "russian": "Картина висит за занавесом.",
       "farsi": "تصویر پشت پرده آویزان است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Ball rollt hinter den Zaun.",
       "english": "The ball rolls behind the fence.",
       "russian": "Мяч катится за забор.",
       "farsi": "توپ پشت نرده می‌غلتد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Fahrrad steht hinter dem Haus.",
       "english": "The bike is behind the house.",
       "russian": "Велосипед стоит за домом.",
       "farsi": "دوچرخه پشت خانه است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Die Tasche liegt hinter dem Stuhl.",
       "english": "The bag is behind the chair.",
       "russian": "Сумка лежит за стулом.",
       "farsi": "کیف پشت صندلی است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Auto steht hinter dem Gebäude.",
       "english": "The car is behind the building.",
       "russian": "Машина стоит за зданием.",
       "farsi": "ماشین پشت ساختمان است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er versteckt sich hinter dem Baum.",
       "english": "He hides behind the tree.",
       "russian": "Он прячется за деревом.",
       "farsi": "او پشت درخت پنهان می‌شود."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Die Katze sitzt hinter dem Hund.",
       "english": "The cat is sitting behind the dog.",
       "russian": "Кошка сидит за собакой.",
       "farsi": "گربه پشت سگ نشسته است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Ball liegt hinter dem Schrank.",
       "english": "The ball is behind the closet.",
       "russian": "Мяч лежит за шкафом.",
       "farsi": "توپ پشت کمد است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Buch liegt hinter dem Computer.",
       "english": "The book is behind the computer.",
       "russian": "Книга лежит за компьютером.",
       "farsi": "کتاب پشت کامپیوتر است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Koffer steht hinter dem Bett.",
       "english": "The suitcase is behind the bed.",
       "russian": "Чемодан стоит за кроватью.",
       "farsi": "چمدان پشت تخت است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Hund sitzt hinter dem Auto.",
       "english": "The dog is sitting behind the car.",
       "russian": "Собака сидит за машиной.",
       "farsi": "سگ پشت ماشین نشسته است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Vogel sitzt hinter dem Fenster.",
       "english": "The bird is sitting behind the window.",
       "russian": "Птица сидит за окном.",
       "farsi": "پرنده پشت پنجره نشسته است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie sitzt hinter dem Tisch.",
       "english": "She is sitting behind the table.",
       "russian": "Она сидит за столом.",
       "farsi": "او پشت میز نشسته است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Die Leiter steht hinter der Garage.",
       "english": "The ladder is behind the garage.",
       "russian": "Лестница стоит за гаражом.",
       "farsi": "نردبان پشت گاراژ است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Rucksack liegt hinter der Tür.",
       "english": "The backpack is behind the door.",
       "russian": "Рюкзак лежит за дверью.",
       "farsi": "کوله‌پشتی پشت در است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Bild hängt hinter dem Vorhang.",
       "english": "The picture is hanging behind the curtain.",
       "russian": "Картина висит за занавесом.",
       "farsi": "تصویر پشت پرده آویزان است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Ball liegt hinter dem Zaun.",
       "english": "The ball is behind the fence.",
       "russian": "Мяч лежит за забором.",
       "farsi": "توپ پشت نرده است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich stelle den Tisch zwischen die Stühle.",
       "english": "I put the table between the chairs.",
       "russian": "Я ставлю стол между стульями.",
       "farsi": "من میز را بین صندلی‌ها می‌گذارم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie legt das Buch zwischen die Kissen.",
       "english": "She puts the book between the pillows.",
       "russian": "Она кладет книгу между подушками.",
       "farsi": "او کتاب را بین بالش‌ها می‌گذارد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir setzen uns zwischen die Bäume.",
       "english": "We sit between the trees.",
       "russian": "Мы садимся между деревьями.",
       "farsi": "ما بین درختان می‌نشینیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er stellt den Stuhl zwischen den Tisch und die Wand.",
       "english": "He puts the chair between the table and the wall.",
       "russian": "Он ставит стул между столом и стеной.",
       "farsi": "او صندلی را بین میز و دیوار می‌گذارد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Die Katze läuft zwischen die Autos.",
       "english": "The cat runs between the cars.",
       "russian": "Кошка бегает между машинами.",
       "farsi": "گربه بین ماشین‌ها می‌دود."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Kind legt das Spielzeug zwischen die Bücher.",
       "english": "The child puts the toy between the books.",
       "russian": "Ребенок кладет игрушку между книгами.",
       "farsi": "کودک اسباب‌بازی را بین کتاب‌ها می‌گذارد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich lege den Schlüssel zwischen die Dokumente.",
       "english": "I put the key between the documents.",
       "russian": "Я кладу ключ между документами.",
       "farsi": "من کلید را بین اسناد می‌گذارم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie stellt die Vase zwischen die Kerzen.",
       "english": "She puts the vase between the candles.",
       "russian": "Она ставит вазу между свечами.",
       "farsi": "او گلدان را بین شمع‌ها می‌گذارد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Vogel fliegt zwischen die Äste.",
       "english": "The bird flies between the branches.",
       "russian": "Птица летит между ветками.",
       "farsi": "پرنده بین شاخه‌ها پرواز می‌کند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Hund läuft zwischen die Menschen.",
       "english": "The dog runs between the people.",
       "russian": "Собака бегает между людьми.",
       "farsi": "سگ بین مردم می‌دود."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie stellt die Lampe zwischen das Sofa und den Sessel.",
       "english": "She puts the lamp between the sofa and the armchair.",
       "russian": "Она ставит лампу между диваном и креслом.",
       "farsi": "او لامپ را بین کاناپه و صندلی می‌گذارد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er setzt sich zwischen die Kollegen.",
       "english": "He sits between the colleagues.",
       "russian": "Он садится между коллегами.",
       "farsi": "او بین همکاران می‌نشیند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Schüler legt das Heft zwischen die Bücher.",
       "english": "The student puts the notebook between the books.",
       "russian": "Ученик кладет тетрадь между книгами.",
       "farsi": "دانش‌آموز دفتر را بین کتاب‌ها می‌گذارد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Bild hängt zwischen die Fenster.",
       "english": "The picture hangs between the windows.",
       "russian": "Картина висит между окнами.",
       "farsi": "تصویر بین پنجره‌ها آویزان است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Ball rollt zwischen die Füße.",
       "english": "The ball rolls between the feet.",
       "russian": "Мяч катится между ногами.",
       "farsi": "توپ بین پاها می‌غلتد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Tisch steht zwischen den Stühlen.",
       "english": "The table stands between the chairs.",
       "russian": "Стол стоит между стульями.",
       "farsi": "میز بین صندلی‌ها است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Buch liegt zwischen den Kissen.",
       "english": "The book lies between the pillows.",
       "russian": "Книга лежит между подушками.",
       "farsi": "کتاب بین بالش‌ها است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir sitzen zwischen den Bäumen.",
       "english": "We are sitting between the trees.",
       "russian": "Мы сидим между деревьями.",
       "farsi": "ما بین درختان نشسته‌ایم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Stuhl steht zwischen dem Tisch und der Wand.",
       "english": "The chair stands between the table and the wall.",
       "russian": "Стул стоит между столом и стеной.",
       "farsi": "صندلی بین میز و دیوار است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Die Katze sitzt zwischen den Autos.",
       "english": "The cat sits between the cars.",
       "russian": "Кошка сидит между машинами.",
       "farsi": "گربه بین ماشین‌ها نشسته است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Spielzeug liegt zwischen den Büchern.",
       "english": "The toy lies between the books.",
       "russian": "Игрушка лежит между книгами.",
       "farsi": "اسباب‌بازی بین کتاب‌ها است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Schlüssel liegt zwischen den Dokumenten.",
       "english": "The key lies between the documents.",
       "russian": "Ключ лежит между документами.",
       "farsi": "کلید بین اسناد است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Die Vase steht zwischen den Kerzen.",
       "english": "The vase stands between the candles.",
       "russian": "Ваза стоит между свечами.",
       "farsi": "گلدان بین شمع‌ها است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Vogel sitzt zwischen den Ästen.",
       "english": "The bird sits between the branches.",
       "russian": "Птица сидит между ветками.",
       "farsi": "پرنده بین شاخه‌ها نشسته است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Hund sitzt zwischen den Menschen.",
       "english": "The dog sits between the people.",
       "russian": "Собака сидит между людьми.",
       "farsi": "سگ بین مردم نشسته است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Die Lampe steht zwischen dem Sofa und dem Sessel.",
       "english": "The lamp stands between the sofa and the armchair.",
       "russian": "Лампа стоит между диваном и креслом.",
       "farsi": "لامپ بین کاناپه و صندلی است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er sitzt zwischen den Kollegen.",
       "english": "He sits between the colleagues.",
       "russian": "Он сидит между коллегами.",
       "farsi": "او بین همکاران می‌نشیند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Heft liegt zwischen den Büchern.",
       "english": "The notebook lies between the books.",
       "russian": "Тетрадь лежит между книгами.",
       "farsi": "دفتر بین کتاب‌ها است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Bild hängt zwischen den Fenstern.",
       "english": "The picture hangs between the windows.",
       "russian": "Картина висит между окнами.",
       "farsi": "تصویر بین پنجره‌ها آویزان است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Ball liegt zwischen den Füßen.",
       "english": "The ball lies between the feet.",
       "russian": "Мяч лежит между ногами.",
       "farsi": "توپ بین پاها است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich hänge die Lampe über den Tisch.",
       "english": "I hang the lamp above the table.",
       "russian": "Я вешаю лампу над столом.",
       "farsi": "من لامپ را بالای میز آویزان می‌کنم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie legt das Buch über den Computer.",
       "english": "She puts the book above the computer.",
       "russian": "Она кладет книгу над компьютером.",
       "farsi": "او کتاب را بالای کامپیوتر می‌گذارد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir setzen das Bild über das Sofa.",
       "english": "We place the picture above the sofa.",
       "russian": "Мы вешаем картину над диваном.",
       "farsi": "ما تصویر را بالای کاناپه قرار می‌دهیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er hängt die Uhr über die Tür.",
       "english": "He hangs the clock above the door.",
       "russian": "Он вешает часы над дверью.",
       "farsi": "او ساعت را بالای در آویزان می‌کند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Die Katze springt über den Zaun.",
       "english": "The cat jumps over the fence.",
       "russian": "Кошка прыгает через забор.",
       "farsi": "گربه از روی نرده می‌پرد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Kind wirft den Ball über die Mauer.",
       "english": "The child throws the ball over the wall.",
       "russian": "Ребенок бросает мяч через стену.",
       "farsi": "کودک توپ را از روی دیوار پرتاب می‌کند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich lege den Teppich über den Boden.",
       "english": "I lay the carpet over the floor.",
       "russian": "Я кладу ковер на пол.",
       "farsi": "من فرش را روی زمین پهن می‌کنم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie stellt die Vase über den Kamin.",
       "english": "She puts the vase above the fireplace.",
       "russian": "Она ставит вазу над камином.",
       "farsi": "او گلدان را بالای شومینه می‌گذارد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Vogel fliegt über das Haus.",
       "english": "The bird flies over the house.",
       "russian": "Птица летит над домом.",
       "farsi": "پرنده از بالای خانه پرواز می‌کند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Hund springt über das Hindernis.",
       "english": "The dog jumps over the obstacle.",
       "russian": "Собака прыгает через препятствие.",
       "farsi": "سگ از روی مانع می‌پرد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie hängt den Spiegel über das Waschbecken.",
       "english": "She hangs the mirror above the sink.",
       "russian": "Она вешает зеркало над раковиной.",
       "farsi": "او آینه را بالای سینک آویزان می‌کند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er setzt die Decke über die Couch.",
       "english": "He puts the blanket over the couch.",
       "russian": "Он кладет одеяло на диван.",
       "farsi": "او پتو را روی کاناپه قرار می‌دهد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Schüler legt das Heft über den Stapel Bücher.",
       "english": "The student puts the notebook on top of the stack of books.",
       "russian": "Ученик кладет тетрадь на стопку книг.",
       "farsi": "دانش‌آموز دفتر را روی دسته کتاب‌ها می‌گذارد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Bild hängt über das Fenster.",
       "english": "The picture hangs above the window.",
       "russian": "Картина висит над окном.",
       "farsi": "تصویر بالای پنجره آویزان است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Ball fliegt über das Netz.",
       "english": "The ball flies over the net.",
       "russian": "Мяч летит над сеткой.",
       "farsi": "توپ از بالای تور می‌پرد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Die Lampe hängt über dem Tisch.",
       "english": "The lamp hangs above the table.",
       "russian": "Лампа висит над столом.",
       "farsi": "لامپ بالای میز آویزان است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Buch liegt über dem Computer.",
       "english": "The book lies on top of the computer.",
       "russian": "Книга лежит на компьютере.",
       "farsi": "کتاب روی کامپیوتر است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Bild hängt über dem Sofa.",
       "english": "The picture hangs above the sofa.",
       "russian": "Картина висит над диваном.",
       "farsi": "تصویر بالای کاناپه آویزان است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Die Uhr hängt über der Tür.",
       "english": "The clock hangs above the door.",
       "russian": "Часы висят над дверью.",
       "farsi": "ساعت بالای در آویزان است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Die Katze sitzt über dem Zaun.",
       "english": "The cat sits above the fence.",
       "russian": "Кошка сидит над забором.",
       "farsi": "گربه بالای نرده نشسته است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Ball liegt über der Mauer.",
       "english": "The ball lies on top of the wall.",
       "russian": "Мяч лежит на стене.",
       "farsi": "توپ بالای دیوار است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Teppich liegt über dem Boden.",
       "english": "The carpet lies over the floor.",
       "russian": "Ковер лежит на полу.",
       "farsi": "فرش روی زمین پهن است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Die Vase steht über dem Kamin.",
       "english": "The vase stands above the fireplace.",
       "russian": "Ваза стоит над камином.",
       "farsi": "گلدان بالای شومینه است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Vogel fliegt über dem Haus.",
       "english": "The bird flies above the house.",
       "russian": "Птица летит над домом.",
       "farsi": "پرنده بالای خانه پرواز می‌کند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Hund sitzt über dem Hindernis.",
       "english": "The dog sits above the obstacle.",
       "russian": "Собака сидит над препятствием.",
       "farsi": "سگ بالای مانع نشسته است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Spiegel hängt über dem Waschbecken.",
       "english": "The mirror hangs above the sink.",
       "russian": "Зеркало висит над раковиной.",
       "farsi": "آینه بالای سینک آویزان است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Die Decke liegt über der Couch.",
       "english": "The blanket lies over the couch.",
       "russian": "Одеяло лежит на диване.",
       "farsi": "پتو روی کاناپه است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Heft liegt über dem Stapel Bücher.",
       "english": "The notebook lies on top of the stack of books.",
       "russian": "Тетрадь лежит на стопке книг.",
       "farsi": "دفتر روی دسته کتاب‌ها است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Bild hängt über dem Fenster.",
       "english": "The picture hangs above the window.",
       "russian": "Картина висит над окном.",
       "farsi": "تصویر بالای پنجره آویزان است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Ball liegt über dem Netz.",
       "english": "The ball lies on top of the net.",
       "russian": "Мяч лежит на сетке.",
       "farsi": "توپ بالای تور است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich lege das Buch unter den Tisch.",
       "english": "I put the book under the table.",
       "russian": "Я кладу книгу под стол.",
       "farsi": "من کتاب را زیر میز می‌گذارم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie stellt die Schuhe unter das Bett.",
       "english": "She puts the shoes under the bed.",
       "russian": "Она ставит обувь под кровать.",
       "farsi": "او کفش‌ها را زیر تخت می‌گذارد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir setzen uns unter den Baum.",
       "english": "We sit under the tree.",
       "russian": "Мы садимся под деревом.",
       "farsi": "ما زیر درخت می‌نشینیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er legt die Decke unter den Stuhl.",
       "english": "He puts the blanket under the chair.",
       "russian": "Он кладет одеяло под стул.",
       "farsi": "او پتو را زیر صندلی می‌گذارد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Die Katze läuft unter den Tisch.",
       "english": "The cat runs under the table.",
       "russian": "Кошка бегает под столом.",
       "farsi": "گربه زیر میز می‌دود."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Kind versteckt sich unter das Bett.",
       "english": "The child hides under the bed.",
       "russian": "Ребенок прячется под кровать.",
       "farsi": "کودک زیر تخت پنهان می‌شود."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich schiebe den Koffer unter die Treppe.",
       "english": "I push the suitcase under the stairs.",
       "russian": "Я толкаю чемодан под лестницу.",
       "farsi": "من چمدان را زیر پله‌ها هل می‌دهم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie legt die Tasche unter den Schreibtisch.",
       "english": "She puts the bag under the desk.",
       "russian": "Она кладет сумку под стол.",
       "farsi": "او کیف را زیر میز می‌گذارد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Hund kriecht unter das Auto.",
       "english": "The dog crawls under the car.",
       "russian": "Собака ползет под машину.",
       "farsi": "سگ زیر ماشین می‌خزد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Vogel fliegt unter das Dach.",
       "english": "The bird flies under the roof.",
       "russian": "Птица летит под крышу.",
       "farsi": "پرنده زیر سقف پرواز می‌کند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er legt den Teppich unter den Tisch.",
       "english": "He puts the carpet under the table.",
       "russian": "Он кладет ковер под стол.",
       "farsi": "او فرش را زیر میز پهن می‌کند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie stellt den Korb unter das Regal.",
       "english": "She puts the basket under the shelf.",
       "russian": "Она ставит корзину под полку.",
       "farsi": "او سبد را زیر قفسه می‌گذارد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Schüler schiebt den Stuhl unter den Tisch.",
       "english": "The student pushes the chair under the table.",
       "russian": "Ученик толкает стул под стол.",
       "farsi": "دانش‌آموز صندلی را زیر میز هل می‌دهد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Bild hängt unter die Lampe.",
       "english": "The picture hangs under the lamp.",
       "russian": "Картина висит под лампой.",
       "farsi": "تصویر زیر لامپ آویزان است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Ball rollt unter das Sofa.",
       "english": "The ball rolls under the sofa.",
       "russian": "Мяч катится под диван.",
       "farsi": "توپ زیر کاناپه می‌غلتد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Buch liegt unter dem Tisch.",
       "english": "The book lies under the table.",
       "russian": "Книга лежит под столом.",
       "farsi": "کتاب زیر میز است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Die Schuhe stehen unter dem Bett.",
       "english": "The shoes are under the bed.",
       "russian": "Обувь стоит под кроватью.",
       "farsi": "کفش‌ها زیر تخت هستند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir sitzen unter dem Baum.",
       "english": "We are sitting under the tree.",
       "russian": "Мы сидим под деревом.",
       "farsi": "ما زیر درخت نشسته‌ایم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Die Decke liegt unter dem Stuhl.",
       "english": "The blanket lies under the chair.",
       "russian": "Одеяло лежит под стулом.",
       "farsi": "پتو زیر صندلی است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Die Katze sitzt unter dem Tisch.",
       "english": "The cat sits under the table.",
       "russian": "Кошка сидит под столом.",
       "farsi": "گربه زیر میز نشسته است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Kind versteckt sich unter dem Bett.",
       "english": "The child hides under the bed.",
       "russian": "Ребенок прячется под кроватью.",
       "farsi": "کودک زیر تخت پنهان شده است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Koffer liegt unter der Treppe.",
       "english": "The suitcase lies under the stairs.",
       "russian": "Чемодан лежит под лестницей.",
       "farsi": "چمدان زیر پله‌ها است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Die Tasche steht unter dem Schreibtisch.",
       "english": "The bag stands under the desk.",
       "russian": "Сумка стоит под столом.",
       "farsi": "کیف زیر میز است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Hund liegt unter dem Auto.",
       "english": "The dog lies under the car.",
       "russian": "Собака лежит под машиной.",
       "farsi": "سگ زیر ماشین دراز کشیده است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Vogel sitzt unter dem Dach.",
       "english": "The bird sits under the roof.",
       "russian": "Птица сидит под крышей.",
       "farsi": "پرنده زیر سقف نشسته است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Teppich liegt unter dem Tisch.",
       "english": "The carpet lies under the table.",
       "russian": "Ковер лежит под столом.",
       "farsi": "فرش زیر میز پهن است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Korb steht unter dem Regal.",
       "english": "The basket stands under the shelf.",
       "russian": "Корзина стоит под полкой.",
       "farsi": "سبد زیر قفسه است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Stuhl steht unter dem Tisch.",
       "english": "The chair stands under the table.",
       "russian": "Стул стоит под столом.",
       "farsi": "صندلی زیر میز است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Bild hängt unter der Lampe.",
       "english": "The picture hangs under the lamp.",
       "russian": "Картина висит под лампой.",
       "farsi": "تصویر زیر لامپ آویزان است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Ball liegt unter dem Sofa.",
       "english": "The ball lies under the sofa.",
       "russian": "Мяч лежит под диваном.",
       "farsi": "توپ زیر کاناپه است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich gehe in den Park.",
       "english": "I go to the park.",
       "russian": "Я иду в парк.",
       "farsi": "من به پارک می‌روم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie legt das Buch in die Tasche.",
       "english": "She puts the book in the bag.",
       "russian": "Она кладет книгу в сумку.",
       "farsi": "او کتاب را در کیف می‌گذارد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir setzen uns in das Café.",
       "english": "We sit in the café.",
       "russian": "Мы садимся в кафе.",
       "farsi": "ما در کافه می‌نشینیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er stellt den Stuhl in den Raum.",
       "english": "He puts the chair in the room.",
       "russian": "Он ставит стул в комнату.",
       "farsi": "او صندلی را در اتاق قرار می‌دهد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Die Katze läuft in das Haus.",
       "english": "The cat runs into the house.",
       "russian": "Кошка бегает в дом.",
       "farsi": "گربه به داخل خانه می‌دود."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Kind geht in die Schule.",
       "english": "The child goes to school.",
       "russian": "Ребенок идет в школу.",
       "farsi": "کودک به مدرسه می‌رود."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich lege die Kleidung in den Schrank.",
       "english": "I put the clothes in the wardrobe.",
       "russian": "Я кладу одежду в шкаф.",
       "farsi": "من لباس‌ها را در کمد می‌گذارم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie stellt die Vase in das Regal.",
       "english": "She puts the vase in the shelf.",
       "russian": "Она ставит вазу на полку.",
       "farsi": "او گلدان را در قفسه قرار می‌دهد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Vogel fliegt in das Zimmer.",
       "english": "The bird flies into the room.",
       "russian": "Птица летит в комнату.",
       "farsi": "پرنده به داخل اتاق پرواز می‌کند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Hund läuft in den Garten.",
       "english": "The dog runs into the garden.",
       "russian": "Собака бежит в сад.",
       "farsi": "سگ به داخل باغ می‌دود."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er legt den Teppich in das Wohnzimmer.",
       "english": "He puts the carpet in the living room.",
       "russian": "Он кладет ковер в гостиную.",
       "farsi": "او فرش را در اتاق نشیمن می‌گذارد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie stellt den Korb in die Küche.",
       "english": "She puts the basket in the kitchen.",
       "russian": "Она ставит корзину на кухню.",
       "farsi": "او سبد را در آشپزخانه می‌گذارد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Schüler geht in die Bibliothek.",
       "english": "The student goes to the library.",
       "russian": "Ученик идет в библиотеку.",
       "farsi": "دانش‌آموز به کتابخانه می‌رود."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Bild hängt in den Flur.",
       "english": "The picture hangs in the hallway.",
       "russian": "Картина висит в коридоре.",
       "farsi": "تصویر در راهرو آویزان است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Ball rollt in die Ecke.",
       "english": "The ball rolls into the corner.",
       "russian": "Мяч катится в угол.",
       "farsi": "توپ به گوشه می‌غلتد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich bin im Park.",
       "english": "I am in the park.",
       "russian": "Я в парке.",
       "farsi": "من در پارک هستم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Buch liegt in der Tasche.",
       "english": "The book is in the bag.",
       "russian": "Книга лежит в сумке.",
       "farsi": "کتاب در کیف است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir sitzen im Café.",
       "english": "We are sitting in the café.",
       "russian": "Мы сидим в кафе.",
       "farsi": "ما در کافه نشسته‌ایم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Stuhl steht im Raum.",
       "english": "The chair is in the room.",
       "russian": "Стул стоит в комнате.",
       "farsi": "صندلی در اتاق است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Die Katze ist im Haus.",
       "english": "The cat is in the house.",
       "russian": "Кошка в доме.",
       "farsi": "گربه در خانه است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Kind ist in der Schule.",
       "english": "The child is at school.",
       "russian": "Ребенок в школе.",
       "farsi": "کودک در مدرسه است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Die Kleidung liegt im Schrank.",
       "english": "The clothes are in the wardrobe.",
       "russian": "Одежда лежит в шкафу.",
       "farsi": "لباس‌ها در کمد هستند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Die Vase steht im Regal.",
       "english": "The vase is on the shelf.",
       "russian": "Ваза стоит на полке.",
       "farsi": "گلدان در قفسه است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Vogel ist im Zimmer.",
       "english": "The bird is in the room.",
       "russian": "Птица в комнате.",
       "farsi": "پرنده در اتاق است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Hund ist im Garten.",
       "english": "The dog is in the garden.",
       "russian": "Собака в саду.",
       "farsi": "سگ در باغ است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Teppich liegt im Wohnzimmer.",
       "english": "The carpet is in the living room.",
       "russian": "Ковер лежит в гостиной.",
       "farsi": "فرش در اتاق نشیمن است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Korb steht in der Küche.",
       "english": "The basket is in the kitchen.",
       "russian": "Корзина стоит на кухне.",
       "farsi": "سبد در آشپزخانه است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Schüler ist in der Bibliothek.",
       "english": "The student is in the library.",
       "russian": "Ученик в библиотеке.",
       "farsi": "دانش‌آموز در کتابخانه است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Das Bild hängt im Flur.",
       "english": "The picture hangs in the hallway.",
       "russian": "Картина висит в коридоре.",
       "farsi": "تصویر در راهرو آویزان است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Der Ball liegt in der Ecke.",
       "english": "The ball is in the corner.",
       "russian": "Мяч лежит в углу.",

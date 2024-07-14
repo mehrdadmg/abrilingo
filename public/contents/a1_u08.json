@@ -6,462 +6,462 @@
 
   "content": [
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Praxis Dr. Ortac, Karimi am Apparat, guten Tag.",
       "english": "Dr. Ortac's practice, Karimi speaking, good day.",
       "russian": "Практика доктора Ортака, Карими у телефона, добрый день.",
       "farsi": "مطب دکتر اورتاک، کاریمی صحبت می‌کند، روز بخیر."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Guten Tag. Ich möchte einen Termin für nächste Woche.",
       "english": "Good day. I would like to make an appointment for next week.",
       "russian": "Добрый день. Я хотел бы записаться на прием на следующую неделю.",
       "farsi": "روز بخیر. من می‌خواهم برای هفته آینده وقت بگیرم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Guten Tag, mein Name ist Hristov. Ich hätte gerne einen Termin.",
       "english": "Good day, my name is Hristov. I would like an appointment.",
       "russian": "Добрый день, меня зовут Христов. Я хотел бы записаться на прием.",
       "farsi": "روز بخیر، نام من هریستوف است. من یک وقت می‌خواهم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ja, können Sie am Dienstag kommen? So um 15 Uhr?",
       "english": "Yes, can you come on Tuesday? Around 3 PM?",
       "russian": "Да, вы можете прийти во вторник? Около 15 часов?",
       "farsi": "بله، می‌توانید روز سه‌شنبه بیایید؟ حدود ساعت 3 بعد از ظهر؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "15 Uhr? Ja, das geht.",
       "english": "3 PM? Yes, that works.",
       "russian": "15 часов? Да, это подходит.",
       "farsi": "ساعت 3؟ بله، مشکلی نیست."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ja, ich habe einen Termin am nächsten Montag um neun Uhr.",
       "english": "Yes, I have an appointment next Monday at 9 AM.",
       "russian": "Да, у меня есть прием в следующий понедельник в девять часов утра.",
       "farsi": "بله، من یک وقت برای دوشنبه آینده ساعت 9 صبح دارم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Nein, ich brauche schnell einen Termin. Ich bin sehr krank.",
       "english": "No, I need an appointment quickly. I am very sick.",
       "russian": "Нет, мне срочно нужен прием. Я очень болен.",
       "farsi": "نه، من به یک وقت فوری نیاز دارم. من خیلی بیمارم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ach so, dann können Sie doch morgen, also am Donnerstagvormittag, um 11 Uhr.",
       "english": "Oh, then you can come tomorrow, Thursday morning, at 11 AM.",
       "russian": "Ах так, тогда вы можете прийти завтра, в четверг утром, в 11 часов.",
       "farsi": "آه، پس می‌توانید فردا صبح، یعنی پنجشنبه، ساعت 11 بیایید."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Aber Sie müssen ein bisschen Zeit mitbringen.",
       "english": "But you need to have some time.",
       "russian": "Но вам нужно будет подождать.",
       "farsi": "اما باید کمی وقت بگذارید."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sagen Sie bitte noch einmal Ihren Namen.",
       "english": "Please tell me your name again.",
       "russian": "Пожалуйста, еще раз назовите ваше имя.",
       "farsi": "لطفاً دوباره نام خود را بگویید."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Dann sagen Sie bitte noch einmal Ihren Namen.",
       "english": "Then please tell me your name again.",
       "russian": "Тогда, пожалуйста, еще раз назовите ваше имя.",
       "farsi": "پس لطفاً دوباره نام خود را بگویید."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Gut, Frau Bas, am Dienstag um 15 Uhr. Auf Wiederhören.",
       "english": "Good, Mrs. Bas, on Tuesday at 3 PM. Goodbye.",
       "russian": "Хорошо, миссис Бас, во вторник в 15 часов. До свидания.",
       "farsi": "خوب، خانم باس، روز سه‌شنبه ساعت 3 بعد از ظهر. خداحافظ."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Gut, Herr Hristov, am Donnerstag um 11 Uhr. Auf Wiederhören.",
       "english": "Good, Mr. Hristov, on Thursday at 11 AM. Goodbye.",
       "russian": "Хорошо, мистер Христов, в четверг в 11 часов. До свидания.",
       "farsi": "خوب، آقای هریستوف، روز پنجشنبه ساعت 11. خداحافظ."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Lena, was ist los? Du musst aufstehen. Es ist sieben Uhr.",
       "english": "Lena, what's wrong? You need to get up. It's seven o'clock.",
       "russian": "Лена, что случилось? Ты должна вставать. Уже семь часов.",
       "farsi": "لنا، چه شده؟ تو باید بلند شوی. ساعت هفت است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Mein Kopf tut weh, Mama.",
       "english": "My head hurts, mom.",
       "russian": "У меня болит голова, мама.",
       "farsi": "سرم درد می‌کند، مامان."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Mmhh, dein Kopf ist ganz heiß.",
       "english": "Mmm, your head is very hot.",
       "russian": "Ммм, твоя голова очень горячая.",
       "farsi": "م م م، سرت خیلی داغ است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Du bleibst heute zu Hause.",
       "english": "You stay home today.",
       "russian": "Сегодня останешься дома.",
       "farsi": "امروز در خانه بمان."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich hole das Fieberthermometer, dann messen wir erst mal Fieber ... Hier, nimm es in den Mund.",
       "english": "I'll get the thermometer, let's check your temperature first ... Here, put it in your mouth.",
       "russian": "Я принесу термометр, давай сначала измерим температуру ... Вот, положи его в рот.",
       "farsi": "من دماسنج را می‌آورم، ابتدا تب را اندازه می‌گیریم ... اینجا، بگذار در دهانت."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Was hat Lena?",
       "english": "What's wrong with Lena?",
       "russian": "Что с Леной?",
       "farsi": "لنا چه شده؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie ist krank, Alexis. Vielleicht ist es Scharlach. Viele Kinder haben im Moment Scharlach.",
       "english": "She's sick, Alexis. Maybe it's scarlet fever. Many children have scarlet fever at the moment.",
       "russian": "Она больна, Алексис. Возможно, это скарлатина. Много детей сейчас болеют скарлатиной.",
       "farsi": "او بیمار است، آلکسیس. شاید مخملک باشد. بسیاری از کودکان در حال حاضر مخملک دارند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich schreibe eine Entschuldigung und du nimmst sie mit und gibst sie dem Klassenlehrer.",
       "english": "I'll write a note, and you take it with you and give it to the teacher.",
       "russian": "Я напишу записку, и ты возьмешь ее с собой и отдашь учителю.",
       "farsi": "من یک یادداشت می‌نویسم و تو آن را با خودت می‌بری و به معلم می‌دهی."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Okay, ich gebe sie Herrn Nolte. Gute Besserung, Schwesterchen.",
       "english": "Okay, I'll give it to Mr. Nolte. Get well soon, sis.",
       "russian": "Хорошо, я передам ее господину Нольте. Поправляйся, сестренка.",
       "farsi": "خوب، من آن را به آقای نولته می‌دهم. بهبود یاب، خواهر کوچولو."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Und jetzt Lena, zeig mal ... Oh ja, du hast Fieber, 39,2.",
       "english": "And now, Lena, show me ... Oh yes, you have a fever, 39.2.",
       "russian": "А теперь, Лена, покажи ... О да, у тебя температура 39,2.",
       "farsi": "و حالا لنا، نشان بده ... اوه بله، تو تب داری، 39.2."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir gehen nachher zum Arzt.",
       "english": "We will go to the doctor later.",
       "russian": "Мы пойдем к врачу позже.",
       "farsi": "ما بعداً به دکتر می‌رویم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich mache jetzt erst mal einen Tee.",
       "english": "I'll make some tea now.",
       "russian": "Сейчас я сначала сделаю чай.",
       "farsi": "الان یک چای درست می‌کنم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Möchtest du noch etwas, mein Schatz?",
       "english": "Do you want anything else, dear?",
       "russian": "Ты хочешь что-нибудь еще, дорогая?",
       "farsi": "چیزی دیگری می‌خواهی، عزیزم؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ja, meinen MP3-Player.",
       "english": "Yes, my MP3 player.",
       "russian": "Да, мой MP3-плеер.",
       "farsi": "بله، MP3 پلیرم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich hole ihn dir, dann kannst du ein bisschen Musik hören und ich schreibe die Entschuldigung und rufe beim Arzt an.",
       "english": "I'll get it for you, then you can listen to some music, and I'll write the note and call the doctor.",
       "russian": "Я принесу его тебе, потом ты сможешь послушать музыку, а я напишу записку и позвоню врачу.",
       "farsi": "من آن را برایت می‌آورم، سپس می‌توانی کمی موسیقی گوش دهی و من یادداشت را می‌نویسم و به دکتر زنگ می‌زنم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Mein Name ist Petrow. Es gibt hier einen Unfall.",
       "english": "My name is Petrov. There is an accident here.",
       "russian": "Меня зовут Петров. Здесь произошел несчастный случай.",
       "farsi": "نام من پترو است. اینجا یک حادثه رخ داده."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wo sind Sie?",
       "english": "Where are you?",
       "russian": "Где вы?",
       "farsi": "کجا هستید؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich bin in der Bahnhofstraße, Ecke Schillerstraße.",
       "english": "I'm at the corner of Bahnhofstraße and Schillerstraße.",
       "russian": "Я на углу Банхофштрассе и Шиллерштрассе.",
       "farsi": "من در گوشه خیابان بانهوف و شیلر هستم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wie viele Personen sind verletzt?",
       "english": "How many people are injured?",
       "russian": "Сколько человек пострадало?",
       "farsi": "چند نفر زخمی شده‌اند؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich glaube, drei Personen: zwei Frauen und ein Kind.",
       "english": "I think three people: two women and a child.",
       "russian": "Я думаю, три человека: две женщины и ребенок.",
       "farsi": "فکر می‌کنم سه نفر: دو زن و یک کودک."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wie sind die Personen verletzt?",
       "english": "How are the people injured?",
       "russian": "Как пострадали люди?",
       "farsi": "افراد چگونه زخمی شده‌اند؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Entschuldigung, ich spreche nicht gut Deutsch. Ich kann es nicht erklären.",
       "english": "Sorry, I don't speak German well. I can't explain.",
       "russian": "Извините, я плохо говорю по-немецки. Я не могу объяснить.",
       "farsi": "ببخشید، من خوب آلمانی صحبت نمی‌کنم. نمی‌توانم توضیح دهم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Bitte kommen Sie schnell, es ist dringend.",
       "english": "Please come quickly, it's urgent.",
       "russian": "Пожалуйста, приходите быстро, это срочно.",
       "farsi": "لطفاً سریع بیایید، این اضطراری است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich schicke einen Notarzt. Er kommt in wenigen Minuten.",
       "english": "I will send an emergency doctor. He will be there in a few minutes.",
       "russian": "Я отправлю врача скорой помощи. Он будет там через несколько минут.",
       "farsi": "من یک دکتر اورژانس می‌فرستم. او در چند دقیقه خواهد آمد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Bitte legen Sie nicht auf. Sagen Sie mir noch einmal Ihren Namen. Und der Vorname?",
       "english": "Please don't hang up. Tell me your name again. And the first name?",
       "russian": "Пожалуйста, не вешайте трубку. Скажите ваше имя еще раз. И имя?",
       "farsi": "لطفاً قطع نکنید. دوباره نام خود را بگویید. و نام کوچک؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Hallo, ich heiße Victor Hill.",
       "english": "Hello, my name is Victor Hill.",
       "russian": "Здравствуйте, меня зовут Виктор Хилл.",
       "farsi": "سلام، نام من ویکتور هیل است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Es brennt hier bei uns im Haus.",
       "english": "There is a fire in our house.",
       "russian": "В нашем доме пожар.",
       "farsi": "در خانه ما آتش‌سوزی شده."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wo sind Sie?",
       "english": "Where are you?",
       "russian": "Где вы?",
       "farsi": "کجا هستید؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich bin in der Bergstraße. Das Feuer ist im zweiten Stock von Haus Nummer 15.",
       "english": "I'm on Bergstraße. The fire is on the second floor of house number 15.",
       "russian": "Я на Бергштрассе. Пожар на втором этаже дома номер 15.",
       "farsi": "من در خیابان برگ هستم. آتش‌سوزی در طبقه دوم خانه شماره 15 است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ist jemand im Haus?",
       "english": "Is anyone in the house?",
       "russian": "Кто-нибудь в доме?",
       "farsi": "کسی در خانه است؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Nein, zum Glück sind alle Hausbewohner schon auf der Straße.",
       "english": "No, fortunately, all the residents are already on the street.",
       "russian": "Нет, к счастью, все жители уже на улице.",
       "farsi": "نه، خوشبختانه همه ساکنان در خیابان هستند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Im Haus ist niemand mehr.",
       "english": "No one is in the house anymore.",
       "russian": "В доме больше никого нет.",
       "farsi": "در خانه کسی نیست."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich schicke die Feuerwehr. Sie kommt sehr bald.",
       "english": "I'll send the fire department. They will come very soon.",
       "russian": "Я вызову пожарных. Они придут очень скоро.",
       "farsi": "من آتش‌نشانی را می‌فرستم. آنها به زودی خواهند آمد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Bitte sagen Sie noch einmal Ihren Namen.",
       "english": "Please tell me your name again.",
       "russian": "Пожалуйста, еще раз назовите ваше имя.",
       "farsi": "لطفاً دوباره نام خود را بگویید."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Hill, Victor Hill. Ich bin einer von den Hausbewohnern, Ich bin noch in dem Haus.",
       "english": "Hill, Victor Hill. I am one of the residents, I am still in the house.",
       "russian": "Хилл, Виктор Хилл. Я один из жильцов, я еще в доме.",
       "farsi": "هیل، ویکتور هیل. من یکی از ساکنان هستم، هنوز در خانه هستم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich habe Zahnschmerzen.",
       "english": "I have a toothache.",
       "russian": "У меня зубная боль.",
       "farsi": "من دندان درد دارم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Mein Kopf tut weh.",
       "english": "My head hurts.",
       "russian": "У меня болит голова.",
       "farsi": "سرم درد می‌کند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich habe Rückenschmerzen.",
       "english": "I have back pain.",
       "russian": "У меня болит спина.",
       "farsi": "کمرم درد می‌کند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich habe eine Erkältung.",
       "english": "I have a cold.",
       "russian": "Я простудился.",
       "farsi": "من سرما خورده‌ام."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Was ist passiert?",
       "english": "What happened?",
       "russian": "Что случилось?",
       "farsi": "چه شده؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wo sind Sie?",
       "english": "Where are you?",
       "russian": "Где вы?",
       "farsi": "کجا هستید؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wie viele Personen sind verletzt?",
       "english": "How many people are injured?",
       "russian": "Сколько человек пострадало?",
       "farsi": "چند نفر زخمی شده‌اند؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich schicke den Notarzt. Bitte sagen Sie noch einmal Ihren Namen.",
       "english": "I'll send the emergency doctor. Please tell me your name again.",
       "russian": "Я отправлю врача скорой помощи. Пожалуйста, еще раз назовите ваше имя.",
       "farsi": "من دکتر اورژانس را می‌فرستم. لطفاً دوباره نام خود را بگویید."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich bin krank.",
       "english": "I am sick.",
       "russian": "Я болен.",
       "farsi": "من بیمارم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich habe Husten und Schnupfen.",
       "english": "I have a cough and runny nose.",
       "russian": "У меня кашель и насморк.",
       "farsi": "من سرفه و آبریزش بینی دارم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich habe Halsschmerzen.",
       "english": "I have a sore throat.",
       "russian": "У меня болит горло.",
       "farsi": "من گلو درد دارم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich habe Fieber.",
       "english": "I have a fever.",
       "russian": "У меня температура.",
       "farsi": "من تب دارم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Mein Kopf tut weh.",
       "english": "My head hurts.",
       "russian": "У меня болит голова.",
       "farsi": "سرم درد می‌کند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Mir geht es schlecht.",
       "english": "I feel bad.",
       "russian": "Мне плохо.",
       "farsi": "حال من بد است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich soll zu Hause bleiben.",
       "english": "I should stay home.",
       "russian": "Мне нужно остаться дома.",
       "farsi": "من باید در خانه بمانم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich soll viel Tee trinken.",
       "english": "I should drink a lot of tea.",
       "russian": "Мне нужно пить много чая.",
       "farsi": "باید زیاد چای بنوشم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Mein Arzt sagt, ich soll Tabletten nehmen.",
       "english": "My doctor says I should take pills.",
       "russian": "Мой врач говорит, что мне нужно принимать таблетки.",
       "farsi": "دکترم می‌گوید باید قرص مصرف کنم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Du Arme! Gute Besserung!",
       "english": "Poor you! Get well soon!",
       "russian": "Бедняжка! Поправляйся скорее!",

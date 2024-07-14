@@ -6,2310 +6,2310 @@
 
   "content": [
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich höre Musik.",
       "english": "I listen to music.",
       "russian": "Я слушаю музыку.",
       "farsi": "من به موسیقی گوش می‌دهم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er hört Radio.",
       "english": "He listens to the radio.",
       "russian": "Он слушает радио.",
       "farsi": "او به رادیو گوش می‌دهد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir hören das Lied.",
       "english": "We listen to the song.",
       "russian": "Мы слушаем песню.",
       "farsi": "ما به آهنگ گوش می‌دهیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie hört ein Hörbuch.",
       "english": "She listens to an audiobook.",
       "russian": "Она слушает аудиокнигу.",
       "farsi": "او به یک کتاب صوتی گوش می‌دهد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Hörst du die Vögel?",
       "english": "Do you hear the birds?",
       "russian": "Ты слышишь птиц?",
       "farsi": "آیا صدای پرندگان را می‌شنوی؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich höre den Wind.",
       "english": "I hear the wind.",
       "russian": "Я слышу ветер.",
       "farsi": "من صدای باد را می‌شنوم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Hören Sie mich?",
       "english": "Do you hear me?",
       "russian": "Вы меня слышите?",
       "farsi": "آیا صدای من را می‌شنوید؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er hört gerne Jazz.",
       "english": "He likes to listen to jazz.",
       "russian": "Ему нравится слушать джаз.",
       "farsi": "او دوست دارد به جاز گوش دهد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir hören das Konzert.",
       "english": "We listen to the concert.",
       "russian": "Мы слушаем концерт.",
       "farsi": "ما به کنسرت گوش می‌دهیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie hört gerne Geschichten.",
       "english": "She likes to listen to stories.",
       "russian": "Она любит слушать истории.",
       "farsi": "او دوست دارد به داستان‌ها گوش دهد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich habe gestern Musik gehört.",
       "english": "I listened to music yesterday.",
       "russian": "Я слушал музыку вчера.",
       "farsi": "من دیروز به موسیقی گوش دادم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er wird morgen Radio hören.",
       "english": "He will listen to the radio tomorrow.",
       "russian": "Он будет слушать радио завтра.",
       "farsi": "او فردا به رادیو گوش خواهد داد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir hören oft zusammen Musik.",
       "english": "We often listen to music together.",
       "russian": "Мы часто вместе слушаем музыку.",
       "farsi": "ما اغلب با هم به موسیقی گوش می‌دهیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Hörst du die Nachrichten?",
       "english": "Do you listen to the news?",
       "russian": "Ты слушаешь новости?",
       "farsi": "آیا به اخبار گوش می‌دهی؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie hörte das Lied zum ersten Mal.",
       "english": "She heard the song for the first time.",
       "russian": "Она услышала эту песню впервые.",
       "farsi": "او برای اولین بار این آهنگ را شنید."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir werden den Podcast hören.",
       "english": "We will listen to the podcast.",
       "russian": "Мы будем слушать подкаст.",
       "farsi": "ما به پادکست گوش خواهیم داد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich höre den Regen.",
       "english": "I hear the rain.",
       "russian": "Я слышу дождь.",
       "farsi": "من صدای باران را می‌شنوم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Hörst du diese Musik?",
       "english": "Do you hear this music?",
       "russian": "Ты слышишь эту музыку?",
       "farsi": "آیا این موسیقی را می‌شنوی؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er hat nichts gehört.",
       "english": "He heard nothing.",
       "russian": "Он ничего не слышал.",
       "farsi": "او هیچ چیزی نشنید."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir hörten das Geräusch.",
       "english": "We heard the noise.",
       "russian": "Мы слышали шум.",
       "farsi": "ما صدای نویز را شنیدیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich habe das Konzert gehört.",
       "english": "I listened to the concert.",
       "russian": "Я слушал концерт.",
       "farsi": "من به کنسرت گوش دادم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er wird ein neues Lied hören.",
       "english": "He will listen to a new song.",
       "russian": "Он будет слушать новую песню.",
       "farsi": "او به یک آهنگ جدید گوش خواهد داد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir hören jedes Wochenende Radio.",
       "english": "We listen to the radio every weekend.",
       "russian": "Мы слушаем радио каждые выходные.",
       "farsi": "ما هر آخر هفته به رادیو گوش می‌دهیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Hörst du gerne Klassik?",
       "english": "Do you like to listen to classical music?",
       "russian": "Ты любишь слушать классическую музыку?",
       "farsi": "آیا دوست داری به موسیقی کلاسیک گوش بدهی؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie hat nichts gehört.",
       "english": "She heard nothing.",
       "russian": "Она ничего не слышала.",
       "farsi": "او هیچ چیزی نشنید."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich werde das Lied hören.",
       "english": "I will listen to the song.",
       "russian": "Я буду слушать песню.",
       "farsi": "من به آهنگ گوش خواهم داد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er hörte den Hund bellen.",
       "english": "He heard the dog barking.",
       "russian": "Он слышал, как лает собака.",
       "farsi": "او صدای پارس سگ را شنید."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir hören das Konzert live.",
       "english": "We are listening to the concert live.",
       "russian": "Мы слушаем концерт в прямом эфире.",
       "farsi": "ما به صورت زنده به کنسرت گوش می‌دهیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie hört ein Interview.",
       "english": "She is listening to an interview.",
       "russian": "Она слушает интервью.",
       "farsi": "او به یک مصاحبه گوش می‌دهد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Hört ihr das Meer?",
       "english": "Do you hear the sea?",
       "russian": "Вы слышите море?",
       "farsi": "آیا صدای دریا را می‌شنوید؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich lese ein Buch.",
       "english": "I read a book.",
       "russian": "Я читаю книгу.",
       "farsi": "من یک کتاب می‌خوانم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er liest die Zeitung.",
       "english": "He reads the newspaper.",
       "russian": "Он читает газету.",
       "farsi": "او روزنامه می‌خواند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir lesen ein Magazin.",
       "english": "We read a magazine.",
       "russian": "Мы читаем журнал.",
       "farsi": "ما یک مجله می‌خوانیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie liest gerne Romane.",
       "english": "She likes to read novels.",
       "russian": "Она любит читать романы.",
       "farsi": "او دوست دارد رمان بخواند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Liest du Bücher?",
       "english": "Do you read books?",
       "russian": "Ты читаешь книги?",
       "farsi": "آیا کتاب می‌خوانی؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich lese jeden Abend.",
       "english": "I read every evening.",
       "russian": "Я читаю каждый вечер.",
       "farsi": "من هر شب می‌خوانم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Liest er das Buch?",
       "english": "Is he reading the book?",
       "russian": "Он читает книгу?",
       "farsi": "آیا او کتاب را می‌خواند؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir lesen zusammen.",
       "english": "We read together.",
       "russian": "Мы читаем вместе.",
       "farsi": "ما با هم می‌خوانیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie liest ein Märchen.",
       "english": "She reads a fairy tale.",
       "russian": "Она читает сказку.",
       "farsi": "او یک افسانه می‌خواند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich lese ein Gedicht.",
       "english": "I read a poem.",
       "russian": "Я читаю стихотворение.",
       "farsi": "من یک شعر می‌خوانم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er hat das Buch gelesen.",
       "english": "He has read the book.",
       "russian": "Он прочитал книгу.",
       "farsi": "او کتاب را خوانده است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir werden den Artikel lesen.",
       "english": "We will read the article.",
       "russian": "Мы будем читать статью.",
       "farsi": "ما مقاله را خواهیم خواند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich lese oft am Morgen.",
       "english": "I often read in the morning.",
       "russian": "Я часто читаю утром.",
       "farsi": "من اغلب صبح‌ها می‌خوانم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Liest du das Buch gerade?",
       "english": "Are you reading the book right now?",
       "russian": "Ты читаешь книгу прямо сейчас?",
       "farsi": "آیا همین حالا کتاب را می‌خوانی؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie hat den Brief gelesen.",
       "english": "She has read the letter.",
       "russian": "Она прочитала письмо.",
       "farsi": "او نامه را خوانده است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir werden das Dokument lesen.",
       "english": "We will read the document.",
       "russian": "Мы будем читать документ.",
       "farsi": "ما سند را خواهیم خواند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich lese gerne am Strand.",
       "english": "I like to read on the beach.",
       "russian": "Мне нравится читать на пляже.",
       "farsi": "من دوست دارم در ساحل کتاب بخوانم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Liest du diesen Artikel?",
       "english": "Are you reading this article?",
       "russian": "Ты читаешь эту статью?",
       "farsi": "آیا این مقاله را می‌خوانی؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er hat den Roman gelesen.",
       "english": "He has read the novel.",
       "russian": "Он прочитал роман.",
       "farsi": "او رمان را خوانده است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir lesen das Buch zusammen.",
       "english": "We read the book together.",
       "russian": "Мы читаем книгу вместе.",
       "farsi": "ما کتاب را با هم می‌خوانیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich habe das Gedicht gelesen.",
       "english": "I have read the poem.",
       "russian": "Я прочитал стихотворение.",
       "farsi": "من شعر را خوانده‌ام."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er wird das Magazin lesen.",
       "english": "He will read the magazine.",
       "russian": "Он будет читать журнал.",
       "farsi": "او مجله را خواهد خواند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir lesen oft am Wochenende.",
       "english": "We often read on weekends.",
       "russian": "Мы часто читаем по выходным.",
       "farsi": "ما اغلب آخر هفته‌ها می‌خوانیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Liest du gerne Zeitungen?",
       "english": "Do you like to read newspapers?",
       "russian": "Ты любишь читать газеты?",
       "farsi": "آیا دوست داری روزنامه بخوانی؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie hat das Buch nicht gelesen.",
       "english": "She has not read the book.",
       "russian": "Она не читала книгу.",
       "farsi": "او کتاب را نخوانده است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich werde das Kapitel lesen.",
       "english": "I will read the chapter.",
       "russian": "Я буду читать главу.",
       "farsi": "من فصل را خواهم خواند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er las den Bericht.",
       "english": "He read the report.",
       "russian": "Он читал отчет.",
       "farsi": "او گزارش را خواند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir lesen das Manuskript.",
       "english": "We are reading the manuscript.",
       "russian": "Мы читаем рукопись.",
       "farsi": "ما دست‌نوشته را می‌خوانیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie liest die Notizen.",
       "english": "She is reading the notes.",
       "russian": "Она читает заметки.",
       "farsi": "او یادداشت‌ها را می‌خواند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Lest ihr die Anleitung?",
       "english": "Are you reading the instructions?",
       "russian": "Вы читаете инструкции?",
       "farsi": "آیا شما دستورالعمل‌ها را می‌خوانید؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich frage den Lehrer.",
       "english": "I ask the teacher.",
       "russian": "Я спрашиваю учителя.",
       "farsi": "من از معلم سوال می‌پرسم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er fragt nach dem Weg.",
       "english": "He asks for directions.",
       "russian": "Он спрашивает дорогу.",
       "farsi": "او آدرس می‌پرسد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir fragen die Verkäuferin.",
       "english": "We ask the saleswoman.",
       "russian": "Мы спрашиваем продавщицу.",
       "farsi": "ما از فروشنده سوال می‌پرسیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie fragt den Arzt.",
       "english": "She asks the doctor.",
       "russian": "Она спрашивает врача.",
       "farsi": "او از دکتر سوال می‌پرسد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Fragst du mich?",
       "english": "Are you asking me?",
       "russian": "Ты спрашиваешь меня?",
       "farsi": "آیا از من سوال می‌پرسی؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich frage nach dem Preis.",
       "english": "I ask about the price.",
       "russian": "Я спрашиваю о цене.",
       "farsi": "من درباره قیمت سوال می‌پرسم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Fragt er oft?",
       "english": "Does he ask often?",
       "russian": "Он часто спрашивает?",
       "farsi": "آیا او اغلب سوال می‌پرسد؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir fragen nach dem Termin.",
       "english": "We ask about the appointment.",
       "russian": "Мы спрашиваем о встрече.",
       "farsi": "ما درباره قرار ملاقات سوال می‌پرسیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie fragt nach dem Namen.",
       "english": "She asks for the name.",
       "russian": "Она спрашивает имя.",
       "farsi": "او نام را می‌پرسد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich frage nach der Uhrzeit.",
       "english": "I ask about the time.",
       "russian": "Я спрашиваю о времени.",
       "farsi": "من درباره زمان سوال می‌پرسم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er hat nach dem Weg gefragt.",
       "english": "He asked for directions.",
       "russian": "Он спросил дорогу.",
       "farsi": "او آدرس پرسید."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir werden den Lehrer fragen.",
       "english": "We will ask the teacher.",
       "russian": "Мы спросим учителя.",
       "farsi": "ما از معلم سوال خواهیم پرسید."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich frage oft Fragen.",
       "english": "I often ask questions.",
       "russian": "Я часто задаю вопросы.",
       "farsi": "من اغلب سوال می‌پرسم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Fragst du nach Hilfe?",
       "english": "Are you asking for help?",
       "russian": "Ты просишь о помощи?",
       "farsi": "آیا کمک می‌خواهی؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie hat den Arzt gefragt.",
       "english": "She asked the doctor.",
       "russian": "Она спросила врача.",
       "farsi": "او از دکتر سوال پرسید."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir werden nach dem Preis fragen.",
       "english": "We will ask about the price.",
       "russian": "Мы спросим о цене.",
       "farsi": "ما درباره قیمت سوال خواهیم پرسید."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich frage gerne Fragen.",
       "english": "I like to ask questions.",
       "russian": "Я люблю задавать вопросы.",
       "farsi": "من دوست دارم سوال بپرسم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Fragst du nach der Uhrzeit?",
       "english": "Are you asking for the time?",
       "russian": "Ты спрашиваешь время?",
       "farsi": "آیا زمان را می‌پرسی؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er hat viele Fragen gestellt.",
       "english": "He asked many questions.",
       "russian": "Он задал много вопросов.",
       "farsi": "او سوالات زیادی پرسید."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir fragen nach den Regeln.",
       "english": "We ask about the rules.",
       "russian": "Мы спрашиваем о правилах.",
       "farsi": "ما درباره قوانین سوال می‌پرسیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich habe nach dem Preis gefragt.",
       "english": "I asked about the price.",
       "russian": "Я спросил о цене.",
       "farsi": "من درباره قیمت سوال پرسیدم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er wird nach dem Weg fragen.",
       "english": "He will ask for directions.",
       "russian": "Он спросит дорогу.",
       "farsi": "او آدرس خواهد پرسید."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir fragen oft nach Rat.",
       "english": "We often ask for advice.",
       "russian": "Мы часто спрашиваем совета.",
       "farsi": "ما اغلب درباره مشاوره سوال می‌پرسیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Fragst du gerne Fragen?",
       "english": "Do you like to ask questions?",
       "russian": "Ты любишь задавать вопросы?",
       "farsi": "آیا دوست داری سوال بپرسی؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie hat nicht nachgefragt.",
       "english": "She did not ask.",
       "russian": "Она не спросила.",
       "farsi": "او سوال نکرد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich werde den Lehrer fragen.",
       "english": "I will ask the teacher.",
       "russian": "Я спрошу учителя.",
       "farsi": "من از معلم سوال خواهم پرسید."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er fragte nach dem Problem.",
       "english": "He asked about the problem.",
       "russian": "Он спросил о проблеме.",
       "farsi": "او درباره مشکل سوال کرد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir fragen den Experten.",
       "english": "We are asking the expert.",
       "russian": "Мы спрашиваем эксперта.",
       "farsi": "ما از کارشناس سوال می‌پرسیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie fragt nach Informationen.",
       "english": "She is asking for information.",
       "russian": "Она спрашивает информацию.",
       "farsi": "او درباره اطلاعات سوال می‌پرسد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Fragt ihr nach Hilfe?",
       "english": "Are you asking for help?",
       "russian": "Вы просите о помощи?",
       "farsi": "آیا شما کمک می‌خواهید؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich komme aus Deutschland.",
       "english": "I come from Germany.",
       "russian": "Я из Германии.",
       "farsi": "من از آلمان آمده‌ام."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er kommt spät.",
       "english": "He comes late.",
       "russian": "Он приходит поздно.",
       "farsi": "او دیر می‌آید."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir kommen nach Hause.",
       "english": "We are coming home.",
       "russian": "Мы идём домой.",
       "farsi": "ما به خانه می‌آییم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie kommt aus Frankreich.",
       "english": "She comes from France.",
       "russian": "Она из Франции.",
       "farsi": "او از فرانسه آمده‌است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Kommst du morgen?",
       "english": "Are you coming tomorrow?",
       "russian": "Ты придёшь завтра?",
       "farsi": "آیا فردا می‌آیی؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich komme sofort.",
       "english": "I am coming immediately.",
       "russian": "Я приду немедленно.",
       "farsi": "من بلافاصله می‌آیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Kommt er heute?",
       "english": "Is he coming today?",
       "russian": "Он придёт сегодня?",
       "farsi": "آیا او امروز می‌آید؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir kommen zusammen.",
       "english": "We come together.",
       "russian": "Мы приходим вместе.",
       "farsi": "ما با هم می‌آییم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie kommt bald.",
       "english": "She is coming soon.",
       "russian": "Она скоро придёт.",
       "farsi": "او به زودی می‌آید."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich komme mit dir.",
       "english": "I am coming with you.",
       "russian": "Я иду с тобой.",
       "farsi": "من با تو می‌آیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er ist gestern gekommen.",
       "english": "He came yesterday.",
       "russian": "Он пришёл вчера.",
       "farsi": "او دیروز آمد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir werden morgen kommen.",
       "english": "We will come tomorrow.",
       "russian": "Мы придём завтра.",
       "farsi": "ما فردا خواهیم آمد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich komme oft hierher.",
       "english": "I often come here.",
       "russian": "Я часто прихожу сюда.",
       "farsi": "من اغلب به اینجا می‌آیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Kommst du gleich?",
       "english": "Are you coming right away?",
       "russian": "Ты придёшь сразу?",
       "farsi": "آیا بلافاصله می‌آیی؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie ist aus Italien gekommen.",
       "english": "She came from Italy.",
       "russian": "Она приехала из Италии.",
       "farsi": "او از ایتالیا آمده‌است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir werden zusammen kommen.",
       "english": "We will come together.",
       "russian": "Мы придём вместе.",
       "farsi": "ما با هم خواهیم آمد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich komme jeden Tag.",
       "english": "I come every day.",
       "russian": "Я прихожу каждый день.",
       "farsi": "من هر روز می‌آیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Kommst du zum Essen?",
       "english": "Are you coming for dinner?",
       "russian": "Ты придёшь на ужин?",
       "farsi": "آیا برای شام می‌آیی؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er ist spät gekommen.",
       "english": "He came late.",
       "russian": "Он пришёл поздно.",
       "farsi": "او دیر آمد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir kommen immer pünktlich.",
       "english": "We always come on time.",
       "russian": "Мы всегда приходим вовремя.",
       "farsi": "ما همیشه سر وقت می‌آییم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich bin gestern gekommen.",
       "english": "I came yesterday.",
       "russian": "Я пришёл вчера.",
       "farsi": "من دیروز آمدم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er wird bald kommen.",
       "english": "He will come soon.",
       "russian": "Он скоро придёт.",
       "farsi": "او به زودی خواهد آمد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir kommen jede Woche.",
       "english": "We come every week.",
       "russian": "Мы приходим каждую неделю.",
       "farsi": "ما هر هفته می‌آییم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Kommst du auch?",
       "english": "Are you coming too?",
       "russian": "Ты тоже придёшь?",
       "farsi": "آیا تو هم می‌آیی؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie ist nicht gekommen.",
       "english": "She did not come.",
       "russian": "Она не пришла.",
       "farsi": "او نیامد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich werde später kommen.",
       "english": "I will come later.",
       "russian": "Я приду позже.",
       "farsi": "من بعداً خواهم آمد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er kam zum Treffen.",
       "english": "He came to the meeting.",
       "russian": "Он пришёл на встречу.",
       "farsi": "او به جلسه آمد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir kommen heute Abend.",
       "english": "We are coming this evening.",
       "russian": "Мы придём сегодня вечером.",
       "farsi": "ما امشب می‌آییم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie kommen zur Party.",
       "english": "They are coming to the party.",
       "russian": "Они придут на вечеринку.",
       "farsi": "آنها به مهمانی می‌آیند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Kommst du ins Büro?",
       "english": "Are you coming to the office?",
       "russian": "Ты придёшь в офис?",
       "farsi": "آیا به دفتر می‌آیی؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich bin müde.",
       "english": "I am tired.",
       "russian": "Я устал.",
       "farsi": "من خسته هستم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er ist glücklich.",
       "english": "He is happy.",
       "russian": "Он счастлив.",
       "farsi": "او خوشحال است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir sind zu Hause.",
       "english": "We are at home.",
       "russian": "Мы дома.",
       "farsi": "ما در خانه هستیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie ist Lehrerin.",
       "english": "She is a teacher.",
       "russian": "Она учительница.",
       "farsi": "او معلم است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Bist du hungrig?",
       "english": "Are you hungry?",
       "russian": "Ты голоден?",
       "farsi": "آیا تو گرسنه هستی؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich bin hier.",
       "english": "I am here.",
       "russian": "Я здесь.",
       "farsi": "من اینجا هستم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ist er im Büro?",
       "english": "Is he in the office?",
       "russian": "Он в офисе?",
       "farsi": "آیا او در دفتر است؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir sind fertig.",
       "english": "We are ready.",
       "russian": "Мы готовы.",
       "farsi": "ما آماده هستیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie ist meine Freundin.",
       "english": "She is my friend.",
       "russian": "Она моя подруга.",
       "farsi": "او دوست من است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich bin gesund.",
       "english": "I am healthy.",
       "russian": "Я здоров.",
       "farsi": "من سالم هستم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er war gestern hier.",
       "english": "He was here yesterday.",
       "russian": "Он был здесь вчера.",
       "farsi": "او دیروز اینجا بود."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir werden morgen da sein.",
       "english": "We will be there tomorrow.",
       "russian": "Мы будем там завтра.",
       "farsi": "ما فردا آنجا خواهیم بود."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich bin oft beschäftigt.",
       "english": "I am often busy.",
       "russian": "Я часто занят.",
       "farsi": "من اغلب مشغول هستم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Bist du sicher?",
       "english": "Are you sure?",
       "russian": "Ты уверен?",
       "farsi": "آیا مطمئن هستی؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie war sehr nett.",
       "english": "She was very nice.",
       "russian": "Она была очень мила.",
       "farsi": "او بسیار مهربان بود."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir werden froh sein.",
       "english": "We will be happy.",
       "russian": "Мы будем счастливы.",
       "farsi": "ما خوشحال خواهیم بود."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich bin einverstanden.",
       "english": "I agree.",
       "russian": "Я согласен.",
       "farsi": "من موافقم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Bist du bereit?",
       "english": "Are you ready?",
       "russian": "Ты готов?",
       "farsi": "آیا آماده‌ای؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er war in Deutschland.",
       "english": "He was in Germany.",
       "russian": "Он был в Германии.",
       "farsi": "او در آلمان بود."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir sind im Urlaub.",
       "english": "We are on vacation.",
       "russian": "Мы в отпуске.",
       "farsi": "ما در تعطیلات هستیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich bin Student.",
       "english": "I am a student.",
       "russian": "Я студент.",
       "farsi": "من دانشجو هستم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er wird Lehrer sein.",
       "english": "He will be a teacher.",
       "russian": "Он будет учителем.",
       "farsi": "او معلم خواهد بود."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir sind hier zusammen.",
       "english": "We are here together.",
       "russian": "Мы здесь вместе.",
       "farsi": "ما اینجا با هم هستیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Bist du müde?",
       "english": "Are you tired?",
       "russian": "Ты устал?",
       "farsi": "آیا تو خسته‌ای؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie war in der Schule.",
       "english": "She was at school.",
       "russian": "Она была в школе.",
       "farsi": "او در مدرسه بود."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich werde dort sein.",
       "english": "I will be there.",
       "russian": "Я буду там.",
       "farsi": "من آنجا خواهم بود."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er ist Arzt.",
       "english": "He is a doctor.",
       "russian": "Он врач.",
       "farsi": "او دکتر است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir sind Freunde.",
       "english": "We are friends.",
       "russian": "Мы друзья.",
       "farsi": "ما دوست هستیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Bist du glücklich?",
       "english": "Are you happy?",
       "russian": "Ты счастлив?",
       "farsi": "آیا خوشحال هستی؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie wird hier sein.",
       "english": "She will be here.",
       "russian": "Она будет здесь.",
       "farsi": "او اینجا خواهد بود."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich wohne in Berlin.",
       "english": "I live in Berlin.",
       "russian": "Я живу в Берлине.",
       "farsi": "من در برلین زندگی می‌کنم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er wohnt in einem Haus.",
       "english": "He lives in a house.",
       "russian": "Он живёт в доме.",
       "farsi": "او در یک خانه زندگی می‌کند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir wohnen zusammen.",
       "english": "We live together.",
       "russian": "Мы живём вместе.",
       "farsi": "ما با هم زندگی می‌کنیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie wohnt bei ihren Eltern.",
       "english": "She lives with her parents.",
       "russian": "Она живёт с родителями.",
       "farsi": "او با والدینش زندگی می‌کند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wohnst du in der Stadt?",
       "english": "Do you live in the city?",
       "russian": "Ты живёшь в городе?",
       "farsi": "آیا در شهر زندگی می‌کنی؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich wohne in einer Wohnung.",
       "english": "I live in an apartment.",
       "russian": "Я живу в квартире.",
       "farsi": "من در یک آپارتمان زندگی می‌کنم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wo wohnt er?",
       "english": "Where does he live?",
       "russian": "Где он живёт?",
       "farsi": "او کجا زندگی می‌کند؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir wohnen in der Nähe.",
       "english": "We live nearby.",
       "russian": "Мы живём рядом.",
       "farsi": "ما در نزدیکی زندگی می‌کنیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie wohnt im dritten Stock.",
       "english": "She lives on the third floor.",
       "russian": "Она живёт на третьем этаже.",
       "farsi": "او در طبقه سوم زندگی می‌کند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich wohne seit einem Jahr hier.",
       "english": "I have been living here for a year.",
       "russian": "Я живу здесь уже год.",
       "farsi": "من یک سال است که اینجا زندگی می‌کنم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er hat früher in Hamburg gewohnt.",
       "english": "He used to live in Hamburg.",
       "russian": "Раньше он жил в Гамбурге.",
       "farsi": "او قبلاً در هامبورگ زندگی می‌کرد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir werden in ein neues Haus ziehen.",
       "english": "We will move into a new house.",
       "russian": "Мы переедем в новый дом.",
       "farsi": "ما به یک خانه جدید نقل مکان خواهیم کرد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich wohne gerne hier.",
       "english": "I like living here.",
       "russian": "Мне нравится жить здесь.",
       "farsi": "من دوست دارم اینجا زندگی کنم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wohnst du schon lange hier?",
       "english": "Have you been living here for a long time?",
       "russian": "Ты давно здесь живёшь?",
       "farsi": "آیا مدت زیادی است که اینجا زندگی می‌کنی؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie hat früher bei ihrer Tante gewohnt.",
       "english": "She used to live with her aunt.",
       "russian": "Раньше она жила у тёти.",
       "farsi": "او قبلاً با عمه‌اش زندگی می‌کرد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir werden in der Nähe wohnen.",
       "english": "We will live nearby.",
       "russian": "Мы будем жить рядом.",
       "farsi": "ما در نزدیکی زندگی خواهیم کرد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich habe in vielen Städten gewohnt.",
       "english": "I have lived in many cities.",
       "russian": "Я жил во многих городах.",
       "farsi": "من در بسیاری از شهرها زندگی کرده‌ام."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wohnst du alleine?",
       "english": "Do you live alone?",
       "russian": "Ты живёшь один?",
       "farsi": "آیا تنها زندگی می‌کنی؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er hat früher in einem Dorf gewohnt.",
       "english": "He used to live in a village.",
       "russian": "Раньше он жил в деревне.",
       "farsi": "او قبلاً در یک روستا زندگی می‌کرد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir wohnen jetzt in einem großen Haus.",
       "english": "We now live in a big house.",
       "russian": "Теперь мы живём в большом доме.",
       "farsi": "ما اکنون در یک خانه بزرگ زندگی می‌کنیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich wohne in der Nähe der Schule.",
       "english": "I live near the school.",
       "russian": "Я живу рядом со школой.",
       "farsi": "من نزدیک مدرسه زندگی می‌کنم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er wird bald umziehen.",
       "english": "He will move soon.",
       "russian": "Он скоро переедет.",
       "farsi": "او به زودی نقل مکان خواهد کرد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir haben lange in dieser Stadt gewohnt.",
       "english": "We lived in this city for a long time.",
       "russian": "Мы долго жили в этом городе.",
       "farsi": "ما مدت زیادی در این شهر زندگی کرده‌ایم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wohnst du in einem Haus oder in einer Wohnung?",
       "english": "Do you live in a house or in an apartment?",
       "russian": "Ты живёшь в доме или в квартире?",
       "farsi": "آیا در یک خانه زندگی می‌کنی یا در یک آپارتمان؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie wohnt jetzt in München.",
       "english": "She lives in Munich now.",
       "russian": "Теперь она живёт в Мюнхене.",
       "farsi": "او اکنون در مونیخ زندگی می‌کند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich werde in der Nähe meiner Arbeit wohnen.",
       "english": "I will live near my work.",
       "russian": "Я буду жить рядом с работой.",
       "farsi": "من نزدیک محل کارم زندگی خواهم کرد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er wohnt seit fünf Jahren hier.",
       "english": "He has been living here for five years.",
       "russian": "Он живёт здесь уже пять лет.",
       "farsi": "او پنج سال است که اینجا زندگی می‌کند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir wohnen in einem alten Gebäude.",
       "english": "We live in an old building.",
       "russian": "Мы живём в старом здании.",
       "farsi": "ما در یک ساختمان قدیمی زندگی می‌کنیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wohnst du gerne in dieser Stadt?",
       "english": "Do you like living in this city?",
       "russian": "Тебе нравится жить в этом городе?",
       "farsi": "آیا دوست داری در این شهر زندگی کنی؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie haben früher in einem kleinen Haus gewohnt.",
       "english": "They used to live in a small house.",
       "russian": "Раньше они жили в маленьком доме.",
       "farsi": "آنها قبلاً در یک خانه کوچک زندگی می‌کردند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich schreibe einen Brief.",
       "english": "I am writing a letter.",
       "russian": "Я пишу письмо.",
       "farsi": "من در حال نوشتن یک نامه هستم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er schreibt eine E-Mail.",
       "english": "He is writing an email.",
       "russian": "Он пишет электронное письмо.",
       "farsi": "او در حال نوشتن یک ایمیل است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir schreiben oft.",
       "english": "We write often.",
       "russian": "Мы часто пишем.",
       "farsi": "ما اغلب می‌نویسیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie schreibt jeden Tag.",
       "english": "She writes every day.",
       "russian": "Она пишет каждый день.",
       "farsi": "او هر روز می‌نویسد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Schreibst du einen Aufsatz?",
       "english": "Are you writing an essay?",
       "russian": "Ты пишешь эссе?",
       "farsi": "آیا تو در حال نوشتن یک مقاله هستی؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich schreibe gern.",
       "english": "I like to write.",
       "russian": "Мне нравится писать.",
       "farsi": "من دوست دارم بنویسم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Schreibt er ein Buch?",
       "english": "Is he writing a book?",
       "russian": "Он пишет книгу?",
       "farsi": "آیا او در حال نوشتن یک کتاب است؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir schreiben zusammen.",
       "english": "We write together.",
       "russian": "Мы пишем вместе.",
       "farsi": "ما با هم می‌نویسیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie schreibt schnell.",
       "english": "She writes quickly.",
       "russian": "Она пишет быстро.",
       "farsi": "او سریع می‌نویسد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich habe einen Brief geschrieben.",
       "english": "I have written a letter.",
       "russian": "Я написал письмо.",
       "farsi": "من یک نامه نوشته‌ام."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er schrieb gestern eine E-Mail.",
       "english": "He wrote an email yesterday.",
       "russian": "Он написал электронное письмо вчера.",
       "farsi": "او دیروز یک ایمیل نوشت."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir werden einen Bericht schreiben.",
       "english": "We will write a report.",
       "russian": "Мы напишем отчёт.",
       "farsi": "ما یک گزارش خواهیم نوشت."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich schreibe oft an meine Freunde.",
       "english": "I often write to my friends.",
       "russian": "Я часто пишу своим друзьям.",
       "farsi": "من اغلب به دوستانم می‌نویسم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Schreibst du mir bald?",
       "english": "Will you write to me soon?",
       "russian": "Ты скоро мне напишешь?",
       "farsi": "آیا به زودی به من می‌نویسی؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie hat viele Bücher geschrieben.",
       "english": "She has written many books.",
       "russian": "Она написала много книг.",
       "farsi": "او بسیاری کتاب نوشته‌است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir werden einen Artikel schreiben.",
       "english": "We will write an article.",
       "russian": "Мы напишем статью.",
       "farsi": "ما یک مقاله خواهیم نوشت."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich habe ihm eine Nachricht geschrieben.",
       "english": "I wrote him a message.",
       "russian": "Я написал ему сообщение.",
       "farsi": "من به او یک پیام نوشتم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Schreibst du Briefe?",
       "english": "Do you write letters?",
       "russian": "Ты пишешь письма?",
       "farsi": "آیا تو نامه می‌نویسی؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er hat viele Geschichten geschrieben.",
       "english": "He has written many stories.",
       "russian": "Он написал много историй.",
       "farsi": "او بسیاری داستان نوشته‌است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir schreiben jetzt an einem Projekt.",
       "english": "We are currently writing a project.",
       "russian": "Мы сейчас работаем над проектом.",
       "farsi": "ما در حال حاضر روی یک پروژه می‌نویسیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich schreibe oft in mein Tagebuch.",
       "english": "I often write in my diary.",
       "russian": "Я часто пишу в своём дневнике.",
       "farsi": "من اغلب در دفترچه خاطراتم می‌نویسم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er wird bald einen Roman schreiben.",
       "english": "He will write a novel soon.",
       "russian": "Он скоро напишет роман.",
       "farsi": "او به زودی یک رمان خواهد نوشت."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir haben zusammen einen Brief geschrieben.",
       "english": "We wrote a letter together.",
       "russian": "Мы вместе написали письмо.",
       "farsi": "ما با هم یک نامه نوشتیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Schreibst du auch Gedichte?",
       "english": "Do you also write poems?",
       "russian": "Ты тоже пишешь стихи?",
       "farsi": "آیا تو هم شعر می‌نویسی؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie hat einen langen Brief geschrieben.",
       "english": "She wrote a long letter.",
       "russian": "Она написала длинное письмо.",
       "farsi": "او یک نامه طولانی نوشت."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich werde eine E-Mail schreiben.",
       "english": "I will write an email.",
       "russian": "Я напишу электронное письмо.",
       "farsi": "من یک ایمیل خواهم نوشت."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er schrieb viele Artikel.",
       "english": "He wrote many articles.",
       "russian": "Он написал много статей.",
       "farsi": "او بسیاری مقاله نوشت."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir schreiben unsere Geschichten.",
       "english": "We write our stories.",
       "russian": "Мы пишем свои истории.",
       "farsi": "ما داستان‌های خود را می‌نویسیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Schreibst du regelmäßig Tagebuch?",
       "english": "Do you keep a diary regularly?",
       "russian": "Ты регулярно ведёшь дневник?",
       "farsi": "آیا تو به طور منظم دفترچه خاطرات می‌نویسی؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie wird bald einen Artikel schreiben.",
       "english": "She will write an article soon.",
       "russian": "Она скоро напишет статью.",
       "farsi": "او به زودی یک مقاله خواهد نوشت."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich antworte auf die Frage.",
       "english": "I am answering the question.",
       "russian": "Я отвечаю на вопрос.",
       "farsi": "من به سوال جواب می‌دهم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er antwortet immer höflich.",
       "english": "He always answers politely.",
       "russian": "Он всегда отвечает вежливо.",
       "farsi": "او همیشه مودبانه جواب می‌دهد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir antworten auf die E-Mail.",
       "english": "We are answering the email.",
       "russian": "Мы отвечаем на электронное письмо.",
       "farsi": "ما به ایمیل جواب می‌دهیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie antwortet schnell.",
       "english": "She answers quickly.",
       "russian": "Она отвечает быстро.",
       "farsi": "او سریع جواب می‌دهد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Antwortest du mir?",
       "english": "Are you answering me?",
       "russian": "Ты отвечаешь мне?",
       "farsi": "آیا به من جواب می‌دهی؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich antworte gern auf Fragen.",
       "english": "I like answering questions.",
       "russian": "Мне нравится отвечать на вопросы.",
       "farsi": "من دوست دارم به سوالات جواب بدهم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Antwortet er oft?",
       "english": "Does he answer often?",
       "russian": "Он часто отвечает?",
       "farsi": "آیا او اغلب جواب می‌دهد؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir antworten gemeinsam.",
       "english": "We answer together.",
       "russian": "Мы отвечаем вместе.",
       "farsi": "ما با هم جواب می‌دهیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie antwortet nie spät.",
       "english": "She never answers late.",
       "russian": "Она никогда не отвечает поздно.",
       "farsi": "او هرگز دیر جواب نمی‌دهد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich habe auf die Frage geantwortet.",
       "english": "I have answered the question.",
       "russian": "Я ответил на вопрос.",
       "farsi": "من به سوال جواب داده‌ام."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er hat gestern geantwortet.",
       "english": "He answered yesterday.",
       "russian": "Он ответил вчера.",
       "farsi": "او دیروز جواب داد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir werden bald antworten.",
       "english": "We will answer soon.",
       "russian": "Мы скоро ответим.",
       "farsi": "ما به زودی جواب خواهیم داد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich antworte oft auf E-Mails.",
       "english": "I often answer emails.",
       "russian": "Я часто отвечаю на электронные письма.",
       "farsi": "من اغلب به ایمیل‌ها جواب می‌دهم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Antwortest du gleich?",
       "english": "Will you answer right away?",
       "russian": "Ты ответишь сразу?",
       "farsi": "آیا بلافاصله جواب می‌دهی؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie hat schnell geantwortet.",
       "english": "She answered quickly.",
       "russian": "Она ответила быстро.",
       "farsi": "او سریع جواب داد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir werden auf die Fragen antworten.",
       "english": "We will answer the questions.",
       "russian": "Мы ответим на вопросы.",
       "farsi": "ما به سوالات جواب خواهیم داد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich habe ihm sofort geantwortet.",
       "english": "I answered him immediately.",
       "russian": "Я ответил ему сразу.",
       "farsi": "من بلافاصله به او جواب دادم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Antwortest du oft?",
       "english": "Do you answer often?",
       "russian": "Ты часто отвечаешь?",
       "farsi": "آیا تو اغلب جواب می‌دهی؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er hat auf die Nachricht geantwortet.",
       "english": "He answered the message.",
       "russian": "Он ответил на сообщение.",
       "farsi": "او به پیام جواب داد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir antworten jetzt auf die E-Mail.",
       "english": "We are currently answering the email.",
       "russian": "Мы сейчас отвечаем на электронное письмо.",
       "farsi": "ما در حال حاضر به ایمیل جواب می‌دهیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich antworte immer ehrlich.",
       "english": "I always answer honestly.",
       "russian": "Я всегда отвечаю честно.",
       "farsi": "من همیشه صادقانه جواب می‌دهم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er wird auf die Frage antworten.",
       "english": "He will answer the question.",
       "russian": "Он ответит на вопрос.",
       "farsi": "او به سوال جواب خواهد داد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir haben auf alle Fragen geantwortet.",
       "english": "We answered all the questions.",
       "russian": "Мы ответили на все вопросы.",
       "farsi": "ما به همه سوالات جواب دادیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Antwortest du auf alle E-Mails?",
       "english": "Do you answer all emails?",
       "russian": "Ты отвечаешь на все электронные письма?",
       "farsi": "آیا تو به همه ایمیل‌ها جواب می‌دهی؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie hat auf alle Fragen geantwortet.",
       "english": "She answered all the questions.",
       "russian": "Она ответила на все вопросы.",
       "farsi": "او به همه سوالات جواب داد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich werde sofort antworten.",
       "english": "I will answer immediately.",
       "russian": "Я отвечу сразу.",
       "farsi": "من بلافاصله جواب خواهم داد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er antwortete auf viele Fragen.",
       "english": "He answered many questions.",
       "russian": "Он ответил на многие вопросы.",
       "farsi": "او به بسیاری از سوالات جواب داد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir antworten unseren Kunden.",
       "english": "We answer our customers.",
       "russian": "Мы отвечаем нашим клиентам.",
       "farsi": "ما به مشتریانمان جواب می‌دهیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Antwortest du mir regelmäßig?",
       "english": "Do you answer me regularly?",
       "russian": "Ты отвечаешь мне регулярно?",
       "farsi": "آیا به من به طور منظم جواب می‌دهی؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie wird auf deine Frage antworten.",
       "english": "She will answer your question.",
       "russian": "Она ответит на твой вопрос.",
       "farsi": "او به سوال تو جواب خواهد داد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich gehe in den Park.",
       "english": "I am going to the park.",
       "russian": "Я иду в парк.",
       "farsi": "من به پارک می‌روم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er geht zur Schule.",
       "english": "He is going to school.",
       "russian": "Он идет в школу.",
       "farsi": "او به مدرسه می‌رود."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir gehen ins Kino.",
       "english": "We are going to the cinema.",
       "russian": "Мы идем в кино.",
       "farsi": "ما به سینما می‌رویم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie geht jeden Tag spazieren.",
       "english": "She goes for a walk every day.",
       "russian": "Она ходит на прогулку каждый день.",
       "farsi": "او هر روز پیاده‌روی می‌کند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Gehst du in den Supermarkt?",
       "english": "Are you going to the supermarket?",
       "russian": "Ты идешь в супермаркет?",
       "farsi": "آیا تو به سوپرمارکت می‌روی؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich gehe mit meinem Hund.",
       "english": "I am going with my dog.",
       "russian": "Я иду со своей собакой.",
       "farsi": "من با سگم می‌روم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir gehen oft in den Zoo.",
       "english": "We often go to the zoo.",
       "russian": "Мы часто ходим в зоопарк.",
       "farsi": "ما اغلب به باغ‌وحش می‌رویم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Geht sie zur Arbeit?",
       "english": "Is she going to work?",
       "russian": "Она идет на работу?",
       "farsi": "آیا او به سر کار می‌رود؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich gehe nach Hause.",
       "english": "I am going home.",
       "russian": "Я иду домой.",
       "farsi": "من به خانه می‌روم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er geht jeden Morgen joggen.",
       "english": "He goes jogging every morning.",
       "russian": "Он бегает каждое утро.",
       "farsi": "او هر صبح می‌دود."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich ging gestern ins Kino.",
       "english": "I went to the cinema yesterday.",
       "russian": "Я вчера ходил в кино.",
       "farsi": "من دیروز به سینما رفتم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir gingen letztes Wochenende wandern.",
       "english": "We went hiking last weekend.",
       "russian": "Мы ходили в поход в прошлые выходные.",
       "farsi": "ما آخر هفته گذشته به پیاده‌روی رفتیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie ging zur Post.",
       "english": "She went to the post office.",
       "russian": "Она пошла на почту.",
       "farsi": "او به اداره پست رفت."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er ging zum Arzt.",
       "english": "He went to the doctor.",
       "russian": "Он пошел к врачу.",
       "farsi": "او به دکتر رفت."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Gingst du gestern einkaufen?",
       "english": "Did you go shopping yesterday?",
       "russian": "Ты ходил вчера за покупками?",
       "farsi": "آیا دیروز به خرید رفتی؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich ging mit meinen Freunden aus.",
       "english": "I went out with my friends.",
       "russian": "Я вышел с друзьями.",
       "farsi": "من با دوستانم بیرون رفتم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir gingen ins Restaurant essen.",
       "english": "We went to the restaurant to eat.",
       "russian": "Мы пошли в ресторан поесть.",
       "farsi": "ما به رستوران رفتیم تا غذا بخوریم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ging sie gestern zur Party?",
       "english": "Did she go to the party yesterday?",
       "russian": "Она вчера ходила на вечеринку?",
       "farsi": "آیا او دیروز به مهمانی رفت؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich werde morgen in den Park gehen.",
       "english": "I will go to the park tomorrow.",
       "russian": "Я пойду в парк завтра.",
       "farsi": "من فردا به پارک خواهم رفت."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir werden nächsten Monat nach Deutschland gehen.",
       "english": "We will go to Germany next month.",
       "russian": "Мы поедем в Германию в следующем месяце.",
       "farsi": "ما ماه آینده به آلمان خواهیم رفت."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er wird später ins Büro gehen.",
       "english": "He will go to the office later.",
       "russian": "Он позже пойдет в офис.",
       "farsi": "او بعداً به دفتر خواهد رفت."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie wird bald zum Arzt gehen.",
       "english": "She will go to the doctor soon.",
       "russian": "Она скоро пойдет к врачу.",
       "farsi": "او به زودی به دکتر خواهد رفت."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wirst du zum Konzert gehen?",
       "english": "Will you go to the concert?",
       "russian": "Ты пойдешь на концерт?",
       "farsi": "آیا به کنسرت خواهی رفت؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich werde mit dir gehen.",
       "english": "I will go with you.",
       "russian": "Я пойду с тобой.",
       "farsi": "من با تو خواهم رفت."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir werden gemeinsam ins Museum gehen.",
       "english": "We will go to the museum together.",
       "russian": "Мы вместе пойдем в музей.",
       "farsi": "ما با هم به موزه خواهیم رفت."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie werden in den Urlaub gehen.",
       "english": "They will go on vacation.",
       "russian": "Они поедут в отпуск.",
       "farsi": "آنها به تعطیلات خواهند رفت."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich werde nie allein gehen.",
       "english": "I will never go alone.",
       "russian": "Я никогда не пойду один.",
       "farsi": "من هرگز تنها نخواهم رفت."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er wird heute Abend ausgehen.",
       "english": "He will go out tonight.",
       "russian": "Он пойдет сегодня вечером.",
       "farsi": "او امشب بیرون خواهد رفت."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir werden später spazieren gehen.",
       "english": "We will go for a walk later.",
       "russian": "Мы пойдем на прогулку позже.",
       "farsi": "ما بعداً پیاده‌روی خواهیم کرد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wirst du mit uns gehen?",
       "english": "Will you go with us?",
       "russian": "Ты пойдешь с нами?",
       "farsi": "آیا با ما خواهی رفت؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich lerne Deutsch.",
       "english": "I am learning German.",
       "russian": "Я учу немецкий.",
       "farsi": "من دارم آلمانی یاد می‌گیرم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er lernt Englisch.",
       "english": "He is learning English.",
       "russian": "Он учит английский.",
       "farsi": "او انگلیسی یاد می‌گیرد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir lernen zusammen.",
       "english": "We are learning together.",
       "russian": "Мы учимся вместе.",
       "farsi": "ما با هم یاد می‌گیریم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie lernt jeden Tag.",
       "english": "She learns every day.",
       "russian": "Она учится каждый день.",
       "farsi": "او هر روز یاد می‌گیرد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Lernst du Französisch?",
       "english": "Are you learning French?",
       "russian": "Ты учишь французский?",
       "farsi": "آیا تو فرانسه یاد می‌گیری؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich lerne gern neue Sprachen.",
       "english": "I like learning new languages.",
       "russian": "Мне нравится учить новые языки.",
       "farsi": "من دوست دارم زبان‌های جدید یاد بگیرم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir lernen für die Prüfung.",
       "english": "We are studying for the exam.",
       "russian": "Мы готовимся к экзамену.",
       "farsi": "ما برای امتحان درس می‌خوانیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Lernt er schnell?",
       "english": "Does he learn quickly?",
       "russian": "Он учится быстро?",
       "farsi": "آیا او سریع یاد می‌گیرد؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich lerne zu Hause.",
       "english": "I study at home.",
       "russian": "Я учусь дома.",
       "farsi": "من در خانه درس می‌خوانم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie lernen im Park.",
       "english": "They study in the park.",
       "russian": "Они учатся в парке.",
       "farsi": "آنها در پارک درس می‌خوانند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich habe gestern Deutsch gelernt.",
       "english": "I learned German yesterday.",
       "russian": "Я учил немецкий вчера.",
       "farsi": "من دیروز آلمانی یاد گرفتم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er hat für die Prüfung gelernt.",
       "english": "He studied for the exam.",
       "russian": "Он готовился к экзамену.",
       "farsi": "او برای امتحان درس خواند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir haben zusammen gelernt.",
       "english": "We studied together.",
       "russian": "Мы учились вместе.",
       "farsi": "ما با هم درس خواندیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie hat viel gelernt.",
       "english": "She learned a lot.",
       "russian": "Она много училась.",
       "farsi": "او خیلی یاد گرفت."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Hast du gestern gelernt?",
       "english": "Did you study yesterday?",
       "russian": "Ты учился вчера?",
       "farsi": "آیا دیروز درس خواندی؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich habe ein neues Lied gelernt.",
       "english": "I learned a new song.",
       "russian": "Я выучил новую песню.",
       "farsi": "من یک آهنگ جدید یاد گرفتم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir haben die Vokabeln gelernt.",
       "english": "We learned the vocabulary.",
       "russian": "Мы выучили слова.",
       "farsi": "ما واژگان را یاد گرفتیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Lernte sie gestern Französisch?",
       "english": "Did she learn French yesterday?",
       "russian": "Она учила французский вчера?",
       "farsi": "آیا او دیروز فرانسه یاد گرفت؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich werde morgen Deutsch lernen.",
       "english": "I will learn German tomorrow.",
       "russian": "Я буду учить немецкий завтра.",
       "farsi": "من فردا آلمانی یاد خواهم گرفت."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir werden nächste Woche lernen.",
       "english": "We will study next week.",
       "russian": "Мы будем учиться на следующей неделе.",
       "farsi": "ما هفته آینده درس خواهیم خواند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er wird bald Englisch lernen.",
       "english": "He will learn English soon.",
       "russian": "Он скоро будет учить английский.",
       "farsi": "او به زودی انگلیسی یاد خواهد گرفت."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie wird fleißig lernen.",
       "english": "She will study diligently.",
       "russian": "Она будет усердно учиться.",
       "farsi": "او با تلاش درس خواهد خواند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wirst du Spanisch lernen?",
       "english": "Will you learn Spanish?",
       "russian": "Ты будешь учить испанский?",
       "farsi": "آیا اسپانیایی یاد خواهی گرفت؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich werde mit dir lernen.",
       "english": "I will study with you.",
       "russian": "Я буду учиться с тобой.",
       "farsi": "من با تو درس خواهم خواند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir werden im Sommer lernen.",
       "english": "We will study in the summer.",
       "russian": "Мы будем учиться летом.",
       "farsi": "ما در تابستان درس خواهیم خواند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie werden viel lernen.",
       "english": "They will learn a lot.",
       "russian": "Они будут много учиться.",
       "farsi": "آنها خیلی یاد خواهند گرفت."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich werde es nie vergessen zu lernen.",
       "english": "I will never forget to study.",
       "russian": "Я никогда не забуду учиться.",
       "farsi": "من هرگز یادگیری را فراموش نخواهم کرد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er wird jeden Tag lernen.",
       "english": "He will study every day.",
       "russian": "Он будет учиться каждый день.",
       "farsi": "او هر روز درس خواهد خواند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir werden gemeinsam lernen.",
       "english": "We will learn together.",
       "russian": "Мы будем учиться вместе.",
       "farsi": "ما با هم یاد خواهیم گرفت."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wirst du mit uns lernen?",
       "english": "Will you learn with us?",
       "russian": "Ты будешь учиться с нами?",
       "farsi": "آیا با ما یاد خواهی گرفت؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich mache meine Hausaufgaben.",
       "english": "I am doing my homework.",
       "russian": "Я делаю домашнее задание.",
       "farsi": "من در حال انجام تکالیفم هستم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er macht das Frühstück.",
       "english": "He is making breakfast.",
       "russian": "Он готовит завтрак.",
       "farsi": "او در حال درست کردن صبحانه است."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir machen ein Foto.",
       "english": "We are taking a photo.",
       "russian": "Мы делаем фото.",
       "farsi": "ما در حال گرفتن عکس هستیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie macht Sport.",
       "english": "She is doing sports.",
       "russian": "Она занимается спортом.",
       "farsi": "او ورزش می‌کند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Machst du das Bett?",
       "english": "Are you making the bed?",
       "russian": "Ты заправляешь кровать?",
       "farsi": "آیا تو تخت را مرتب می‌کنی؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich mache einen Kuchen.",
       "english": "I am making a cake.",
       "russian": "Я делаю торт.",
       "farsi": "من در حال درست کردن کیک هستم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir machen eine Reise.",
       "english": "We are taking a trip.",
       "russian": "Мы совершаем поездку.",
       "farsi": "ما در حال رفتن به سفر هستیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Macht er seine Arbeit?",
       "english": "Is he doing his work?",
       "russian": "Он делает свою работу?",
       "farsi": "آیا او کارش را انجام می‌دهد؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich mache das Fenster auf.",
       "english": "I am opening the window.",
       "russian": "Я открываю окно.",
       "farsi": "من در حال باز کردن پنجره هستم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie machen Musik.",
       "english": "They are making music.",
       "russian": "Они занимаются музыкой.",
       "farsi": "آنها موسیقی می‌نوازند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich habe meine Hausaufgaben gemacht.",
       "english": "I did my homework.",
       "russian": "Я сделал домашнее задание.",
       "farsi": "من تکالیفم را انجام دادم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er hat das Frühstück gemacht.",
       "english": "He made breakfast.",
       "russian": "Он приготовил завтрак.",
       "farsi": "او صبحانه درست کرد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir haben ein Foto gemacht.",
       "english": "We took a photo.",
       "russian": "Мы сделали фото.",
       "farsi": "ما عکس گرفتیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie hat Sport gemacht.",
       "english": "She did sports.",
       "russian": "Она занималась спортом.",
       "farsi": "او ورزش کرد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Hast du das Bett gemacht?",
       "english": "Did you make the bed?",
       "russian": "Ты заправил кровать?",
       "farsi": "آیا تخت را مرتب کردی؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich habe einen Kuchen gemacht.",
       "english": "I made a cake.",
       "russian": "Я сделал торт.",
       "farsi": "من کیک درست کردم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir haben eine Reise gemacht.",
       "english": "We took a trip.",
       "russian": "Мы совершили поездку.",
       "farsi": "ما به سفر رفتیم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Hat er seine Arbeit gemacht?",
       "english": "Did he do his work?",
       "russian": "Он сделал свою работу?",
       "farsi": "آیا او کارش را انجام داد؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich habe das Fenster aufgemacht.",
       "english": "I opened the window.",
       "russian": "Я открыл окно.",
       "farsi": "من پنجره را باز کردم."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie haben Musik gemacht.",
       "english": "They made music.",
       "russian": "Они занимались музыкой.",
       "farsi": "آنها موسیقی نواختند."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich werde meine Hausaufgaben machen.",
       "english": "I will do my homework.",
       "russian": "Я сделаю домашнее задание.",
       "farsi": "من تکالیفم را انجام خواهم داد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Er wird das Frühstück machen.",
       "english": "He will make breakfast.",
       "russian": "Он приготовит завтрак.",
       "farsi": "او صبحانه درست خواهد کرد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir werden ein Foto machen.",
       "english": "We will take a photo.",
       "russian": "Мы сделаем фото.",
       "farsi": "ما عکس خواهیم گرفت."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie wird Sport machen.",
       "english": "She will do sports.",
       "russian": "Она будет заниматься спортом.",
       "farsi": "او ورزش خواهد کرد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wirst du das Bett machen?",
       "english": "Will you make the bed?",
       "russian": "Ты заправишь кровать?",
       "farsi": "آیا تخت را مرتب خواهی کرد؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich werde einen Kuchen machen.",
       "english": "I will make a cake.",
       "russian": "Я сделаю торт.",
       "farsi": "من کیک درست خواهم کرد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wir werden eine Reise machen.",
       "english": "We will take a trip.",
       "russian": "Мы совершим поездку.",
       "farsi": "ما به سفر خواهیم رفت."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Wird er seine Arbeit machen?",
       "english": "Will he do his work?",
       "russian": "Он сделает свою работу?",
       "farsi": "آیا او کارش را انجام خواهد داد؟"
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Ich werde das Fenster aufmachen.",
       "english": "I will open the window.",
       "russian": "Я открою окно.",
       "farsi": "من پنجره را باز خواهم کرد."
     },
     {
-      "isSelected": true,
+      "isSelected": false,
       "sentence": "Sie werden Musik machen.",
       "english": "They will make music.",
       "russian": "Они будут заниматься музыкой.",
