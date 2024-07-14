@@ -7,6 +7,7 @@ import { startLessen } from '../../content/lessens';
 
 import { IoCloudDownloadOutline } from 'react-icons/io5';
 import { AiOutlineDelete } from 'react-icons/ai';
+import { GrLinkPrevious } from 'react-icons/gr';
 
 import './ChoseLessen.css';
 
@@ -40,7 +41,7 @@ const Choselessen = (props) => {
               props.BackToMainPage();
             }}
           >
-            &larr; Continue
+            <GrLinkPrevious /> Continue
           </button>
         </div>
         <div className="wrapper_unit">

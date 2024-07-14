@@ -18,6 +18,7 @@
 }
 
 .content_container .show_icon {
+  border: solid 2px black;
   border-radius: 5px;
   background-color: white;
   padding: 14px 14px 10px 14px;

@@ -1,3 +1,5 @@
+import { GrNext, GrPrevious } from 'react-icons/gr';
+
 import './BottomActions.css';
 
 const BottomActions = (props) => {
@@ -8,7 +10,7 @@ const BottomActions = (props) => {
         onClick={props.previous}
         disabled={props.contentIndex === 0 ? true : false}
       >
-        &larr; Previous
+        <GrPrevious /> Previous
       </button>
 
       <button
@@ -16,7 +18,7 @@ const BottomActions = (props) => {
         onClick={props.next}
         disabled={props.contentLength - props.contentIndex === 1 ? true : false}
       >
-        Next &rarr;
+        Next <GrNext />
       </button>
     </div>
   );

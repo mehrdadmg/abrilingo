@@ -1,3 +1,4 @@
+import { FaPlay } from 'react-icons/fa';
 import './SentenceContainer.css';
 
 const SentenceContainer = (props) => {
@@ -10,7 +11,11 @@ const SentenceContainer = (props) => {
       >
         {props.text}
       </p>
-      {props.hasPlayBtn && <button className="play-button">▶</button>}
+      {props.hasPlayBtn && (
+        <button className="play-button">
+          <FaPlay />
+        </button>
+      )}
     </div>
   );
 };

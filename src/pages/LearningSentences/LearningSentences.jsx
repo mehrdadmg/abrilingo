@@ -1,5 +1,6 @@
 // src/WordReview.js
 import { useState, useEffect } from 'react';
+import { GrLinkPrevious } from 'react-icons/gr';
 
 import BottomActions from '../../UI/BottomActions/BottomActions';
 import ContentContainer from '../../components/ContentContainer/ContentContainer';
@@ -82,7 +83,7 @@ const LearningSentences = (props) => {
               props.BackToMainPage();
             }}
           >
-            &larr; Back
+            <GrLinkPrevious /> Back
           </button>
           <h2 className="unit_name">{`${props.typePage} ${learnContent.info.learning}: ${learnContent.info.name}`}</h2>
         </div>

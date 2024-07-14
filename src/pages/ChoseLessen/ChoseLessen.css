@@ -78,6 +78,7 @@
 .chose_lessen .action_to_lessen svg {
   width: 25px;
   height: 25px;
+  color: black;
 }
 
 /* .memorized-word {

@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { getLang, setLang } from '../../api/handelLocalStorage';
 import { allLanguagesTranslate } from '../../content/lessens';
-
+import { GrLinkPrevious } from 'react-icons/gr';
 import './Setting.css';
 
 const Setting = (props) => {
@@ -20,7 +20,7 @@ const Setting = (props) => {
             props.BackToMainPage();
           }}
         >
-          &larr; Continue
+          <GrLinkPrevious /> Continue
         </button>
         <h2 className="page_name">Settings</h2>
       </div>
