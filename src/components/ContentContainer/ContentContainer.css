@@ -24,3 +24,7 @@
   padding: 14px 14px 10px 14px;
   font-size: 20px;
 }
+
+.content_container .show_icon svg {
+  color: black;
+}
