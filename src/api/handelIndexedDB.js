@@ -23,20 +23,14 @@ function openDatabase(lessen) {
 
     request.onupgradeneeded = () => {
       db = request.result;
-      /* db.createObjectStore(lessen.name, { keyPath: 'id', autoIncrement: true }); */
       db.createObjectStore(storeNames, { keyPath: 'lessenName' });
-
-      // if the data object store doesn't exist, create it
-      /*if (!db.objectStoreNames.contains([storeNames])) {
-         db.createObjectStore(lessen.name, { keyPath: 'id' }); 
-      }*/
     };
   });
 }
 
 function addData(db, data, lessen) {
   return new Promise((resolve) => {
-    const request = indexedDB.open(dbName /* , version */);
+    const request = indexedDB.open(dbName);
 
     request.onsuccess = () => {
       data.lessenName = lessen.name;

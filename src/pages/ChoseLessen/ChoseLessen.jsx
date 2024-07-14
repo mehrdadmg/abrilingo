@@ -2,6 +2,8 @@ import { useState, useEffect } from 'react';
 
 import { alllessens } from '../../content/lessens';
 import { loadlessenToIndexedDB, getAllLoadedLessens, deleteData } from '../../api/handelIndexedDB';
+import { getlessen, setlessen } from '../../api/handelLocalStorage';
+import { startLessen } from '../../content/lessens';
 
 import { IoCloudDownloadOutline } from 'react-icons/io5';
 import { AiOutlineDelete } from 'react-icons/ai';
@@ -9,8 +11,13 @@ import { AiOutlineDelete } from 'react-icons/ai';
 import './ChoseLessen.css';
 
 const Choselessen = (props) => {
-  /* console.log('Choselessen props: ', props); */
   let cssClassName = 'input_unit';
+
+  let lessen = getlessen();
+  if (!lessen) {
+    lessen = startLessen.info.name;
+    setlessen(lessen);
+  }
 
   const [loadedLessens, setLoadedLessens] = useState([]);
 
@@ -18,8 +25,6 @@ const Choselessen = (props) => {
     let newLoadedLessensList = await getAllLoadedLessens();
     setLoadedLessens(newLoadedLessensList);
   };
-
-  console.log('loadedLessens: ', loadedLessens);
 
   useEffect(() => {
     allLoadedLessens();
@@ -41,7 +46,7 @@ const Choselessen = (props) => {
         <div className="wrapper_unit">
           <h2 className="setting_titel">Select a Unit</h2>
 
-          {alllessens.map((lessen, index) => {
+          {alllessens.map((lessenItem, index) => {
             if (index === 0) {
               cssClassName = 'input_unit first_input';
             } else if (index === alllessens.length - 1) {
@@ -55,31 +60,33 @@ const Choselessen = (props) => {
                 <input
                   type="radio"
                   name="mylessen"
-                  value={lessen.name}
+                  value={lessenItem.name}
                   onChange={async (e) => {
-                    loadedLessens.includes(lessen.name)
-                      ? await props.fancChoosenlessen(e.target.value)
-                      : await loadlessenToIndexedDB(lessen);
+                    !loadedLessens.includes(lessenItem.name) && (await loadlessenToIndexedDB(lessenItem));
+                    setlessen(lessenItem.name);
                     await allLoadedLessens();
-                    await props.fancChoosenlessen(e.target.value);
                   }}
-                  checked={props.lessen === lessen.name ? true : false}
+                  checked={loadedLessens.includes(lessenItem.name) && lessen === lessenItem.name ? true : false}
                 />
-                {lessen.name}
+                {lessenItem.name}
                 <button
                   className="action_to_lessen"
                   onClick={async () => {
-                    loadedLessens.includes(lessen.name)
-                      ? await deleteData(lessen.name)
-                      : await loadlessenToIndexedDB(lessen);
+                    loadedLessens.includes(lessenItem.name)
+                      ? // ***** When we Delelte the Active Lessen
+                        await deleteData(lessenItem.name).then(() => {
+                          setlessen(startLessen.info.name);
+                        })
+                      : await loadlessenToIndexedDB(lessenItem);
                     await allLoadedLessens();
                   }}
                 >
-                  {loadedLessens.includes(lessen.name) ? <AiOutlineDelete /> : <IoCloudDownloadOutline />}
+                  {loadedLessens.includes(lessenItem.name) ? <AiOutlineDelete /> : <IoCloudDownloadOutline />}
                 </button>
               </label>
             );
           })}
+
           <div className="gap"></div>
         </div>
       </div>

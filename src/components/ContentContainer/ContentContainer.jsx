@@ -18,6 +18,7 @@ const ContentContainer = (props) => {
         <SentenceContainer
           text={props.typePage === 'Learn' ? props.content.sentence : props.content[props.translatTo]}
           isRTL={props.translatTo === 'farsi' && props.typePage !== 'Learn'}
+          hasPlayBtn={props.typePage === 'Learn' ? true : false}
         />
       </div>
       <div className="bottom_sentenceContainer">
@@ -29,6 +30,7 @@ const ContentContainer = (props) => {
           <SentenceContainer
             text={props.typePage === 'Learn' ? props.content[props.translatTo] : props.content.sentence}
             isRTL={props.translatTo === 'farsi' && props.typePage === 'Learn'}
+            hasPlayBtn={props.typePage === 'Learn' ? false : true}
           />
         )}
       </div>

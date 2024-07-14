@@ -1,7 +1,16 @@
+import { getlessen, setlessen } from '../../api/handelLocalStorage';
+import { startLessen } from '../../content/lessens';
+
 import { IoSettingsOutline, IoPersonOutline } from 'react-icons/io5';
 import './MainPage.css';
 
 function MainPage(props) {
+  let lessen = getlessen();
+  console.log('MainPage_lessen: ', lessen);
+  if (!lessen) {
+    lessen = startLessen.info.name;
+    setlessen(lessen);
+  }
   return (
     <div className="main_page">
       <div className="app_header">
@@ -33,7 +42,7 @@ function MainPage(props) {
           }}
         >
           Chose lessen <br /> <br />
-          <span> Active lessen: " {props.nameUnit} "</span>
+          <span> Active lessen: " {lessen} "</span>
         </button>
         <button
           className="middle_btn btn"

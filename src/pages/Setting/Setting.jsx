@@ -1,8 +1,16 @@
+import { useState } from 'react';
+import { getLang, setLang } from '../../api/handelLocalStorage';
 import { allLanguagesTranslate } from '../../content/lessens';
 
 import './Setting.css';
 
 const Setting = (props) => {
+  let lang = getLang();
+  if (!lang) {
+    lang = allLanguagesTranslate[1];
+    setLang(lang);
+  }
+  const [activeLang, setActiveLang] = useState(lang);
   return (
     <div className="container">
       <div className="header">
@@ -26,9 +34,10 @@ const Setting = (props) => {
                 name="myLanguage"
                 value={language}
                 onChange={(e) => {
-                  props.fancLanguageTranslate(e.target.value);
+                  setLang(e.target.value);
+                  setActiveLang(e.target.value);
                 }}
-                checked={props.lang === language ? true : false}
+                checked={activeLang === language ? true : false}
               />
               {language}
             </label>

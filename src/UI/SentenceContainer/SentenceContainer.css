@@ -9,7 +9,13 @@
 
 .sentenceContainer .sentence {
   margin-bottom: 40px;
+  margin-top: 4px;
 }
+
+.sentenceContainer .sentence.no_play_btn {
+  margin-bottom: 12px;
+}
+
 .sentenceContainer .sentence.sentence_rtl {
   text-align: right;
 }

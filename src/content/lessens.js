@@ -1,3 +1,19 @@
+const startLessen = {
+  info: {
+    name: 'Start_Lessen',
+    learning: 'sentences',
+  },
+
+  content: [
+    {
+      sentence: 'Willkommen bei Abri Lingo!',
+      english: 'Welcome to Abri Lingo!',
+      russian: 'Добро пожаловать в Абри Линго!',
+      farsi: 'به Abri Lingo خوش آمدید!',
+    },
+  ],
+};
+
 const alllessens = [
   {
     file_name: 'verben_01.json',
@@ -14,6 +30,10 @@ const alllessens = [
   {
     file_name: 'lokale_präpositionen.json',
     name: 'Lokale_Präpositionen',
+  },
+  {
+    file_name: 'temporale_präpositionen.json',
+    name: 'Temporale_Präpositionen',
   },
   {
     file_name: 'a1_u06.json',
@@ -134,4 +154,4 @@ const alllessens = [
 ];
 const allLanguagesTranslate = ['english', 'russian', 'farsi'];
 
-export { alllessens, allLanguagesTranslate };
+export { alllessens, allLanguagesTranslate, startLessen };
