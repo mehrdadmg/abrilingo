@@ -11,8 +11,6 @@ import { getlessen, setlessen } from './api/handelLocalStorage';
 import './App.css';
 
 function App() {
-  console.log('****App****');
-
   let lessen = getlessen();
   if (!lessen) {
     lessen = startLessen.info.name;

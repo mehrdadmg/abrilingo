@@ -1,8 +1,15 @@
+import { useSpeechSynthesis } from 'react-speech-kit';
 import { FaCirclePlay } from 'react-icons/fa6';
 import './SentenceContainer.css';
 
 const SentenceContainer = (props) => {
+  const { speak, voices } = useSpeechSynthesis();
   let baseClassName = props.hasPlayBtn ? 'sentence' : 'sentence no_play_btn';
+
+  const handleSpeak = (text) => {
+    speak({ text, voice: voices.find((v) => v.voiceURI === 'Google Deutsch' && v.lang === 'de-DE'), rate: 0.9 });
+  };
+
   return (
     <div className="sentenceContainer">
       <p
@@ -12,7 +19,12 @@ const SentenceContainer = (props) => {
         {props.text}
       </p>
       {props.hasPlayBtn && (
-        <button className="play-button">
+        <button
+          className="play-button"
+          onClick={() => {
+            handleSpeak(props.text);
+          }}
+        >
           <FaCirclePlay />
         </button>
       )}

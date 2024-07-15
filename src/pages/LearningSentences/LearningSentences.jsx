@@ -71,8 +71,6 @@ const LearningSentences = (props) => {
       }
     }
   };
-  console.log('learnContent 3 ', learnContent.info.name);
-  console.log('lessen 3 ', lessen);
   if (learnContent.info.name === lessen) {
     return (
       <div className="container">

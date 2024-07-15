@@ -6,7 +6,6 @@ import './MainPage.css';
 
 function MainPage(props) {
   let lessen = getlessen();
-  console.log('MainPage_lessen: ', lessen);
   if (!lessen) {
     lessen = startLessen.info.name;
     setlessen(lessen);
