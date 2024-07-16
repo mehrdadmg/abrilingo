@@ -7,7 +7,30 @@ const SentenceContainer = (props) => {
   let baseClassName = props.hasPlayBtn ? 'sentence' : 'sentence no_play_btn';
 
   const handleSpeak = (text) => {
-    speak({ text, voice: voices.find((v) => v.voiceURI === 'Google Deutsch' && v.lang === 'de-DE'), rate: 0.9 });
+    let tempVoice;
+    const selectVoice = () => {
+      tempVoice = voices.find((v) => v.voiceURI === 'Google Deutsch' && v.lang === 'de-DE');
+      if (tempVoice) {
+        return tempVoice;
+      }
+
+      tempVoice = voices.find((v) => v.voiceURI === 'com.apple.voice.compact.de-DE.Anna' && v.lang === 'de-DE');
+      if (tempVoice) {
+        return tempVoice;
+      }
+
+      tempVoice = voices.find((v) => v.lang === 'de-DE');
+      if (tempVoice) {
+        return tempVoice;
+      }
+      return tempVoice;
+    };
+    speak({
+      text,
+      //voice: voices.find((v) => v.voiceURI === 'Google Deutsch' && v.lang === 'de-DE'),
+      voice: selectVoice(),
+      rate: 0.9,
+    });
   };
 
   return (

@@ -1,0 +1,91 @@
+.speechRecognitionContainer {
+  text-align: left;
+
+  margin-bottom: 20px;
+  padding: 10px;
+}
+.speechRecognitionContainer .textarea {
+  position: relative;
+  border: solid gray 1px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+.speechRecognitionContainer textarea {
+  /* height: 100%; */
+  min-height: 70px;
+  width: 100%;
+  margin-bottom: 40px;
+  margin-top: 4px;
+  border: none;
+  font-size: 20px;
+  resize: none;
+}
+
+.speechRecognitionContainer .record-btn {
+  position: absolute;
+  bottom: 2px;
+  right: 10px;
+  padding: 2px 9px;
+  background-color: rgb(255, 255, 255);
+  color: white;
+  border: none;
+  border-radius: 50%;
+  font-size: 36px;
+  cursor: pointer;
+}
+
+.speechRecognitionContainer .record-btn svg {
+  margin-bottom: -3px;
+  margin-right: -3px;
+  color: rgb(30, 135, 255);
+}
+
+.speechRecognitionContainer .answerContainer {
+  position: relative;
+  border: solid gray 1px;
+  border-radius: 5px;
+  margin-bottom: 40px;
+  padding: 10px;
+}
+
+.speechRecognitionContainer .answer {
+  margin-bottom: 40px;
+}
+
+.speechRecognitionContainer .answer-btn {
+  position: absolute;
+  bottom: 2px;
+  left: 10px;
+  padding: 2px 9px;
+  background-color: rgb(255, 255, 255);
+  color: white;
+  border: none;
+  border-radius: 50%;
+  font-size: 36px;
+  cursor: pointer;
+}
+
+.speechRecognitionContainer .answer-btn svg {
+  margin-bottom: -3px;
+  margin-right: -3px;
+  color: rgb(30, 135, 255);
+}
+
+.speechRecognitionContainer .play-button {
+  position: absolute;
+  bottom: 2px;
+  right: 10px;
+  padding: 7px 9px;
+  background-color: rgb(255, 255, 255);
+  color: white;
+  border: none;
+  border-radius: 50%;
+  font-size: 26px;
+  cursor: pointer;
+}
+
+.speechRecognitionContainer .play-button svg {
+  margin-bottom: -3px;
+  margin-right: -3px;
+  color: rgb(30, 135, 255);
+}
