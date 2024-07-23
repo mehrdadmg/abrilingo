@@ -45,6 +45,47 @@ const setPracticeSentenceNo = (practiceSentenceNo) => {
   localStorage.setItem('PracticeSentenceNo', practiceSentenceNo);
 };
 
+const getVoiceURI = () => {
+  console.log('getVoiceURI');
+  let voiceURI = localStorage.getItem('VoiceURI');
+  if (voiceURI) return voiceURI;
+  voiceURI = 'Google Deutsch';
+  localStorage.setItem('VoiceURI', voiceURI);
+  return voiceURI;
+};
+
+const setVoiceURI = (voiceURI) => {
+  localStorage.setItem('VoiceURI', voiceURI);
+};
+
+const getRate = () => {
+  console.log('getRate');
+
+  let rate = localStorage.getItem('Rate');
+  if (rate) return rate;
+  rate = 1;
+  localStorage.setItem('Rate', rate);
+  return rate;
+};
+
+const setRate = (rate) => {
+  localStorage.setItem('Rate', rate);
+};
+
+const getPitch = () => {
+  console.log('getPitch');
+
+  let pitch = localStorage.getItem('Pitch');
+  if (pitch) return pitch;
+  pitch = 1;
+  localStorage.setItem('Pitch', pitch);
+  return pitch;
+};
+
+const setPitch = (pitch) => {
+  localStorage.setItem('Pitch', pitch);
+};
+
 export {
   getLang,
   setLang,
@@ -54,4 +95,10 @@ export {
   setLearnSentenceNo,
   getPracticeSentenceNo,
   setPracticeSentenceNo,
+  getVoiceURI,
+  setVoiceURI,
+  getRate,
+  setRate,
+  getPitch,
+  setPitch,
 };

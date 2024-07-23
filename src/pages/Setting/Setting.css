@@ -30,12 +30,14 @@
   margin-bottom: 15px;
 }
 
-.wrapper_lang {
+.wrapper_lang,
+.wrapper_selected-voices {
   margin-top: 50px;
   text-align: left;
 }
 
-.input_language {
+.input_language,
+.input_voice {
   display: block;
   line-height: 35px;
 }
@@ -72,3 +74,22 @@
   font-size: 20px;
   cursor: pointer;
 } */
+
+.wrapper_selected-voices .voice_test {
+  font-size: 16px;
+  font-weight: 200;
+  margin-bottom: 10px;
+}
+
+.wrapper_selected-voices button {
+  margin-left: 20px;
+  background-color: white;
+  border: none;
+  font-size: 20px;
+}
+
+.wrapper_selected-voices svg {
+  font-size: 20px;
+  margin-bottom: -6px;
+  color: #1e87ff;
+}

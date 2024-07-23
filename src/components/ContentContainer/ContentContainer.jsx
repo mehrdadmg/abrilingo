@@ -23,6 +23,9 @@ const ContentContainer = (props) => {
           text={props.typePage === 'Learn' ? props.content.sentence : props.content[props.translatTo]}
           isRTL={props.translatTo === 'farsi' && props.typePage !== 'Learn'}
           hasPlayBtn={props.typePage === 'Learn' ? true : false}
+          rate={props.rate}
+          pitch={props.pitch}
+          voice={props.voice}
         />
       </div>
       <div className="bottom_sentenceContainer">
@@ -43,9 +46,14 @@ const ContentContainer = (props) => {
             text={props.typePage === 'Learn' ? props.content[props.translatTo] : props.content.sentence}
             isRTL={props.translatTo === 'farsi' && props.typePage === 'Learn'}
             hasPlayBtn={props.typePage === 'Learn' ? false : true}
+            rate={props.rate}
+            pitch={props.pitch}
+            voice={props.voice}
           />
         )}
-        {!viewSpeechRecognition && <SpeechRecognition text={props.content.sentence} />}
+        {!viewSpeechRecognition && (
+          <SpeechRecognition text={props.content.sentence} rate={props.rate} pitch={props.pitch} voice={props.voice} />
+        )}
       </div>
     </div>
   );

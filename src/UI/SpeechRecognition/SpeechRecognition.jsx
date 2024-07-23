@@ -1,14 +1,14 @@
 import { useState } from 'react';
-import { useSpeechRecognition, useSpeechSynthesis } from 'react-speech-kit';
-import { FaCirclePlay } from 'react-icons/fa6';
+import { useSpeechRecognition } from 'react-speech-kit';
+import PlayText from '../../components/PlayText/PlayText';
+
 import { IoMicCircleSharp } from 'react-icons/io5';
 import { IoStopCircleSharp } from 'react-icons/io5';
 import { IoCheckmarkCircleOutline } from 'react-icons/io5';
+
 import './SpeechRecognition.css';
 
 const SpeechRecognition = (props) => {
-  const { speak, voices } = useSpeechSynthesis();
-
   const [value, setValue] = useState('');
   const [viewAnswer, setViewAnswer] = useState(false);
   const { listen, listening, stop } = useSpeechRecognition({
@@ -24,33 +24,6 @@ const SpeechRecognition = (props) => {
       };
 
   const handleanswer = () => setViewAnswer(!viewAnswer);
-
-  const handleSpeak = (text) => {
-    let tempVoice;
-    const selectVoice = () => {
-      tempVoice = voices.find((v) => v.voiceURI === 'Google Deutsch' && v.lang === 'de-DE');
-      if (tempVoice) {
-        return tempVoice;
-      }
-
-      tempVoice = voices.find((v) => v.voiceURI === 'com.apple.voice.compact.de-DE.Anna' && v.lang === 'de-DE');
-      if (tempVoice) {
-        return tempVoice;
-      }
-
-      tempVoice = voices.find((v) => v.lang === 'de-DE');
-      if (tempVoice) {
-        return tempVoice;
-      }
-      return tempVoice;
-    };
-    speak({
-      text,
-      //voice: voices.find((v) => v.voiceURI === 'Google Deutsch' && v.lang === 'de-DE'),
-      voice: selectVoice(),
-      rate: 0.9,
-    });
-  };
 
   return (
     <div className="speechRecognitionContainer">
@@ -73,14 +46,7 @@ const SpeechRecognition = (props) => {
       {viewAnswer && (
         <div className="answerContainer">
           <p className="answer">{props.text}</p>
-          <button
-            className="play-button"
-            onClick={() => {
-              handleSpeak(props.text);
-            }}
-          >
-            <FaCirclePlay />
-          </button>
+          <PlayText text={props.text} rate={props.rate} pitch={props.pitch} voice={props.voice} />
         </div>
       )}
     </div>

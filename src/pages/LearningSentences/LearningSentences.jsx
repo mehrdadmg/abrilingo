@@ -1,6 +1,8 @@
 // src/WordReview.js
 import { useState, useEffect } from 'react';
-import { GrLinkPrevious } from 'react-icons/gr';
+import { useSpeechSynthesis } from 'react-speech-kit';
+
+import { GrPrevious } from 'react-icons/gr';
 
 import BottomActions from '../../UI/BottomActions/BottomActions';
 import ContentContainer from '../../components/ContentContainer/ContentContainer';
@@ -12,6 +14,9 @@ import {
   setLearnSentenceNo,
   getPracticeSentenceNo,
   setPracticeSentenceNo,
+  getVoiceURI,
+  getRate,
+  getPitch,
 } from '../../api/handelLocalStorage';
 import { getData } from '../../api/handelIndexedDB';
 
@@ -20,6 +25,13 @@ import { startLessen } from '../../content/lessens';
 import './LearningSentences.css';
 
 const LearningSentences = (props) => {
+  const rate = getRate();
+  const pitch = getPitch();
+  let voiceURI = getVoiceURI();
+
+  const { voices } = useSpeechSynthesis();
+  let voice = voices.find((v) => v.voiceURI === voiceURI);
+
   let lessen = getlessen();
   if (!lessen) {
     lessen = startLessen.info.name;
@@ -81,7 +93,7 @@ const LearningSentences = (props) => {
               props.BackToMainPage();
             }}
           >
-            <GrLinkPrevious /> Back
+            <GrPrevious /> Main Page
           </button>
           <h2 className="unit_name">{`${props.typePage} ${learnContent.info.learning}: ${learnContent.info.name}`}</h2>
         </div>
@@ -93,6 +105,9 @@ const LearningSentences = (props) => {
             content={learnContent.content[contentIndex]}
             translatTo={getLang()}
             typePage={props.typePage}
+            rate={rate}
+            pitch={pitch}
+            voice={voice}
           />
           <BottomActions
             next={handlerNextContent}
