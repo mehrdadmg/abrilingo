@@ -28,8 +28,8 @@ const Setting = (props) => {
   let voice = voices.find((v) => v.voiceURI === voiceURI);
 
   const [activeVoiceURI, setActiveVoiceURI] = useState(voiceURI);
-  const [selectedRate, setSelectedRate] = useState(getRate()); // New state for rate
-  const [selectepitch, setSelectedPitch] = useState(getPitch()); // New state for pitch
+  const [selectedRate, setSelectedRate] = useState(() => getRate()); // New state for rate
+  const [selectepitch, setSelectedPitch] = useState(() => getPitch()); // New state for pitch
 
   const [activeLang, setActiveLang] = useState(lang);
 
@@ -97,6 +97,7 @@ const Setting = (props) => {
             </label>
           ))}
         <br />
+        <br />
         <label>
           Rate:
           <input
@@ -113,6 +114,7 @@ const Setting = (props) => {
           {selectedRate}
         </label>
         <br />
+        <br />
         <label>
           Pitch:
           <input
@@ -128,6 +130,7 @@ const Setting = (props) => {
           />
           {selectepitch}
         </label>
+        <br />
         <br />
       </div>
     </div>

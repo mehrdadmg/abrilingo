@@ -9,7 +9,13 @@ const PlayText = (props) => {
   const { speak } = useSpeechSynthesis();
 
   const handleSpeak = () => {
-    if (props.voice) {
+    speak({
+      text: props.text,
+      rate: props.rate,
+      pitch: props.pitch,
+      voice: props.voice,
+    });
+    /* if (props.voice) {
       speak({
         text: props.text,
         rate: props.rate,
@@ -18,7 +24,7 @@ const PlayText = (props) => {
       });
     } else {
       console.error('Selected voice is not available');
-    }
+    } */
   };
   return (
     <button

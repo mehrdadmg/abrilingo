@@ -28,7 +28,7 @@ const SpeechRecognition = (props) => {
   return (
     <div className="speechRecognitionContainer">
       <div className="textarea">
-        <textarea value={value} onChange={(event) => setValue(event.target.value)} autofocus />
+        <textarea value={value} onChange={(event) => setValue(event.target.value)} />
         <button
           className="answer-btn"
           onClick={() => {
