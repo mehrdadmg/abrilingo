@@ -1,0 +1,564 @@
+{
+  "info": {
+    "name": "A1U04",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "sentence": "Das ist meine Familie.",
+      "english": "This is my family.",
+      "russian": "Это моя семья.",
+      "farsi": "این خانواده من است."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Oben auf dem Foto rechts sind meine Eltern.",
+      "english": "At the top of the photo on the right are my parents.",
+      "russian": "Наверху на фото справа мои родители.",
+      "farsi": "در بالای عکس سمت راست، والدین من هستند."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Mein Vater heißt Thomas, meine Mutter heißt Sabine.",
+      "english": "My father's name is Thomas, my mother's name is Sabine.",
+      "russian": "Моего отца зовут Томас, мою мать зовут Сабина.",
+      "farsi": "نام پدرم توماس است و نام مادرم سابینه است."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich habe zwei Geschwister, mein Bruder heißt Tobias und meine Schwester heißt Lisa.",
+      "english": "I have two siblings, my brother's name is Tobias and my sister's name is Lisa.",
+      "russian": "У меня два брата и сестры, моего брата зовут Тобиас, а сестру Лиза.",
+      "farsi": "من دو خواهر و برادر دارم، نام برادرم توبیاس است و نام خواهرم لیزا."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Oben links sind meine Großeltern.",
+      "english": "At the top left are my grandparents.",
+      "russian": "Наверху слева мои бабушка и дедушка.",
+      "farsi": "در بالای سمت چپ، پدربزرگ و مادربزرگ من هستند."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Mein Großvater heißt Peter und meine Großmutter heißt Brigitte.",
+      "english": "My grandfather's name is Peter and my grandmother's name is Brigitte.",
+      "russian": "Моего дедушку зовут Петер, а бабушку Бригитта.",
+      "farsi": "نام پدربزرگم پیتر است و نام مادربزرگم بریگیت است."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Meine Familie ist groß. Ich habe auch ...",
+      "english": "My family is large. I also have ...",
+      "russian": "Моя семья большая. У меня также есть ...",
+      "farsi": "خانواده من بزرگ است. من همچنین دارم ..."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Hallo, Alberto, hier ist Elena. Kommst du bald nach Berlin?",
+      "english": "Hello, Alberto, this is Elena. Are you coming to Berlin soon?",
+      "russian": "Привет, Альберто, это Елена. Ты скоро приедешь в Берлин?",
+      "farsi": "سلام، آلبرتو، اینجا الناست. آیا به زودی به برلین می‌آیی؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ja, ich habe jetzt Zeit und komme gerne nach Berlin.",
+      "english": "Yes, I have time now and would love to come to Berlin.",
+      "russian": "Да, у меня сейчас есть время, и я с удовольствием приеду в Берлин.",
+      "farsi": "بله، الان وقت دارم و با کمال میل به برلین می‌آیم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Das ist schön. Wann kommst du?",
+      "english": "That's nice. When are you coming?",
+      "russian": "Это хорошо. Когда ты приедешь?",
+      "farsi": "این خوب است. چه زمانی می‌آیی؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich komme am Wochenende und bleibe zwei Tage. O.k.?",
+      "english": "I am coming on the weekend and staying for two days. Okay?",
+      "russian": "Я приеду на выходные и останусь на два дня. Хорошо?",
+      "farsi": "من آخر هفته می‌آیم و دو روز می‌مانم. خوبه؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Was machen wir?",
+      "english": "What are we going to do?",
+      "russian": "Что мы будем делать?",
+      "farsi": "چه کار خواهیم کرد؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ja, super! Ich habe viele Ideen.",
+      "english": "Yes, great! I have many ideas.",
+      "russian": "Да, отлично! У меня много идей.",
+      "farsi": "بله، عالی! من ایده‌های زیادی دارم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "In Berlin gibt es viele Sehenswürdigkeiten.",
+      "english": "There are many sights in Berlin.",
+      "russian": "В Берлине много достопримечательностей.",
+      "farsi": "در برلین جاهای دیدنی زیادی وجود دارد."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Also, zuerst kaufen wir Lebensmittel im Supermarkt.",
+      "english": "So, first we buy groceries at the supermarket.",
+      "russian": "Итак, сначала мы покупаем продукты в супермаркете.",
+      "farsi": "پس، اول از همه در سوپرمارکت مواد غذایی می‌خریم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Dann machen wir eine Radtour.",
+      "english": "Then we will go on a bike tour.",
+      "russian": "Потом мы поедем на велопрогулку.",
+      "farsi": "سپس به یک تور دوچرخه‌سواری می‌رویم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Danach essen wir zu Mittag.",
+      "english": "Afterwards, we will have lunch.",
+      "russian": "После этого мы пообедаем.",
+      "farsi": "بعد از آن، ناهار می‌خوریم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Und dann besichtigen wir Berlin.",
+      "english": "And then we will visit Berlin.",
+      "russian": "А затем мы осмотрим Берлин.",
+      "farsi": "و سپس از برلین بازدید می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Es gibt sehr viele Sehenswürdigkeiten.",
+      "english": "There are very many sights.",
+      "russian": "Там очень много достопримечательностей.",
+      "farsi": "جاهای دیدنی بسیار زیادی وجود دارد."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Wir trinken einen Kaffee und dann besuchen wir ein Straßenfest in Kreuzberg.",
+      "english": "We will drink a coffee and then visit a street festival in Kreuzberg.",
+      "russian": "Мы выпьем кофе, а затем посетим уличный фестиваль в Кройцберге.",
+      "farsi": "یک قهوه می‌نوشیم و سپس به یک جشن خیابانی در کرویتسبرگ می‌رویم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Wie findest du das?",
+      "english": "How do you like that?",
+      "russian": "Как тебе это?",
+      "farsi": "نظرت چیست؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Also, Marek, kommst du dann am Wochenende?",
+      "english": "So, Marek, are you coming on the weekend?",
+      "russian": "Итак, Марек, ты приедешь на выходные?",
+      "farsi": "پس، مارک، آخر هفته می‌آیی؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ja, natürlich. Was machen wir?",
+      "english": "Yes, of course. What are we going to do?",
+      "russian": "Да, конечно. Что мы будем делать?",
+      "farsi": "بله، البته. چه کار خواهیم کرد؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich habe einige Ideen.",
+      "english": "I have some ideas.",
+      "russian": "У меня есть несколько идей.",
+      "farsi": "چند ایده دارم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Zuerst machen wir einen Stadtbummel.",
+      "english": "First, we will take a stroll around the city.",
+      "russian": "Сначала мы прогуляемся по городу.",
+      "farsi": "اول، در شهر قدم می‌زنیم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Dann besichtigen wir den Hafen.",
+      "english": "Then we will visit the harbor.",
+      "russian": "Потом мы посетим порт.",
+      "farsi": "سپس از بندر بازدید می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Der Hafen ist sehr groß und sehr interessant.",
+      "english": "The harbor is very large and very interesting.",
+      "russian": "Порт очень большой и очень интересный.",
+      "farsi": "بندر بسیار بزرگ و بسیار جالب است."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Wir sehen dann auch die Elbphilharmonie.",
+      "english": "We will also see the Elbphilharmonie.",
+      "russian": "Мы также увидим Эльбскую филармонию.",
+      "farsi": "همچنین فیلارمونی البه را می‌بینیم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Danach besichtigen wir das Rathaus und trinken einen Kaffee in der Innenstadt.",
+
+      "english": "After that, we will visit the town hall and drink a coffee in the city center.",
+      "russian": "После этого мы осмотрим ратушу и выпьем кофе в центре города.",
+      "farsi": "بعد از آن، از شهرداری بازدید می‌کنیم و در مرکز شهر قهوه می‌نوشیم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Was willst du noch machen?",
+      "english": "What else do you want to do?",
+      "russian": "Что ты ещё хочешь сделать?",
+      "farsi": "چه کار دیگری می‌خواهی انجام دهی؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich möchte gerne..",
+      "english": "I would like to..",
+      "russian": "Я бы хотел..",
+      "farsi": "من دوست دارم..."
+    },
+    {
+      "isSelected": false,
+      "sentence": "In unserer Reihe ‘Senioren in Bremen’ sprechen wir heute mit Frau Hermine Müller.",
+      "english": "In our series 'Seniors in Bremen' we are talking today with Mrs. Hermine Müller.",
+      "russian": "В нашей серии 'Пожилые люди в Бремене' мы сегодня говорим с госпожой Гермине Мюллер.",
+      "farsi": "در مجموعه «سالمندان در برمن» امروز با خانم هرماین مولر صحبت می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Frau Müller, erzählen Sie doch von Ihrem Leben früher und von Ihrer Familie.",
+      "english": "Mrs. Müller, please tell us about your life in the past and about your family.",
+      "russian": "Госпожа Мюллер, расскажите нам о своей жизни в прошлом и о своей семье.",
+      "farsi": "خانم مولر، لطفاً در مورد زندگی گذشته‌تان و خانواده‌تان به ما بگویید."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ach, früher war alles anders.",
+      "english": "Oh, everything was different in the past.",
+      "russian": "О, раньше все было по-другому.",
+      "farsi": "آه، گذشته همه چیز متفاوت بود."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Die Familien in Deutschland waren groß, eine Familie hatte oft fünf, sechs oder mehr Kinder.",
+      "english": "Families in Germany were large, often a family had five, six or more children.",
+      "russian": "Семьи в Германии были большими, часто в семье было пять, шесть или больше детей.",
+      "farsi": "خانواده‌ها در آلمان بزرگ بودند، یک خانواده اغلب پنج، شش یا بیشتر فرزند داشت."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Wer ist das auf dem Foto?",
+      "english": "Who is that in the photo?",
+      "russian": "Кто это на фотографии?",
+      "farsi": "چه کسی در عکس است؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Auf dem Foto sind meine Großeltern und ihre Kinder.",
+      "english": "In the photo are my grandparents and their children.",
+      "russian": "На фотографии мои бабушка и дедушка и их дети.",
+      "farsi": "در عکس، پدربزرگ و مادربزرگم و فرزندانشان هستند."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Meine Großeltern hatten sechs Kinder.",
+      "english": "My grandparents had six children.",
+      "russian": "У моих бабушки и дедушки было шестеро детей.",
+      "farsi": "پدربزرگ و مادربزرگم شش فرزند داشتند."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Meine Mutter sitzt vorne in der Mitte.",
+      "english": "My mother is sitting in the middle at the front.",
+      "russian": "Моя мама сидит впереди в середине.",
+      "farsi": "مادرم در وسط جلو نشسته است."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Was war Ihr Vater von Beruf?",
+      "english": "What was your father's profession?",
+      "russian": "Кем был ваш отец по профессии?",
+      "farsi": "شغل پدرتان چه بود؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Mein Großvater war Arzt von Beruf, mein Vater war auch Arzt.",
+      "english": "My grandfather was a doctor by profession, my father was also a doctor.",
+      "russian": "Мой дедушка был врачом по профессии, мой отец тоже был врачом.",
+      "farsi": "پدربزرگم پزشک بود و پدرم هم پزشک بود."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Meine Mutter hatte keinen Beruf.",
+      "english": "My mother did not have a profession.",
+      "russian": "У моей мамы не было профессии.",
+      "farsi": "مادرم شغلی نداشت."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Sie hatte viel Arbeit im Haus.",
+      "english": "She had a lot of work at home.",
+      "russian": "У неё было много работы по дому.",
+      "farsi": "او در خانه کارهای زیادی داشت."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Wir waren drei Geschwister.",
+      "english": "We were three siblings.",
+      "russian": "У нас было трое детей.",
+      "farsi": "ما سه خواهر و برادر بودیم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Wir hatten natürlich keinen Computer und kein Smartphone.",
+      "english": "Of course, we did not have a computer or a smartphone.",
+      "russian": "Конечно, у нас не было компьютера и смартфона.",
+      "farsi": "طبعاً ما نه کامپیوتر داشتیم و نه گوشی هوشمند."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Wir waren viel draußen.",
+      "english": "We were outside a lot.",
+      "russian": "Мы много времени проводили на улице.",
+      "farsi": "ما بیشتر بیرون بودیم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Das war schön.",
+      "english": "That was nice.",
+      "russian": "Это было прекрасно.",
+      "farsi": "این خوب بود."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich hatte keine langweilige Kindheit.",
+      "english": "I did not have a boring childhood.",
+      "russian": "У меня не было скучного детства.",
+      "farsi": "کودکی خسته کننده‌ای نداشتم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Meine Kinder und Enkelkinder leben ganz anders.",
+      "english": "My children and grandchildren live very differently.",
+      "russian": "Мои дети и внуки живут совсем по-другому.",
+      "farsi": "فرزندان و نوه‌هایم کاملاً متفاوت زندگی می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Der Sonntag bei Familie Schmidt.",
+      "english": "Sunday at the Schmidt family.",
+      "russian": "Воскресенье в семье Шмидт.",
+      "farsi": "یکشنبه در خانواده اشمیت."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Der Sonntag ist ruhig und gemütlich.",
+      "english": "Sunday is quiet and cozy.",
+      "russian": "Воскресенье тихое и уютное.",
+      "farsi": "یکشنبه آرام و دلنشین است."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Alle schlafen lange.",
+      "english": "Everyone sleeps late.",
+      "russian": "Все спят долго.",
+      "farsi": "همه دیر می‌خوابند."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Die Eltern kochen das Mittagessen.",
+      "english": "The parents cook lunch.",
+      "russian": "Родители готовят обед.",
+      "farsi": "والدین ناهار می‌پزند."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Die Kinder spielen.",
+      "english": "The children play.",
+      "russian": "Дети играют.",
+      "farsi": "بچه‌ها بازی می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Dann essen sie Schokolade.",
+      "english": "Then they eat chocolate.",
+      "russian": "Потом они едят шоколад.",
+      "farsi": "سپس آنها شکلات می‌خورند."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Frau Schmidt liest ein Buch.",
+      "english": "Mrs. Schmidt reads a book.",
+      "russian": "Фрау Шмидт читает книгу.",
+      "farsi": "خانم اشمیت کتاب می‌خواند."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Herr Schmidt schläft.",
+      "english": "Mr. Schmidt sleeps.",
+      "russian": "Господин Шмидт спит.",
+      "farsi": "آقای اشمیت می‌خوابد."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Danach besuchen sie Freunde.",
+      "english": "Afterwards, they visit friends.",
+      "russian": "После этого они навещают друзей.",
+      "farsi": "بعد از آن، به دیدار دوستان می‌روند."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Die Kinder sehen einen Film.",
+      "english": "The children watch a movie.",
+      "russian": "Дети смотрят фильм.",
+      "farsi": "بچه‌ها یک فیلم تماشا می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Und? Was machen wir morgen?",
+
+      "english": "And? What are we doing tomorrow?",
+      "russian": "И? Что мы делаем завтра?",
+      "farsi": "خب؟ فردا چه کار می‌کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Wir sehen einen Film! Oder wir chillen und essen Pizza!",
+      "english": "We watch a movie! Or we chill and eat pizza!",
+      "russian": "Мы смотрим фильм! Или мы отдыхаем и едим пиццу!",
+      "farsi": "ما یک فیلم تماشا می‌کنیم! یا استراحت می‌کنیم و پیتزا می‌خوریم!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich habe eine Idee.",
+      "english": "I have an idea.",
+      "russian": "У меня есть идея.",
+      "farsi": "یک ایده دارم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Wir nehmen die S-Bahn und fahren nach Potsdam.",
+      "english": "We take the S-Bahn and go to Potsdam.",
+      "russian": "Мы сядем на городскую электричку и поедем в Потсдам.",
+      "farsi": "ما با S-Bahn به پوتسدام می‌رویم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Potsdam ist sehr schön.",
+      "english": "Potsdam is very beautiful.",
+      "russian": "Потсдам очень красивый.",
+      "farsi": "پوتسدام بسیار زیباست."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Die Stadt hat viele Sehenswürdigkeiten.",
+      "english": "The city has many sights.",
+      "russian": "В городе много достопримечательностей.",
+      "farsi": "شهر جاذبه‌های زیادی دارد."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Gut. Wir fahren morgen nach Potsdam.",
+      "english": "Good. We go to Potsdam tomorrow.",
+      "russian": "Хорошо. Мы поедем в Потсдам завтра.",
+      "farsi": "خوب. فردا به پوتسدام می‌رویم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Und was machen wir jetzt?",
+      "english": "And what are we doing now?",
+      "russian": "И что мы делаем сейчас?",
+      "farsi": "و حالا چه کار می‌کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Jetzt trinke ich noch einen Kaffee und dann kaufen wir Lebensmittel im Supermarkt.",
+      "english": "Now I drink another coffee and then we buy groceries at the supermarket.",
+      "russian": "Сейчас я выпью ещё кофе, а потом мы купим продукты в супермаркете.",
+      "farsi": "حالا من یک قهوه دیگر می‌نوشم و سپس از سوپرمارکت مواد غذایی می‌خریم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Prima! Kaufen wir auch Pizza?",
+      "english": "Great! Shall we also buy pizza?",
+      "russian": "Отлично! Купим ли мы также пиццу?",
+      "farsi": "عالی! آیا پیتزا هم می‌خریم؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Die bestimmen Artikel sind der, die und das, im Plural die.",
+      "english": "The definite articles are der, die, and das, in the plural die.",
+      "russian": "Определённые артикли это der, die и das, во множественном числе die.",
+      "farsi": "حروف تعریف معین der, die و das هستند، در جمع die."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Die unbestimmten Artikel sind ein und eine.",
+      "english": "The indefinite articles are ein and eine.",
+      "russian": "Неопределённые артикли это ein и eine.",
+      "farsi": "حروف تعریف نامعین ein و eine هستند."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Entschuldigen Sie, können Sie das bitte wiederholen?",
+      "english": "Excuse me, can you please repeat that?",
+      "russian": "Извините, не могли бы вы повторить это?",
+      "farsi": "ببخشید، می‌توانید لطفاً آن را تکرار کنید؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Kann ich heute 20 Minuten früher gehen?",
+      "english": "Can I leave 20 minutes early today?",
+      "russian": "Могу я сегодня уйти на 20 минут раньше?",
+      "farsi": "می‌توانم امروز ۲۰ دقیقه زودتر بروم؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich habe einen Termin.",
+      "english": "I have an appointment.",
+      "russian": "У меня назначена встреча.",
+      "farsi": "من یک قرار ملاقات دارم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ja, das geht. Bitte machen Sie dann die Aufgaben 4 und 5 alleine zu Hause.",
+      "english": "Yes, that is fine. Please do tasks 4 and 5 alone at home.",
+      "russian": "Да, это возможно. Пожалуйста, выполните задания 4 и 5 самостоятельно дома.",
+      "farsi": "بله، مشکلی نیست. لطفاً وظایف ۴ و ۵ را در خانه به تنهایی انجام دهید."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Haben Sie noch Fragen?",
+      "english": "Do you have any other questions?",
+      "russian": "У вас есть ещё вопросы?",
+      "farsi": "سؤالی دیگر دارید؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ja, was ist der Unterschied von wo und woher?",
+      "english": "Yes, what is the difference between where and where from?",
+      "russian": "Да, в чём разница между где и откуда?",
+      "farsi": "بله، تفاوت بین «کجا» و «از کجا» چیست؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Können Sie bitte noch einmal erklären: Was ist Plural?",
+      "english": "Can you please explain again: What is plural?",
+      "russian": "Не могли бы вы ещё раз объяснить: Что такое множественное число?",
+      "farsi": "می‌توانید لطفاً دوباره توضیح دهید: جمع چیست؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Im Singular sagt man kein Haus, im Plural keine Häuser.",
+      "english": "In the singular, you say 'no house,' in the plural, 'no houses.'",
+      "russian": "В единственном числе вы говорите 'kein Haus', во множественном числе 'keine Häuser'.",
+      "farsi": "در مفرد می‌گویید 'هیچ خانه‌ای'، در جمع، 'هیچ خانه‌هایی'."
+    }
+  ]
+}

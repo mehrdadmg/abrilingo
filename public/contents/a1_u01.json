@@ -1,0 +1,86 @@
+{
+  "info": {
+    "name": "A1U01",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "sentence": "Wie heißen Sie?",
+      "english": "What is your name?",
+      "russian": "Как вас зовут?",
+      "farsi": "نام شما چیست؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Wie bitte? Wie schreibt man das?",
+      "english": "Pardon? How do you spell that?",
+      "russian": "Извините? Как это пишется?",
+      "farsi": "ببخشید؟ چطور این را هجی می‌کنید؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Moment, ich buchstabiere.",
+      "english": "Just a moment, I will spell it.",
+      "russian": "Минуточку, я продиктую по буквам.",
+      "farsi": "لحظه‌ای صبر کنید، من آن را هجی می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "wie heißt du?",
+      "english": "What is your name? (informal)",
+      "russian": "Как тебя зовут? (неформально)",
+      "farsi": "نام تو چیست؟ (غیررسمی)"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Tschüss, Daniel.",
+      "english": "Bye, Daniel.",
+      "russian": "Пока, Даниэль.",
+      "farsi": "خدا حافظ، دانیل."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Guten Tag, Frau Schneider, wie geht es Ihnen?",
+      "english": "Good day, Mrs. Schneider, how are you?",
+      "russian": "Добрый день, госпожа Шнайдер, как вы?",
+      "farsi": "سلام، خانم شنیيدر، حال شما چطور است؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Woher kommen Sie?",
+      "english": "Where are you from?",
+      "russian": "Откуда вы?",
+      "farsi": "شما اهل کجا هستید؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Wie geht es Ihnen?",
+      "english": "How are you?",
+      "russian": "Как вы?",
+      "farsi": "حال شما چطور است؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Was sind Sie von Beruf?",
+      "english": "What is your profession?",
+      "russian": "Кто вы по профессии?",
+      "farsi": "شغل شما چیست؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Wie bitte?",
+      "english": "Pardon?",
+      "russian": "Извините?",
+      "farsi": "ببخشید؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Wie schreibt man das?",
+      "english": "How do you spell that?",
+      "russian": "Как это пишется?",
+      "farsi": "چطور این را هجی می‌کنید؟"
+    }
+  ]
+}

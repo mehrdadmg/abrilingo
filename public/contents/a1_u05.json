@@ -1,0 +1,415 @@
+{
+  "info": {
+    "name": "A1U05",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "sentence": "Wie spät ist es?",
+      "english": "What time is it?",
+      "russian": "Который час?",
+      "farsi": "ساعت چند است؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Es ist halb sechs. Ach nein, es ist halb sieben.",
+      "english": "It is half past five. Oh no, it is half past six.",
+      "russian": "Сейчас половина шестого. Ой, нет, уже половина седьмого.",
+      "farsi": "ساعت پنج و نیم است. آه نه، ساعت شش و نیم است."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ach, schon so spät.",
+      "english": "Oh, it's already so late.",
+      "russian": "Ой, уже так поздно.",
+      "farsi": "آه، اینقدر دیر شده است."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Mach schnell! Es ist schon zwanzig nach sieben!",
+      "english": "Hurry up! It is already twenty past seven!",
+      "russian": "Поторопись! Уже двадцать минут восьмого!",
+      "farsi": "عجله کن! ساعت هفت و بیست دقیقه است!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Der Bus fährt in zehn Minuten.",
+      "english": "The bus leaves in ten minutes.",
+      "russian": "Автобус отправляется через десять минут.",
+      "farsi": "اتوبوس ده دقیقه دیگر حرکت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Nein, es ist erst Viertel nach sieben.",
+      "english": "No, it is only a quarter past seven.",
+      "russian": "Нет, сейчас только четверть восьмого.",
+      "farsi": "نه، ساعت تازه هفت و ربع است."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Wir haben noch Zeit.",
+      "english": "We still have time.",
+      "russian": "У нас еще есть время.",
+      "farsi": "ما هنوز وقت داریم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ach so, dann ist gut.",
+      "english": "Oh, then it's good.",
+      "russian": "Ах так, тогда хорошо.",
+      "farsi": "آه، پس خوب است."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Wann kommst du?",
+      "english": "When are you coming?",
+      "russian": "Когда ты придешь?",
+      "farsi": "چه زمانی می‌آیی؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich bin um vier Uhr da.",
+      "english": "I will be there at four o'clock.",
+      "russian": "Я буду там в четыре часа.",
+      "farsi": "من ساعت چهار آنجا خواهم بود."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Also in zwei Stunden?",
+      "english": "So in two hours?",
+      "russian": "Значит, через два часа?",
+      "farsi": "پس دو ساعت دیگر؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Nein, in zweieinhalb Stunden. Es ist jetzt halb zwei.",
+      "english": "No, in two and a half hours. It is now half past one.",
+      "russian": "Нет, через два с половиной часа. Сейчас половина второго.",
+      "farsi": "نه، دو ساعت و نیم دیگر. الان ساعت یک و نیم است."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Jetzt ist es zwanzig vor drei. Peter kommt um drei Uhr.",
+      "english": "It is now twenty to three. Peter is coming at three o'clock.",
+      "russian": "Сейчас без двадцати три. Питер придет в три часа.",
+      "farsi": "الان بیست دقیقه به سه است. پیتر ساعت سه می‌آید."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Vielleicht kommt er auch später. Er ist selten pünktlich.",
+      "english": "Maybe he will come later. He is rarely punctual.",
+      "russian": "Может быть, он придет позже. Он редко бывает пунктуален.",
+      "farsi": "شاید او دیرتر بیاید. او به ندرت وقت‌شناس است."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Guten Tag. Wir begrüßen alle Passagiere, gebucht auf Flug Nr. LH 113 um 13.50 Uhr nach Frankfurt. Wir beginnen jetzt mit dem Einstieg.",
+      "english": "Good day. We welcome all passengers booked on flight number LH 113 at 13:50 to Frankfurt. We will now begin boarding.",
+      "russian": "Добрый день. Мы приветствуем всех пассажиров, забронировавших билеты на рейс № LH 113 в 13:50 до Франкфурта. Мы начинаем посадку.",
+      "farsi": "روز بخیر. به همه مسافران پرواز شماره LH 113 به مقصد فرانکفورت در ساعت ۱۳:۵۰ خوش آمد می‌گوییم. ما اکنون سوار شدن را آغاز می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Vorsicht an Gleis 3! Der ICE nach Hamburg-Altona, planmäßige Abfahrt 14 Uhr 19, fährt jetzt ein.",
+      "english": "Attention at platform 3! The ICE to Hamburg-Altona, scheduled departure at 14:19, is now arriving.",
+      "russian": "Внимание на платформе 3! Поезд ICE до Гамбург-Альтона, плановое отправление в 14:19, прибывает.",
+      "farsi": "توجه در سکوی ۳! قطار ICE به مقصد هامبورگ-آلتونا، با زمان حرکت برنامه‌ریزی شده در ساعت ۱۴:۱۹، اکنون در حال ورود است."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Hast du die Parkscheibe?",
+      "english": "Do you have the parking disc?",
+      "russian": "У тебя есть парковочный диск?",
+      "farsi": "آیا پارکینگ دیسک را داری؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ja, hier. Wie viel Uhr ist es?",
+      "english": "Yes, here. What time is it?",
+      "russian": "Да, вот. Который час?",
+      "farsi": "بله، اینجاست. ساعت چند است؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Wann fängt das Konzert an?",
+      "english": "When does the concert start?",
+      "russian": "Когда начинается концерт?",
+      "farsi": "کنسرت کی شروع می‌شود؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Wir haben noch Zeit. Um 20 Uhr.",
+      "english": "We still have time. At 8 PM.",
+      "russian": "У нас еще есть время. В 20:00.",
+      "farsi": "ما هنوز وقت داریم. ساعت ۸."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Es ist 6 Uhr und hier ist Radio Brandenburg mit einem Verkehrshinweis für die Autofahrer.",
+      "english": "It is 6 o'clock and this is Radio Brandenburg with a traffic update for drivers.",
+      "russian": "Сейчас 6 часов, и это Радио Бранденбург с обновлением трафика для водителей.",
+      "farsi": "ساعت ۶ است و این رادیو براندنبورگ با یک به‌روزرسانی ترافیک برای رانندگان است."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Arbeitest du diese Woche?",
+      "english": "Are you working this week?",
+      "russian": "Ты работаешь на этой неделе?",
+      "farsi": "آیا این هفته کار می‌کنی؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Nein, Montag und Dienstag arbeite ich nicht, aber Montag habe ich um 16.00 Uhr Basketballtraining und dann repariere ich auch mein Fahrrad.",
+      "english": "No, I don't work on Monday and Tuesday, but on Monday I have basketball training at 4 PM and then I will also repair my bike.",
+      "russian": "Нет, в понедельник и вторник я не работаю, но в понедельник у меня тренировка по баскетболу в 16:00, а потом я также починю свой велосипед.",
+      "farsi": "نه، من دوشنبه و سه‌شنبه کار نمی‌کنم، اما دوشنبه ساعت ۴ بعدازظهر تمرین بسکتبال دارم و بعد دوچرخه‌ام را هم تعمیر می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Das ist schon lange kaputt.",
+      "english": "It has been broken for a long time.",
+      "russian": "Это уже давно сломано.",
+      "farsi": "این مدت‌هاست که خراب شده است."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Am Dienstagabend kommen Freunde. Wir kochen zusammen.",
+      "english": "Friends are coming on Tuesday evening. We will cook together.",
+      "russian": "Во вторник вечером придут друзья. Мы будем готовить вместе.",
+      "farsi": "عصر سه‌شنبه دوستان می‌آیند. ما با هم آشپزی خواهیم کرد."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Arbeitest du von Mittwoch bis Freitag?",
+      "english": "Do you work from Wednesday to Friday?",
+      "russian": "Ты работаешь с среды по пятницу?",
+      "farsi": "آیا از چهارشنبه تا جمعه کار می‌کنی؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ja, da arbeite ich, aber ich habe auch andere Pläne.",
+      "english": "Yes, I work then, but I also have other plans.",
+      "russian": "Да, я работаю тогда, но у меня также есть другие планы.",
+      "farsi": "بله، آن زمان کار می‌کنم، اما برنامه‌های دیگری هم دارم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich kaufe eine Fahrkarte nach Frankfurt, vielleicht am Mittwoch oder Donnerstag.",
+      "english": "I am buying a ticket to Frankfurt, maybe on Wednesday or Thursday.",
+      "russian": "Я покупаю билет до Франкфурта, возможно, в среду или четверг.",
+      "farsi": "من یک بلیط به فرانکفورت می‌خرم، شاید چهارشنبه یا پنج‌شنبه."
+    },
+    {
+      "isSelected": false,
+      "sentence": "In Frankfurt besuche ich am Wochenende meine Schwester.",
+      "english": "In Frankfurt, I will visit my sister on the weekend.",
+      "russian": "Во Франкфурте я посещу свою сестру на выходных.",
+      "farsi": "در فرانکفورت، آخر هفته خواهرم را می‌بینم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Am Freitagabend packe ich dann den Koffer und danach lese ich noch etwas, aber ich gehe früh schlafen.",
+      "english": "On Friday evening, I will pack the suitcase and then read a bit, but I will go to bed early.",
+      "russian": "В пятницу вечером я упакую чемодан, потом немного почитаю, но рано лягу спать.",
+      "farsi": "جمعه شب چمدانم را می‌بندم و بعد کمی مطالعه می‌کنم، اما زود به رختخواب می‌روم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Schade, dann hast du ja fast keine Zeit für ein Treffen.",
+      "english": "Too bad, then you have almost no time for a meeting.",
+      "russian": "Жаль, тогда у тебя почти нет времени на встречу.",
+      "farsi": "خیلی بد، پس تو تقریباً هیچ وقت برای ملاقات نداری."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ja, aber sicher nächste Woche.",
+      "english": "Yes, but surely next week.",
+      "russian": "Да, но точно на следующей неделе.",
+      "farsi": "بله، اما قطعاً هفته آینده."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Sandip Kumar, ja bitte?",
+      "english": "Sandip Kumar, yes please?",
+      "russian": "Сандип Кумар, да, пожалуйста?",
+      "farsi": "ساندیپ کومار، بله لطفاً؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Hallo Sandip, hier ist Leonidas.",
+      "english": "Hello Sandip, this is Leonidas.",
+      "russian": "Привет, Сандип, это Леонид.",
+      "farsi": "سلام ساندیپ، اینجا لئونیداس است."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Spielen wir zusammen Schach? Vielleicht am Dienstagnachmittag?",
+      "english": "Shall we play chess together? Maybe on Tuesday afternoon?",
+      "russian": "Сыграем в шахматы вместе? Может быть, во вторник днем?",
+      "farsi": "آیا با هم شطرنج بازی کنیم؟ شاید عصر سه‌شنبه؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ja, gerne, aber nicht am Dienstag, da machen wir einen Ausflug nach Stuttgart.",
+      "english": "Yes, gladly, but not on Tuesday, we are going on a trip to Stuttgart.",
+      "russian": "Да, с удовольствием, но не во вторник, мы поедем в поездку в Штутгарт.",
+      "farsi": "بله، با کمال میل، اما نه سه‌شنبه، ما به یک سفر به اشتوتگارت می‌رویم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Hast du am Mittwoch Zeit?",
+      "english": "Do you have time on Wednesday?",
+      "russian": "У тебя есть время в среду?",
+      "farsi": "آیا چهارشنبه وقت داری؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ja, das geht. Um drei Uhr habe ich Zeit.",
+      "english": "Yes, that works. I am free at three o'clock.",
+      "russian": "Да, это подходит. В три часа я свободен.",
+      "farsi": "بله، خوب است. من ساعت سه وقت دارم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Geht es auch später? Am Mittwochnachmittag habe ich einen Zahnarzttermin.",
+      "english": "Is later also okay? I have a dentist appointment on Wednesday afternoon.",
+      "russian": "Можно позже? У меня встреча с зубным врачом в среду днем.",
+      "farsi": "آیا دیرتر هم خوب است؟ من عصر چهارشنبه قرار دندانپزشکی دارم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Gut, dann komme ich um fünf. Ich bringe mein Schachspiel mit.",
+      "english": "Okay, then I will come at five. I will bring my chess set.",
+      "russian": "Хорошо, тогда я приду в пять. Я принесу свои шахматы.",
+      "farsi": "خوب، پس من ساعت پنج می‌آیم. من شطرنجم را می‌آورم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Sehr gut. Dann bis Mittwoch.",
+      "english": "Very good. See you on Wednesday.",
+      "russian": "Очень хорошо. До встречи в среду.",
+      "farsi": "خیلی خوب. تا چهارشنبه."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Bis Mittwoch. Tschüss!",
+      "english": "See you on Wednesday. Bye!",
+      "russian": "До среды. Пока!",
+      "farsi": "تا چهارشنبه. خداحافظ!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Wie spät ist es?",
+      "english": "What time is it?",
+      "russian": "Который час?",
+      "farsi": "ساعت چند است؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Wie viel Uhr ist es?",
+      "english": "What time is it?",
+      "russian": "Который час?",
+      "farsi": "ساعت چند است؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Wann fängt der Kurs an?",
+      "english": "When does the course start?",
+      "russian": "Когда начинается курс?",
+      "farsi": "دوره کی شروع می‌شود؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Bis wann geht der Kurs?",
+      "english": "Until when does the course go?",
+      "russian": "До какого времени идет курс?",
+      "farsi": "دوره تا کی ادامه دارد؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Wann beginnt die Pause?",
+      "english": "When does the break start?",
+      "russian": "Когда начинается перерыв?",
+      "farsi": "استراحت چه زمانی شروع می‌شود؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Wann hört der Kurs auf?",
+      "english": "When does the course end?",
+      "russian": "Когда заканчивается курс?",
+      "farsi": "دوره چه زمانی تمام می‌شود؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Hast du heute Zeit?",
+      "english": "Do you have time today?",
+      "russian": "У тебя есть время сегодня?",
+      "farsi": "آیا امروز وقت داری؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Spielen wir zusammen Schach?",
+      "english": "Shall we play chess together?",
+      "russian": "Сыграем в шахматы вместе?",
+      "farsi": "آیا با هم شطرنج بازی کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Kommst du mit?",
+      "english": "Are you coming along?",
+      "russian": "Ты пойдешь со мной?",
+      "farsi": "آیا با من می‌آیی؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Wann stehst du morgen auf?",
+      "english": "When are you getting up tomorrow?",
+      "russian": "Когда ты встаешь завтра?",
+      "farsi": "چه زمانی فردا بیدار می‌شوی؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Um sechs Uhr.",
+      "english": "At six o'clock.",
+      "russian": "В шесть часов.",
+      "farsi": "ساعت شش."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Furchtbar!",
+      "english": "Terrible!",
+      "russian": "Ужасно!",
+      "farsi": "وحشتناک!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich gehe joggen. Kommst du mit?",
+      "english": "I am going jogging. Are you coming along?",
+      "russian": "Я иду на пробежку. Ты пойдешь со мной?",
+      "farsi": "من می‌روم دویدن. آیا با من می‌آیی؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Wie bitte? Um sechs Uhr?!",
+      "english": "What? At six o'clock?!",
+      "russian": "Что? В шесть часов?!",
+      "farsi": "چه؟ ساعت شش؟!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Dann ist draußen alles noch ganz ruhig.",
+      "english": "Then it is still very quiet outside.",
+      "russian": "Тогда на улице еще совсем тихо.",
+      "farsi": "آن وقت بیرون هنوز کاملاً آرام است."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Oh, wie schön! Aber nein. Nein danke.",
+      "english": "Oh, how nice! But no. No, thank you.",
+      "russian": "Ой, как здорово! Но нет. Нет, спасибо.",
+      "farsi": "اوه، چقدر خوب! اما نه. نه، ممنون."
+    }
+  ]
+}

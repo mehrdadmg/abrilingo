@@ -36,6 +36,22 @@ const alllessens = [
     name: 'Temporale_Präpositionen',
   },
   {
+    file_name: 'a1_u02.json',
+    name: 'A1U02',
+  },
+  {
+    file_name: 'a1_u03.json',
+    name: 'A1U03',
+  },
+  {
+    file_name: 'a1_u04.json',
+    name: 'A1U04',
+  },
+  {
+    file_name: 'a1_u05.json',
+    name: 'A1U05',
+  },
+  {
     file_name: 'a1_u06.json',
     name: 'A1U06',
   },

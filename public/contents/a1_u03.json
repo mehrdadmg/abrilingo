@@ -1,0 +1,380 @@
+{
+  "info": {
+    "name": "A1U03",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "sentence": "Oje, das ist noch viel Arbeit.",
+      "english": "Oh dear, there is still a lot of work.",
+      "russian": "Ой, это ещё много работы.",
+      "farsi": "ای وای، هنوز کار زیادی باقی مانده است."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Wir brauchen noch ein Regal für das Wohnzimmer.",
+      "english": "We still need a shelf for the living room.",
+      "russian": "Нам всё ещё нужна полка для гостиной.",
+      "farsi": "ما هنوز به یک قفسه برای اتاق نشیمن نیاز داریم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ja, das stimmt, aber das ist kein Problem.",
+      "english": "Yes, that's true, but that's not a problem.",
+      "russian": "Да, это верно, но это не проблема.",
+      "farsi": "بله، درست است، اما این مشکلی نیست."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Möbel-Hanser hat gute Regale.",
+      "english": "Möbel-Hanser has good shelves.",
+      "russian": "У Möbel-Hanser хорошие полки.",
+      "farsi": "موبل-هانسر قفسه‌های خوبی دارد."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Sie sind groß und nicht teuer.",
+      "english": "They are large and not expensive.",
+      "russian": "Они большие и недорогие.",
+      "farsi": "آنها بزرگ و ارزان هستند."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Dort kaufen wir auch neue Stühle.",
+      "english": "We will also buy new chairs there.",
+      "russian": "Там мы также купим новые стулья.",
+      "farsi": "آنجا همچنین صندلی‌های جدیدی می‌خریم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Brauchen wir auch noch einen Teppich?",
+      "english": "Do we also need a carpet?",
+      "russian": "Нам также нужен ковёр?",
+      "farsi": "آیا ما همچنین به یک فرش نیاز داریم؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ach, ein Teppich ist jetzt nicht so wichtig.",
+      "english": "Oh, a carpet is not so important right now.",
+      "russian": "О, ковёр сейчас не так важен.",
+      "farsi": "آه، یک فرش الان چندان مهم نیست."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Aber wir haben noch keine Spülmaschine.",
+      "english": "But we still don't have a dishwasher.",
+      "russian": "Но у нас всё ещё нет посудомоечной машины.",
+      "farsi": "اما ما هنوز ماشین ظرفشویی نداریم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ja, stimmt. Elektro-Müller hat viele Sonderangebote.",
+      "english": "Yes, that's right. Elektro-Müller has many special offers.",
+      "russian": "Да, верно. В Elektro-Müller много спецпредложений.",
+      "farsi": "بله، درست است. الکترو-مولر پیشنهادات ویژه زیادی دارد."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Die Spülmaschine kaufen wir da.",
+      "english": "We will buy the dishwasher there.",
+      "russian": "Мы купим посудомоечную машину там.",
+      "farsi": "ماشین ظرفشویی را آنجا می‌خریم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Dann kaufen wir zuerst die Spülmaschine.",
+      "english": "Then we will buy the dishwasher first.",
+      "russian": "Тогда мы сначала купим посудомоечную машину.",
+      "farsi": "سپس ابتدا ماشین ظرفشویی را می‌خریم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ist das ein Waschbecken?",
+      "english": "Is that a sink?",
+      "russian": "Это раковина?",
+      "farsi": "آیا این یک سینک است؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ist das eine Spülmaschine?",
+      "english": "Is that a dishwasher?",
+      "russian": "Это посудомоечная машина?",
+      "farsi": "آیا این یک ماشین ظرفشویی است؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ist das eine Kommode?",
+      "english": "Is that a dresser?",
+      "russian": "Это комод?",
+      "farsi": "آیا این یک کمد است؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Guten Tag. Ich suche Familie Koval.",
+      "english": "Good day. I am looking for the Koval family.",
+      "russian": "Добрый день. Я ищу семью Коваль.",
+      "farsi": "روز بخیر. من به دنبال خانواده کووال هستم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich glaube, sie wohnt hier im 1. Stock oder im 2. Stock.",
+      "english": "I believe they live here on the 1st floor or the 2nd floor.",
+      "russian": "Я думаю, они живут здесь на 1-м или 2-м этаже.",
+      "farsi": "فکر می‌کنم آنها در طبقه اول یا دوم زندگی می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Nein, Herr und Frau Koval wohnen ganz oben, im Dachgeschoss.",
+      "english": "No, Mr. and Mrs. Koval live at the top, in the attic.",
+      "russian": "Нет, господин и госпожа Коваль живут наверху, на чердаке.",
+      "farsi": "نه، آقای و خانم کووال در بالا، در اتاق زیر شیروانی زندگی می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Okay, danke.",
+      "english": "Okay, thank you.",
+      "russian": "Хорошо, спасибо.",
+      "farsi": "باشه، متشکرم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Hallo, hier ist Mirko.",
+      "english": "Hello, this is Mirko.",
+      "russian": "Привет, это Мирко.",
+      "farsi": "سلام، اینجا میرکو است."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Guten Tag, Mirko, komm rein.",
+      "english": "Good day, Mirko, come in.",
+      "russian": "Добрый день, Мирко, заходи.",
+      "farsi": "روز بخیر، میرکو، بیا داخل."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Das Haus ist groß.",
+      "english": "The house is big.",
+      "russian": "Дом большой.",
+      "farsi": "خانه بزرگ است."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Hier wohnen viele Leute.",
+      "english": "Many people live here.",
+      "russian": "Здесь живёт много людей.",
+      "farsi": "اینجا افراد زیادی زندگی می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ja, hier wohnen und arbeiten 16 Personen.",
+      "english": "Yes, 16 people live and work here.",
+      "russian": "Да, здесь живут и работают 16 человек.",
+      "farsi": "بله، اینجا ۱۶ نفر زندگی و کار می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Und unten im Erdgeschoss sind noch Geschäfte.",
+      "english": "And there are also shops downstairs on the ground floor.",
+      "russian": "И внизу на первом этаже ещё есть магазины.",
+      "farsi": "و پایین در طبقه همکف مغازه‌هایی هم هست."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Es gibt einen Asienladen.",
+      "english": "There is an Asian store.",
+      "russian": "Там есть азиатский магазин.",
+      "farsi": "یک فروشگاه آسیایی وجود دارد."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Hier arbeitet Herr Lim.",
+      "english": "Mr. Lim works here.",
+      "russian": "Здесь работает господин Лим.",
+      "farsi": "آقای لیم اینجا کار می‌کند."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Es gibt auch einen Obst und Gemüseladen.",
+      "english": "There is also a fruit and vegetable store.",
+      "russian": "Также есть магазин фруктов и овощей.",
+      "farsi": "همچنین یک مغازه میوه و سبزیجات وجود دارد."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Hier arbeiten Herr und Frau Demir.",
+      "english": "Mr. and Mrs. Demir work here.",
+      "russian": "Здесь работают господин и госпожа Демир.",
+      "farsi": "آقای و خانم دمیر اینجا کار می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Und im 1. Stock?",
+      "english": "And on the 1st floor?",
+      "russian": "А на 1-м этаже?",
+      "farsi": "و در طبقه اول؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Familie Waltermann wohnt im 1. Stock links.",
+      "english": "The Waltermann family lives on the 1st floor on the left.",
+      "russian": "Семья Вальтерманн живёт на 1-м этаже слева.",
+      "farsi": "خانواده والترمن در طبقه اول سمت چپ زندگی می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Frau Costa wohnt rechts.",
+      "english": "Mrs. Costa lives on the right.",
+      "russian": "Госпожа Коста живёт справа.",
+      "farsi": "خانم کوستا سمت راست زندگی می‌کند."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Und im 2. Stock links wohnt Familie Wang.",
+      "english": "And on the 2nd floor on the left lives the Wang family.",
+      "russian": "А на 2-м этаже слева живёт семья Ванг.",
+      "farsi": "و در طبقه دوم سمت چپ خانواده وانگ زندگی می‌کند."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Familie Singer wohnt rechts.",
+      "english": "The Singer family lives on the right.",
+      "russian": "Семья Зингер живёт справа.",
+      "farsi": "خانواده سینگر سمت راست زندگی می‌کند."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Und wir wohnen hier im Dachgeschoss. Sehr gemütlich.",
+      "english": "And we live here in the attic. Very cozy.",
+      "russian": "А мы живём здесь на чердаке. Очень уютно.",
+      "farsi": "و ما اینجا در اتاق زیر شیروانی زندگی می‌کنیم. بسیار دنج."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Meine Wohnung ist günstig, sie kostet 400 Euro Miete ohne Nebenkosten.",
+      "english": "My apartment is affordable, it costs 400 euros in rent without utilities.",
+      "russian": "Моя квартира доступная, аренда стоит 400 евро без коммунальных услуг.",
+      "farsi": "آپارتمان من ارزان است، اجاره آن بدون هزینه‌های اضافی ۴۰۰ یورو است."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Sie ist 50 qm groß und sehr hell.",
+      "english": "It is 50 square meters and very bright.",
+      "russian": "Она площадью 50 кв. м и очень светлая.",
+      "farsi": "۵۰ متر مربع و بسیار روشن است."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Sie hat zwei Zimmer - ein Wohnzimmer, ein Schlafzimmer -, eine Küche und ein Bad.",
+      "english": "It has two rooms - a living room, a bedroom -, a kitchen, and a bathroom.",
+      "russian": "В ней две комнаты - гостиная и спальня, кухня и ванная.",
+      "farsi": "دو اتاق دارد - یک اتاق نشیمن، یک اتاق خواب -، یک آشپزخانه و یک حمام."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich wohne im dritten Stock.",
+      "english": "I live on the third floor.",
+      "russian": "Я живу на третьем этаже.",
+      "farsi": "من در طبقه سوم زندگی می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Sind Sie neu hier?",
+      "english": "Are you new here?",
+      "russian": "Вы здесь новенький?",
+      "farsi": "آیا شما اینجا تازه وارد هستید؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Sprechen Sie Deutsch?",
+      "english": "Do you speak German?",
+      "russian": "Вы говорите по-немецки?",
+      "farsi": "آیا آلمانی صحبت می‌کنید؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ist Ihre Wohnung ruhig?",
+      "english": "Is your apartment quiet?",
+      "russian": "Ваша квартира тихая?",
+      "farsi": "آیا آپارتمان شما آرام است؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ist Ihre Wohnung groß?",
+      "english": "Is your apartment big?",
+      "russian": "Ваша квартира большая?",
+      "farsi": "آیا آپارتمان شما بزرگ است؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Wohnen Sie im Erdgeschoss?",
+      "english": "Do you live on the ground floor?",
+      "russian": "Вы живёте на первом этаже?",
+      "farsi": "آیا شما در طبقه همکف زندگی می‌کنید؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Haben Sie einen Garten?",
+      "english": "Do you have a garden?",
+      "russian": "У вас есть сад?",
+      "farsi": "آیا باغ دارید؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Finden Sie die Wohnung schön?",
+      "english": "Do you find the apartment beautiful?",
+      "russian": "Вы находите квартиру красивой?",
+      "farsi": "آیا آپارتمان را زیبا می‌بینید؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ist das ein Waschbecken?",
+      "english": "Is that a sink?",
+      "russian": "Это раковина?",
+      "farsi": "آیا این یک سینک است؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ist das eine Spülmaschine?",
+      "english": "Is that a dishwasher?",
+      "russian": "Это посудомоечная машина?",
+      "farsi": "آیا این یک ماشین ظرفشویی است؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ist das eine Kommode?",
+      "english": "Is that a dresser?",
+      "russian": "Это комод?",
+      "farsi": "آیا این یک کمد است؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich suche Familie Koval.",
+      "english": "I am looking for the Koval family.",
+      "russian": "Я ищу семью Коваль.",
+      "farsi": "من به دنبال خانواده کووال هستم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich glaube, sie wohnt hier im 1. Stock oder im 2. Stock.",
+      "english": "I believe they live here on the 1st floor or the 2nd floor.",
+      "russian": "Я думаю, они живут здесь на 1-м или 2-м этаже.",
+      "farsi": "فکر می‌کنم آنها در طبقه اول یا دوم زندگی می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Nein, Herr und Frau Koval wohnen ganz oben, im Dachgeschoss.",
+      "english": "No, Mr. and Mrs. Koval live at the top, in the attic.",
+      "russian": "Нет, господин и госпожа Коваль живут наверху, на чердаке.",
+      "farsi": "نه، آقای و خانم کووال در بالا، در اتاق زیر شیروانی زندگی می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Okay, danke.",
+      "english": "Okay, thank you.",
+      "russian": "Хорошо, спасибо.",
+      "farsi": "باشه، متشکرم."
+    }
+  ]
+}
