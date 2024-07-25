@@ -1,4 +1,7 @@
-.header {
+.setting {
+  height: 100%;
+}
+.setting .header {
   height: 5vh;
   display: flex;
   justify-content: space-between;
@@ -6,17 +9,17 @@
   margin-bottom: 20px;
 }
 
-.back-button {
+.setting .back-button {
   background: none;
   border: none;
   font-size: 20px;
   cursor: pointer;
 }
-.back-button svg {
+.setting .back-button svg {
   margin-bottom: -4px;
 }
 
-.page_name {
+.setting .page_name {
   background: none;
   border: none;
   font-size: 18px;
@@ -24,25 +27,25 @@
   padding: 10px 20px;
 }
 
-.setting_titel {
+.setting .setting_titel {
   font-size: 20px;
   font-weight: 600;
   margin-bottom: 15px;
 }
 
-.wrapper_lang,
-.wrapper_selected-voices {
-  margin-top: 50px;
+.setting .wrapper_lang,
+.setting .wrapper_selected-voices {
+  margin-top: 20px;
   text-align: left;
 }
 
-.input_language,
-.input_voice {
+.setting .input_language,
+.setting .input_voice {
   display: block;
   line-height: 35px;
 }
 
-.review-status {
+.setting .review-status {
   height: 5vh;
   margin-bottom: 0px;
   text-align: center;
@@ -50,7 +53,7 @@
   color: #888;
 }
 
-.card {
+.setting .card {
   min-height: 85%;
   position: relative;
   border: 1px solid #ccc;
@@ -59,36 +62,20 @@
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
-/* .memorized-word {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 20px;
-  font-size: 14px;
-  color: #888;
-} */
-
-/* .menu-button {
-  background: none;
-  border: none;
-  font-size: 20px;
-  cursor: pointer;
-} */
-
-.wrapper_selected-voices .voice_test {
+.setting .wrapper_selected-voices .voice_test {
   font-size: 16px;
   font-weight: 200;
   margin-bottom: 10px;
 }
 
-.wrapper_selected-voices button {
+.setting .wrapper_selected-voices button {
   margin-left: 20px;
   background-color: white;
   border: none;
   font-size: 20px;
 }
 
-.wrapper_selected-voices svg {
+.setting .wrapper_selected-voices svg {
   font-size: 20px;
   margin-bottom: -6px;
   color: #1e87ff;

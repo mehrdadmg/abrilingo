@@ -1,39 +1,41 @@
-.header {
-  height: 5vh;
+.learning-sentences {
+  height: 100%;
+}
+.learning-sentences .header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 20px;
 }
 
-.back-button {
+.learning-sentences .back-button {
+  margin-left: 0;
+  padding-left: 0;
   background: none;
   border: none;
   font-size: 20px;
   cursor: pointer;
+  text-align: left;
 }
 
-.unit_name {
+.learning-sentences .unit_name {
   background: none;
   border: none;
   font-size: 16px;
   font-weight: bold;
   padding: 10px 0px;
-  margin-top: 12px;
-  max-width: 50vw;
   text-align: left;
 }
 
-.review-status {
-  height: 5vh;
+.learning-sentences .review-status {
   margin-bottom: 0px;
   text-align: center;
   font-size: 20px;
   color: #888;
 }
 
-.card {
-  min-height: 85%;
+.learning-sentences .card {
+  /* min-height: 85%; */
+  width: 100%;
   position: relative;
   border: 1px solid #ccc;
   border-radius: 8px;
@@ -41,18 +43,25 @@
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
-/* .memorized-word {
+.flex-container {
+  height: 100%;
   display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 20px;
-  font-size: 14px;
-  color: #888;
-} */
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-content: stretch;
+  align-items: flex-start;
+}
 
-/* .menu-button {
-  background: none;
-  border: none;
-  font-size: 20px;
-  cursor: pointer;
-} */
+.header,
+.review-status {
+  order: 0;
+  flex: 0 1 auto;
+  align-self: auto;
+}
+
+.card {
+  order: 0;
+  flex: 1 1 auto;
+  align-self: auto;
+}

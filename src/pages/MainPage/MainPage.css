@@ -1,6 +1,5 @@
 .main_page {
-  max-height: 100vh;
-  position: relative;
+  height: 100%;
   max-width: 780px;
   margin: auto;
 }
@@ -8,8 +7,7 @@
 .main_page .app_header {
   display: flex;
   justify-content: space-between;
-  position: absolute;
-  width: 100%;
+  /* position: absolute; */
 }
 
 .main_page .app_name {
@@ -18,19 +16,17 @@
 .main_page .show_icon {
   border: none;
   background-color: white;
-  padding: 20px;
+  padding: 10px;
   font-size: 20px;
 }
 .main_page .app_name h2 {
   background-color: white;
   margin: 0;
-  padding: 20px;
+  padding: 10px;
   font-size: 25px;
   font-weight: bold;
 }
-.main_page .container {
-  padding: 50px 0 0 0;
-}
+
 .main_page .btn {
   background-color: white;
   border: solid 2px black;
@@ -46,7 +42,7 @@
 }
 
 .main_page .top_btn {
-  margin-top: 50px;
+  margin-top: 10px;
   border-radius: 10px 10px 0 0;
   border-bottom: none;
 }

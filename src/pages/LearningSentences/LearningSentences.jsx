@@ -85,36 +85,41 @@ const LearningSentences = (props) => {
   };
   if (learnContent.info.name === lessen) {
     return (
-      <div className="container">
-        <div className="header">
-          <button
-            className="back-button"
-            onClick={() => {
-              props.BackToMainPage();
-            }}
-          >
-            <GrPrevious /> Main Page
-          </button>
-          <h2 className="unit_name">{`${props.typePage} ${learnContent.info.learning}: ${learnContent.info.name}`}</h2>
-        </div>
-        <div className="review-status">
-          <span>{`${contentIndex + 1}/${learnContent.content.length} Sentences reviewed`}</span>
-        </div>
-        <div className="card">
-          <ContentContainer
-            content={learnContent.content[contentIndex]}
-            translatTo={getLang()}
-            typePage={props.typePage}
-            rate={rate}
-            pitch={pitch}
-            voice={voice}
-          />
-          <BottomActions
-            next={handlerNextContent}
-            previous={handlerPreviousContent}
-            contentIndex={contentIndex}
-            contentLength={learnContent.content.length}
-          />
+      <div className="learning-sentences">
+        <div className="container">
+          <div className="flex-container">
+            <div className="header">
+              <button
+                className="back-button"
+                onClick={() => {
+                  props.BackToMainPage();
+                }}
+              >
+                <GrPrevious /> Main Page
+              </button>
+            </div>
+            <div className="review-status">
+              <h2 className="unit_name">{`${props.typePage} : ${learnContent.info.name}`}</h2>{' '}
+              {/* ${learnContent.info.learning} */}
+              <span>{`${contentIndex + 1}/${learnContent.content.length} Sentences reviewed`}</span>
+            </div>
+            <div className="card">
+              <ContentContainer
+                content={learnContent.content[contentIndex]}
+                translatTo={getLang()}
+                typePage={props.typePage}
+                rate={rate}
+                pitch={pitch}
+                voice={voice}
+              />
+              <BottomActions
+                next={handlerNextContent}
+                previous={handlerPreviousContent}
+                contentIndex={contentIndex}
+                contentLength={learnContent.content.length}
+              />
+            </div>
+          </div>
         </div>
       </div>
     );

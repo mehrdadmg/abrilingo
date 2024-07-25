@@ -1,7 +1,7 @@
 .chose_lessen .gap {
   height: 50px;
 }
-.header {
+.chose_lessen .header {
   height: 5vh;
   display: flex;
   justify-content: space-between;
@@ -9,19 +9,19 @@
   margin-bottom: 20px;
 }
 
-.back-button {
+.chose_lessen .back-button {
   background: none;
   border: none;
   font-size: 20px;
   cursor: pointer;
 }
 
-.wrapper_unit {
-  margin-top: 50px;
+.chose_lessen .wrapper_unit {
+  margin-top: 20px;
   text-align: left;
 }
 
-.input_unit {
+.chose_lessen .input_unit {
   position: relative;
   padding: 15px;
   display: block;
@@ -30,17 +30,17 @@
   border-bottom: none;
 }
 
-.input_unit.first_input {
+.chose_lessen .input_unit.first_input {
   border-radius: 10px 10px 0 0;
   border-bottom: none;
 }
 
-.input_unit.last_input {
+.chose_lessen .input_unit.last_input {
   border: solid 2px black;
   border-radius: 0 0 10px 10px;
 }
 
-.unit_name {
+.chose_lessen .unit_name {
   background: none;
   border: none;
   font-size: 16px;
@@ -48,7 +48,7 @@
   padding: 10px 0px;
 }
 
-.review-status {
+.chose_lessen .review-status {
   height: 5vh;
   margin-bottom: 0px;
   text-align: center;
@@ -56,7 +56,7 @@
   color: #888;
 }
 
-.card {
+.chose_lessen .card {
   min-height: 85%;
   position: relative;
   border: 1px solid #ccc;
@@ -80,19 +80,3 @@
   height: 25px;
   color: black;
 }
-
-/* .memorized-word {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 20px;
-  font-size: 14px;
-  color: #888;
-} */
-
-/* .menu-button {
-  background: none;
-  border: none;
-  font-size: 20px;
-  cursor: pointer;
-} */

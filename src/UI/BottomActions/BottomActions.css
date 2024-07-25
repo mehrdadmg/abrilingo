@@ -9,7 +9,7 @@
   align-items: center;
 }
 
-.action-btn {
+.bottom_actions .action-btn {
   padding: 10px;
   background: none;
   width: 200px;
@@ -19,19 +19,19 @@
   color: #1a73e8;
 }
 
-.action-btn[disabled] {
+.bottom_actions .action-btn[disabled] {
   color: #535353;
   cursor: default;
 }
 
-.btn_left {
+.bottom_actions .btn_left {
   text-align: left;
 }
 
-.btn_right {
+.bottom_actions .btn_right {
   text-align: right;
 }
 
-.action-btn svg {
+.bottom_actions .action-btn svg {
   margin-bottom: -4px;
 }
