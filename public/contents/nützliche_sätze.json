@@ -1,0 +1,1025 @@
+{
+  "info": {
+    "name": "Nützliche_Sätze",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "sentence": "Ich habe Angst.",
+      "english": "I am afraid.",
+      "russian": "Я боюсь.",
+      "farsi": "من می‌ترسم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Mir ist langweilig.",
+      "english": "I am bored.",
+      "russian": "Мне скучно.",
+      "farsi": "حوصله‌ام سر رفته."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Mir ist übel.",
+      "english": "I feel nauseous.",
+      "russian": "Мне плохо.",
+      "farsi": "حالم بد است."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich schäme mich.",
+      "english": "I am ashamed.",
+      "russian": "Мне стыдно.",
+      "farsi": "شرمنده‌ام."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Es tut mir weh.",
+      "english": "It hurts.",
+      "russian": "Мне больно.",
+      "farsi": "درد می‌کند."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Das widert mich an.",
+      "english": "That disgusts me.",
+      "russian": "Это вызывает у меня отвращение.",
+      "farsi": "این مرا بیزار می‌کند."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Mir ist kalt.",
+      "english": "I am cold.",
+      "russian": "Мне холодно.",
+      "farsi": "سردم است."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Mir ist heiß.",
+      "english": "I am hot.",
+      "russian": "Мне жарко.",
+      "farsi": "گرم است."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Das ist mir wurscht.",
+      "english": "I don't care.",
+      "russian": "Мне всё равно.",
+      "farsi": "برایم مهم نیست."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Mir ist traurig zumute.",
+      "english": "I feel sad.",
+      "russian": "Мне грустно.",
+      "farsi": "احساس غم دارم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich bekomme keine Luft.",
+      "english": "I can't breathe.",
+      "russian": "Я не могу дышать.",
+      "farsi": "نمی‌توانم نفس بکشم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Es tut mir leid.",
+      "english": "I am sorry.",
+      "russian": "Мне жаль.",
+      "farsi": "متاسفم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich mache mir Sorgen.",
+      "english": "I am worried.",
+      "russian": "Я волнуюсь.",
+      "farsi": "نگرانم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Es ist wahr.",
+      "english": "It is true.",
+      "russian": "Это правда.",
+      "farsi": "این درست است."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Es ist klar.",
+      "english": "It is clear.",
+      "russian": "Это ясно.",
+      "farsi": "این واضح است."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Es ist frisch.",
+      "english": "It is fresh.",
+      "russian": "Это свежее.",
+      "farsi": "این تازه است."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Es ist heiß.",
+      "english": "It is hot.",
+      "russian": "Это горячее.",
+      "farsi": "این داغ است."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Es ist sinnlos.",
+      "english": "It is pointless.",
+      "russian": "Это бессмысленно.",
+      "farsi": "این بی‌فایده است."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Es ist verboten.",
+      "english": "It is forbidden.",
+      "russian": "Это запрещено.",
+      "farsi": "این ممنوع است."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Es ist schwer.",
+      "english": "It is difficult.",
+      "russian": "Это трудно.",
+      "farsi": "این سخت است."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Es ist leicht.",
+      "english": "It is easy.",
+      "russian": "Это легко.",
+      "farsi": "این آسان است."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Es ist egal.",
+      "english": "It doesn't matter.",
+      "russian": "Это не важно.",
+      "farsi": "مهم نیست."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Es ist seltsam.",
+      "english": "It is strange.",
+      "russian": "Это странно.",
+      "farsi": "این عجیب است."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Es ist zum Weinen.",
+      "english": "It is tear-jerking.",
+      "russian": "Это вызывает слезы.",
+      "farsi": "این اشک‌آور است."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Es ist möglich.",
+      "english": "It is possible.",
+      "russian": "Это возможно.",
+      "farsi": "این ممکن است."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Es ist unmöglich.",
+      "english": "It is impossible.",
+      "russian": "Это невозможно.",
+      "farsi": "این غیرممکن است."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Es ist mir schnuppe.",
+      "english": "I don't care.",
+      "russian": "Мне всё равно.",
+      "farsi": "برایم مهم نیست."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Es ist aus damit.",
+      "english": "It is over.",
+      "russian": "Это закончено.",
+      "farsi": "این تمام شد."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich möchte dich sehen.",
+      "english": "I want to see you.",
+      "russian": "Я хочу тебя увидеть.",
+      "farsi": "می‌خواهم تو را ببینم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Wir müssen uns treffen.",
+      "english": "We have to meet.",
+      "russian": "Мы должны встретиться.",
+      "farsi": "ما باید همدیگر را ببینیم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Wollen wir einen Termin vereinbaren?",
+      "english": "Shall we set up an appointment?",
+      "russian": "Хотим ли мы назначить встречу?",
+      "farsi": "می‌خواهیم قرار بگذاریم؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Wie wäre es mit Dienstag?",
+      "english": "How about Tuesday?",
+      "russian": "Как насчет вторника?",
+      "farsi": "سه‌شنبه چطور است؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Wann hast du Zeit?",
+      "english": "When do you have time?",
+      "russian": "Когда у тебя есть время?",
+      "farsi": "چه زمانی وقت داری؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Welche Uhrzeit schlägst du vor?",
+      "english": "What time do you suggest?",
+      "russian": "Какое время ты предлагаешь?",
+      "farsi": "چه زمانی را پیشنهاد می‌دهی؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Bei mir geht es heute Abend, und bei dir?",
+      "english": "I am free this evening, and you?",
+      "russian": "Я свободен сегодня вечером, а ты?",
+      "farsi": "من امشب وقت دارم، تو چطور؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Hilf mir!",
+      "english": "Help me!",
+      "russian": "Помоги мне!",
+      "farsi": "کمکم کن!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Folge mir!",
+      "english": "Follow me!",
+      "russian": "Следуй за мной!",
+      "farsi": "دنبالم بیا!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Sag mal!",
+      "english": "Tell me!",
+      "russian": "Скажи!",
+      "farsi": "بگو!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Stör mich nicht!",
+      "english": "Don't bother me!",
+      "russian": "Не беспокой меня!",
+      "farsi": "مزاحم من نشو!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Warte eine Sekunde!",
+      "english": "Wait a second!",
+      "russian": "Подожди секунду!",
+      "farsi": "یک لحظه صبر کن!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Vertraue mir!",
+      "english": "Trust me!",
+      "russian": "Доверься мне!",
+      "farsi": "به من اعتماد کن!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Unterschreiben Sie hier!",
+      "english": "Sign here!",
+      "russian": "Подпишите здесь!",
+      "farsi": "اینجا را امضا کنید!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Setzen Sie sich bitte!",
+      "english": "Please sit down!",
+      "russian": "Садитесь, пожалуйста!",
+      "farsi": "لطفا بنشینید!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Sei nicht zu spät!",
+      "english": "Don't be late!",
+      "russian": "Не опаздывай!",
+      "farsi": "دیر نکن!"
+    },
+
+    {
+      "isSelected": false,
+      "sentence": "Geh raus!",
+      "english": "Go out!",
+      "russian": "Выйди!",
+      "farsi": "برو بیرون!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Beeil dich!",
+      "english": "Hurry up!",
+      "russian": "Поторопись!",
+      "farsi": "عجله کن!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Sei doch geduldig!",
+      "english": "Be patient!",
+      "russian": "Будь терпелив!",
+      "farsi": "صبور باش!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Sei vorsichtig!",
+      "english": "Be careful!",
+      "russian": "Будь осторожен!",
+      "farsi": "مراقب باش!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Abgemacht!",
+      "english": "Agreed!",
+      "russian": "Договорились!",
+      "farsi": "قبول!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Kein Problem!",
+      "english": "No problem!",
+      "russian": "Без проблем!",
+      "farsi": "مشکلی نیست!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Wie schade!",
+      "english": "What a pity!",
+      "russian": "Как жаль!",
+      "farsi": "چه حیف!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Von mir aus!",
+      "english": "As far as I'm concerned!",
+      "russian": "Что касается меня!",
+      "farsi": "از نظر من!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich weiß Bescheid!",
+      "english": "I know!",
+      "russian": "Я знаю!",
+      "farsi": "می‌دانم!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich bin dagegen!",
+      "english": "I am against it!",
+      "russian": "Я против!",
+      "farsi": "من مخالفم!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Alles klar!",
+      "english": "All right!",
+      "russian": "Всё ясно!",
+      "farsi": "همه چیز روشن است!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Richtig!",
+      "english": "Correct!",
+      "russian": "Правильно!",
+      "farsi": "درست است!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Kein Wunder!",
+      "english": "No wonder!",
+      "russian": "Неудивительно!",
+      "farsi": "تعجبی ندارد!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Unbedingt!",
+      "english": "Absolutely!",
+      "russian": "Обязательно!",
+      "farsi": "حتما!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Gott sei Dank!",
+      "english": "Thank God!",
+      "russian": "Слава Богу!",
+      "farsi": "خدا را شکر!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "nicht ganz",
+      "english": "not quite",
+      "russian": "не совсем",
+      "farsi": "نه کاملا"
+    },
+    {
+      "isSelected": false,
+      "sentence": "ganz richtig",
+      "english": "completely correct",
+      "russian": "совершенно правильно",
+      "farsi": "کاملا درست"
+    },
+    {
+      "isSelected": false,
+      "sentence": "ganz falsch",
+      "english": "completely wrong",
+      "russian": "совершенно неправильно",
+      "farsi": "کاملا اشتباه"
+    },
+    {
+      "isSelected": false,
+      "sentence": "ganz oben",
+      "english": "at the very top",
+      "russian": "в самом верху",
+      "farsi": "در بالاترین نقطه"
+    },
+    {
+      "isSelected": false,
+      "sentence": "ganz unten",
+      "english": "at the very bottom",
+      "russian": "в самом низу",
+      "farsi": "در پایین‌ترین نقطه"
+    },
+    {
+      "isSelected": false,
+      "sentence": "ganz allein",
+      "english": "all alone",
+      "russian": "совсем один",
+      "farsi": "کاملا تنها"
+    },
+    {
+      "isSelected": false,
+      "sentence": "ganz und gar",
+      "english": "entirely",
+      "russian": "полностью",
+      "farsi": "کاملا"
+    },
+    {
+      "isSelected": false,
+      "sentence": "ganz von selbst",
+      "english": "all by itself",
+      "russian": "само по себе",
+      "farsi": "خود به خود"
+    },
+    {
+      "isSelected": false,
+      "sentence": "im Großen und Ganzen",
+      "english": "by and large",
+      "russian": "в целом",
+      "farsi": "به طور کلی"
+    },
+    {
+      "isSelected": false,
+      "sentence": "von ganzem Herzen",
+      "english": "with all my heart",
+      "russian": "от всего сердца",
+      "farsi": "از صمیم قلب"
+    },
+    {
+      "isSelected": false,
+      "sentence": "ganz am Anfang",
+      "english": "at the very beginning",
+      "russian": "в самом начале",
+      "farsi": "در ابتدای کار"
+    },
+    {
+      "isSelected": false,
+      "sentence": "ganz am Ende",
+      "english": "at the very end",
+      "russian": "в самом конце",
+      "farsi": "در انتهای کار"
+    },
+    {
+      "isSelected": false,
+      "sentence": "den ganzen Tag",
+      "english": "all day long",
+      "russian": "весь день",
+      "farsi": "تمام روز"
+    },
+    {
+      "isSelected": false,
+      "sentence": "ganz für sich allein",
+      "english": "all by oneself",
+      "russian": "в одиночестве",
+      "farsi": "کاملا تنها"
+    },
+    {
+      "isSelected": false,
+      "sentence": "okay",
+      "english": "okay",
+      "russian": "хорошо",
+      "farsi": "خوب"
+    },
+    {
+      "isSelected": false,
+      "sentence": "sicher",
+      "english": "sure",
+      "russian": "конечно",
+      "farsi": "مطمئن"
+    },
+    {
+      "isSelected": false,
+      "sentence": "natürlich",
+      "english": "of course",
+      "russian": "конечно",
+      "farsi": "البته"
+    },
+    {
+      "isSelected": false,
+      "sentence": "richtig",
+      "english": "correct",
+      "russian": "правильно",
+      "farsi": "درست"
+    },
+    {
+      "isSelected": false,
+      "sentence": "gewiss",
+      "english": "certainly",
+      "russian": "безусловно",
+      "farsi": "مطمئناً"
+    },
+    {
+      "isSelected": false,
+      "sentence": "genau",
+      "english": "exactly",
+      "russian": "точно",
+      "farsi": "دقیقاً"
+    },
+    {
+      "isSelected": false,
+      "sentence": "absolut",
+      "english": "absolutely",
+      "russian": "абсолютно",
+      "farsi": "کاملاً"
+    },
+    {
+      "isSelected": false,
+      "sentence": "ohne Frage",
+      "english": "without a doubt",
+      "russian": "без сомнения",
+      "farsi": "بدون شک"
+    },
+    {
+      "isSelected": false,
+      "sentence": "unbedingt",
+      "english": "definitely",
+      "russian": "определенно",
+      "farsi": "حتماً"
+    },
+    {
+      "isSelected": false,
+      "sentence": "zweifellos",
+      "english": "undoubtedly",
+      "russian": "несомненно",
+      "farsi": "بی‌شک"
+    },
+    {
+      "isSelected": false,
+      "sentence": "selbstverständlich",
+      "english": "naturally",
+      "russian": "естественно",
+      "farsi": "طبیعتاً"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Das macht nichts.",
+      "english": "It doesn't matter.",
+      "russian": "Это не важно.",
+      "farsi": "مهم نیست."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Gott sei Dank!",
+      "english": "Thank God!",
+      "russian": "Слава Богу!",
+      "farsi": "خدا را شکر!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Alles bleibt beim Alten.",
+      "english": "Everything stays the same.",
+      "russian": "Всё остаётся по-прежнему.",
+      "farsi": "همه چیز به همان صورت باقی می‌ماند."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Mir ist alles egal.",
+      "english": "I don't care about anything.",
+      "russian": "Мне всё равно.",
+      "farsi": "برای من مهم نیست."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Das passt mir nicht.",
+      "english": "That doesn't suit me.",
+      "russian": "Это мне не подходит.",
+      "farsi": "این به من نمی‌خورد."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich habe nichts dagegen.",
+      "english": "I have nothing against it.",
+      "russian": "Я не против.",
+      "farsi": "من مخالفتی ندارم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Nicht alles auf einmal.",
+      "english": "Not all at once.",
+      "russian": "Не всё сразу.",
+      "farsi": "نه همه چیز یک‌جا."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich kann nichts dafür.",
+      "english": "It's not my fault.",
+      "russian": "Я не виноват.",
+      "farsi": "مقصر من نیستم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Keine Ursache.",
+      "english": "Don't mention it.",
+      "russian": "Не за что.",
+      "farsi": "خواهش می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Macht nichts.",
+      "english": "It doesn't matter.",
+      "russian": "Ничего страшного.",
+      "farsi": "اشکالی ندارد."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Das geht nicht.",
+      "english": "That won't work.",
+      "russian": "Так не пойдёт.",
+      "farsi": "این کار نمی‌شود."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Mach weiter so!",
+      "english": "Keep it up!",
+      "russian": "Так держать!",
+      "farsi": "همین‌طور ادامه بده!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich bin glücklich.",
+      "english": "I am happy.",
+      "russian": "Я счастлив.",
+      "farsi": "من خوشحالم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich bin traurig.",
+      "english": "I am sad.",
+      "russian": "Мне грустно.",
+      "farsi": "من غمگینم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich bin krank.",
+      "english": "I am sick.",
+      "russian": "Я болен.",
+      "farsi": "من بیمارم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich bin verliebt.",
+      "english": "I am in love.",
+      "russian": "Я влюблён.",
+      "farsi": "من عاشق شده‌ام."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich bin müde.",
+      "english": "I am tired.",
+      "russian": "Я устал.",
+      "farsi": "من خسته‌ام."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich bin verärgert.",
+      "english": "I am annoyed.",
+      "russian": "Я раздражён.",
+      "farsi": "من عصبانی‌ام."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich habe Angst.",
+      "english": "I am afraid.",
+      "russian": "Я боюсь.",
+      "farsi": "من می‌ترسم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich habe Durst.",
+      "english": "I am thirsty.",
+      "russian": "Я хочу пить.",
+      "farsi": "من تشنه‌ام."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich bin verzweifelt.",
+      "english": "I am desperate.",
+      "russian": "Я в отчаянии.",
+      "farsi": "من ناامیدم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich bin entzückt.",
+      "english": "I am delighted.",
+      "russian": "Я в восторге.",
+      "farsi": "من خوشحالم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich bin entrüstet.",
+      "english": "I am outraged.",
+      "russian": "Я возмущён.",
+      "farsi": "من عصبانی‌ام."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Wie geht es dir?",
+      "english": "How are you?",
+      "russian": "Как ты?",
+      "farsi": "حالت چطور است؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Wie geht es deiner Familie?",
+      "english": "How is your family?",
+      "russian": "Как твоя семья?",
+      "farsi": "خانواده‌ات چطور است؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Was gibt es Neues bei dir?",
+      "english": "What's new with you?",
+      "russian": "Что нового у тебя?",
+      "farsi": "چه خبر جدیدی داری؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Was hast du am Wochenende vor?",
+      "english": "What are your plans for the weekend?",
+      "russian": "Какие планы на выходные?",
+      "farsi": "برای آخر هفته چه برنامه‌ای داری؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Wie läuft deine Arbeit?",
+      "english": "How is your work going?",
+      "russian": "Как идёт твоя работа?",
+      "farsi": "کارت چطور پیش می‌رود؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Wo warst du im Urlaub?",
+      "english": "Where were you on vacation?",
+      "russian": "Где ты был в отпуске?",
+      "farsi": "در تعطیلات کجا بودی؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Wann können wir uns wiedertreffen?",
+      "english": "When can we meet again?",
+      "russian": "Когда мы можем снова встретиться?",
+      "farsi": "کی می‌توانیم دوباره همدیگر را ببینیم؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ach so!",
+      "english": "Oh, I see!",
+      "russian": "Ах так!",
+      "farsi": "آه، فهمیدم!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ach was!",
+      "english": "Oh really!",
+      "russian": "Да ладно!",
+      "farsi": "جدی می‌گویی؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ach ja!",
+      "english": "Oh yes!",
+      "russian": "Ах да!",
+      "farsi": "آه بله!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ja, Pustekuchen!",
+      "english": "Yeah, right!",
+      "russian": "Да, как же!",
+      "farsi": "آره، حتماً!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Guck mal!",
+      "english": "Look!",
+      "russian": "Посмотри!",
+      "farsi": "نگاه کن!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "So ein Ärger!",
+      "english": "What a bother!",
+      "russian": "Какая досада!",
+      "farsi": "چه دردسری!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ach, du grüne Neue!",
+      "english": "Oh my goodness!",
+      "russian": "Боже мой!",
+      "farsi": "خدای من!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ach, du meine Güte!",
+      "english": "Oh my goodness!",
+      "russian": "Боже мой!",
+      "farsi": "خدای من!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ach du heiliger Bimbam!",
+      "english": "Oh my gosh!",
+      "russian": "О боже!",
+      "farsi": "وای خدا!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ja schau mal!",
+      "english": "Just look!",
+      "russian": "Просто посмотри!",
+      "farsi": "فقط نگاه کن!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Was du nicht sagst!",
+      "english": "You don't say!",
+      "russian": "Да что ты говоришь!",
+      "farsi": "جدی می‌گویی!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Nein, das geht zu weit!",
+      "english": "No, that's going too far!",
+      "russian": "Нет, это уже слишком!",
+      "farsi": "نه، این خیلی زیاده‌روی است!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Wie spät ist es?",
+      "english": "What time is it?",
+      "russian": "Который час?",
+      "farsi": "ساعت چند است؟"
+    },
+    {
+      "isSelected": false,
+      "sentence": "2:00 zwei Uhr",
+      "english": "2:00 two o'clock",
+      "russian": "2:00 два часа",
+      "farsi": "ساعت ۲:۰۰"
+    },
+    {
+      "isSelected": false,
+      "sentence": "2:05 fünf nach zwei",
+      "english": "2:05 five past two",
+      "russian": "2:05 пять минут третьего",
+      "farsi": "ساعت ۲:۰۵"
+    },
+    {
+      "isSelected": false,
+      "sentence": "2:15 viertel drei/ Viertel nach zwei",
+      "english": "2:15 quarter past two",
+      "russian": "2:15 четверть третьего",
+      "farsi": "ساعت ۲:۱۵"
+    },
+    {
+      "isSelected": false,
+      "sentence": "2:28 kurz vor halb drei",
+      "english": "2:28 shortly before half past two",
+      "russian": "2:28 незадолго до половины третьего",
+      "farsi": "ساعت ۲:۲۸"
+    },
+    {
+      "isSelected": false,
+      "sentence": "2:30 halb drei",
+      "english": "2:30 half past two",
+      "russian": "2:30 половина третьего",
+      "farsi": "ساعت ۲:۳۰"
+    },
+    {
+      "isSelected": false,
+      "sentence": "2:32 kurz nach halb drei",
+      "english": "2:32 shortly after half past two",
+      "russian": "2:32 незадолго после половины третьего",
+      "farsi": "ساعت ۲:۳۲"
+    },
+    {
+      "isSelected": false,
+      "sentence": "2:45 drei viertel drei/ Viertel vor drei",
+      "english": "2:45 quarter to three",
+      "russian": "2:45 без четверти три",
+      "farsi": "ساعت ۲:۴۵"
+    },
+    {
+      "isSelected": false,
+      "sentence": "2:55 fünf vor drei",
+      "english": "2:55 five to three",
+      "russian": "2:55 без пяти три",
+      "farsi": "ساعت ۲:۵۵"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich bitte um Verzeihung!",
+      "english": "I apologize!",
+      "russian": "Прошу прощения!",
+      "farsi": "عذر می‌خواهم!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Verzeihen Sie meine Verspätung!",
+      "english": "Please forgive my lateness!",
+      "russian": "Простите за опоздание!",
+      "farsi": "لطفاً دیر کردن من را ببخشید!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich wollte Sie nicht kränken!",
+      "english": "I didn't mean to offend you!",
+      "russian": "Я не хотел вас обидеть!",
+      "farsi": "من نمی‌خواستم شما را ناراحت کنم!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Entschuldigung",
+      "english": "Sorry",
+      "russian": "Извините",
+      "farsi": "ببخشید"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Das ist meine Schuld!",
+      "english": "It's my fault!",
+      "russian": "Это моя вина!",
+      "farsi": "تقصیر من است!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Verzeihen Sie die Frage...!",
+      "english": "Excuse the question...!",
+      "russian": "Простите за вопрос...!",
+      "farsi": "عذر می‌خواهم بابت سوال...!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Alles Gute zum Geburtstag!",
+      "english": "Happy Birthday!",
+      "russian": "С днём рождения!",
+      "farsi": "تولدت مبارک!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Herzlichen Glückwunsch!",
+      "english": "Congratulations!",
+      "russian": "Поздравляю!",
+      "farsi": "تبریک می‌گویم!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich wünsche dir von Herzen alles Gute!",
+      "english": "I wish you all the best from the bottom of my heart!",
+      "russian": "Желаю тебе всего наилучшего от всей души!",
+      "farsi": "از صمیم قلب بهترین‌ها را برایت آرزو می‌کنم!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich wünsche dir nur das Beste zum Geburtstag!",
+      "english": "I wish you only the best for your birthday!",
+      "russian": "Желаю тебе только самого лучшего на день рождения!",
+      "farsi": "برای تولدت فقط بهترین‌ها را برایت آرزو می‌کنم!"
+    }
+  ]
+}

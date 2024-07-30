@@ -24,6 +24,10 @@ const alllessens = [
     name: 'Verben_02',
   },
   {
+    file_name: 'nützliche_sätze.json',
+    name: 'Nützliche_Sätze',
+  },
+  {
     file_name: 'alle_konnektoren.json',
     name: 'Alle_Konnektoren',
   },
