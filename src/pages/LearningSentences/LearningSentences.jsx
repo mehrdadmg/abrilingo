@@ -1,5 +1,5 @@
 // src/WordReview.js
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import { useSpeechSynthesis } from 'react-speech-kit';
 
 import { GrPrevious } from 'react-icons/gr';
@@ -25,12 +25,13 @@ import { startLessen } from '../../content/lessens';
 import './LearningSentences.css';
 
 const LearningSentences = (props) => {
-  const rate = getRate();
-  const pitch = getPitch();
-  let voiceURI = getVoiceURI();
+  const rateRef = useRef();
+  const pitchRef = useRef();
+  const voiceURI = getVoiceURI();
 
   const { voices } = useSpeechSynthesis();
-  let voice = voices.find((v) => v.voiceURI === voiceURI);
+
+  const voice = voices.find((v) => v.voiceURI === voiceURI);
 
   let lessen = getlessen();
   if (!lessen) {
@@ -57,8 +58,13 @@ const LearningSentences = (props) => {
   };
 
   useEffect(() => {
+    console.log('LearningSentences useEffect render');
+    rateRef.current = getRate();
+    pitchRef.current = getPitch();
     loadeContent();
   }, []);
+
+  //useEffect(() => console.log('LearningSentences voice: ', voices), [voices]);
 
   const handlerNextContent = () => {
     if (contentIndex < learnContent.content.length - 1) {
@@ -83,6 +89,8 @@ const LearningSentences = (props) => {
       }
     }
   };
+  console.log('LearningSentences render');
+
   if (learnContent.info.name === lessen) {
     return (
       <div className="learning-sentences">
@@ -108,8 +116,8 @@ const LearningSentences = (props) => {
                 content={learnContent.content[contentIndex]}
                 translatTo={getLang()}
                 typePage={props.typePage}
-                rate={rate}
-                pitch={pitch}
+                rate={rateRef.current}
+                pitch={pitchRef.current}
                 voice={voice}
               />
               <BottomActions

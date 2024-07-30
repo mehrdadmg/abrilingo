@@ -33,6 +33,8 @@ const Setting = (props) => {
 
   const [activeLang, setActiveLang] = useState(lang);
 
+  console.log('Setting render');
+
   return (
     <div className="setting">
       <div className="container">

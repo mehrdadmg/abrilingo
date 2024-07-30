@@ -44,6 +44,9 @@
   display: block;
   line-height: 35px;
 }
+.setting .input_language {
+  text-transform: capitalize;
+}
 
 .setting .review-status {
   height: 5vh;

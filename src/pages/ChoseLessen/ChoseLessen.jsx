@@ -30,6 +30,7 @@ const Choselessen = (props) => {
   useEffect(() => {
     allLoadedLessens();
   }, []);
+  console.log('Choselessen render');
 
   return (
     <div className="chose_lessen">

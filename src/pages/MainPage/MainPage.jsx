@@ -10,6 +10,9 @@ function MainPage(props) {
     lessen = startLessen.info.name;
     setlessen(lessen);
   }
+
+  console.log('MainPage render');
+
   return (
     <div className="main_page">
       <div className="container">

@@ -22,7 +22,7 @@ function App() {
   const handlerGoToPage = (page) => {
     setDisplayed(page);
   };
-
+  console.log('App render');
   return (
     <div className="App">
       {(() => {
