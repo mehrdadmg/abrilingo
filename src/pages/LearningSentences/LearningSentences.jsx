@@ -15,29 +15,39 @@ import {
   getPracticeSentenceNo,
   setPracticeSentenceNo,
   getVoiceURI,
+  setVoiceURI,
   getRate,
   getPitch,
 } from '../../api/handelLocalStorage';
-import { getData } from '../../api/handelIndexedDB';
+import { getData, putlessenToIndexedDB } from '../../api/handelIndexedDB';
 
 import { startLessen } from '../../content/lessens';
 
 import './LearningSentences.css';
 
 const LearningSentences = (props) => {
+  const [contentIndex, setContentIndex] = useState(0); // index of sentence
+  const [learnLessen, setLearnLessen] = useState(startLessen); // selected lessen
+  const [selectedContent, setSelectedContent] = useState(startLessen.content); // the array of selected sentences
+  const [isTabSelected, setIsTabSelected] = useState(false); // is selected Tab active or not
+  const [contentLength, setContentLength] = useState(1);
+  const [isSentenceSelected, setIsSentenceSelected] = useState(false); // is sentence selected or not
+
+  const translatTo = getLang();
+
   const rateRef = useRef();
   const pitchRef = useRef();
-  const voiceURI = getVoiceURI();
+  const voiceRef = useRef();
+  const voiceURIRef = useRef();
 
   const { voices } = useSpeechSynthesis();
-
-  const voice = voices.find((v) => v.voiceURI === voiceURI);
 
   let lessen = getlessen();
   if (!lessen) {
     lessen = startLessen.info.name;
-    setlessen(lessen);
+    setlessen(lessen); // !!!!!!  must be check need it or not
   }
+
   let sentenceNo;
   if (props.typePage === 'Learn') {
     sentenceNo = getLearnSentenceNo();
@@ -45,42 +55,103 @@ const LearningSentences = (props) => {
     sentenceNo = getPracticeSentenceNo();
   }
 
-  const [contentIndex, setContentIndex] = useState(parseInt(sentenceNo));
-  const [learnContent, setLearnContent] = useState(startLessen);
-
-  const loadeContent = async () => {
-    let content = await getData(lessen);
-    if (content && content.content) {
-      setLearnContent(content);
+  const handelIsSentenceSelected = async () => {
+    if (!isTabSelected) {
+      setIsSentenceSelected(learnLessen && learnLessen.content[contentIndex].isSelected); // !!!!!!
     } else {
-      setLearnContent(startLessen);
+      setIsSentenceSelected(selectedContent && selectedContent[contentIndex].isSelected);
     }
   };
 
+  const loadeContent = async () => {
+    let lessenContent = await getData(lessen);
+    if (lessenContent && lessenContent.content) {
+      setLearnLessen(lessenContent);
+      setContentLength(lessenContent.content.length);
+      let selected = lessenContent.content.filter((item) => item.isSelected === true);
+      setSelectedContent(selected);
+      setContentIndex(parseInt(sentenceNo));
+    } else {
+      setLearnLessen(startLessen);
+    }
+  };
+
+  const handelIsSelected = () => {
+    if (!isTabSelected) {
+      // isTabSelected is the previose state
+      setContentIndex(0);
+      setContentLength(selectedContent.length);
+    } else {
+      setContentLength(learnLessen.content.length);
+      if (props.typePage === 'Learn') {
+        setContentIndex(getLearnSentenceNo());
+      } else if (props.typePage === 'Practice') {
+        setContentIndex(getPracticeSentenceNo());
+      }
+    }
+    setIsTabSelected((p) => !p);
+  };
+
+  function handelPutContent(learnLessen, contentIndex) {
+    learnLessen.content[contentIndex].isSelected = !learnLessen.content[contentIndex].isSelected;
+    putlessenToIndexedDB(learnLessen.info.name, learnLessen);
+  }
+
+  const temp = async () => {
+    try {
+      await loadeContent();
+      console.log('//////////////: ', learnLessen);
+      handelIsSentenceSelected();
+    } catch (error) {}
+  };
+
   useEffect(() => {
-    console.log('LearningSentences useEffect render');
     rateRef.current = getRate();
     pitchRef.current = getPitch();
-    loadeContent();
+    voiceURIRef.current = getVoiceURI();
+    (async () => {
+      await temp();
+    })();
+    console.log('LearningSentences useEffect render', learnLessen);
   }, []);
 
-  //useEffect(() => console.log('LearningSentences voice: ', voices), [voices]);
+  useEffect(() => {
+    handelIsSentenceSelected();
+  }, [learnLessen, contentIndex, isTabSelected]);
+
+  useEffect(() => {
+    (async () => {
+      try {
+        //setIsLoading(true);
+        voiceRef.current =
+          voices.find((v) => v.voiceURI === voiceURIRef.current) ||
+          voices.findLast((v) => v.lang === 'de-DE' || v.lang === 'de_DE');
+        setVoiceURI(voiceRef.current.voiceURI);
+      } catch (error) {
+        //console.log(error);
+        //setIsError(true);
+      } finally {
+        //setIsLoading(false);
+      }
+    })();
+  }, [voices]);
 
   const handlerNextContent = () => {
-    if (contentIndex < learnContent.content.length - 1) {
-      setContentIndex(contentIndex + 1);
-
-      if (props.typePage === 'Learn') {
-        setLearnSentenceNo(contentIndex + 1);
-      } else if (props.typePage === 'Practice') {
-        setPracticeSentenceNo(contentIndex + 1);
+    if (contentIndex < contentLength - 1) {
+      setContentIndex(parseInt(contentIndex + 1));
+      if (!isTabSelected) {
+        if (props.typePage === 'Learn') {
+          setLearnSentenceNo(contentIndex + 1);
+        } else if (props.typePage === 'Practice') {
+          setPracticeSentenceNo(contentIndex + 1);
+        }
       }
     }
   };
 
   const handlerPreviousContent = () => {
     if (contentIndex > 0) {
-      setContentIndex(contentIndex - 1);
+      setContentIndex(parseInt(contentIndex - 1));
 
       if (props.typePage === 'Learn') {
         setLearnSentenceNo(contentIndex - 1);
@@ -89,9 +160,9 @@ const LearningSentences = (props) => {
       }
     }
   };
-  console.log('LearningSentences render');
+  console.log('+++++++++: ', learnLessen);
 
-  if (learnContent.info.name === lessen) {
+  if (learnLessen.info.name === lessen) {
     return (
       <div className="learning-sentences">
         <div className="container">
@@ -107,24 +178,29 @@ const LearningSentences = (props) => {
               </button>
             </div>
             <div className="review-status">
-              <h2 className="unit_name">{`${props.typePage} : ${learnContent.info.name}`}</h2>{' '}
-              {/* ${learnContent.info.learning} */}
-              <span>{`${contentIndex + 1}/${learnContent.content.length} Sentences reviewed`}</span>
+              <h2 className="unit_name">{`${props.typePage} : ${learnLessen.info.name}`}</h2>{' '}
+              <span>{`${contentIndex + 1}/${contentLength} Sentences reviewed`}</span>
             </div>
             <div className="card">
               <ContentContainer
-                content={learnContent.content[contentIndex]}
-                translatTo={getLang()}
+                content={!isTabSelected ? learnLessen.content[contentIndex] : selectedContent[contentIndex]}
+                translatTo={translatTo}
+                handelSelectedTab={() => handelIsSelected()}
+                handelSelectSentence={() => {
+                  handelPutContent(learnLessen, contentIndex);
+                }}
+                isSentenceSelected={isSentenceSelected}
+                hasSelectedSentence={selectedContent.length !== 0}
                 typePage={props.typePage}
                 rate={rateRef.current}
                 pitch={pitchRef.current}
-                voice={voice}
+                voice={voiceRef.current}
               />
               <BottomActions
                 next={handlerNextContent}
                 previous={handlerPreviousContent}
                 contentIndex={contentIndex}
-                contentLength={learnContent.content.length}
+                contentLength={contentLength}
               />
             </div>
           </div>

@@ -1,12 +1,13 @@
 const startLessen = {
   info: {
     name: 'Start_Lessen',
-    learning: 'sentences',
+    learning: 'Sentences',
   },
 
   content: [
     {
-      sentence: 'Willkommen bei Abri Lingo!',
+      isSelected: false,
+      sentence: 'Herzlich willkommen bei Abri Lingo! ',
       english: 'Welcome to Abri Lingo!',
       russian: 'Добро пожаловать в Абри Линго!',
       farsi: 'به Abri Lingo خوش آمدید!',

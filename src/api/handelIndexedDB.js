@@ -3,7 +3,7 @@ import { fetchlessen } from './downloadLessens.js';
 const dbName = 'deutschLessens';
 const storeNames = 'lessens';
 
-function openDatabase(lessen) {
+function openDatabase(/* lessen */) {
   let db;
   let version = 1;
   let request;
@@ -28,12 +28,12 @@ function openDatabase(lessen) {
   });
 }
 
-function addData(db, data, lessen) {
+function addData(db, data, lessenName) {
   return new Promise((resolve) => {
     const request = indexedDB.open(dbName);
 
     request.onsuccess = () => {
-      data.lessenName = lessen.name;
+      data.lessenName = lessenName;
       const transaction = request.result.transaction([storeNames], 'readwrite');
       const objectStore = transaction.objectStore(storeNames);
       objectStore.add(data);
@@ -52,7 +52,7 @@ function addData(db, data, lessen) {
 }
 
 async function getData(lessen) {
-  let db = await openDatabase(dbName);
+  let db = await openDatabase(/* dbName */);
 
   return new Promise((resolve, reject) => {
     const transaction = db.transaction([storeNames], 'readonly');
@@ -69,7 +69,7 @@ async function getData(lessen) {
 }
 
 async function getAllLoadedLessens(lessen) {
-  let db = await openDatabase(dbName);
+  let db = await openDatabase(/* dbName */);
 
   return new Promise((resolve, reject) => {
     const transaction = db.transaction([storeNames], 'readonly');
@@ -86,7 +86,7 @@ async function getAllLoadedLessens(lessen) {
 }
 
 async function deleteData(lessen) {
-  let db = await openDatabase(dbName);
+  let db = await openDatabase(/* dbName */);
 
   return new Promise((resolve, reject) => {
     const transaction = db.transaction([storeNames], 'readwrite');
@@ -104,8 +104,39 @@ async function deleteData(lessen) {
 
 async function loadlessenToIndexedDB(lessen) {
   const data = await fetchlessen(lessen.file_name);
-  let db = await openDatabase(lessen);
-  await addData(db, data, lessen);
+  let db = await openDatabase(/* lessen */);
+  console.log('loadlessenToIndexedDB_lessen : ', lessen);
+  await addData(db, data, lessen.name);
 }
 
-export { loadlessenToIndexedDB, getData, getAllLoadedLessens, deleteData };
+function putData(db, data, lessenName) {
+  return new Promise((resolve) => {
+    const request = indexedDB.open(dbName);
+
+    request.onsuccess = () => {
+      data.lessenName = lessenName;
+      const transaction = request.result.transaction([storeNames], 'readwrite');
+      const objectStore = transaction.objectStore(storeNames);
+      objectStore.put(data);
+      resolve(data);
+    };
+
+    request.onerror = () => {
+      const error = request.error?.message;
+      if (error) {
+        resolve(error);
+      } else {
+        resolve('Unknown error');
+      }
+    };
+  });
+}
+
+async function putlessenToIndexedDB(lessenName, data) {
+  /* const data = await fetchlessen(lessen.file_name); */
+  let db = await openDatabase(/* lessen */);
+  console.log('data : ', data);
+  await putData(db, data, lessenName);
+}
+
+export { loadlessenToIndexedDB, getData, getAllLoadedLessens, deleteData, putlessenToIndexedDB };

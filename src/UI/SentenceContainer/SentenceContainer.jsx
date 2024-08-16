@@ -1,4 +1,5 @@
 import PlayText from '../../components/PlayText/PlayText';
+import SelectedSentenceButton from '../../components/SelectedSentenceButton/SelectedSentenceButton';
 
 import './SentenceContainer.css';
 
@@ -7,6 +8,14 @@ const SentenceContainer = (props) => {
 
   return (
     <div className="sentenceContainer">
+      {props.hasPlayBtn && (
+        <SelectedSentenceButton
+          isSentenceSelected={props.isSentenceSelected}
+          handelSelectSentence={() => {
+            props.handelSelectSentence();
+          }}
+        />
+      )}
       <p
         dir={props.isRTL ? 'rtl' : 'ltr'}
         className={props.isRTL ? `${baseClassName} sentence_rtl` : `${baseClassName}`}

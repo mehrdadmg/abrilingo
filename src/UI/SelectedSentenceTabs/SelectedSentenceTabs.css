@@ -1,0 +1,37 @@
+.selected_sentence_tabs {
+  overflow: hidden;
+  width: 100%;
+  margin-left: -14px;
+}
+
+.selected_sentence_tabs .tabs {
+  display: flex;
+  background-color: transparent;
+
+  /* border-bottom: 1px solid #ccc; */
+}
+
+.selected_sentence_tabs .tab {
+  padding: 10px 20px;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+  border: 1px solid #ccc;
+  border-top: none;
+}
+
+.selected_sentence_tabs .tab:first-child {
+  border-left: none;
+  border-right: none;
+  border-top-left-radius: 8px;
+}
+
+.selected_sentence_tabs .tab.active {
+  border-bottom: 2px solid #007bff;
+  color: #007bff;
+}
+
+.selected_sentence_tabs .tab-content {
+  padding: 20px;
+}

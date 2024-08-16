@@ -1020,6 +1020,335 @@
       "english": "I wish you only the best for your birthday!",
       "russian": "Желаю тебе только самого лучшего на день рождения!",
       "farsi": "برای تولدت فقط بهترین‌ها را برایت آرزو می‌کنم!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Gute Nacht!",
+      "english": "Good night!",
+      "russian": "Спокойной ночи!",
+      "farsi": "شب بخیر!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Guten Appetit!",
+      "english": "Enjoy your meal!",
+      "russian": "Приятного аппетита!",
+      "farsi": "نوش جان!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Alles Gute!",
+      "english": "All the best!",
+      "russian": "Всего наилучшего!",
+      "farsi": "بهترین‌ها را برایت آرزو می‌کنم!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Gesundheit!",
+      "english": "Bless you!",
+      "russian": "Будьте здоровы!",
+      "farsi": "عافیت باشه!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Gute Reise!",
+      "english": "Have a good trip!",
+      "russian": "Счастливого пути!",
+      "farsi": "سفر بخیر!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Es ist mir egal!",
+      "english": "I don't care!",
+      "russian": "Мне всё равно!",
+      "farsi": "برای من مهم نیست!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Es kümmert mich nicht!",
+      "english": "It doesn't bother me!",
+      "russian": "Меня это не волнует!",
+      "farsi": "این مرا اذیت نمی‌کند!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Es interessiert mich nicht!",
+      "english": "It doesn't interest me!",
+      "russian": "Меня это не интересует!",
+      "farsi": "برایم جالب نیست!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich pfeife darauf!",
+      "english": "I don't give a damn!",
+      "russian": "Мне на это наплевать!",
+      "farsi": "اصلاً اهمیتی نمی‌دهم!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Es ist mir wurscht!",
+      "english": "I don't care!",
+      "russian": "Мне плевать!",
+      "farsi": "برای من اهمیتی ندارد!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Es ist mir schnuppe!",
+      "english": "I don't care at all!",
+      "russian": "Мне это до лампочки!",
+      "farsi": "اصلاً برایم مهم نیست!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich bin überrascht!",
+      "english": "I am surprised!",
+      "russian": "Я удивлён!",
+      "farsi": "من شگفت‌زده‌ام!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich bin erstaunt!",
+      "english": "I am astonished!",
+      "russian": "Я поражён!",
+      "farsi": "من متحیرم!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich bin verblüfft!",
+      "english": "I am amazed!",
+      "russian": "Я ошеломлён!",
+      "farsi": "من حیرت‌زده‌ام!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich bin verwundert!",
+      "english": "I am bewildered!",
+      "russian": "Я озадачен!",
+      "farsi": "من متعجبم!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich finde keine Worte!",
+      "english": "I'm speechless!",
+      "russian": "У меня нет слов!",
+      "farsi": "کلامی برای گفتن ندارم!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich traue meinen Augen nicht!",
+      "english": "I can't believe my eyes!",
+      "russian": "Я не верю своим глазам!",
+      "farsi": "به چشمانم باور ندارم!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Gib mir!",
+      "english": "Give me!",
+      "russian": "Дай мне!",
+      "farsi": "به من بده!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Nimm!",
+      "english": "Take it!",
+      "russian": "Возьми!",
+      "farsi": "بگیر!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Hör zu!",
+      "english": "Listen!",
+      "russian": "Слушай!",
+      "farsi": "گوش کن!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Komm her!",
+      "english": "Come here!",
+      "russian": "Иди сюда!",
+      "farsi": "بیا اینجا!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Geh weg!",
+      "english": "Go away!",
+      "russian": "Уходи!",
+      "farsi": "برو!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Beeil dich!",
+      "english": "Hurry up!",
+      "russian": "Поторопись!",
+      "farsi": "عجله کن!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Schau mal!",
+      "english": "Look!",
+      "russian": "Посмотри!",
+      "farsi": "نگاه کن!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Sei still!",
+      "english": "Be quiet!",
+      "russian": "Замолчи!",
+      "farsi": "ساکت باش!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Sei nicht albern!",
+      "english": "Don't be silly!",
+      "russian": "Не будь глупым!",
+      "farsi": "مسخره‌بازی درنیار!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Sei vorsichtig!",
+      "english": "Be careful!",
+      "russian": "Будь осторожен!",
+      "farsi": "مواظب باش!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Nicht rauchen!",
+      "english": "No smoking!",
+      "russian": "Не курить!",
+      "farsi": "سیگار نکشید!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Nicht stören!",
+      "english": "Do not disturb!",
+      "russian": "Не беспокоить!",
+      "farsi": "مزاحم نشوید!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Nicht lärmen!",
+      "english": "No noise!",
+      "russian": "Не шуметь!",
+      "farsi": "سر و صدا نکنید!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Lass mich in Ruhe!",
+      "english": "Leave me alone!",
+      "russian": "Оставь меня в покое!",
+      "farsi": "مرا تنها بگذار!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich bin hungrig.",
+      "english": "I am hungry.",
+      "russian": "Я голоден.",
+      "farsi": "من گرسنه‌ام."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich habe Hunger.",
+      "english": "I am hungry.",
+      "russian": "Я голоден.",
+      "farsi": "من گرسنه‌ام."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich habe einen Bärenhunger.",
+      "english": "I am starving.",
+      "russian": "Я голоден как медведь.",
+      "farsi": "من خیلی گرسنه‌ام."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich habe Heißhunger.",
+      "english": "I have a craving.",
+      "russian": "У меня волчий аппетит.",
+      "farsi": "من هوس غذا کرده‌ام."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich habe einen Mordshunger.",
+      "english": "I am famished.",
+      "russian": "Я умираю от голода.",
+      "farsi": "خیلی گرسنه‌ام."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich bin am Verhungern.",
+      "english": "I am starving.",
+      "russian": "Я умираю с голоду.",
+      "farsi": "از گرسنگی دارم می‌میرم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Mir knurrt der Magen.",
+      "english": "My stomach is growling.",
+      "russian": "У меня урчит в животе.",
+      "farsi": "شکمم داره قار و قور می‌کنه."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich sterbe vor Hunger.",
+      "english": "I am dying of hunger.",
+      "russian": "Я умираю от голода.",
+      "farsi": "از گرسنگی دارم می‌میرم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich muss was essen.",
+      "english": "I need to eat something.",
+      "russian": "Мне нужно что-то поесть.",
+      "farsi": "باید چیزی بخورم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Danke für Ihr Kompliment!",
+      "english": "Thank you for your compliment!",
+      "russian": "Спасибо за комплимент!",
+      "farsi": "ممنون از تعریفتان!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Das ist sehr nett von Ihnen!",
+      "english": "That's very kind of you!",
+      "russian": "Это очень мило с вашей стороны!",
+      "farsi": "این خیلی لطف شماست!"
+    },
+    {
+      "isSelected": false,
+      "sentence": "Sie sind sehr gutherzig.",
+      "english": "You are very kind-hearted.",
+      "russian": "Вы очень добросердечны.",
+      "farsi": "شما بسیار مهربان هستید."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich bin Ihnen sehr dankbar.",
+      "english": "I am very grateful to you.",
+      "russian": "Я вам очень благодарен.",
+      "farsi": "من خیلی از شما سپاسگزارم."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Sie kleiden sich mit Geschmack.",
+      "english": "You dress with taste.",
+      "russian": "У вас хороший вкус в одежде.",
+      "farsi": "شما با سلیقه لباس می‌پوشید."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Mir gefällt Ihre neue Frisur.",
+      "english": "I like your new hairstyle.",
+      "russian": "Мне нравится ваша новая прическа.",
+      "farsi": "از مدل موی جدیدتان خوشم می‌آید."
+    },
+    {
+      "isSelected": false,
+      "sentence": "Ich habe Ihnen viel zu verdanken!",
+      "english": "I owe you a lot!",
+      "russian": "Я вам многим обязан!",
+      "farsi": "خیلی چیزها به شما مدیون هستم!"
     }
   ]
 }

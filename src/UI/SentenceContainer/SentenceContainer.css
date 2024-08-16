@@ -10,10 +10,12 @@
 .sentenceContainer .sentence {
   margin-bottom: 40px;
   margin-top: 4px;
+  padding-top: 20px;
 }
 
 .sentenceContainer .sentence.no_play_btn {
   margin-bottom: 12px;
+  padding-top: 0px;
 }
 
 .sentenceContainer .sentence.sentence_rtl {
@@ -23,7 +25,7 @@
 .sentenceContainer .play-button {
   position: absolute;
   bottom: 2px;
-  right: 10px;
+  left: 10px;
   padding: 7px 9px;
   background-color: rgb(255, 255, 255);
   color: white;

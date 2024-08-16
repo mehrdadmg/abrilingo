@@ -15,16 +15,6 @@ const PlayText = (props) => {
       pitch: props.pitch,
       voice: props.voice,
     });
-    /* if (props.voice) {
-      speak({
-        text: props.text,
-        rate: props.rate,
-        pitch: props.pitch,
-        voice: props.voice,
-      });
-    } else {
-      console.error('Selected voice is not available');
-    } */
   };
   return (
     <button
