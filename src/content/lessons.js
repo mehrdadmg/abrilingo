@@ -1,6 +1,6 @@
-const startLessen = {
+const startLesson = {
   info: {
-    name: 'Start_Lessen',
+    name: 'Start_Lesson',
     learning: 'Sentences',
   },
 
@@ -15,7 +15,24 @@ const startLessen = {
   ],
 };
 
-const alllessens = [
+const noSentenceSelected = {
+  info: {
+    name: 'No_Sentence_Selected',
+    learning: 'Sentences',
+  },
+
+  content: [
+    {
+      isSelected: false,
+      sentence: 'Es ist kein Satz ausgewählt.! ',
+      english: 'There are no selected sentences.!',
+      russian: 'Нет выбранного предложения.!',
+      farsi: 'هیچ جمله انتخابی وجود ندارد!',
+    },
+  ],
+};
+
+const alllessons = [
   {
     file_name: 'verben_01.json',
     name: 'Verben_01',
@@ -179,4 +196,4 @@ const alllessens = [
 ];
 const allLanguagesTranslate = ['english', 'russian', 'farsi'];
 
-export { alllessens, allLanguagesTranslate, startLessen };
+export { alllessons, allLanguagesTranslate, startLesson, noSentenceSelected };

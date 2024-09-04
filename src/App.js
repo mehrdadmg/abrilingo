@@ -2,19 +2,19 @@ import { useState } from 'react';
 
 import MainPage from './pages/MainPage/MainPage';
 import LearningSentences from './pages/LearningSentences/LearningSentences';
-import Choselessen from './pages/ChoseLessen/ChoseLessen';
+import Choselesson from './pages/ChoseLesson/ChoseLesson';
 import Setting from './pages/Setting/Setting';
-import { startLessen } from './content/lessens';
+import { startLesson } from './content/lessons';
 
-import { getlessen, setlessen } from './api/handelLocalStorage';
+import { getlesson, setlesson } from './api/handleLocalStorage';
 
 import './App.css';
 
 function App() {
-  let lessen = getlessen();
-  if (!lessen) {
-    lessen = startLessen.info.name;
-    setlessen(lessen);
+  let lesson = getlesson();
+  if (!lesson) {
+    lesson = startLesson.info.name;
+    setlesson(lesson);
   }
 
   const [displayed, setDisplayed] = useState('main_page');
@@ -22,7 +22,7 @@ function App() {
   const handlerGoToPage = (page) => {
     setDisplayed(page);
   };
-  console.log('App render');
+  //console.log('App render');
   return (
     <div className="App">
       {(() => {
@@ -30,9 +30,9 @@ function App() {
           case 'main_page':
             return <MainPage goToPage={handlerGoToPage} />;
 
-          case 'chose_lessen':
+          case 'chose_lesson':
             return (
-              <Choselessen
+              <Choselesson
                 BackToMainPage={() => {
                   setDisplayed('main_page');
                 }}

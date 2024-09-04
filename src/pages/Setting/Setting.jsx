@@ -9,8 +9,8 @@ import {
   setRate,
   getPitch,
   setPitch,
-} from '../../api/handelLocalStorage';
-import { allLanguagesTranslate } from '../../content/lessens';
+} from '../../api/handleLocalStorage';
+import { allLanguagesTranslate } from '../../content/lessons';
 import PlayText from '../../components/PlayText/PlayText';
 import { GrPrevious } from 'react-icons/gr';
 
@@ -30,10 +30,7 @@ const Setting = (props) => {
   const [activeVoiceURI, setActiveVoiceURI] = useState(voiceURI);
   const [selectedRate, setSelectedRate] = useState(() => getRate()); // New state for rate
   const [selectepitch, setSelectedPitch] = useState(() => getPitch()); // New state for pitch
-
   const [activeLang, setActiveLang] = useState(lang);
-
-  console.log('Setting render');
 
   return (
     <div className="setting">

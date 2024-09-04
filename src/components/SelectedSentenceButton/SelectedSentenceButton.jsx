@@ -1,33 +1,44 @@
-import { useEffect, useState } from 'react';
+import { useDispatch, useSelector } from 'react-redux';
+
+import { toggleSelecteSentence, handleContentsLength, handleSentenceNo } from '../../redux/actionCreator';
+import { putlessonToIndexedDB } from '../../api/handleIndexedDB';
 
 import { GoBookmarkFill, GoBookmark } from 'react-icons/go';
 
 import './SelectedSentenceButton.css';
 
 const SelecteSentenceButton = (props) => {
-  const [selecteSentence, setSelecteSentence] = useState(props.isSentenceSelected);
+  const dispatch = useDispatch();
+  const dataLesson = useSelector((state) => state.lesson);
+  const activeTab = useSelector((state) => state.isSelectedTabActive);
+  const contentIndex = useSelector((state) => state.indexSentence);
 
-  useEffect(() => {
-    setSelecteSentence(props.isSentenceSelected);
-    //setSelecteSentence((prev) => !prev);
-  }, [props.isSentenceSelected]);
+  const handleSelecteSentence = async (id) => {
+    dispatch(toggleSelecteSentence(id));
 
-  /* const handleSelecteSentence = () => {
-    console.log('props: ', props.isSentenceSelected);
-    setSelecteSentence(props.isSentenceSelected);
-  }; */
-  console.log('SelecteSentenceButton: ', props.isSentenceSelected);
+    let tempContent = dataLesson.content.map((sentence) =>
+      sentence.id === id ? { ...sentence, isSelected: !sentence.isSelected } : sentence
+    );
+    await putlessonToIndexedDB(dataLesson.info.name, { ...dataLesson, content: tempContent });
+
+    if (activeTab) {
+      let selectedContentLength = tempContent.filter((item) => item.isSelected === true).length;
+      dispatch(handleContentsLength(selectedContentLength));
+      if (selectedContentLength <= contentIndex) {
+        dispatch(handleSentenceNo(contentIndex - 1));
+      }
+    }
+  };
 
   return (
     <div className="selecte_sentence_button">
       <button
         className=""
         onClick={() => {
-          props.handelSelectSentence();
-          setSelecteSentence((prev) => !prev);
+          handleSelecteSentence(props.content.id);
         }}
       >
-        {/* props.isSentenceSelected */ selecteSentence ? <GoBookmarkFill /> : <GoBookmark />}
+        {props.content.isSelected ? <GoBookmarkFill /> : <GoBookmark />}
       </button>
     </div>
   );

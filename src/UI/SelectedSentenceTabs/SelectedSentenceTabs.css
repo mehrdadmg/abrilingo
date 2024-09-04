@@ -32,6 +32,11 @@
   color: #007bff;
 }
 
+.selected_sentence_tabs .tab[disabled] {
+  color: #535353;
+  cursor: default;
+}
+
 .selected_sentence_tabs .tab-content {
   padding: 20px;
 }

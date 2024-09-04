@@ -1,35 +1,43 @@
-import { useEffect, useState } from 'react';
+import { useDispatch, useSelector } from 'react-redux';
+import { handleContentsLength, handleSelectedTabActive, handleSentenceNo } from '../../redux/actionCreator';
+import { getLearnSentenceNo, getPracticeSentenceNo } from '../../api/handleLocalStorage';
 import './SelectedSentenceTabs.css';
 
-const SelectedSentenceTabs = (props) => {
-  const tabs = ['All Sentences', 'Selected Sntences'];
-  const [activeTab, setActiveTab] = useState(0);
-  const [selectedBtnDisabled, setSelectedBtnDisabled] = useState(!props.hasSelectedSentence);
-
-  useEffect(() => {
-    setSelectedBtnDisabled(props.hasSelectedSentence);
-  }, [props.hasSelectedSentence]);
-
-  const handleTabClick = (index) => {
-    setActiveTab(index);
-    props.handelSelectedTab();
-  };
+const SelectedSentenceTabs = () => {
+  const dispatch = useDispatch();
+  const activeTab = useSelector((state) => state.isSelectedTabActive);
+  const dataLesson = useSelector((state) => state.lesson);
+  const typePage = useSelector((state) => state.typePage);
 
   return (
     <div className="selected_sentence_tabs">
       <div className="tabs">
-        {tabs.map((tab, index) => (
-          <button
-            key={index}
-            className={`tab ${activeTab === index ? 'active' : ''}`}
-            onClick={() => handleTabClick(index)}
-            disabled={!props.hasSelectedSentence /* selectedBtnDisabled */}
-          >
-            {tab}
-          </button>
-        ))}
+        <button
+          className={`tab ${!activeTab ? 'active' : ''}`}
+          onClick={() => {
+            dispatch(handleContentsLength(dataLesson.content.length));
+            dispatch(handleSelectedTabActive(false));
+            if (typePage === 'Learn') {
+              dispatch(handleSentenceNo(parseInt(getLearnSentenceNo())));
+            } else if (typePage === 'Practice') {
+              dispatch(handleSentenceNo(parseInt(getPracticeSentenceNo())));
+            }
+          }}
+        >
+          All Sentences
+        </button>
+
+        <button
+          className={`tab ${activeTab ? 'active' : ''}`}
+          onClick={() => {
+            dispatch(handleContentsLength(dataLesson.content.filter((item) => item.isSelected === true).length));
+            dispatch(handleSelectedTabActive(true));
+            dispatch(handleSentenceNo(0));
+          }}
+        >
+          Selected Sntences
+        </button>
       </div>
-      {/* <div className="tab-content">{tabs.find((tab) => tab.id === activeTab).content}</div> */}
     </div>
   );
 };

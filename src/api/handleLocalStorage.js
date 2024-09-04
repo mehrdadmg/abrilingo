@@ -10,13 +10,13 @@ const setLang = (lang) => {
   localStorage.setItem('Lang', lang);
 };
 
-const getlessen = () => {
-  let lessen = localStorage.getItem('lessen');
-  return lessen;
+const getlesson = () => {
+  let lesson = localStorage.getItem('lesson');
+  return lesson;
 };
 
-const setlessen = (lessen) => {
-  localStorage.setItem('lessen', lessen);
+const setlesson = (lesson) => {
+  localStorage.setItem('lesson', lesson);
   localStorage.setItem('LearnSentenceNo', '0');
   localStorage.setItem('PracticeSentenceNo', '0');
 };
@@ -46,7 +46,7 @@ const setPracticeSentenceNo = (practiceSentenceNo) => {
 };
 
 const getVoiceURI = () => {
-  console.log('getVoiceURI');
+  //console.log('getVoiceURI');
   let voiceURI = localStorage.getItem('VoiceURI');
   /* if (voiceURI) return voiceURI;
   voiceURI = '';
@@ -59,7 +59,7 @@ const setVoiceURI = (voiceURI) => {
 };
 
 const getVoice = () => {
-  console.log('getVoice');
+  //console.log('getVoice');
   const voice = localStorage.getItem('Voice');
   if (!voice) {
     localStorage.setItem('Voice', '');
@@ -73,7 +73,7 @@ const setVoice = (voice) => {
 };
 
 const getRate = () => {
-  console.log('getRate');
+  //console.log('getRate');
 
   let rate = localStorage.getItem('Rate');
   if (rate) return rate;
@@ -87,7 +87,7 @@ const setRate = (rate) => {
 };
 
 const getPitch = () => {
-  console.log('getPitch');
+  //console.log('getPitch');
 
   let pitch = localStorage.getItem('Pitch');
   if (pitch) return pitch;
@@ -103,8 +103,8 @@ const setPitch = (pitch) => {
 export {
   getLang,
   setLang,
-  getlessen,
-  setlessen,
+  getlesson,
+  setlesson,
   getLearnSentenceNo,
   setLearnSentenceNo,
   getPracticeSentenceNo,

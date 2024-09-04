@@ -1,17 +1,20 @@
-import { getlessen, setlessen } from '../../api/handelLocalStorage';
-import { startLessen } from '../../content/lessens';
+import { useDispatch } from 'react-redux';
+import { handleTypePage, handleSelectedTabActive, handleSentenceNo } from '../../redux/actionCreator';
+
+import { getlesson, setlesson, getLearnSentenceNo, getPracticeSentenceNo } from '../../api/handleLocalStorage';
+import { startLesson } from '../../content/lessons';
 
 import { IoSettingsOutline, IoPersonOutline } from 'react-icons/io5';
 import './MainPage.css';
 
 function MainPage(props) {
-  let lessen = getlessen();
-  if (!lessen) {
-    lessen = startLessen.info.name;
-    setlessen(lessen);
-  }
+  const dispatch = useDispatch();
 
-  console.log('MainPage render');
+  let lesson = getlesson();
+  if (!lesson) {
+    lesson = startLesson.info.name;
+    setlesson(lesson);
+  }
 
   return (
     <div className="main_page">
@@ -41,16 +44,19 @@ function MainPage(props) {
           <button
             className="top_btn btn"
             onClick={() => {
-              props.goToPage('chose_lessen');
+              props.goToPage('chose_lesson');
             }}
           >
-            Chose lessen <br /> <br />
-            <span> Active lessen: " {lessen} "</span>
+            Chose lesson <br /> <br />
+            <span> Active lesson: " {lesson} "</span>
           </button>
           <button
             className="middle_btn btn"
             onClick={() => {
               props.goToPage('learn');
+              dispatch(handleTypePage('Learn'));
+              dispatch(handleSelectedTabActive(false));
+              dispatch(handleSentenceNo(parseInt(getLearnSentenceNo())));
             }}
           >
             Learn
@@ -59,6 +65,9 @@ function MainPage(props) {
             className="bottom_btn btn"
             onClick={() => {
               props.goToPage('practice');
+              dispatch(handleTypePage('Practice'));
+              dispatch(handleSelectedTabActive(false));
+              dispatch(handleSentenceNo(parseInt(getPracticeSentenceNo())));
             }}
           >
             Practice

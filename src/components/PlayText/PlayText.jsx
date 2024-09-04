@@ -1,6 +1,5 @@
 import { useSpeechSynthesis } from 'react-speech-kit';
 
-//import { getVoiceURI } from '../../api/handelLocalStorage';
 import { FaCirclePlay } from 'react-icons/fa6';
 
 import './PlayText.css';

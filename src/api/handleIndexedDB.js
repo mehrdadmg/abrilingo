@@ -1,9 +1,11 @@
-import { fetchlessen } from './downloadLessens.js';
+import { v4 as uuidv4 } from 'uuid';
 
-const dbName = 'deutschLessens';
-const storeNames = 'lessens';
+import { fetchlesson } from './downloadLessons.js';
 
-function openDatabase(/* lessen */) {
+const dbName = 'deutschLessons';
+const storeNames = 'lessons';
+
+function openDatabase(/* lesson */) {
   let db;
   let version = 1;
   let request;
@@ -23,17 +25,17 @@ function openDatabase(/* lessen */) {
 
     request.onupgradeneeded = () => {
       db = request.result;
-      db.createObjectStore(storeNames, { keyPath: 'lessenName' });
+      db.createObjectStore(storeNames, { keyPath: 'lessonName' });
     };
   });
 }
 
-function addData(db, data, lessenName) {
+function addData(db, data, lessonName) {
   return new Promise((resolve) => {
     const request = indexedDB.open(dbName);
 
     request.onsuccess = () => {
-      data.lessenName = lessenName;
+      data.lessonName = lessonName;
       const transaction = request.result.transaction([storeNames], 'readwrite');
       const objectStore = transaction.objectStore(storeNames);
       objectStore.add(data);
@@ -51,13 +53,13 @@ function addData(db, data, lessenName) {
   });
 }
 
-async function getData(lessen) {
+async function getData(lesson) {
   let db = await openDatabase(/* dbName */);
 
   return new Promise((resolve, reject) => {
     const transaction = db.transaction([storeNames], 'readonly');
     const objectStore = transaction.objectStore(storeNames);
-    const request = objectStore.get(lessen); // Adjust the ID as necessary
+    const request = objectStore.get(lesson); // Adjust the ID as necessary
     request.onsuccess = (event) => {
       resolve(event.target.result);
     };
@@ -68,7 +70,7 @@ async function getData(lessen) {
   });
 }
 
-async function getAllLoadedLessens(lessen) {
+async function getAllLoadedLessons(lesson) {
   let db = await openDatabase(/* dbName */);
 
   return new Promise((resolve, reject) => {
@@ -80,18 +82,18 @@ async function getAllLoadedLessens(lessen) {
     };
 
     request.onerror = (event) => {
-      reject('Error getting All Loaded Lessens: ' + event.target.errorCode);
+      reject('Error getting All Loaded Lessons: ' + event.target.errorCode);
     };
   });
 }
 
-async function deleteData(lessen) {
+async function deleteData(lesson) {
   let db = await openDatabase(/* dbName */);
 
   return new Promise((resolve, reject) => {
     const transaction = db.transaction([storeNames], 'readwrite');
     const objectStore = transaction.objectStore(storeNames);
-    const request = objectStore.delete(lessen); // Adjust the ID as necessary
+    const request = objectStore.delete(lesson); // Adjust the ID as necessary
     request.onsuccess = (event) => {
       resolve(event.target.result);
     };
@@ -102,19 +104,20 @@ async function deleteData(lessen) {
   });
 }
 
-async function loadlessenToIndexedDB(lessen) {
-  const data = await fetchlessen(lessen.file_name);
-  let db = await openDatabase(/* lessen */);
-  console.log('loadlessenToIndexedDB_lessen : ', lessen);
-  await addData(db, data, lessen.name);
+async function loadlessonToIndexedDB(lesson) {
+  const data = await fetchlesson(lesson.file_name);
+  let db = await openDatabase();
+  const content = data.content.map((item) => ({ ...item, id: uuidv4() }));
+  const dataWithId = { ...data, content };
+  await addData(db, dataWithId, lesson.name);
 }
 
-function putData(db, data, lessenName) {
+function putData(db, data, lessonName) {
   return new Promise((resolve) => {
     const request = indexedDB.open(dbName);
 
     request.onsuccess = () => {
-      data.lessenName = lessenName;
+      data.lessonName = lessonName;
       const transaction = request.result.transaction([storeNames], 'readwrite');
       const objectStore = transaction.objectStore(storeNames);
       objectStore.put(data);
@@ -132,11 +135,10 @@ function putData(db, data, lessenName) {
   });
 }
 
-async function putlessenToIndexedDB(lessenName, data) {
-  /* const data = await fetchlessen(lessen.file_name); */
-  let db = await openDatabase(/* lessen */);
-  console.log('data : ', data);
-  await putData(db, data, lessenName);
+async function putlessonToIndexedDB(lessonName, data) {
+  /* const data = await fetchlesson(lesson.file_name); */
+  let db = await openDatabase(/* lesson */);
+  await putData(db, data, lessonName);
 }
 
-export { loadlessenToIndexedDB, getData, getAllLoadedLessens, deleteData, putlessenToIndexedDB };
+export { loadlessonToIndexedDB, getData, getAllLoadedLessons, deleteData, putlessonToIndexedDB };

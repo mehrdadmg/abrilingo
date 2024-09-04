@@ -40,7 +40,6 @@ const SpeechRecognition = (props) => {
         <button className="record-btn" onClick={toggle}>
           {listening ? <IoStopCircleSharp /> : <IoMicCircleSharp />}
         </button>
-        {/* {listening && <div>Go ahead I'm listening</div>} */}
       </div>
 
       {viewAnswer && (

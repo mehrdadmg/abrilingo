@@ -1,6 +1,6 @@
 const url = '/contents/';
 
-async function fetchlessen(file_name) {
+async function fetchlesson(file_name) {
   try {
     const response = await fetch(url + file_name);
     if (!response.ok) {
@@ -13,4 +13,4 @@ async function fetchlessen(file_name) {
   }
 }
 
-export { fetchlessen };
+export { fetchlesson };
