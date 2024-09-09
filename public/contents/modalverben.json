@@ -1,0 +1,849 @@
+{
+  "info": {
+    "name": "Modalverben",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "sentence": "Ich kann Deutsch sprechen.",
+      "english": "I can speak German.",
+      "russian": "Я могу говорить по-немецки.",
+      "farsi": "من می‌توانم آلمانی صحبت کنم."
+    },
+    {
+      "sentence": "Du kannst gut kochen.",
+      "english": "You can cook well.",
+      "russian": "Ты хорошо готовишь.",
+      "farsi": "تو خوب آشپزی می‌کنی."
+    },
+    {
+      "sentence": "Er kann schwimmen.",
+      "english": "He can swim.",
+      "russian": "Он умеет плавать.",
+      "farsi": "او می‌تواند شنا کند."
+    },
+    {
+      "sentence": "Sie kann Klavier spielen.",
+      "english": "She can play the piano.",
+      "russian": "Она умеет играть на пианино.",
+      "farsi": "او می‌تواند پیانو بنوازد."
+    },
+    {
+      "sentence": "Wir können tanzen.",
+      "english": "We can dance.",
+      "russian": "Мы умеем танцевать.",
+      "farsi": "ما می‌توانیم برقصیم."
+    },
+    {
+      "sentence": "Ihr könnt Fahrrad fahren.",
+      "english": "You can ride a bike.",
+      "russian": "Вы умеете ездить на велосипеде.",
+      "farsi": "شما می‌توانید دوچرخه سواری کنید."
+    },
+    {
+      "sentence": "Sie können Englisch und Französisch.",
+      "english": "They can speak English and French.",
+      "russian": "Они могут говорить на английском и французском.",
+      "farsi": "آن‌ها می‌توانند انگلیسی و فرانسوی صحبت کنند."
+    },
+    {
+      "sentence": "Das Kind kann schon laufen.",
+      "english": "The child can already walk.",
+      "russian": "Ребенок уже умеет ходить.",
+      "farsi": "کودک قبلاً می‌تواند راه برود."
+    },
+    {
+      "sentence": "Der Hund kann Apportieren.",
+      "english": "The dog can fetch.",
+      "russian": "Собака умеет апортировать.",
+      "farsi": "سگ می‌تواند توپ بیاورد."
+    },
+    {
+      "sentence": "Der Vogel kann fliegen.",
+      "english": "The bird can fly.",
+      "russian": "Птица умеет летать.",
+      "farsi": "پرنده می‌تواند پرواز کند."
+    },
+    {
+      "sentence": "Ich konnte als Kind nicht schwimmen.",
+      "english": "I couldn't swim as a child.",
+      "russian": "Я не умел плавать, когда был ребенком.",
+      "farsi": "من وقتی بچه بودم نمی‌توانستم شنا کنم."
+    },
+    {
+      "sentence": "Du konntest gestern nicht kommen, weil du krank warst.",
+      "english": "You couldn't come yesterday because you were sick.",
+      "russian": "Ты не мог прийти вчера, потому что ты был болен.",
+      "farsi": "تو دیروز نمی‌توانستی بیایی چون مریض بودی."
+    },
+    {
+      "sentence": "Er kann nicht nur Deutsch, sondern auch Spanisch sprechen.",
+      "english": "He can speak not only German but also Spanish.",
+      "russian": "Он может говорить не только по-немецки, но и по-испански.",
+      "farsi": "او نه تنها می‌تواند آلمانی بلکه اسپانیایی هم صحبت کند."
+    },
+    {
+      "sentence": "Sie kann heute leider nicht kommen, weil sie arbeiten muss.",
+      "english": "She unfortunately cannot come today because she has to work.",
+      "russian": "К сожалению, она не может прийти сегодня, потому что она должна работать.",
+      "farsi": "متاسفانه او امروز نمی‌تواند بیاید چون باید کار کند."
+    },
+    {
+      "sentence": "Wir können am Wochenende ins Kino gehen, wenn das Wetter schön ist.",
+      "english": "We can go to the cinema on the weekend if the weather is nice.",
+      "russian": "Мы можем пойти в кино в выходные, если погода будет хорошая.",
+      "farsi": "ما می‌توانیم آخر هفته به سینما برویم اگر هوا خوب باشد."
+    },
+    {
+      "sentence": "Ihr könnt mich jederzeit anrufen, wenn ihr Fragen habt.",
+      "english": "You can call me anytime if you have any questions.",
+      "russian": "Вы можете позвонить мне в любое время, если у вас есть вопросы.",
+      "farsi": "هر وقت سوالی داشتید می‌توانید به من زنگ بزنید."
+    },
+    {
+      "sentence": "Sie können dieses Buch in der Bibliothek ausleihen.",
+      "english": "You can borrow this book from the library.",
+      "russian": "Вы можете взять эту книгу в библиотеке.",
+      "farsi": "شما می‌توانید این کتاب را از کتابخانه قرض بگیرید."
+    },
+    {
+      "sentence": "Das Auto kann bis zu 200 km/h fahren.",
+      "english": "The car can drive up to 200 km/h.",
+      "russian": "Машина может ехать со скоростью до 200 км/ч.",
+      "farsi": "این ماشین می‌تواند تا سرعت 200 کیلومتر در ساعت برسد."
+    },
+    {
+      "sentence": "Der Computer kann viele Aufgaben erledigen.",
+      "english": "The computer can perform many tasks.",
+      "russian": "Компьютер может выполнять множество задач.",
+      "farsi": "کامپیوتر می‌تواند کارهای زیادی انجام دهد."
+    },
+    {
+      "sentence": "Die Maschine kann Papier schneiden.",
+      "english": "The machine can cut paper.",
+      "russian": "Машина может резать бумагу.",
+      "farsi": "این دستگاه می‌تواند کاغذ را برش دهد."
+    },
+    {
+      "sentence": "Ich darf heute länger aufbleiben.",
+      "english": "I am allowed to stay up later today.",
+      "russian": "Мне сегодня разрешено оставаться допоздна.",
+      "farsi": "من امروز اجازه دارم دیرتر بیدار بمانم."
+    },
+    {
+      "sentence": "Du darfst nicht so laut sein.",
+      "english": "You are not allowed to be so loud.",
+      "russian": "Тебе нельзя быть таким шумным.",
+      "farsi": "تو نباید اینقدر بلند صدا باشی."
+    },
+    {
+      "sentence": "Er darf mitkommen.",
+      "english": "He is allowed to come along.",
+      "russian": "Ему разрешено идти вместе.",
+      "farsi": "او اجازه دارد همراه بیاید."
+    },
+    {
+      "sentence": "Wir dürfen ins Schwimmbad gehen.",
+      "english": "We are allowed to go to the swimming pool.",
+      "russian": "Нам разрешено идти в бассейн.",
+      "farsi": "ما اجازه داریم به استخر برویم."
+    },
+    {
+      "sentence": "Ihr dürft das Spielzeug nicht kaputt machen.",
+      "english": "You are not allowed to break the toy.",
+      "russian": "Вам нельзя ломать игрушку.",
+      "farsi": "شما نباید اسباب‌بازی را خراب کنید."
+    },
+    {
+      "sentence": "Sie dürfen hier rauchen.",
+      "english": "They are allowed to smoke here.",
+      "russian": "Им разрешено курить здесь.",
+      "farsi": "آن‌ها اجازه دارند اینجا سیگار بکشند."
+    },
+    {
+      "sentence": "Das Kind darf Süßigkeiten essen.",
+      "english": "The child is allowed to eat sweets.",
+      "russian": "Ребенку разрешено есть сладости.",
+      "farsi": "کودک اجازه دارد شیرینی بخورد."
+    },
+    {
+      "sentence": "Der Hund darf auf das Sofa.",
+      "english": "The dog is allowed on the sofa.",
+      "russian": "Собаке разрешено лежать на диване.",
+      "farsi": "سگ اجازه دارد روی مبل بنشیند."
+    },
+    {
+      "sentence": "Wir dürfen heute frei haben.",
+      "english": "We are allowed to have a day off today.",
+      "russian": "Нам сегодня разрешено иметь выходной.",
+      "farsi": "ما امروز اجازه داریم تعطیل باشیم."
+    },
+    {
+      "sentence": "Sie dürfen die Tür öffnen.",
+      "english": "They are allowed to open the door.",
+      "russian": "Им разрешено открывать дверь.",
+      "farsi": "آن‌ها اجازه دارند در را باز کنند."
+    },
+    {
+      "sentence": "Ich durfte als Kind nicht oft fernsehen.",
+      "english": "I wasn't allowed to watch TV very often as a child.",
+      "russian": "В детстве мне не разрешали часто смотреть телевизор.",
+      "farsi": "وقتی بچه بودم اجازه نداشتم زیاد تلویزیون ببینم."
+    },
+    {
+      "sentence": "Du durftest gestern nicht ausgehen, weil es geregnet hat.",
+      "english": "You weren't allowed to go out yesterday because it rained.",
+      "russian": "Вчера тебе не разрешили выйти, потому что шел дождь.",
+      "farsi": "دیروز اجازه نداشتی بیرون بروی چون باران می‌آمد."
+    },
+    {
+      "sentence": "Er darf nicht nur mitkommen, sondern auch übernachten.",
+      "english": "He is allowed not only to come along but also to stay overnight.",
+      "russian": "Ему разрешено не только пойти вместе, но и остаться ночевать.",
+      "farsi": "او نه تنها اجازه دارد همراه بیاید بلکه می‌تواند شب را اینجا بماند."
+    },
+    {
+      "sentence": "Wir durften früher im Garten spielen.",
+      "english": "We were allowed to play in the garden before.",
+      "russian": "Раньше нам разрешали играть в саду.",
+      "farsi": "قبلا اجازه داشتیم در باغ بازی کنیم."
+    },
+    {
+      "sentence": "Ihr dürft heute länger bleiben, wenn ihr wollt.",
+      "english": "You are allowed to stay longer today if you want.",
+      "russian": "Вы можете остаться сегодня подольше, если хотите.",
+      "farsi": "شما می‌توانید امروز بیشتر بمانید اگر بخواهید."
+    },
+    {
+      "sentence": "Sie durften früher nicht so spät nach Hause kommen.",
+      "english": "They weren't allowed to come home so late before.",
+      "russian": "Раньше им не разрешали приходить домой так поздно.",
+      "farsi": "قبلا اجازه نداشتند اینقدر دیر به خانه بیایند."
+    },
+    {
+      "sentence": "Das Kind darf nicht alleine über die Straße gehen.",
+      "english": "The child is not allowed to cross the street alone.",
+      "russian": "Ребенок не может переходить дорогу один.",
+      "farsi": "کودک اجازه ندارد تنها از خیابان رد شود."
+    },
+    {
+      "sentence": "Der Hund durfte früher im Park frei laufen.",
+      "english": "The dog was allowed to run freely in the park before.",
+      "russian": "Раньше собаке разрешали свободно бегать в парке.",
+      "farsi": "قبلا سگ اجازه داشت آزادانه در پارک بدود."
+    },
+    {
+      "sentence": "Wir durften früher keine Süßigkeiten vor dem Essen essen.",
+      "english": "We weren't allowed to eat sweets before meals.",
+      "russian": "Раньше нам не разрешали есть сладости перед едой.",
+      "farsi": "قبلا اجازه نداشتیم قبل از غذا شیرینی بخوریم."
+    },
+    {
+      "sentence": "Sie durften früher nicht so viel Computer spielen.",
+      "english": "They weren't allowed to play computer games so much before.",
+      "russian": "Раньше им не разрешали так много играть в компьютерные игры.",
+      "farsi": "قبلا اجازه نداشتند اینقدر بازی‌های کامپیوتری انجام دهند."
+    },
+    {
+      "sentence": "Du sollst deine Hausaufgaben machen.",
+      "english": "You should do your homework.",
+      "russian": "Ты должен делать домашнее задание.",
+      "farsi": "تو باید تکالیف درسی‌ات را انجام دهی."
+    },
+    {
+      "sentence": "Er soll um 8 Uhr aufstehen.",
+      "english": "He should get up at 8 o'clock.",
+      "russian": "Он должен вставать в 8 часов.",
+      "farsi": "او باید ساعت 8 بیدار شود."
+    },
+    {
+      "sentence": "Wir sollen pünktlich sein.",
+      "english": "We should be on time.",
+      "russian": "Мы должны быть пунктуальными.",
+      "farsi": "ما باید سر وقت باشیم."
+    },
+    {
+      "sentence": "Ihr sollt nicht so laut sein.",
+      "english": "You should not be so loud.",
+      "russian": "Вы не должны быть такими шумными.",
+      "farsi": "شما نباید اینقدر بلند صدا باشید."
+    },
+    {
+      "sentence": "Sie sollen mehr Gemüse essen.",
+      "english": "They should eat more vegetables.",
+      "russian": "Им следует есть больше овощей.",
+      "farsi": "آن‌ها باید بیشتر سبزیجات بخورند."
+    },
+    {
+      "sentence": "Das Kind soll schlafen gehen.",
+      "english": "The child should go to sleep.",
+      "russian": "Ребенок должен идти спать.",
+      "farsi": "کودک باید بخوابد."
+    },
+    {
+      "sentence": "Der Hund soll nicht auf das Sofa.",
+      "english": "The dog should not get on the sofa.",
+      "russian": "Собаке нельзя залезать на диван.",
+      "farsi": "سگ نباید روی مبل برود."
+    },
+    {
+      "sentence": "Wir sollen heute einkaufen gehen.",
+      "english": "We should go shopping today.",
+      "russian": "Нам следует сегодня пойти по магазинам.",
+      "farsi": "ما باید امروز خرید برویم."
+    },
+    {
+      "sentence": "Sie sollen den Brief schreiben.",
+      "english": "They should write the letter.",
+      "russian": "Им следует написать письмо.",
+      "farsi": "آن‌ها باید نامه بنویسند."
+    },
+    {
+      "sentence": "Ihr sollt die Fenster schließen.",
+      "english": "You should close the windows.",
+      "russian": "Вы должны закрыть окна.",
+      "farsi": "شما باید پنجره‌ها را ببندید."
+    },
+    {
+      "sentence": "Ich sollte früher ins Bett gehen.",
+      "english": "I should go to bed earlier.",
+      "russian": "Мне следует ложиться спать пораньше.",
+      "farsi": "من باید زودتر بخوابم."
+    },
+    {
+      "sentence": "Du solltest mehr Sport treiben.",
+      "english": "You should exercise more.",
+      "russian": "Тебе следует больше заниматься спортом.",
+      "farsi": "تو باید بیشتر ورزش کنی."
+    },
+    {
+      "sentence": "Er sollte den Arzt anrufen.",
+      "english": "He should call the doctor.",
+      "russian": "Ему следует позвонить врачу.",
+      "farsi": "او باید به دکتر زنگ بزند."
+    },
+    {
+      "sentence": "Wir sollten einen Kuchen backen.",
+      "english": "We should bake a cake.",
+      "russian": "Нам следует испечь торт.",
+      "farsi": "ما باید کیک بپزیم."
+    },
+    {
+      "sentence": "Ihr solltet öfter eure Großeltern besuchen.",
+      "english": "You should visit your grandparents more often.",
+      "russian": "Вам следует чаще навещать ваших бабушку и дедушку.",
+      "farsi": "شما باید بیشتر به دیدار پدربزرگ و مادربزرگتان بروید."
+    },
+    {
+      "sentence": "Sie sollten sich mehr erholen.",
+      "english": "They should rest more.",
+      "russian": "Им следует больше отдыхать.",
+      "farsi": "آن‌ها باید بیشتر استراحت کنند."
+    },
+    {
+      "sentence": "Das Kind sollte nicht so viel Süßigkeiten essen.",
+      "english": "The child should not eat so many sweets.",
+      "russian": "Ребенок не должен есть так много сладостей.",
+      "farsi": "کودک نباید اینقدر شیرینی بخورد."
+    },
+    {
+      "sentence": "Der Hund sollte öfter Gassi gehen.",
+      "english": "The dog should go for walks more often.",
+      "russian": "Собаке следует чаще гулять.",
+      "farsi": "سگ باید بیشتر بیرون برود."
+    },
+    {
+      "sentence": "Wir sollten morgen früher aufstehen.",
+      "english": "We should get up earlier tomorrow.",
+      "russian": "Нам следует завтра встать пораньше.",
+      "farsi": "ما باید فردا زودتر بیدار شویم."
+    },
+    {
+      "sentence": "Sie sollten sich beeilen.",
+      "english": "They should hurry up.",
+      "russian": "Им следует поторопиться.",
+      "farsi": "آن‌ها باید عجله کنند."
+    },
+    {
+      "sentence": "Ich muss jetzt gehen.",
+      "english": "I have to go now.",
+      "russian": "Я должен идти сейчас.",
+      "farsi": "من باید الان بروم."
+    },
+    {
+      "sentence": "Du musst deine Zähne putzen.",
+      "english": "You have to brush your teeth.",
+      "russian": "Ты должен чистить зубы.",
+      "farsi": "تو باید مسواک بزنی."
+    },
+    {
+      "sentence": "Er muss arbeiten.",
+      "english": "He has to work.",
+      "russian": "Он должен работать.",
+      "farsi": "او باید کار کند."
+    },
+    {
+      "sentence": "Wir müssen einkaufen gehen.",
+      "english": "We have to go shopping.",
+      "russian": "Мы должны идти за покупками.",
+      "farsi": "ما باید خرید برویم."
+    },
+    {
+      "sentence": "Ihr müsst pünktlich sein.",
+      "english": "You have to be on time.",
+      "russian": "Вы должны быть пунктуальными.",
+      "farsi": "شما باید سر وقت باشید."
+    },
+    {
+      "sentence": "Sie müssen das Formular ausfüllen.",
+      "english": "They have to fill out the form.",
+      "russian": "Они должны заполнить форму.",
+      "farsi": "آن‌ها باید فرم را پر کنند."
+    },
+    {
+      "sentence": "Das Kind muss schlafen.",
+      "english": "The child has to sleep.",
+      "russian": "Ребенок должен спать.",
+      "farsi": "کودک باید بخوابد."
+    },
+    {
+      "sentence": "Der Hund muss Gassi gehen.",
+      "english": "The dog has to go for a walk.",
+      "russian": "Собака должна гулять.",
+      "farsi": "سگ باید بیرون برود."
+    },
+    {
+      "sentence": "Wir müssen heute die Wohnung putzen.",
+      "english": "We have to clean the apartment today.",
+      "russian": "Мы должны сегодня убрать квартиру.",
+      "farsi": "ما باید امروز خانه را تمیز کنیم."
+    },
+    {
+      "sentence": "Sie müssen die Aufgabe lösen.",
+      "english": "They have to solve the task.",
+      "russian": "Они должны решить задачу.",
+      "farsi": "آن‌ها باید مسئله را حل کنند."
+    },
+    {
+      "sentence": "Ich musste gestern länger arbeiten.",
+      "english": "I had to work longer yesterday.",
+      "russian": "Вчера я должен был работать дольше.",
+      "farsi": "دیروز مجبور بودم بیشتر کار کنم."
+    },
+    {
+      "sentence": "Du musstest früher ins Bett gehen.",
+      "english": "You had to go to bed earlier.",
+      "russian": "Тебе пришлось ложиться спать раньше.",
+      "farsi": "تو مجبور شدی زودتر بخوابی."
+    },
+    {
+      "sentence": "Er musste zum Arzt gehen.",
+      "english": "He had to go to the doctor.",
+      "russian": "Ему пришлось идти к врачу.",
+      "farsi": "او مجبور شد به دکتر برود."
+    },
+    {
+      "sentence": "Wir mussten die Prüfung wiederholen.",
+      "english": "We had to retake the exam.",
+      "russian": "Нам пришлось пересдавать экзамен.",
+      "farsi": "ما مجبور شدیم دوباره امتحان بدهیم."
+    },
+    {
+      "sentence": "Ihr musstet das Spiel abbrechen.",
+      "english": "You had to stop the game.",
+      "russian": "Вам пришлось прервать игру.",
+      "farsi": "شما مجبور شدید بازی را قطع کنید."
+    },
+    {
+      "sentence": "Sie mussten das Haus verlassen.",
+      "english": "They had to leave the house.",
+      "russian": "Им пришлось покинуть дом.",
+      "farsi": "آن‌ها مجبور شدند خانه را ترک کنند."
+    },
+    {
+      "sentence": "Das Kind musste ins Krankenhaus.",
+      "english": "The child had to go to the hospital.",
+      "russian": "Ребенок должен был поехать в больницу.",
+      "farsi": "کودک مجبور شد به بیمارستان برود."
+    },
+    {
+      "sentence": "Der Hund musste zum Tierarzt.",
+      "english": "The dog had to go to the vet.",
+      "russian": "Собаку пришлось отвезти к ветеринару.",
+      "farsi": "سگ مجبور شد به دامپزشک برود."
+    },
+    {
+      "sentence": "Wir mussten das Auto reparieren.",
+      "english": "We had to repair the car.",
+      "russian": "Нам пришлось починить машину.",
+      "farsi": "ما مجبور شدیم ماشین را تعمیر کنیم."
+    },
+    {
+      "sentence": "Sie mussten die Entscheidung treffen.",
+      "english": "They had to make the decision.",
+      "russian": "Им пришлось принять решение.",
+      "farsi": "آن‌ها مجبور شدند تصمیم بگیرند."
+    },
+    {
+      "sentence": "Ich will einen Kaffee trinken.",
+      "english": "I want to drink a coffee.",
+      "russian": "Я хочу выпить кофе.",
+      "farsi": "من می‌خواهم قهوه بنوشم."
+    },
+    {
+      "sentence": "Du willst ins Kino gehen.",
+      "english": "You want to go to the cinema.",
+      "russian": "Ты хочешь пойти в кино.",
+      "farsi": "تو می‌خواهی به سینما بروی."
+    },
+    {
+      "sentence": "Er will ein neues Auto kaufen.",
+      "english": "He wants to buy a new car.",
+      "russian": "Он хочет купить новую машину.",
+      "farsi": "او می‌خواهد ماشین جدید بخرد."
+    },
+    {
+      "sentence": "Wir wollen Pizza bestellen.",
+      "english": "We want to order pizza.",
+      "russian": "Мы хотим заказать пиццу.",
+      "farsi": "ما می‌خواهیم پیتزا سفارش دهیم."
+    },
+    {
+      "sentence": "Ihr wollt am Wochenende verreisen.",
+      "english": "You want to travel on the weekend.",
+      "russian": "Вы хотите поехать в путешествие в выходные.",
+      "farsi": "شما می‌خواهید آخر هفته سفر کنید."
+    },
+    {
+      "sentence": "Sie wollen ein Haus bauen.",
+      "english": "They want to build a house.",
+      "russian": "Они хотят построить дом.",
+      "farsi": "آن‌ها می‌خواهند خانه بسازند."
+    },
+    {
+      "sentence": "Das Kind will Eis essen.",
+      "english": "The child wants to eat ice cream.",
+      "russian": "Ребенок хочет есть мороженое.",
+      "farsi": "کودک می‌خواهد بستنی بخورد."
+    },
+    {
+      "sentence": "Der Hund will spielen.",
+      "english": "The dog wants to play.",
+      "russian": "Собака хочет играть.",
+      "farsi": "سگ می‌خواهد بازی کند."
+    },
+    {
+      "sentence": "Wir wollen heute früh schlafen gehen.",
+      "english": "We want to go to bed early today.",
+      "russian": "Мы хотим сегодня рано лечь спать.",
+      "farsi": "ما می‌خواهیم امروز زود بخوابیم."
+    },
+    {
+      "sentence": "Sie wollen einen Brief schreiben.",
+      "english": "They want to write a letter.",
+      "russian": "Они хотят написать письмо.",
+      "farsi": "آن‌ها می‌خواهند نامه بنویسند."
+    },
+    {
+      "sentence": "Ich wollte gestern ins Theater gehen, aber ich war krank.",
+      "english": "I wanted to go to the theater yesterday, but I was sick.",
+      "russian": "Я хотел пойти в театр вчера, но я был болен.",
+      "farsi": "من دیروز می خواستم به تئاتر بروم، اما بیمار بودم."
+    },
+    {
+      "sentence": "Du wolltest früher Pilot werden.",
+      "english": "You wanted to be a pilot before.",
+      "russian": "Ты раньше хотел стать пилотом.",
+      "farsi": "تو قبلاً می خواستی خلبان شوی."
+    },
+    {
+      "sentence": "Er wollte ein Buch schreiben, aber er hatte keine Zeit.",
+      "english": "He wanted to write a book, but he didn't have time.",
+      "russian": "Он хотел написать книгу, но у него не было времени.",
+      "farsi": "او می خواست کتاب بنویسد، اما وقت نداشت."
+    },
+    {
+      "sentence": "Wir wollten zusammen eine Reise machen, aber es hat nicht geklappt.",
+      "english": "We wanted to go on a trip together, but it didn't work out.",
+      "russian": "Мы хотели вместе поехать в путешествие, но ничего не получилось.",
+      "farsi": "ما می خواستیم با هم سفر کنیم، اما نشد."
+    },
+    {
+      "sentence": "Ihr wolltet ein neues Fahrrad kaufen, oder?",
+      "english": "You wanted to buy a new bike, didn't you?",
+      "russian": "Вы хотели купить новый велосипед, не так ли?",
+      "farsi": "شما می خواستید دوچرخه جدید بخرید، اینطور نیست؟"
+    },
+    {
+      "sentence": "Sie wollten ein Haus am Meer kaufen, aber es war zu teuer.",
+      "english": "They wanted to buy a house by the sea, but it was too expensive.",
+      "russian": "Они хотели купить дом у моря, но он был слишком дорогим.",
+      "farsi": "آنها می خواستند خانه ای کنار دریا بخرند، اما خیلی گران بود."
+    },
+    {
+      "sentence": "Das Kind wollte nicht ins Bett gehen.",
+      "english": "The child didn't want to go to bed.",
+      "russian": "Ребенок не хотел идти спать.",
+      "farsi": "کودک نمی خواست بخوابد."
+    },
+    {
+      "sentence": "Der Hund wollte nicht spazieren gehen.",
+      "english": "The dog didn't want to go for a walk.",
+      "russian": "Собака не хотела гулять.",
+      "farsi": "سگ نمی خواست قدم بزند."
+    },
+    {
+      "sentence": "Wir wollten gestern einen Film ansehen, aber der Fernseher war kaputt.",
+      "english": "We wanted to watch a movie yesterday, but the TV was broken.",
+      "russian": "Мы хотели вчера посмотреть фильм, но телевизор был сломан.",
+      "farsi": "ما دیروز می خواستیم فیلم ببینیم، اما تلویزیون خراب بود."
+    },
+    {
+      "sentence": "Sie wollten einen Kuchen backen, aber sie hatten keine Eier.",
+      "english": "They wanted to bake a cake, but they didn't have any eggs.",
+      "russian": "Они хотели испечь торт, но у них не было яиц.",
+      "farsi": "آنها می خواستند کیک بپزند، اما تخم مرغ نداشتند."
+    },
+    {
+      "sentence": "Ich mag Schokolade.",
+      "english": "I like chocolate.",
+      "russian": "Я люблю шоколад.",
+      "farsi": "من شکلات دوست دارم."
+    },
+    {
+      "sentence": "Du magst Katzen.",
+      "english": "You like cats.",
+      "russian": "Ты любишь кошек.",
+      "farsi": "تو گربه ها را دوست داری."
+    },
+    {
+      "sentence": "Er mag Fußball.",
+      "english": "He likes football.",
+      "russian": "Он любит футбол.",
+      "farsi": "او فوتبال دوست دارد."
+    },
+    {
+      "sentence": "Wir mögen Pizza.",
+      "english": "We like pizza.",
+      "russian": "Мы любим пиццу.",
+      "farsi": "ما پیتزا دوست داریم."
+    },
+    {
+      "sentence": "Ihr mögt Musik hören.",
+      "english": "You like listening to music.",
+      "russian": "Вы любите слушать музыку.",
+      "farsi": "شما دوست دارید به موسیقی گوش کنید."
+    },
+    {
+      "sentence": "Sie mögen Bücher lesen.",
+      "english": "They like reading books.",
+      "russian": "Они любят читать книги.",
+      "farسی": "آنها دوست دارند کتاب بخوانند."
+    },
+    {
+      "sentence": "Das Kind mag Eiscreme.",
+      "english": "The child likes ice cream.",
+      "russian": "Ребенок любит мороженое.",
+      "farsi": "کودک بستنی دوست دارد."
+    },
+    {
+      "sentence": "Der Hund mag Bälle.",
+      "english": "The dog likes balls.",
+      "russian": "Собака любит мячи.",
+      "farsi": "سگ توپ دوست دارد."
+    },
+    {
+      "sentence": "Wir mögen spazieren gehen.",
+      "english": "We like going for a walk.",
+      "russian": "Мы любим гулять.",
+      "farsi": "ما دوست داریم قدم بزنیم."
+    },
+    {
+      "sentence": "Sie mögen Kaffee trinken.",
+      "english": "They like drinking coffee.",
+      "russian": "Они любят пить кофе.",
+      "farsi": "آنها دوست دارند قهوه بنوشند."
+    },
+    {
+      "sentence": "Ich mochte früher Comics lesen.",
+      "english": "I used to like reading comics.",
+      "russian": "Раньше я любил читать комиксы.",
+      "farsi": "من قبلاً دوست داشتم کمیک بخوانم."
+    },
+    {
+      "sentence": "Du mochtest als Kind Puppen.",
+      "english": "You liked dolls as a child.",
+      "russian": "Ты любила куклы в детстве.",
+      "farsi": "تو در کودکی عروسک دوست داشتی."
+    },
+    {
+      "sentence": "Er mochte früher Spaghetti.",
+      "english": "He used to like spaghetti.",
+      "russian": "Он раньше любил спагетти.",
+      "farsi": "او قبلاً اسپاگتی دوست داشت."
+    },
+    {
+      "sentence": "Wir mochten früher ins Kino gehen.",
+      "english": "We used to like going to the cinema.",
+      "russian": "Мы раньше любили ходить в кино.",
+      "farsi": "ما قبلاً دوست داشتیم به سینما برویم."
+    },
+    {
+      "sentence": "Ihr mochtet früher Fahrrad fahren.",
+      "english": "You used to like riding a bike.",
+      "russian": "Вы раньше любили кататься на велосипеде.",
+      "farsi": "شما قبلاً دوست داشتید دوچرخه سواری کنید."
+    },
+    {
+      "sentence": "Sie mochten früher tanzen.",
+      "english": "They used to like dancing.",
+      "russian": "Они раньше любили танцевать.",
+      "farsi": "آنها قبلاً دوست داشتند برقصند."
+    },
+    {
+      "sentence": "Das Kind mochte früher seine Kuscheltiere.",
+      "english": "The child used to like their stuffed animals.",
+      "russian": "Ребенок раньше любил свои мягкие игрушки.",
+      "farsi": "کودک قبلاً عروسک‌هایش را دوست داشت."
+    },
+    {
+      "sentence": "Der Hund mochte früher Knochen kauen.",
+      "english": "The dog used to like chewing bones.",
+      "russian": "Собака раньше любила грызть кости.",
+      "farsi": "سگ قبلاً دوست داشت استخوان بجود."
+    },
+    {
+      "sentence": "Wir mochten früher im Park spielen.",
+      "english": "We used to like playing in the park.",
+      "russian": "Мы раньше любили играть в парке.",
+      "farsi": "ما قبلاً دوست داشتیم در پارک بازی کنیم."
+    },
+    {
+      "sentence": "Sie mochten früher Tee trinken.",
+      "english": "They used to like drinking tea.",
+      "russian": "Они раньше любили пить чай.",
+      "farsi": "آنها قبلاً دوست داشتند چای بنوشند."
+    },
+    {
+      "sentence": "Ich möchte einen Kaffee.",
+      "english": "I would like a coffee.",
+      "russian": "Я хотел бы кофе.",
+      "farsi": "من یک قهوه می خواهم."
+    },
+    {
+      "sentence": "Du möchtest ins Theater gehen.",
+      "english": "You would like to go to the theater.",
+      "russian": "Ты хотел бы пойти в театр.",
+      "farsi": "تو دوست داری به تئاتر بروی."
+    },
+    {
+      "sentence": "Er möchte ein neues Fahrrad.",
+      "english": "He would like a new bike.",
+      "russian": "Он хотел бы новый велосипед.",
+      "farsi": "او یک دوچرخه جدید می خواهد."
+    },
+    {
+      "sentence": "Wir möchten Pizza bestellen.",
+      "english": "We would like to order pizza.",
+      "russian": "Мы хотели бы заказать пиццу.",
+      "farsi": "ما می خواهیم پیتزا سفارش دهیم."
+    },
+    {
+      "sentence": "Ihr möchtet am Wochenende verreisen.",
+      "english": "You would like to travel on the weekend.",
+      "russian": "Вы хотели бы поехать в путешествие на выходных.",
+      "farsi": "شما دوست دارید آخر هفته سفر کنید."
+    },
+    {
+      "sentence": "Sie möchten ein Buch lesen.",
+      "english": "They would like to read a book.",
+      "russian": "Они хотели бы прочитать книгу.",
+      "farsi": "آنها دوست دارند کتاب بخوانند."
+    },
+    {
+      "sentence": "Das Kind möchte Eis essen.",
+      "english": "The child would like to eat ice cream.",
+      "russian": "Ребенок хотел бы съесть мороженое.",
+      "farsi": "کودک دوست دارد بستنی بخورد."
+    },
+    {
+      "sentence": "Der Hund möchte spielen.",
+      "english": "The dog would like to play.",
+      "russian": "Собака хотела бы поиграть.",
+      "farsi": "سگ دوست دارد بازی کند."
+    },
+    {
+      "sentence": "Wir möchten heute früh schlafen gehen.",
+      "english": "We would like to go to bed early today.",
+      "russian": "Мы хотели бы лечь спать рано сегодня.",
+      "farsi": "ما دوست داریم امروز زود بخوابیم."
+    },
+    {
+      "sentence": "Sie möchten einen Brief schreiben.",
+      "english": "They would like to write a letter.",
+      "russian": "Они хотели бы написать письмо.",
+      "farsi": "آنها دوست دارند نامه بنویسند."
+    },
+    {
+      "sentence": "Ich möchte gerne einen Spaziergang machen.",
+      "english": "I would like to take a walk.",
+      "russian": "Я хотел бы прогуляться.",
+      "farsi": "من دوست دارم قدم بزنم."
+    },
+    {
+      "sentence": "Du möchtest wohl nicht mitkommen?",
+      "english": "You probably don't want to come with me, do you?",
+      "russian": "Ты, наверное, не хочешь идти со мной?",
+      "farsi": "تو احتمالا دوست نداری با من بیایی، نه؟"
+    },
+    {
+      "sentence": "Er möchte am liebsten zu Hause bleiben.",
+      "english": "He would prefer to stay at home.",
+      "russian": "Он предпочел бы остаться дома.",
+      "farsi": "او ترجیح می‌دهد در خانه بماند."
+    },
+    {
+      "sentence": "Wir möchten uns einen Film ansehen.",
+      "english": "We would like to watch a movie.",
+      "russian": "Мы хотели бы посмотреть фильм.",
+      "farsi": "ما دوست داریم فیلم ببینیم."
+    },
+    {
+      "sentence": "Ihr möchtet doch bestimmt etwas trinken?",
+      "english": "Surely you would like something to drink?",
+      "russian": "Вы же наверняка хотите что-нибудь выпить?",
+      "farsi": "شما قطعاً دوست دارید چیزی بنوشید، نه؟"
+    },
+    {
+      "sentence": "Sie möchten morgen früh aufstehen.",
+      "english": "They would like to get up early tomorrow.",
+      "russian": "Они хотели бы встать рано утром.",
+      "farsi": "آنها دوست دارند فردا صبح زود بیدار شوند."
+    },
+    {
+      "sentence": "Ich mochte früher oft ins Schwimmbad gehen.",
+      "english": "I used to go to the swimming pool often.",
+      "russian": "Раньше я часто ходил в бассейн.",
+      "farsi": "من قبلاً اغلب به استخر می‌رفتم."
+    },
+    {
+      "sentence": "Du mochtest als Kind immer Süßigkeiten.",
+      "english": "You always liked sweets as a child.",
+      "russian": "Ты всегда любила сладости в детстве.",
+      "farsi": "تو در کودکی همیشه شیرینی دوست داشتی."
+    },
+    {
+      "sentence": "Er mochte früher Fußball spielen.",
+      "english": "He used to play football.",
+      "russian": "Он раньше играл в футбол.",
+      "farsi": "او قبلاً فوتبال بازی می‌کرد."
+    },
+    {
+      "sentence": "Wir mochten früher oft zusammen lachen.",
+      "english": "We used to laugh together often.",
+      "russian": "Мы раньше часто смеялись вместе.",
+      "farsi": "ما قبلاً اغلب با هم می‌خندیدیم."
+    }
+  ]
+}

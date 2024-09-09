@@ -42,6 +42,10 @@ const alllessons = [
     name: 'Verben_02',
   },
   {
+    file_name: 'modalverben.json',
+    name: 'Modalverben',
+  },
+  {
     file_name: 'nützliche_sätze.json',
     name: 'Nützliche_Sätze',
   },
