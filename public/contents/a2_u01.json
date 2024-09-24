@@ -7,6 +7,7 @@
   "content": [
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Herr Taskin, erzählen Sie ein bisschen.",
       "english": "Mr. Taskin, tell us a bit.",
       "russian": "Господин Таскин, расскажите немного.",
@@ -14,6 +15,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Woher kommen Sie?",
       "english": "Where do you come from?",
       "russian": "Откуда вы?",
@@ -21,6 +23,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wo haben Sie früher gelebt?",
       "english": "Where did you live before?",
       "russian": "Где вы жили раньше?",
@@ -28,6 +31,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich bin Afghane, ich bin in Kabul geboren und habe in der Ukraine Radiotechnik studiert.",
       "english": "I am Afghan, I was born in Kabul and studied radio engineering in Ukraine.",
       "russian": "Я афганец, я родился в Кабуле и учился на радиотехнику в Украине.",
@@ -35,6 +39,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Da, in der Ukraine, an der Universität habe ich meine Frau kennengelernt.",
       "english": "There, in Ukraine, at the university, I met my wife.",
       "russian": "Там, в Украине, в университете я встретил свою жену.",
@@ -42,6 +47,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie kommt aus der Ukraine und hat Russisch und Weltliteratur studiert.",
       "english": "She is from Ukraine and studied Russian and world literature.",
       "russian": "Она из Украины и изучала русский язык и мировую литературу.",
@@ -49,6 +55,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie hat für kurze Zeit als Russischlehrerin gearbeitet.",
       "english": "She worked as a Russian teacher for a short time.",
       "russian": "Она недолгое время работала учителем русского языка.",
@@ -56,6 +63,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Nach dem Studium sind wir nach Afghanistan gegangen, ich habe eine gute Stelle bekommen.",
       "english": "After graduation, we went to Afghanistan, I got a good job.",
       "russian": "После учебы мы поехали в Афганистан, я получил хорошую работу.",
@@ -63,6 +71,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Meine Frau hat nicht gearbeitet, das war nicht möglich, sie war zu Hause mit den Kindern.",
       "english": "My wife did not work, it was not possible, she was at home with the children.",
       "russian": "Моя жена не работала, это было невозможно, она была дома с детьми.",
@@ -70,6 +79,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich hatte eine interessante Arbeit, aber die Situation war sehr schwierig und ist immer schwieriger geworden und meine Frau hatte immer Angst.",
       "english": "I had an interesting job, but the situation was very difficult and kept getting worse and my wife was always scared.",
       "russian": "У меня была интересная работа, но ситуация была очень сложной и становилась все хуже, и моя жена всегда боялась.",
@@ -77,6 +87,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Dann haben wir gesagt, wir müssen weggehen.",
       "english": "Then we said, we have to leave.",
       "russian": "Тогда мы сказали, что нам нужно уезжать.",
@@ -84,6 +95,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir haben Verwandte und Freunde in Großbritannien, in den USA und in Deutschland.",
       "english": "We have relatives and friends in Great Britain, in the USA, and in Germany.",
       "russian": "У нас есть родственники и друзья в Великобритании, США и Германии.",
@@ -91,6 +103,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja und dann haben wir uns für Deutschland entschieden.",
       "english": "Yes, and then we decided on Germany.",
       "russian": "Да, и тогда мы решили выбрать Германию.",
@@ -98,6 +111,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Warum? Ich weiß nicht, warum.",
       "english": "Why? I don't know why.",
       "russian": "Почему? Я не знаю, почему.",
@@ -105,6 +119,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Großmutter von meiner Frau hat immer gesagt, dass Deutschland gut ist, sie mochte Goethe und hat den Kindern deutsche Märchen erzählt.",
       "english": "My wife's grandmother always said that Germany is good, she liked Goethe and told the children German fairy tales.",
       "russian": "Бабушка моей жены всегда говорила, что Германия хорошая, ей нравился Гёте и она рассказывала детям немецкие сказки.",
@@ -112,6 +127,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, dann haben uns unsere Verwandten in Deutschland geholfen.",
       "english": "Yes, then our relatives in Germany helped us.",
       "russian": "Да, тогда нам помогли наши родственники в Германии.",
@@ -119,6 +135,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Deshalb sind wir nach Deutschland gegangen.",
       "english": "That's why we went to Germany.",
       "russian": "Вот почему мы поехали в Германию.",
@@ -126,6 +143,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Frau Taskin, Sie sind dann nach Deutschland gekommen, Ihre Verwandten haben Ihnen geholfen, aber Sie haben nicht bei den Verwandten gewohnt.",
       "english": "Mrs. Taskin, you then came to Germany, your relatives helped you, but you did not live with the relatives.",
       "russian": "Госпожа Таскин, вы приехали в Германию, ваши родственники помогли вам, но вы не жили у родственников.",
@@ -133,6 +151,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wie war der Anfang in Deutschland?",
       "english": "How was the beginning in Germany?",
       "russian": "Каково было начало в Германии?",
@@ -140,6 +159,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Am Anfang haben wir in einem Wohnheim für Ausländer gewohnt, in Gersfeld.",
       "english": "At first, we lived in a dormitory for foreigners in Gersfeld.",
       "russian": "Сначала мы жили в общежитии для иностранцев в Гершфельде.",
@@ -147,6 +167,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Wohnung von unseren Verwandten war zu klein.",
       "english": "Our relatives' apartment was too small.",
       "russian": "Квартира наших родственников была слишком маленькой.",
@@ -154,6 +175,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Und die erste Zeit in Deutschland war sehr schwer.",
       "english": "And the first time in Germany was very hard.",
       "russian": "И первое время в Германии было очень тяжелым.",
@@ -161,6 +183,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich war oft depressiv.",
       "english": "I was often depressed.",
       "russian": "Я часто был в депрессии.",
@@ -168,6 +191,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Mein Mann hat keine Arbeit gefunden, wir hatten viele Probleme mit den Ämtern und Behörden.",
       "english": "My husband did not find work, we had many problems with the offices and authorities.",
       "russian": "Мой муж не нашел работу, у нас было много проблем с учреждениями и властями.",
@@ -175,6 +199,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Mein Mann hat dann einen Sprachkurs gemacht, ich hatte keine Zeit, ich war zu Hause bei den Kindern, wir haben fünf Kinder und ich hatte kaum Kontakt zu anderen Leuten.",
       "english": "My husband then took a language course, I didn't have time, I was at home with the children, we have five children and I had hardly any contact with other people.",
       "russian": "Мой муж затем пошел на языковые курсы, у меня не было времени, я была дома с детьми, у нас пятеро детей, и у меня почти не было контактов с другими людьми.",
@@ -182,6 +207,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Unsere Verwandten wohnen in Hamburg und unsere Freunde in München.",
       "english": "Our relatives live in Hamburg and our friends in Munich.",
       "russian": "Наши родственники живут в Гамбурге, а друзья в Мюнхене.",
@@ -189,6 +215,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das ist weit weg.",
       "english": "That is far away.",
       "russian": "Это далеко.",
@@ -196,6 +223,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir haben nur manchmal am Telefon gesprochen.",
       "english": "We only talked on the phone sometimes.",
       "russian": "Мы разговаривали только иногда по телефону.",
@@ -203,6 +231,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das war eine schwere Zeit.",
       "english": "That was a hard time.",
       "russian": "Это было трудное время.",
@@ -210,6 +239,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Darüber möchte ich nicht viel sprechen.",
       "english": "I don't want to talk much about that.",
       "russian": "Я не хочу много об этом говорить.",
@@ -217,6 +247,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Aber jetzt geht es Ihnen gut.",
       "english": "But now you are doing well.",
       "russian": "Но сейчас у вас все хорошо.",
@@ -224,6 +255,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wie haben Sie das geschafft?",
       "english": "How did you manage that?",
       "russian": "Как вы этого добились?",
@@ -231,6 +263,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, jetzt geht es uns gut.",
       "english": "Yes, now we are doing well.",
       "russian": "Да, сейчас у нас все хорошо.",
@@ -238,6 +271,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Mein Mann hat eine Arbeit gefunden.",
       "english": "My husband found a job.",
       "russian": "Мой муж нашел работу.",
@@ -245,6 +279,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie ist nicht so interessant, aber er verdient gut.",
       "english": "It is not so interesting, but he earns well.",
       "russian": "Она не очень интересная, но он хорошо зарабатывает.",
@@ -252,6 +287,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Und ich bin aktiv geworden.",
       "english": "And I have become active.",
       "russian": "И я стала активной.",
@@ -259,6 +295,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich kann nicht zu Hause sitzen, dann werde ich krank.",
       "english": "I can't sit at home, then I get sick.",
       "russian": "Я не могу сидеть дома, тогда я болею.",
@@ -266,6 +303,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich muss immer etwas machen, ich helfe gern anderen Menschen, ich brauche Kontakt mit anderen Menschen.",
       "english": "I always have to do something, I like to help other people, I need contact with other people.",
       "russian": "Я всегда должна что-то делать, я люблю помогать другим людям, мне нужен контакт с другими людьми.",
@@ -273,6 +311,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Eine richtige Arbeit habe ich nicht gefunden, ich bin Russischlehrerin und in deutschen Schulen gibt es nicht viel Russischunterricht.",
       "english": "I haven't found a proper job, I am a Russian teacher and there isn't much Russian teaching in German schools.",
       "russian": "Я не нашла настоящую работу, я учитель русского языка, и в немецких школах нет много уроков русского языка.",
@@ -280,6 +319,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Aber ich gebe jetzt in einem Verein Russischunterricht für Kinder aus Russland.",
       "english": "But now I give Russian lessens for children from Russia in an association.",
       "russian": "Но сейчас я преподаю русский язык детям из России в одной ассоциации.",
@@ -287,6 +327,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Denn die Kinder sollen nicht nur Deutsch lernen, sie sollen auch ihre Muttersprache lernen.",
       "english": "Because the children should not only learn German, they should also learn their mother tongue.",
       "russian": "Потому что дети должны не только учить немецкий язык, но и свой родной язык.",
@@ -294,6 +335,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Einmal in der Woche kommen sie zu uns und wir machen Unterricht.",
       "english": "Once a week they come to us and we have lessens.",
       "russian": "Раз в неделю они приходят к нам, и у нас проходят уроки.",
@@ -301,6 +343,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Und die Eltern kommen auch und wir reden viel, trinken Tee und helfen uns gegenseitig, geben uns Tipps.",
       "english": "And the parents come too and we talk a lot, drink tea and help each other, give each other tips.",
       "russian": "И родители тоже приходят, и мы много разговариваем, пьем чай и помогаем друг другу, даем друг другу советы.",
@@ -308,6 +351,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Manchmal gehen wir auch zusammen zu einem Amt oder einer Behörde.",
       "english": "Sometimes we also go together to an office or an authority.",
       "russian": "Иногда мы также вместе идем в какое-либо учреждение или ведомство.",
@@ -315,6 +359,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Diese Arbeit ist ganz wichtig für mich.",
       "english": "This work is very important to me.",
       "russian": "Эта работа очень важна для меня.",
@@ -322,6 +367,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Hallo, Jakub. Wie läuft dein Deutschkurs?",
       "english": "Hello, Jakub. How is your German course going?",
       "russian": "Привет, Якуб. Как твой курс немецкого языка?",
@@ -329,6 +375,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Hallo, Nezha. Ach, eigentlich bin ich ganz zufrieden, ich lerne viel und auch die Grammatik verstehe ich ganz gut.",
       "english": "Hello, Nezha. Oh, actually, I am quite satisfied, I learn a lot and I also understand the grammar quite well.",
       "russian": "Привет, Нежа. Ой, на самом деле я вполне доволен, я много учу и грамматику тоже понимаю довольно хорошо.",
@@ -336,6 +383,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Aber...?",
       "english": "But...?",
       "russian": "Но...?",
@@ -343,6 +391,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Mir fehlen oft Wörter oder ich vergesse alle Wörter immer wieder.",
       "english": "I often lack words or I keep forgetting all the words.",
       "russian": "Мне часто не хватает слов или я все время забываю все слова.",
@@ -350,6 +399,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Deshalb macht mir das Lesen von Texten oft keinen Spaß.",
       "english": "That's why reading texts is often no fun for me.",
       "russian": "Поэтому чтение текстов часто не доставляет мне удовольствия.",
@@ -357,6 +407,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Du kannst vielleicht mit Karteikarten lernen.",
       "english": "You can maybe learn with flashcards.",
       "russian": "Ты можешь попробовать учить с помощью карточек.",
@@ -364,6 +415,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das heißt, du schreibst jedes neue Wort auf eine Karte.",
       "english": "That means you write each new word on a card.",
       "russian": "Это значит, что ты пишешь каждое новое слово на карточке.",
@@ -371,6 +423,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Karten sortierst du dann nach Themen wie zum Beispiel “Wohnen” oder “Essen”.",
       "english": "Then you sort the cards by topics like 'Living' or 'Eating'.",
       "russian": "Затем ты сортируешь карточки по темам, например, «Жилье» или «Еда».",
@@ -378,6 +431,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "So kannst du sie systematisch lernen.",
       "english": "So you can learn them systematically.",
       "russian": "Таким образом, ты сможешь учить их систематически.",
@@ -385,6 +439,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Gute Idee, danke.",
       "english": "Good idea, thanks.",
       "russian": "Хорошая идея, спасибо.",
@@ -392,6 +447,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wie war das Deutschlernen denn bei dir?",
       "english": "How was learning German for you?",
       "russian": "А как у тебя было с изучением немецкого?",
@@ -399,6 +455,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Am Anfang hatte ich immer Angst vor Fehlern beim Sprechen.",
       "english": "At the beginning, I was always afraid of making mistakes when speaking.",
       "russian": "Вначале я всегда боялась ошибок в речи.",
@@ -406,6 +463,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Deshalb habe ich lieber gar nicht gesprochen.",
       "english": "That's why I preferred not to speak at all.",
       "russian": "Поэтому я предпочитала вообще не говорить.",
@@ -413,6 +471,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Aber mein Freund hat gesagt, ich soll einfach sprechen und keine Angst vor Fehlern haben.",
       "english": "But my friend said, I should just speak and not be afraid of mistakes.",
       "russian": "Но мой друг сказал, что я должна просто говорить и не бояться ошибок.",
@@ -420,6 +479,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Und jetzt spreche ich einfach.",
       "english": "And now I just speak.",
       "russian": "И теперь я просто говорю.",
@@ -427,6 +487,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Und du hast keine Angst mehr vor Fehlern?",
       "english": "And you are no longer afraid of mistakes?",
       "russian": "И ты больше не боишься ошибок?",
@@ -434,6 +495,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Nein, ich denke, Sprechen ist wichtig und man lernt viel besser.",
       "english": "No, I think speaking is important and you learn much better.",
       "russian": "Нет, я думаю, что говорить важно, и ты учишься гораздо лучше.",
@@ -441,6 +503,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das finde ich auch.",
       "english": "I think so too.",
       "russian": "Я тоже так думаю.",
@@ -448,6 +511,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Natürlich machen wir Fehler, aber man kann sie nur durch Üben korrigieren, das heißt man muss viel sprechen und viel schreiben.",
       "english": "Of course, we make mistakes, but you can only correct them through practice, that means you have to speak a lot and write a lot.",
       "russian": "Конечно, мы делаем ошибки, но их можно исправить только через практику, то есть нужно много говорить и много писать.",
@@ -455,6 +519,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Bitte sprechen Sie langsam.",
       "english": "Please speak slowly.",
       "russian": "Пожалуйста, говорите медленно.",
@@ -462,6 +527,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie können Wortkarten schreiben.",
       "english": "You can write word cards.",
       "russian": "Вы можете писать карточки со словами.",
@@ -469,6 +535,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie können einen Tanzkurs besuchen.",
       "english": "You can attend a dance course.",
       "russian": "Вы можете посетить курс танцев.",
@@ -476,6 +543,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie können die CDs zu Hause oft hören.",
       "english": "You can often listen to the CDs at home.",
       "russian": "Вы можете часто слушать компакт-диски дома.",
@@ -483,6 +551,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie können jeden Tag ein bisschen schreiben.",
       "english": "You can write a little bit every day.",
       "russian": "Вы можете писать немного каждый день.",
@@ -490,6 +559,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie können viel mit Deutschen sprechen.",
       "english": "You can talk a lot with Germans.",
       "russian": "Вы можете много разговаривать с немцами.",
@@ -497,6 +567,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie dürfen keine Angst haben.",
       "english": "You must not be afraid.",
       "russian": "Вы не должны бояться.",

@@ -7,6 +7,7 @@
   "content": [
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Unser Thema heute: Wie wichtig ist das Internet für den Alltag?",
       "english": "Our topic today: How important is the internet for everyday life?",
       "russian": "Наша тема сегодня: Насколько важен интернет в повседневной жизни?",
@@ -14,6 +15,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Den ganzen Tag online sein.",
       "english": "Being online all day.",
       "russian": "Быть онлайн весь день.",
@@ -21,6 +23,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Immer erreichbar sein.",
       "english": "Always being reachable.",
       "russian": "Всегда быть доступным.",
@@ -28,6 +31,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Immer informiert sein.",
       "english": "Always being informed.",
       "russian": "Всегда быть информированным.",
@@ -35,6 +39,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das ist möglich, aber wollen wir das?",
       "english": "That is possible, but do we want that?",
       "russian": "Это возможно, но хотим ли мы этого?",
@@ -42,6 +47,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das diskutieren wir heute mit unseren Studiogästen “Herrn Merz, Frau Tanner und Julian Demke”.",
       "english": "We are discussing this today with our studio guests 'Mr. Merz, Ms. Tanner, and Julian Demke'.",
       "russian": "Сегодня мы обсуждаем это с нашими гостями в студии «господином Мерцем, госпожой Таннер и Джулианом Демке».",
@@ -49,6 +55,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Herzlich willkommen!",
       "english": "Welcome!",
       "russian": "Добро пожаловать!",
@@ -56,6 +63,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Herr Merz, wie wichtig ist das Internet für Sie?",
       "english": "Mr. Merz, how important is the internet to you?",
       "russian": "Господин Мерц, насколько важен для вас интернет?",
@@ -63,6 +71,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich bin Übersetzer von Beruf.",
       "english": "I am a translator by profession.",
       "russian": "Я переводчик по профессии.",
@@ -70,6 +79,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich arbeite sehr viel mit dem Internet.",
       "english": "I work a lot with the internet.",
       "russian": "Я много работаю с интернетом.",
@@ -77,6 +87,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich recherchiere Informationen und benutze auch manchmal die Online-Wörterbücher.",
       "english": "I research information and also sometimes use online dictionaries.",
       "russian": "Я ищу информацию и иногда использую онлайн-словари.",
@@ -84,6 +95,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Und der Kontakt mit meinen Kunden geht auch über das Internet.",
       "english": "And the contact with my clients is also through the internet.",
       "russian": "И связь с моими клиентами тоже осуществляется через интернет.",
@@ -91,6 +103,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe Kunden in ganz Europa, ich kann nicht überall hinfahren.",
       "english": "I have clients all over Europe, I can't travel everywhere.",
       "russian": "У меня клиенты по всей Европе, я не могу везде ездить.",
@@ -98,6 +111,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich finde das Internet praktisch, weil der Kontakt per E-Mail unkompliziert und schnell ist.",
       "english": "I find the internet practical because contact via email is straightforward and fast.",
       "russian": "Я считаю интернет удобным, потому что связь по электронной почте проста и быстра.",
@@ -105,6 +119,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das ist sehr wichtig für mich.",
       "english": "That is very important to me.",
       "russian": "Это очень важно для меня.",
@@ -112,6 +127,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe mobiles Internet, ich muss nicht immer im Büro sitzen.",
       "english": "I have mobile internet, I don't always have to sit in the office.",
       "russian": "У меня есть мобильный интернет, мне не нужно всегда сидеть в офисе.",
@@ -119,6 +135,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich kann auch im Zug arbeiten, dann verliere ich keine Zeit.",
       "english": "I can also work on the train, then I don't lose any time.",
       "russian": "Я могу работать и в поезде, тогда я не теряю время.",
@@ -126,6 +143,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ohne Internet ist das nicht möglich.",
       "english": "Without the internet, that is not possible.",
       "russian": "Без интернета это невозможно.",
@@ -133,6 +151,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Und natürlich chatte ich auch mit meinen Freunden und habe viele private Kontakte im Internet.",
       "english": "And of course, I also chat with my friends and have many private contacts on the internet.",
       "russian": "И, конечно, я также общаюсь с друзьями и у меня много личных контактов в интернете.",
@@ -140,6 +159,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "In anderen Städten suche ich mir auch Restaurants im Internet.",
       "english": "In other cities, I also look for restaurants on the internet.",
       "russian": "В других городах я также ищу рестораны в интернете.",
@@ -147,6 +167,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das finde ich wirklich praktisch.",
       "english": "I find that really practical.",
       "russian": "Я нахожу это действительно удобным.",
@@ -154,6 +175,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Frau Tanner, Sie sind jetzt 70 Jahre und sind Rentnerin.",
       "english": "Ms. Tanner, you are now 70 years old and retired.",
       "russian": "Госпожа Таннер, вам сейчас 70 лет, и вы на пенсии.",
@@ -161,6 +183,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie waren Erzieherin und haben im Kindergarten gearbeitet.",
       "english": "You were a teacher and worked in a kindergarten.",
       "russian": "Вы были воспитателем и работали в детском саду.",
@@ -168,6 +191,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wie wichtig ist das Internet für Sie?",
       "english": "How important is the internet to you?",
       "russian": "Насколько важен для вас интернет?",
@@ -175,6 +199,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Im Beruf habe ich noch kein Internet gebraucht, heute ist das anders.",
       "english": "I didn't need the internet in my profession, today it is different.",
       "russian": "В своей профессии мне не нужен был интернет, сегодня это по-другому.",
@@ -182,6 +207,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "In vielen Kindergärten gibt es Computer, die Kinder spielen Computerspiele und viele gehen auch schon ins Internet.",
       "english": "In many kindergartens there are computers, the children play computer games and many also go on the internet.",
       "russian": "Во многих детских садах есть компьютеры, дети играют в компьютерные игры и многие уже заходят в интернет.",
@@ -189,6 +215,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Aber früher war das anders.",
       "english": "But it was different before.",
       "russian": "Но раньше было по-другому.",
@@ -196,6 +223,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "In meinem Kindergarten waren keine Computer.",
       "english": "There were no computers in my kindergarten.",
       "russian": "В моем детском саду не было компьютеров.",
@@ -203,6 +231,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir haben vorgelesen oder gespielt.",
       "english": "We read aloud or played.",
       "russian": "Мы читали вслух или играли.",
@@ -210,6 +239,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Einen Computer habe ich nicht gebraucht.",
       "english": "I didn't need a computer.",
       "russian": "Мне не нужен был компьютер.",
@@ -217,6 +247,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Aber jetzt habe ich mir ein Tablet gekauft und finde es wunderbar, weil man so viel im Internet machen kann.",
       "english": "But now I have bought a tablet and find it wonderful because you can do so much on the internet.",
       "russian": "Но сейчас я купила планшет и нахожу это замечательным, потому что можно так много делать в интернете.",
@@ -224,6 +255,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Und ich gehe auch viel ins Internet.",
       "english": "And I go on the internet a lot.",
       "russian": "И я много захожу в интернет.",
@@ -231,6 +263,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich kaufe gerne online ein, ich sehe Filme und ich gehe gerne auf Twitter.",
       "english": "I like shopping online, I watch movies and I like going on Twitter.",
       "russian": "Я люблю делать покупки онлайн, я смотрю фильмы и мне нравится заходить в Твиттер.",
@@ -238,6 +271,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das finde ich interessant.",
       "english": "I find that interesting.",
       "russian": "Я нахожу это интересным.",
@@ -245,6 +279,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ohne Internet ist das Leben viel langweiliger.",
       "english": "Without the internet, life is much more boring.",
       "russian": "Без интернета жизнь намного скучнее.",
@@ -252,6 +287,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Und jetzt zu dir, Julian, du bist hier am jüngsten, gerade 16 Jahre alt.",
       "english": "And now to you, Julian, you are the youngest here, just 16 years old.",
       "russian": "А теперь к тебе, Джулиан, ты здесь самый молодой, тебе всего 16 лет.",
@@ -259,6 +295,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Bist du oft im Internet?",
       "english": "Are you often on the internet?",
       "russian": "Ты часто бываешь в интернете?",
@@ -266,6 +303,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, klar. Ich habe ein Smartphone mit mobilem Internet.",
       "english": "Yes, of course. I have a smartphone with mobile internet.",
       "russian": "Да, конечно. У меня есть смартфон с мобильным интернетом.",
@@ -273,6 +311,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Da bin ich immer im Internet.",
       "english": "I am always on the internet.",
       "russian": "Я всегда в интернете.",
@@ -280,6 +319,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Und was machst du im Internet?",
       "english": "And what do you do on the internet?",
       "russian": "А что ты делаешь в интернете?",
@@ -287,6 +327,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Alles, chatten, spielen, Nachrichten schicken, Fotos posten, recherchieren ... alles halt.",
       "english": "Everything, chatting, playing, sending messages, posting photos, researching ... everything.",
       "russian": "Все: общаюсь, играю, отправляю сообщения, выкладываю фотографии, ищу информацию ... все.",
@@ -294,6 +335,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Brauchst du das Internet auch für die Schule?",
       "english": "Do you also need the internet for school?",
       "russian": "Тебе тоже нужен интернет для школы?",
@@ -301,6 +343,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, ich muss oft etwas recherchieren, für die Hausaufgaben oder für ein Referat.",
       "english": "Yes, I often have to research something, for homework or for a presentation.",
       "russian": "Да, мне часто нужно что-то искать для домашнего задания или для презентации.",
@@ -308,6 +351,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Bei Wikipedia kann man gute Informationen finden.",
       "english": "You can find good information on Wikipedia.",
       "russian": "На Википедии можно найти хорошую информацию.",
@@ -315,6 +359,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Kannst du auch mal einen Tag ohne Internet?",
       "english": "Can you also go a day without the internet?",
       "russian": "Можешь ли ты провести день без интернета?",
@@ -322,6 +367,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ohne Internet? Nein, das ist die Katastrophe, weil ich dann keinen Kontakt mit meinen Freunden haben kann!",
       "english": "Without internet? No, that is a catastrophe, because then I can't have any contact with my friends!",
       "russian": "Без интернета? Нет, это катастрофа, потому что я тогда не смогу общаться с друзьями!",
@@ -329,6 +375,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Guten Abend, meine Damen und Herren, das Diskussionsthema heute ist das Fernsehen.",
       "english": "Good evening, ladies and gentlemen, the discussion topic today is television.",
       "russian": "Добрый вечер, дамы и господа, тема обсуждения сегодня - телевидение.",
@@ -336,6 +383,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Was ist positiv, was ist negativ?",
       "english": "What is positive, what is negative?",
       "russian": "Что положительное, что отрицательное?",
@@ -343,6 +391,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Unsere Gäste im Studio: Frau Hegel,Frau Gül, Herr Arndt und Herr Mazur.",
       "english": "Our guests in the studio: Ms. Hegel, Ms. Gül, Mr. Arndt, and Mr. Mazur.",
       "russian": "Наши гости в студии: госпожа Хегель, госпожа Гюль, господин Арндт и господин Мазур.",
@@ -350,6 +399,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Frau Hegel, möchten Sie beginnen?",
       "english": "Ms. Hegel, would you like to start?",
       "russian": "Госпожа Хегель, хотите начать?",
@@ -357,6 +407,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ein kurzes Statement. Was ist Ihre Meinung? Was ist positiv und was ist negativ?",
       "english": "A brief statement. What is your opinion? What is positive and what is negative?",
       "russian": "Краткое заявление. Каково ваше мнение? Что положительное и что отрицательное?",
@@ -364,6 +415,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, also das Fernsehen bietet gute Informationen.",
       "english": "Yes, well, television provides good information.",
       "russian": "Да, ну, телевидение предоставляет хорошую информацию.",
@@ -371,6 +423,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Und ich mag auch die Tiersendungen.",
       "english": "And I also like the animal programs.",
       "russian": "И мне также нравятся программы о животных.",
@@ -378,6 +431,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Na ja, im Radio gibt es mehr Informationssendungen.",
       "english": "Well, there are more information programs on the radio.",
       "russian": "Ну, на радио больше информационных программ.",
@@ -385,6 +439,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Unterhaltung ist im Fernsehen nicht schlecht, aber die guten Sendungen kommen immer sehr spät.",
       "english": "The entertainment on television is not bad, but the good programs always come very late.",
       "russian": "Развлекательные программы на телевидении неплохие, но хорошие передачи идут всегда очень поздно.",
@@ -392,6 +447,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich sehe das Fernsehen nicht so positiv.",
       "english": "I don't see television as very positive.",
       "russian": "Я не считаю телевидение очень положительным.",
@@ -399,6 +455,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Es gibt zu viel Werbung.",
       "english": "There is too much advertising.",
       "russian": "Слишком много рекламы.",
@@ -406,6 +463,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Und für Kinder ist das Fernsehen nicht gut.",
       "english": "And television is not good for children.",
       "russian": "И телевидение не полезно для детей.",
@@ -413,6 +471,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Es gibt gute Sendungen für die ganze Familie.",
       "english": "There are good programs for the whole family.",
       "russian": "Есть хорошие передачи для всей семьи.",
@@ -420,6 +479,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Kinder lernen in den Kindersendungen viel.",
       "english": "Children learn a lot in children's programs.",
       "russian": "Дети много учатся из детских программ.",
@@ -427,6 +487,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das finde ich positiv.",
       "english": "I find that positive.",
       "russian": "Я нахожу это положительным.",
@@ -434,6 +495,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Arbeitstag war hart, Sie kommen müde nach Hause, Sie schalten den Fernseher ein - und dann ist es Zeit für den Büning-Abendtee, einen Tee aus dem Hause Büning.",
       "english": "The workday was hard, you come home tired, you turn on the TV - and then it's time for Büning evening tea, a tea from the Büning house.",
       "russian": "Рабочий день был тяжелым, вы приходите домой усталым, включаете телевизор - и тогда наступает время вечернего чая Büning, чая из дома Büning.",
@@ -441,6 +503,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Jetzt 100 Gramm für nur 2,99 Euro.",
       "english": "Now 100 grams for only 2.99 euros.",
       "russian": "Теперь 100 граммов всего за 2,99 евро.",
@@ -448,6 +511,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Trinken Sie den Büning-Abendtee und der Abend wird gemütlich.",
       "english": "Drink Büning evening tea and the evening will be cozy.",
       "russian": "Пейте вечерний чай Büning, и вечер станет уютным.",
@@ -455,6 +519,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie kommen von der Arbeit und sind müde - und dann das ... Das muss nicht sein!",
       "english": "You come home from work and are tired - and then this ... That doesn't have to be!",
       "russian": "Вы приходите с работы и устали - и потом это ... Этого не должно быть!",
@@ -462,6 +527,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Kommen Sie zu Elektro-Hanser.",
       "english": "Come to Elektro-Hanser.",
       "russian": "Приходите в Elektro-Hanser.",
@@ -469,6 +535,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Superangebote für moderne Elektronik.",
       "english": "Great deals for modern electronics.",
       "russian": "Отличные предложения на современную электронику.",
@@ -476,6 +543,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Zum Beispiel Fernseher: jetzt nur 279 Euro.",
       "english": "For example, televisions: now only 279 euros.",
       "russian": "Например, телевизоры: сейчас всего 279 евро.",
@@ -483,6 +551,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Geöffnet montags bis samstags von 10 bis 20 Uhr, donnerstags auch bis 22 Uhr.",
       "english": "Open Monday to Saturday from 10 am to 8 pm, also until 10 pm on Thursdays.",
       "russian": "Открыто с понедельника по субботу с 10 до 20 часов, также до 22 часов по четвергам.",
@@ -490,6 +559,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Elektro-Hanser, 25 Filialen in ganz Deutschland.",
       "english": "Elektro-Hanser, 25 branches throughout Germany.",
       "russian": "Elektro-Hanser, 25 филиалов по всей Германии.",
@@ -497,6 +567,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Auch in Ihrer Nähe.",
       "english": "Also near you.",
       "russian": "Также рядом с вами.",
@@ -504,6 +575,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Müde am Abend?",
       "english": "Tired in the evening?",
       "russian": "Устали вечером?",
@@ -511,6 +583,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Stress bei der Arbeit?",
       "english": "Stress at work?",
       "russian": "Стресс на работе?",
@@ -518,6 +591,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Mit dem Massagestuhl TechnoRelax werden Sie wieder fit.",
       "english": "With the TechnoRelax massage chair, you will get fit again.",
       "russian": "С массажным креслом TechnoRelax вы снова станете бодрыми.",
@@ -525,6 +599,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sehen Sie gemütlich fern und genießen Sie die wohltuende Massage mit acht Automatikprogrammen!",
       "english": "Watch TV comfortably and enjoy the soothing massage with eight automatic programs!",
       "russian": "Смотрите телевизор с комфортом и наслаждайтесь успокаивающим массажем с восемью автоматическими программами!",
@@ -532,6 +607,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Besuchen Sie uns auf unserer Internetseite: www.technorelax.de",
       "english": "Visit us on our website: www.technorelax.de",
       "russian": "Посетите наш сайт: www.technorelax.de",

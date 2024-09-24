@@ -7,6 +7,7 @@
   "content": [
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Oje, das ist noch viel Arbeit.",
       "english": "Oh dear, there is still a lot of work.",
       "russian": "Ой, это ещё много работы.",
@@ -14,6 +15,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir brauchen noch ein Regal für das Wohnzimmer.",
       "english": "We still need a shelf for the living room.",
       "russian": "Нам всё ещё нужна полка для гостиной.",
@@ -21,6 +23,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, das stimmt, aber das ist kein Problem.",
       "english": "Yes, that's true, but that's not a problem.",
       "russian": "Да, это верно, но это не проблема.",
@@ -28,6 +31,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Möbel-Hanser hat gute Regale.",
       "english": "Möbel-Hanser has good shelves.",
       "russian": "У Möbel-Hanser хорошие полки.",
@@ -35,6 +39,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie sind groß und nicht teuer.",
       "english": "They are large and not expensive.",
       "russian": "Они большие и недорогие.",
@@ -42,6 +47,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Dort kaufen wir auch neue Stühle.",
       "english": "We will also buy new chairs there.",
       "russian": "Там мы также купим новые стулья.",
@@ -49,6 +55,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Brauchen wir auch noch einen Teppich?",
       "english": "Do we also need a carpet?",
       "russian": "Нам также нужен ковёр?",
@@ -56,6 +63,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ach, ein Teppich ist jetzt nicht so wichtig.",
       "english": "Oh, a carpet is not so important right now.",
       "russian": "О, ковёр сейчас не так важен.",
@@ -63,6 +71,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Aber wir haben noch keine Spülmaschine.",
       "english": "But we still don't have a dishwasher.",
       "russian": "Но у нас всё ещё нет посудомоечной машины.",
@@ -70,6 +79,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, stimmt. Elektro-Müller hat viele Sonderangebote.",
       "english": "Yes, that's right. Elektro-Müller has many special offers.",
       "russian": "Да, верно. В Elektro-Müller много спецпредложений.",
@@ -77,6 +87,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Spülmaschine kaufen wir da.",
       "english": "We will buy the dishwasher there.",
       "russian": "Мы купим посудомоечную машину там.",
@@ -84,6 +95,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Dann kaufen wir zuerst die Spülmaschine.",
       "english": "Then we will buy the dishwasher first.",
       "russian": "Тогда мы сначала купим посудомоечную машину.",
@@ -91,6 +103,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ist das ein Waschbecken?",
       "english": "Is that a sink?",
       "russian": "Это раковина?",
@@ -98,6 +111,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ist das eine Spülmaschine?",
       "english": "Is that a dishwasher?",
       "russian": "Это посудомоечная машина?",
@@ -105,6 +119,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ist das eine Kommode?",
       "english": "Is that a dresser?",
       "russian": "Это комод?",
@@ -112,6 +127,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Guten Tag. Ich suche Familie Koval.",
       "english": "Good day. I am looking for the Koval family.",
       "russian": "Добрый день. Я ищу семью Коваль.",
@@ -119,6 +135,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich glaube, sie wohnt hier im 1. Stock oder im 2. Stock.",
       "english": "I believe they live here on the 1st floor or the 2nd floor.",
       "russian": "Я думаю, они живут здесь на 1-м или 2-м этаже.",
@@ -126,6 +143,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Nein, Herr und Frau Koval wohnen ganz oben, im Dachgeschoss.",
       "english": "No, Mr. and Mrs. Koval live at the top, in the attic.",
       "russian": "Нет, господин и госпожа Коваль живут наверху, на чердаке.",
@@ -133,6 +151,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Okay, danke.",
       "english": "Okay, thank you.",
       "russian": "Хорошо, спасибо.",
@@ -140,6 +159,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Hallo, hier ist Mirko.",
       "english": "Hello, this is Mirko.",
       "russian": "Привет, это Мирко.",
@@ -147,6 +167,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Guten Tag, Mirko, komm rein.",
       "english": "Good day, Mirko, come in.",
       "russian": "Добрый день, Мирко, заходи.",
@@ -154,6 +175,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Haus ist groß.",
       "english": "The house is big.",
       "russian": "Дом большой.",
@@ -161,6 +183,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Hier wohnen viele Leute.",
       "english": "Many people live here.",
       "russian": "Здесь живёт много людей.",
@@ -168,6 +191,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, hier wohnen und arbeiten 16 Personen.",
       "english": "Yes, 16 people live and work here.",
       "russian": "Да, здесь живут и работают 16 человек.",
@@ -175,6 +199,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Und unten im Erdgeschoss sind noch Geschäfte.",
       "english": "And there are also shops downstairs on the ground floor.",
       "russian": "И внизу на первом этаже ещё есть магазины.",
@@ -182,6 +207,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Es gibt einen Asienladen.",
       "english": "There is an Asian store.",
       "russian": "Там есть азиатский магазин.",
@@ -189,6 +215,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Hier arbeitet Herr Lim.",
       "english": "Mr. Lim works here.",
       "russian": "Здесь работает господин Лим.",
@@ -196,6 +223,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Es gibt auch einen Obst und Gemüseladen.",
       "english": "There is also a fruit and vegetable store.",
       "russian": "Также есть магазин фруктов и овощей.",
@@ -203,6 +231,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Hier arbeiten Herr und Frau Demir.",
       "english": "Mr. and Mrs. Demir work here.",
       "russian": "Здесь работают господин и госпожа Демир.",
@@ -210,6 +239,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Und im 1. Stock?",
       "english": "And on the 1st floor?",
       "russian": "А на 1-м этаже?",
@@ -217,6 +247,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Familie Waltermann wohnt im 1. Stock links.",
       "english": "The Waltermann family lives on the 1st floor on the left.",
       "russian": "Семья Вальтерманн живёт на 1-м этаже слева.",
@@ -224,6 +255,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Frau Costa wohnt rechts.",
       "english": "Mrs. Costa lives on the right.",
       "russian": "Госпожа Коста живёт справа.",
@@ -231,6 +263,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Und im 2. Stock links wohnt Familie Wang.",
       "english": "And on the 2nd floor on the left lives the Wang family.",
       "russian": "А на 2-м этаже слева живёт семья Ванг.",
@@ -238,6 +271,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Familie Singer wohnt rechts.",
       "english": "The Singer family lives on the right.",
       "russian": "Семья Зингер живёт справа.",
@@ -245,6 +279,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Und wir wohnen hier im Dachgeschoss. Sehr gemütlich.",
       "english": "And we live here in the attic. Very cozy.",
       "russian": "А мы живём здесь на чердаке. Очень уютно.",
@@ -252,6 +287,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Meine Wohnung ist günstig, sie kostet 400 Euro Miete ohne Nebenkosten.",
       "english": "My apartment is affordable, it costs 400 euros in rent without utilities.",
       "russian": "Моя квартира доступная, аренда стоит 400 евро без коммунальных услуг.",
@@ -259,6 +295,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie ist 50 qm groß und sehr hell.",
       "english": "It is 50 square meters and very bright.",
       "russian": "Она площадью 50 кв. м и очень светлая.",
@@ -266,6 +303,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie hat zwei Zimmer - ein Wohnzimmer, ein Schlafzimmer -, eine Küche und ein Bad.",
       "english": "It has two rooms - a living room, a bedroom -, a kitchen, and a bathroom.",
       "russian": "В ней две комнаты - гостиная и спальня, кухня и ванная.",
@@ -273,6 +311,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich wohne im dritten Stock.",
       "english": "I live on the third floor.",
       "russian": "Я живу на третьем этаже.",
@@ -280,6 +319,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sind Sie neu hier?",
       "english": "Are you new here?",
       "russian": "Вы здесь новенький?",
@@ -287,6 +327,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sprechen Sie Deutsch?",
       "english": "Do you speak German?",
       "russian": "Вы говорите по-немецки?",
@@ -294,6 +335,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ist Ihre Wohnung ruhig?",
       "english": "Is your apartment quiet?",
       "russian": "Ваша квартира тихая?",
@@ -301,6 +343,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ist Ihre Wohnung groß?",
       "english": "Is your apartment big?",
       "russian": "Ваша квартира большая?",
@@ -308,6 +351,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wohnen Sie im Erdgeschoss?",
       "english": "Do you live on the ground floor?",
       "russian": "Вы живёте на первом этаже?",
@@ -315,6 +359,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Haben Sie einen Garten?",
       "english": "Do you have a garden?",
       "russian": "У вас есть сад?",
@@ -322,6 +367,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Finden Sie die Wohnung schön?",
       "english": "Do you find the apartment beautiful?",
       "russian": "Вы находите квартиру красивой?",
@@ -329,6 +375,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ist das ein Waschbecken?",
       "english": "Is that a sink?",
       "russian": "Это раковина?",
@@ -336,6 +383,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ist das eine Spülmaschine?",
       "english": "Is that a dishwasher?",
       "russian": "Это посудомоечная машина?",
@@ -343,6 +391,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ist das eine Kommode?",
       "english": "Is that a dresser?",
       "russian": "Это комод?",
@@ -350,6 +399,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich suche Familie Koval.",
       "english": "I am looking for the Koval family.",
       "russian": "Я ищу семью Коваль.",
@@ -357,6 +407,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich glaube, sie wohnt hier im 1. Stock oder im 2. Stock.",
       "english": "I believe they live here on the 1st floor or the 2nd floor.",
       "russian": "Я думаю, они живут здесь на 1-м или 2-м этаже.",
@@ -364,6 +415,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Nein, Herr und Frau Koval wohnen ganz oben, im Dachgeschoss.",
       "english": "No, Mr. and Mrs. Koval live at the top, in the attic.",
       "russian": "Нет, господин и госпожа Коваль живут наверху, на чердаке.",
@@ -371,6 +423,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Okay, danke.",
       "english": "Okay, thank you.",
       "russian": "Хорошо, спасибо.",

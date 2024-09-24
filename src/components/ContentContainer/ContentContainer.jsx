@@ -21,13 +21,16 @@ const ContentContainer = (props) => {
     setViewAnswer(true);
     setViewSpeechRecognition(true);
   }, [indexState]);
+
   return (
     <div className="content_container">
       <SelectedSentenceTabs />
 
       <div className="top_sentenceContainer">
         <SentenceContainer
-          text={typePage === 'Learn' ? props.content.sentence : props.content[props.translatTo]}
+          //text={typePage === 'Learn' ? props.content.sentence : props.content[props.translatTo]}
+          isTopSentence={true}
+          translatTo={props.translatTo}
           content={props.content}
           isRTL={props.translatTo === 'farsi' && typePage !== 'Learn'}
           hasPlayBtn={typePage === 'Learn' ? true : false}
@@ -51,7 +54,9 @@ const ContentContainer = (props) => {
         )}
         {!viewAnswer && (
           <SentenceContainer
-            text={typePage === 'Learn' ? props.content[props.translatTo] : props.content.sentence}
+            //text={typePage === 'Learn' ? props.content[props.translatTo] : props.content.sentence}
+            isTopSentence={false}
+            translatTo={props.translatTo}
             content={props.content}
             isRTL={props.translatTo === 'farsi' && typePage === 'Learn'}
             hasPlayBtn={typePage === 'Learn' ? false : true}

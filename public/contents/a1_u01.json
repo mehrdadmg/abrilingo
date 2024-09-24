@@ -7,6 +7,7 @@
   "content": [
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wie heißen Sie?",
       "english": "What is your name?",
       "russian": "Как вас зовут?",
@@ -14,6 +15,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wie bitte? Wie schreibt man das?",
       "english": "Pardon? How do you spell that?",
       "russian": "Извините? Как это пишется?",
@@ -21,6 +23,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Moment, ich buchstabiere.",
       "english": "Just a moment, I will spell it.",
       "russian": "Минуточку, я продиктую по буквам.",
@@ -28,6 +31,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "wie heißt du?",
       "english": "What is your name? (informal)",
       "russian": "Как тебя зовут? (неформально)",
@@ -35,6 +39,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Tschüss, Daniel.",
       "english": "Bye, Daniel.",
       "russian": "Пока, Даниэль.",
@@ -42,6 +47,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Guten Tag, Frau Schneider, wie geht es Ihnen?",
       "english": "Good day, Mrs. Schneider, how are you?",
       "russian": "Добрый день, госпожа Шнайдер, как вы?",
@@ -49,6 +55,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Woher kommen Sie?",
       "english": "Where are you from?",
       "russian": "Откуда вы?",
@@ -56,6 +63,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wie geht es Ihnen?",
       "english": "How are you?",
       "russian": "Как вы?",
@@ -63,6 +71,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Was sind Sie von Beruf?",
       "english": "What is your profession?",
       "russian": "Кто вы по профессии?",
@@ -70,6 +79,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wie bitte?",
       "english": "Pardon?",
       "russian": "Извините?",
@@ -77,6 +87,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wie schreibt man das?",
       "english": "How do you spell that?",
       "russian": "Как это пишется?",

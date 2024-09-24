@@ -7,6 +7,7 @@
   "content": [
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich lege das Buch auf den Tisch.",
       "english": "I put the book on the table.",
       "russian": "Я кладу книгу на стол.",
@@ -14,6 +15,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie stellt die Vase auf den Schrank.",
       "english": "She puts the vase on the cabinet.",
       "russian": "Она ставит вазу на шкаф.",
@@ -21,6 +23,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir setzen uns auf die Bank.",
       "english": "We sit on the bench.",
       "russian": "Мы садимся на скамейку.",
@@ -28,6 +31,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er legt das Handy auf den Boden.",
       "english": "He puts the phone on the floor.",
       "russian": "Он кладет телефон на пол.",
@@ -35,6 +39,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Katze springt auf das Bett.",
       "english": "The cat jumps on the bed.",
       "russian": "Кошка прыгает на кровать.",
@@ -42,6 +47,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Kind legt seine Spielzeuge auf den Teppich.",
       "english": "The child puts his toys on the carpet.",
       "russian": "Ребенок кладет свои игрушки на ковер.",
@@ -49,6 +55,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich setze mich auf den Stuhl.",
       "english": "I sit on the chair.",
       "russian": "Я сажусь на стул.",
@@ -56,6 +63,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie legt den Schlüssel auf die Kommode.",
       "english": "She puts the key on the dresser.",
       "russian": "Она кладет ключ на комод.",
@@ -63,6 +71,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Vogel fliegt auf das Dach.",
       "english": "The bird flies onto the roof.",
       "russian": "Птица летит на крышу.",
@@ -70,6 +79,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Hund legt sich auf den Rasen.",
       "english": "The dog lies down on the lawn.",
       "russian": "Собака ложится на газон.",
@@ -77,6 +87,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er stellt die Tasse auf das Regal.",
       "english": "He puts the cup on the shelf.",
       "russian": "Он ставит чашку на полку.",
@@ -84,6 +95,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie legt die Zeitung auf den Tisch.",
       "english": "She puts the newspaper on the table.",
       "russian": "Она кладет газету на стол.",
@@ -91,6 +103,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Maler stellt die Leiter auf die Straße.",
       "english": "The painter places the ladder on the street.",
       "russian": "Художник ставит лестницу на улицу.",
@@ -98,6 +111,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich lege mein Handy auf das Ladegerät.",
       "english": "I put my phone on the charger.",
       "russian": "Я кладу телефон на зарядное устройство.",
@@ -105,6 +119,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie stellt die Kerze auf das Fensterbrett.",
       "english": "She puts the candle on the windowsill.",
       "russian": "Она ставит свечу на подоконник.",
@@ -112,6 +127,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Buch liegt auf dem Tisch.",
       "english": "The book is on the table.",
       "russian": "Книга лежит на столе.",
@@ -119,6 +135,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Vase steht auf dem Schrank.",
       "english": "The vase is on the cabinet.",
       "russian": "Ваза стоит на шкафу.",
@@ -126,6 +143,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir sitzen auf der Bank.",
       "english": "We are sitting on the bench.",
       "russian": "Мы сидим на скамейке.",
@@ -133,6 +151,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Handy liegt auf dem Boden.",
       "english": "The phone is on the floor.",
       "russian": "Телефон лежит на полу.",
@@ -140,6 +159,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Katze schläft auf dem Bett.",
       "english": "The cat is sleeping on the bed.",
       "russian": "Кошка спит на кровати.",
@@ -147,6 +167,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Spielzeuge liegen auf dem Teppich.",
       "english": "The toys are on the carpet.",
       "russian": "Игрушки лежат на ковре.",
@@ -154,6 +175,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich sitze auf dem Stuhl.",
       "english": "I am sitting on the chair.",
       "russian": "Я сижу на стуле.",
@@ -161,6 +183,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Schlüssel liegt auf der Kommode.",
       "english": "The key is on the dresser.",
       "russian": "Ключ лежит на комоде.",
@@ -168,6 +191,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Vogel sitzt auf dem Dach.",
       "english": "The bird is sitting on the roof.",
       "russian": "Птица сидит на крыше.",
@@ -175,6 +199,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Hund liegt auf dem Rasen.",
       "english": "The dog is lying on the lawn.",
       "russian": "Собака лежит на газоне.",
@@ -182,6 +207,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Tasse steht auf dem Regal.",
       "english": "The cup is on the shelf.",
       "russian": "Чашка стоит на полке.",
@@ -189,6 +215,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Zeitung liegt auf dem Tisch.",
       "english": "The newspaper is on the table.",
       "russian": "Газета лежит на столе.",
@@ -196,6 +223,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Leiter steht auf der Straße.",
       "english": "The ladder is on the street.",
       "russian": "Лестница стоит на улице.",
@@ -203,6 +231,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Mein Handy liegt auf dem Ladegerät.",
       "english": "My phone is on the charger.",
       "russian": "Мой телефон лежит на зарядном устройстве.",
@@ -210,6 +239,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Kerze steht auf dem Fensterbrett.",
       "english": "The candle is on the windowsill.",
       "russian": "Свеча стоит на подоконнике.",
@@ -217,6 +247,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich hänge das Bild an die Wand.",
       "english": "I hang the picture on the wall.",
       "russian": "Я вешаю картину на стену.",
@@ -224,6 +255,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie stellt den Stuhl an den Tisch.",
       "english": "She puts the chair by the table.",
       "russian": "Она ставит стул к столу.",
@@ -231,6 +263,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir lehnen uns an die Mauer.",
       "english": "We lean against the wall.",
       "russian": "Мы опираемся на стену.",
@@ -238,6 +271,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er klebt das Poster an die Tür.",
       "english": "He sticks the poster on the door.",
       "russian": "Он клеит плакат на дверь.",
@@ -245,6 +279,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Vogel fliegt an das Fenster.",
       "english": "The bird flies to the window.",
       "russian": "Птица летит к окну.",
@@ -252,6 +287,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie fährt das Auto an die Garage.",
       "english": "She drives the car to the garage.",
       "russian": "Она ведет машину к гаражу.",
@@ -259,6 +295,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich setze mich an den Schreibtisch.",
       "english": "I sit down at the desk.",
       "russian": "Я сажусь за письменный стол.",
@@ -266,6 +303,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie legt die Hand an die Wange.",
       "english": "She puts her hand on her cheek.",
       "russian": "Она кладет руку на щеку.",
@@ -273,6 +311,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Hund springt an den Zaun.",
       "english": "The dog jumps at the fence.",
       "russian": "Собака прыгает к забору.",
@@ -280,6 +319,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Schüler stellt sich an die Tafel.",
       "english": "The student stands by the board.",
       "russian": "Ученик становится у доски.",
@@ -287,6 +327,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Künstler malt an die Leinwand.",
       "english": "The artist paints on the canvas.",
       "russian": "Художник рисует на холсте.",
@@ -294,6 +335,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er drückt das Ohr an die Tür.",
       "english": "He presses his ear to the door.",
       "russian": "Он прижимает ухо к двери.",
@@ -301,6 +343,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie lehnt die Leiter an das Haus.",
       "english": "She leans the ladder against the house.",
       "russian": "Она прислоняет лестницу к дому.",
@@ -308,6 +351,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Tourist stellt sich an die Bushaltestelle.",
       "english": "The tourist stands at the bus stop.",
       "russian": "Турист становится на автобусной остановке.",
@@ -315,6 +359,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er legt den Brief an den Rand des Tisches.",
       "english": "He puts the letter on the edge of the table.",
       "russian": "Он кладет письмо на край стола.",
@@ -322,6 +367,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Bild hängt an der Wand.",
       "english": "The picture is hanging on the wall.",
       "russian": "Картина висит на стене.",
@@ -329,6 +375,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Stuhl steht an dem Tisch.",
       "english": "The chair is by the table.",
       "russian": "Стул стоит у стола.",
@@ -336,6 +383,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir lehnen uns an der Mauer.",
       "english": "We lean against the wall.",
       "russian": "Мы опираемся на стену.",
@@ -343,6 +391,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Poster klebt an der Tür.",
       "english": "The poster is stuck to the door.",
       "russian": "Плакат приклеен к двери.",
@@ -350,6 +399,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Vogel sitzt an dem Fenster.",
       "english": "The bird is sitting by the window.",
       "russian": "Птица сидит у окна.",
@@ -357,6 +407,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Auto steht an der Garage.",
       "english": "The car is by the garage.",
       "russian": "Машина стоит у гаража.",
@@ -364,6 +415,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich sitze an dem Schreibtisch.",
       "english": "I am sitting at the desk.",
       "russian": "Я сижу за письменным столом.",
@@ -371,6 +423,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ihre Hand liegt an der Wange.",
       "english": "Her hand is on her cheek.",
       "russian": "Ее рука лежит на щеке.",
@@ -378,6 +431,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Hund steht an dem Zaun.",
       "english": "The dog is standing by the fence.",
       "russian": "Собака стоит у забора.",
@@ -385,6 +439,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Schüler steht an der Tafel.",
       "english": "The student is standing at the board.",
       "russian": "Ученик стоит у доски.",
@@ -392,6 +447,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Bild hängt an der Leinwand.",
       "english": "The picture is hanging on the canvas.",
       "russian": "Картина висит на холсте.",
@@ -399,6 +455,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sein Ohr ist an der Tür.",
       "english": "His ear is on the door.",
       "russian": "Его ухо на двери.",
@@ -406,6 +463,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Leiter lehnt an dem Haus.",
       "english": "The ladder is leaning against the house.",
       "russian": "Лестница прислонена к дому.",
@@ -413,6 +471,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Tourist steht an der Bushaltestelle.",
       "english": "The tourist is standing at the bus stop.",
       "russian": "Турист стоит на автобусной остановке.",
@@ -420,6 +479,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Brief liegt an dem Rand des Tisches.",
       "english": "The letter is on the edge of the table.",
       "russian": "Письмо лежит на краю стола.",
@@ -427,6 +487,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich stelle die Lampe neben das Sofa.",
       "english": "I put the lamp next to the sofa.",
       "russian": "Я ставлю лампу рядом с диваном.",
@@ -434,6 +495,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie legt das Buch neben den Computer.",
       "english": "She puts the book next to the computer.",
       "russian": "Она кладет книгу рядом с компьютером.",
@@ -441,6 +503,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir setzen uns neben den Baum.",
       "english": "We sit next to the tree.",
       "russian": "Мы садимся рядом с деревом.",
@@ -448,6 +511,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er stellt den Stuhl neben das Fenster.",
       "english": "He puts the chair next to the window.",
       "russian": "Он ставит стул рядом с окном.",
@@ -455,6 +519,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Katze legt sich neben den Hund.",
       "english": "The cat lies down next to the dog.",
       "russian": "Кошка ложится рядом с собакой.",
@@ -462,6 +527,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Kind setzt das Spielzeug neben den Tisch.",
       "english": "The child puts the toy next to the table.",
       "russian": "Ребенок кладет игрушку рядом со столом.",
@@ -470,6 +536,7 @@
 
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich stelle die Tasche neben die Tür.",
       "english": "I put the bag next to the door.",
       "russian": "Я ставлю сумку рядом с дверью.",
@@ -477,6 +544,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie legt die Jacke neben das Bett.",
       "english": "She puts the jacket next to the bed.",
       "russian": "Она кладет куртку рядом с кроватью.",
@@ -484,6 +552,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Vogel fliegt neben den Baum.",
       "english": "The bird flies next to the tree.",
       "russian": "Птица летит рядом с деревом.",
@@ -491,6 +560,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Hund läuft neben das Auto.",
       "english": "The dog runs next to the car.",
       "russian": "Собака бежит рядом с машиной.",
@@ -498,6 +568,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie stellt die Vase neben den Spiegel.",
       "english": "She puts the vase next to the mirror.",
       "russian": "Она ставит вазу рядом с зеркалом.",
@@ -505,6 +576,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er setzt sich neben die Lehrerin.",
       "english": "He sits down next to the teacher.",
       "russian": "Он садится рядом с учительницей.",
@@ -512,6 +584,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Schüler legt den Rucksack neben den Schreibtisch.",
       "english": "The student puts the backpack next to the desk.",
       "russian": "Ученик кладет рюкзак рядом с письменным столом.",
@@ -519,6 +592,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Bild hängt neben die Uhr.",
       "english": "The picture hangs next to the clock.",
       "russian": "Картина висит рядом с часами.",
@@ -526,6 +600,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Ball rollt neben den Zaun.",
       "english": "The ball rolls next to the fence.",
       "russian": "Мяч катится рядом с забором.",
@@ -533,6 +608,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Lampe steht neben dem Sofa.",
       "english": "The lamp is next to the sofa.",
       "russian": "Лампа стоит рядом с диваном.",
@@ -540,6 +616,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Buch liegt neben dem Computer.",
       "english": "The book is next to the computer.",
       "russian": "Книга лежит рядом с компьютером.",
@@ -547,6 +624,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir sitzen neben dem Baum.",
       "english": "We are sitting next to the tree.",
       "russian": "Мы сидим рядом с деревом.",
@@ -554,6 +632,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Stuhl steht neben dem Fenster.",
       "english": "The chair is next to the window.",
       "russian": "Стул стоит рядом с окном.",
@@ -561,6 +640,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Katze liegt neben dem Hund.",
       "english": "The cat is lying next to the dog.",
       "russian": "Кошка лежит рядом с собакой.",
@@ -568,6 +648,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Spielzeug liegt neben dem Tisch.",
       "english": "The toy is next to the table.",
       "russian": "Игрушка лежит рядом со столом.",
@@ -575,6 +656,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Tasche steht neben der Tür.",
       "english": "The bag is next to the door.",
       "russian": "Сумка стоит рядом с дверью.",
@@ -582,6 +664,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Jacke liegt neben dem Bett.",
       "english": "The jacket is next to the bed.",
       "russian": "Куртка лежит рядом с кроватью.",
@@ -589,6 +672,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Vogel sitzt neben dem Baum.",
       "english": "The bird is sitting next to the tree.",
       "russian": "Птица сидит рядом с деревом.",
@@ -596,6 +680,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Hund steht neben dem Auto.",
       "english": "The dog is standing next to the car.",
       "russian": "Собака стоит рядом с машиной.",
@@ -603,6 +688,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Vase steht neben dem Spiegel.",
       "english": "The vase is next to the mirror.",
       "russian": "Ваза стоит рядом с зеркалом.",
@@ -610,6 +696,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er sitzt neben der Lehrerin.",
       "english": "He is sitting next to the teacher.",
       "russian": "Он сидит рядом с учительницей.",
@@ -617,6 +704,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Rucksack liegt neben dem Schreibtisch.",
       "english": "The backpack is next to the desk.",
       "russian": "Рюкзак лежит рядом с письменным столом.",
@@ -624,6 +712,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Bild hängt neben der Uhr.",
       "english": "The picture is hanging next to the clock.",
       "russian": "Картина висит рядом с часами.",
@@ -631,6 +720,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Ball liegt neben dem Zaun.",
       "english": "The ball is next to the fence.",
       "russian": "Мяч лежит рядом с забором.",
@@ -638,6 +728,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich stelle das Auto vor das Haus.",
       "english": "I put the car in front of the house.",
       "russian": "Я ставлю машину перед домом.",
@@ -645,6 +736,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie legt die Zeitung vor die Tür.",
       "english": "She puts the newspaper in front of the door.",
       "russian": "Она кладет газету перед дверью.",
@@ -652,6 +744,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir setzen uns vor den Fernseher.",
       "english": "We sit in front of the TV.",
       "russian": "Мы садимся перед телевизором.",
@@ -659,6 +752,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er stellt den Stuhl vor das Fenster.",
       "english": "He puts the chair in front of the window.",
       "russian": "Он ставит стул перед окном.",
@@ -666,6 +760,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Katze läuft vor den Hund.",
       "english": "The cat runs in front of the dog.",
       "russian": "Кошка бежит перед собакой.",
@@ -673,6 +768,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Kind stellt das Spielzeug vor den Schrank.",
       "english": "The child puts the toy in front of the closet.",
       "russian": "Ребенок кладет игрушку перед шкафом.",
@@ -680,6 +776,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich lege das Buch vor den Computer.",
       "english": "I put the book in front of the computer.",
       "russian": "Я кладу книгу перед компьютером.",
@@ -687,6 +784,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie stellt die Tasche vor das Regal.",
       "english": "She puts the bag in front of the shelf.",
       "russian": "Она ставит сумку перед полкой.",
@@ -694,6 +792,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Vogel fliegt vor das Fenster.",
       "english": "The bird flies in front of the window.",
       "russian": "Птица летит перед окном.",
@@ -701,6 +800,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Hund läuft vor das Auto.",
       "english": "The dog runs in front of the car.",
       "russian": "Собака бежит перед машиной.",
@@ -708,6 +808,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie legt die Vase vor den Spiegel.",
       "english": "She puts the vase in front of the mirror.",
       "russian": "Она кладет вазу перед зеркалом.",
@@ -715,6 +816,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er stellt sich vor die Lehrerin.",
       "english": "He stands in front of the teacher.",
       "russian": "Он становится перед учительницей.",
@@ -722,6 +824,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Schüler stellt den Rucksack vor den Schreibtisch.",
       "english": "The student puts the backpack in front of the desk.",
       "russian": "Ученик кладет рюкзак перед письменным столом.",
@@ -729,6 +832,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Bild hängt vor den Spiegel.",
       "english": "The picture hangs in front of the mirror.",
       "russian": "Картина висит перед зеркалом.",
@@ -736,6 +840,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Ball rollt vor das Tor.",
       "english": "The ball rolls in front of the gate.",
       "russian": "Мяч катится перед воротами.",
@@ -743,6 +848,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Auto steht vor dem Haus.",
       "english": "The car is in front of the house.",
       "russian": "Машина стоит перед домом.",
@@ -750,6 +856,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Zeitung liegt vor der Tür.",
       "english": "The newspaper is in front of the door.",
       "russian": "Газета лежит перед дверью.",
@@ -757,6 +864,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir sitzen vor dem Fernseher.",
       "english": "We are sitting in front of the TV.",
       "russian": "Мы сидим перед телевизором.",
@@ -764,6 +872,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Stuhl steht vor dem Fenster.",
       "english": "The chair is in front of the window.",
       "russian": "Стул стоит перед окном.",
@@ -771,6 +880,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Katze liegt vor dem Hund.",
       "english": "The cat is lying in front of the dog.",
       "russian": "Кошка лежит перед собакой.",
@@ -778,6 +888,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Spielzeug liegt vor dem Schrank.",
       "english": "The toy is in front of the closet.",
       "russian": "Игрушка лежит перед шкафом.",
@@ -785,6 +896,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Buch liegt vor dem Computer.",
       "english": "The book is in front of the computer.",
       "russian": "Книга лежит перед компьютером.",
@@ -792,6 +904,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Tasche steht vor dem Regal.",
       "english": "The bag is in front of the shelf.",
       "russian": "Сумка стоит перед полкой.",
@@ -799,6 +912,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Vogel sitzt vor dem Fenster.",
       "english": "The bird is sitting in front of the window.",
       "russian": "Птица сидит перед окном.",
@@ -806,6 +920,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Hund steht vor dem Auto.",
       "english": "The dog is standing in front of the car.",
       "russian": "Собака стоит перед машиной.",
@@ -813,6 +928,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Vase steht vor dem Spiegel.",
       "english": "The vase is in front of the mirror.",
       "russian": "Ваза стоит перед зеркалом.",
@@ -820,6 +936,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er steht vor der Lehrerin.",
       "english": "He is standing in front of the teacher.",
       "russian": "Он стоит перед учительницей.",
@@ -827,6 +944,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Rucksack steht vor dem Schreibtisch.",
       "english": "The backpack is in front of the desk.",
       "russian": "Рюкзак стоит перед письменным столом.",
@@ -834,6 +952,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Bild hängt vor dem Spiegel.",
       "english": "The picture is hanging in front of the mirror.",
       "russian": "Картина висит перед зеркалом.",
@@ -841,6 +960,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Ball liegt vor dem Tor.",
       "english": "The ball is in front of the gate.",
       "russian": "Мяч лежит перед воротами.",
@@ -848,6 +968,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie stellt die Vase vor den Spiegel.",
       "english": "She puts the vase in front of the mirror.",
       "russian": "Она ставит вазу перед зеркалом.",
@@ -855,6 +976,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er setzt sich vor die Tafel.",
       "english": "He sits in front of the board.",
       "russian": "Он садится перед доской.",
@@ -862,6 +984,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Schüler stellt den Rucksack vor den Tisch.",
       "english": "The student puts the backpack in front of the table.",
       "russian": "Ученик кладет рюкзак перед столом.",
@@ -869,6 +992,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Bild hängt vor das Fenster.",
       "english": "The picture hangs in front of the window.",
       "russian": "Картина висит перед окном.",
@@ -876,6 +1000,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Ball rollt vor den Zaun.",
       "english": "The ball rolls in front of the fence.",
       "russian": "Мяч катится перед забором.",
@@ -883,6 +1008,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Auto steht vor dem Haus.",
       "english": "The car is in front of the house.",
       "russian": "Машина стоит перед домом.",
@@ -890,6 +1016,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Zeitung liegt vor der Tür.",
       "english": "The newspaper is in front of the door.",
       "russian": "Газета лежит перед дверью.",
@@ -897,6 +1024,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir sitzen vor dem Fernseher.",
       "english": "We are sitting in front of the TV.",
       "russian": "Мы сидим перед телевизором.",
@@ -904,6 +1032,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Stuhl steht vor dem Fenster.",
       "english": "The chair is in front of the window.",
       "russian": "Стул стоит перед окном.",
@@ -911,6 +1040,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Katze sitzt vor dem Hund.",
       "english": "The cat is sitting in front of the dog.",
       "russian": "Кошка сидит перед собакой.",
@@ -918,6 +1048,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Spielzeug liegt vor dem Schrank.",
       "english": "The toy is in front of the closet.",
       "russian": "Игрушка лежит перед шкафом.",
@@ -925,6 +1056,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Buch liegt vor dem Computer.",
       "english": "The book is in front of the computer.",
       "russian": "Книга лежит перед компьютером.",
@@ -932,6 +1064,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Tasche steht vor dem Regal.",
       "english": "The bag is in front of the shelf.",
       "russian": "Сумка стоит перед полкой.",
@@ -939,6 +1072,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Vogel sitzt vor dem Fenster.",
       "english": "The bird is sitting in front of the window.",
       "russian": "Птица сидит перед окном.",
@@ -946,6 +1080,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Hund steht vor dem Auto.",
       "english": "The dog is standing in front of the car.",
       "russian": "Собака стоит перед машиной.",
@@ -953,6 +1088,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Vase steht vor dem Spiegel.",
       "english": "The vase is in front of the mirror.",
       "russian": "Ваза стоит перед зеркалом.",
@@ -960,6 +1096,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er sitzt vor der Tafel.",
       "english": "He is sitting in front of the board.",
       "russian": "Он сидит перед доской.",
@@ -967,6 +1104,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Rucksack liegt vor dem Tisch.",
       "english": "The backpack is in front of the table.",
       "russian": "Рюкзак лежит перед столом.",
@@ -974,6 +1112,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Bild hängt vor dem Fenster.",
       "english": "The picture is hanging in front of the window.",
       "russian": "Картина висит перед окном.",
@@ -981,6 +1120,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Ball liegt vor dem Zaun.",
       "english": "The ball is in front of the fence.",
       "russian": "Мяч лежит перед забором.",
@@ -988,6 +1128,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich stelle das Fahrrad hinter das Haus.",
       "english": "I put the bike behind the house.",
       "russian": "Я ставлю велосипед за домом.",
@@ -995,6 +1136,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie legt die Tasche hinter den Stuhl.",
       "english": "She puts the bag behind the chair.",
       "russian": "Она кладет сумку за стул.",
@@ -1002,6 +1144,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir parken das Auto hinter das Gebäude.",
       "english": "We park the car behind the building.",
       "russian": "Мы паркуем машину за зданием.",
@@ -1009,6 +1152,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er versteckt sich hinter den Baum.",
       "english": "He hides behind the tree.",
       "russian": "Он прячется за деревом.",
@@ -1016,6 +1160,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Katze läuft hinter den Hund.",
       "english": "The cat runs behind the dog.",
       "russian": "Кошка бежит за собакой.",
@@ -1023,6 +1168,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Kind stellt den Ball hinter den Schrank.",
       "english": "The child puts the ball behind the closet.",
       "russian": "Ребенок кладет мяч за шкаф.",
@@ -1030,6 +1176,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich lege das Buch hinter den Computer.",
       "english": "I put the book behind the computer.",
       "russian": "Я кладу книгу за компьютер.",
@@ -1037,6 +1184,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie stellt den Koffer hinter das Bett.",
       "english": "She puts the suitcase behind the bed.",
       "russian": "Она ставит чемодан за кровать.",
@@ -1044,6 +1192,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Hund rennt hinter das Auto.",
       "english": "The dog runs behind the car.",
       "russian": "Собака бежит за машиной.",
@@ -1051,6 +1200,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Vogel fliegt hinter das Fenster.",
       "english": "The bird flies behind the window.",
       "russian": "Птица летит за окном.",
@@ -1058,6 +1208,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie setzt sich hinter den Tisch.",
       "english": "She sits behind the table.",
       "russian": "Она садится за стол.",
@@ -1065,6 +1216,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er stellt die Leiter hinter die Garage.",
       "english": "He puts the ladder behind the garage.",
       "russian": "Он ставит лестницу за гараж.",
@@ -1072,6 +1224,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Schüler stellt den Rucksack hinter die Tür.",
       "english": "The student puts the backpack behind the door.",
       "russian": "Ученик кладет рюкзак за дверь.",
@@ -1079,6 +1232,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Bild hängt hinter den Vorhang.",
       "english": "The picture hangs behind the curtain.",
       "russian": "Картина висит за занавесом.",
@@ -1086,6 +1240,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Ball rollt hinter den Zaun.",
       "english": "The ball rolls behind the fence.",
       "russian": "Мяч катится за забор.",
@@ -1093,6 +1248,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Fahrrad steht hinter dem Haus.",
       "english": "The bike is behind the house.",
       "russian": "Велосипед стоит за домом.",
@@ -1100,6 +1256,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Tasche liegt hinter dem Stuhl.",
       "english": "The bag is behind the chair.",
       "russian": "Сумка лежит за стулом.",
@@ -1107,6 +1264,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Auto steht hinter dem Gebäude.",
       "english": "The car is behind the building.",
       "russian": "Машина стоит за зданием.",
@@ -1114,6 +1272,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er versteckt sich hinter dem Baum.",
       "english": "He hides behind the tree.",
       "russian": "Он прячется за деревом.",
@@ -1121,6 +1280,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Katze sitzt hinter dem Hund.",
       "english": "The cat is sitting behind the dog.",
       "russian": "Кошка сидит за собакой.",
@@ -1128,6 +1288,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Ball liegt hinter dem Schrank.",
       "english": "The ball is behind the closet.",
       "russian": "Мяч лежит за шкафом.",
@@ -1135,6 +1296,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Buch liegt hinter dem Computer.",
       "english": "The book is behind the computer.",
       "russian": "Книга лежит за компьютером.",
@@ -1142,6 +1304,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Koffer steht hinter dem Bett.",
       "english": "The suitcase is behind the bed.",
       "russian": "Чемодан стоит за кроватью.",
@@ -1149,6 +1312,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Hund sitzt hinter dem Auto.",
       "english": "The dog is sitting behind the car.",
       "russian": "Собака сидит за машиной.",
@@ -1156,6 +1320,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Vogel sitzt hinter dem Fenster.",
       "english": "The bird is sitting behind the window.",
       "russian": "Птица сидит за окном.",
@@ -1163,6 +1328,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie sitzt hinter dem Tisch.",
       "english": "She is sitting behind the table.",
       "russian": "Она сидит за столом.",
@@ -1170,6 +1336,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Leiter steht hinter der Garage.",
       "english": "The ladder is behind the garage.",
       "russian": "Лестница стоит за гаражом.",
@@ -1177,6 +1344,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Rucksack liegt hinter der Tür.",
       "english": "The backpack is behind the door.",
       "russian": "Рюкзак лежит за дверью.",
@@ -1184,6 +1352,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Bild hängt hinter dem Vorhang.",
       "english": "The picture is hanging behind the curtain.",
       "russian": "Картина висит за занавесом.",
@@ -1191,6 +1360,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Ball liegt hinter dem Zaun.",
       "english": "The ball is behind the fence.",
       "russian": "Мяч лежит за забором.",
@@ -1198,6 +1368,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich stelle den Tisch zwischen die Stühle.",
       "english": "I put the table between the chairs.",
       "russian": "Я ставлю стол между стульями.",
@@ -1205,6 +1376,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie legt das Buch zwischen die Kissen.",
       "english": "She puts the book between the pillows.",
       "russian": "Она кладет книгу между подушками.",
@@ -1212,6 +1384,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir setzen uns zwischen die Bäume.",
       "english": "We sit between the trees.",
       "russian": "Мы садимся между деревьями.",
@@ -1219,6 +1392,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er stellt den Stuhl zwischen den Tisch und die Wand.",
       "english": "He puts the chair between the table and the wall.",
       "russian": "Он ставит стул между столом и стеной.",
@@ -1226,6 +1400,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Katze läuft zwischen die Autos.",
       "english": "The cat runs between the cars.",
       "russian": "Кошка бегает между машинами.",
@@ -1233,6 +1408,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Kind legt das Spielzeug zwischen die Bücher.",
       "english": "The child puts the toy between the books.",
       "russian": "Ребенок кладет игрушку между книгами.",
@@ -1240,6 +1416,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich lege den Schlüssel zwischen die Dokumente.",
       "english": "I put the key between the documents.",
       "russian": "Я кладу ключ между документами.",
@@ -1247,6 +1424,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie stellt die Vase zwischen die Kerzen.",
       "english": "She puts the vase between the candles.",
       "russian": "Она ставит вазу между свечами.",
@@ -1254,6 +1432,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Vogel fliegt zwischen die Äste.",
       "english": "The bird flies between the branches.",
       "russian": "Птица летит между ветками.",
@@ -1261,6 +1440,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Hund läuft zwischen die Menschen.",
       "english": "The dog runs between the people.",
       "russian": "Собака бегает между людьми.",
@@ -1268,6 +1448,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie stellt die Lampe zwischen das Sofa und den Sessel.",
       "english": "She puts the lamp between the sofa and the armchair.",
       "russian": "Она ставит лампу между диваном и креслом.",
@@ -1275,6 +1456,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er setzt sich zwischen die Kollegen.",
       "english": "He sits between the colleagues.",
       "russian": "Он садится между коллегами.",
@@ -1282,6 +1464,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Schüler legt das Heft zwischen die Bücher.",
       "english": "The student puts the notebook between the books.",
       "russian": "Ученик кладет тетрадь между книгами.",
@@ -1289,6 +1472,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Bild hängt zwischen die Fenster.",
       "english": "The picture hangs between the windows.",
       "russian": "Картина висит между окнами.",
@@ -1296,6 +1480,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Ball rollt zwischen die Füße.",
       "english": "The ball rolls between the feet.",
       "russian": "Мяч катится между ногами.",
@@ -1303,6 +1488,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Tisch steht zwischen den Stühlen.",
       "english": "The table stands between the chairs.",
       "russian": "Стол стоит между стульями.",
@@ -1310,6 +1496,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Buch liegt zwischen den Kissen.",
       "english": "The book lies between the pillows.",
       "russian": "Книга лежит между подушками.",
@@ -1317,6 +1504,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir sitzen zwischen den Bäumen.",
       "english": "We are sitting between the trees.",
       "russian": "Мы сидим между деревьями.",
@@ -1324,6 +1512,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Stuhl steht zwischen dem Tisch und der Wand.",
       "english": "The chair stands between the table and the wall.",
       "russian": "Стул стоит между столом и стеной.",
@@ -1331,6 +1520,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Katze sitzt zwischen den Autos.",
       "english": "The cat sits between the cars.",
       "russian": "Кошка сидит между машинами.",
@@ -1338,6 +1528,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Spielzeug liegt zwischen den Büchern.",
       "english": "The toy lies between the books.",
       "russian": "Игрушка лежит между книгами.",
@@ -1345,6 +1536,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Schlüssel liegt zwischen den Dokumenten.",
       "english": "The key lies between the documents.",
       "russian": "Ключ лежит между документами.",
@@ -1352,6 +1544,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Vase steht zwischen den Kerzen.",
       "english": "The vase stands between the candles.",
       "russian": "Ваза стоит между свечами.",
@@ -1359,6 +1552,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Vogel sitzt zwischen den Ästen.",
       "english": "The bird sits between the branches.",
       "russian": "Птица сидит между ветками.",
@@ -1366,6 +1560,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Hund sitzt zwischen den Menschen.",
       "english": "The dog sits between the people.",
       "russian": "Собака сидит между людьми.",
@@ -1373,6 +1568,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Lampe steht zwischen dem Sofa und dem Sessel.",
       "english": "The lamp stands between the sofa and the armchair.",
       "russian": "Лампа стоит между диваном и креслом.",
@@ -1380,6 +1576,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er sitzt zwischen den Kollegen.",
       "english": "He sits between the colleagues.",
       "russian": "Он сидит между коллегами.",
@@ -1387,6 +1584,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Heft liegt zwischen den Büchern.",
       "english": "The notebook lies between the books.",
       "russian": "Тетрадь лежит между книгами.",
@@ -1394,6 +1592,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Bild hängt zwischen den Fenstern.",
       "english": "The picture hangs between the windows.",
       "russian": "Картина висит между окнами.",
@@ -1401,6 +1600,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Ball liegt zwischen den Füßen.",
       "english": "The ball lies between the feet.",
       "russian": "Мяч лежит между ногами.",
@@ -1408,6 +1608,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich hänge die Lampe über den Tisch.",
       "english": "I hang the lamp above the table.",
       "russian": "Я вешаю лампу над столом.",
@@ -1415,6 +1616,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie legt das Buch über den Computer.",
       "english": "She puts the book above the computer.",
       "russian": "Она кладет книгу над компьютером.",
@@ -1422,6 +1624,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir setzen das Bild über das Sofa.",
       "english": "We place the picture above the sofa.",
       "russian": "Мы вешаем картину над диваном.",
@@ -1429,6 +1632,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er hängt die Uhr über die Tür.",
       "english": "He hangs the clock above the door.",
       "russian": "Он вешает часы над дверью.",
@@ -1436,6 +1640,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Katze springt über den Zaun.",
       "english": "The cat jumps over the fence.",
       "russian": "Кошка прыгает через забор.",
@@ -1443,6 +1648,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Kind wirft den Ball über die Mauer.",
       "english": "The child throws the ball over the wall.",
       "russian": "Ребенок бросает мяч через стену.",
@@ -1450,6 +1656,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich lege den Teppich über den Boden.",
       "english": "I lay the carpet over the floor.",
       "russian": "Я кладу ковер на пол.",
@@ -1457,6 +1664,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie stellt die Vase über den Kamin.",
       "english": "She puts the vase above the fireplace.",
       "russian": "Она ставит вазу над камином.",
@@ -1464,6 +1672,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Vogel fliegt über das Haus.",
       "english": "The bird flies over the house.",
       "russian": "Птица летит над домом.",
@@ -1471,6 +1680,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Hund springt über das Hindernis.",
       "english": "The dog jumps over the obstacle.",
       "russian": "Собака прыгает через препятствие.",
@@ -1478,6 +1688,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie hängt den Spiegel über das Waschbecken.",
       "english": "She hangs the mirror above the sink.",
       "russian": "Она вешает зеркало над раковиной.",
@@ -1485,6 +1696,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er setzt die Decke über die Couch.",
       "english": "He puts the blanket over the couch.",
       "russian": "Он кладет одеяло на диван.",
@@ -1492,6 +1704,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Schüler legt das Heft über den Stapel Bücher.",
       "english": "The student puts the notebook on top of the stack of books.",
       "russian": "Ученик кладет тетрадь на стопку книг.",
@@ -1499,6 +1712,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Bild hängt über das Fenster.",
       "english": "The picture hangs above the window.",
       "russian": "Картина висит над окном.",
@@ -1506,6 +1720,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Ball fliegt über das Netz.",
       "english": "The ball flies over the net.",
       "russian": "Мяч летит над сеткой.",
@@ -1513,6 +1728,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Lampe hängt über dem Tisch.",
       "english": "The lamp hangs above the table.",
       "russian": "Лампа висит над столом.",
@@ -1520,6 +1736,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Buch liegt über dem Computer.",
       "english": "The book lies on top of the computer.",
       "russian": "Книга лежит на компьютере.",
@@ -1527,6 +1744,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Bild hängt über dem Sofa.",
       "english": "The picture hangs above the sofa.",
       "russian": "Картина висит над диваном.",
@@ -1534,6 +1752,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Uhr hängt über der Tür.",
       "english": "The clock hangs above the door.",
       "russian": "Часы висят над дверью.",
@@ -1541,6 +1760,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Katze sitzt über dem Zaun.",
       "english": "The cat sits above the fence.",
       "russian": "Кошка сидит над забором.",
@@ -1548,6 +1768,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Ball liegt über der Mauer.",
       "english": "The ball lies on top of the wall.",
       "russian": "Мяч лежит на стене.",
@@ -1555,6 +1776,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Teppich liegt über dem Boden.",
       "english": "The carpet lies over the floor.",
       "russian": "Ковер лежит на полу.",
@@ -1562,6 +1784,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Vase steht über dem Kamin.",
       "english": "The vase stands above the fireplace.",
       "russian": "Ваза стоит над камином.",
@@ -1569,6 +1792,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Vogel fliegt über dem Haus.",
       "english": "The bird flies above the house.",
       "russian": "Птица летит над домом.",
@@ -1576,6 +1800,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Hund sitzt über dem Hindernis.",
       "english": "The dog sits above the obstacle.",
       "russian": "Собака сидит над препятствием.",
@@ -1583,6 +1808,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Spiegel hängt über dem Waschbecken.",
       "english": "The mirror hangs above the sink.",
       "russian": "Зеркало висит над раковиной.",
@@ -1590,6 +1816,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Decke liegt über der Couch.",
       "english": "The blanket lies over the couch.",
       "russian": "Одеяло лежит на диване.",
@@ -1597,6 +1824,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Heft liegt über dem Stapel Bücher.",
       "english": "The notebook lies on top of the stack of books.",
       "russian": "Тетрадь лежит на стопке книг.",
@@ -1604,6 +1832,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Bild hängt über dem Fenster.",
       "english": "The picture hangs above the window.",
       "russian": "Картина висит над окном.",
@@ -1611,6 +1840,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Ball liegt über dem Netz.",
       "english": "The ball lies on top of the net.",
       "russian": "Мяч лежит на сетке.",
@@ -1618,6 +1848,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich lege das Buch unter den Tisch.",
       "english": "I put the book under the table.",
       "russian": "Я кладу книгу под стол.",
@@ -1625,6 +1856,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie stellt die Schuhe unter das Bett.",
       "english": "She puts the shoes under the bed.",
       "russian": "Она ставит обувь под кровать.",
@@ -1632,6 +1864,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir setzen uns unter den Baum.",
       "english": "We sit under the tree.",
       "russian": "Мы садимся под деревом.",
@@ -1639,6 +1872,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er legt die Decke unter den Stuhl.",
       "english": "He puts the blanket under the chair.",
       "russian": "Он кладет одеяло под стул.",
@@ -1646,6 +1880,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Katze läuft unter den Tisch.",
       "english": "The cat runs under the table.",
       "russian": "Кошка бегает под столом.",
@@ -1653,6 +1888,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Kind versteckt sich unter das Bett.",
       "english": "The child hides under the bed.",
       "russian": "Ребенок прячется под кровать.",
@@ -1660,6 +1896,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich schiebe den Koffer unter die Treppe.",
       "english": "I push the suitcase under the stairs.",
       "russian": "Я толкаю чемодан под лестницу.",
@@ -1667,6 +1904,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie legt die Tasche unter den Schreibtisch.",
       "english": "She puts the bag under the desk.",
       "russian": "Она кладет сумку под стол.",
@@ -1674,6 +1912,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Hund kriecht unter das Auto.",
       "english": "The dog crawls under the car.",
       "russian": "Собака ползет под машину.",
@@ -1681,6 +1920,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Vogel fliegt unter das Dach.",
       "english": "The bird flies under the roof.",
       "russian": "Птица летит под крышу.",
@@ -1688,6 +1928,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er legt den Teppich unter den Tisch.",
       "english": "He puts the carpet under the table.",
       "russian": "Он кладет ковер под стол.",
@@ -1695,6 +1936,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie stellt den Korb unter das Regal.",
       "english": "She puts the basket under the shelf.",
       "russian": "Она ставит корзину под полку.",
@@ -1702,6 +1944,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Schüler schiebt den Stuhl unter den Tisch.",
       "english": "The student pushes the chair under the table.",
       "russian": "Ученик толкает стул под стол.",
@@ -1709,6 +1952,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Bild hängt unter die Lampe.",
       "english": "The picture hangs under the lamp.",
       "russian": "Картина висит под лампой.",
@@ -1716,6 +1960,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Ball rollt unter das Sofa.",
       "english": "The ball rolls under the sofa.",
       "russian": "Мяч катится под диван.",
@@ -1723,6 +1968,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Buch liegt unter dem Tisch.",
       "english": "The book lies under the table.",
       "russian": "Книга лежит под столом.",
@@ -1730,6 +1976,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Schuhe stehen unter dem Bett.",
       "english": "The shoes are under the bed.",
       "russian": "Обувь стоит под кроватью.",
@@ -1737,6 +1984,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir sitzen unter dem Baum.",
       "english": "We are sitting under the tree.",
       "russian": "Мы сидим под деревом.",
@@ -1744,6 +1992,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Decke liegt unter dem Stuhl.",
       "english": "The blanket lies under the chair.",
       "russian": "Одеяло лежит под стулом.",
@@ -1751,6 +2000,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Katze sitzt unter dem Tisch.",
       "english": "The cat sits under the table.",
       "russian": "Кошка сидит под столом.",
@@ -1758,6 +2008,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Kind versteckt sich unter dem Bett.",
       "english": "The child hides under the bed.",
       "russian": "Ребенок прячется под кроватью.",
@@ -1765,6 +2016,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Koffer liegt unter der Treppe.",
       "english": "The suitcase lies under the stairs.",
       "russian": "Чемодан лежит под лестницей.",
@@ -1772,6 +2024,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Tasche steht unter dem Schreibtisch.",
       "english": "The bag stands under the desk.",
       "russian": "Сумка стоит под столом.",
@@ -1779,6 +2032,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Hund liegt unter dem Auto.",
       "english": "The dog lies under the car.",
       "russian": "Собака лежит под машиной.",
@@ -1786,6 +2040,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Vogel sitzt unter dem Dach.",
       "english": "The bird sits under the roof.",
       "russian": "Птица сидит под крышей.",
@@ -1793,6 +2048,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Teppich liegt unter dem Tisch.",
       "english": "The carpet lies under the table.",
       "russian": "Ковер лежит под столом.",
@@ -1800,6 +2056,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Korb steht unter dem Regal.",
       "english": "The basket stands under the shelf.",
       "russian": "Корзина стоит под полкой.",
@@ -1807,6 +2064,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Stuhl steht unter dem Tisch.",
       "english": "The chair stands under the table.",
       "russian": "Стул стоит под столом.",
@@ -1814,6 +2072,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Bild hängt unter der Lampe.",
       "english": "The picture hangs under the lamp.",
       "russian": "Картина висит под лампой.",
@@ -1821,6 +2080,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Ball liegt unter dem Sofa.",
       "english": "The ball lies under the sofa.",
       "russian": "Мяч лежит под диваном.",
@@ -1828,6 +2088,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich gehe in den Park.",
       "english": "I go to the park.",
       "russian": "Я иду в парк.",
@@ -1835,6 +2096,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie legt das Buch in die Tasche.",
       "english": "She puts the book in the bag.",
       "russian": "Она кладет книгу в сумку.",
@@ -1842,6 +2104,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir setzen uns in das Café.",
       "english": "We sit in the café.",
       "russian": "Мы садимся в кафе.",
@@ -1849,6 +2112,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er stellt den Stuhl in den Raum.",
       "english": "He puts the chair in the room.",
       "russian": "Он ставит стул в комнату.",
@@ -1856,6 +2120,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Katze läuft in das Haus.",
       "english": "The cat runs into the house.",
       "russian": "Кошка бегает в дом.",
@@ -1863,6 +2128,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Kind geht in die Schule.",
       "english": "The child goes to school.",
       "russian": "Ребенок идет в школу.",
@@ -1870,6 +2136,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich lege die Kleidung in den Schrank.",
       "english": "I put the clothes in the wardrobe.",
       "russian": "Я кладу одежду в шкаф.",
@@ -1877,6 +2144,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie stellt die Vase in das Regal.",
       "english": "She puts the vase in the shelf.",
       "russian": "Она ставит вазу на полку.",
@@ -1884,6 +2152,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Vogel fliegt in das Zimmer.",
       "english": "The bird flies into the room.",
       "russian": "Птица летит в комнату.",
@@ -1891,6 +2160,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Hund läuft in den Garten.",
       "english": "The dog runs into the garden.",
       "russian": "Собака бежит в сад.",
@@ -1898,6 +2168,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er legt den Teppich in das Wohnzimmer.",
       "english": "He puts the carpet in the living room.",
       "russian": "Он кладет ковер в гостиную.",
@@ -1905,6 +2176,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie stellt den Korb in die Küche.",
       "english": "She puts the basket in the kitchen.",
       "russian": "Она ставит корзину на кухню.",
@@ -1912,6 +2184,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Schüler geht in die Bibliothek.",
       "english": "The student goes to the library.",
       "russian": "Ученик идет в библиотеку.",
@@ -1919,6 +2192,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Bild hängt in den Flur.",
       "english": "The picture hangs in the hallway.",
       "russian": "Картина висит в коридоре.",
@@ -1926,6 +2200,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Ball rollt in die Ecke.",
       "english": "The ball rolls into the corner.",
       "russian": "Мяч катится в угол.",
@@ -1933,6 +2208,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich bin im Park.",
       "english": "I am in the park.",
       "russian": "Я в парке.",
@@ -1940,6 +2216,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Buch liegt in der Tasche.",
       "english": "The book is in the bag.",
       "russian": "Книга лежит в сумке.",
@@ -1947,6 +2224,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir sitzen im Café.",
       "english": "We are sitting in the café.",
       "russian": "Мы сидим в кафе.",
@@ -1954,6 +2232,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Stuhl steht im Raum.",
       "english": "The chair is in the room.",
       "russian": "Стул стоит в комнате.",
@@ -1961,6 +2240,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Katze ist im Haus.",
       "english": "The cat is in the house.",
       "russian": "Кошка в доме.",
@@ -1968,6 +2248,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Kind ist in der Schule.",
       "english": "The child is at school.",
       "russian": "Ребенок в школе.",
@@ -1975,6 +2256,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Kleidung liegt im Schrank.",
       "english": "The clothes are in the wardrobe.",
       "russian": "Одежда лежит в шкафу.",
@@ -1982,6 +2264,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Vase steht im Regal.",
       "english": "The vase is on the shelf.",
       "russian": "Ваза стоит на полке.",
@@ -1989,6 +2272,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Vogel ist im Zimmer.",
       "english": "The bird is in the room.",
       "russian": "Птица в комнате.",
@@ -1996,6 +2280,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Hund ist im Garten.",
       "english": "The dog is in the garden.",
       "russian": "Собака в саду.",
@@ -2003,6 +2288,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Teppich liegt im Wohnzimmer.",
       "english": "The carpet is in the living room.",
       "russian": "Ковер лежит в гостиной.",
@@ -2010,6 +2296,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Korb steht in der Küche.",
       "english": "The basket is in the kitchen.",
       "russian": "Корзина стоит на кухне.",
@@ -2017,6 +2304,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Schüler ist in der Bibliothek.",
       "english": "The student is in the library.",
       "russian": "Ученик в библиотеке.",
@@ -2024,6 +2312,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Bild hängt im Flur.",
       "english": "The picture hangs in the hallway.",
       "russian": "Картина висит в коридоре.",
@@ -2031,6 +2320,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Ball liegt in der Ecke.",
       "english": "The ball is in the corner.",
       "russian": "Мяч лежит в углу.",

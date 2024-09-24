@@ -7,6 +7,7 @@
   "content": [
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Gehst du einkaufen?",
       "english": "Are you going shopping?",
       "russian": "Ты идёшь за покупками?",
@@ -14,6 +15,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, das mache ich und ich nehme Laura und Marie mit.",
       "english": "Yes, I will, and I will take Laura and Marie with me.",
       "russian": "Да, я пойду и возьму с собой Лауру и Мари.",
@@ -21,6 +23,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Was brauchen wir?",
       "english": "What do we need?",
       "russian": "Что нам нужно?",
@@ -28,6 +31,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich schreibe einen Zettel.",
       "english": "I'll write a list.",
       "russian": "Я напишу список.",
@@ -35,6 +39,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Haben wir noch Milch?",
       "english": "Do we still have milk?",
       "russian": "У нас ещё есть молоко?",
@@ -42,6 +47,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, hier ist noch eine Flasche.",
       "english": "Yes, here is another bottle.",
       "russian": "Да, вот ещё одна бутылка.",
@@ -49,6 +55,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Also, wir brauchen keine Milch... aber ... Ach ja! Kauf doch bitte Butter und vergiss die Eier nicht.",
       "english": "So, we don't need milk... but... Oh yes! Please buy butter and don't forget the eggs.",
       "russian": "Итак, нам не нужно молоко... но... Ах да! Пожалуйста, купи масло и не забудь яйца.",
@@ -56,6 +63,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Haben wir noch Brot?",
       "english": "Do we still have bread?",
       "russian": "У нас ещё есть хлеб?",
@@ -63,6 +71,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Nein, wir brauchen Brot. Aber hol das Brot bitte nicht im Supermarkt. Geh doch zum Bäcker. Da ist das Brot sehr gut.",
       "english": "No, we need bread. But don't get the bread at the supermarket. Go to the bakery. The bread there is very good.",
       "russian": "Нет, нам нужен хлеб. Но не бери хлеб в супермаркете. Иди в пекарню. Там хлеб очень хороший.",
@@ -70,6 +79,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Dann ist alles klar.",
       "english": "Then everything is clear.",
       "russian": "Тогда всё ясно.",
@@ -77,6 +87,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Kommt, Laura und Marie, wir gehen.",
       "english": "Come, Laura and Marie, we are going.",
       "russian": "Пойдём, Лаура и Мари, мы идём.",
@@ -84,6 +95,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wartet noch einen Moment!",
       "english": "Wait a moment!",
       "russian": "Подождите ещё минуту!",
@@ -91,6 +103,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Hier... Vergesst den Einkaufszettel nicht!",
       "english": "Here... don't forget the shopping list!",
       "russian": "Вот... не забудьте список покупок!",
@@ -98,6 +111,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Und bringt auch noch Kaugummis mit!",
       "english": "And also bring some chewing gum!",
       "russian": "И принесите ещё жевательную резинку!",
@@ -105,6 +119,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sonderangebot: Früchte aus Südamerika, zum Beispiel Bananen, das Kilo 1,20€. Kaufen Sie Früchte aus Südamerika!",
       "english": "Special offer: Fruits from South America, for example bananas, 1.20€ per kilo. Buy fruits from South America!",
       "russian": "Специальное предложение: фрукты из Южной Америки, например, бананы, 1,20€ за килограмм. Покупайте фрукты из Южной Америки!",
@@ -112,6 +127,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Nur heute: Joghurt im Angebot. Nehmen Sie drei Becher und bezahlen Sie zwei!",
       "english": "Only today: Yogurt on sale. Take three cups and pay for two!",
       "russian": "Только сегодня: йогурт на распродаже. Берите три стаканчика и платите за два!",
@@ -119,6 +135,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Guten Tag, was möchten Sie?",
       "english": "Good day, what would you like?",
       "russian": "Добрый день, что бы вы хотели?",
@@ -126,6 +143,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich hätte gerne 3 Kilo Kartoffeln.",
       "english": "I would like 3 kilos of potatoes.",
       "russian": "Я бы хотел 3 килограмма картофеля.",
@@ -133,6 +151,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "3 Kilo Kartoffeln, bitte sehr. Haben Sie noch einen Wunsch?",
       "english": "3 kilos of potatoes, here you go. Do you have any other requests?",
       "russian": "3 килограмма картофеля, пожалуйста. У вас есть ещё пожелания?",
@@ -140,6 +159,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, was kosten die Tomaten?",
       "english": "Yes, how much do the tomatoes cost?",
       "russian": "Да, сколько стоят помидоры?",
@@ -147,6 +167,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Kilo kostet 2,90 Euro.",
       "english": "The kilo costs 2.90 euros.",
       "russian": "Килограмм стоит 2,90 евро.",
@@ -154,6 +175,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Dann nehme ich ein Kilo.",
       "english": "Then I'll take a kilo.",
       "russian": "Тогда я возьму килограмм.",
@@ -161,6 +183,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Gerne. Möchten Sie noch etwas?",
       "english": "Sure. Would you like anything else?",
       "russian": "Конечно. Хотите ещё что-нибудь?",
@@ -168,6 +191,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Danke, das ist alles.",
       "english": "Thank you, that's all.",
       "russian": "Спасибо, это всё.",
@@ -175,6 +199,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das macht zusammen 7,70 Euro. Haben Sie es passend?",
       "english": "That makes a total of 7.70 euros. Do you have the exact amount?",
       "russian": "Итого 7,70 евро. У вас есть точная сумма?",
@@ -182,6 +207,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Einen Moment ... Nein, leider nicht. Ich habe nur zehn Euro.",
       "english": "One moment... No, unfortunately not. I only have ten euros.",
       "russian": "Минуточку... Нет, к сожалению, нет. У меня только десять евро.",
@@ -189,6 +215,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Dann bekommen Sie 2,30 Euro zurück.",
       "english": "Then you get 2.30 euros back.",
       "russian": "Тогда вы получите обратно 2,30 евро.",
@@ -196,6 +223,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Was kosten die Tomaten?",
       "english": "How much do the tomatoes cost?",
       "russian": "Сколько стоят помидоры?",
@@ -203,6 +231,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Kilo kostet heute 1,60 Euro.",
       "english": "The kilo costs 1.60 euros today.",
       "russian": "Килограмм сегодня стоит 1,60 евро.",
@@ -210,6 +239,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Moment, der Wein ist doch im Angebot und kostet nur 4,29 Euro.",
       "english": "Wait, the wine is on sale and only costs 4.29 euros.",
       "russian": "Подождите, вино на распродаже и стоит всего 4,29 евро.",
@@ -217,6 +247,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, das stimmt. Er kostet nicht mehr 4,99 Euro. Ich korrigiere das.",
       "english": "Yes, that's right. It no longer costs 4.99 euros. I'll correct that.",
       "russian": "Да, это правда. Теперь он стоит не 4,99 евро. Я это исправлю.",
@@ -224,6 +255,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Schau mal, in dem Supermarkt sind gute Angebote.",
       "english": "Look, there are good deals in that supermarket.",
       "russian": "Смотри, в этом супермаркете хорошие предложения.",
@@ -231,6 +263,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ein Stück Butter kostet nur 99 Cent.",
       "english": "A piece of butter costs only 99 cents.",
       "russian": "Кусок масла стоит всего 99 центов.",
@@ -238,6 +271,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, aber da kaufe ich nur selten ein.",
       "english": "Yes, but I rarely shop there.",
       "russian": "Да, но я там редко покупаю.",
@@ -245,6 +279,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Andere Sachen sind manchmal teuer.",
       "english": "Other things are sometimes expensive.",
       "russian": "Другие вещи иногда дорогие.",
@@ -252,6 +287,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ein Liter Milch kostet 1,35 Euro. Das ist zu viel.",
       "english": "A liter of milk costs 1.35 euros. That is too much.",
       "russian": "Литр молока стоит 1,35 евро. Это слишком много.",
@@ -259,6 +295,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich hätte gern sechs Brötchen.",
       "english": "I would like six rolls.",
       "russian": "Я бы хотел шесть булочек.",
@@ -266,6 +303,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich hätte gern 200 Gramm Käse.",
       "english": "I would like 200 grams of cheese.",
       "russian": "Я бы хотел 200 граммов сыра.",
@@ -273,6 +311,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Was kosten die Kartoffeln?",
       "english": "How much do the potatoes cost?",
       "russian": "Сколько стоят картофель?",
@@ -280,6 +319,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Dann nehme ich zwei Kilo.",
       "english": "Then I'll take two kilos.",
       "russian": "Тогда я возьму два килограмма.",
@@ -287,6 +327,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich möchte noch ein Hähnchen.",
       "english": "I would also like a chicken.",
       "russian": "Я бы хотел ещё курицу.",
@@ -294,6 +335,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wie viel kostet das Hähnchen?",
       "english": "How much does the chicken cost?",
       "russian": "Сколько стоит курица?",
@@ -301,6 +343,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Danke, das ist alles.",
       "english": "Thank you, that's all.",
       "russian": "Спасибо, это всё.",
@@ -308,6 +351,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Was macht das zusammen?",
       "english": "How much is that altogether?",
       "russian": "Сколько это будет всего?",
@@ -315,6 +359,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Also, was brauche ich?",
       "english": "So, what do I need?",
       "russian": "Итак, что мне нужно?",
@@ -322,6 +367,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Zwei Kilo Reis, 200 Gramm Joghurt, einen Liter Milch, ein Kilo Tomaten, zehn Zwiebeln, zwei Orangen, ein Pfund Hackfleisch, einen Kasten Wasser, Bier, Brot und Kuchen.",
       "english": "Two kilos of rice, 200 grams of yogurt, one liter of milk, one kilo of tomatoes, ten onions, two oranges, one pound of ground meat, a case of water, beer, bread, and cake.",
       "russian": "Два килограмма риса, 200 граммов йогурта, литр молока, килограмм помидоров, десять луковиц, два апельсина, фунт фарша, ящик воды, пиво, хлеб и пирог.",
@@ -329,6 +375,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Okay, das Brot und den Kuchen kaufe ich später in der Bäckerei.",
       "english": "Okay, I will buy the bread and cake later at the bakery.",
       "russian": "Хорошо, хлеб и пирог я куплю позже в пекарне.",
@@ -336,6 +383,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wasser und Bier kaufe ich im Supermarkt, Reis, Joghurt, Milch und das Hackfleisch auch. Alles klar!",
       "english": "I'll buy the water and beer at the supermarket, as well as the rice, yogurt, milk, and ground meat. All right!",
       "russian": "Воду и пиво я куплю в супермаркете, также как рис, йогурт, молоко и фарш. Всё понятно!",
@@ -343,6 +391,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Guten Tag, was möchten Sie?",
       "english": "Good day, what would you like?",
       "russian": "Добрый день, что бы вы хотели?",
@@ -350,6 +399,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Guten Tag! Ich hätte gerne ein Kilo Tomaten.",
       "english": "Good day! I would like a kilo of tomatoes.",
       "russian": "Добрый день! Я бы хотел килограмм помидоров.",
@@ -357,6 +407,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ein Kilo Tomaten... Haben Sie sonst noch einen Wunsch?",
       "english": "A kilo of tomatoes... Do you have any other requests?",
       "russian": "Килограмм помидоров... У вас есть ещё пожелания?",
@@ -364,6 +415,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, zwei Orangen.",
       "english": "Yes, two oranges.",
       "russian": "Да, два апельсина.",
@@ -371,6 +423,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sehr gern!... Sonst noch etwas?",
       "english": "Very well!... Anything else?",
       "russian": "Очень хорошо!... Ещё что-нибудь?",
@@ -378,6 +431,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, ich brauche noch zehn Zwiebeln. Und das ist dann alles.",
       "english": "Yes, I also need ten onions. And that's all.",
       "russian": "Да, мне нужно ещё десять луковиц. И это всё.",
@@ -385,6 +439,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Vielen Dank. Das macht zusammen 4 Euro und 3 Cent.",
       "english": "Thank you very much. That will be 4 euros and 3 cents.",
       "russian": "Большое спасибо. Это будет 4 евро и 3 цента.",
@@ -392,6 +447,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe es leider nicht passend.",
       "english": "Unfortunately, I don't have the exact amount.",
       "russian": "К сожалению, у меня нет точной суммы.",
@@ -399,6 +455,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Haben Sie vielleicht 3 Cent?",
       "english": "Do you maybe have 3 cents?",
       "russian": "У вас есть 3 цента?",
@@ -406,6 +463,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Einen Moment ... Ich habe nur 5 Cent.",
       "english": "One moment... I only have 5 cents.",
       "russian": "Минуточку... У меня только 5 центов.",
@@ -413,6 +471,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das ist auch gut. Danke! So - und dann bekommen Sie 16 Euro und 2 Cent zurück.",
       "english": "That's good too. Thank you! So - and then you get 16 euros and 2 cents back.",
       "russian": "Это тоже хорошо. Спасибо! Итак - и вы получите обратно 16 евро и 2 цента.",

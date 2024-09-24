@@ -7,6 +7,7 @@
   "content": [
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich bin ein Frontend-Entwickler.",
       "english": "I am a frontend developer.",
       "russian": "Я фронтенд-разработчик.",
@@ -14,6 +15,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich arbeite mit HTML, CSS und JavaScript.",
       "english": "I work with HTML, CSS, and JavaScript.",
       "russian": "Я работаю с HTML, CSS и JavaScript.",
@@ -21,6 +23,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich erstelle Webseiten.",
       "english": "I create websites.",
       "russian": "Я создаю веб-сайты.",
@@ -28,6 +31,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Meine Arbeit ist kreativ.",
       "english": "My work is creative.",
       "russian": "Моя работа креативная.",
@@ -35,6 +39,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich arbeite oft im Team.",
       "english": "I often work in a team.",
       "russian": "Я часто работаю в команде.",
@@ -42,6 +47,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich benutze Frameworks wie React.",
       "english": "I use frameworks like React.",
       "russian": "Я использую фреймворки, такие как React.",
@@ -49,6 +55,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich liebe es, Probleme zu lösen.",
       "english": "I love solving problems.",
       "russian": "Мне нравится решать проблемы.",
@@ -56,6 +63,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich lerne ständig neue Technologien.",
       "english": "I constantly learn new technologies.",
       "russian": "Я постоянно изучаю новые технологии.",
@@ -63,6 +71,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich arbeite mit Entwicklern und Designern zusammen.",
       "english": "I work with developers and designers.",
       "russian": "Я работаю с разработчиками и дизайнерами.",
@@ -70,6 +79,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich verbessere die Benutzeroberfläche.",
       "english": "I improve the user interface.",
       "russian": "Я улучшаю пользовательский интерфейс.",
@@ -77,6 +87,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich teste meinen Code regelmäßig.",
       "english": "I test my code regularly.",
       "russian": "Я регулярно тестирую свой код.",
@@ -84,6 +95,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich verwende Versionskontrollsysteme wie Git.",
       "english": "I use version control systems like Git.",
       "russian": "Я использую системы контроля версий, такие как Git.",
@@ -91,6 +103,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich erstelle responsive Designs.",
       "english": "I create responsive designs.",
       "russian": "Я создаю адаптивные дизайны.",
@@ -98,6 +111,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich arbeite an Frontend-Projekten.",
       "english": "I work on frontend projects.",
       "russian": "Я работаю над фронтенд-проектами.",
@@ -105,6 +119,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich benutze Entwicklungswerkzeuge.",
       "english": "I use development tools.",
       "russian": "Я использую инструменты разработки.",
@@ -112,6 +127,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich aktualisiere regelmäßig meine Fähigkeiten.",
       "english": "I regularly update my skills.",
       "russian": "Я регулярно обновляю свои навыки.",
@@ -119,6 +135,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich achte auf Details.",
       "english": "I pay attention to details.",
       "russian": "Я обращаю внимание на детали.",
@@ -126,6 +143,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich beherrsche die Grundlagen der Webentwicklung.",
       "english": "I master the basics of web development.",
       "russian": "Я владею основами веб-разработки.",
@@ -133,6 +151,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich arbeite mit APIs.",
       "english": "I work with APIs.",
       "russian": "Я работаю с API.",
@@ -140,6 +159,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich erstelle benutzerfreundliche Oberflächen.",
       "english": "I create user-friendly interfaces.",
       "russian": "Я создаю удобные для пользователя интерфейсы.",
@@ -147,6 +167,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich arbeite an der Benutzererfahrung.",
       "english": "I work on user experience.",
       "russian": "Я работаю над пользовательским опытом.",
@@ -154,6 +175,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich optimiere Webseiten für verschiedene Geräte.",
       "english": "I optimize websites for different devices.",
       "russian": "Я оптимизирую веб-сайты для различных устройств.",
@@ -161,6 +183,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich implementiere interaktive Funktionen.",
       "english": "I implement interactive features.",
       "russian": "Я внедряю интерактивные функции.",
@@ -168,6 +191,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich verbessere die Ladezeiten der Seiten.",
       "english": "I improve the loading times of pages.",
       "russian": "Я улучшаю время загрузки страниц.",
@@ -175,6 +199,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich arbeite mit Design-Software.",
       "english": "I work with design software.",
       "russian": "Я работаю с программным обеспечением для дизайна.",
@@ -182,6 +207,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich entwickle Webanwendungen.",
       "english": "I develop web applications.",
       "russian": "Я разрабатываю веб-приложения.",
@@ -189,6 +215,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich teste die Benutzerfreundlichkeit.",
       "english": "I test the usability.",
       "russian": "Я тестирую удобство использования.",
@@ -196,6 +223,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich optimiere den Code.",
       "english": "I optimize the code.",
       "russian": "Я оптимизирую код.",
@@ -203,6 +231,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich benutze CSS-Frameworks wie Bootstrap.",
       "english": "I use CSS frameworks like Bootstrap.",
       "russian": "Я использую CSS-фреймворки, такие как Bootstrap.",
@@ -210,6 +239,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich arbeite mit Datenbanken.",
       "english": "I work with databases.",
       "russian": "Я работаю с базами данных.",
@@ -217,6 +247,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich setze Sicherheitsmaßnahmen um.",
       "english": "I implement security measures.",
       "russian": "Я внедряю меры безопасности.",
@@ -224,6 +255,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich arbeite mit GitHub.",
       "english": "I work with GitHub.",
       "russian": "Я работаю с GitHub.",
@@ -231,6 +263,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich entwickle mobile-responsive Webseiten.",
       "english": "I develop mobile-responsive websites.",
       "russian": "Я разрабатываю мобильные адаптивные веб-сайты.",
@@ -238,6 +271,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich erstelle Prototypen.",
       "english": "I create prototypes.",
       "russian": "Я создаю прототипы.",
@@ -245,6 +279,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich optimiere die Performance.",
       "english": "I optimize the performance.",
       "russian": "Я оптимизирую производительность.",
@@ -252,6 +287,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich nutze moderne Web-Technologien.",
       "english": "I use modern web technologies.",
       "russian": "Я использую современные веб-технологии.",
@@ -259,6 +295,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich bin vertraut mit UX/UI Design.",
       "english": "I am familiar with UX/UI design.",
       "russian": "Я знаком с дизайном UX/UI.",
@@ -266,6 +303,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich arbeite mit CMS-Plattformen.",
       "english": "I work with CMS platforms.",
       "russian": "Я работаю с платформами CMS.",
@@ -273,6 +311,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich erstelle animierte Elemente.",
       "english": "I create animated elements.",
       "russian": "Я создаю анимированные элементы.",
@@ -280,6 +319,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich führe Code-Reviews durch.",
       "english": "I conduct code reviews.",
       "russian": "Я провожу ревизии кода.",
@@ -287,6 +327,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich arbeite an der Verbesserung der Zugänglichkeit.",
       "english": "I work on improving accessibility.",
       "russian": "Я работаю над улучшением доступности.",
@@ -294,6 +335,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich halte mich über Web-Standards auf dem Laufenden.",
       "english": "I keep up to date with web standards.",
       "russian": "Я держу в курсе веб-стандартов.",
@@ -301,6 +343,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich arbeite mit Web-Designern.",
       "english": "I work with web designers.",
       "russian": "Я работаю с веб-дизайнерами.",
@@ -308,6 +351,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich nutze Debugging-Tools.",
       "english": "I use debugging tools.",
       "russian": "Я использую инструменты отладки.",
@@ -315,6 +359,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich schreibe sauberen Code.",
       "english": "I write clean code.",
       "russian": "Я пишу чистый код.",
@@ -322,6 +367,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich arbeite mit verschiedenen Browsern.",
       "english": "I work with different browsers.",
       "russian": "Я работаю с разными браузерами.",
@@ -329,6 +375,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich erstelle benutzerdefinierte Komponenten.",
       "english": "I create custom components.",
       "russian": "Я создаю пользовательские компоненты.",
@@ -336,6 +383,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich passe mich neuen Projekten an.",
       "english": "I adapt to new projects.",
       "russian": "Я адаптируюсь к новым проектам.",
@@ -343,6 +391,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich erstelle interaktive Benutzeroberflächen.",
       "english": "I create interactive user interfaces.",
       "russian": "Я создаю интерактивные пользовательские интерфейсы.",
@@ -350,6 +399,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich arbeite mit Cloud-Diensten.",
       "english": "I work with cloud services.",
       "russian": "Я работаю с облачными сервисами.",
@@ -357,6 +407,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich optimiere die Benutzerfreundlichkeit.",
       "english": "I optimize usability.",
       "russian": "Я оптимизирую удобство использования.",
@@ -364,6 +415,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich setze neue Web-Technologien ein.",
       "english": "I implement new web technologies.",
       "russian": "Я внедряю новые веб-технологии.",
@@ -371,6 +423,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich arbeite an der Frontend-Architektur.",
       "english": "I work on frontend architecture.",
       "russian": "Я работаю над архитектурой фронтенда.",
@@ -378,6 +431,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich entwickle benutzerdefinierte Widgets.",
       "english": "I develop custom widgets.",
       "russian": "Я разрабатываю пользовательские виджеты.",
@@ -385,6 +439,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich arbeite mit JSON-Daten.",
       "english": "I work with JSON data.",
       "russian": "Я работаю с данными JSON.",
@@ -392,6 +447,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich erstelle und bearbeite SVG-Grafiken.",
       "english": "I create and edit SVG graphics.",
       "russian": "Я создаю и редактирую SVG-графику.",
@@ -399,6 +455,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich erstelle benutzerdefinierte Themes.",
       "english": "I create custom themes.",
       "russian": "Я создаю пользовательские темы.",
@@ -406,6 +463,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich arbeite mit RESTful APIs.",
       "english": "I work with RESTful APIs.",
       "russian": "Я работаю с RESTful API.",
@@ -413,6 +471,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich passe die Benutzeroberfläche an.",
       "english": "I customize the user interface.",
       "russian": "Я настраиваю пользовательский интерфейс.",
@@ -420,6 +479,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich arbeite mit Echtzeit-Daten.",
       "english": "I work with real-time data.",
       "russian": "Я работаю с данными в реальном времени.",
@@ -427,6 +487,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich entwickle modulare Code-Strukturen.",
       "english": "I develop modular code structures.",
       "russian": "Я разрабатываю модульные структуры кода.",
@@ -434,6 +495,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich teste auf verschiedene Bildschirmgrößen.",
       "english": "I test for different screen sizes.",
       "russian": "Я тестирую на разных размерах экрана.",
@@ -441,6 +503,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich nutze automatisierte Test-Tools.",
       "english": "I use automated testing tools.",
       "russian": "Я использую инструменты автоматизированного тестирования.",
@@ -448,6 +511,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich verbessere die Code-Qualität.",
       "english": "I improve code quality.",
       "russian": "Я улучшаю качество кода.",
@@ -455,6 +519,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich entwickle mit modernen JavaScript-Frameworks.",
       "english": "I develop with modern JavaScript frameworks.",
       "russian": "Я разрабатываю с современными фреймворками JavaScript.",
@@ -462,6 +527,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich arbeite mit cross-browser Kompatibilität.",
       "english": "I work with cross-browser compatibility.",
       "russian": "Я работаю с кросс-браузерной совместимостью.",
@@ -469,6 +535,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich entwickle Frontend-Tests.",
       "english": "I develop frontend tests.",
       "russian": "Я разрабатываю фронтенд-тесты.",
@@ -476,6 +543,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich arbeite mit visuellen Editor-Tools.",
       "english": "I work with visual editor tools.",
       "russian": "Я работаю с визуальными редакторами.",
@@ -483,6 +551,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich entwickle benutzerdefinierte Module.",
       "english": "I develop custom modules.",
       "russian": "Я разрабатываю пользовательские модули.",
@@ -490,6 +559,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich arbeite mit Continuous Integration.",
       "english": "I work with continuous integration.",
       "russian": "Я работаю с непрерывной интеграцией.",
@@ -497,6 +567,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich optimiere CSS für Performance.",
       "english": "I optimize CSS for performance.",
       "russian": "Я оптимизирую CSS для производительности.",
@@ -504,6 +575,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich entwickle mit TypeScript.",
       "english": "I develop with TypeScript.",
       "russian": "Я разрабатываю с TypeScript.",
@@ -511,6 +583,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich nutze HTML5 für die Strukturierung von Webseiten.",
       "english": "I use HTML5 for structuring websites.",
       "russian": "Я использую HTML5 для структурирования веб-сайтов.",
@@ -518,6 +591,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich gestalte benutzerfreundliche Navigationsmenüs.",
       "english": "I design user-friendly navigation menus.",
       "russian": "Я разрабатываю удобные навигационные меню.",
@@ -525,6 +599,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich arbeite mit responsivem Webdesign.",
       "english": "I work with responsive web design.",
       "russian": "Я работаю с адаптивным веб-дизайном.",
@@ -532,6 +607,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich erstelle Formulare mit Validierung.",
       "english": "I create forms with validation.",
       "russian": "Я создаю формы с валидацией.",
@@ -539,6 +615,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich nutze Flexbox für Layouts.",
       "english": "I use Flexbox for layouts.",
       "russian": "Я использую Flexbox для макетов.",
@@ -546,6 +623,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich arbeite mit Web-APIs.",
       "english": "I work with web APIs.",
       "russian": "Я работаю с веб-API.",
@@ -553,6 +631,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich verbessere die Suchmaschinenoptimierung (SEO).",
       "english": "I improve search engine optimization (SEO).",
       "russian": "Я улучшаю поисковую оптимизацию (SEO).",
@@ -560,6 +639,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich erstelle Landing Pages.",
       "english": "I create landing pages.",
       "russian": "Я создаю целевые страницы.",
@@ -567,6 +647,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich entwickle Single-Page-Anwendungen (SPA).",
       "english": "I develop single-page applications (SPA).",
       "russian": "Я разрабатываю одностраничные приложения (SPA).",
@@ -574,6 +655,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich arbeite mit CSS Grid für Layouts.",
       "english": "I work with CSS Grid for layouts.",
       "russian": "Я работаю с CSS Grid для макетов.",
@@ -581,6 +663,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich passe die Webseiten für Barrierefreiheit an.",
       "english": "I adapt websites for accessibility.",
       "russian": "Я адаптирую веб-сайты для доступности.",
@@ -588,6 +671,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich nutze Sass für erweiterbares CSS.",
       "english": "I use Sass for scalable CSS.",
       "russian": "Я использую Sass для масштабируемого CSS.",
@@ -595,6 +679,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich arbeite mit WebSockets für Echtzeit-Kommunikation.",
       "english": "I work with WebSockets for real-time communication.",
       "russian": "Я работаю с WebSockets для связи в реальном времени.",
@@ -602,6 +687,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich erstelle benutzerdefinierte CSS-Animationen.",
       "english": "I create custom CSS animations.",
       "russian": "Я создаю пользовательские анимации CSS.",
@@ -609,6 +695,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich verwende Bootstrap für schnelle Entwicklung.",
       "english": "I use Bootstrap for rapid development.",
       "russian": "Я использую Bootstrap для быстрой разработки.",
@@ -616,6 +703,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich entwickle dynamische Inhalte mit JavaScript.",
       "english": "I develop dynamic content with JavaScript.",
       "russian": "Я разрабатываю динамическое содержание с помощью JavaScript.",
@@ -623,6 +711,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich benutze AJAX für asynchrone Datenanfragen.",
       "english": "I use AJAX for asynchronous data requests.",
       "russian": "Я использую AJAX для асинхронных запросов данных.",
@@ -630,6 +719,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich erstelle benutzerdefinierte Widgets mit jQuery.",
       "english": "I create custom widgets with jQuery.",
       "russian": "Я создаю пользовательские виджеты с jQuery.",
@@ -637,6 +727,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich arbeite mit externen APIs.",
       "english": "I work with external APIs.",
       "russian": "Я работаю с внешними API.",
@@ -644,6 +735,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich optimiere Bilder für das Web.",
       "english": "I optimize images for the web.",
       "russian": "Я оптимизирую изображения для веб.",
@@ -651,6 +743,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich arbeite mit asynchronem JavaScript.",
       "english": "I work with asynchronous JavaScript.",
       "russian": "Я работаю с асинхронным JavaScript.",
@@ -658,6 +751,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich erstelle Webanwendungen mit Vue.js.",
       "english": "I create web applications with Vue.js.",
       "russian": "Я создаю веб-приложения с Vue.js.",
@@ -665,6 +759,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich verwende Tailwind CSS für Design.",
       "english": "I use Tailwind CSS for design.",
       "russian": "Я использую Tailwind CSS для дизайна.",
@@ -672,6 +767,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich entwickle interaktive Dashboards.",
       "english": "I develop interactive dashboards.",
       "russian": "Я разрабатываю интерактивные панели управления.",
@@ -679,6 +775,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich arbeite mit JSON-Datenformaten.",
       "english": "I work with JSON data formats.",
       "russian": "Я работаю с форматами данных JSON.",
@@ -686,6 +783,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich implementiere RESTful-Services.",
       "english": "I implement RESTful services.",
       "russian": "Я внедряю RESTful сервисы.",
@@ -693,6 +791,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich entwickle Progressive Web Apps (PWA).",
       "english": "I develop progressive web apps (PWA).",
       "russian": "Я разрабатываю прогрессивные веб-приложения (PWA).",
@@ -700,6 +799,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich arbeite mit Git für Versionskontrolle.",
       "english": "I work with Git for version control.",
       "russian": "Я работаю с Git для контроля версий.",
@@ -707,6 +807,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich erstelle benutzerdefinierte Plugins.",
       "english": "I create custom plugins.",
       "russian": "Я создаю пользовательские плагины.",
@@ -714,6 +815,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich arbeite mit WebGL für 3D-Grafiken.",
       "english": "I work with WebGL for 3D graphics.",
       "russian": "Я работаю с WebGL для 3D-графики.",
@@ -721,6 +823,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich passe Webseiten für mobile Geräte an.",
       "english": "I adapt websites for mobile devices.",
       "russian": "Я адаптирую веб-сайты для мобильных устройств.",
@@ -728,6 +831,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich optimiere die Ladezeiten von Webseiten.",
       "english": "I optimize website loading times.",
       "russian": "Я оптимизирую время загрузки веб-сайтов.",
@@ -735,6 +839,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich entwickle benutzerdefinierte Web-Komponenten.",
       "english": "I develop custom web components.",
       "russian": "Я разрабатываю пользовательские веб-компоненты.",
@@ -742,6 +847,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich arbeite mit serverseitigem Rendering.",
       "english": "I work with server-side rendering.",
       "russian": "Я работаю с серверной отрисовкой.",
@@ -749,6 +855,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich verwende Webpack für Modul-Bundling.",
       "english": "I use Webpack for module bundling.",
       "russian": "Я использую Webpack для объединения модулей.",
@@ -756,6 +863,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich erstelle responsive Layouts mit CSS Grid.",
       "english": "I create responsive layouts with CSS Grid.",
       "russian": "Я создаю адаптивные макеты с CSS Grid.",
@@ -763,6 +871,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich optimiere die Benutzerinteraktion.",
       "english": "I optimize user interaction.",
       "russian": "Я оптимизирую взаимодействие с пользователем.",
@@ -770,6 +879,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich arbeite mit APIs für soziale Medien.",
       "english": "I work with social media APIs.",
       "russian": "Я работаю с API социальных сетей.",
@@ -777,6 +887,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich entwickle mit React.js.",
       "english": "I develop with React.js.",
       "russian": "Я разрабатываю с React.js.",
@@ -784,6 +895,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich passe CSS für verschiedene Browser an.",
       "english": "I adapt CSS for different browsers.",
       "russian": "Я адаптирую CSS для разных браузеров.",
@@ -791,6 +903,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich erstelle benutzerdefinierte Themes für WordPress.",
       "english": "I create custom themes for WordPress.",
       "russian": "Я создаю пользовательские темы для WordPress.",
@@ -798,6 +911,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich arbeite mit Vuex für Zustandsverwaltung.",
       "english": "I work with Vuex for state management.",
       "russian": "Я работаю с Vuex для управления состоянием.",
@@ -805,6 +919,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich optimiere die Leistung von JavaScript.",
       "english": "I optimize JavaScript performance.",
       "russian": "Я оптимизирую производительность JavaScript.",
@@ -812,6 +927,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich entwickle mit Node.js für serverseitige Logik.",
       "english": "I develop with Node.js for server-side logic.",
       "russian": "Я разрабатываю с Node.js для серверной логики.",
@@ -819,6 +935,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich nutze ESLint für die Code-Qualität.",
       "english": "I use ESLint for code quality.",
       "russian": "Я использую ESLint для качества кода.",

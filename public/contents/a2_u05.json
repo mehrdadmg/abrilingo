@@ -7,6 +7,7 @@
   "content": [
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Können Sie mir sagen, wann der Chef kommt?",
       "english": "Can you tell me when the boss is coming?",
       "russian": "Можете сказать мне, когда придет начальник?",
@@ -14,6 +15,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich glaube, um zehn.",
       "english": "I think at ten.",
       "russian": "Я думаю, в десять.",
@@ -21,6 +23,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Okay, danke.",
       "english": "Okay, thank you.",
       "russian": "Хорошо, спасибо.",
@@ -28,6 +31,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Können Sie mir sagen, wie der neue Kollege heiẞt?",
       "english": "Can you tell me the name of the new colleague?",
       "russian": "Можете сказать мне, как зовут нового коллегу?",
@@ -35,6 +39,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sein Name ist Friesinger.",
       "english": "His name is Friesinger.",
       "russian": "Его зовут Фризингер.",
@@ -42,6 +47,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Danke.",
       "english": "Thank you.",
       "russian": "Спасибо.",
@@ -49,6 +55,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Können Sie mir erklären, was das bedeutet?",
       "english": "Can you explain to me what that means?",
       "russian": "Можете объяснить мне, что это значит?",
@@ -56,6 +63,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Tut mir leid. Das verstehe ich auch nicht.",
       "english": "Sorry. I don't understand that either.",
       "russian": "Извините. Я тоже это не понимаю.",
@@ -63,6 +71,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Können Sie mir sagen, wo mein USB-Stick ist?",
       "english": "Can you tell me where my USB stick is?",
       "russian": "Можете сказать мне, где мой USB-накопитель?",
@@ -70,6 +79,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, hier in meinem Computer.",
       "english": "Yes, here in my computer.",
       "russian": "Да, здесь, в моем компьютере.",
@@ -77,6 +87,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Danke.",
       "english": "Thank you.",
       "russian": "Спасибо.",
@@ -84,6 +95,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Entschuldigung, wissen Sie, wie spät es ist?",
       "english": "Excuse me, do you know what time it is?",
       "russian": "Извините, вы знаете, который час?",
@@ -91,6 +103,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Entschuldigung, wissen Sie, wie spät es ist?",
       "english": "Excuse me, do you know what time it is?",
       "russian": "Извините, вы знаете, который час?",
@@ -98,6 +111,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Können Sie mir sagen, wo der Schlüssel ist?",
       "english": "Can you tell me where the key is?",
       "russian": "Можете сказать мне, где ключ?",
@@ -105,6 +119,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Können Sie mir sagen, wo der Schlüssel ist?",
       "english": "Can you tell me where the key is?",
       "russian": "Можете сказать мне, где ключ?",
@@ -112,6 +127,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Herr Harris, ich glaube, der neue Kopierer ist kaputt.",
       "english": "Mr. Harris, I think the new copier is broken.",
       "russian": "Господин Харрис, я думаю, что новый копировальный аппарат сломан.",
@@ -119,6 +135,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Aber nein! Er funktioniert sehr gut.",
       "english": "But no! It works very well.",
       "russian": "Но нет! Он работает очень хорошо.",
@@ -126,6 +143,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Aber ich kann keine Kopien machen!",
       "english": "But I can't make any copies!",
       "russian": "Но я не могу сделать копии!",
@@ -133,6 +151,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der alte Kopierer war besser.",
       "english": "The old copier was better.",
       "russian": "Старый копировальный аппарат был лучше.",
@@ -140,6 +159,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Dieser Kopierer ist so kompliziert.",
       "english": "This copier is so complicated.",
       "russian": "Этот копировальный аппарат такой сложный.",
@@ -147,6 +167,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Können Sie mir sagen, wo man ihn startet?",
       "english": "Can you tell me where to start it?",
       "russian": "Можете сказать мне, как его запустить?",
@@ -154,6 +175,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich erkläre Ihnen das gerne.",
       "english": "I will gladly explain it to you.",
       "russian": "Я с удовольствием вам объясню.",
@@ -161,6 +183,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Diese Taste ist die Start-Taste.",
       "english": "This button is the start button.",
       "russian": "Эта кнопка - кнопка запуска.",
@@ -168,6 +191,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ach so, ja, jetzt kommen Kopien.",
       "english": "Oh, yes, now copies are coming out.",
       "russian": "Ах вот, да, теперь идут копии.",
@@ -175,6 +199,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Aber so vieles ist anders.",
       "english": "But so many things are different.",
       "russian": "Но так много всего изменилось.",
@@ -182,6 +207,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Aber es ist nicht so schwer.",
       "english": "But it's not that hard.",
       "russian": "Но это не так сложно.",
@@ -189,6 +215,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich erkläre es Ihnen gerne.",
       "english": "I will gladly explain it to you.",
       "russian": "Я с удовольствием вам объясню.",
@@ -196,6 +223,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Kopierer hat drei Fächer für Papier.",
       "english": "The copier has three trays for paper.",
       "russian": "У копировального аппарата три лотка для бумаги.",
@@ -203,6 +231,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Diese Fächer sind für A4-Papier und dieses Fach ist für A3-Papier.",
       "english": "These trays are for A4 paper and this tray is for A3 paper.",
       "russian": "Эти лотки для бумаги формата А4, а этот лоток для бумаги формата А3.",
@@ -210,6 +239,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Okay, ich verstehe.",
       "english": "Okay, I understand.",
       "russian": "Хорошо, я понял.",
@@ -217,6 +247,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Aber dieser Kopierer hat noch so viele andere Tasten.",
       "english": "But this copier has so many other buttons.",
       "russian": "Но у этого копировального аппарата так много других кнопок.",
@@ -224,6 +255,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, das stimmt. Wenn Sie noch Fragen haben, kommen Sie gerne zu mir.",
       "english": "Yes, that's right. If you have any other questions, feel free to come to me.",
       "russian": "Да, это правда. Если у вас есть еще вопросы, приходите ко мне.",
@@ -231,6 +263,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Vielen Dank, Herr Harris.",
       "english": "Thank you very much, Mr. Harris.",
       "russian": "Большое спасибо, господин Харрис.",
@@ -238,6 +271,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Keine Ursache.",
       "english": "No problem.",
       "russian": "Не за что.",
@@ -245,6 +279,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Spedition Mehring, Nicole Olsen am Apparat.",
       "english": "Mehring Logistics, Nicole Olsen speaking.",
       "russian": "Логистика Меринга, у телефона Николь Олсен.",
@@ -252,6 +287,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Guten Morgen, Frau Olsen.",
       "english": "Good morning, Ms. Olsen.",
       "russian": "Доброе утро, мисс Олсен.",
@@ -259,6 +295,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Hier spricht Peter Frei.",
       "english": "This is Peter Frei speaking.",
       "russian": "Говорит Петер Фрай.",
@@ -266,6 +303,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich bin krank und kann heute nicht kommen.",
       "english": "I am sick and cannot come today.",
       "russian": "Я болен и не могу прийти сегодня.",
@@ -273,6 +311,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ach, das tut mir leid. Gute Besserung, Herr Frei.",
       "english": "Oh, I'm sorry to hear that. Get well soon, Mr. Frei.",
       "russian": "О, мне жаль это слышать. Выздоравливайте, господин Фрай.",
@@ -280,6 +319,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Gehen Sie heute noch zum Arzt?",
       "english": "Are you going to the doctor today?",
       "russian": "Вы собираетесь сегодня к врачу?",
@@ -287,6 +327,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, heute Nachmittag. Ich schicke dann eine Krankmeldung.",
       "english": "Yes, this afternoon. I will send a sick note.",
       "russian": "Да, сегодня днем. Я отправлю справку о болезни.",
@@ -294,6 +335,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Frau Siegmann, haben Sie das Regal schon eingeräumt?",
       "english": "Ms. Siegmann, have you already stocked the shelf?",
       "russian": "Мисс Зигман, вы уже заполнили полку?",
@@ -301,6 +343,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Nein, noch nicht.",
       "english": "No, not yet.",
       "russian": "Нет, еще нет.",
@@ -308,6 +351,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich war bis jetzt an Kasse 2, weil noch viele Kunden da waren.",
       "english": "I have been at register 2 until now because there were still many customers.",
       "russian": "Я был на кассе 2 до сих пор, потому что было еще много клиентов.",
@@ -315,6 +359,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Entschuldigung, ist hier noch frei?",
       "english": "Excuse me, is this seat still free?",
       "russian": "Извините, это место еще свободно?",
@@ -322,6 +367,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Natürlich. Nehmen Sie Platz. ... Sie sind neu hier in der Firma, richtig?",
       "english": "Of course. Have a seat. ... You are new here at the company, right?",
       "russian": "Конечно. Садитесь. ... Вы новенький в компании, правильно?",
@@ -329,6 +375,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, ich arbeite seit drei Tagen hier.",
       "english": "Yes, I have been working here for three days.",
       "russian": "Да, я работаю здесь уже три дня.",
@@ -336,6 +383,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Mein Name ist Lars Heitmeyer.",
       "english": "My name is Lars Heitmeyer.",
       "russian": "Меня зовут Ларс Хейтмайер.",
@@ -343,6 +391,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich heiße Martina Obermann.",
       "english": "My name is Martina Obermann.",
       "russian": "Меня зовут Мартина Оберманн.",
@@ -350,6 +399,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Gefällt es Ihnen bei uns?",
       "english": "Do you like it here with us?",
       "russian": "Вам здесь нравится?",
@@ -357,6 +407,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, sehr gut. Die Kollegen sind nett und die Arbeit ist interessant.",
       "english": "Yes, very much. The colleagues are nice and the work is interesting.",
       "russian": "Да, очень. Коллеги хорошие, а работа интересная.",
@@ -364,6 +415,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "In welcher Abteilung arbeiten Sie?",
       "english": "In which department do you work?",
       "russian": "В каком отделе вы работаете?",
@@ -371,6 +423,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "In der Buchhaltung. Und Sie?",
       "english": "In accounting. And you?",
       "russian": "В бухгалтерии. А вы?",
@@ -378,6 +431,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "In der Technik, ich mache technischen Service.",
       "english": "In the technical department, I do technical service.",
       "russian": "В техническом отделе, я занимаюсь техническим обслуживанием.",
@@ -385,6 +439,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Könnten Sie mir bitte helfen?",
       "english": "Could you please help me?",
       "russian": "Не могли бы вы мне помочь?",
@@ -392,6 +447,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Könnten Sie mir bitte einen Schlüssel geben?",
       "english": "Could you please give me a key?",
       "russian": "Не могли бы вы дать мне ключ?",
@@ -399,6 +455,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Könnten Sie mir bitte die Nachricht zeigen?",
       "english": "Could you please show me the message?",
       "russian": "Не могли бы вы показать мне сообщение?",
@@ -406,6 +463,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wissen Sie, wo der Hausmeister ist?",
       "english": "Do you know where the janitor is?",
       "russian": "Вы знаете, где находится уборщик?",
@@ -413,6 +471,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Können Sie mir sagen, wann der Chef kommt?",
       "english": "Can you tell me when the boss is coming?",
       "russian": "Можете сказать мне, когда придет начальник?",
@@ -420,6 +479,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wissen Sie, wie der Kopierer funktioniert?",
       "english": "Do you know how the copier works?",
       "russian": "Вы знаете, как работает копировальный аппарат?",
@@ -427,6 +487,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wissen Sie, was es heute in der Kantine gibt?",
       "english": "Do you know what is in the canteen today?",
       "russian": "Вы знаете, что сегодня есть в столовой?",

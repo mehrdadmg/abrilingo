@@ -1,0 +1,351 @@
+{
+  "info": {
+    "name": "Adresse",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "sentence": "Wo ist...?",
+      "english": "Where is...?",
+      "russian": "Где находится...?",
+      "farsi": "کجاست...؟"
+    },
+    {
+      "sentence": "Wo ist der Bahnhof?",
+      "english": "Where is the train station?",
+      "russian": "Где находится вокзал?",
+      "farsi": "ایستگاه قطار کجاست؟"
+    },
+    {
+      "sentence": "Wie komme ich zu...?",
+      "english": "How do I get to...?",
+      "russian": "Как добраться до...?",
+      "farsi": "چطور به... برسم؟"
+    },
+    {
+      "sentence": "Wie komme ich zum Flughafen?",
+      "english": "How do I get to the airport?",
+      "russian": "Как добраться до аэропорта?",
+      "farsi": "چطور به فرودگاه برسم؟"
+    },
+    {
+      "sentence": "Könnten Sie mir den Weg zu... zeigen?",
+      "english": "Could you show me the way to...?",
+      "russian": "Можете показать дорогу до...?",
+      "farsi": "می‌توانید راه را به من نشان دهید؟"
+    },
+    {
+      "sentence": "Könnten Sie mir den Weg zum Krankenhaus zeigen?",
+      "english": "Could you show me the way to the hospital?",
+      "russian": "Можете показать дорогу до больницы?",
+      "farsi": "می‌توانید راه بیمارستان را به من نشان دهید؟"
+    },
+    {
+      "sentence": "Gibt es in der Nähe...?",
+      "english": "Is there... nearby?",
+      "russian": "Есть ли поблизости...?",
+      "farsi": "آیا این اطراف... هست؟"
+    },
+    {
+      "sentence": "Gibt es in der Nähe eine Bank?",
+      "english": "Is there a bank nearby?",
+      "russian": "Есть ли поблизости банк?",
+      "farsi": "آیا نزدیک اینجا بانک هست؟"
+    },
+    {
+      "sentence": "Entschuldigung, ich suche...",
+      "english": "Excuse me, I am looking for...",
+      "russian": "Извините, я ищу...",
+      "farsi": "ببخشید، من دنبال... می‌گردم."
+    },
+    {
+      "sentence": "Entschuldigung, ich suche ein Hotel.",
+      "english": "Excuse me, I am looking for a hotel.",
+      "russian": "Извините, я ищу отель.",
+      "farsi": "ببخشید، من دنبال یک هتل می‌گردم."
+    },
+    {
+      "sentence": "Gehen Sie geradeaus.",
+      "english": "Go straight ahead.",
+      "russian": "Идите прямо.",
+      "farsi": "مستقیم بروید."
+    },
+    {
+      "sentence": "Biegen Sie rechts/links ab.",
+      "english": "Turn right/left.",
+      "russian": "Поверните направо/налево.",
+      "farsi": "به راست/چپ بپیچید."
+    },
+    {
+      "sentence": "Es ist auf der rechten/linken Seite.",
+      "english": "It is on the right/left side.",
+      "russian": "Это на правой/левой стороне.",
+      "farsi": "آن سمت راست/چپ است."
+    },
+    {
+      "sentence": "Es ist in der Nähe von...",
+      "english": "It is near...",
+      "russian": "Это рядом с...",
+      "farsi": "این نزدیک... است."
+    },
+    {
+      "sentence": "Es ist in der Nähe vom Park.",
+      "english": "It is near the park.",
+      "russian": "Это рядом с парком.",
+      "farsi": "این نزدیک پارک است."
+    },
+    {
+      "sentence": "Nehmen Sie die erste/zweite Straße rechts/links.",
+      "english": "Take the first/second street on the right/left.",
+      "russian": "Возьмите первую/вторую улицу направо/налево.",
+      "farsi": "اولین/دومین خیابان را به راست/چپ بروید."
+    },
+    {
+      "sentence": "Sie müssen über die Brücke gehen.",
+      "english": "You have to go over the bridge.",
+      "russian": "Вам нужно перейти через мост.",
+      "farsi": "باید از پل رد شوید."
+    },
+    {
+      "sentence": "Es ist gegenüber von...",
+      "english": "It is opposite to...",
+      "russian": "Это напротив...",
+      "farsi": "مقابل... است."
+    },
+    {
+      "sentence": "Es ist gegenüber vom Supermarkt.",
+      "english": "It is opposite the supermarket.",
+      "russian": "Это напротив супермаркета.",
+      "farsi": "مقابل سوپرمارکت است."
+    },
+    {
+      "sentence": "Folgen Sie der Straße bis zum Ende.",
+      "english": "Follow the street to the end.",
+      "russian": "Идите по улице до конца.",
+      "farsi": "خیابان را تا انتها دنبال کنید."
+    },
+    {
+      "sentence": "Ist es weit von hier?",
+      "english": "Is it far from here?",
+      "russian": "Это далеко отсюда?",
+      "farsi": "آیا از اینجا دور است؟"
+    },
+    {
+      "sentence": "Wie lange dauert es zu Fuß?",
+      "english": "How long does it take on foot?",
+      "russian": "Сколько времени это займет пешком?",
+      "farsi": "پیاده چقدر طول می‌کشد؟"
+    },
+    {
+      "sentence": "Wie lange dauert es mit dem Auto/Bus?",
+      "english": "How long does it take by car/bus?",
+      "russian": "Сколько времени это займет на машине/автобусе?",
+      "farsi": "با ماشین/اتوبوس چقدر طول می‌کشد؟"
+    },
+    {
+      "sentence": "In welche Richtung muss ich gehen?",
+      "english": "In which direction should I go?",
+      "russian": "В каком направлении мне идти?",
+      "farsi": "به کدام جهت باید بروم؟"
+    },
+    {
+      "sentence": "Gehen Sie bis zur Kreuzung.",
+      "english": "Go until the intersection.",
+      "russian": "Идите до перекрестка.",
+      "farsi": "تا تقاطع بروید."
+    },
+    {
+      "sentence": "An der Ampel biegen Sie links/rechts ab.",
+      "english": "Turn left/right at the traffic light.",
+      "russian": "На светофоре поверните налево/направо.",
+      "farsi": "سر چراغ راهنما به چپ/راست بپیچید."
+    },
+    {
+      "sentence": "Sie gehen an der Kirche vorbei.",
+      "english": "You pass by the church.",
+      "russian": "Вы проходите мимо церкви.",
+      "farsi": "از کنار کلیسا عبور می‌کنید."
+    },
+    {
+      "sentence": "Gehen Sie durch den Park.",
+      "english": "Go through the park.",
+      "russian": "Идите через парк.",
+      "farsi": "از پارک عبور کنید."
+    },
+    {
+      "sentence": "Fahren Sie die Straße entlang.",
+      "english": "Drive along the street.",
+      "russian": "Езжайте вдоль улицы.",
+      "farsi": "در طول خیابان برانید."
+    },
+    {
+      "sentence": "Könnten Sie das bitte wiederholen?",
+      "english": "Could you repeat that, please?",
+      "russian": "Можете повторить это, пожалуйста?",
+      "farsi": "می‌توانید لطفاً آن را تکرار کنید؟"
+    },
+    {
+      "sentence": "Können Sie langsamer sprechen?",
+      "english": "Can you speak slower?",
+      "russian": "Можете говорить медленнее?",
+      "farsi": "می‌توانید آهسته‌تر صحبت کنید؟"
+    },
+    {
+      "sentence": "Ist das weit weg?",
+      "english": "Is it far away?",
+      "russian": "Это далеко?",
+      "farsi": "آیا آن دور است؟"
+    },
+    {
+      "sentence": "Haben Sie eine Karte?",
+      "english": "Do you have a map?",
+      "russian": "У вас есть карта?",
+      "farsi": "آیا نقشه دارید؟"
+    },
+    {
+      "sentence": "Kann ich mit der U-Bahn/mit dem Bus dorthin fahren?",
+      "english": "Can I take the subway/bus there?",
+      "russian": "Могу ли я доехать туда на метро/автобусе?",
+      "farsi": "آیا می‌توانم با مترو/اتوبوس آنجا بروم؟"
+    },
+    {
+      "sentence": "Gibt es eine Bushaltestelle in der Nähe?",
+      "english": "Is there a bus stop nearby?",
+      "russian": "Есть ли поблизости автобусная остановка?",
+      "farsi": "آیا نزدیک اینجا ایستگاه اتوبوس هست؟"
+    },
+    {
+      "sentence": "Es dauert etwa 10 Minuten zu Fuß.",
+      "english": "It takes about 10 minutes on foot.",
+      "russian": "Это займет около 10 минут пешком.",
+      "farsi": "پیاده حدود 10 دقیقه طول می‌کشد."
+    },
+    {
+      "sentence": "Mit dem Auto dauert es ungefähr 5 Minuten.",
+      "english": "It takes about 5 minutes by car.",
+      "russian": "На машине это займет примерно 5 минут.",
+      "farsi": "با ماشین حدود 5 دقیقه طول می‌کشد."
+    },
+    {
+      "sentence": "Welcher ist der schnellste Weg nach...?",
+      "english": "What is the fastest way to...?",
+      "russian": "Какой самый быстрый путь до...?",
+      "farsi": "سریع‌ترین راه به... چیست؟"
+    },
+    {
+      "sentence": "Gibt es eine Abkürzung?",
+      "english": "Is there a shortcut?",
+      "russian": "Есть ли короткий путь?",
+      "farsi": "آیا راه میانبر وجود دارد؟"
+    },
+    {
+      "sentence": "Wie heißt diese Straße?",
+      "english": "What is the name of this street?",
+      "russian": "Как называется эта улица?",
+      "farsi": "نام این خیابان چیست؟"
+    },
+    {
+      "sentence": "Könnten Sie mir die Adresse von... geben?",
+      "english": "Could you give me the address of...?",
+      "russian": "Можете дать мне адрес...?",
+      "farsi": "می‌توانید آدرس... را به من بدهید؟"
+    },
+    {
+      "sentence": "An welcher Straße liegt das?",
+      "english": "On which street is it located?",
+      "russian": "На какой улице это находится?",
+      "farsi": "در کدام خیابان واقع شده است؟"
+    },
+    {
+      "sentence": "Können Sie mir das auf der Karte zeigen?",
+      "english": "Can you show me that on the map?",
+      "russian": "Можете показать это на карте?",
+      "farsi": "می‌توانید آن را روی نقشه به من نشان دهید؟"
+    },
+    {
+      "sentence": "Haben Sie Google Maps?",
+      "english": "Do you have Google Maps?",
+      "russian": "У вас есть Google Maps?",
+      "farsi": "آیا Google Maps دارید؟"
+    },
+    {
+      "sentence": "Soll ich GPS benutzen?",
+      "english": "Should I use GPS?",
+      "russian": "Мне использовать GPS?",
+      "farsi": "باید از GPS استفاده کنم؟"
+    },
+    {
+      "sentence": "Es ist ein großes Gebäude mit einem blauen Dach.",
+      "english": "It is a large building with a blue roof.",
+      "russian": "Это большое здание с синей крышей.",
+      "farsi": "این یک ساختمان بزرگ با سقف آبی است."
+    },
+    {
+      "sentence": "Das Gebäude ist direkt neben dem Supermarkt.",
+      "english": "The building is right next to the supermarket.",
+      "russian": "Здание прямо рядом с супермаркетом.",
+      "farsi": "این ساختمان دقیقاً کنار سوپرمارکت است."
+    },
+    {
+      "sentence": "Es ist leicht zu finden, es hat viele Fenster.",
+      "english": "It is easy to find, it has many windows.",
+      "russian": "Это легко найти, там много окон.",
+      "farsi": "پیدا کردن آن آسان است، تعداد زیادی پنجره دارد."
+    },
+    {
+      "sentence": "Können Sie mir helfen, den richtigen Bus zu finden?",
+      "english": "Can you help me find the right bus?",
+      "russian": "Можете помочь мне найти нужный автобус?",
+      "farsi": "می‌توانید به من کمک کنید اتوبوس درست را پیدا کنم؟"
+    },
+    {
+      "sentence": "Wo ist der Informationsschalter?",
+      "english": "Where is the information desk?",
+      "russian": "Где находится информационная стойка?",
+      "farsi": "گیشه اطلاعات کجاست؟"
+    },
+    {
+      "sentence": "Nehmen Sie die U-Bahn Linie 5 bis zur Station Hauptbahnhof.",
+      "english": "Take subway line 5 to the main station.",
+      "russian": "Сядьте на линию метро 5 до центрального вокзала.",
+      "farsi": "خط مترو ۵ را به ایستگاه اصلی بروید."
+    },
+    {
+      "sentence": "Steigen Sie an der dritten Haltestelle aus.",
+      "english": "Get off at the third stop.",
+      "russian": "Выйдите на третьей остановке.",
+      "farsi": "در ایستگاه سوم پیاده شوید."
+    },
+    {
+      "sentence": "Wechseln Sie den Bus an der nächsten Haltestelle.",
+      "english": "Change the bus at the next stop.",
+      "russian": "Пересаживайтесь на автобус на следующей остановке.",
+      "farsi": "در ایستگاه بعدی اتوبوس را عوض کنید."
+    },
+    {
+      "sentence": "Ich habe mich verlaufen. Können Sie mir helfen?",
+      "english": "I am lost. Can you help me?",
+      "russian": "Я заблудился. Можете мне помочь?",
+      "farsi": "گم شده‌ام. می‌توانید کمکم کنید؟"
+    },
+    {
+      "sentence": "Ich kann den Weg nicht finden.",
+      "english": "I can't find the way.",
+      "russian": "Я не могу найти дорогу.",
+      "farsi": "نمی‌توانم راه را پیدا کنم."
+    },
+    {
+      "sentence": "Gibt es ein Café in der Nähe?",
+      "english": "Is there a café nearby?",
+      "russian": "Есть ли поблизости кафе?",
+      "farsi": "آیا نزدیک اینجا کافه هست؟"
+    },
+    {
+      "sentence": "Wo ist der nächste Geldautomat?",
+      "english": "Where is the nearest ATM?",
+      "russian": "Где находится ближайший банкомат?",
+      "farsi": "نزدیک‌ترین دستگاه خودپرداز کجاست؟"
+    }
+  ]
+}

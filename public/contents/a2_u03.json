@@ -7,6 +7,7 @@
   "content": [
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Haben Sie gewählt?",
       "english": "Have you chosen?",
       "russian": "Вы выбрали?",
@@ -14,6 +15,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, ich nehme erst die Kartoffelsuppe und dann Hähnchen mit Reis und Gemüse.",
       "english": "Yes, I'll start with the potato soup and then have the chicken with rice and vegetables.",
       "russian": "Да, я сначала возьму картофельный суп, а потом курицу с рисом и овощами.",
@@ -21,6 +23,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Und für mich die Spaghetti mit Basilikum-Pesto und Tomaten, bitte.",
       "english": "And for me, the spaghetti with basil pesto and tomatoes, please.",
       "russian": "А для меня спагетти с соусом песто из базилика и помидорами, пожалуйста.",
@@ -28,6 +31,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Was möchten Sie trinken?",
       "english": "What would you like to drink?",
       "russian": "Что вы хотели бы выпить?",
@@ -35,6 +39,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich nehme einen Weißwein.",
       "english": "I'll have a white wine.",
       "russian": "Я возьму белое вино.",
@@ -42,6 +47,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Und ich nehme einen Apfelsaft.",
       "english": "And I'll have an apple juice.",
       "russian": "А я возьму яблочный сок.",
@@ -49,6 +55,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Restaurant am Park, guten Abend.",
       "english": "Restaurant by the park, good evening.",
       "russian": "Ресторан у парка, добрый вечер.",
@@ -56,6 +63,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Guten Abend, ich möchte gern für Samstagabend einen Tisch reservieren. Haben Sie da noch etwas frei?",
       "english": "Good evening, I would like to reserve a table for Saturday evening. Do you have anything available?",
       "russian": "Добрый вечер, я бы хотел забронировать столик на субботний вечер. У вас есть что-то свободное?",
@@ -63,6 +71,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Um wie viel Uhr möchten Sie kommen?",
       "english": "At what time would you like to come?",
       "russian": "В котором часу вы хотели бы прийти?",
@@ -70,6 +79,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Gegen 19 Uhr.",
       "english": "Around 7 PM.",
       "russian": "Около 19:00.",
@@ -77,6 +87,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Und wie viele Personen sind Sie?",
       "english": "And how many people are you?",
       "russian": "И сколько вас человек?",
@@ -84,6 +95,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Zwei Personen. Und wir hätten gerne einen Tisch auf der Terrasse.",
       "english": "Two people. And we would like a table on the terrace.",
       "russian": "Два человека. И мы хотели бы столик на террасе.",
@@ -91,6 +103,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Oh, das tut mir leid. Da sind alle Tische reserviert... Warten Sie, um 21 Uhr kann ich Ihnen einen Tisch auf der Terrasse reservieren. Passt Ihnen das?",
       "english": "Oh, I'm sorry. All the tables are reserved... Wait, I can reserve a table on the terrace for you at 9 PM. Does that work for you?",
       "russian": "О, мне жаль. Все столики зарезервированы... Подождите, я могу зарезервировать для вас столик на террасе на 21:00. Вам подходит?",
@@ -98,6 +111,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, das geht.",
       "english": "Yes, that works.",
       "russian": "Да, это подходит.",
@@ -105,6 +119,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sehr gut. Wie ist Ihr Name? Gros. Wie schreibt man das? Mit 's' oder mit „ß“?",
       "english": "Very good. What is your name? Gros. How do you spell that? With 's' or 'ß'?",
       "russian": "Очень хорошо. Как ваше имя? Грос. Как это пишется? С 's' или с 'ß'?",
@@ -112,6 +127,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Mit einem '„'s'.",
       "english": "With an 's'.",
       "russian": "С 's'.",
@@ -119,6 +135,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Vielen Dank, Frau Gros. Bis Samstagabend. Auf Wiederhören.",
       "english": "Thank you, Ms. Gros. See you Saturday evening. Goodbye.",
       "russian": "Спасибо, госпожа Грос. До субботнего вечера. До свидания.",
@@ -126,6 +143,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir möchten bezahlen.",
       "english": "We would like to pay.",
       "russian": "Мы хотели бы оплатить.",
@@ -133,6 +151,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Einen Moment, ich komme sofort ... Zahlen Sie getrennt oder zusammen?",
       "english": "One moment, I'll be right there... Are you paying separately or together?",
       "russian": "Минуточку, я сейчас подойду... Вы платите отдельно или вместе?",
@@ -140,6 +159,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Zusammen, bitte.",
       "english": "Together, please.",
       "russian": "Вместе, пожалуйста.",
@@ -147,6 +167,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das war ein Apfelsaft, ein Glas Weißwein, eine Kartoffelsuppe, das Hähnchen mit Reis und Gemüse sowie die Spaghetti mit Basilikum-Pesto und Tomate ... Das macht zusammen 31,10.",
       "english": "That was an apple juice, a glass of white wine, a potato soup, the chicken with rice and vegetables, and the spaghetti with basil pesto and tomatoes... That makes a total of 31.10.",
       "russian": "Это был яблочный сок, бокал белого вина, картофельный суп, курица с рисом и овощами, а также спагетти с песто из базилика и помидорами... Всего 31,10.",
@@ -154,6 +175,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Hier, bitte, 35 Euro. Das stimmt so. Vielen Dank.",
       "english": "Here you go, 35 euros. Keep the change. Thank you.",
       "russian": "Вот, пожалуйста, 35 евро. Сдачи не нужно. Спасибо.",
@@ -161,6 +183,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Essen im Restaurant.",
       "english": "Eating in the restaurant.",
       "russian": "Еда в ресторане.",
@@ -168,6 +191,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Guten Tag, die Speisekarte, bitte.",
       "english": "Good day, the menu please.",
       "russian": "Добрый день, меню, пожалуйста.",
@@ -175,6 +199,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich hätte gern ein Steak.",
       "english": "I would like a steak.",
       "russian": "Я бы хотел стейк.",
@@ -182,6 +207,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich nehme auch noch einen Salat.",
       "english": "I'll also have a salad.",
       "russian": "Я также возьму салат.",
@@ -189,6 +215,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich trinke ein Mineralwasser.",
       "english": "I'll drink a mineral water.",
       "russian": "Я буду пить минеральную воду.",
@@ -196,6 +223,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir möchten zahlen.",
       "english": "We would like to pay.",
       "russian": "Мы хотели бы оплатить.",
@@ -203,6 +231,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Was macht das zusammen?",
       "english": "What is the total?",
       "russian": "Сколько это будет стоить вместе?",
@@ -210,6 +239,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "20 Euro, das stimmt so.",
       "english": "20 euros, keep the change.",
       "russian": "20 евро, сдачи не нужно.",

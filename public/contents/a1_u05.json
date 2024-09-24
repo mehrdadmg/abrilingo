@@ -7,6 +7,7 @@
   "content": [
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wie spät ist es?",
       "english": "What time is it?",
       "russian": "Который час?",
@@ -14,6 +15,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Es ist halb sechs. Ach nein, es ist halb sieben.",
       "english": "It is half past five. Oh no, it is half past six.",
       "russian": "Сейчас половина шестого. Ой, нет, уже половина седьмого.",
@@ -21,6 +23,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ach, schon so spät.",
       "english": "Oh, it's already so late.",
       "russian": "Ой, уже так поздно.",
@@ -28,6 +31,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Mach schnell! Es ist schon zwanzig nach sieben!",
       "english": "Hurry up! It is already twenty past seven!",
       "russian": "Поторопись! Уже двадцать минут восьмого!",
@@ -35,6 +39,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Bus fährt in zehn Minuten.",
       "english": "The bus leaves in ten minutes.",
       "russian": "Автобус отправляется через десять минут.",
@@ -42,6 +47,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Nein, es ist erst Viertel nach sieben.",
       "english": "No, it is only a quarter past seven.",
       "russian": "Нет, сейчас только четверть восьмого.",
@@ -49,6 +55,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir haben noch Zeit.",
       "english": "We still have time.",
       "russian": "У нас еще есть время.",
@@ -56,6 +63,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ach so, dann ist gut.",
       "english": "Oh, then it's good.",
       "russian": "Ах так, тогда хорошо.",
@@ -63,6 +71,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wann kommst du?",
       "english": "When are you coming?",
       "russian": "Когда ты придешь?",
@@ -70,6 +79,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich bin um vier Uhr da.",
       "english": "I will be there at four o'clock.",
       "russian": "Я буду там в четыре часа.",
@@ -77,6 +87,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Also in zwei Stunden?",
       "english": "So in two hours?",
       "russian": "Значит, через два часа?",
@@ -84,6 +95,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Nein, in zweieinhalb Stunden. Es ist jetzt halb zwei.",
       "english": "No, in two and a half hours. It is now half past one.",
       "russian": "Нет, через два с половиной часа. Сейчас половина второго.",
@@ -91,6 +103,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Jetzt ist es zwanzig vor drei. Peter kommt um drei Uhr.",
       "english": "It is now twenty to three. Peter is coming at three o'clock.",
       "russian": "Сейчас без двадцати три. Питер придет в три часа.",
@@ -98,6 +111,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Vielleicht kommt er auch später. Er ist selten pünktlich.",
       "english": "Maybe he will come later. He is rarely punctual.",
       "russian": "Может быть, он придет позже. Он редко бывает пунктуален.",
@@ -105,6 +119,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Guten Tag. Wir begrüßen alle Passagiere, gebucht auf Flug Nr. LH 113 um 13.50 Uhr nach Frankfurt. Wir beginnen jetzt mit dem Einstieg.",
       "english": "Good day. We welcome all passengers booked on flight number LH 113 at 13:50 to Frankfurt. We will now begin boarding.",
       "russian": "Добрый день. Мы приветствуем всех пассажиров, забронировавших билеты на рейс № LH 113 в 13:50 до Франкфурта. Мы начинаем посадку.",
@@ -112,6 +127,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Vorsicht an Gleis 3! Der ICE nach Hamburg-Altona, planmäßige Abfahrt 14 Uhr 19, fährt jetzt ein.",
       "english": "Attention at platform 3! The ICE to Hamburg-Altona, scheduled departure at 14:19, is now arriving.",
       "russian": "Внимание на платформе 3! Поезд ICE до Гамбург-Альтона, плановое отправление в 14:19, прибывает.",
@@ -119,6 +135,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Hast du die Parkscheibe?",
       "english": "Do you have the parking disc?",
       "russian": "У тебя есть парковочный диск?",
@@ -126,6 +143,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, hier. Wie viel Uhr ist es?",
       "english": "Yes, here. What time is it?",
       "russian": "Да, вот. Который час?",
@@ -133,6 +151,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wann fängt das Konzert an?",
       "english": "When does the concert start?",
       "russian": "Когда начинается концерт?",
@@ -140,6 +159,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir haben noch Zeit. Um 20 Uhr.",
       "english": "We still have time. At 8 PM.",
       "russian": "У нас еще есть время. В 20:00.",
@@ -147,6 +167,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Es ist 6 Uhr und hier ist Radio Brandenburg mit einem Verkehrshinweis für die Autofahrer.",
       "english": "It is 6 o'clock and this is Radio Brandenburg with a traffic update for drivers.",
       "russian": "Сейчас 6 часов, и это Радио Бранденбург с обновлением трафика для водителей.",
@@ -154,6 +175,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Arbeitest du diese Woche?",
       "english": "Are you working this week?",
       "russian": "Ты работаешь на этой неделе?",
@@ -161,6 +183,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Nein, Montag und Dienstag arbeite ich nicht, aber Montag habe ich um 16.00 Uhr Basketballtraining und dann repariere ich auch mein Fahrrad.",
       "english": "No, I don't work on Monday and Tuesday, but on Monday I have basketball training at 4 PM and then I will also repair my bike.",
       "russian": "Нет, в понедельник и вторник я не работаю, но в понедельник у меня тренировка по баскетболу в 16:00, а потом я также починю свой велосипед.",
@@ -168,6 +191,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das ist schon lange kaputt.",
       "english": "It has been broken for a long time.",
       "russian": "Это уже давно сломано.",
@@ -175,6 +199,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Am Dienstagabend kommen Freunde. Wir kochen zusammen.",
       "english": "Friends are coming on Tuesday evening. We will cook together.",
       "russian": "Во вторник вечером придут друзья. Мы будем готовить вместе.",
@@ -182,6 +207,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Arbeitest du von Mittwoch bis Freitag?",
       "english": "Do you work from Wednesday to Friday?",
       "russian": "Ты работаешь с среды по пятницу?",
@@ -189,6 +215,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, da arbeite ich, aber ich habe auch andere Pläne.",
       "english": "Yes, I work then, but I also have other plans.",
       "russian": "Да, я работаю тогда, но у меня также есть другие планы.",
@@ -196,6 +223,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich kaufe eine Fahrkarte nach Frankfurt, vielleicht am Mittwoch oder Donnerstag.",
       "english": "I am buying a ticket to Frankfurt, maybe on Wednesday or Thursday.",
       "russian": "Я покупаю билет до Франкфурта, возможно, в среду или четверг.",
@@ -203,6 +231,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "In Frankfurt besuche ich am Wochenende meine Schwester.",
       "english": "In Frankfurt, I will visit my sister on the weekend.",
       "russian": "Во Франкфурте я посещу свою сестру на выходных.",
@@ -210,6 +239,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Am Freitagabend packe ich dann den Koffer und danach lese ich noch etwas, aber ich gehe früh schlafen.",
       "english": "On Friday evening, I will pack the suitcase and then read a bit, but I will go to bed early.",
       "russian": "В пятницу вечером я упакую чемодан, потом немного почитаю, но рано лягу спать.",
@@ -217,6 +247,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Schade, dann hast du ja fast keine Zeit für ein Treffen.",
       "english": "Too bad, then you have almost no time for a meeting.",
       "russian": "Жаль, тогда у тебя почти нет времени на встречу.",
@@ -224,6 +255,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, aber sicher nächste Woche.",
       "english": "Yes, but surely next week.",
       "russian": "Да, но точно на следующей неделе.",
@@ -231,6 +263,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sandip Kumar, ja bitte?",
       "english": "Sandip Kumar, yes please?",
       "russian": "Сандип Кумар, да, пожалуйста?",
@@ -238,6 +271,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Hallo Sandip, hier ist Leonidas.",
       "english": "Hello Sandip, this is Leonidas.",
       "russian": "Привет, Сандип, это Леонид.",
@@ -245,6 +279,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Spielen wir zusammen Schach? Vielleicht am Dienstagnachmittag?",
       "english": "Shall we play chess together? Maybe on Tuesday afternoon?",
       "russian": "Сыграем в шахматы вместе? Может быть, во вторник днем?",
@@ -252,6 +287,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, gerne, aber nicht am Dienstag, da machen wir einen Ausflug nach Stuttgart.",
       "english": "Yes, gladly, but not on Tuesday, we are going on a trip to Stuttgart.",
       "russian": "Да, с удовольствием, но не во вторник, мы поедем в поездку в Штутгарт.",
@@ -259,6 +295,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Hast du am Mittwoch Zeit?",
       "english": "Do you have time on Wednesday?",
       "russian": "У тебя есть время в среду?",
@@ -266,6 +303,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, das geht. Um drei Uhr habe ich Zeit.",
       "english": "Yes, that works. I am free at three o'clock.",
       "russian": "Да, это подходит. В три часа я свободен.",
@@ -273,6 +311,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Geht es auch später? Am Mittwochnachmittag habe ich einen Zahnarzttermin.",
       "english": "Is later also okay? I have a dentist appointment on Wednesday afternoon.",
       "russian": "Можно позже? У меня встреча с зубным врачом в среду днем.",
@@ -280,6 +319,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Gut, dann komme ich um fünf. Ich bringe mein Schachspiel mit.",
       "english": "Okay, then I will come at five. I will bring my chess set.",
       "russian": "Хорошо, тогда я приду в пять. Я принесу свои шахматы.",
@@ -287,6 +327,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sehr gut. Dann bis Mittwoch.",
       "english": "Very good. See you on Wednesday.",
       "russian": "Очень хорошо. До встречи в среду.",
@@ -294,6 +335,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Bis Mittwoch. Tschüss!",
       "english": "See you on Wednesday. Bye!",
       "russian": "До среды. Пока!",
@@ -301,6 +343,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wie spät ist es?",
       "english": "What time is it?",
       "russian": "Который час?",
@@ -308,6 +351,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wie viel Uhr ist es?",
       "english": "What time is it?",
       "russian": "Который час?",
@@ -315,6 +359,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wann fängt der Kurs an?",
       "english": "When does the course start?",
       "russian": "Когда начинается курс?",
@@ -322,6 +367,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Bis wann geht der Kurs?",
       "english": "Until when does the course go?",
       "russian": "До какого времени идет курс?",
@@ -329,6 +375,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wann beginnt die Pause?",
       "english": "When does the break start?",
       "russian": "Когда начинается перерыв?",
@@ -336,6 +383,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wann hört der Kurs auf?",
       "english": "When does the course end?",
       "russian": "Когда заканчивается курс?",
@@ -343,6 +391,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Hast du heute Zeit?",
       "english": "Do you have time today?",
       "russian": "У тебя есть время сегодня?",
@@ -350,6 +399,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Spielen wir zusammen Schach?",
       "english": "Shall we play chess together?",
       "russian": "Сыграем в шахматы вместе?",
@@ -357,6 +407,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Kommst du mit?",
       "english": "Are you coming along?",
       "russian": "Ты пойдешь со мной?",
@@ -364,6 +415,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wann stehst du morgen auf?",
       "english": "When are you getting up tomorrow?",
       "russian": "Когда ты встаешь завтра?",
@@ -371,6 +423,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Um sechs Uhr.",
       "english": "At six o'clock.",
       "russian": "В шесть часов.",
@@ -378,6 +431,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Furchtbar!",
       "english": "Terrible!",
       "russian": "Ужасно!",
@@ -385,6 +439,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich gehe joggen. Kommst du mit?",
       "english": "I am going jogging. Are you coming along?",
       "russian": "Я иду на пробежку. Ты пойдешь со мной?",
@@ -392,6 +447,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wie bitte? Um sechs Uhr?!",
       "english": "What? At six o'clock?!",
       "russian": "Что? В шесть часов?!",
@@ -399,6 +455,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Dann ist draußen alles noch ganz ruhig.",
       "english": "Then it is still very quiet outside.",
       "russian": "Тогда на улице еще совсем тихо.",
@@ -406,6 +463,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Oh, wie schön! Aber nein. Nein danke.",
       "english": "Oh, how nice! But no. No, thank you.",
       "russian": "Ой, как здорово! Но нет. Нет, спасибо.",

@@ -7,6 +7,7 @@
   "content": [
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Herr Kim, wie ist Ihr Weg zur Arbeit?",
       "english": "Mr. Kim, how is your way to work?",
       "russian": "Мистер Ким, каков ваш путь на работу?",
@@ -14,6 +15,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Brauchen Sie viel Zeit?",
       "english": "Do you need a lot of time?",
       "russian": "Вам нужно много времени?",
@@ -21,6 +23,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Nein, mein Weg ist nicht so lang.",
       "english": "No, my way is not that long.",
       "russian": "Нет, мой путь не такой длинный.",
@@ -28,6 +31,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich wohne und arbeite in Berlin.",
       "english": "I live and work in Berlin.",
       "russian": "Я живу и работаю в Берлине.",
@@ -35,6 +39,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Mit dem Fahrrad und der S-Bahn brauche ich insgesamt nur 20 Minuten.",
       "english": "With the bike and the S-Bahn, I only need 20 minutes in total.",
       "russian": "С велосипедом и S-Bahn мне нужно всего 20 минут.",
@@ -42,6 +47,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Für den Weg zur Arbeit und von der Arbeit zurück nach Hause brauche ich jeden Tag also nur 40 Minuten.",
       "english": "So, for the way to work and back home, I only need 40 minutes every day.",
       "russian": "Таким образом, на путь до работы и обратно домой мне нужно всего 40 минут каждый день.",
@@ -49,6 +55,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Da haben Sie wirklich Glück.",
       "english": "You are really lucky.",
       "russian": "Вам действительно повезло.",
@@ -56,6 +63,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Herr Schmidt, wie lange brauchen Sie zur Arbeit?",
       "english": "Mr. Schmidt, how long do you need to get to work?",
       "russian": "Мистер Шмидт, сколько вам нужно времени, чтобы добраться до работы?",
@@ -63,6 +71,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wie ist Ihr Weg zur Arbeit?",
       "english": "How is your way to work?",
       "russian": "Каков ваш путь на работу?",
@@ -70,6 +79,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich wohne in Peine und arbeite bei der Post in Hannover.",
       "english": "I live in Peine and work at the post office in Hanover.",
       "russian": "Я живу в Пайне и работаю на почте в Ганновере.",
@@ -77,6 +87,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Mein Weg zur Arbeit ist also ziemlich weit, ich brauche ziemlich genau 55 Minuten.",
       "english": "So, my way to work is quite far, I need exactly 55 minutes.",
       "russian": "Мой путь до работы довольно далек, мне нужно ровно 55 минут.",
@@ -84,6 +95,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Fahren Sie mit dem Auto?",
       "english": "Do you drive a car?",
       "russian": "Вы ездите на машине?",
@@ -91,6 +103,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Nein, ich nehme immer den Zug.",
       "english": "No, I always take the train.",
       "russian": "Нет, я всегда беру поезд.",
@@ -98,6 +111,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Von zu Hause gehe ich fünf Minuten zu Fuß zum Bahnhof und in Hannover fahre ich dann noch einige Minuten mit der Straßenbahn vom Hauptbahnhof bis zu meinem Arbeitsplatz.",
       "english": "From home, I walk five minutes to the train station, and in Hanover, I then take the tram for a few more minutes from the main station to my workplace.",
       "russian": "От дома я иду пять минут пешком до вокзала, а в Ганновере я еду еще несколько минут на трамвае от главного вокзала до моего рабочего места.",
@@ -105,6 +119,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Mein Name ist Sander, ich bin Sekretärin und arbeite bei Jenoptik in Jena.",
       "english": "My name is Sander, I am a secretary and work at Jenoptik in Jena.",
       "russian": "Меня зовут Сандер, я секретарь и работаю в Jenoptik в Йене.",
@@ -112,6 +127,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Aber ich wohne in Naumburg.",
       "english": "But I live in Naumburg.",
       "russian": "Но я живу в Наумбурге.",
@@ -119,6 +135,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich brauche ungefähr 50 Minuten zur Arbeit.",
       "english": "I need about 50 minutes to get to work.",
       "russian": "Мне нужно около 50 минут, чтобы добраться до работы.",
@@ -126,6 +143,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich fahre erst mit dem Fahrrad zum Bahnhof und dann mit dem Zug.",
       "english": "I first ride my bike to the train station and then take the train.",
       "russian": "Сначала я еду на велосипеде до вокзала, а потом сажусь на поезд.",
@@ -133,6 +151,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Im Zug lese ich ein bisschen, manchmal schlafe ich auch noch ein bisschen.",
       "english": "On the train, I read a little, sometimes I also sleep a little.",
       "russian": "В поезде я немного читаю, иногда немного сплю.",
@@ -140,6 +159,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Mein Name ist Hoppe, Thomas Hoppe.",
       "english": "My name is Hoppe, Thomas Hoppe.",
       "russian": "Меня зовут Хоппе, Томас Хоппе.",
@@ -147,6 +167,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich wohne in Stuttgart.",
       "english": "I live in Stuttgart.",
       "russian": "Я живу в Штутгарте.",
@@ -154,6 +175,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich arbeite bei Bosch.",
       "english": "I work at Bosch.",
       "russian": "Я работаю в Bosch.",
@@ -161,6 +183,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich laufe erst zur Straßenbahn und fahre zehn Minuten.",
       "english": "I first walk to the tram and ride for ten minutes.",
       "russian": "Сначала я иду до трамвая и еду десять минут.",
@@ -168,6 +191,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Dann muss ich umsteigen und noch 15 Minuten mit der S-Bahn fahren.",
       "english": "Then I have to transfer and ride the S-Bahn for another 15 minutes.",
       "russian": "Потом мне нужно пересесть и ехать еще 15 минут на S-Bahn.",
@@ -175,6 +199,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich brauche eine halbe Stunde zur Arbeit.",
       "english": "I need half an hour to get to work.",
       "russian": "Мне нужно полчаса, чтобы добраться до работы.",
@@ -182,6 +207,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Entschuldigung, wie komme ich zum Theaterplatz?",
       "english": "Excuse me, how do I get to Theaterplatz?",
       "russian": "Извините, как я могу добраться до Театерплац?",
@@ -189,6 +215,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das ist weit. Sie müssen die U-Bahn nehmen. Hier ist die U-Bahn-Station.",
       "english": "That is far. You have to take the subway. Here is the subway station.",
       "russian": "Это далеко. Вам нужно сесть на метро. Вот станция метро.",
@@ -196,6 +223,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja – und wie muss ich fahren?",
       "english": "Yes - and how should I travel?",
       "russian": "Да – и как мне ехать?",
@@ -203,6 +231,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Nehmen Sie die Linie U2 Richtung Zoo.",
       "english": "Take line U2 towards Zoo.",
       "russian": "Садитесь на линию U2 в сторону Зоопарка.",
@@ -210,6 +239,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Fahren Sie drei Stationen bis zum Hauptbahnhof, dann steigen Sie um.",
       "english": "Ride for three stations to the main station, then change.",
       "russian": "Проезжайте три станции до главного вокзала, затем пересаживайтесь.",
@@ -217,6 +247,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Nehmen Sie die Linie 1 Richtung Flughafen.",
       "english": "Take line 1 towards the airport.",
       "russian": "Садитесь на линию 1 в сторону аэропорта.",
@@ -224,6 +255,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Dann sind es noch zwei Stationen und Sie sind am Theaterplatz.",
       "english": "Then it's two more stations and you are at Theaterplatz.",
       "russian": "Еще две станции, и вы на Театерплац.",
@@ -231,6 +263,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Besucht ihr mich am Wochenende? Habt ihr am Samstag Zeit?",
       "english": "Are you visiting me on the weekend? Do you have time on Saturday?",
       "russian": "Вы придете ко мне в выходные? У вас есть время в субботу?",
@@ -238,6 +271,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, Samstag geht.",
       "english": "Yes, Saturday works.",
       "russian": "Да, в субботу можно.",
@@ -245,6 +279,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wunderbar, dann kommt doch am Samstagnachmittag so gegen drei.",
       "english": "Wonderful, then come on Saturday afternoon around three.",
       "russian": "Прекрасно, тогда приходите в субботу днем около трех.",
@@ -252,6 +287,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir können zusammen Kaffee trinken und vielleicht ein bisschen im Park spazieren gehen.",
       "english": "We can have coffee together and maybe take a walk in the park.",
       "russian": "Мы можем выпить кофе вместе и, может быть, немного прогуляться в парке.",
@@ -259,6 +295,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wo wohnst du?",
       "english": "Where do you live?",
       "russian": "Где ты живешь?",
@@ -266,6 +303,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Gleich hier in der Nähe, das könnt ihr ganz einfach finden.",
       "english": "Right here nearby, you can easily find it.",
       "russian": "Прямо здесь рядом, вы можете легко найти это.",
@@ -273,6 +311,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Am Samstag habe ich Geburtstag und mache eine Party. Kommst du?",
       "english": "I have a birthday on Saturday and am throwing a party. Are you coming?",
       "russian": "В субботу у меня день рождения, и я устраиваю вечеринку. Ты придешь?",
@@ -280,6 +319,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Klar, gern. Wo wohnst du denn?",
       "english": "Sure, gladly. Where do you live?",
       "russian": "Конечно, с удовольствием. А где ты живешь?",
@@ -287,6 +327,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "In der Nähe vom Bahnhof.",
       "english": "Near the train station.",
       "russian": "Рядом с вокзалом.",
@@ -294,6 +335,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Du musst hier von der Sprachschule nach links gehen, immer geradeaus, dann an der dritten Kreuzung links. Da ist ein Park. Der ist sehr schön.",
       "english": "You have to go left from the language school here, straight ahead, then left at the third intersection. There is a park. It's very beautiful.",
       "russian": "Вы должны пойти налево от языковой школы здесь, прямо, затем налево на третьем перекрестке. Там есть парк. Он очень красивый.",
@@ -301,6 +343,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Unser Haus ist das zweite Haus auf der rechten Seite.",
       "english": "Our house is the second house on the right.",
       "russian": "Наш дом второй дом справа.",
@@ -308,6 +351,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Oh, diese Wörter, ich muss unbedingt Wörter lernen.",
       "english": "Oh, these words, I absolutely have to learn words.",
       "russian": "О, эти слова, я обязательно должен выучить слова.",
@@ -315,6 +359,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sollen wir zusammen lernen?",
       "english": "Shall we study together?",
       "russian": "Будем учиться вместе?",
@@ -322,6 +367,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Komm doch heute Nachmittag zu mir, ich mache einen Tee und wir lernen die Wörter zusammen.",
       "english": "Come to me this afternoon, I'll make tea and we'll study the words together.",
       "russian": "Приходи ко мне сегодня днем, я приготовлю чай и мы будем учить слова вместе.",
@@ -329,6 +375,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Gute Idee. Ich bringe Kuchen mit.",
       "english": "Good idea. I'll bring cake.",
       "russian": "Хорошая идея. Я принесу торт.",
@@ -336,6 +383,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wo wohnst du denn?",
       "english": "Where do you live?",
       "russian": "Где ты живешь?",
@@ -343,6 +391,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich wohne ganz in der Nähe, es ist nicht weit, vielleicht zehn Minuten.",
       "english": "I live very close, it's not far, maybe ten minutes.",
       "russian": "Я живу совсем рядом, это недалеко, может быть, десять минут.",
@@ -350,6 +399,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Du musst hier von der Sprachschule in die Straße rechts gehen, dann sofort wieder links, dann die zweite Straße wieder links und dann wieder rechts.",
       "english": "You have to go right from the language school here, then immediately left again, then left again at the second street and then right again.",
       "russian": "Вы должны пойти направо от языковой школы здесь, затем сразу снова налево, затем снова налево на второй улице и снова направо.",
@@ -357,6 +407,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Dann siehst du die Polizei.",
       "english": "Then you will see the police.",
       "russian": "Тогда вы увидите полицию.",
@@ -364,6 +415,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir wohnen links neben der Polizei.",
       "english": "We live to the left of the police.",
       "russian": "Мы живем слева от полиции.",
@@ -371,6 +423,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das finde ich bestimmt.",
       "english": "I'll definitely find it.",
       "russian": "Я обязательно найду это.",
@@ -378,6 +431,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Tschüs, bis heute Nachmittag.",
       "english": "Bye, see you this afternoon.",
       "russian": "Пока, до сегодня днем.",
@@ -385,6 +439,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Mama, wir hatten heute Verkehrsunterricht in der Schule.",
       "english": "Mom, we had traffic lessens at school today.",
       "russian": "Мама, у нас сегодня были уроки по дорожному движению в школе.",
@@ -392,6 +447,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ah, und erzähl mal, was musst du im Verkehr machen?",
       "english": "Ah, and tell me, what do you have to do in traffic?",
       "russian": "А, и расскажи, что ты должен делать на дороге?",
@@ -399,6 +455,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich darf nicht zwischen den Autos auf die Straße laufen, das ist gefährlich.",
       "english": "I must not run between the cars onto the street, it's dangerous.",
       "russian": "Я не должен выбегать между машинами на дорогу, это опасно.",
@@ -406,6 +463,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, genau.",
       "english": "Yes, exactly.",
       "russian": "Да, точно.",
@@ -413,6 +471,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Und ich darf mit dem Fahrrad auf der Straße und dem Bürgersteig fahren.",
       "english": "And I can ride my bike on the street and the sidewalk.",
       "russian": "И я могу ездить на велосипеде по дороге и по тротуару.",
@@ -420,6 +479,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Und Tim muss auf dem Bürgersteig fahren.",
       "english": "And Tim has to ride on the sidewalk.",
       "russian": "А Тим должен ездить по тротуару.",
@@ -427,6 +487,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, das ist richtig. Und weißt du auch, warum?",
       "english": "Yes, that's right. And do you know why?",
       "russian": "Да, это правильно. И ты знаешь, почему?",
@@ -434,6 +495,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, ich bin schon elf und mit elf darf ich auf dem Bürgersteig und auf der Straße fahren und Tim ist erst neun und bis zehn Jahre müssen Kinder auf dem Bürgersteig fahren.",
       "english": "Yes, I'm already eleven and at eleven I can ride on the sidewalk and on the street, and Tim is only nine and until ten years old children must ride on the sidewalk.",
       "russian": "Да, мне уже одиннадцать, и в одиннадцать я могу ездить по тротуару и по дороге, а Тиму всего девять, и до десяти лет дети должны ездить по тротуару.",
@@ -441,6 +503,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er ist ja ein Kind.",
       "english": "He is a child.",
       "russian": "Он же ребенок.",
@@ -448,6 +511,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich bin gar nicht klein.",
       "english": "I'm not small at all.",
       "russian": "Я вовсе не маленький.",
@@ -455,6 +519,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Nein, nein, du bist nicht klein. Aber, Lea, ja, das stimmt.",
       "english": "No, no, you're not small. But, Lea, yes, that's right.",
       "russian": "Нет, нет, ты не маленький. Но, Леа, да, это правда.",
@@ -462,6 +527,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Mit elf Jahren darfst du auf der Straße fahren.",
       "english": "At eleven years old, you are allowed to ride on the street.",
       "russian": "В одиннадцать лет тебе разрешено ездить по дороге.",
@@ -469,6 +535,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ab 13 Jahren musst du aber auf der Straße fahren wie die Erwachsenen.",
       "english": "But from the age of 13, you have to ride on the street like adults.",
       "russian": "Но с 13 лет ты должен ездить по дороге, как взрослые.",
@@ -476,6 +543,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Aber fahr lieber auf dem Bürgersteig, das ist nicht so gefährlich.",
       "english": "But it's better to ride on the sidewalk, it's not so dangerous.",
       "russian": "Но лучше ездить по тротуару, это не так опасно.",
@@ -483,6 +551,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "mit dem Auto - mit dem Fahrrad - mit dem Motorrad - mit dem Schiff - mit dem Bus - mit dem Zug - mit dem Flugzeug - mit der S-Bahn - mit der U-Bahn - zu Fuß",
       "english": "by car - by bike - by motorcycle - by ship - by bus - by train - by plane - by S-Bahn - by subway - on foot",
       "russian": "на машине - на велосипеде - на мотоцикле - на корабле - на автобусе - на поезде - на самолете - на S-Bahn - на метро - пешком",
@@ -490,6 +559,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wie kommt Herr Meier zur Arbeit?",
       "english": "How does Mr. Meier get to work?",
       "russian": "Как мистер Майер добирается до работы?",
@@ -497,6 +567,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Herr Meier geht erst zu Fuß.",
       "english": "Mr. Meier first goes on foot.",
       "russian": "Мистер Майер сначала идет пешком.",
@@ -504,6 +575,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er bringt seinen Sohn zum Kindergarten.",
       "english": "He takes his son to kindergarten.",
       "russian": "Он ведет сына в детский сад.",
@@ -511,6 +583,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Dann fährt er mit der U-Bahn zum Hauptbahnhof.",
       "english": "Then he takes the subway to the main station.",
       "russian": "Потом он едет на метро до главного вокзала.",
@@ -518,6 +591,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er fährt eine halbe Stunde mit dem Zug.",
       "english": "He takes the train for half an hour.",
       "russian": "Он едет на поезде полчаса.",
@@ -525,6 +599,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Dann fährt er mit dem Bus drei Stationen.",
       "english": "Then he takes the bus for three stations.",
       "russian": "Потом он едет на автобусе три остановки.",
@@ -532,6 +607,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Um neun Uhr ist er da.",
       "english": "He is there at nine o'clock.",
       "russian": "Он там в девять часов.",
@@ -539,6 +615,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er hat nicht viel Freizeit.",
       "english": "He doesn't have much free time.",
       "russian": "У него не так много свободного времени.",
@@ -546,6 +623,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wann stehst du auf?",
       "english": "When do you get up?",
       "russian": "Когда ты встаешь?",
@@ -553,6 +631,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Um wie viel Uhr fängt die Schule an?",
       "english": "What time does school start?",
       "russian": "Во сколько начинается школа?",
@@ -560,6 +639,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Schule fängt um halb neun an.",
       "english": "School starts at eight-thirty.",
       "russian": "Школа начинается в восемь тридцать.",
@@ -567,6 +647,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wie kommst du zur Schule?",
       "english": "How do you get to school?",
       "russian": "Как ты добираешься до школы?",
@@ -574,6 +655,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wie lange dauert der Unterricht?",
       "english": "How long does the lessen last?",
       "russian": "Как долго длится урок?",
@@ -581,6 +663,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wann fährst du nach Hause?",
       "english": "When do you go home?",
       "russian": "Когда ты едешь домой?",
@@ -588,6 +671,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wann machst du deine Hausaufgaben?",
       "english": "When do you do your homework?",
       "russian": "Когда ты делаешь домашнее задание?",
@@ -595,6 +679,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wann siehst du fern?",
       "english": "When do you watch TV?",
       "russian": "Когда ты смотришь телевизор?",
@@ -602,6 +687,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich stehe um sieben Uhr auf.",
       "english": "I get up at seven o'clock.",
       "russian": "Я встаю в семь часов.",
@@ -609,6 +695,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Um acht Uhr gehe ich aus dem Haus.",
       "english": "I leave the house at eight o'clock.",
       "russian": "Я выхожу из дома в восемь часов.",
@@ -616,6 +703,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich fahre mit dem Rad zur Schule.",
       "english": "I ride my bike to school.",
       "russian": "Я еду в школу на велосипеде.",
@@ -623,6 +711,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Schule ist um halb zwei aus.",
       "english": "School is out at one-thirty.",
       "russian": "Школа заканчивается в полвторого.",
@@ -630,6 +719,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Dann gehe ich nach Hause und esse zu Mittag.",
       "english": "Then I go home and have lunch.",
       "russian": "Потом я иду домой и обедаю.",
@@ -637,6 +727,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich mache von drei bis fünf Uhr Hausaufgaben.",
       "english": "I do homework from three to five o'clock.",
       "russian": "Я делаю домашнее задание с трех до пяти.",
@@ -644,6 +735,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Um halb sieben essen wir zu Abend.",
       "english": "We have dinner at six-thirty.",
       "russian": "Мы ужинаем в шесть тридцать.",
@@ -651,6 +743,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Von sieben bis acht Uhr sehe ich fern.",
       "english": "I watch TV from seven to eight o'clock.",
       "russian": "Я смотрю телевизор с семи до восьми.",
@@ -658,6 +751,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Um neun Uhr gehe ich ins Bett.",
       "english": "I go to bed at nine o'clock.",
       "russian": "Я ложусь спать в девять часов.",
@@ -665,6 +759,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wie spät ist es? - Es ist eins. Es ist Viertel nach eins. Es ist halb zwei. Es ist Viertel vor zwei.",
       "english": "What time is it? - It is one o'clock. It is a quarter past one. It is half past one. It is a quarter to two.",
       "russian": "Сколько времени? - Час. Четверть второго. Половина второго. Без четверти два.",
@@ -672,6 +767,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Herr und Frau Becker kaufen Fahrkarten am Schalter.",
       "english": "Mr. and Mrs. Becker are buying tickets at the counter.",
       "russian": "Господин и госпожа Беккер покупают билеты у кассы.",
@@ -679,6 +775,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Guten Tag. Zweimal Frankfurt bitte, einfach.",
       "english": "Good day. Two tickets to Frankfurt, please, one-way.",
       "russian": "Добрый день. Два билета до Франкфурта, пожалуйста, в один конец.",
@@ -686,6 +783,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Möchten Sie 1. Klasse oder 2. Klasse fahren?",
       "english": "Would you like to travel first class or second class?",
       "russian": "Вы хотите поехать первым классом или вторым?",
@@ -693,6 +791,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Zweite Klasse, bitte.",
       "english": "Second class, please.",
       "russian": "Второй класс, пожалуйста.",
@@ -700,6 +799,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Hin und zurück?",
       "english": "Round trip?",
       "russian": "Туда и обратно?",
@@ -707,6 +807,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Nein, einfach.",
       "english": "No, one-way.",
       "russian": "Нет, в один конец.",
@@ -714,6 +815,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das macht 72 Euro.",
       "english": "That will be 72 euros.",
       "russian": "С вас 72 евро.",
@@ -721,6 +823,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Fahren Sie mit dem Bus oder mit der Straßenbahn zum Bahnhof?",
       "english": "Are you taking the bus or the tram to the train station?",
       "russian": "Вы едете на автобусе или на трамвае до вокзала?",
@@ -728,6 +831,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich nehme die Straßenbahn. Das ist schneller.",
       "english": "I take the tram. It's faster.",
       "russian": "Я еду на трамвае. Это быстрее.",

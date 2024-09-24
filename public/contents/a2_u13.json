@@ -7,6 +7,7 @@
   "content": [
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Kann ich Ihnen helfen?",
       "english": "Can I help you?",
       "russian": "Могу ли я вам помочь?",
@@ -14,6 +15,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, ich brauche eine Waschmaschine.",
       "english": "Yes, I need a washing machine.",
       "russian": "Да, мне нужна стиральная машина.",
@@ -21,6 +23,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Was können Sie empfehlen?",
       "english": "What can you recommend?",
       "russian": "Что вы можете порекомендовать?",
@@ -28,6 +31,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir haben viele verschiedene Typen.",
       "english": "We have many different types.",
       "russian": "У нас есть много разных типов.",
@@ -35,6 +39,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Hier ist zum Beispiel eine Maschine mit viel Platz.",
       "english": "Here, for example, is a machine with a lot of space.",
       "russian": "Вот, например, машина с большим пространством.",
@@ -42,6 +47,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie können 8 kg Wäsche auf einmal waschen.",
       "english": "You can wash 8 kg of laundry at once.",
       "russian": "Вы можете стирать 8 кг белья за один раз.",
@@ -49,6 +55,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ein anderer Vorteil ist, dass es fünf Jahre Garantie gibt.",
       "english": "Another advantage is that there is a five-year warranty.",
       "russian": "Еще одно преимущество в том, что есть пятилетняя гарантия.",
@@ -56,6 +63,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Aber der Preis ist ein Nachteil.",
       "english": "But the price is a disadvantage.",
       "russian": "Но цена — это недостаток.",
@@ -63,6 +71,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er ist sehr hoch. Und so viel Wäsche habe ich nicht.",
       "english": "It is very high. And I don't have that much laundry.",
       "russian": "Он очень высокий. И у меня нет столько белья.",
@@ -70,6 +79,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Was ist mit dieser Waschmaschine?",
       "english": "What about this washing machine?",
       "russian": "А как насчет этой стиральной машины?",
@@ -77,6 +87,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie kostet nur 269 Euro.",
       "english": "It costs only 269 euros.",
       "russian": "Она стоит всего 269 евро.",
@@ -84,6 +95,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, aber sie hat weniger Platz und nur zwei Jahre Garantie.",
       "english": "Yes, but it has less space and only a two-year warranty.",
       "russian": "Да, но у нее меньше места и только двухлетняя гарантия.",
@@ -91,6 +103,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das macht nichts, die Garantiezeit ist für mich in Ordnung und ich sehe, dass sie genauso energiesparend ist wie die andere Maschine.",
       "english": "That's okay, the warranty period is fine for me and I see that it is just as energy-efficient as the other machine.",
       "russian": "Это не важно, срок гарантии для меня в порядке, и я вижу, что она такая же энергоэффективная, как и другая машина.",
@@ -98,6 +111,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Energieverbrauch ist für mich auch sehr wichtig.",
       "english": "Energy consumption is also very important to me.",
       "russian": "Потребление энергии для меня тоже очень важно.",
@@ -105,6 +119,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich glaube, die nehme ich.",
       "english": "I think I'll take it.",
       "russian": "Я думаю, я возьму это.",
@@ -112,6 +127,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sollen wir Ihnen die Maschine nach Hause liefern?",
       "english": "Should we deliver the machine to your home?",
       "russian": "Нам доставить машину к вам домой?",
@@ -119,6 +135,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das kostet 50 Euro extra.",
       "english": "That costs 50 euros extra.",
       "russian": "Это стоит дополнительно 50 евро.",
@@ -126,6 +143,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, gerne. Ich kann sie nicht selbst transportieren.",
       "english": "Yes, please. I can't transport it myself.",
       "russian": "Да, пожалуйста. Я не могу сам ее транспортировать.",
@@ -133,6 +151,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Guten Tag, ich habe vor zwei Wochen diesen Staubsauger gekauft, aber er funktioniert leider nicht.",
       "english": "Good day, I bought this vacuum cleaner two weeks ago, but unfortunately it doesn't work.",
       "russian": "Добрый день, я купил этот пылесос две недели назад, но, к сожалению, он не работает.",
@@ -140,6 +159,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Vielleicht ist das Stromkabel defekt?",
       "english": "Maybe the power cord is defective?",
       "russian": "Может быть, неисправен шнур питания?",
@@ -147,6 +167,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Darf ich mal sehen?",
       "english": "May I see?",
       "russian": "Могу я посмотреть?",
@@ -154,6 +175,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, hier. Probieren Sie es einmal.",
       "english": "Yes, here. Try it once.",
       "russian": "Да, вот. Попробуйте один раз.",
@@ -161,6 +183,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Hm, da gibt es ein Problem.",
       "english": "Hm, there is a problem.",
       "russian": "Хм, есть проблема.",
@@ -168,6 +191,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Staubsauger hat einen Fehler.",
       "english": "The vacuum cleaner has a fault.",
       "russian": "У пылесоса есть неисправность.",
@@ -175,6 +199,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Und was passiert jetzt?",
       "english": "And what happens now?",
       "russian": "А что теперь?",
@@ -182,6 +207,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir schicken den Staubsauger ans Werk.",
       "english": "We send the vacuum cleaner to the factory.",
       "russian": "Мы отправляем пылесос на завод.",
@@ -189,6 +215,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die prüfen und reparieren ihn.",
       "english": "They will check and repair it.",
       "russian": "Они проверят и отремонтируют его.",
@@ -196,6 +223,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Haben Sie die Quittung?",
       "english": "Do you have the receipt?",
       "russian": "У вас есть квитанция?",
@@ -203,6 +231,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, hier sind die Quittung und der Garantieschein.",
       "english": "Yes, here are the receipt and the warranty card.",
       "russian": "Да, вот квитанция и гарантийный талон.",
@@ -210,6 +239,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wann bekomme ich den Staubsauger zurück?",
       "english": "When will I get the vacuum cleaner back?",
       "russian": "Когда я получу пылесос обратно?",
@@ -217,6 +247,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das geht schnell.",
       "english": "That goes quickly.",
       "russian": "Это будет быстро.",
@@ -224,6 +255,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie bekommen Ihren Staubsauger in zwei Wochen zurück.",
       "english": "You will get your vacuum cleaner back in two weeks.",
       "russian": "Вы получите свой пылесос обратно через две недели.",
@@ -231,6 +263,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Rasierapparat funktioniert nicht.",
       "english": "The razor doesn't work.",
       "russian": "Электробритва не работает.",
@@ -238,6 +271,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Bitte lassen Sie ihn prüfen und reparieren.",
       "english": "Please have it checked and repaired.",
       "russian": "Пожалуйста, проверьте и отремонтируйте его.",
@@ -245,6 +279,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Bitte schicken Sie ihn ans Werk.",
       "english": "Please send it to the factory.",
       "russian": "Пожалуйста, отправьте его на завод.",
@@ -252,6 +287,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Hier ist die Quittung.",
       "english": "Here is the receipt.",
       "russian": "Вот квитанция.",
@@ -259,6 +295,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Und das ist der Garantieschein.",
       "english": "And this is the warranty card.",
       "russian": "А вот гарантийный талон.",
@@ -266,6 +303,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wie lange dauert die Reparatur?",
       "english": "How long does the repair take?",
       "russian": "Сколько времени займет ремонт?",

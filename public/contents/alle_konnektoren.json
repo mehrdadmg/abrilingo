@@ -7,6 +7,7 @@
   "content": [
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich mag Äpfel und Orangen.",
       "english": "I like apples and oranges.",
       "russian": "Я люблю яблоки и апельсины.",
@@ -14,6 +15,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er spielt Gitarre und singt.",
       "english": "He plays the guitar and sings.",
       "russian": "Он играет на гитаре и поет.",
@@ -21,6 +23,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir gehen ins Kino und danach essen wir.",
       "english": "We go to the cinema and then we eat.",
       "russian": "Мы идем в кино, а потом едим.",
@@ -28,6 +31,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie liest ein Buch und trinkt Tee.",
       "english": "She reads a book and drinks tea.",
       "russian": "Она читает книгу и пьет чай.",
@@ -35,6 +39,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich lerne Deutsch und Französisch.",
       "english": "I am learning German and French.",
       "russian": "Я учу немецкий и французский.",
@@ -42,6 +47,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Hund rennt und bellt.",
       "english": "The dog runs and barks.",
       "russian": "Собака бежит и лает.",
@@ -49,6 +55,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er arbeitet tagsüber und studiert abends.",
       "english": "He works during the day and studies in the evening.",
       "russian": "Он работает днем и учится вечером.",
@@ -56,6 +63,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir fahren ans Meer und machen Urlaub.",
       "english": "We are going to the sea and taking a vacation.",
       "russian": "Мы едем на море и берем отпуск.",
@@ -63,6 +71,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie tanzen und lachen.",
       "english": "They dance and laugh.",
       "russian": "Они танцуют и смеются.",
@@ -70,6 +79,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich koche und höre Musik.",
       "english": "I cook and listen to music.",
       "russian": "Я готовлю и слушаю музыку.",
@@ -77,6 +87,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Willst du Tee oder Kaffee?",
       "english": "Do you want tea or coffee?",
       "russian": "Ты хочешь чай или кофе?",
@@ -84,6 +95,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er fährt nach Berlin oder Hamburg.",
       "english": "He is going to Berlin or Hamburg.",
       "russian": "Он едет в Берлин или Гамбург.",
@@ -91,6 +103,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Möchtest du lesen oder fernsehen?",
       "english": "Do you want to read or watch TV?",
       "russian": "Ты хочешь читать или смотреть телевизор?",
@@ -98,6 +111,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir gehen ins Museum oder in den Park.",
       "english": "We go to the museum or the park.",
       "russian": "Мы идем в музей или в парк.",
@@ -105,6 +119,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich kaufe Brot oder Kuchen.",
       "english": "I buy bread or cake.",
       "russian": "Я покупаю хлеб или торт.",
@@ -112,6 +127,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie besucht ihre Freunde oder Familie.",
       "english": "She visits her friends or family.",
       "russian": "Она навещает своих друзей или семью.",
@@ -119,6 +135,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er fährt mit dem Bus oder mit dem Fahrrad.",
       "english": "He goes by bus or by bicycle.",
       "russian": "Он едет на автобусе или на велосипеде.",
@@ -126,6 +143,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich lerne Deutsch oder Spanisch.",
       "english": "I am learning German or Spanish.",
       "russian": "Я учу немецкий или испанский.",
@@ -133,6 +151,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir spielen Fußball oder Basketball.",
       "english": "We play football or basketball.",
       "russian": "Мы играем в футбол или в баскетбол.",
@@ -140,6 +159,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er schreibt einen Brief oder eine E-Mail.",
       "english": "He writes a letter or an email.",
       "russian": "Он пишет письмо или электронное письмо.",
@@ -147,6 +167,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich will gehen, aber es regnet.",
       "english": "I want to go, but it is raining.",
       "russian": "Я хочу идти, но идет дождь.",
@@ -154,6 +175,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er ist müde, aber er arbeitet weiter.",
       "english": "He is tired, but he continues to work.",
       "russian": "Он устал, но продолжает работать.",
@@ -161,6 +183,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir haben wenig Zeit, aber wir schaffen es.",
       "english": "We have little time, but we will make it.",
       "russian": "У нас мало времени, но мы успеем.",
@@ -168,6 +191,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie ist intelligent, aber faul.",
       "english": "She is intelligent, but lazy.",
       "russian": "Она умная, но ленивая.",
@@ -175,6 +199,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich mag Schokolade, aber nicht zu viel.",
       "english": "I like chocolate, but not too much.",
       "russian": "Я люблю шоколад, но не слишком много.",
@@ -182,6 +207,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er will kommen, aber er kann nicht.",
       "english": "He wants to come, but he cannot.",
       "russian": "Он хочет прийти, но не может.",
@@ -189,6 +215,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir gehen spazieren, aber nur kurz.",
       "english": "We are going for a walk, but only briefly.",
       "russian": "Мы идем гулять, но ненадолго.",
@@ -196,6 +223,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er spricht langsam, aber deutlich.",
       "english": "He speaks slowly, but clearly.",
       "russian": "Он говорит медленно, но четко.",
@@ -203,6 +231,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie ist freundlich, aber schüchtern.",
       "english": "She is friendly, but shy.",
       "russian": "Она дружелюбная, но застенчивая.",
@@ -210,6 +239,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich arbeite hart, aber ich habe Spaß.",
       "english": "I work hard, but I have fun.",
       "russian": "Я работаю усердно, но мне весело.",
@@ -217,6 +247,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich bin müde, denn ich habe wenig geschlafen.",
       "english": "I am tired because I slept little.",
       "russian": "Я устал, потому что мало спал.",
@@ -224,6 +255,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er ist glücklich, denn er hat Urlaub.",
       "english": "He is happy because he is on vacation.",
       "russian": "Он счастлив, потому что у него отпуск.",
@@ -231,6 +263,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir bleiben zu Hause, denn es regnet.",
       "english": "We are staying at home because it is raining.",
       "russian": "Мы остаемся дома, потому что идет дождь.",
@@ -238,6 +271,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie lernt fleißig, denn sie hat bald Prüfungen.",
       "english": "She studies diligently because she has exams soon.",
       "russian": "Она усердно учится, потому что скоро у нее экзамены.",
@@ -245,6 +279,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich gehe ins Bett, denn ich bin müde.",
       "english": "I am going to bed because I am tired.",
       "russian": "Я иду спать, потому что я устал.",
@@ -252,6 +287,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er kauft das Buch, denn er mag den Autor.",
       "english": "He buys the book because he likes the author.",
       "russian": "Он покупает книгу, потому что ему нравится автор.",
@@ -259,6 +295,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir essen jetzt, denn das Essen ist fertig.",
       "english": "We are eating now because the food is ready.",
       "russian": "Мы едим сейчас, потому что еда готова.",
@@ -266,6 +303,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie geht ins Kino, denn sie liebt Filme.",
       "english": "She goes to the cinema because she loves movies.",
       "russian": "Она идет в кино, потому что любит фильмы.",
@@ -273,6 +311,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich trinke Wasser, denn ich habe Durst.",
       "english": "I am drinking water because I am thirsty.",
       "russian": "Я пью воду, потому что хочу пить.",
@@ -280,6 +319,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er bleibt zu Hause, denn er ist krank.",
       "english": "He is staying at home because he is sick.",
       "russian": "Он остается дома, потому что болеет.",
@@ -287,6 +327,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich trinke keinen Kaffee, sondern Tee.",
       "english": "I do not drink coffee, but tea.",
       "russian": "Я не пью кофе, а чай.",
@@ -294,6 +335,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er fährt nicht nach Berlin, sondern nach München.",
       "english": "He is not going to Berlin, but to Munich.",
       "russian": "Он едет не в Берлин, а в Мюнхен.",
@@ -301,6 +343,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir essen nicht zu Hause, sondern im Restaurant.",
       "english": "We are not eating at home, but at the restaurant.",
       "russian": "Мы едим не дома, а в ресторане.",
@@ -308,6 +351,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie liest nicht ein Buch, sondern eine Zeitschrift.",
       "english": "She is not reading a book, but a magazine.",
       "russian": "Она читает не книгу, а журнал.",
@@ -315,6 +359,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich kaufe nicht Brot, sondern Milch.",
       "english": "I am not buying bread, but milk.",
       "russian": "Я покупаю не хлеб, а молоко.",
@@ -322,6 +367,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er spielt nicht Fußball, sondern Basketball.",
       "english": "He is not playing football, but basketball.",
       "russian": "Он играет не в футбол, а в баскетбол.",
@@ -329,6 +375,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir fahren nicht mit dem Auto, sondern mit dem Zug.",
       "english": "We are not driving, but taking the train.",
       "russian": "Мы едем не на машине, а на поезде.",
@@ -336,6 +383,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie ist nicht müde, sondern gelangweilt.",
       "english": "She is not tired, but bored.",
       "russian": "Она не устала, а скучает.",
@@ -343,6 +391,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich arbeite nicht morgen, sondern heute.",
       "english": "I am not working tomorrow, but today.",
       "russian": "Я работаю не завтра, а сегодня.",
@@ -350,6 +399,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er geht nicht ins Kino, sondern ins Theater.",
       "english": "He is not going to the cinema, but to the theater.",
       "russian": "Он идет не в кино, а в театр.",
@@ -357,6 +407,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Es regnet, deshalb bleiben wir zu Hause.",
       "english": "It is raining, therefore we are staying at home.",
       "russian": "Идет дождь, поэтому мы остаемся дома.",
@@ -364,6 +415,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe Geburtstag, deshalb feiern wir.",
       "english": "It is my birthday, therefore we are celebrating.",
       "russian": "У меня день рождения, поэтому мы празднуем.",
@@ -371,6 +423,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er hat viel gearbeitet, deshalb ist er müde.",
       "english": "He has worked a lot, therefore he is tired.",
       "russian": "Он много работал, поэтому устал.",
@@ -378,6 +431,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir haben Ferien, deshalb fahren wir ans Meer.",
       "english": "We are on vacation, therefore we are going to the sea.",
       "russian": "У нас отпуск, поэтому мы едем на море.",
@@ -385,6 +439,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie ist krank, deshalb bleibt sie im Bett.",
       "english": "She is sick, therefore she stays in bed.",
       "russian": "Она больна, поэтому остается в постели.",
@@ -392,6 +447,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe viel gelernt, deshalb habe ich die Prüfung bestanden.",
       "english": "I have studied a lot, therefore I passed the exam.",
       "russian": "Я много учился, поэтому сдал экзамен.",
@@ -399,6 +455,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er hat kein Auto, deshalb fährt er mit dem Fahrrad.",
       "english": "He does not have a car, therefore he rides a bicycle.",
       "russian": "У него нет машины, поэтому он ездит на велосипеде.",
@@ -406,6 +463,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir sind müde, deshalb gehen wir früh ins Bett.",
       "english": "We are tired, therefore we are going to bed early.",
       "russian": "Мы устали, поэтому ложимся спать рано.",
@@ -413,6 +471,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Es ist kalt, deshalb ziehe ich eine Jacke an.",
       "english": "It is cold, therefore I am putting on a jacket.",
       "russian": "Холодно, поэтому я надеваю куртку.",
@@ -420,6 +479,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er hat Hunger, deshalb isst er jetzt.",
       "english": "He is hungry, therefore he is eating now.",
       "russian": "Он голоден, поэтому он ест сейчас.",
@@ -427,6 +487,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Es regnet, trotzdem gehen wir spazieren.",
       "english": "It is raining, nevertheless we are going for a walk.",
       "russian": "Идет дождь, тем не менее, мы идем гулять.",
@@ -434,6 +495,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er ist müde, trotzdem arbeitet er weiter.",
       "english": "He is tired, nevertheless he continues to work.",
       "russian": "Он устал, тем не менее, он продолжает работать.",
@@ -441,6 +503,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir haben wenig Zeit, trotzdem gehen wir ins Kino.",
       "english": "We have little time, nevertheless we are going to the cinema.",
       "russian": "У нас мало времени, тем не менее, мы идем в кино.",
@@ -448,6 +511,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie ist krank, trotzdem geht sie zur Arbeit.",
       "english": "She is sick, nevertheless she goes to work.",
       "russian": "Она больна, тем не менее, идет на работу.",
@@ -455,6 +519,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Es ist kalt, trotzdem geht er schwimmen.",
       "english": "It is cold, nevertheless he goes swimming.",
       "russian": "Холодно, тем не менее, он идет плавать.",
@@ -462,6 +527,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe viel zu tun, trotzdem besuche ich meine Freunde.",
       "english": "I have a lot to do, nevertheless I visit my friends.",
       "russian": "У меня много дел, тем не менее, я навещаю своих друзей.",
@@ -469,6 +535,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er hat kein Geld, trotzdem kauft er das Buch.",
       "english": "He has no money, nevertheless he buys the book.",
       "russian": "У него нет денег, тем не менее, он покупает книгу.",
@@ -476,6 +543,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir sind müde, trotzdem gehen wir auf die Party.",
       "english": "We are tired, nevertheless we are going to the party.",
       "russian": "Мы устали, тем не менее, идем на вечеринку.",
@@ -483,6 +551,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie hat viel gelernt, trotzdem hat sie die Prüfung nicht bestanden.",
       "english": "She studied a lot, nevertheless she did not pass the exam.",
       "russian": "Она много училась, тем не менее, не сдала экзамен.",
@@ -490,6 +559,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich bin krank, trotzdem gehe ich spazieren.",
       "english": "I am sick, nevertheless I go for a walk.",
       "russian": "Я болен, тем не менее, иду гулять.",
@@ -497,6 +567,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er ist beschäftigt, trotzdem hilft er mir.",
       "english": "He is busy, nevertheless he helps me.",
       "russian": "Он занят, тем не менее, помогает мне.",
@@ -504,6 +575,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir haben kein Auto, trotzdem reisen wir viel.",
       "english": "We do not have a car, nevertheless we travel a lot.",
       "russian": "У нас нет машины, тем не менее, мы много путешествуем.",
@@ -511,6 +583,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich gehe ins Kino, weil ich den neuen Film sehen möchte.",
       "english": "I am going to the cinema because I want to see the new movie.",
       "russian": "Я иду в кино, потому что хочу посмотреть новый фильм.",
@@ -518,6 +591,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er bleibt zu Hause, weil er krank ist.",
       "english": "He is staying at home because he is sick.",
       "russian": "Он остается дома, потому что болеет.",
@@ -525,6 +599,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir gehen spazieren, weil das Wetter schön ist.",
       "english": "We are going for a walk because the weather is nice.",
       "russian": "Мы идем гулять, потому что погода хорошая.",
@@ -532,6 +607,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie lernt Deutsch, weil sie in Deutschland arbeiten will.",
       "english": "She is learning German because she wants to work in Germany.",
       "russian": "Она учит немецкий, потому что хочет работать в Германии.",
@@ -539,6 +615,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich kaufe das Buch, weil es interessant ist.",
       "english": "I am buying the book because it is interesting.",
       "russian": "Я покупаю книгу, потому что она интересная.",
@@ -546,6 +623,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er isst viel Gemüse, weil es gesund ist.",
       "english": "He eats a lot of vegetables because it is healthy.",
       "russian": "Он ест много овощей, потому что это полезно.",
@@ -553,6 +631,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir fahren mit dem Zug, weil es schneller ist.",
       "english": "We are taking the train because it is faster.",
       "russian": "Мы едем на поезде, потому что это быстрее.",
@@ -560,6 +639,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie geht früh ins Bett, weil sie müde ist.",
       "english": "She is going to bed early because she is tired.",
       "russian": "Она ложится спать рано, потому что устала.",
@@ -567,6 +647,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich trinke Wasser, weil ich Durst habe.",
       "english": "I am drinking water because I am thirsty.",
       "russian": "Я пью воду, потому что хочу пить.",
@@ -574,6 +655,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er lernt fleißig, weil er die Prüfung bestehen will.",
       "english": "He studies diligently because he wants to pass the exam.",
       "russian": "Он усердно учится, потому что хочет сдать экзамен.",
@@ -581,6 +663,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich hoffe, dass du bald kommst.",
       "english": "I hope that you come soon.",
       "russian": "Я надеюсь, что ты скоро придешь.",
@@ -588,6 +671,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er sagt, dass er müde ist.",
       "english": "He says that he is tired.",
       "russian": "Он говорит, что устал.",
@@ -595,6 +679,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir wissen, dass das Wetter morgen schön wird.",
       "english": "We know that the weather will be nice tomorrow.",
       "russian": "Мы знаем, что погода завтра будет хорошая.",
@@ -602,6 +687,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie glaubt, dass sie die Prüfung bestehen wird.",
       "english": "She believes that she will pass the exam.",
       "russian": "Она верит, что сдаст экзамен.",
@@ -609,6 +695,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich bin sicher, dass er kommen wird.",
       "english": "I am sure that he will come.",
       "russian": "Я уверен, что он придет.",
@@ -616,6 +703,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er hat gesagt, dass er morgen frei hat.",
       "english": "He said that he is free tomorrow.",
       "russian": "Он сказал, что он свободен завтра.",
@@ -623,6 +711,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir hoffen, dass es bald besser wird.",
       "english": "We hope that it will get better soon.",
       "russian": "Мы надеемся, что скоро станет лучше.",
@@ -630,6 +719,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie weiß, dass er sie liebt.",
       "english": "She knows that he loves her.",
       "russian": "Она знает, что он ее любит.",
@@ -637,6 +727,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich glaube, dass es funktioniert.",
       "english": "I believe that it works.",
       "russian": "Я верю, что это работает.",
@@ -644,6 +735,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er sagt, dass er keine Zeit hat.",
       "english": "He says that he has no time.",
       "russian": "Он говорит, что у него нет времени.",
@@ -651,6 +743,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Obwohl es regnet, gehen wir spazieren.",
       "english": "Although it is raining, we are going for a walk.",
       "russian": "Хотя идет дождь, мы идем гулять.",
@@ -658,6 +751,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er ist müde, obwohl er viel geschlafen hat.",
       "english": "He is tired, although he slept a lot.",
       "russian": "Он устал, хотя много спал.",
@@ -665,6 +759,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir gehen ins Kino, obwohl wir wenig Zeit haben.",
       "english": "We are going to the cinema, although we have little time.",
       "russian": "Мы идем в кино, хотя у нас мало времени.",
@@ -672,6 +767,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie geht zur Arbeit, obwohl sie krank ist.",
       "english": "She goes to work, although she is sick.",
       "russian": "Она идет на работу, хотя она больна.",
@@ -679,6 +775,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich trinke Kaffee, obwohl es spät ist.",
       "english": "I am drinking coffee, although it is late.",
       "russian": "Я пью кофе, хотя уже поздно.",
@@ -686,6 +783,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er fährt mit dem Fahrrad, obwohl es schnell ist.",
       "english": "He rides a bicycle, although it is fast.",
       "russian": "Он ездит на велосипеде, хотя это быстро.",
@@ -693,6 +791,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir sind müde, obwohl wir viel geschlafen haben.",
       "english": "We are tired, although we have slept a lot.",
       "russian": "Мы устали, хотя много спали.",
@@ -700,6 +799,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie geht schwimmen, obwohl das Wasser kalt ist.",
       "english": "She goes swimming, although the water is cold.",
       "russian": "Она идет плавать, хотя вода холодная.",
@@ -707,6 +807,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich lese ein Buch, obwohl ich müde bin.",
       "english": "I am reading a book, although I am tired.",
       "russian": "Я читаю книгу, хотя устал.",
@@ -714,6 +815,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er arbeitet weiter, obwohl es spät ist.",
       "english": "He continues to work, although it is late.",
       "russian": "Он продолжает работать, хотя уже поздно.",
@@ -721,6 +823,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich gehe ins Kino, wenn ich Zeit habe.",
       "english": "I go to the cinema when I have time.",
       "russian": "Я иду в кино, когда у меня есть время.",
@@ -728,6 +831,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er bleibt zu Hause, wenn es regnet.",
       "english": "He stays at home when it rains.",
       "russian": "Он остается дома, когда идет дождь.",
@@ -735,6 +839,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir essen, wenn das Essen fertig ist.",
       "english": "We eat when the food is ready.",
       "russian": "Мы едим, когда еда готова.",
@@ -742,6 +847,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie geht schlafen, wenn sie müde ist.",
       "english": "She goes to sleep when she is tired.",
       "russian": "Она идет спать, когда устала.",
@@ -749,6 +855,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich lese ein Buch, wenn ich Zeit habe.",
       "english": "I read a book when I have time.",
       "russian": "Я читаю книгу, когда у меня есть время.",
@@ -756,6 +863,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er fährt mit dem Fahrrad, wenn das Wetter schön ist.",
       "english": "He rides a bicycle when the weather is nice.",
       "russian": "Он ездит на велосипеде, когда погода хорошая.",
@@ -763,6 +871,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir gehen schwimmen, wenn es warm ist.",
       "english": "We go swimming when it is warm.",
       "russian": "Мы идем плавать, когда тепло.",
@@ -770,6 +879,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie kauft ein, wenn sie Geld hat.",
       "english": "She goes shopping when she has money.",
       "russian": "Она идет за покупками, когда у нее есть деньги.",
@@ -777,6 +887,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich arbeite, wenn es notwendig ist.",
       "english": "I work when it is necessary.",
       "russian": "Я работаю, когда это необходимо.",
@@ -784,6 +895,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er spielt Gitarre, wenn er Zeit hat.",
       "english": "He plays the guitar when he has time.",
       "russian": "Он играет на гитаре, когда у него есть время.",
@@ -791,6 +903,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich war glücklich, als ich die Prüfung bestanden habe.",
       "english": "I was happy when I passed the exam.",
       "russian": "Я был счастлив, когда сдал экзамен.",
@@ -798,6 +911,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er war traurig, als er die Nachricht hörte.",
       "english": "He was sad when he heard the news.",
       "russian": "Он был грустен, когда услышал новость.",
@@ -805,6 +919,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir waren müde, als wir nach Hause kamen.",
       "english": "We were tired when we came home.",
       "russian": "Мы были уставшими, когда пришли домой.",
@@ -812,6 +927,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie war überrascht, als sie das Geschenk sah.",
       "english": "She was surprised when she saw the gift.",
       "russian": "Она была удивлена, когда увидела подарок.",
@@ -819,6 +935,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich war glücklich, als ich dich sah.",
       "english": "I was happy when I saw you.",
       "russian": "Я был счастлив, когда увидел тебя.",
@@ -826,6 +943,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er war verärgert, als er die Nachricht hörte.",
       "english": "He was annoyed when he heard the news.",
       "russian": "Он был раздражен, когда услышал новость.",
@@ -833,6 +951,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir waren froh, als wir das Meer sahen.",
       "english": "We were glad when we saw the sea.",
       "russian": "Мы были рады, когда увидели море.",
@@ -840,6 +959,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie war nervös, als sie die Prüfung ablegte.",
       "english": "She was nervous when she took the exam.",
       "russian": "Она нервничала, когда сдавала экзамен.",
@@ -847,6 +967,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich war aufgeregt, als ich die Nachricht erhielt.",
       "english": "I was excited when I received the news.",
       "russian": "Я был взволнован, когда получил новость.",
@@ -854,6 +975,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er war enttäuscht, als er das Ergebnis sah.",
       "english": "He was disappointed when he saw the result.",
       "russian": "Он был разочарован, когда увидел результат.",
@@ -861,6 +983,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich lese ein Buch, nachdem ich gegessen habe.",
       "english": "I read a book after I have eaten.",
       "russian": "Я читаю книгу после того, как поел.",
@@ -868,6 +991,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er geht ins Bett, nachdem er seine Hausaufgaben gemacht hat.",
       "english": "He goes to bed after he has done his homework.",
       "russian": "Он идет спать после того, как сделал домашнее задание.",
@@ -875,6 +999,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir gehen spazieren, nachdem es aufgehört hat zu regnen.",
       "english": "We go for a walk after it has stopped raining.",
       "russian": "Мы идем гулять после того, как дождь перестал.",
@@ -882,6 +1007,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie ruft ihre Mutter an, nachdem sie nach Hause gekommen ist.",
       "english": "She calls her mother after she has come home.",
       "russian": "Она звонит своей матери после того, как пришла домой.",
@@ -889,6 +1015,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich trinke Kaffee, nachdem ich aufgestanden bin.",
       "english": "I drink coffee after I have gotten up.",
       "russian": "Я пью кофе после того, как встал.",
@@ -896,6 +1023,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er liest die Zeitung, nachdem er gefrühstückt hat.",
       "english": "He reads the newspaper after he has had breakfast.",
       "russian": "Он читает газету после того, как позавтракал.",
@@ -903,6 +1031,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir fahren los, nachdem wir alles gepackt haben.",
       "english": "We set off after we have packed everything.",
       "russian": "Мы отправляемся в путь после того, как все упаковали.",
@@ -910,6 +1039,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie geht joggen, nachdem sie ihre Arbeit beendet hat.",
       "english": "She goes jogging after she has finished her work.",
       "russian": "Она идет на пробежку после того, как закончила работу.",
@@ -917,6 +1047,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich rufe dich an, nachdem ich nach Hause gekommen bin.",
       "english": "I will call you after I have come home.",
       "russian": "Я позвоню тебе после того, как приду домой.",
@@ -924,6 +1055,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er wäscht das Geschirr, nachdem er gegessen hat.",
       "english": "He washes the dishes after he has eaten.",
       "russian": "Он моет посуду после того, как поел.",
@@ -931,6 +1063,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich lese ein Buch, bevor ich schlafen gehe.",
       "english": "I read a book before I go to sleep.",
       "russian": "Я читаю книгу перед тем, как пойти спать.",
@@ -938,6 +1071,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er duscht, bevor er zur Arbeit geht.",
       "english": "He takes a shower before he goes to work.",
       "russian": "Он принимает душ перед тем, как идти на работу.",
@@ -945,6 +1079,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir frühstücken, bevor wir zur Schule gehen.",
       "english": "We have breakfast before we go to school.",
       "russian": "Мы завтракаем перед тем, как идти в школу.",
@@ -952,6 +1087,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie ruft ihre Freundin an, bevor sie aus dem Haus geht.",
       "english": "She calls her friend before she leaves the house.",
       "russian": "Она звонит своей подруге перед тем, как выйти из дома.",
@@ -959,6 +1095,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich trinke Tee, bevor ich arbeite.",
       "english": "I drink tea before I work.",
       "russian": "Я пью чай перед тем, как работать.",
@@ -966,6 +1103,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er liest die Nachrichten, bevor er das Haus verlässt.",
       "english": "He reads the news before he leaves the house.",
       "russian": "Он читает новости перед тем, как выйти из дома.",
@@ -973,6 +1111,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir packen unsere Taschen, bevor wir reisen.",
       "english": "We pack our bags before we travel.",
       "russian": "Мы упаковываем наши сумки перед тем, как путешествовать.",
@@ -980,6 +1119,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie macht Sport, bevor sie zur Uni geht.",
       "english": "She exercises before she goes to university.",
       "russian": "Она занимается спортом перед тем, как идти в университет.",
@@ -987,6 +1127,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich putze meine Zähne, bevor ich ins Bett gehe.",
       "english": "I brush my teeth before I go to bed.",
       "russian": "Я чищу зубы перед тем, как пойти спать.",
@@ -994,6 +1135,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er überprüft seine E-Mails, bevor er das Büro betritt.",
       "english": "He checks his emails before he enters the office.",
       "russian": "Он проверяет свою электронную почту перед тем, как войти в офис.",
@@ -1001,6 +1143,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich lese ein Buch, während ich auf den Bus warte.",
       "english": "I read a book while I am waiting for the bus.",
       "russian": "Я читаю книгу, пока жду автобус.",
@@ -1008,6 +1151,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er isst, während er fernsieht.",
       "english": "He eats while he is watching TV.",
       "russian": "Он ест, пока смотрит телевизор.",
@@ -1015,6 +1159,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir lernen, während der Lehrer erklärt.",
       "english": "We study while the teacher explains.",
       "russian": "Мы учимся, пока учитель объясняет.",
@@ -1022,6 +1167,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie schläft, während das Baby schläft.",
       "english": "She sleeps while the baby sleeps.",
       "russian": "Она спит, пока спит ребенок.",
@@ -1029,6 +1175,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich höre Musik, während ich arbeite.",
       "english": "I listen to music while I work.",
       "russian": "Я слушаю музыку, пока работаю.",
@@ -1036,6 +1183,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er liest, während er im Zug sitzt.",
       "english": "He reads while he is sitting on the train.",
       "russian": "Он читает, пока сидит в поезде.",
@@ -1043,6 +1191,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir sprechen, während wir essen.",
       "english": "We talk while we eat.",
       "russian": "Мы говорим, пока едим.",
@@ -1050,6 +1199,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie tanzt, während die Musik spielt.",
       "english": "She dances while the music is playing.",
       "russian": "Она танцует, пока играет музыка.",
@@ -1057,6 +1207,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich schreibe, während es draußen regnet.",
       "english": "I write while it is raining outside.",
       "russian": "Я пишу, пока на улице идет дождь.",
@@ -1064,6 +1215,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er arbeitet, während die Kinder spielen.",
       "english": "He works while the children play.",
       "russian": "Он работает, пока дети играют.",
@@ -1071,6 +1223,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Seitdem er in Deutschland lebt, spricht er besser Deutsch.",
       "english": "Since he has been living in Germany, he speaks better German.",
       "russian": "С тех пор как он живёт в Германии, он лучше говорит по-немецки.",
@@ -1078,6 +1231,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Seitdem sie im Fitnessstudio trainiert, ist sie stärker geworden.",
       "english": "Since she has been training at the gym, she has become stronger.",
       "russian": "С тех пор как она тренируется в спортзале, она стала сильнее.",
@@ -1085,6 +1239,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Seitdem wir umgezogen sind, haben wir mehr Platz.",
       "english": "Since we moved, we have more space.",
       "russian": "С тех пор как мы переехали, у нас больше места.",
@@ -1092,6 +1247,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Seitdem er einen neuen Job hat, ist er glücklicher.",
       "english": "Since he has a new job, he is happier.",
       "russian": "С тех пор как у него новая работа, он стал счастливее.",
@@ -1099,6 +1255,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Seitdem sie Yoga macht, fühlt sie sich entspannter.",
       "english": "Since she has been doing yoga, she feels more relaxed.",
       "russian": "С тех пор как она занимается йогой, она чувствует себя более расслабленной.",
@@ -1106,6 +1263,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Seitdem wir in dieser Stadt wohnen, haben wir viele neue Freunde gefunden.",
       "english": "Since we have been living in this city, we have made many new friends.",
       "russian": "С тех пор как мы живем в этом городе, мы завели много новых друзей.",
@@ -1113,6 +1271,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Seitdem er regelmäßig joggt, hat er abgenommen.",
       "english": "Since he has been jogging regularly, he has lost weight.",
       "russian": "С тех пор как он регулярно бегает, он похудел.",
@@ -1120,6 +1279,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Seitdem sie auf gesunde Ernährung achtet, hat sie mehr Energie.",
       "english": "Since she has been paying attention to healthy eating, she has more energy.",
       "russian": "С тех пор как она следит за здоровым питанием, у нее больше энергии.",
@@ -1127,6 +1287,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Seitdem wir ein Auto haben, sind wir mobiler.",
       "english": "Since we have had a car, we are more mobile.",
       "russian": "С тех пор как у нас есть машина, мы стали более мобильными.",
@@ -1134,6 +1295,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Seitdem er jeden Tag Deutsch lernt, spricht er fließender.",
       "english": "Since he has been learning German every day, he speaks more fluently.",
       "russian": "С тех пор как он учит немецкий каждый день, он говорит более свободно.",
@@ -1141,6 +1303,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich arbeite hier seit einem Jahr.",
       "english": "I have been working here for a year.",
       "russian": "Я работаю здесь год.",
@@ -1148,6 +1311,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er lebt in Berlin seit 2010.",
       "english": "He has been living in Berlin since 2010.",
       "russian": "Он живет в Берлине с 2010 года.",
@@ -1155,6 +1319,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir sind Freunde seit der Schulzeit.",
       "english": "We have been friends since school.",
       "russian": "Мы друзья со школьных времен.",
@@ -1162,6 +1327,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie lernt Deutsch seit zwei Jahren.",
       "english": "She has been learning German for two years.",
       "russian": "Она учит немецкий два года.",
@@ -1169,6 +1335,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich bin seit drei Monaten auf Diät.",
       "english": "I have been on a diet for three months.",
       "russian": "Я на диете уже три месяца.",
@@ -1176,6 +1343,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er fährt Auto seit seinem achtzehnten Geburtstag.",
       "english": "He has been driving since his eighteenth birthday.",
       "russian": "Он водит машину с восемнадцатого дня рождения.",
@@ -1183,6 +1351,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir wohnen in dieser Wohnung seit 2015.",
       "english": "We have been living in this apartment since 2015.",
       "russian": "Мы живем в этой квартире с 2015 года.",
@@ -1190,6 +1359,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie arbeitet seit einem Monat in dieser Firma.",
       "english": "She has been working in this company for a month.",
       "russian": "Она работает в этой компании уже месяц.",
@@ -1197,6 +1367,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich bin seit meinem zehnten Lebensjahr Vegetarier.",
       "english": "I have been a vegetarian since I was ten.",
       "russian": "Я вегетарианец с десяти лет.",
@@ -1204,6 +1375,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er spielt Klavier seit seiner Kindheit.",
       "english": "He has been playing the piano since his childhood.",
       "russian": "Он играет на пианино с детства.",
@@ -1211,6 +1383,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich warte, bis du kommst.",
       "english": "I wait until you come.",
       "russian": "Я жду, пока ты не придешь.",
@@ -1218,6 +1391,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er bleibt hier, bis der Regen aufhört.",
       "english": "He stays here until the rain stops.",
       "russian": "Он остается здесь, пока не перестанет дождь.",
@@ -1225,6 +1399,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir warten, bis der Zug ankommt.",
       "english": "We wait until the train arrives.",
       "russian": "Мы ждем, пока не приедет поезд.",
@@ -1232,6 +1407,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie schläft, bis der Wecker klingelt.",
       "english": "She sleeps until the alarm clock rings.",
       "russian": "Она спит, пока не зазвонит будильник.",
@@ -1239,6 +1415,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich arbeite, bis die Aufgabe erledigt ist.",
       "english": "I work until the task is done.",
       "russian": "Я работаю, пока задача не выполнена.",
@@ -1246,6 +1423,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er liest, bis er müde wird.",
       "english": "He reads until he gets tired.",
       "russian": "Он читает, пока не устанет.",
@@ -1253,6 +1431,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir bleiben hier, bis das Konzert endet.",
       "english": "We stay here until the concert ends.",
       "russian": "Мы остаемся здесь, пока не закончится концерт.",
@@ -1260,6 +1439,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie redet, bis sie keine Stimme mehr hat.",
       "english": "She talks until she loses her voice.",
       "russian": "Она говорит, пока не потеряет голос.",
@@ -1267,6 +1447,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich warte, bis du fertig bist.",
       "english": "I wait until you are finished.",
       "russian": "Я жду, пока ты не закончишь.",
@@ -1274,6 +1455,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er fährt, bis er einen Rastplatz findet.",
       "english": "He drives until he finds a rest area.",
       "russian": "Он едет, пока не найдет место для отдыха.",
@@ -1281,6 +1463,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich lerne viel, damit ich die Prüfung bestehe.",
       "english": "I study a lot so that I can pass the exam.",
       "russian": "Я много учусь, чтобы сдать экзамен.",
@@ -1288,6 +1471,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er spart Geld, damit er ein Auto kaufen kann.",
       "english": "He saves money so that he can buy a car.",
       "russian": "Он копит деньги, чтобы купить машину.",
@@ -1295,6 +1479,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir machen Sport, damit wir gesund bleiben.",
       "english": "We exercise so that we stay healthy.",
       "russian": "Мы занимаемся спортом, чтобы оставаться здоровыми.",
@@ -1302,6 +1487,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie kocht, damit ihre Familie gut isst.",
       "english": "She cooks so that her family eats well.",
       "russian": "Она готовит, чтобы ее семья хорошо питалась.",
@@ -1309,6 +1495,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich arbeite hart, damit ich befördert werde.",
       "english": "I work hard so that I get promoted.",
       "russian": "Я усердно работаю, чтобы меня повысили.",
@@ -1316,6 +1503,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er lernt Deutsch, damit er in Deutschland studieren kann.",
       "english": "He learns German so that he can study in Germany.",
       "russian": "Он учит немецкий, чтобы учиться в Германии.",
@@ -1323,6 +1511,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir kaufen Blumen, damit das Zimmer schöner aussieht.",
       "english": "We buy flowers so that the room looks nicer.",
       "russian": "Мы покупаем цветы, чтобы комната выглядела красивее.",
@@ -1330,6 +1519,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie spart Geld, damit sie eine Reise machen kann.",
       "english": "She saves money so that she can take a trip.",
       "russian": "Она копит деньги, чтобы поехать в путешествие.",
@@ -1337,6 +1527,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich gehe früh ins Bett, damit ich genug Schlaf bekomme.",
       "english": "I go to bed early so that I get enough sleep.",
       "russian": "Я ложусь спать рано, чтобы выспаться.",
@@ -1344,6 +1535,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er macht Hausaufgaben, damit er in der Schule gut ist.",
       "english": "He does homework so that he is good at school.",
       "russian": "Он делает домашние задания, чтобы хорошо учиться в школе.",
@@ -1351,6 +1543,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich rufe dich an, sobald ich zu Hause bin.",
       "english": "I will call you as soon as I am home.",
       "russian": "Я позвоню тебе, как только буду дома.",
@@ -1358,6 +1551,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er geht ins Bett, sobald er müde ist.",
       "english": "He goes to bed as soon as he is tired.",
       "russian": "Он ложится спать, как только устает.",
@@ -1365,6 +1559,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir essen, sobald das Essen fertig ist.",
       "english": "We eat as soon as the food is ready.",
       "russian": "Мы едим, как только еда готова.",
@@ -1372,6 +1567,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie verlässt das Haus, sobald sie sich angezogen hat.",
       "english": "She leaves the house as soon as she is dressed.",
       "russian": "Она выходит из дома, как только оденется.",
@@ -1379,6 +1575,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich beantworte deine E-Mail, sobald ich Zeit habe.",
       "english": "I will answer your email as soon as I have time.",
       "russian": "Я отвечу на твое письмо, как только у меня будет время.",
@@ -1386,6 +1583,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er ruft an, sobald er die Nachricht erhält.",
       "english": "He calls as soon as he receives the message.",
       "russian": "Он звонит, как только получает сообщение.",
@@ -1393,6 +1591,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir gehen, sobald es aufhört zu regnen.",
       "english": "We go as soon as it stops raining.",
       "russian": "Мы идем, как только перестанет дождь.",
@@ -1400,6 +1599,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie lacht, sobald sie den Witz hört.",
       "english": "She laughs as soon as she hears the joke.",
       "russian": "Она смеется, как только услышит шутку.",
@@ -1407,6 +1607,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich packe, sobald ich die Liste habe.",
       "english": "I pack as soon as I have the list.",
       "russian": "Я упаковываюсь, как только у меня есть список.",
@@ -1414,6 +1615,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er beginnt, sobald alle bereit sind.",
       "english": "He starts as soon as everyone is ready.",
       "russian": "Он начинает, как только все будут готовы.",

@@ -7,6 +7,7 @@
   "content": [
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich integriere benutzerdefinierte API-Endpunkte in die Webanwendung.",
       "english": "I integrate custom API endpoints into the web application.",
       "russian": "Я интегрирую пользовательские конечные точки API в веб-приложение.",
@@ -14,6 +15,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich nutze moderne JavaScript-Frameworks wie React und Angular.",
       "english": "I use modern JavaScript frameworks like React and Angular.",
       "russian": "Я использую современные JavaScript-фреймворки, такие как React и Angular.",
@@ -21,6 +23,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich implementiere responsive Design-Techniken, um sicherzustellen, dass die Website auf allen Geräten gut aussieht.",
       "english": "I implement responsive design techniques to ensure the website looks good on all devices.",
       "russian": "Я реализую методы адаптивного дизайна, чтобы сайт хорошо выглядел на всех устройствах.",
@@ -28,6 +31,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich erstelle komplexe Benutzeroberflächen unter Verwendung von Component-Based-Architekturen.",
       "english": "I create complex user interfaces using component-based architectures.",
       "russian": "Я создаю сложные пользовательские интерфейсы, используя компонентно-ориентированные архитектуры.",
@@ -35,6 +39,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich optimiere den Frontend-Code für schnellere Ladezeiten und bessere Leistung.",
       "english": "I optimize the frontend code for faster loading times and better performance.",
       "russian": "Я оптимизирую фронтенд-код для более быстрого времени загрузки и лучшей производительности.",
@@ -42,6 +47,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich implementiere Sicherheitsmaßnahmen, um die Webanwendung vor potenziellen Bedrohungen zu schützen.",
       "english": "I implement security measures to protect the web application from potential threats.",
       "russian": "Я реализую меры безопасности для защиты веб-приложения от потенциальных угроз.",
@@ -49,6 +55,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich arbeite eng mit Backend-Entwicklern zusammen, um die Gesamtkohärenz der Anwendung zu gewährleisten.",
       "english": "I work closely with backend developers to ensure overall application coherence.",
       "russian": "Я тесно сотрудничаю с бэкенд-разработчиками, чтобы обеспечить общую согласованность приложения.",
@@ -56,6 +63,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich erstelle automatisierte Tests, um die Funktionalität der Benutzeroberfläche sicherzustellen.",
       "english": "I create automated tests to ensure the functionality of the user interface.",
       "russian": "Я создаю автоматизированные тесты, чтобы обеспечить функциональность пользовательского интерфейса.",
@@ -63,6 +71,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich benutze Docker zur Bereitstellung und Verwaltung von Entwicklungsumgebungen.",
       "english": "I use Docker for deployment and management of development environments.",
       "russian": "Я использую Docker для развертывания и управления средами разработки.",
@@ -70,6 +79,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich integriere fortgeschrittene CSS-Techniken wie SASS und LESS, um wiederverwendbare Stile zu erstellen.",
       "english": "I integrate advanced CSS techniques like SASS and LESS to create reusable styles.",
       "russian": "Я интегрирую продвинутые техники CSS, такие как SASS и LESS, чтобы создавать повторно используемые стили.",
@@ -77,6 +87,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich analysiere Nutzerfeedback, um die Benutzererfahrung kontinuierlich zu verbessern.",
       "english": "I analyze user feedback to continuously improve the user experience.",
       "russian": "Я анализирую отзывы пользователей, чтобы постоянно улучшать пользовательский опыт.",
@@ -84,6 +95,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich verwende WebAssembly, um rechenintensive Aufgaben im Browser auszuführen.",
       "english": "I use WebAssembly to perform computationally intensive tasks in the browser.",
       "russian": "Я использую WebAssembly для выполнения вычислительно интенсивных задач в браузере.",
@@ -91,6 +103,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich implementiere serverseitiges Rendering, um die SEO und Ladegeschwindigkeit zu verbessern.",
       "english": "I implement server-side rendering to improve SEO and loading speed.",
       "russian": "Я реализую серверный рендеринг для улучшения SEO и скорости загрузки.",
@@ -98,6 +111,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich benutze Redux für das State Management in großen Anwendungen.",
       "english": "I use Redux for state management in large applications.",
       "russian": "Я использую Redux для управления состоянием в больших приложениях.",
@@ -105,6 +119,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich erstelle CI/CD-Pipelines, um den Entwicklungsprozess zu automatisieren.",
       "english": "I create CI/CD pipelines to automate the development process.",
       "russian": "Я создаю CI/CD пайплайны для автоматизации процесса разработки.",
@@ -112,6 +127,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich integriere externe Bibliotheken und Tools, um die Funktionalität der Anwendung zu erweitern.",
       "english": "I integrate external libraries and tools to extend the application's functionality.",
       "russian": "Я интегрирую внешние библиотеки и инструменты для расширения функциональности приложения.",
@@ -119,6 +135,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich nutze GraphQL, um flexible und effiziente Datenabfragen zu ermöglichen.",
       "english": "I use GraphQL to enable flexible and efficient data queries.",
       "russian": "Я использую GraphQL для обеспечения гибких и эффективных запросов данных.",
@@ -126,6 +143,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich entwickle Micro-Frontend-Architekturen, um die Skalierbarkeit von großen Projekten zu verbessern.",
       "english": "I develop micro-frontend architectures to improve the scalability of large projects.",
       "russian": "Я разрабатываю микро-фронтенд архитектуры для улучшения масштабируемости больших проектов.",
@@ -133,6 +151,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich implementiere Lazy Loading und Code-Splitting, um die initiale Ladezeit zu reduzieren.",
       "english": "I implement lazy loading and code splitting to reduce initial loading time.",
       "russian": "Я реализую ленивую загрузку и разделение кода для уменьшения времени начальной загрузки.",
@@ -140,6 +159,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich arbeite mit Web Components, um wiederverwendbare und isolierte UI-Elemente zu erstellen.",
       "english": "I work with web components to create reusable and isolated UI elements.",
       "russian": "Я работаю с веб-компонентами, чтобы создавать повторно используемые и изолированные элементы интерфейса.",
@@ -147,6 +167,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich benutze TypeScript, um typisierte und skalierbare JavaScript-Anwendungen zu schreiben.",
       "english": "I use TypeScript to write typed and scalable JavaScript applications.",
       "russian": "Я использую TypeScript для написания типизированных и масштабируемых JavaScript приложений.",
@@ -154,6 +175,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich entwickle Echtzeit-Features mit WebSockets und Server-Sent Events.",
       "english": "I develop real-time features with WebSockets and server-sent events.",
       "russian": "Я разрабатываю функции реального времени с WebSockets и событиями, отправляемыми сервером.",
@@ -161,6 +183,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich optimiere den Code durch Tree Shaking, um ungenutzte Module zu entfernen.",
       "english": "I optimize the code through tree shaking to remove unused modules.",
       "russian": "Я оптимизирую код с помощью Tree Shaking, чтобы удалить неиспользуемые модули.",
@@ -168,6 +191,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich erstelle und verwalte RESTful APIs für die Datenkommunikation zwischen Frontend und Backend.",
       "english": "I create and manage RESTful APIs for data communication between frontend and backend.",
       "russian": "Я создаю и управляю RESTful API для обмена данными между фронтендом и бэкендом.",
@@ -175,6 +199,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich implementiere automatisierte Build-Prozesse mit Tools wie Gulp und Grunt.",
       "english": "I implement automated build processes with tools like Gulp and Grunt.",
       "russian": "Я реализую автоматизированные процессы сборки с помощью таких инструментов, как Gulp и Grunt.",
@@ -182,6 +207,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich arbeite mit verschiedenen Datenbanken und API-Technologien, um vollständige Anwendungen zu erstellen.",
       "english": "I work with various databases and API technologies to create full-fledged applications.",
       "russian": "Я работаю с различными базами данных и API технологиями для создания полноценных приложений.",
@@ -189,6 +215,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich entwickle komplexe Single-Page-Applications (SPA) mit modernsten Frameworks.",
       "english": "I develop complex single-page applications (SPA) with state-of-the-art frameworks.",
       "russian": "Я разрабатываю сложные одностраничные приложения (SPA) с использованием новейших фреймворков.",
@@ -196,6 +223,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich integriere Echtzeit-Analytik-Tools, um Nutzerverhalten zu verfolgen und zu analysieren.",
       "english": "I integrate real-time analytics tools to track and analyze user behavior.",
       "russian": "Я интегрирую инструменты аналитики в реальном времени, чтобы отслеживать и анализировать поведение пользователей.",
@@ -203,6 +231,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich nutze CSS-Präprozessoren wie Sass oder LESS, um den CSS-Code zu modularisieren und zu organisieren.",
       "english": "I use CSS preprocessors like Sass or LESS to modularize and organize the CSS code.",
       "russian": "Я использую CSS препроцессоры, такие как Sass или LESS, чтобы модулизировать и организовывать CSS код.",
@@ -210,6 +239,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich implementiere fortgeschrittene Performance-Optimierungen, um die Geschwindigkeit und Effizienz der Anwendung zu maximieren.",
       "english": "I implement advanced performance optimizations to maximize the speed and efficiency of the application.",
       "russian": "Я реализую продвинутые оптимизации производительности, чтобы максимально увеличить скорость и эффективность приложения.",
@@ -217,6 +247,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich entwickle benutzerdefinierte Hooks und HOCs für eine bessere Wiederverwendbarkeit von React-Komponenten.",
       "english": "I develop custom hooks and HOCs for better reusability of React components.",
       "russian": "Я разрабатываю пользовательские хуки и HOC для лучшей повторного использования React компонентов.",
@@ -224,6 +255,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich implementiere serverseitige Authentifizierung und Autorisierung für den sicheren Zugang zu Ressourcen.",
       "english": "I implement server-side authentication and authorization for secure access to resources.",
       "russian": "Я реализую серверную аутентификацию и авторизацию для безопасного доступа к ресурсам.",
@@ -231,6 +263,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich erstelle benutzerdefinierte Middleware, um die Funktionalität der Anwendung zu erweitern.",
       "english": "I create custom middleware to extend the application's functionality.",
       "russian": "Я создаю пользовательское промежуточное ПО для расширения функциональности приложения.",
@@ -238,6 +271,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich nutze Containerization-Techniken, um die Entwicklungsumgebung zu isolieren und zu verwalten.",
       "english": "I use containerization techniques to isolate and manage the development environment.",
       "russian": "Я использую техники контейнеризации, чтобы изолировать и управлять средой разработки.",
@@ -245,6 +279,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich entwickle PWA-Funktionen, um native App-Erlebnisse auf Webanwendungen zu bringen.",
       "english": "I develop PWA features to bring native app experiences to web applications.",
       "russian": "Я разрабатываю функции PWA, чтобы привнести опыт работы с нативными приложениями в веб-приложения.",
@@ -252,6 +287,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich erstelle und verwalte Container-Orchestrierung mit Kubernetes für skalierbare Anwendungen.",
       "english": "I create and manage container orchestration with Kubernetes for scalable applications.",
       "russian": "Я создаю и управляю оркестрацией контейнеров с Kubernetes для масштабируемых приложений.",
@@ -259,6 +295,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich integriere Echtzeit-Notifications, um Nutzer über wichtige Ereignisse zu informieren.",
       "english": "I integrate real-time notifications to inform users about important events.",
       "russian": "Я интегрирую уведомления в реальном времени, чтобы информировать пользователей о важных событиях.",
@@ -266,6 +303,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich benutze Jest und Enzyme für das Testen von React-Komponenten.",
       "english": "I use Jest and Enzyme for testing React components.",
       "russian": "Я использую Jest и Enzyme для тестирования React компонентов.",
@@ -273,6 +311,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich erstelle benutzerdefinierte Webpack-Konfigurationen, um den Build-Prozess zu optimieren.",
       "english": "I create custom Webpack configurations to optimize the build process.",
       "russian": "Я создаю пользовательские конфигурации Webpack, чтобы оптимизировать процесс сборки.",
@@ -280,6 +319,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich entwickle dynamische Formulare mit Validierungs- und Fehlerbehandlungs-Mechanismen.",
       "english": "I develop dynamic forms with validation and error handling mechanisms.",
       "russian": "Я разрабатываю динамические формы с механизмами валидации и обработки ошибок.",
@@ -287,6 +327,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich integriere Zahlungs-Gateways und sichere Transaktionsprozesse in die Webanwendung.",
       "english": "I integrate payment gateways and secure transaction processes into the web application.",
       "russian": "Я интегрирую платежные шлюзы и безопасные транзакционные процессы в веб-приложение.",
@@ -294,6 +335,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich optimiere Bilder und Medien für schnellere Ladezeiten und bessere Benutzererfahrung.",
       "english": "I optimize images and media for faster loading times and better user experience.",
       "russian": "Я оптимизирую изображения и медиа для более быстрого времени загрузки и лучшего пользовательского опыта.",
@@ -301,6 +343,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich entwickle benutzerdefinierte Animationen und Übergänge mit CSS und JavaScript.",
       "english": "I develop custom animations and transitions with CSS and JavaScript.",
       "russian": "Я разрабатываю пользовательские анимации и переходы с помощью CSS и JavaScript.",
@@ -308,6 +351,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich erstelle skalierbare und wiederverwendbare Komponentenbibliotheken.",
       "english": "I create scalable and reusable component libraries.",
       "russian": "Я создаю масштабируемые и повторно используемые библиотеки компонентов.",
@@ -315,6 +359,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich arbeite mit Datenvisualisierungstools wie D3.js und Chart.js, um interaktive Diagramme zu erstellen.",
       "english": "I work with data visualization tools like D3.js and Chart.js to create interactive charts.",
       "russian": "Я работаю с инструментами визуализации данных, такими как D3.js и Chart.js, чтобы создавать интерактивные диаграммы.",
@@ -322,6 +367,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich entwickle modulare und wartbare CSS-Architekturen mit BEM und SMACSS.",
       "english": "I develop modular and maintainable CSS architectures with BEM and SMACSS.",
       "russian": "Я разрабатываю модульные и поддерживаемые CSS архитектуры с BEM и SMACSS.",
@@ -329,6 +375,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich nutze Responsive Web Design (RWD) und Mobile-First-Ansätze, um die Benutzerfreundlichkeit zu verbessern.",
       "english": "I use responsive web design (RWD) and mobile-first approaches to enhance usability.",
       "russian": "Я использую адаптивный веб-дизайн (RWD) и мобильный подход для улучшения удобства использования.",
@@ -336,6 +383,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich integriere fortschrittliche Suchmaschinenoptimierungs-Techniken (SEO), um die Sichtbarkeit der Website zu erhöhen.",
       "english": "I integrate advanced search engine optimization (SEO) techniques to increase website visibility.",
       "russian": "Я интегрирую продвинутые методы оптимизации для поисковых систем (SEO), чтобы увеличить видимость сайта.",
@@ -343,6 +391,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich arbeite mit Content-Management-Systemen (CMS) wie WordPress und Joomla, um dynamische Inhalte zu verwalten.",
       "english": "I work with content management systems (CMS) like WordPress and Joomla to manage dynamic content.",
       "russian": "Я работаю с системами управления контентом (CMS), такими как WordPress и Joomla, чтобы управлять динамическим контентом.",
@@ -350,6 +399,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich entwickle benutzerdefinierte Plugins und Erweiterungen für verschiedene Plattformen.",
       "english": "I develop custom plugins and extensions for various platforms.",
       "russian": "Я разрабатываю пользовательские плагины и расширения для различных платформ.",
@@ -357,6 +407,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich optimiere die Zugänglichkeit (Accessibility) der Website für Nutzer mit Behinderungen.",
       "english": "I optimize the website's accessibility for users with disabilities.",
       "russian": "Я оптимизирую доступность сайта для пользователей с ограниченными возможностями.",
@@ -364,6 +415,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich implementiere Internationalisierung (i18n) und Lokalisierung (l10n) für mehrsprachige Anwendungen.",
       "english": "I implement internationalization (i18n) and localization (l10n) for multilingual applications.",
       "russian": "Я реализую интернационализацию (i18n) и локализацию (l10n) для многоязычных приложений.",
@@ -371,6 +423,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich nutze Webpack für das Bundling und die Optimierung von JavaScript-Modulen.",
       "english": "I use Webpack for bundling and optimizing JavaScript modules.",
       "russian": "Я использую Webpack для объединения и оптимизации JavaScript модулей.",
@@ -378,6 +431,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich entwickle datenintensive Anwendungen mit GraphQL und Apollo Client.",
       "english": "I develop data-intensive applications with GraphQL and Apollo Client.",
       "russian": "Я разрабатываю данные интенсивные приложения с GraphQL и Apollo Client.",
@@ -385,6 +439,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich erstelle benutzerdefinierte UI-Bibliotheken und Designsysteme für konsistente Benutzeroberflächen.",
       "english": "I create custom UI libraries and design systems for consistent user interfaces.",
       "russian": "Я создаю пользовательские библиотеки UI и системы дизайна для согласованных пользовательских интерфейсов.",
@@ -392,6 +447,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich nutze maschinelles Lernen, um Benutzerpräferenzen zu analysieren und personalisierte Inhalte bereitzustellen.",
       "english": "I use machine learning to analyze user preferences and deliver personalized content.",
       "russian": "Я использую машинное обучение для анализа предпочтений пользователей и предоставления персонализированного контента.",
@@ -399,6 +455,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich integriere Chatbots, die mit Hilfe von KI Benutzeranfragen in Echtzeit beantworten können.",
       "english": "I integrate chatbots that can respond to user queries in real time using AI.",
       "russian": "Я интегрирую чат-ботов, которые с помощью ИИ могут отвечать на запросы пользователей в реальном времени.",
@@ -406,6 +463,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich verwende KI-gestützte Tools, um die Leistung und Benutzerfreundlichkeit der Webseite zu analysieren und zu optimieren.",
       "english": "I use AI-powered tools to analyze and optimize the website's performance and usability.",
       "russian": "Я использую инструменты на основе ИИ для анализа и оптимизации производительности и удобства использования веб-сайта.",
@@ -413,6 +471,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich setze neuronale Netze ein, um Bilder und Videos automatisch zu kategorisieren und zu taggen.",
       "english": "I use neural networks to automatically categorize and tag images and videos.",
       "russian": "Я использую нейронные сети для автоматической категоризации и маркировки изображений и видео.",
@@ -420,6 +479,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich entwickle Algorithmen zur Gesichtserkennung, um die Sicherheit und Benutzererfahrung zu verbessern.",
       "english": "I develop facial recognition algorithms to enhance security and user experience.",
       "russian": "Я разрабатываю алгоритмы распознавания лиц для повышения безопасности и удобства пользователей.",
@@ -427,6 +487,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich integriere KI-gestützte Sprachverarbeitung, um Sprachbefehle und Sprachsuchen zu ermöglichen.",
       "english": "I integrate AI-powered natural language processing to enable voice commands and voice searches.",
       "russian": "Я интегрирую обработку естественного языка на основе ИИ для выполнения голосовых команд и голосовых поисков.",
@@ -434,6 +495,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich benutze maschinelles Lernen, um Empfehlungsalgorithmen zu entwickeln, die Benutzern relevante Inhalte vorschlagen.",
       "english": "I use machine learning to develop recommendation algorithms that suggest relevant content to users.",
       "russian": "Я использую машинное обучение для разработки алгоритмов рекомендаций, которые предлагают пользователям релевантный контент.",
@@ -441,6 +503,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich setze KI-basierte Analyse-Tools ein, um das Nutzerverhalten zu überwachen und Einblicke in die Nutzungsmuster zu gewinnen.",
       "english": "I use AI-based analytics tools to monitor user behavior and gain insights into usage patterns.",
       "russian": "Я использую аналитические инструменты на основе ИИ для мониторинга поведения пользователей и получения информации о шаблонах использования.",
@@ -448,6 +511,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich entwickle KI-Modelle, um personalisierte Benutzererfahrungen basierend auf vorhergesagten Präferenzen zu schaffen.",
       "english": "I develop AI models to create personalized user experiences based on predicted preferences.",
       "russian": "Я разрабатываю модели ИИ для создания персонализированных пользовательских интерфейсов на основе предсказанных предпочтений.",
@@ -455,6 +519,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich nutze künstliche Intelligenz, um die Anomalieerkennung in Webanwendungen zu verbessern und Sicherheitsbedrohungen zu erkennen.",
       "english": "I use artificial intelligence to enhance anomaly detection in web applications and identify security threats.",
       "russian": "Я использую искусственный интеллект для улучшения обнаружения аномалий в веб-приложениях и выявления угроз безопасности.",

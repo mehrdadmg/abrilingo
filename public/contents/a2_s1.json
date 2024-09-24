@@ -7,6 +7,7 @@
   "content": [
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich heiße Veronika Burger.",
       "english": "My name is Veronika Burger.",
       "russian": "Меня зовут Вероника Бургер.",
@@ -14,6 +15,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich bin Hotelfachfrau und arbeite an der Rezeption.",
       "english": "I am a hotel specialist and work at the reception.",
       "russian": "Я специалист по гостиничному делу и работаю на ресепшене.",
@@ -21,6 +23,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Später will ich ein Fachstudium machen und Hotelmanagerin werden.",
       "english": "Later, I want to do specialized studies and become a hotel manager.",
       "russian": "Позже я хочу пройти специализированное обучение и стать менеджером гостиницы.",
@@ -28,6 +31,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Mein Name ist Can Solak.",
       "english": "My name is Can Solak.",
       "russian": "Меня зовут Джан Солак.",
@@ -35,6 +39,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich bin Auszubildender und will Koch werden.",
       "english": "I am an apprentice and want to become a chef.",
       "russian": "Я ученик и хочу стать поваром.",
@@ -42,6 +47,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Meine Ausbildung dauert drei Jahre.",
       "english": "My training lasts three years.",
       "russian": "Мое обучение длится три года.",
@@ -49,6 +55,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "In zwei Jahren bin ich fertig.",
       "english": "In two years, I will be finished.",
       "russian": "Через два года я закончу.",
@@ -56,6 +63,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Zweimal in der Woche gehe ich zur Berufsschule.",
       "english": "Twice a week, I go to vocational school.",
       "russian": "Дважды в неделю я хожу в профессиональное училище.",
@@ -63,6 +71,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Dort lerne ich die Theorie.",
       "english": "There, I learn the theory.",
       "russian": "Там я изучаю теорию.",
@@ -70,6 +79,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Dreimal pro Woche arbeite ich in der Hotelküche.",
       "english": "Three times a week, I work in the hotel kitchen.",
       "russian": "Три раза в неделю я работаю на кухне отеля.",
@@ -77,6 +87,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Dort lerne ich die Praxis kennen.",
       "english": "There, I learn the practical side.",
       "russian": "Там я знакомлюсь с практической стороной.",
@@ -84,6 +95,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich bin Alexandra Babel.",
       "english": "I am Alexandra Babel.",
       "russian": "Я Александра Бабель.",
@@ -91,6 +103,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich räume die Gästezimmer auf.",
       "english": "I clean the guest rooms.",
       "russian": "Я убираю гостевые комнаты.",
@@ -98,6 +111,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Eigentlich bin ich Studentin.",
       "english": "Actually, I am a student.",
       "russian": "На самом деле, я студентка.",
@@ -105,6 +119,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Arbeit hier ist nur ein Nebenjob, denn ich brauche das Geld für mein Studium.",
       "english": "The work here is just a side job because I need the money for my studies.",
       "russian": "Работа здесь — это только подработка, потому что мне нужны деньги на учебу.",
@@ -112,6 +127,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Beim Zimmerpersonal arbeiten viele Mitarbeiter ohne Ausbildung.",
       "english": "Many staff members in housekeeping work without any formal training.",
       "russian": "Многие сотрудники гостиничного персонала работают без какого-либо образования.",
@@ -119,6 +135,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Mein Name ist Sven Matschak.",
       "english": "My name is Sven Matschak.",
       "russian": "Меня зовут Свен Матшак.",
@@ -126,6 +143,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich bin Hotelmanager im Hotel Sonnenhof.",
       "english": "I am the hotel manager at Hotel Sonnenhof.",
       "russian": "Я управляющий отеля в Hotel Sonnenhof.",
@@ -133,6 +151,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe eine Ausbildung zum Hotelfachmann gemacht.",
       "english": "I trained as a hotel specialist.",
       "russian": "Я прошел обучение на специалиста по гостиничному делу.",
@@ -140,6 +159,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Danach habe ich fünf Jahre in verschiedenen Hotels gearbeitet.",
       "english": "After that, I worked in various hotels for five years.",
       "russian": "После этого я пять лет работал в разных отелях.",
@@ -147,6 +167,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Vor drei Jahren habe ich mein Fachstudium beendet und jetzt bin ich Manager.",
       "english": "Three years ago, I completed my specialized studies and now I am a manager.",
       "russian": "Три года назад я закончил специализированное обучение и теперь я менеджер.",
@@ -154,6 +175,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wann kommt das Taxi?",
       "english": "When will the taxi arrive?",
       "russian": "Когда приедет такси?",
@@ -161,6 +183,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich denke, es ist in fünf Minuten hier.",
       "english": "I think it will be here in five minutes.",
       "russian": "Я думаю, оно будет здесь через пять минут.",
@@ -168,6 +191,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich wollte ein Nichtraucherzimmer, aber ich habe ein Raucherzimmer bekommen.",
       "english": "I wanted a non-smoking room, but I got a smoking room.",
       "russian": "Я хотел номер для некурящих, но получил номер для курящих.",
@@ -175,6 +199,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Oh, entschuldigen Sie bitte. Sie bekommen natürlich ein anderes Zimmer.",
       "english": "Oh, I am sorry. Of course, you will get another room.",
       "russian": "О, извините, пожалуйста. Вы, конечно, получите другой номер.",
@@ -182,6 +207,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wie lange hat das Restaurant geöffnet? Bis 23.00 Uhr.",
       "english": "How long is the restaurant open? Until 11:00 PM.",
       "russian": "Как долго работает ресторан? До 23:00.",
@@ -189,6 +215,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich möchte gerne zwei Tage länger bleiben. Geht das?",
       "english": "I would like to stay two days longer. Is that possible?",
       "russian": "Я хотел бы остаться на два дня дольше. Это возможно?",
@@ -196,6 +223,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Moment, da muss ich nachsehen... Nein, tut mir leid, wir haben kein Zimmer mehr frei.",
       "english": "One moment, I need to check... No, I am sorry, we do not have any rooms available.",
       "russian": "Минуточку, мне нужно проверить... Нет, извините, у нас больше нет свободных номеров.",
@@ -203,6 +231,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Haben Sie Postkarten?",
       "english": "Do you have postcards?",
       "russian": "У вас есть открытки?",
@@ -210,6 +239,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, Sie können sich hier eine aussuchen.",
       "english": "Yes, you can choose one here.",
       "russian": "Да, вы можете выбрать одну здесь.",
@@ -217,6 +247,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "In der MiniBar ist kein Mineralwasser.",
       "english": "There is no mineral water in the mini bar.",
       "russian": "В мини-баре нет минеральной воды.",
@@ -224,6 +255,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Entschuldigung, ich sage sofort dem Zimmerservice Bescheid.",
       "english": "Sorry, I will inform the room service immediately.",
       "russian": "Извините, я немедленно сообщу об этом обслуживанию номеров.",
@@ -231,6 +263,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Praxis Dr. Saus. Hier spricht Melanie Frei. Was kann ich für Sie tun?",
       "english": "Dr. Saus' practice. This is Melanie Frei speaking. How can I help you?",
       "russian": "Практика доктора Зауса. Говорит Мелани Фрай. Чем я могу вам помочь?",
@@ -238,6 +271,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Guten Tag, mein Name ist Hartmut Medo.",
       "english": "Good day, my name is Hartmut Medo.",
       "russian": "Добрый день, меня зовут Хартмут Мэдо.",
@@ -245,6 +279,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe Halsschmerzen und brauche ganz schnell einen Termin.",
       "english": "I have a sore throat and need an appointment very quickly.",
       "russian": "У меня болит горло, и мне срочно нужен прием.",
@@ -252,6 +287,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Am besten noch heute Vormittag, vielleicht in einer Stunde, also um 11 Uhr?",
       "english": "Preferably this morning, maybe in an hour, so at 11 o'clock?",
       "russian": "Предпочтительно сегодня утром, может быть, через час, так в 11 часов?",
@@ -259,6 +295,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Tut mir leid.",
       "english": "I am sorry.",
       "russian": "Извините.",
@@ -266,6 +303,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Wartezimmer ist sehr voll.",
       "english": "The waiting room is very full.",
       "russian": "Комната ожидания очень полная.",
@@ -273,6 +311,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Geht es heute Nachmittag um 15.00 Uhr?",
       "english": "Is this afternoon at 3:00 PM okay?",
       "russian": "Подойдет сегодня днем в 15:00?",
@@ -280,6 +319,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, das geht auch.",
       "english": "Yes, that works too.",
       "russian": "Да, это тоже подойдет.",
@@ -287,6 +327,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Oh, Entschuldigung! Ich sehe gerade, dass ich da auch schon Patienten eingetragen habe.",
       "english": "Oh, sorry! I just see that I already have patients scheduled at that time.",
       "russian": "О, извините! Я только что увидел, что у меня уже есть пациенты на это время.",
@@ -294,6 +335,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Geht es auch eine halbe Stunde später?",
       "english": "Is half an hour later also okay?",
       "russian": "Подойдет на полчаса позже?",
@@ -301,6 +343,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Um 15.30 Uhr? Na ja, wenn es sein muss.",
       "english": "At 3:30 PM? Well, if it must be.",
       "russian": "В 15:30? Ну, если нужно.",
@@ -308,6 +351,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Also dann bis 15.30 Uhr. Auf Wiederhören, Herr Medo.",
       "english": "Alright then, see you at 3:30 PM. Goodbye, Mr. Medo.",
       "russian": "Хорошо, тогда до 15:30. До свидания, господин Мэдо.",
@@ -315,6 +359,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Guten Tag, mein Name ist Carlos Gonzales.",
       "english": "Good day, my name is Carlos Gonzales.",
       "russian": "Добрый день, меня зовут Карлос Гонсалес.",
@@ -322,6 +367,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe hier einen Antrag auf Kindergeld für meine Familie und mich.",
       "english": "I have here an application for child benefits for my family and me.",
       "russian": "У меня здесь заявление на пособие на ребенка для моей семьи и меня.",
@@ -329,6 +375,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wollen Sie den Antrag abgeben?",
       "english": "Do you want to submit the application?",
       "russian": "Вы хотите подать заявление?",
@@ -336,6 +383,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, aber ich verstehe nicht alles.",
       "english": "Yes, but I do not understand everything.",
       "russian": "Да, но я не все понимаю.",
@@ -343,6 +391,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Können Sie mir helfen?",
       "english": "Can you help me?",
       "russian": "Вы можете мне помочь?",
@@ -350,6 +399,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Darf ich den Antrag bitte mal sehen?",
       "english": "May I see the application, please?",
       "russian": "Можно мне взглянуть на заявление, пожалуйста?",
@@ -357,6 +407,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Hier haben Sie alles eingetragen.",
       "english": "Here, you have filled everything in.",
       "russian": "Здесь вы все заполнили.",
@@ -364,6 +415,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Aber hier fehlt ein Kreuz.",
       "english": "But there is a check mark missing here.",
       "russian": "Но здесь не хватает галочки.",
@@ -371,6 +423,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, was heißt 'Erstantrag'?",
       "english": "Yes, what does “initial application” mean?",
       "russian": "Да, что означает «первоначальное заявление»?",
@@ -378,6 +431,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Können Sie mir das erklären?",
       "english": "Can you explain that to me?",
       "russian": "Вы можете мне это объяснить?",
@@ -385,6 +439,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Haben Sie schon einmal einen Antrag auf Kindergeld gestellt?",
       "english": "Have you ever applied for child benefits before?",
       "russian": "Вы когда-нибудь подавали заявление на пособие на ребенка?",
@@ -392,6 +447,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Nein, das ist mein erster Antrag auf Kindergeld.",
       "english": "No, this is my first application for child benefits.",
       "russian": "Нет, это мое первое заявление на пособие на ребенка.",
@@ -399,6 +455,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Dann ist das Ihr Erstantrag und Sie kreuzen das Feld an.",
       "english": "Then this is your initial application, and you check the box.",
       "russian": "Тогда это ваше первоначальное заявление, и вы отмечаете это поле.",
@@ -406,6 +463,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wie viele Kinder haben Sie denn?",
       "english": "How many children do you have?",
       "russian": "Сколько у вас детей?",
@@ -413,6 +471,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir haben zwei Kinder.",
       "english": "We have two children.",
       "russian": "У нас двое детей.",
@@ -420,6 +479,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Dann ist der Antrag also für zwei Kinder.",
       "english": "So, the application is for two children.",
       "russian": "Значит, заявление на двоих детей.",
@@ -427,6 +487,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Haben Sie alle Unterlagen?",
       "english": "Do you have all the documents?",
       "russian": "У вас есть все документы?",

@@ -7,6 +7,7 @@
   "content": [
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Guten Tag, ich bin Sorana Balbay.",
       "english": "Good day, I am Sorana Balbay.",
       "russian": "Добрый день, я Сорана Балбай.",
@@ -14,6 +15,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir haben vor zwei Tagen telefoniert. Das ist mein Mann Kerem.",
       "english": "We spoke on the phone two days ago. This is my husband Kerem.",
       "russian": "Мы говорили по телефону два дня назад. Это мой муж Керем.",
@@ -21,6 +23,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Guten Tag. Ja, richtig.",
       "english": "Good day. Yes, that's correct.",
       "russian": "Добрый день. Да, правильно.",
@@ -28,6 +31,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie haben den Termin um 20 Uhr.",
       "english": "You have the appointment at 8 PM.",
       "russian": "У вас встреча в 8 вечера.",
@@ -35,6 +39,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich bin Daniel Selig. Kommen Sie herein.",
       "english": "I am Daniel Selig. Come in.",
       "russian": "Я Даниэль Зелиг. Проходите.",
@@ -42,6 +47,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Vielen Dank. Wo fangen wir an?",
       "english": "Thank you very much. Where do we start?",
       "russian": "Большое спасибо. С чего начнем?",
@@ -49,6 +55,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich zeige Ihnen zuerst die Wohnräume.",
       "english": "I'll show you the living areas first.",
       "russian": "Я сначала покажу вам жилые комнаты.",
@@ -56,6 +63,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Dieses Zimmer hier ist ziemlich groß und hell.",
       "english": "This room here is quite large and bright.",
       "russian": "Эта комната здесь довольно большая и светлая.",
@@ -63,6 +71,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Man kann es gut als Wohnzimmer benutzen.",
       "english": "It can be well used as a living room.",
       "russian": "Его можно хорошо использовать как гостиную.",
@@ -70,6 +79,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Und hier ist auch der Balkon.",
       "english": "And here is also the balcony.",
       "russian": "И здесь также есть балкон.",
@@ -77,6 +87,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Jetzt ist es Abend und die Straße vor dem Haus ist ziemlich ruhig.",
       "english": "It is evening now and the street in front of the house is quite quiet.",
       "russian": "Сейчас вечер, и улица перед домом довольно тихая.",
@@ -84,6 +95,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wie ist es aber am Tag?",
       "english": "But how is it during the day?",
       "russian": "Но как это днем?",
@@ -91,6 +103,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Gibt es viel Verkehr und Lärm?",
       "english": "Is there a lot of traffic and noise?",
       "russian": "Здесь много движения и шума?",
@@ -98,6 +111,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ist hier nicht das Josefskrankenhaus in der Nähe?",
       "english": "Isn't the Josef Hospital nearby?",
       "russian": "Разве недалеко отсюда не больница Йозефа?",
@@ -105,6 +119,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, das stimmt. Deshalb fahren manchmal Kranken- und Notarztwagen auf der Hauptstraße vorbei.",
       "english": "Yes, that's right. That's why sometimes ambulances and emergency doctor vehicles drive by on the main street.",
       "russian": "Да, это правда. Поэтому иногда по главной улице проезжают машины скорой помощи и неотложки.",
@@ -112,6 +127,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Aber das passiert nicht oft und sie fahren meistens ohne Alarmsirene.",
       "english": "But that doesn't happen often and they mostly drive without the alarm siren.",
       "russian": "Но это происходит нечасто, и они в основном ездят без сирены.",
@@ -119,6 +135,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Oh, dieses Zimmer ist sicher gut als Schlafzimmer geeignet.",
       "english": "Oh, this room is certainly suitable as a bedroom.",
       "russian": "О, эта комната, конечно, подходит как спальня.",
@@ -126,6 +143,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Es ist zwar klein und auch ein bisschen dunkel, aber es ist sehr ruhig.",
       "english": "It is small and a bit dark, but it is very quiet.",
       "russian": "Оно маленькое и немного темное, но очень тихое.",
@@ -133,6 +151,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wie viele Quadratmeter hat es?",
       "english": "How many square meters does it have?",
       "russian": "Сколько в ней квадратных метров?",
@@ -140,6 +159,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Moment. Das muss ich nachsehen ... Es sind genau 12, ja, 12.",
       "english": "One moment. I need to check ... It's exactly 12, yes, 12.",
       "russian": "Момент. Я должен проверить ... Ровно 12, да, 12.",
@@ -147,6 +167,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Hier ist das dritte Zimmer.",
       "english": "Here is the third room.",
       "russian": "Вот третья комната.",
@@ -154,6 +175,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das ist sehr gut. Das Zimmer kann ich als Arbeitszimmer benutzen.",
       "english": "That's very good. I can use this room as an office.",
       "russian": "Это очень хорошо. Я могу использовать эту комнату как офис.",
@@ -161,6 +183,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Es ist viel Platz für meinen Schreibtisch und die Bücherregale.",
       "english": "There is plenty of space for my desk and bookshelves.",
       "russian": "Много места для моего стола и книжных полок.",
@@ -168,6 +191,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Allerdings sehe ich, dass die Wohnung noch nicht renoviert ist.",
       "english": "However, I see that the apartment has not been renovated yet.",
       "russian": "Однако я вижу, что квартира еще не отремонтирована.",
@@ -175,6 +199,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir lassen das noch machen.",
       "english": "We will have it done.",
       "russian": "Мы это еще сделаем.",
@@ -182,6 +207,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Aber wenn Sie diese Wohnung mieten, können wir natürlich über die Wandfarbe und andere Dinge reden.",
       "english": "But if you rent this apartment, we can of course talk about the wall color and other things.",
       "russian": "Но если вы арендуете эту квартиру, мы, конечно, можем поговорить о цвете стен и других вещах.",
@@ -189,6 +215,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Auch den Boden wollen wir noch erneuern.",
       "english": "We also want to renew the floor.",
       "russian": "Мы также хотим обновить пол.",
@@ -196,6 +223,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das heißt, Sie renovieren alles?",
       "english": "Does that mean you are renovating everything?",
       "russian": "Значит, вы все ремонтируете?",
@@ -203,6 +231,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, äh... nein, ich mache die Renovierung nicht selbst.",
       "english": "Yes, uh... no, I am not doing the renovation myself.",
       "russian": "Да, э... нет, я сам не занимаюсь ремонтом.",
@@ -210,6 +239,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe keine Zeit. Ich lasse die Wohnung renovieren.",
       "english": "I don't have time. I am having the apartment renovated.",
       "russian": "У меня нет времени. Я заказываю ремонт квартиры.",
@@ -217,6 +247,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe einer Firma den Auftrag gegeben.",
       "english": "I have commissioned a company.",
       "russian": "Я поручил это компании.",
@@ -224,6 +255,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Alles klar. Können wir jetzt noch die Küche sehen?",
       "english": "All right. Can we see the kitchen now?",
       "russian": "Все понятно. Можем ли мы теперь посмотреть кухню?",
@@ -231,6 +263,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja natürlich, gerne …",
       "english": "Yes, of course, with pleasure ...",
       "russian": "Да, конечно, с удовольствием ...",
@@ -238,6 +271,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Küche gefällt mir.",
       "english": "I like the kitchen.",
       "russian": "Мне нравится кухня.",
@@ -245,6 +279,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie bietet viel Platz.",
       "english": "It offers a lot of space.",
       "russian": "Она предлагает много места.",
@@ -252,6 +287,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Aber die Einbauküche ist schon ziemlich alt.",
       "english": "But the fitted kitchen is quite old.",
       "russian": "Но встроенная кухня довольно старая.",
@@ -259,6 +295,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich denke, dass wir eine neue kaufen.",
       "english": "I think we should buy a new one.",
       "russian": "Думаю, что нам следует купить новую.",
@@ -266,6 +303,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Was meinst du, Sorana?",
       "english": "What do you think, Sorana?",
       "russian": "Что ты думаешь, Сорана?",
@@ -273,6 +311,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, das möchte ich auch.",
       "english": "Yes, I would like that too.",
       "russian": "Да, я тоже этого хочу.",
@@ -280,6 +319,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das ist nicht nötig.",
       "english": "That is not necessary.",
       "russian": "Это не нужно.",
@@ -287,6 +327,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Einbauküche lasse ich auswechseln.",
       "english": "I will have the fitted kitchen replaced.",
       "russian": "Я заменю встроенную кухню.",
@@ -294,6 +335,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das macht eine Küchenfirma.",
       "english": "A kitchen company will do that.",
       "russian": "Это сделает кухонная фирма.",
@@ -301,6 +343,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die hat schon alles geplant.",
       "english": "They have already planned everything.",
       "russian": "Они уже все спланировали.",
@@ -308,6 +351,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "In einer Woche ist der Einbau.",
       "english": "The installation will be in a week.",
       "russian": "Установка будет через неделю.",
@@ -315,6 +359,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir können also bei der Küche nichts mehr selbst machen?",
       "english": "So we can't do anything ourselves with the kitchen?",
       "russian": "Так что мы ничего не можем сделать сами с кухней?",
@@ -322,6 +367,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Nein, tut mir leid. Das ist alles schon fertig.",
       "english": "No, I'm sorry. It's all already done.",
       "russian": "Нет, извините. Все уже сделано.",
@@ -329,6 +375,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Endlich ist alles in der Wohnung.",
       "english": "Finally, everything is in the apartment.",
       "russian": "Наконец-то все в квартире.",
@@ -336,6 +383,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Aber was für ein Chaos!",
       "english": "But what a mess!",
       "russian": "Но какой беспорядок!",
@@ -343,6 +391,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Was meinst du?",
       "english": "What do you think?",
       "russian": "Что ты думаешь?",
@@ -350,6 +399,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sollen wir heute noch die Möbel aufbauen?",
       "english": "Should we set up the furniture today?",
       "russian": "Нам следует сегодня собрать мебель?",
@@ -357,6 +407,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Heute, Samstagabend?",
       "english": "Today, Saturday evening?",
       "russian": "Сегодня, в субботу вечером?",
@@ -364,6 +415,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Nein, ich bin so müde.",
       "english": "No, I am so tired.",
       "russian": "Нет, я так устал.",
@@ -371,6 +423,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, ich auch.",
       "english": "Yes, me too.",
       "russian": "Да, я тоже.",
@@ -378,6 +431,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Dann gehen wir lieber früh schlafen.",
       "english": "Then we'd better go to bed early.",
       "russian": "Тогда нам лучше лечь спать пораньше.",
@@ -385,6 +439,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Morgen kommen ja auch unsere Freunde wieder.",
       "english": "Our friends are coming again tomorrow.",
       "russian": "Завтра наши друзья снова придут.",
@@ -392,6 +447,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich finde es toll, wie die uns helfen.",
       "english": "I think it's great how they help us.",
       "russian": "Я думаю, это здорово, как они нам помогают.",
@@ -399,6 +455,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Am nächsten Wochenende machen wir dann ein schönes Essen für alle als Dankeschön.",
       "english": "Next weekend we'll make a nice meal for everyone as a thank you.",
       "russian": "В следующие выходные мы приготовим вкусную еду для всех в знак благодарности.",
@@ -406,6 +463,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Guten Tag, können Sie mir helfen?",
       "english": "Good day, can you help me?",
       "russian": "Добрый день, можете мне помочь?",
@@ -413,6 +471,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja gern, was kann ich für Sie tun?",
       "english": "Yes, gladly, what can I do for you?",
       "russian": "Да, конечно, что я могу для вас сделать?",
@@ -420,6 +479,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich möchte meine Wohnung streichen und brauche Farbe und Pinsel.",
       "english": "I want to paint my apartment and need paint and brushes.",
       "russian": "Я хочу покрасить свою квартиру и мне нужны краска и кисти.",
@@ -427,6 +487,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, Wandfarbe haben wir da drüben und die Pinsel und Farbroller finden Sie links neben der Farbe im Regal.",
       "english": "Yes, we have wall paint over there and you can find the brushes and rollers on the left next to the paint on the shelf.",
       "russian": "Да, у нас есть краска для стен там, а кисти и валики вы найдете слева от краски на полке.",
@@ -434,6 +495,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir haben auch ein Sonderangebot: ein Pinselset für nur 5,35 Euro oder einen Farbroller nur 4,45 Euro.",
       "english": "We also have a special offer: a brush set for only 5.35 euros or a roller for only 4.45 euros.",
       "russian": "У нас также есть специальное предложение: набор кистей всего за 5,35 евро или валик всего за 4,45 евро.",
@@ -441,6 +503,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, den nehme ich, ein Roller ist besser als ein Pinsel.",
       "english": "Yes, I'll take it, a roller is better than a brush.",
       "russian": "Да, я возьму это, валик лучше, чем кисть.",
@@ -448,6 +511,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Brauchen Sie auch eine Leiter?",
       "english": "Do you also need a ladder?",
       "russian": "Вам также нужна лестница?",
@@ -455,6 +519,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Nein, eine Leiter habe ich schon.",
       "english": "No, I already have a ladder.",
       "russian": "Нет, у меня уже есть лестница.",
@@ -462,6 +527,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Guten Tag, wir möchten uns vorstellen.",
       "english": "Good day, we would like to introduce ourselves.",
       "russian": "Добрый день, мы хотели бы представиться.",
@@ -469,6 +535,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir sind die neuen Nachbarn, wir heißen Balbay.",
       "english": "We are the new neighbors, our name is Balbay.",
       "russian": "Мы новые соседи, нас зовут Балбай.",
@@ -476,6 +543,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Guten Tag, mein Name ist Becker.",
       "english": "Good day, my name is Becker.",
       "russian": "Добрый день, меня зовут Беккер.",
@@ -483,6 +551,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Hoffentlich fühlen Sie sich hier wohl.",
       "english": "Hopefully you feel comfortable here.",
       "russian": "Надеюсь, вам здесь комфортно.",
@@ -490,6 +559,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Haben Sie Kinder?",
       "english": "Do you have children?",
       "russian": "У вас есть дети?",
@@ -497,6 +567,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, wir haben zwei Mädchen, sie sind fünf und acht Jahre alt.",
       "english": "Yes, we have two girls, they are five and eight years old.",
       "russian": "Да, у нас две девочки, им пять и восемь лет.",
@@ -504,6 +575,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Oh, das ist schön, ich habe auch Kinder, zwei Jungen und ein Mädchen.",
       "english": "Oh, that's nice, I also have children, two boys and a girl.",
       "russian": "О, это хорошо, у меня тоже есть дети, два мальчика и девочка.",
@@ -511,6 +583,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Jungen sind Zwillinge, sie sind sechs und das Mädchen ist Acht.",
       "english": "The boys are twins, they are six and the girl is eight.",
       "russian": "Мальчики - близнецы, им шесть, а девочке восемь.",
@@ -518,6 +591,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ach, schön. Wir haben vorher in der Nähe vom Stadtzentrum gewohnt und die Wohnung war laut und klein.",
       "english": "Oh, nice. We used to live near the city center and the apartment was noisy and small.",
       "russian": "Ах, хорошо. Мы раньше жили недалеко от центра города, и квартира была шумной и маленькой.",
@@ -525,6 +599,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Hier haben wir mehr Platz. Das ist wunderbar.",
       "english": "Here we have more space. That's wonderful.",
       "russian": "Здесь у нас больше места. Это замечательно.",
@@ -532,6 +607,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich freue mich, dass Sie diese Wohnung bekommen haben.",
       "english": "I am glad that you got this apartment.",
       "russian": "Я рад, что вы получили эту квартиру.",
@@ -539,6 +615,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Guten Tag, wir sind die neuen Nachbarn. Balbay heißen wir.",
       "english": "Good day, we are the new neighbors. Our name is Balbay.",
       "russian": "Добрый день, мы новые соседи. Нас зовут Балбай.",
@@ -546,6 +623,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ehm, wir wollten uns nur kurz vorstellen.",
       "english": "Uh, we just wanted to briefly introduce ourselves.",
       "russian": "Эм, мы хотели бы только коротко представиться.",
@@ -553,6 +631,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, und?",
       "english": "Yes, and?",
       "russian": "Да, и?",
@@ -560,6 +639,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ehm, ja also, dann gehen wir mal wieder, einen schönen Tag noch....",
       "english": "Uh, yes, well, then we'll be on our way again, have a nice day....",
       "russian": "Эм, да, ну тогда мы снова пойдем, хорошего дня...",
@@ -567,6 +647,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Oh je, das kann ja lustig werden.",
       "english": "Oh dear, this could be fun.",
       "russian": "О боже, это может быть весело.",
@@ -574,6 +655,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Guten Tag, wir möchten uns vorstellen.",
       "english": "Good day, we would like to introduce ourselves.",
       "russian": "Добрый день, мы хотели бы представиться.",
@@ -581,6 +663,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir sind die neuen Nachbarn.",
       "english": "We are the new neighbors.",
       "russian": "Мы новые соседи.",
@@ -588,6 +671,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Balbay ist unser Name, das ist meine Frau.",
       "english": "Balbay is our name, this is my wife.",
       "russian": "Нас зовут Балбай, это моя жена.",
@@ -595,6 +679,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Guten Tag, freut mich, Sie kennenzulernen, woher kommen Sie denn?",
       "english": "Good day, nice to meet you, where are you from?",
       "russian": "Добрый день, приятно познакомиться, откуда вы?",
@@ -602,6 +687,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Guten Tag, wir sind aus der Türkei hierher gezogen.",
       "english": "Good day, we have moved here from Turkey.",
       "russian": "Добрый день, мы переехали сюда из Турции.",
@@ -609,6 +695,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Oh, das ist ja interessant.",
       "english": "Oh, that is interesting.",
       "russian": "О, это интересно.",
@@ -616,6 +703,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wie gefällt es Ihnen hier?",
       "english": "How do you like it here?",
       "russian": "Как вам здесь нравится?",
@@ -623,6 +711,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Bis jetzt fühlen wir uns sehr wohl.",
       "english": "So far, we feel very comfortable.",
       "russian": "Пока мы чувствуем себя очень комфортно.",
@@ -630,6 +719,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, hier sind auch alle Leute sehr nett.",
       "english": "Yes, everyone here is also very nice.",
       "russian": "Да, здесь все люди тоже очень милые.",
@@ -637,6 +727,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Danke, auf Wiedersehen.",
       "english": "Thank you, goodbye.",
       "russian": "Спасибо, до свидания.",
@@ -644,6 +735,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Tschüss, bis bald.",
       "english": "Goodbye, see you soon.",
       "russian": "До свидания, до скорого.",
@@ -651,6 +743,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Guten Tag, Herr Balbay, ich freue mich, Sie zu sehen.",
       "english": "Good day, Mr. Balbay, I am pleased to see you.",
       "russian": "Добрый день, господин Балбай, я рад вас видеть.",
@@ -658,6 +751,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Guten Tag, Herr Becker, wie geht es Ihnen?",
       "english": "Good day, Mr. Becker, how are you?",
       "russian": "Добрый день, господин Беккер, как вы?",
@@ -665,6 +759,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sehr gut, danke. Und selbst?",
       "english": "Very good, thank you. And you?",
       "russian": "Очень хорошо, спасибо. А вы?",
@@ -672,6 +767,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Auch gut, danke.",
       "english": "Also good, thank you.",
       "russian": "Тоже хорошо, спасибо.",
@@ -679,6 +775,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir haben uns hier schon gut eingelebt.",
       "english": "We have settled in well here.",
       "russian": "Мы уже хорошо обосновались здесь.",
@@ -686,6 +783,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das freut mich zu hören.",
       "english": "I am glad to hear that.",
       "russian": "Я рад это слышать.",
@@ -693,6 +791,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Guten Tag, Herr Becker, ich wollte fragen, ob ich mal die Bohrmaschine ausleihen kann?",
       "english": "Good day, Mr. Becker, I wanted to ask if I could borrow the drill?",
       "russian": "Добрый день, господин Беккер, я хотел спросить, могу ли я одолжить дрель?",
@@ -700,6 +799,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Aber natürlich, Herr Balbay, ich bringe sie Ihnen sofort.",
       "english": "But of course, Mr. Balbay, I'll bring it to you right away.",
       "russian": "Конечно, господин Балбай, я принесу её вам прямо сейчас.",
@@ -707,6 +807,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Vielen Dank, Herr Becker, ich brauche die Bohrmaschine nur für ein paar Löcher in der Wand.",
       "english": "Thank you very much, Mr. Becker, I only need the drill for a few holes in the wall.",
       "russian": "Большое спасибо, господин Беккер, мне нужна дрель только для нескольких отверстий в стене.",
@@ -714,6 +815,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Kein Problem, das geht schnell. Hier, bitte.",
       "english": "No problem, that goes quickly. Here, please.",
       "russian": "Нет проблем, это будет быстро. Вот, пожалуйста.",
@@ -721,6 +823,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Danke, ich bringe sie Ihnen morgen zurück.",
       "english": "Thanks, I'll bring it back to you tomorrow.",
       "russian": "Спасибо, я верну её вам завтра.",
@@ -728,6 +831,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Kein Problem, lassen Sie sich Zeit.",
       "english": "No problem, take your time.",
       "russian": "Без проблем, не торопитесь.",
@@ -735,6 +839,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Guten Tag, Frau Balbay. Haben Sie sich schon gut eingelebt?",
       "english": "Good day, Mrs. Balbay. Have you settled in well?",
       "russian": "Добрый день, госпожа Балбай. Вы уже хорошо обосновались?",
@@ -742,6 +847,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Guten Tag, Frau Becker. Ja, wir fühlen uns sehr wohl.",
       "english": "Good day, Mrs. Becker. Yes, we feel very comfortable.",
       "russian": "Добрый день, госпожа Беккер. Да, мы чувствуем себя очень комфортно.",
@@ -749,6 +855,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das freut mich. Wenn Sie etwas brauchen, sagen Sie Bescheid.",
       "english": "I am glad. If you need anything, just let me know.",
       "russian": "Я рад. Если вам что-нибудь понадобится, дайте мне знать.",
@@ -756,6 +863,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Vielen Dank, Frau Becker, das ist sehr freundlich von Ihnen.",
       "english": "Thank you very much, Mrs. Becker, that is very kind of you.",
       "russian": "Большое спасибо, госпожа Беккер, это очень любезно с вашей стороны.",
@@ -763,6 +871,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Guten Tag, Herr Balbay, wie gefällt es Ihnen hier?",
       "english": "Good day, Mr. Balbay, how do you like it here?",
       "russian": "Добрый день, господин Балбай, как вам здесь нравится?",
@@ -770,6 +879,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Guten Tag, Herr Becker, es gefällt mir gut hier, vielen Dank.",
       "english": "Good day, Mr. Becker, I like it here, thank you very much.",
       "russian": "Добрый день, господин Беккер, мне здесь нравится, большое спасибо.",
@@ -777,6 +887,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Brauchen Sie Hilfe beim Einzug?",
       "english": "Do you need help with moving in?",
       "russian": "Вам нужна помощь с переездом?",
@@ -784,6 +895,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Nein, danke, wir haben schon alles erledigt.",
       "english": "No, thank you, we have already done everything.",
       "russian": "Нет, спасибо, мы уже все сделали.",
@@ -791,6 +903,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Gut, wenn Sie etwas brauchen, lassen Sie es mich wissen.",
       "english": "Good, if you need anything, let me know.",
       "russian": "Хорошо, если вам что-нибудь понадобится, дайте мне знать.",
@@ -798,6 +911,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Vielen Dank, Herr Becker.",
       "english": "Thank you very much, Mr. Becker.",
       "russian": "Большое спасибо, господин Беккер.",

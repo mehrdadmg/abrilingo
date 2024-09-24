@@ -7,6 +7,7 @@
   "content": [
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Um 7 Uhr stehe ich auf.",
       "english": "At 7 o'clock I get up.",
       "russian": "В 7 часов я встаю.",
@@ -14,6 +15,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Um Mitternacht schlafe ich ein.",
       "english": "At midnight I fall asleep.",
       "russian": "В полночь я засыпаю.",
@@ -21,6 +23,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Um 14 Uhr beginnt die Besprechung.",
       "english": "At 2 PM the meeting begins.",
       "russian": "В 14 часов начинается совещание.",
@@ -28,6 +31,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Um 18 Uhr essen wir zu Abend.",
       "english": "At 6 PM we have dinner.",
       "russian": "В 18 часов мы ужинаем.",
@@ -35,6 +39,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Um 20 Uhr sehe ich fern.",
       "english": "At 8 PM I watch TV.",
       "russian": "В 20 часов я смотрю телевизор.",
@@ -42,6 +47,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Um 12 Uhr esse ich zu Mittag.",
       "english": "At 12 o'clock I have lunch.",
       "russian": "В 12 часов я обедаю.",
@@ -49,6 +55,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Um 6 Uhr gehe ich joggen.",
       "english": "At 6 o'clock I go jogging.",
       "russian": "В 6 часов я иду на пробежку.",
@@ -56,6 +63,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Um 22 Uhr gehe ich ins Bett.",
       "english": "At 10 PM I go to bed.",
       "russian": "В 22 часа я ложусь спать.",
@@ -63,6 +71,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Um 9 Uhr beginnt der Unterricht.",
       "english": "At 9 o'clock the class begins.",
       "russian": "В 9 часов начинаются занятия.",
@@ -70,6 +79,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Um 16 Uhr gehe ich ins Fitnessstudio.",
       "english": "At 4 PM I go to the gym.",
       "russian": "В 16 часов я иду в спортзал.",
@@ -77,6 +87,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Am Montag habe ich ein Meeting.",
       "english": "On Monday I have a meeting.",
       "russian": "В понедельник у меня встреча.",
@@ -84,6 +95,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Am Wochenende besuche ich meine Eltern.",
       "english": "On the weekend I visit my parents.",
       "russian": "На выходных я навещаю своих родителей.",
@@ -91,6 +103,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Am 1. Januar feiern wir Neujahr.",
       "english": "On January 1st we celebrate New Year.",
       "russian": "1 января мы празднуем Новый год.",
@@ -98,6 +111,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Am Freitagabend gehen wir ins Kino.",
       "english": "On Friday evening we go to the cinema.",
       "russian": "В пятницу вечером мы идем в кино.",
@@ -105,6 +119,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Am Morgen lese ich die Zeitung.",
       "english": "In the morning I read the newspaper.",
       "russian": "Утром я читаю газету.",
@@ -112,6 +127,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Am Nachmittag mache ich einen Spaziergang.",
       "english": "In the afternoon I go for a walk.",
       "russian": "После обеда я гуляю.",
@@ -119,6 +135,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Am Abend esse ich mit meiner Familie.",
       "english": "In the evening I have dinner with my family.",
       "russian": "Вечером я ужинаю с семьей.",
@@ -126,6 +143,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Am Dienstag treffe ich meine Freunde.",
       "english": "On Tuesday I meet my friends.",
       "russian": "Во вторник я встречаюсь с друзьями.",
@@ -133,6 +151,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Am Samstag kaufe ich ein.",
       "english": "On Saturday I go shopping.",
       "russian": "В субботу я хожу за покупками.",
@@ -140,6 +159,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Am Donnerstag habe ich frei.",
       "english": "On Thursday I have the day off.",
       "russian": "В четверг у меня выходной.",
@@ -147,6 +167,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ab morgen werde ich mehr Sport treiben.",
       "english": "From tomorrow I will do more sports.",
       "russian": "С завтрашнего дня я буду больше заниматься спортом.",
@@ -154,6 +175,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ab nächster Woche arbeite ich weniger Stunden.",
       "english": "From next week I will work fewer hours.",
       "russian": "Со следующей недели я буду работать меньше часов.",
@@ -161,6 +183,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ab 1. Juni bin ich im Urlaub.",
       "english": "From June 1st I will be on vacation.",
       "russian": "С 1 июня я буду в отпуске.",
@@ -168,6 +191,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ab Montag beginnt mein neuer Job.",
       "english": "From Monday my new job starts.",
       "russian": "С понедельника начинается моя новая работа.",
@@ -175,6 +199,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ab nächstem Monat wohne ich in einer neuen Stadt.",
       "english": "From next month I will live in a new city.",
       "russian": "Со следующего месяца я буду жить в новом городе.",
@@ -182,6 +207,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ab sofort esse ich gesünder.",
       "english": "From now on I will eat healthier.",
       "russian": "С этого момента я буду питаться здоровее.",
@@ -189,6 +215,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ab nächstem Jahr studiere ich im Ausland.",
       "english": "From next year I will study abroad.",
       "russian": "Со следующего года я буду учиться за границей.",
@@ -196,6 +223,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ab übermorgen besuche ich einen Sprachkurs.",
       "english": "From the day after tomorrow I will attend a language course.",
       "russian": "Послезавтра я начну посещать языковой курс.",
@@ -203,6 +231,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ab Januar mache ich eine Diät.",
       "english": "From January I will be on a diet.",
       "russian": "С января я буду на диете.",
@@ -210,6 +239,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ab der nächsten Woche nehme ich Tanzstunden.",
       "english": "From next week I will take dance lessons.",
       "russian": "Со следующей недели я буду брать уроки танцев.",
@@ -217,6 +247,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Im Januar ist es sehr kalt.",
       "english": "In January it is very cold.",
       "russian": "В январе очень холодно.",
@@ -224,6 +255,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Im Sommer gehe ich oft schwimmen.",
       "english": "In the summer I often go swimming.",
       "russian": "Летом я часто хожу плавать.",
@@ -231,6 +263,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Im Herbst fallen die Blätter.",
       "english": "In the autumn the leaves fall.",
       "russian": "Осенью опадают листья.",
@@ -238,6 +271,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Im Winter fahren wir in den Skiurlaub.",
       "english": "In the winter we go on a skiing holiday.",
       "russian": "Зимой мы едем на лыжный отдых.",
@@ -245,6 +279,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Im Frühling blühen die Blumen.",
       "english": "In the spring the flowers bloom.",
       "russian": "Весной цветы цветут.",
@@ -252,6 +287,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Im nächsten Jahr werde ich ein Haus kaufen.",
       "english": "Next year I will buy a house.",
       "russian": "В следующем году я куплю дом.",
@@ -259,6 +295,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Im August haben wir Ferien.",
       "english": "In August we have a vacation.",
       "russian": "В августе у нас отпуск.",
@@ -266,6 +303,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Im Dezember feiern wir Weihnachten.",
       "english": "In December we celebrate Christmas.",
       "russian": "В декабре мы празднуем Рождество.",
@@ -273,6 +311,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Im Mai heiratet meine Schwester.",
       "english": "In May my sister is getting married.",
       "russian": "В мае моя сестра выходит замуж.",
@@ -280,6 +319,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Im November hat mein Bruder Geburtstag.",
       "english": "In November my brother has a birthday.",
       "russian": "В ноябре у моего брата день рождения.",
@@ -288,6 +328,7 @@
 
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Von Montag bis Freitag arbeite ich.",
       "english": "From Monday to Friday I work.",
       "russian": "С понедельника по пятницу я работаю.",
@@ -295,6 +336,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Von 9 bis 17 Uhr bin ich im Büro.",
       "english": "From 9 to 5 I am in the office.",
       "russian": "С 9 до 17 часов я в офисе.",
@@ -302,6 +344,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Von Juni bis August sind Sommerferien.",
       "english": "From June to August is summer vacation.",
       "russian": "С июня по август - летние каникулы.",
@@ -309,6 +352,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Von 1. Januar bis 31. Dezember ist das Jahr.",
       "english": "From January 1st to December 31st is the year.",
       "russian": "С 1 января по 31 декабря - это год.",
@@ -316,6 +360,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Von morgens bis abends bin ich beschäftigt.",
       "english": "From morning till evening I am busy.",
       "russian": "С утра до вечера я занят.",
@@ -323,6 +368,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Von Februar bis April ist es oft regnerisch.",
       "english": "From February to April it is often rainy.",
       "russian": "С февраля по апрель часто идет дождь.",
@@ -330,6 +376,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Von 18 bis 20 Uhr habe ich Training.",
       "english": "From 6 to 8 PM I have training.",
       "russian": "С 18 до 20 часов у меня тренировка.",
@@ -337,6 +384,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Von Mai bis September ist es warm.",
       "english": "From May to September it is warm.",
       "russian": "С мая по сентябрь тепло.",
@@ -344,6 +392,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Von 8 bis 10 Uhr habe ich Unterricht.",
       "english": "From 8 to 10 I have classes.",
       "russian": "С 8 до 10 часов у меня занятия.",
@@ -351,6 +400,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Von heute bis morgen bleibt das Geschäft geschlossen.",
       "english": "From today till tomorrow the shop remains closed.",
       "russian": "С сегодняшнего дня до завтра магазин остается закрытым.",
@@ -358,6 +408,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Um 7 Uhr stehe ich auf und gehe ab 8 Uhr zur Arbeit.",
       "english": "At 7 o'clock I get up and from 8 o'clock I go to work.",
       "russian": "В 7 часов я встаю, а с 8 часов иду на работу.",
@@ -365,6 +416,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Am Montag habe ich ein Meeting, das von 9 bis 11 Uhr dauert.",
       "english": "On Monday I have a meeting that lasts from 9 to 11 AM.",
       "russian": "В понедельник у меня встреча, которая длится с 9 до 11 часов.",
@@ -372,6 +424,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ab morgen werde ich mehr Sport treiben und um 18 Uhr ins Fitnessstudio gehen.",
       "english": "From tomorrow I will do more sports and go to the gym at 6 PM.",
       "russian": "С завтрашнего дня я буду больше заниматься спортом и ходить в спортзал в 18 часов.",
@@ -379,6 +432,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Im Sommer gehe ich oft schwimmen, besonders am Wochenende.",
       "english": "In the summer I often go swimming, especially on weekends.",
       "russian": "Летом я часто хожу плавать, особенно по выходным.",
@@ -386,6 +440,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Von Montag bis Freitag arbeite ich und am Samstag mache ich einen Ausflug.",
       "english": "From Monday to Friday I work and on Saturday I go on a trip.",
       "russian": "С понедельника по пятницу я работаю, а в субботу еду в поездку.",
@@ -393,6 +448,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ab nächster Woche werde ich ab 7 Uhr joggen und um 8 Uhr frühstücken.",
       "english": "From next week I will jog from 7 o'clock and have breakfast at 8 o'clock.",
       "russian": "Со следующей недели я буду бегать с 7 часов и завтракать в 8 часов.",
@@ -400,6 +456,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Um 20 Uhr sehe ich fern, nachdem ich ab 18 Uhr gekocht habe.",
       "english": "At 8 PM I watch TV after I have cooked from 6 PM.",
       "russian": "В 20 часов я смотрю телевизор после того, как я готовил с 18 часов.",
@@ -407,6 +464,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Im Winter fahren wir in den Skiurlaub, meist von Dezember bis Januar.",
       "english": "In winter we go on a skiing holiday, mostly from December to January.",
       "russian": "Зимой мы едем на лыжный отдых, в основном с декабря по январь.",
@@ -414,6 +472,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ab dem 1. Januar mache ich eine Diät und gehe um 19 Uhr spazieren.",
       "english": "From January 1st I will be on a diet and go for a walk at 7 PM.",
       "russian": "С 1 января я буду на диете и гулять в 19 часов.",
@@ -421,6 +480,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Am Morgen lese ich die Zeitung und abends um 22 Uhr gehe ich ins Bett.",
       "english": "In the morning I read the newspaper and in the evening at 10 PM I go to bed.",
       "russian": "Утром я читаю газету, а вечером в 22 часа ложусь спать.",
@@ -428,6 +488,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ab nächstem Jahr studiere ich im Ausland und im Sommer besuche ich meine Familie.",
       "english": "From next year I will study abroad and in the summer I will visit my family.",
       "russian": "Со следующего года я буду учиться за границей, а летом навещать свою семью.",
@@ -435,6 +496,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Im Frühling blühen die Blumen, besonders im April und Mai.",
       "english": "In spring the flowers bloom, especially in April and May.",
       "russian": "Весной цветы цветут, особенно в апреле и мае.",
@@ -442,6 +504,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Von 8 bis 10 Uhr habe ich Unterricht und um 12 Uhr esse ich zu Mittag.",
       "english": "From 8 to 10 I have classes and at 12 I have lunch.",
       "russian": "С 8 до 10 часов у меня занятия, а в 12 я обедаю.",
@@ -449,6 +512,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Am Freitagabend gehen wir ins Kino und um Mitternacht schlafen wir ein.",
       "english": "On Friday evening we go to the cinema and at midnight we fall asleep.",
       "russian": "В пятницу вечером мы идем в кино, а в полночь засыпаем.",
@@ -456,6 +520,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ab Montag beginnt mein neuer Job, der von 9 bis 17 Uhr dauert.",
       "english": "From Monday my new job starts, which lasts from 9 to 5.",
       "russian": "С понедельника начинается моя новая работа, которая длится с 9 до 17 часов.",
@@ -463,6 +528,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Im Januar ist es sehr kalt, besonders von morgens bis abends.",
       "english": "In January it is very cold, especially from morning till evening.",
       "russian": "В январе очень холодно, особенно с утра до вечера.",
@@ -470,6 +536,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Um 16 Uhr gehe ich ins Fitnessstudio, nachdem ich ab 14 Uhr gearbeitet habe.",
       "english": "At 4 PM I go to the gym after I have worked from 2 PM.",
       "russian": "В 16 часов я иду в спортзал после того, как работал с 14 часов.",
@@ -477,6 +544,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Am Wochenende besuche ich meine Eltern und abends um 19 Uhr essen wir zusammen.",
       "english": "On the weekend I visit my parents and in the evening at 7 PM we eat together.",
       "russian": "На выходных я навещаю своих родителей, а вечером в 19 часов мы ужинаем вместе.",
@@ -484,6 +552,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Von Mai bis September ist es warm, sodass ich oft im Sommer schwimmen gehe.",
       "english": "From May to September it is warm, so I often go swimming in the summer.",
       "russian": "С мая по сентябрь тепло, так что я часто хожу плавать летом.",
@@ -491,6 +560,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ab der nächsten Woche nehme ich Tanzstunden und übe täglich um 18 Uhr.",
       "english": "From next week I will take dance lessons and practice daily at 6 PM.",
       "russian": "Со следующей недели я буду брать уроки танцев и ежедневно практиковаться в 18 часов.",
@@ -498,6 +568,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ab morgen, jeden Tag von fünf bis acht Uhr werde ich joggen.",
       "english": "From tomorrow, every day from five to eight o'clock I will jog.",
       "russian": "С завтрашнего дня, каждый день с пяти до восьми часов я буду бегать.",
@@ -505,6 +576,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Morgen von Mittag bis Abend werde ich lernen.",
       "english": "Tomorrow from noon to evening I will study.",
       "russian": "Завтра с полудня до вечера я буду учиться.",
@@ -512,6 +584,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Um 7 Uhr stehe ich auf und ab 8 Uhr gehe ich zur Arbeit.",
       "english": "At 7 o'clock I get up and from 8 o'clock I go to work.",
       "russian": "В 7 часов я встаю, а с 8 часов иду на работу.",
@@ -519,6 +592,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Am Montag, von 9 bis 11 Uhr, habe ich ein Meeting.",
       "english": "On Monday, from 9 to 11 o'clock, I have a meeting.",
       "russian": "В понедельник, с 9 до 11 часов, у меня встреча.",
@@ -526,6 +600,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ab nächster Woche, von Montag bis Freitag, werde ich früher aufstehen.",
       "english": "From next week, from Monday to Friday, I will get up earlier.",
       "russian": "Со следующей недели, с понедельника по пятницу, я буду вставать раньше.",
@@ -533,6 +608,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Im Sommer, besonders am Wochenende, gehe ich oft schwimmen.",
       "english": "In the summer, especially on weekends, I often go swimming.",
       "russian": "Летом, особенно по выходным, я часто хожу плавать.",
@@ -540,6 +616,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ab heute werde ich jeden Morgen um 6 Uhr aufstehen und um 7 Uhr joggen.",
       "english": "From today I will get up every morning at 6 o'clock and jog at 7 o'clock.",
       "russian": "С сегодняшнего дня я буду вставать каждое утро в 6 часов и бегать в 7 часов.",
@@ -547,6 +624,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Morgen von früh bis spät werde ich an meinem Projekt arbeiten.",
       "english": "Tomorrow from early until late I will work on my project.",
       "russian": "Завтра с раннего утра до позднего вечера я буду работать над своим проектом.",
@@ -554,6 +632,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ab nächster Woche, von 10 bis 12 Uhr, habe ich einen neuen Kurs.",
       "english": "From next week, from 10 to 12 o'clock, I have a new course.",
       "russian": "Со следующей недели, с 10 до 12 часов, у меня новый курс.",
@@ -561,6 +640,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Im Herbst, besonders im Oktober und November, genieße ich die kühle Luft.",
       "english": "In autumn, especially in October and November, I enjoy the cool air.",
       "russian": "Осенью, особенно в октябре и ноябре, я наслаждаюсь прохладным воздухом.",
@@ -568,6 +648,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Von 9 bis 17 Uhr arbeite ich und um 18 Uhr gehe ich ins Fitnessstudio.",
       "english": "I work from 9 to 5 and at 6 PM I go to the gym.",
       "russian": "Я работаю с 9 до 17 часов, а в 18 часов иду в спортзал.",
@@ -575,6 +656,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Am Sonntag, von 14 bis 16 Uhr, besuche ich meine Großeltern.",
       "english": "On Sunday, from 2 to 4 PM, I visit my grandparents.",
       "russian": "В воскресенье, с 14 до 16 часов, я навещаю своих бабушку и дедушку.",
@@ -582,6 +664,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ab dem 1. Juli werde ich jeden Tag von 6 bis 8 Uhr schwimmen.",
       "english": "From July 1st I will swim every day from 6 to 8 o'clock.",
       "russian": "С 1 июля я буду плавать каждый день с 6 до 8 часов.",
@@ -589,6 +672,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Im Dezember, von Weihnachten bis Neujahr, mache ich Urlaub.",
       "english": "In December, from Christmas to New Year, I go on vacation.",
       "russian": "В декабре, с Рождества до Нового года, я в отпуске.",
@@ -596,6 +680,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Vor dem Frühstück lese ich die Zeitung.",
       "english": "Before breakfast, I read the newspaper.",
       "russian": "Перед завтраком я читаю газету.",
@@ -603,6 +688,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Vor der Arbeit gehe ich joggen.",
       "english": "Before work, I go jogging.",
       "russian": "Перед работой я бегаю.",
@@ -610,6 +696,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Vor dem Schlafengehen trinke ich einen Tee.",
       "english": "Before going to bed, I drink a tea.",
       "russian": "Перед сном я пью чай.",
@@ -617,6 +704,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Vor dem Abendessen mache ich meine Hausaufgaben.",
       "english": "Before dinner, I do my homework.",
       "russian": "Перед ужином я делаю домашнее задание.",
@@ -624,6 +712,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Vor der Besprechung bereite ich meine Notizen vor.",
       "english": "Before the meeting, I prepare my notes.",
       "russian": "Перед встречей я готовлю свои заметки.",
@@ -631,6 +720,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Vor dem Wochenende kaufe ich ein.",
       "english": "Before the weekend, I go shopping.",
       "russian": "Перед выходными я иду за покупками.",
@@ -638,6 +728,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Vor der Party dekoriere ich das Haus.",
       "english": "Before the party, I decorate the house.",
       "russian": "Перед вечеринкой я украшаю дом.",
@@ -645,6 +736,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Vor dem Urlaub packe ich meinen Koffer.",
       "english": "Before the vacation, I pack my suitcase.",
       "russian": "Перед отпуском я упаковываю чемодан.",
@@ -652,6 +744,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Vor dem Konzert treffe ich meine Freunde.",
       "english": "Before the concert, I meet my friends.",
       "russian": "Перед концертом я встречаюсь с друзьями.",
@@ -659,6 +752,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Vor dem Spiel wärmen sich die Spieler auf.",
       "english": "Before the game, the players warm up.",
       "russian": "Перед игрой игроки разогреваются.",
@@ -666,6 +760,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Nach dem Frühstück putze ich meine Zähne.",
       "english": "After breakfast, I brush my teeth.",
       "russian": "После завтрака я чищу зубы.",
@@ -673,6 +768,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Nach der Arbeit entspanne ich mich.",
       "english": "After work, I relax.",
       "russian": "После работы я расслабляюсь.",
@@ -680,6 +776,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Nach dem Abendessen sehe ich fern.",
       "english": "After dinner, I watch TV.",
       "russian": "После ужина я смотрю телевизор.",
@@ -687,6 +784,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Nach dem Training dusche ich.",
       "english": "After training, I take a shower.",
       "russian": "После тренировки я принимаю душ.",
@@ -694,6 +792,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Nach dem Unterricht gehe ich nach Hause.",
       "english": "After class, I go home.",
       "russian": "После занятий я иду домой.",
@@ -701,6 +800,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Nach dem Konzert gehen wir tanzen.",
       "english": "After the concert, we go dancing.",
       "russian": "После концерта мы идем танцевать.",
@@ -708,6 +808,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Nach dem Mittagessen mache ich einen Spaziergang.",
       "english": "After lunch, I take a walk.",
       "russian": "После обеда я иду на прогулку.",
@@ -715,6 +816,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Nach der Besprechung schreibe ich ein Protokoll.",
       "english": "After the meeting, I write a report.",
       "russian": "После встречи я пишу отчет.",
@@ -722,6 +824,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Nach dem Urlaub zeige ich meine Fotos.",
       "english": "After the vacation, I show my photos.",
       "russian": "После отпуска я показываю свои фотографии.",
@@ -729,6 +832,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Nach dem Film sprechen wir darüber.",
       "english": "After the movie, we talk about it.",
       "russian": "После фильма мы говорим об этом.",
@@ -736,6 +840,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "In einer Stunde beginnt das Meeting.",
       "english": "The meeting starts in an hour.",
       "russian": "Встреча начнется через час.",
@@ -743,6 +848,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "In zwei Tagen fahre ich in den Urlaub.",
       "english": "In two days, I am going on vacation.",
       "russian": "Через два дня я поеду в отпуск.",
@@ -750,6 +856,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "In einer Woche haben wir Prüfungen.",
       "english": "In a week, we have exams.",
       "russian": "Через неделю у нас экзамены.",
@@ -757,6 +864,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "In einem Monat feiern wir Weihnachten.",
       "english": "In a month, we will celebrate Christmas.",
       "russian": "Через месяц мы будем отмечать Рождество.",
@@ -764,6 +872,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "In fünf Minuten bin ich bereit.",
       "english": "I will be ready in five minutes.",
       "russian": "Я буду готов через пять минут.",
@@ -771,6 +880,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "In einem Jahr ziehe ich um.",
       "english": "In a year, I am moving.",
       "russian": "Через год я перееду.",
@@ -778,6 +888,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "In der Nacht träume ich viel.",
       "english": "At night, I dream a lot.",
       "russian": "Ночью я много сню.",
@@ -785,6 +896,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "In drei Stunden kommt der Zug an.",
       "english": "In three hours, the train arrives.",
       "russian": "Через три часа поезд прибудет.",
@@ -792,6 +904,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "In zehn Jahren hoffe ich, ein Haus zu besitzen.",
       "english": "In ten years, I hope to own a house.",
       "russian": "Через десять лет я надеюсь владеть домом.",
@@ -799,6 +912,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "In einer halben Stunde beginnt die Show.",
       "english": "The show starts in half an hour.",
       "russian": "Шоу начнется через полчаса.",
@@ -806,6 +920,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe für eine Woche Urlaub genommen.",
       "english": "I have taken a week off.",
       "russian": "Я взял неделю отпуска.",
@@ -813,6 +928,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Kuchen muss für eine Stunde im Ofen bleiben.",
       "english": "The cake has to stay in the oven for an hour.",
       "russian": "Пирог должен оставаться в духовке на час.",
@@ -820,6 +936,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich bleibe für ein Jahr im Ausland.",
       "english": "I am staying abroad for a year.",
       "russian": "Я остаюсь за границей на год.",
@@ -827,6 +944,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Für zwei Tage sind wir in Berlin.",
       "english": "We are in Berlin for two days.",
       "russian": "Мы находимся в Берлине на два дня.",
@@ -834,6 +952,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie arbeitet für drei Monate in dieser Firma.",
       "english": "She works at this company for three months.",
       "russian": "Она работает в этой компании три месяца.",
@@ -841,6 +960,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Für eine Woche besuche ich meine Familie.",
       "english": "I am visiting my family for a week.",
       "russian": "Я посещаю свою семью на неделю.",
@@ -848,6 +968,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Für eine Stunde habe ich keinen Empfang.",
       "english": "I have no reception for an hour.",
       "russian": "У меня нет связи на час.",
@@ -855,6 +976,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir bleiben für die ganze Nacht wach.",
       "english": "We stay awake for the whole night.",
       "russian": "Мы не спим всю ночь.",
@@ -862,6 +984,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er ist für eine Woche krankgeschrieben.",
       "english": "He is on sick leave for a week.",
       "russian": "Он на больничном на неделю.",
@@ -869,6 +992,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Für fünf Minuten gehe ich nach draußen.",
       "english": "I am going outside for five minutes.",
       "russian": "Я иду на улицу на пять минут.",
@@ -876,6 +1000,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Seit zwei Jahren lerne ich Deutsch.",
       "english": "I have been learning German for two years.",
       "russian": "Я учу немецкий язык уже два года.",
@@ -883,6 +1008,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Seit dem Unfall hat er Schmerzen.",
       "english": "He has been in pain since the accident.",
       "russian": "С тех пор как произошел несчастный случай, у него боли.",
@@ -890,6 +1016,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Seit dem Umzug wohne ich in einer neuen Stadt.",
       "english": "I have been living in a new city since the move.",
       "russian": "С момента переезда я живу в новом городе.",
@@ -897,6 +1024,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Seit einem Monat arbeite ich in dieser Firma.",
       "english": "I have been working at this company for a month.",
       "russian": "Я работаю в этой компании уже месяц.",
@@ -904,6 +1032,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Seit meiner Kindheit spiele ich Klavier.",
       "english": "I have been playing the piano since my childhood.",
       "russian": "Я играю на пианино с детства.",
@@ -911,6 +1040,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Seit einer Woche bin ich krank.",
       "english": "I have been sick for a week.",
       "russian": "Я болею уже неделю.",
@@ -918,6 +1048,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Seit letztem Jahr studiert sie Medizin.",
       "english": "She has been studying medicine since last year.",
       "russian": "Она учится на медицинском факультете с прошлого года.",
@@ -925,6 +1056,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Seit dem ersten Januar habe ich nicht geraucht.",
       "english": "I have not smoked since January first.",
       "russian": "Я не курю с первого января.",
@@ -932,6 +1064,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Seit dem Morgen regnet es.",
       "english": "It has been raining since the morning.",
       "russian": "С утра идет дождь.",
@@ -939,6 +1072,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Seit Beginn des Jahres hat er viel gearbeitet.",
       "english": "He has worked a lot since the beginning of the year.",
       "russian": "С начала года он много работал.",
@@ -946,6 +1080,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Zwischen 9 und 10 Uhr habe ich Zeit.",
       "english": "I am free between 9 and 10 o'clock.",
       "russian": "Я свободен между 9 и 10 часами.",
@@ -953,6 +1088,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Zwischen Montag und Mittwoch habe ich Urlaub.",
       "english": "I am on vacation between Monday and Wednesday.",
       "russian": "У меня отпуск с понедельника по среду.",
@@ -960,6 +1096,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Zwischen den Terminen habe ich eine Pause.",
       "english": "I have a break between appointments.",
       "russian": "У меня перерыв между встречами.",
@@ -967,6 +1104,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Zwischen den Feiertagen arbeiten wir nicht.",
       "english": "We do not work between the holidays.",
       "russian": "Мы не работаем между праздниками.",
@@ -974,6 +1112,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Zwischen Januar und März ist es sehr kalt.",
       "english": "It is very cold between January and March.",
       "russian": "Между январем и мартом очень холодно.",
@@ -981,6 +1120,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Zwischen dem Mittagessen und dem Abendessen gehe ich spazieren.",
       "english": "I go for a walk between lunch and dinner.",
       "russian": "Я иду на прогулку между обедом и ужином.",
@@ -988,6 +1128,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Zwischen den Pausen lese ich ein Buch.",
       "english": "I read a book between breaks.",
       "russian": "Я читаю книгу между перерывами.",
@@ -995,6 +1136,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Zwischen zwei und vier Uhr sind die Geschäfte geschlossen.",
       "english": "The shops are closed between two and four o'clock.",
       "russian": "Магазины закрыты между двумя и четырьмя часами.",
@@ -1002,6 +1144,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Zwischen Mai und Juli wächst der Garten am besten.",
       "english": "The garden grows best between May and July.",
       "russian": "Сад растет лучше всего между маем и июлем.",
@@ -1009,6 +1152,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Zwischen Herbst und Winter fallen die Blätter.",
       "english": "The leaves fall between autumn and winter.",
       "russian": "Листья опадают между осенью и зимой.",
@@ -1016,6 +1160,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Über das Wochenende fahre ich in die Berge.",
       "english": "I am going to the mountains over the weekend.",
       "russian": "На выходные я еду в горы.",
@@ -1023,6 +1168,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Über den Sommer bleibe ich hier.",
       "english": "I am staying here over the summer.",
       "russian": "Я остаюсь здесь на все лето.",
@@ -1030,6 +1176,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Über die Feiertage besuchen wir unsere Familie.",
       "english": "We visit our family over the holidays.",
       "russian": "Мы навещаем нашу семью на праздники.",
@@ -1037,6 +1184,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Über die Jahre habe ich viel gelernt.",
       "english": "I have learned a lot over the years.",
       "russian": "За эти годы я много узнал.",
@@ -1044,6 +1192,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Über die Wintermonate ist es ruhig hier.",
       "english": "It is quiet here over the winter months.",
       "russian": "Зимой здесь тихо.",
@@ -1051,6 +1200,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Über das lange Wochenende machen wir eine Reise.",
       "english": "We are taking a trip over the long weekend.",
       "russian": "На длинные выходные мы отправляемся в поездку.",
@@ -1058,6 +1208,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Über die Ferien bleibe ich bei meinen Großeltern.",
       "english": "I am staying with my grandparents over the holidays.",
       "russian": "На каникулах я останусь у бабушки и дедушки.",
@@ -1065,6 +1216,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Über das Jahr hinweg gibt es viele Feste.",
       "english": "There are many festivals throughout the year.",
       "russian": "В течение года проводится много праздников.",
@@ -1072,6 +1224,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Über den Abend verteilt, erzählte er viele Geschichten.",
       "english": "He told many stories throughout the evening.",
       "russian": "В течение вечера он рассказал много историй.",
@@ -1079,6 +1232,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Über das Jahrzehnt hinweg hat sich viel verändert.",
       "english": "A lot has changed over the decade.",
       "russian": "Многое изменилось за десятилетие.",
@@ -1086,6 +1240,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Von morgen an werde ich mehr Sport treiben.",
       "english": "From tomorrow on, I will exercise more.",
       "russian": "С завтрашнего дня я буду больше заниматься спортом.",
@@ -1093,6 +1248,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Von heute an esse ich weniger Zucker.",
       "english": "From today on, I will eat less sugar.",
       "russian": "С сегодняшнего дня я буду есть меньше сахара.",
@@ -1100,6 +1256,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Von nächster Woche an arbeite ich weniger Stunden.",
       "english": "From next week on, I will work fewer hours.",
       "russian": "Со следующей недели я буду работать меньше часов.",
@@ -1107,6 +1264,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Von Montag an werde ich jeden Tag laufen.",
       "english": "From Monday on, I will run every day.",
       "russian": "С понедельника я буду бегать каждый день.",
@@ -1114,6 +1272,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Von nun an werde ich pünktlich sein.",
       "english": "From now on, I will be punctual.",
       "russian": "С этого момента я буду пунктуален.",
@@ -1121,6 +1280,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Von Anfang August an habe ich Urlaub.",
       "english": "From the beginning of August on, I will be on vacation.",
       "russian": "С начала августа я буду в отпуске.",
@@ -1128,6 +1288,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Von nächstem Jahr an gehe ich in die Universität.",
       "english": "From next year on, I will attend university.",
       "russian": "Со следующего года я буду учиться в университете.",
@@ -1135,6 +1296,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Von Morgen an werde ich früher aufstehen.",
       "english": "From tomorrow on, I will get up earlier.",
       "russian": "С завтрашнего дня я буду вставать раньше.",
@@ -1142,6 +1304,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Von Herbst an wird es kälter.",
       "english": "From autumn on, it will get colder.",
       "russian": "С осени станет холоднее.",
@@ -1149,6 +1312,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Von heute Abend an werde ich weniger fernsehen.",
       "english": "From tonight on, I will watch less TV.",
       "russian": "С сегодняшнего вечера я буду меньше смотреть телевизор.",

@@ -7,6 +7,7 @@
   "content": [
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir haben heute zwei Gäste in unserem Magazin am Samstagmorgen: Herrn Duarte und Frau Fischer.",
       "english": "We have two guests in our magazine this Saturday morning: Mr. Duarte and Mrs. Fischer.",
       "russian": "У нас сегодня два гостя в нашем журнале в субботу утром: господин Дуарт и госпожа Фишер.",
@@ -14,6 +15,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Unser Thema ist das gesunde Leben.",
       "english": "Our topic is healthy living.",
       "russian": "Наша тема - здоровая жизнь.",
@@ -21,6 +23,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Herr Duarte, bitte erzählen Sie uns, was Sie für Ihre Gesundheit tun.",
       "english": "Mr. Duarte, please tell us what you do for your health.",
       "russian": "Господин Дуарт, пожалуйста, расскажите нам, что вы делаете для своего здоровья.",
@@ -28,6 +31,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, gerne. Vor zwei Jahren hatte ich sehr viel Stress.",
       "english": "Yes, gladly. Two years ago, I had a lot of stress.",
       "russian": "Да, с удовольствием. Два года назад у меня было много стресса.",
@@ -35,6 +39,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Meine Arbeit war unsicher und ich habe mir Sorgen gemacht, wie es weitergeht.",
       "english": "My job was insecure, and I was worried about what would happen next.",
       "russian": "Моя работа была нестабильной, и я беспокоился о будущем.",
@@ -42,6 +47,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das war nicht gut für meine Gesundheit.",
       "english": "That was not good for my health.",
       "russian": "Это было плохо для моего здоровья.",
@@ -49,6 +55,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe keine Zeit gehabt für meine Familie, für gute Ernährung, ich habe immer schnell zwischendurch Fastfood gegessen und habe natürlich zugenommen, zehn Kilo!",
       "english": "I had no time for my family, for good nutrition, I always ate fast food quickly in between and, of course, gained ten kilos!",
       "russian": "У меня не было времени на семью, на хорошее питание, я всегда ел фастфуд на ходу и, конечно, набрал десять килограммов!",
@@ -56,6 +63,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Dann hat meine Frau gesagt, so geht es nicht, wenn du so weitermachst, machst du dir deine Gesundheit kaputt.",
       "english": "Then my wife said, this won't do, if you keep going like this, you'll ruin your health.",
       "russian": "Тогда моя жена сказала, так не пойдет, если ты продолжишь в том же духе, ты разрушишь свое здоровье.",
@@ -63,6 +71,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Du musst etwas für deine Gesundheit tun.",
       "english": "You have to do something for your health.",
       "russian": "Ты должен что-то делать для своего здоровья.",
@@ -70,6 +79,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, und da habe ich mit dem Laufen angefangen.",
       "english": "Yes, and that's when I started running.",
       "russian": "Да, и тогда я начал бегать.",
@@ -77,6 +87,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das hat mir gut getan.",
       "english": "That did me good.",
       "russian": "Это пошло мне на пользу.",
@@ -84,6 +95,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "In diesem Jahr bin ich sogar beim Marathon mitgelaufen, keine gute Zeit, aber ich habe es geschafft.",
       "english": "This year I even ran a marathon, not a good time, but I made it.",
       "russian": "В этом году я даже пробежал марафон, время было неважное, но я справился.",
@@ -91,6 +103,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Jetzt bin ich fit und ich fühle mich richtig gut.",
       "english": "Now I am fit and I feel really good.",
       "russian": "Теперь я в хорошей форме и чувствую себя действительно хорошо.",
@@ -98,6 +111,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Frau Fischer, was machen Sie für Ihre Gesundheit?",
       "english": "Mrs. Fischer, what do you do for your health?",
       "russian": "Госпожа Фишер, что вы делаете для своего здоровья?",
@@ -105,6 +119,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Früher habe ich in der Stadt gewohnt, da war es laut und die Luft war schlecht.",
       "english": "I used to live in the city, it was noisy and the air was bad.",
       "russian": "Раньше я жила в городе, там было шумно и воздух был плохой.",
@@ -112,6 +127,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe oft schlecht geschlafen.",
       "english": "I often slept poorly.",
       "russian": "Я часто плохо спала.",
@@ -119,6 +135,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das war nicht gut für meine Gesundheit.",
       "english": "That was not good for my health.",
       "russian": "Это было плохо для моего здоровья.",
@@ -126,6 +143,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Jetzt wohne ich auf dem Land.",
       "english": "Now I live in the countryside.",
       "russian": "Теперь я живу в деревне.",
@@ -133,6 +151,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich kann im Wald spazieren gehen, die Luft ist gut, es ist ruhig.",
       "english": "I can walk in the forest, the air is good, it is quiet.",
       "russian": "Я могу гулять в лесу, воздух хороший, тихо.",
@@ -140,6 +159,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Und dann habe ich meinen Garten.",
       "english": "And then I have my garden.",
       "russian": "А еще у меня есть сад.",
@@ -147,6 +167,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich brauche kein Fitnesscenter; wenn ich trainieren möchte und fit bleiben möchte, arbeite ich im Garten, das macht mir Spaß und ist gut für meine Gesundheit.",
       "english": "I don't need a gym; if I want to work out and stay fit, I work in the garden, which I enjoy and is good for my health.",
       "russian": "Мне не нужен фитнес-центр; если я хочу тренироваться и оставаться в форме, я работаю в саду, это мне нравится и полезно для моего здоровья.",
@@ -154,6 +175,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Bitte machen Sie den Arm frei, ... ja noch weiter, ...... .120 zu 80. Das ist sehr gut.",
       "english": "Please free your arm, ... yes, a bit more, ...... .120 to 80. That's very good.",
       "russian": "Пожалуйста, освободите руку, ... да, еще немного, ...... .120 на 80. Это очень хорошо.",
@@ -161,6 +183,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Setzen Sie sich bitte hierher, ja, so ist gut. Bitte lesen Sie die erste Reihe. TOZ.",
       "english": "Please sit here, yes, that's good. Please read the first row. TOZ.",
       "russian": "Пожалуйста, садитесь сюда, да, так хорошо. Пожалуйста, прочитайте первый ряд. TOZ.",
@@ -168,6 +191,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, und jetzt? LFED.",
       "english": "Yes, and now? LFED.",
       "russian": "Да, а теперь? LFED.",
@@ -175,6 +199,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Und jetzt? Ich weiß nicht genau, vielleicht FECPO.",
       "english": "And now? I'm not sure, maybe FECPO.",
       "russian": "А теперь? Я точно не знаю, может быть, FECPO.",
@@ -182,6 +207,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Guten Tag, Sie sind zur Kontrolle hier? Ja.",
       "english": "Good day, are you here for a check-up? Yes.",
       "russian": "Добрый день, вы здесь на контроль? Да.",
@@ -189,6 +215,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Gut, dann wollen wir mal. So, dann öffnen Sie bitte den Mund.",
       "english": "Good, then let's get started. So, please open your mouth.",
       "russian": "Хорошо, тогда начнем. Итак, откройте, пожалуйста, рот.",
@@ -196,6 +223,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Frau Brivio, bitten notieren Sie: 3 ...",
       "english": "Mrs. Brivio, please note: 3 ...",
       "russian": "Госпожа Бривио, пожалуйста, запишите: 3 ...",
@@ -203,6 +231,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Guten Tag, Herr Doktor Heinemann. Ich möchte Max untersuchen lassen.",
       "english": "Good day, Dr. Heinemann. I want Max to be examined.",
       "russian": "Добрый день, доктор Хайнеманн. Я хочу, чтобы Макса осмотрели.",
@@ -210,6 +239,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "So, genau, heute machen wir die nächste Vorsorgeuntersuchung die U9.",
       "english": "So, exactly, today we will do the next preventive check-up, the U9.",
       "russian": "Итак, именно сегодня мы проведем следующий профилактический осмотр, U9.",
@@ -217,6 +247,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Haben Sie den Vorsorgepass dabei?",
       "english": "Do you have the preventive care pass with you?",
       "russian": "У вас с собой паспорт профилактики?",
@@ -224,6 +255,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, hier ist er. Bitte schön.",
       "english": "Yes, here it is. Here you go.",
       "russian": "Да, вот он. Вот, пожалуйста.",
@@ -231,6 +263,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Gut, dann fangen wir mit den Augen an.",
       "english": "Good, then let's start with the eyes.",
       "russian": "Хорошо, тогда начнем с глаз.",
@@ -238,6 +271,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Max, kannst du mir sagen, was du auf dem Bild siehst?",
       "english": "Max, can you tell me what you see in the picture?",
       "russian": "Макс, ты можешь сказать мне, что ты видишь на картинке?",
@@ -245,6 +279,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das ist ein Haus und ein Junge. Der Junge spielt Ball.",
       "english": "That is a house and a boy. The boy is playing ball.",
       "russian": "Это дом и мальчик. Мальчик играет в мяч.",
@@ -252,6 +287,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ganz toll, Max. Gut, dann muss ich noch in deinen Hals gucken. Mach mal den Mund auf.",
       "english": "Very good, Max. Now, I need to look at your throat. Open your mouth.",
       "russian": "Отлично, Макс. Хорошо, теперь мне нужно посмотреть твое горло. Открой рот.",
@@ -259,6 +295,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Prima. Alles in Ordnung. Du kannst dir ein Spielzeug aus der Dose nehmen.",
       "english": "Great. Everything is fine. You can take a toy from the box.",
       "russian": "Отлично. Все в порядке. Ты можешь взять игрушку из коробки.",
@@ -266,6 +303,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Kann ich den Hund haben?",
       "english": "Can I have the dog?",
       "russian": "Можно мне собаку?",
@@ -273,6 +311,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Na klar.",
       "english": "Of course.",
       "russian": "Конечно.",
@@ -280,6 +319,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Herr Doktor, wir möchten uns auch gerne noch von Ihnen beraten lassen.",
       "english": "Doctor, we would also like to get some advice from you.",
       "russian": "Доктор, мы также хотели бы получить от вас совет.",
@@ -287,6 +327,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Was meinen Sie, ist es besser, wenn wir Max gegen Grippe impfen lassen?",
       "english": "What do you think, is it better if we have Max vaccinated against the flu?",
       "russian": "Как вы думаете, будет лучше, если мы сделаем Максу прививку от гриппа?",
@@ -294,6 +335,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Guten Tag, was kann ich für Sie tun?",
       "english": "Good day, what can I do for you?",
       "russian": "Добрый день, чем я могу вам помочь?",
@@ -301,6 +343,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe hier ein Rezept für mein Kind.",
       "english": "I have a prescription here for my child.",
       "russian": "У меня здесь рецепт для моего ребенка.",
@@ -308,6 +351,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Einen Moment, bitte. Hier, bitte.",
       "english": "One moment, please. Here you go.",
       "russian": "Минуточку, пожалуйста. Вот, пожалуйста.",
@@ -315,6 +359,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Was kostet das?",
       "english": "How much does it cost?",
       "russian": "Сколько это стоит?",
@@ -322,6 +367,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Oh, das ist frei. Kinder bis zum 18. Lebensjahr müssen nichts bezahlen.",
       "english": "Oh, that's free. Children up to the age of 18 do not have to pay anything.",
       "russian": "О, это бесплатно. Дети до 18 лет не должны ничего платить.",
@@ -329,6 +375,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, bitte? Der Doktor hat mir dieses Medikament verschrieben.",
       "english": "Yes, please? The doctor prescribed this medication for me.",
       "russian": "Да, пожалуйста? Доктор прописал мне это лекарство.",
@@ -336,6 +383,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich glaube, das haben wir im Moment nicht da.",
       "english": "I believe we don't have that right now.",
       "russian": "Я думаю, у нас этого сейчас нет.",
@@ -343,6 +391,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich schau noch mal nach - richtig - ich kann es aber für Sie bestellen.",
       "english": "I'll check again - right - but I can order it for you.",
       "russian": "Я проверю еще раз - правильно - но я могу заказать это для вас.",
@@ -350,6 +399,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wann ist das Medikament dann da?",
       "english": "When will the medication be available?",
       "russian": "Когда лекарство будет доступно?",
@@ -357,6 +407,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ach, das geht schnell. Sie können es heute Nachmittag abholen.",
       "english": "Oh, that's quick. You can pick it up this afternoon.",
       "russian": "О, это быстро. Вы можете забрать его сегодня днем.",
@@ -364,6 +415,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Nein, das geht nicht. Ich probiere es noch in einer anderen Apotheke, danke.",
       "english": "No, that's not possible. I'll try another pharmacy, thanks.",
       "russian": "Нет, это невозможно. Я попробую в другой аптеке, спасибо.",
@@ -371,6 +423,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Guten Tag, was kann ich für Sie tun?",
       "english": "Good day, what can I do for you?",
       "russian": "Добрый день, чем я могу вам помочь?",
@@ -378,6 +431,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich hätte gerne Sofomirin-Tabletten.",
       "english": "I would like Sofomirin tablets.",
       "russian": "Я бы хотел таблетки Софомирин.",
@@ -385,6 +439,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Haben Sie ein Rezept?",
       "english": "Do you have a prescription?",
       "russian": "У вас есть рецепт?",
@@ -392,6 +447,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Nein, aber ich habe die Tabletten schon früher genommen.",
       "english": "No, but I've taken the tablets before.",
       "russian": "Нет, но я уже принимал эти таблетки раньше.",
@@ -399,6 +455,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das tut mir leid. Die Tabletten sind rezeptpflichtig.",
       "english": "I'm sorry. The tablets require a prescription.",
       "russian": "Мне жаль. Эти таблетки отпускаются по рецепту.",
@@ -406,6 +463,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich brauche ein Rezept vom Arzt.",
       "english": "I need a prescription from the doctor.",
       "russian": "Мне нужен рецепт от врача.",
@@ -413,6 +471,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das ist ärgerlich.",
       "english": "That's annoying.",
       "russian": "Это раздражает.",
@@ -420,6 +479,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich kann da nichts machen.",
       "english": "I can't do anything about it.",
       "russian": "Я ничего не могу с этим поделать.",
@@ -427,6 +487,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie müssen zum Arzt gehen.",
       "english": "You need to go to the doctor.",
       "russian": "Вам нужно сходить к врачу.",
@@ -434,6 +495,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der schreibt Ihnen ein Rezept.",
       "english": "He will write you a prescription.",
       "russian": "Он выпишет вам рецепт.",
@@ -441,6 +503,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Dann können Sie die Tabletten bekommen.",
       "english": "Then you can get the tablets.",
       "russian": "Тогда вы сможете получить таблетки.",
@@ -448,6 +511,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Gut, danke für die Auskunft.",
       "english": "Good, thanks for the information.",
       "russian": "Хорошо, спасибо за информацию.",
@@ -455,6 +519,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Guten Tag, ich habe hier ein Rezept.",
       "english": "Good day, I have a prescription here.",
       "russian": "Добрый день, у меня есть рецепт.",
@@ -462,6 +527,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Haben Sie dieses Medikament?",
       "english": "Do you have this medication?",
       "russian": "У вас есть это лекарство?",
@@ -469,6 +535,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, das haben wir. Hier, bitte schön.",
       "english": "Yes, we have it. Here you go.",
       "russian": "Да, у нас есть. Вот, пожалуйста.",
@@ -476,6 +543,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wie oft muss ich die Tabletten einnehmen?",
       "english": "How often do I need to take the tablets?",
       "russian": "Как часто мне нужно принимать таблетки?",
@@ -483,6 +551,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Moment, ich lese den Beipackzettel.",
       "english": "One moment, I'll read the package insert.",
       "russian": "Минуточку, я прочитаю вкладыш.",
@@ -490,6 +559,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie müssen die Tabletten dreimal täglich nehmen.",
       "english": "You need to take the tablets three times a day.",
       "russian": "Вам нужно принимать таблетки три раза в день.",
@@ -497,6 +567,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wenn Sie einen empfindlichen Magen haben, empfehle ich Ihnen, dass Sie die Tabletten nach dem Essen nehmen.",
       "english": "If you have a sensitive stomach, I recommend that you take the tablets after eating.",
       "russian": "Если у вас чувствительный желудок, я рекомендую принимать таблетки после еды.",
@@ -504,6 +575,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wieso? Welche Nebenwirkungen haben die Tabletten denn?",
       "english": "Why? What side effects do the tablets have?",
       "russian": "Почему? Какие побочные эффекты у этих таблеток?",
@@ -511,6 +583,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Meistens keine, aber es kann schon mal zu Magenschmerzen kommen.",
       "english": "Usually none, but it can sometimes cause stomach pain.",
       "russian": "Обычно никаких, но иногда может вызвать боль в желудке.",
@@ -518,6 +591,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Selten haben die Patienten auch Kopfschmerzen.",
       "english": "Rarely, patients also have headaches.",
       "russian": "Редко у пациентов также бывают головные боли.",
@@ -525,6 +599,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Aber die meisten Patienten haben keine Probleme.",
       "english": "But most patients don't have any problems.",
       "russian": "Но у большинства пациентов нет никаких проблем.",
@@ -532,6 +607,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Gut, wie viel kostet das?",
       "english": "Good, how much does it cost?",
       "russian": "Хорошо, сколько это стоит?",
@@ -539,6 +615,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Fünf Euro bitte.",
       "english": "Five euros please.",
       "russian": "Пять евро, пожалуйста.",
@@ -546,6 +623,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe hier ein Rezept.",
       "english": "I have a prescription here.",
       "russian": "У меня здесь рецепт.",
@@ -553,6 +631,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wie oft muss ich die Tabletten nehmen?",
       "english": "How often do I need to take the tablets?",
       "russian": "Как часто мне нужно принимать таблетки?",
@@ -560,6 +639,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Nach dem Essen.",
       "english": "After eating.",
       "russian": "После еды.",
@@ -567,6 +647,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Guten Tag, wie kann ich Ihnen helfen?",
       "english": "Good day, how can I help you?",
       "russian": "Добрый день, чем я могу вам помочь?",
@@ -574,6 +655,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wie teuer ist das?",
       "english": "How expensive is that?",
       "russian": "Сколько это стоит?",
@@ -581,6 +663,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das ist kostenlos.",
       "english": "That is free.",
       "russian": "Это бесплатно.",
@@ -588,6 +671,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich hätte gern eine Packung Aspirin.",
       "english": "I would like a pack of aspirin.",
       "russian": "Я бы хотел упаковку аспирина.",
@@ -595,6 +679,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das kostet zwei Euro.",
       "english": "That costs two euros.",
       "russian": "Это стоит два евро.",
@@ -602,6 +687,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Vielen Dank, hier ist das Geld.",
       "english": "Thank you very much, here is the money.",
       "russian": "Большое спасибо, вот деньги.",
@@ -609,6 +695,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Danke, einen schönen Tag noch.",
       "english": "Thanks, have a nice day.",
       "russian": "Спасибо, хорошего дня.",
@@ -616,6 +703,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich hätte gern Schmerzmittel.",
       "english": "I would like painkillers.",
       "russian": "Я бы хотел обезболивающие.",
@@ -623,6 +711,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Welche Art von Schmerzmitteln?",
       "english": "What type of painkillers?",
       "russian": "Какой вид обезболивающих?",
@@ -630,6 +719,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Aspirin oder Paracetamol?",
       "english": "Aspirin or paracetamol?",
       "russian": "Аспирин или парацетамол?",
@@ -637,6 +727,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Paracetamol, bitte.",
       "english": "Paracetamol, please.",
       "russian": "Парацетамол, пожалуйста.",
@@ -644,6 +735,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das kostet drei Euro.",
       "english": "That costs three euros.",
       "russian": "Это стоит три евро.",
@@ -651,6 +743,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Hier ist das Geld. Vielen Dank.",
       "english": "Here is the money. Thank you very much.",
       "russian": "Вот деньги. Большое спасибо.",
@@ -658,6 +751,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Bitte schön. Einen schönen Tag noch.",
       "english": "You're welcome. Have a nice day.",
       "russian": "Пожалуйста. Хорошего дня.",
@@ -665,6 +759,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Hallo, ich habe hier ein Rezept von meinem Arzt.",
       "english": "Hello, I have a prescription here from my doctor.",
       "russian": "Здравствуйте, у меня здесь рецепт от моего врача.",
@@ -672,6 +767,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Für welche Tabletten?",
       "english": "For which tablets?",
       "russian": "Для каких таблеток?",
@@ -679,6 +775,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Für Schmerzmittel.",
       "english": "For painkillers.",
       "russian": "Для обезболивающих.",
@@ -686,6 +783,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wie oft muss ich die Tabletten einnehmen?",
       "english": "How often do I need to take the tablets?",
       "russian": "Как часто мне нужно принимать таблетки?",
@@ -693,6 +791,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Zweimal am Tag.",
       "english": "Twice a day.",
       "russian": "Дважды в день.",
@@ -700,6 +799,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wann?",
       "english": "When?",
       "russian": "Когда?",
@@ -707,6 +807,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Morgens und abends.",
       "english": "In the morning and in the evening.",
       "russian": "Утром и вечером.",
@@ -714,6 +815,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Gut, danke für die Auskunft.",
       "english": "Good, thanks for the information.",
       "russian": "Хорошо, спасибо за информацию.",
@@ -721,6 +823,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Danke, einen schönen Tag noch.",
       "english": "Thanks, have a nice day.",
       "russian": "Спасибо, хорошего дня.",
@@ -728,6 +831,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich brauche ein Rezept vom Arzt.",
       "english": "I need a prescription from the doctor.",
       "russian": "Мне нужен рецепт от врача.",

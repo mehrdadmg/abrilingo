@@ -7,6 +7,7 @@ const startLesson = {
   content: [
     {
       isSelected: false,
+      type: 'sentence',
       sentence: 'Herzlich willkommen bei Abri Lingo! ',
       english: 'Welcome to Abri Lingo!',
       russian: 'Добро пожаловать в Абри Линго!',
@@ -24,6 +25,7 @@ const noSentenceSelected = {
   content: [
     {
       isSelected: false,
+      type: 'sentence',
       sentence: 'Es ist kein Satz ausgewählt.! ',
       english: 'There are no selected sentences.!',
       russian: 'Нет выбранного предложения.!',
@@ -34,13 +36,21 @@ const noSentenceSelected = {
 
 const alllessons = [
   {
+    file_name: 'a1_unregelmäßige_verben.json',
+    name: 'A1_Unregelmäßige_Verben',
+  },
+  {
+    file_name: 'a1_regelmäßige_verben.json',
+    name: 'A1_Regelmäßige_Verben',
+  },
+  /* {
     file_name: 'verben_01.json',
     name: 'Verben_01',
   },
   {
     file_name: 'verben_02.json',
     name: 'Verben_02',
-  },
+  }, */
   {
     file_name: 'modalverben.json',
     name: 'Modalverben',
@@ -60,6 +70,14 @@ const alllessons = [
   {
     file_name: 'temporale_präpositionen.json',
     name: 'Temporale_Präpositionen',
+  },
+  {
+    file_name: 'essen.json',
+    name: 'Essen',
+  },
+  {
+    file_name: 'adresse.json',
+    name: 'Adresse',
   },
   {
     file_name: 'a1_u01.json',

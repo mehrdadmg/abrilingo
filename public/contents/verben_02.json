@@ -7,6 +7,7 @@
   "content": [
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe einen Hund.",
       "english": "I have a dog.",
       "russian": "У меня есть собака.",
@@ -14,6 +15,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er hat ein Auto.",
       "english": "He has a car.",
       "russian": "У него есть машина.",
@@ -21,6 +23,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir haben ein Haus.",
       "english": "We have a house.",
       "russian": "У нас есть дом.",
@@ -28,6 +31,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie haben eine Katze.",
       "english": "They have a cat.",
       "russian": "У них есть кошка.",
@@ -35,6 +39,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Hast du Geschwister?",
       "english": "Do you have siblings?",
       "russian": "У тебя есть братья и сестры?",
@@ -42,6 +47,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe zwei Brüder.",
       "english": "I have two brothers.",
       "russian": "У меня два брата.",
@@ -49,6 +55,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir haben einen Garten.",
       "english": "We have a garden.",
       "russian": "У нас есть сад.",
@@ -56,6 +63,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er hat viele Freunde.",
       "english": "He has many friends.",
       "russian": "У него много друзей.",
@@ -63,6 +71,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie hat ein schönes Kleid.",
       "english": "She has a beautiful dress.",
       "russian": "У нее красивое платье.",
@@ -70,6 +79,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir haben einen Plan.",
       "english": "We have a plan.",
       "russian": "У нас есть план.",
@@ -77,6 +87,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe gestern ein Buch gekauft.",
       "english": "I bought a book yesterday.",
       "russian": "Я купил книгу вчера.",
@@ -84,6 +95,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er hat letzte Woche Geburtstag gehabt.",
       "english": "He had a birthday last week.",
       "russian": "У него был день рождения на прошлой неделе.",
@@ -91,6 +103,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir haben einen schönen Urlaub gehabt.",
       "english": "We had a nice vacation.",
       "russian": "У нас был хороший отпуск.",
@@ -98,6 +111,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie haben viel Spaß gehabt.",
       "english": "They had a lot of fun.",
       "russian": "Они хорошо повеселились.",
@@ -105,6 +119,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Hattest du eine gute Zeit?",
       "english": "Did you have a good time?",
       "russian": "Ты хорошо провел время?",
@@ -112,6 +127,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe einen langen Tag gehabt.",
       "english": "I had a long day.",
       "russian": "У меня был длинный день.",
@@ -119,6 +135,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir haben ein interessantes Gespräch gehabt.",
       "english": "We had an interesting conversation.",
       "russian": "У нас был интересный разговор.",
@@ -126,6 +143,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er hat eine gute Idee gehabt.",
       "english": "He had a good idea.",
       "russian": "У него была хорошая идея.",
@@ -133,6 +151,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie hat ein schönes Wochenende gehabt.",
       "english": "She had a nice weekend.",
       "russian": "У нее были хорошие выходные.",
@@ -140,6 +159,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe letzte Nacht einen Traum gehabt.",
       "english": "I had a dream last night.",
       "russian": "У меня был сон прошлой ночью.",
@@ -147,6 +167,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich werde morgen frei haben.",
       "english": "I will have a day off tomorrow.",
       "russian": "Завтра у меня будет выходной.",
@@ -154,6 +175,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er wird nächste Woche Urlaub haben.",
       "english": "He will have a vacation next week.",
       "russian": "На следующей неделе у него будет отпуск.",
@@ -161,6 +183,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir werden bald ein Treffen haben.",
       "english": "We will have a meeting soon.",
       "russian": "Скоро у нас будет встреча.",
@@ -168,6 +191,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie werden viele Gäste haben.",
       "english": "They will have many guests.",
       "russian": "У них будет много гостей.",
@@ -175,6 +199,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wirst du Zeit haben?",
       "english": "Will you have time?",
       "russian": "У тебя будет время?",
@@ -182,6 +207,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich werde eine Prüfung haben.",
       "english": "I will have an exam.",
       "russian": "У меня будет экзамен.",
@@ -189,6 +215,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir werden eine Party haben.",
       "english": "We will have a party.",
       "russian": "У нас будет вечеринка.",
@@ -196,6 +223,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er wird morgen eine Besprechung haben.",
       "english": "He will have a meeting tomorrow.",
       "russian": "Завтра у него будет собрание.",
@@ -203,6 +231,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie wird bald ein Baby haben.",
       "english": "She will have a baby soon.",
       "russian": "У нее скоро будет ребенок.",
@@ -210,6 +239,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich werde nächste Woche eine Überraschung haben.",
       "english": "I will have a surprise next week.",
       "russian": "На следующей неделе у меня будет сюрприз.",
@@ -217,6 +247,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich kenne ihn.",
       "english": "I know him.",
       "russian": "Я знаю его.",
@@ -224,6 +255,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er kennt sie.",
       "english": "He knows her.",
       "russian": "Он знает её.",
@@ -231,6 +263,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir kennen das Lied.",
       "english": "We know the song.",
       "russian": "Мы знаем эту песню.",
@@ -238,6 +271,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie kennt die Stadt.",
       "english": "She knows the city.",
       "russian": "Она знает город.",
@@ -245,6 +279,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Kennst du ihn?",
       "english": "Do you know him?",
       "russian": "Ты знаешь его?",
@@ -252,6 +287,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich kenne diese Frau.",
       "english": "I know this woman.",
       "russian": "Я знаю эту женщину.",
@@ -259,6 +295,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir kennen den Weg.",
       "english": "We know the way.",
       "russian": "Мы знаем дорогу.",
@@ -266,6 +303,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Kennt er das Buch?",
       "english": "Does he know the book?",
       "russian": "Он знает эту книгу?",
@@ -273,6 +311,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich kenne die Antwort.",
       "english": "I know the answer.",
       "russian": "Я знаю ответ.",
@@ -280,6 +319,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie kennen das Problem.",
       "english": "They know the problem.",
       "russian": "Они знают проблему.",
@@ -287,6 +327,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe ihn gekannt.",
       "english": "I knew him.",
       "russian": "Я знал его.",
@@ -294,6 +335,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er hat sie gekannt.",
       "english": "He knew her.",
       "russian": "Он знал её.",
@@ -301,6 +343,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir haben das Lied gekannt.",
       "english": "We knew the song.",
       "russian": "Мы знали эту песню.",
@@ -308,6 +351,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie hat die Stadt gekannt.",
       "english": "She knew the city.",
       "russian": "Она знала город.",
@@ -315,6 +359,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Hast du ihn gekannt?",
       "english": "Did you know him?",
       "russian": "Ты знал его?",
@@ -322,6 +367,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe diese Frau gekannt.",
       "english": "I knew this woman.",
       "russian": "Я знал эту женщину.",
@@ -329,6 +375,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir haben den Weg gekannt.",
       "english": "We knew the way.",
       "russian": "Мы знали дорогу.",
@@ -336,6 +383,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Hat er das Buch gekannt?",
       "english": "Did he know the book?",
       "russian": "Он знал эту книгу?",
@@ -343,6 +391,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe die Antwort gekannt.",
       "english": "I knew the answer.",
       "russian": "Я знал ответ.",
@@ -350,6 +399,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie haben das Problem gekannt.",
       "english": "They knew the problem.",
       "russian": "Они знали проблему.",
@@ -357,6 +407,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich werde ihn kennen.",
       "english": "I will know him.",
       "russian": "Я буду знать его.",
@@ -364,6 +415,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er wird sie kennen.",
       "english": "He will know her.",
       "russian": "Он будет знать её.",
@@ -371,6 +423,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir werden das Lied kennen.",
       "english": "We will know the song.",
       "russian": "Мы будем знать эту песню.",
@@ -378,6 +431,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie wird die Stadt kennen.",
       "english": "She will know the city.",
       "russian": "Она будет знать город.",
@@ -385,6 +439,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wirst du ihn kennen?",
       "english": "Will you know him?",
       "russian": "Ты будешь знать его?",
@@ -392,6 +447,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich werde diese Frau kennen.",
       "english": "I will know this woman.",
       "russian": "Я буду знать эту женщину.",
@@ -399,6 +455,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir werden den Weg kennen.",
       "english": "We will know the way.",
       "russian": "Мы будем знать дорогу.",
@@ -406,6 +463,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wird er das Buch kennen?",
       "english": "Will he know the book?",
       "russian": "Он будет знать эту книгу?",
@@ -413,6 +471,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich werde die Antwort kennen.",
       "english": "I will know the answer.",
       "russian": "Я буду знать ответ.",
@@ -420,6 +479,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie werden das Problem kennen.",
       "english": "They will know the problem.",
       "russian": "Они будут знать проблему.",
@@ -427,6 +487,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Buch liegt auf dem Tisch.",
       "english": "The book is lying on the table.",
       "russian": "Книга лежит на столе.",
@@ -434,6 +495,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Hund liegt auf dem Boden.",
       "english": "The dog is lying on the floor.",
       "russian": "Собака лежит на полу.",
@@ -441,6 +503,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Katze liegt auf dem Sofa.",
       "english": "The cat is lying on the sofa.",
       "russian": "Кошка лежит на диване.",
@@ -448,6 +511,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er liegt im Bett.",
       "english": "He is lying in bed.",
       "russian": "Он лежит в кровати.",
@@ -455,6 +519,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Handy liegt auf dem Stuhl.",
       "english": "The phone is lying on the chair.",
       "russian": "Телефон лежит на стуле.",
@@ -462,6 +527,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Ball liegt im Garten.",
       "english": "The ball is lying in the garden.",
       "russian": "Мяч лежит в саду.",
@@ -469,6 +535,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Schlüssel liegt auf dem Regal.",
       "english": "The key is lying on the shelf.",
       "russian": "Ключ лежит на полке.",
@@ -476,6 +543,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Zeitung liegt auf dem Tisch.",
       "english": "The newspaper is lying on the table.",
       "russian": "Газета лежит на столе.",
@@ -483,6 +551,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Brille liegt neben dem Buch.",
       "english": "The glasses are lying next to the book.",
       "russian": "Очки лежат рядом с книгой.",
@@ -490,6 +559,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Bild liegt auf dem Boden.",
       "english": "The picture is lying on the floor.",
       "russian": "Картина лежит на полу.",
@@ -497,6 +567,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Buch hat auf dem Tisch gelegen.",
       "english": "The book was lying on the table.",
       "russian": "Книга лежала на столе.",
@@ -504,6 +575,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Hund hat auf dem Boden gelegen.",
       "english": "The dog was lying on the floor.",
       "russian": "Собака лежала на полу.",
@@ -511,6 +583,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Katze hat auf dem Sofa gelegen.",
       "english": "The cat was lying on the sofa.",
       "russian": "Кошка лежала на диване.",
@@ -518,6 +591,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er hat im Bett gelegen.",
       "english": "He was lying in bed.",
       "russian": "Он лежал в кровати.",
@@ -525,6 +599,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Handy hat auf dem Stuhl gelegen.",
       "english": "The phone was lying on the chair.",
       "russian": "Телефон лежал на стуле.",
@@ -532,6 +607,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Ball hat im Garten gelegen.",
       "english": "The ball was lying in the garden.",
       "russian": "Мяч лежал в саду.",
@@ -539,6 +615,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Schlüssel hat auf dem Regal gelegen.",
       "english": "The key was lying on the shelf.",
       "russian": "Ключ лежал на полке.",
@@ -546,6 +623,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Zeitung hat auf dem Tisch gelegen.",
       "english": "The newspaper was lying on the table.",
       "russian": "Газета лежала на столе.",
@@ -553,6 +631,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Brille hat neben dem Buch gelegen.",
       "english": "The glasses were lying next to the book.",
       "russian": "Очки лежали рядом с книгой.",
@@ -560,6 +639,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Bild hat auf dem Boden gelegen.",
       "english": "The picture was lying on the floor.",
       "russian": "Картина лежала на полу.",
@@ -567,6 +647,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Buch wird auf dem Tisch liegen.",
       "english": "The book will be lying on the table.",
       "russian": "Книга будет лежать на столе.",
@@ -574,6 +655,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Hund wird auf dem Boden liegen.",
       "english": "The dog will be lying on the floor.",
       "russian": "Собака будет лежать на полу.",
@@ -581,6 +663,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Katze wird auf dem Sofa liegen.",
       "english": "The cat will be lying on the sofa.",
       "russian": "Кошка будет лежать на диване.",
@@ -588,6 +671,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er wird im Bett liegen.",
       "english": "He will be lying in bed.",
       "russian": "Он будет лежать в кровати.",
@@ -595,6 +679,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Handy wird auf dem Stuhl liegen.",
       "english": "The phone will be lying on the chair.",
       "russian": "Телефон будет лежать на стуле.",
@@ -602,6 +687,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Ball wird im Garten liegen.",
       "english": "The ball will be lying in the garden.",
       "russian": "Мяч будет лежать в саду.",
@@ -609,6 +695,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Schlüssel wird auf dem Regal liegen.",
       "english": "The key will be lying on the shelf.",
       "russian": "Ключ будет лежать на полке.",
@@ -616,6 +703,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Zeitung wird auf dem Tisch liegen.",
       "english": "The newspaper will be lying on the table.",
       "russian": "Газета будет лежать на столе.",
@@ -623,6 +711,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Brille wird neben dem Buch liegen.",
       "english": "The glasses will be lying next to the book.",
       "russian": "Очки будут лежать рядом с книгой.",
@@ -630,6 +719,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Bild wird auf dem Boden liegen.",
       "english": "The picture will be lying on the floor.",
       "russian": "Картина будет лежать на полу.",
@@ -637,6 +727,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich arbeite im Büro.",
       "english": "I work in the office.",
       "russian": "Я работаю в офисе.",
@@ -644,6 +735,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er arbeitet als Lehrer.",
       "english": "He works as a teacher.",
       "russian": "Он работает учителем.",
@@ -651,6 +743,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie arbeitet in einer Bank.",
       "english": "She works in a bank.",
       "russian": "Она работает в банке.",
@@ -658,6 +751,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir arbeiten zusammen.",
       "english": "We work together.",
       "russian": "Мы работаем вместе.",
@@ -665,6 +759,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie arbeiten zu Hause.",
       "english": "They work at home.",
       "russian": "Они работают дома.",
@@ -672,6 +767,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Arbeitest du hier?",
       "english": "Do you work here?",
       "russian": "Ты работаешь здесь?",
@@ -679,6 +775,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich arbeite jeden Tag.",
       "english": "I work every day.",
       "russian": "Я работаю каждый день.",
@@ -686,6 +783,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er arbeitet viel.",
       "english": "He works a lot.",
       "russian": "Он много работает.",
@@ -693,6 +791,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie arbeitet hart.",
       "english": "She works hard.",
       "russian": "Она усердно работает.",
@@ -700,6 +799,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir arbeiten an einem Projekt.",
       "english": "We are working on a project.",
       "russian": "Мы работаем над проектом.",
@@ -707,6 +807,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe gestern gearbeitet.",
       "english": "I worked yesterday.",
       "russian": "Я работал вчера.",
@@ -714,6 +815,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er hat als Lehrer gearbeitet.",
       "english": "He worked as a teacher.",
       "russian": "Он работал учителем.",
@@ -721,6 +823,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie hat in einer Bank gearbeitet.",
       "english": "She worked in a bank.",
       "russian": "Она работала в банке.",
@@ -728,6 +831,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir haben zusammen gearbeitet.",
       "english": "We worked together.",
       "russian": "Мы работали вместе.",
@@ -735,6 +839,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie haben zu Hause gearbeitet.",
       "english": "They worked at home.",
       "russian": "Они работали дома.",
@@ -742,6 +847,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Hast du hier gearbeitet?",
       "english": "Did you work here?",
       "russian": "Ты работал здесь?",
@@ -749,6 +855,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe jeden Tag gearbeitet.",
       "english": "I worked every day.",
       "russian": "Я работал каждый день.",
@@ -756,6 +863,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er hat viel gearbeitet.",
       "english": "He worked a lot.",
       "russian": "Он много работал.",
@@ -763,6 +871,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie hat hart gearbeitet.",
       "english": "She worked hard.",
       "russian": "Она усердно работала.",
@@ -770,6 +879,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir haben an einem Projekt gearbeitet.",
       "english": "We worked on a project.",
       "russian": "Мы работали над проектом.",
@@ -777,6 +887,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich werde morgen arbeiten.",
       "english": "I will work tomorrow.",
       "russian": "Я буду работать завтра.",
@@ -784,6 +895,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er wird als Lehrer arbeiten.",
       "english": "He will work as a teacher.",
       "russian": "Он будет работать учителем.",
@@ -791,6 +903,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie wird in einer Bank arbeiten.",
       "english": "She will work in a bank.",
       "russian": "Она будет работать в банке.",
@@ -798,6 +911,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir werden zusammen arbeiten.",
       "english": "We will work together.",
       "russian": "Мы будем работать вместе.",
@@ -805,6 +919,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie werden zu Hause arbeiten.",
       "english": "They will work at home.",
       "russian": "Они будут работать дома.",
@@ -812,6 +927,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wirst du hier arbeiten?",
       "english": "Will you work here?",
       "russian": "Ты будешь работать здесь?",
@@ -819,6 +935,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich werde jeden Tag arbeiten.",
       "english": "I will work every day.",
       "russian": "Я буду работать каждый день.",
@@ -826,6 +943,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er wird viel arbeiten.",
       "english": "He will work a lot.",
       "russian": "Он будет много работать.",
@@ -833,6 +951,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie wird hart arbeiten.",
       "english": "She will work hard.",
       "russian": "Она будет усердно работать.",
@@ -840,6 +959,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir werden an einem Projekt arbeiten.",
       "english": "We will work on a project.",
       "russian": "Мы будем работать над проектом.",
@@ -847,6 +967,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich lebe in Deutschland.",
       "english": "I live in Germany.",
       "russian": "Я живу в Германии.",
@@ -854,6 +975,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er lebt in Berlin.",
       "english": "He lives in Berlin.",
       "russian": "Он живет в Берлине.",
@@ -861,6 +983,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie lebt in einer Wohnung.",
       "english": "She lives in an apartment.",
       "russian": "Она живет в квартире.",
@@ -868,6 +991,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir leben zusammen.",
       "english": "We live together.",
       "russian": "Мы живем вместе.",
@@ -875,6 +999,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie leben auf dem Land.",
       "english": "They live in the countryside.",
       "russian": "Они живут в деревне.",
@@ -882,6 +1007,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Lebst du hier?",
       "english": "Do you live here?",
       "russian": "Ты живешь здесь?",
@@ -889,6 +1015,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich lebe seit fünf Jahren hier.",
       "english": "I have been living here for five years.",
       "russian": "Я живу здесь пять лет.",
@@ -896,6 +1023,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er lebt mit seiner Familie.",
       "english": "He lives with his family.",
       "russian": "Он живет со своей семьей.",
@@ -903,6 +1031,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie lebt allein.",
       "english": "She lives alone.",
       "russian": "Она живет одна.",
@@ -910,6 +1039,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir leben in einem Haus.",
       "english": "We live in a house.",
       "russian": "Мы живем в доме.",
@@ -917,6 +1047,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe in Frankreich gelebt.",
       "english": "I lived in France.",
       "russian": "Я жил во Франции.",
@@ -924,6 +1055,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er hat in Berlin gelebt.",
       "english": "He lived in Berlin.",
       "russian": "Он жил в Берлине.",
@@ -931,6 +1063,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie hat in einer Wohnung gelebt.",
       "english": "She lived in an apartment.",
       "russian": "Она жила в квартире.",
@@ -938,6 +1071,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir haben zusammen gelebt.",
       "english": "We lived together.",
       "russian": "Мы жили вместе.",
@@ -945,6 +1079,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie haben auf dem Land gelebt.",
       "english": "They lived in the countryside.",
       "russian": "Они жили в деревне.",
@@ -952,6 +1087,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Hast du hier gelebt?",
       "english": "Did you live here?",
       "russian": "Ты жил здесь?",
@@ -959,6 +1095,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe fünf Jahre hier gelebt.",
       "english": "I lived here for five years.",
       "russian": "Я жил здесь пять лет.",
@@ -966,6 +1103,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er hat mit seiner Familie gelebt.",
       "english": "He lived with his family.",
       "russian": "Он жил со своей семьей.",
@@ -973,6 +1111,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie hat allein gelebt.",
       "english": "She lived alone.",
       "russian": "Она жила одна.",
@@ -980,6 +1119,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir haben in einem Haus gelebt.",
       "english": "We lived in a house.",
       "russian": "Мы жили в доме.",
@@ -987,6 +1127,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich werde in Deutschland leben.",
       "english": "I will live in Germany.",
       "russian": "Я буду жить в Германии.",
@@ -994,6 +1135,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er wird in Berlin leben.",
       "english": "He will live in Berlin.",
       "russian": "Он будет жить в Берлине.",
@@ -1001,6 +1143,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie wird in einer Wohnung leben.",
       "english": "She will live in an apartment.",
       "russian": "Она будет жить в квартире.",
@@ -1008,6 +1151,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir werden zusammen leben.",
       "english": "We will live together.",
       "russian": "Мы будем жить вместе.",
@@ -1015,6 +1159,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie werden auf dem Land leben.",
       "english": "They will live in the countryside.",
       "russian": "Они будут жить в деревне.",
@@ -1022,6 +1167,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wirst du hier leben?",
       "english": "Will you live here?",
       "russian": "Ты будешь жить здесь?",
@@ -1029,6 +1175,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich werde fünf Jahre hier leben.",
       "english": "I will live here for five years.",
       "russian": "Я буду жить здесь пять лет.",
@@ -1036,6 +1183,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er wird mit seiner Familie leben.",
       "english": "He will live with his family.",
       "russian": "Он будет жить со своей семьей.",
@@ -1043,6 +1191,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie wird allein leben.",
       "english": "She will live alone.",
       "russian": "Она будет жить одна.",
@@ -1050,6 +1199,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir werden in einem Haus leben.",
       "english": "We will live in a house.",
       "russian": "Мы будем жить в доме.",
@@ -1057,6 +1207,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich liebe dich.",
       "english": "I love you.",
       "russian": "Я люблю тебя.",
@@ -1064,6 +1215,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er liebt seine Familie.",
       "english": "He loves his family.",
       "russian": "Он любит свою семью.",
@@ -1071,6 +1223,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie liebt ihren Hund.",
       "english": "She loves her dog.",
       "russian": "Она любит свою собаку.",
@@ -1078,6 +1231,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir lieben unsere Freunde.",
       "english": "We love our friends.",
       "russian": "Мы любим наших друзей.",
@@ -1085,6 +1239,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie lieben die Natur.",
       "english": "They love nature.",
       "russian": "Они любят природу.",
@@ -1092,6 +1247,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Liebst du Musik?",
       "english": "Do you love music?",
       "russian": "Ты любишь музыку?",
@@ -1099,6 +1255,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich liebe es, zu reisen.",
       "english": "I love traveling.",
       "russian": "Я люблю путешествовать.",
@@ -1106,6 +1263,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er liebt Fußball.",
       "english": "He loves football.",
       "russian": "Он любит футбол.",
@@ -1113,6 +1271,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie liebt das Meer.",
       "english": "She loves the sea.",
       "russian": "Она любит море.",
@@ -1120,6 +1279,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir lieben es, zu kochen.",
       "english": "We love cooking.",
       "russian": "Мы любим готовить.",
@@ -1127,6 +1287,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe dich immer geliebt.",
       "english": "I have always loved you.",
       "russian": "Я всегда любил тебя.",
@@ -1134,6 +1295,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er hat seine Arbeit geliebt.",
       "english": "He loved his job.",
       "russian": "Он любил свою работу.",
@@ -1141,6 +1303,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie hat ihre Kinder geliebt.",
       "english": "She loved her children.",
       "russian": "Она любила своих детей.",
@@ -1148,6 +1311,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir haben das Leben geliebt.",
       "english": "We loved life.",
       "russian": "Мы любили жизнь.",
@@ -1155,6 +1319,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie haben die Musik geliebt.",
       "english": "They loved the music.",
       "russian": "Они любили музыку.",
@@ -1162,6 +1327,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Hast du mich geliebt?",
       "english": "Did you love me?",
       "russian": "Ты любил меня?",
@@ -1169,6 +1335,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe es geliebt, zu lesen.",
       "english": "I loved reading.",
       "russian": "Я любил читать.",
@@ -1176,6 +1343,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er hat das Reisen geliebt.",
       "english": "He loved traveling.",
       "russian": "Он любил путешествовать.",
@@ -1183,6 +1351,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie hat die Natur geliebt.",
       "english": "She loved nature.",
       "russian": "Она любила природу.",
@@ -1190,6 +1359,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir haben das Meer geliebt.",
       "english": "We loved the sea.",
       "russian": "Мы любили море.",
@@ -1197,6 +1367,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich werde dich immer lieben.",
       "english": "I will always love you.",
       "russian": "Я всегда буду любить тебя.",
@@ -1204,6 +1375,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er wird seine Familie lieben.",
       "english": "He will love his family.",
       "russian": "Он будет любить свою семью.",
@@ -1211,6 +1383,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie wird ihren Hund lieben.",
       "english": "She will love her dog.",
       "russian": "Она будет любить свою собаку.",
@@ -1218,6 +1391,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir werden unsere Freunde lieben.",
       "english": "We will love our friends.",
       "russian": "Мы будем любить наших друзей.",
@@ -1225,6 +1399,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie werden die Natur lieben.",
       "english": "They will love nature.",
       "russian": "Они будут любить природу.",
@@ -1232,6 +1407,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wirst du mich lieben?",
       "english": "Will you love me?",
       "russian": "Ты будешь любить меня?",
@@ -1239,6 +1415,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich werde es lieben, zu reisen.",
       "english": "I will love traveling.",
       "russian": "Я буду любить путешествовать.",
@@ -1246,6 +1423,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er wird Fußball lieben.",
       "english": "He will love football.",
       "russian": "Он будет любить футбол.",
@@ -1253,6 +1431,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie wird das Meer lieben.",
       "english": "She will love the sea.",
       "russian": "Она будет любить море.",
@@ -1260,6 +1439,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir werden es lieben, zu kochen.",
       "english": "We will love cooking.",
       "russian": "Мы будем любить готовить.",
@@ -1267,6 +1447,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich spreche Deutsch.",
       "english": "I speak German.",
       "russian": "Я говорю по-немецки.",
@@ -1274,6 +1455,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er spricht Englisch.",
       "english": "He speaks English.",
       "russian": "Он говорит по-английски.",
@@ -1281,6 +1463,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie spricht Französisch.",
       "english": "She speaks French.",
       "russian": "Она говорит по-французски.",
@@ -1288,6 +1471,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir sprechen Spanisch.",
       "english": "We speak Spanish.",
       "russian": "Мы говорим по-испански.",
@@ -1295,6 +1479,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie sprechen Italienisch.",
       "english": "They speak Italian.",
       "russian": "Они говорят по-итальянски.",
@@ -1302,6 +1487,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sprichst du Russisch?",
       "english": "Do you speak Russian?",
       "russian": "Ты говоришь по-русски?",
@@ -1309,6 +1495,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich spreche ein wenig Deutsch.",
       "english": "I speak a little German.",
       "russian": "Я немного говорю по-немецки.",
@@ -1316,6 +1503,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er spricht sehr gut Englisch.",
       "english": "He speaks English very well.",
       "russian": "Он очень хорошо говорит по-английски.",
@@ -1323,6 +1511,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie spricht fließend Französisch.",
       "english": "She speaks French fluently.",
       "russian": "Она свободно говорит по-французски.",
@@ -1330,6 +1519,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir sprechen nur ein bisschen Spanisch.",
       "english": "We speak only a little Spanish.",
       "russian": "Мы говорим только немного по-испански.",
@@ -1337,6 +1527,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe gestern mit ihm gesprochen.",
       "english": "I spoke with him yesterday.",
       "russian": "Я говорил с ним вчера.",
@@ -1344,6 +1535,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er hat über das Problem gesprochen.",
       "english": "He talked about the problem.",
       "russian": "Он говорил о проблеме.",
@@ -1351,6 +1543,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie hat mit ihrem Chef gesprochen.",
       "english": "She spoke with her boss.",
       "russian": "Она говорила со своим начальником.",
@@ -1358,6 +1551,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir haben viel gesprochen.",
       "english": "We talked a lot.",
       "russian": "Мы много говорили.",
@@ -1365,6 +1559,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie haben über ihre Pläne gesprochen.",
       "english": "They talked about their plans.",
       "russian": "Они говорили о своих планах.",
@@ -1372,6 +1567,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Hast du mit ihm gesprochen?",
       "english": "Did you speak with him?",
       "russian": "Ты говорил с ним?",
@@ -1379,6 +1575,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe lange nicht gesprochen.",
       "english": "I haven't spoken for a long time.",
       "russian": "Я давно не говорил.",
@@ -1386,6 +1583,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er hat schnell gesprochen.",
       "english": "He spoke quickly.",
       "russian": "Он говорил быстро.",
@@ -1393,6 +1591,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie hat leise gesprochen.",
       "english": "She spoke quietly.",
       "russian": "Она говорила тихо.",
@@ -1400,6 +1599,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir haben laut gesprochen.",
       "english": "We spoke loudly.",
       "russian": "Мы говорили громко.",
@@ -1407,6 +1607,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich werde morgen mit ihm sprechen.",
       "english": "I will speak with him tomorrow.",
       "russian": "Я буду говорить с ним завтра.",
@@ -1414,6 +1615,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er wird über das Problem sprechen.",
       "english": "He will talk about the problem.",
       "russian": "Он будет говорить о проблеме.",
@@ -1421,6 +1623,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie wird mit ihrem Chef sprechen.",
       "english": "She will speak with her boss.",
       "russian": "Она будет говорить со своим начальником.",
@@ -1428,6 +1631,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir werden viel sprechen.",
       "english": "We will talk a lot.",
       "russian": "Мы будем много говорить.",
@@ -1435,6 +1639,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie werden über ihre Pläne sprechen.",
       "english": "They will talk about their plans.",
       "russian": "Они будут говорить о своих планах.",
@@ -1442,6 +1647,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wirst du mit ihm sprechen?",
       "english": "Will you speak with him?",
       "russian": "Ты будешь говорить с ним?",
@@ -1449,6 +1655,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich werde lange sprechen.",
       "english": "I will speak for a long time.",
       "russian": "Я буду говорить долго.",
@@ -1456,6 +1663,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er wird schnell sprechen.",
       "english": "He will speak quickly.",
       "russian": "Он будет говорить быстро.",
@@ -1463,6 +1671,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie wird leise sprechen.",
       "english": "She will speak quietly.",
       "russian": "Она будет говорить тихо.",
@@ -1470,6 +1679,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir werden laut sprechen.",
       "english": "We will speak loudly.",
       "russian": "Мы будем говорить громко.",
@@ -1477,6 +1687,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich suche meine Schlüssel.",
       "english": "I am looking for my keys.",
       "russian": "Я ищу свои ключи.",
@@ -1484,6 +1695,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er sucht seine Brille.",
       "english": "He is looking for his glasses.",
       "russian": "Он ищет свои очки.",
@@ -1491,6 +1703,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie sucht ihren Hund.",
       "english": "She is looking for her dog.",
       "russian": "Она ищет свою собаку.",
@@ -1498,6 +1711,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir suchen ein neues Haus.",
       "english": "We are looking for a new house.",
       "russian": "Мы ищем новый дом.",
@@ -1505,6 +1719,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie suchen eine Wohnung.",
       "english": "They are looking for an apartment.",
       "russian": "Они ищут квартиру.",
@@ -1512,6 +1727,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Suchst du deinen Mantel?",
       "english": "Are you looking for your coat?",
       "russian": "Ты ищешь своё пальто?",
@@ -1519,6 +1735,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich suche einen neuen Job.",
       "english": "I am looking for a new job.",
       "russian": "Я ищу новую работу.",
@@ -1526,6 +1743,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er sucht nach Antworten.",
       "english": "He is looking for answers.",
       "russian": "Он ищет ответы.",
@@ -1533,6 +1751,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie sucht nach ihrem Freund.",
       "english": "She is looking for her friend.",
       "russian": "Она ищет своего друга.",
@@ -1540,6 +1759,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir suchen nach dem besten Angebot.",
       "english": "We are looking for the best offer.",
       "russian": "Мы ищем лучшее предложение.",
@@ -1547,6 +1767,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe meine Schlüssel gesucht.",
       "english": "I looked for my keys.",
       "russian": "Я искал свои ключи.",
@@ -1554,6 +1775,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er hat seine Brille gesucht.",
       "english": "He looked for his glasses.",
       "russian": "Он искал свои очки.",
@@ -1561,6 +1783,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie hat ihren Hund gesucht.",
       "english": "She looked for her dog.",
       "russian": "Она искала свою собаку.",
@@ -1568,6 +1791,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir haben ein neues Haus gesucht.",
       "english": "We looked for a new house.",
       "russian": "Мы искали новый дом.",
@@ -1575,6 +1799,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie haben eine Wohnung gesucht.",
       "english": "They looked for an apartment.",
       "russian": "Они искали квартиру.",
@@ -1582,6 +1807,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Hast du deinen Mantel gesucht?",
       "english": "Did you look for your coat?",
       "russian": "Ты искал своё пальто?",
@@ -1589,6 +1815,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe einen neuen Job gesucht.",
       "english": "I looked for a new job.",
       "russian": "Я искал новую работу.",
@@ -1596,6 +1823,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er hat nach Antworten gesucht.",
       "english": "He looked for answers.",
       "russian": "Он искал ответы.",
@@ -1603,6 +1831,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie hat nach ihrem Freund gesucht.",
       "english": "She looked for her friend.",
       "russian": "Она искала своего друга.",
@@ -1610,6 +1839,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir haben nach dem besten Angebot gesucht.",
       "english": "We looked for the best offer.",
       "russian": "Мы искали лучшее предложение.",
@@ -1617,6 +1847,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich werde meine Schlüssel suchen.",
       "english": "I will look for my keys.",
       "russian": "Я буду искать свои ключи.",
@@ -1624,6 +1855,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er wird seine Brille suchen.",
       "english": "He will look for his glasses.",
       "russian": "Он будет искать свои очки.",
@@ -1631,6 +1863,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie wird ihren Hund suchen.",
       "english": "She will look for her dog.",
       "russian": "Она будет искать свою собаку.",
@@ -1638,6 +1871,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir werden ein neues Haus suchen.",
       "english": "We will look for a new house.",
       "russian": "Мы будем искать новый дом.",
@@ -1645,6 +1879,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie werden eine Wohnung suchen.",
       "english": "They will look for an apartment.",
       "russian": "Они будут искать квартиру.",
@@ -1652,6 +1887,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wirst du deinen Mantel suchen?",
       "english": "Will you look for your coat?",
       "russian": "Ты будешь искать своё пальто?",
@@ -1659,6 +1895,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich werde einen neuen Job suchen.",
       "english": "I will look for a new job.",
       "russian": "Я буду искать новую работу.",
@@ -1666,6 +1903,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er wird nach Antworten suchen.",
       "english": "He will look for answers.",
       "russian": "Он будет искать ответы.",
@@ -1673,6 +1911,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie wird nach ihrem Freund suchen.",
       "english": "She will look for her friend.",
       "russian": "Она будет искать своего друга.",
@@ -1680,6 +1919,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir werden nach dem besten Angebot suchen.",
       "english": "We will look for the best offer.",
       "russian": "Мы будем искать лучшее предложение.",
@@ -1687,6 +1927,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wie viel kostet das?",
       "english": "How much does this cost?",
       "russian": "Сколько это стоит?",
@@ -1694,6 +1935,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Buch kostet 10 Euro.",
       "english": "The book costs 10 euros.",
       "russian": "Эта книга стоит 10 евро.",
@@ -1701,6 +1943,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Kaffee kostet 2 Euro.",
       "english": "The coffee costs 2 euros.",
       "russian": "Кофе стоит 2 евро.",
@@ -1708,6 +1951,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wie viel kostet ein Ticket?",
       "english": "How much does a ticket cost?",
       "russian": "Сколько стоит билет?",
@@ -1715,6 +1959,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das T-Shirt kostet 15 Euro.",
       "english": "The T-shirt costs 15 euros.",
       "russian": "Футболка стоит 15 евро.",
@@ -1722,6 +1967,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Film kostet 12 Euro.",
       "english": "The movie costs 12 euros.",
       "russian": "Фильм стоит 12 евро.",
@@ -1729,6 +1975,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wie viel kosten die Schuhe?",
       "english": "How much do the shoes cost?",
       "russian": "Сколько стоят эти туфли?",
@@ -1736,6 +1983,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Tasche kostet 20 Euro.",
       "english": "The bag costs 20 euros.",
       "russian": "Сумка стоит 20 евро.",
@@ -1743,6 +1991,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Ticket kostet 5 Euro.",
       "english": "The ticket costs 5 euros.",
       "russian": "Билет стоит 5 евро.",
@@ -1750,6 +1999,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Brot kostet 3 Euro.",
       "english": "The bread costs 3 euros.",
       "russian": "Хлеб стоит 3 евро.",
@@ -1757,6 +2007,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wie viel hat das Buch gekostet?",
       "english": "How much did the book cost?",
       "russian": "Сколько стоила эта книга?",
@@ -1764,6 +2015,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Kaffee hat 2 Euro gekostet.",
       "english": "The coffee cost 2 euros.",
       "russian": "Кофе стоил 2 евро.",
@@ -1771,6 +2023,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das T-Shirt hat 15 Euro gekostet.",
       "english": "The T-shirt cost 15 euros.",
       "russian": "Футболка стоила 15 евро.",
@@ -1778,6 +2031,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Film hat 12 Euro gekostet.",
       "english": "The movie cost 12 euros.",
       "russian": "Фильм стоил 12 евро.",
@@ -1785,6 +2039,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Schuhe haben viel gekostet.",
       "english": "The shoes cost a lot.",
       "russian": "Туфли стоили дорого.",
@@ -1792,6 +2047,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Tasche hat 20 Euro gekostet.",
       "english": "The bag cost 20 euros.",
       "russian": "Сумка стоила 20 евро.",
@@ -1799,6 +2055,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Ticket hat 5 Euro gekostet.",
       "english": "The ticket cost 5 euros.",
       "russian": "Билет стоил 5 евро.",
@@ -1806,6 +2063,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Brot hat 3 Euro gekostet.",
       "english": "The bread cost 3 euros.",
       "russian": "Хлеб стоил 3 евро.",
@@ -1813,6 +2071,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Bücher haben viel gekostet.",
       "english": "The books cost a lot.",
       "russian": "Книги стоили дорого.",
@@ -1820,6 +2079,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Reise hat viel Geld gekostet.",
       "english": "The trip cost a lot of money.",
       "russian": "Путешествие стоило много денег.",
@@ -1827,6 +2087,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wie viel wird das Auto kosten?",
       "english": "How much will the car cost?",
       "russian": "Сколько будет стоить машина?",
@@ -1834,6 +2095,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Haus wird viel kosten.",
       "english": "The house will cost a lot.",
       "russian": "Дом будет стоить дорого.",
@@ -1841,6 +2103,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Urlaub wird teuer kosten.",
       "english": "The vacation will cost a lot.",
       "russian": "Отпуск будет стоить дорого.",
@@ -1848,6 +2111,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Schuhe werden 50 Euro kosten.",
       "english": "The shoes will cost 50 euros.",
       "russian": "Туфли будут стоить 50 евро.",
@@ -1855,6 +2119,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Tasche wird 30 Euro kosten.",
       "english": "The bag will cost 30 euros.",
       "russian": "Сумка будет стоить 30 евро.",
@@ -1862,6 +2127,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Essen wird viel kosten.",
       "english": "The food will cost a lot.",
       "russian": "Еда будет стоить дорого.",
@@ -1869,6 +2135,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Kurs wird 200 Euro kosten.",
       "english": "The course will cost 200 euros.",
       "russian": "Курс будет стоить 200 евро.",
@@ -1876,6 +2143,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Ticket wird 10 Euro kosten.",
       "english": "The ticket will cost 10 euros.",
       "russian": "Билет будет стоить 10 евро.",
@@ -1883,6 +2151,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Hotel wird teuer kosten.",
       "english": "The hotel will cost a lot.",
       "russian": "Отель будет стоить дорого.",
@@ -1890,6 +2159,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wie viel wird das Konzert kosten?",
       "english": "How much will the concert cost?",
       "russian": "Сколько будет стоить концерт?",
@@ -1897,6 +2167,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich schicke dir eine E-Mail.",
       "english": "I am sending you an email.",
       "russian": "Я отправляю тебе письмо.",
@@ -1904,6 +2175,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie schickt eine Postkarte.",
       "english": "She is sending a postcard.",
       "russian": "Она отправляет открытку.",
@@ -1911,6 +2183,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir schicken eine Einladung.",
       "english": "We are sending an invitation.",
       "russian": "Мы отправляем приглашение.",
@@ -1918,6 +2191,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er schickt ein Paket.",
       "english": "He is sending a package.",
       "russian": "Он отправляет посылку.",
@@ -1925,6 +2199,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Schickst du einen Brief?",
       "english": "Are you sending a letter?",
       "russian": "Ты отправляешь письмо?",
@@ -1932,6 +2207,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich schicke eine SMS.",
       "english": "I am sending a text message.",
       "russian": "Я отправляю СМС.",
@@ -1939,6 +2215,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir schicken ein Geschenk.",
       "english": "We are sending a gift.",
       "russian": "Мы отправляем подарок.",
@@ -1946,6 +2223,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie schickt eine Nachricht.",
       "english": "She is sending a message.",
       "russian": "Она отправляет сообщение.",
@@ -1953,6 +2231,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er schickt eine Bewerbung.",
       "english": "He is sending an application.",
       "russian": "Он отправляет заявление.",
@@ -1960,6 +2239,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Schicken Sie ein Fax?",
       "english": "Are you sending a fax?",
       "russian": "Вы отправляете факс?",
@@ -1967,6 +2247,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe dir ein Paket geschickt.",
       "english": "I sent you a package.",
       "russian": "Я отправил тебе посылку.",
@@ -1974,6 +2255,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie hat eine Postkarte geschickt.",
       "english": "She sent a postcard.",
       "russian": "Она отправила открытку.",
@@ -1981,6 +2263,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir haben eine Einladung geschickt.",
       "english": "We sent an invitation.",
       "russian": "Мы отправили приглашение.",
@@ -1988,6 +2271,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er hat ein Geschenk geschickt.",
       "english": "He sent a gift.",
       "russian": "Он отправил подарок.",
@@ -1995,6 +2279,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe eine SMS geschickt.",
       "english": "I sent a text message.",
       "russian": "Я отправил СМС.",
@@ -2002,6 +2287,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir haben eine Nachricht geschickt.",
       "english": "We sent a message.",
       "russian": "Мы отправили сообщение.",
@@ -2009,6 +2295,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie hat eine Bewerbung geschickt.",
       "english": "She sent an application.",
       "russian": "Она отправила заявление.",
@@ -2016,6 +2303,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er hat einen Brief geschickt.",
       "english": "He sent a letter.",
       "russian": "Он отправил письмо.",
@@ -2023,6 +2311,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Schickst du mir die Unterlagen?",
       "english": "Did you send me the documents?",
       "russian": "Ты отправил мне документы?",
@@ -2030,6 +2319,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir haben dir ein Fax geschickt.",
       "english": "We sent you a fax.",
       "russian": "Мы отправили тебе факс.",
@@ -2037,6 +2327,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich werde dir morgen eine E-Mail schicken.",
       "english": "I will send you an email tomorrow.",
       "russian": "Я отправлю тебе письмо завтра.",
@@ -2044,6 +2335,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie wird eine Postkarte schicken.",
       "english": "She will send a postcard.",
       "russian": "Она отправит открытку.",
@@ -2051,6 +2343,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir werden eine Einladung schicken.",
       "english": "We will send an invitation.",
       "russian": "Мы отправим приглашение.",
@@ -2058,6 +2351,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er wird ein Paket schicken.",
       "english": "He will send a package.",
       "russian": "Он отправит посылку.",
@@ -2065,6 +2359,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wirst du mir die Fotos schicken?",
       "english": "Will you send me the photos?",
       "russian": "Ты отправишь мне фотографии?",
@@ -2072,6 +2367,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich werde eine SMS schicken.",
       "english": "I will send a text message.",
       "russian": "Я отправлю СМС.",
@@ -2079,6 +2375,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir werden ein Geschenk schicken.",
       "english": "We will send a gift.",
       "russian": "Мы отправим подарок.",
@@ -2086,6 +2383,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie werden eine Nachricht schicken.",
       "english": "They will send a message.",
       "russian": "Они отправят сообщение.",
@@ -2093,6 +2391,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Er wird eine Bewerbung schicken.",
       "english": "He will send an application.",
       "russian": "Он отправит заявление.",
@@ -2100,6 +2399,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wirst du mir die Details schicken?",
       "english": "Will you send me the details?",
       "russian": "Ты отправишь мне детали?",

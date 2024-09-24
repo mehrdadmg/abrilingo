@@ -7,6 +7,7 @@
   "content": [
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Guten Tag, ich möchte meinen Kindergeldantrag abgeben.",
       "english": "Good day, I would like to submit my child benefit application.",
       "russian": "Добрый день, я хочу подать заявление на детское пособие.",
@@ -14,6 +15,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Da müssen Sie zur Familienkasse gehen. Die ist in der Lörracher Straße 16.",
       "english": "You need to go to the family fund. It is located at Lörracher Straße 16.",
       "russian": "Вам нужно идти в семейную кассу. Она находится на Лёррахерштрассе, 16.",
@@ -21,6 +23,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Standesamt Bremen-Mitte. Simonsen, guten Tag.",
       "english": "Civil Registry Office Bremen-Mitte. Simonsen, good day.",
       "russian": "ЗАГС Бремен-Митте. Симонсен, добрый день.",
@@ -28,6 +31,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Meine Freundin und ich wollen heiraten und haben einige Fragen.",
       "english": "My girlfriend and I want to get married and have some questions.",
       "russian": "Мы с моей девушкой хотим пожениться и у нас есть несколько вопросов.",
@@ -35,6 +39,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Service-Center der Agentur für Arbeit, guten Tag.",
       "english": "Service Center of the Employment Agency, good day.",
       "russian": "Сервис-центр агентства по труду, добрый день.",
@@ -42,6 +47,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Guten Tag, ich heiße Akad Celic und hätte gerne einen Termin mit einem Arbeitsvermittler.",
       "english": "Good day, my name is Akad Celic and I would like to make an appointment with an employment agent.",
       "russian": "Добрый день, меня зовут Акад Целик, и я хотел бы записаться на прием к трудовому посреднику.",
@@ -49,6 +55,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Entschuldigung, ich habe eine Frage.",
       "english": "Excuse me, I have a question.",
       "russian": "Извините, у меня вопрос.",
@@ -56,6 +63,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, gerne.",
       "english": "Yes, please.",
       "russian": "Да, пожалуйста.",
@@ -63,6 +71,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich möchte mein Auto anmelden.",
       "english": "I want to register my car.",
       "russian": "Я хочу зарегистрировать свою машину.",
@@ -70,6 +79,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Da sind Sie hier richtig, haben Sie die Papiere dabei?",
       "english": "You are in the right place, do you have the papers with you?",
       "russian": "Тогда вы по адресу, у вас есть документы?",
@@ -77,6 +87,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Bürgeramt Osnabrück, Berger, guten Tag.",
       "english": "Osnabrück Citizens' Office, Berger, good day.",
       "russian": "Городское управление Оснабрюка, Бергер, добрый день.",
@@ -84,6 +95,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich bin von Saarbrücken nach Osnabrück umgezogen und möchte meinen Wohnsitz hier anmelden. Was muss ich da machen?",
       "english": "I moved from Saarbrücken to Osnabrück and want to register my residence here. What do I need to do?",
       "russian": "Я переехал из Саарбрюкена в Оснабрюк и хочу зарегистрировать здесь своё место жительства. Что мне для этого нужно сделать?",
@@ -91,6 +103,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Im Internet gibt es auf der Homepage von Osnabrück ein Anmeldeformular.",
       "english": "On the Osnabrück homepage, there is a registration form.",
       "russian": "На сайте Оснабрюка есть форма регистрации.",
@@ -98,6 +111,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das können Sie herunterladen und ausfüllen.",
       "english": "You can download and fill it out.",
       "russian": "Вы можете скачать и заполнить её.",
@@ -105,6 +119,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Dann kommen Sie mit dem Formular ins Bürgeramt, das ist in der Hansastraße 12.",
       "english": "Then come with the form to the citizens' office, which is located at Hansastraße 12.",
       "russian": "Затем приходите с этой формой в городское управление, которое находится на Ханзаштрассе, 12.",
@@ -112,6 +127,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Okay, Hansastraße 12, vielen Dank.",
       "english": "Okay, Hansastraße 12, thank you.",
       "russian": "Хорошо, Ханзаштрассе, 12, спасибо.",
@@ -119,6 +135,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Guten Morgen Yanti, wie geht’s?",
       "english": "Good morning Yanti, how are you?",
       "russian": "Доброе утро, Янти, как дела?",
@@ -126,6 +143,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Hallo, Juan. Eigentlich ganz gut, aber ich suche dringend eine Wohnung.",
       "english": "Hello, Juan. Actually quite well, but I am urgently looking for an apartment.",
       "russian": "Привет, Хуан. В общем, хорошо, но я срочно ищу квартиру.",
@@ -133,6 +151,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das ist leider sehr schwer und die Mieten sind so hoch.",
       "english": "It's very difficult and the rents are so high.",
       "russian": "Это очень сложно, и арендная плата такая высокая.",
@@ -140,6 +159,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe schon sechs Wohnungen gesucht und viele Wohnungen angeschaut.",
       "english": "I have already searched for six apartments and looked at many.",
       "russian": "Я уже искал шесть квартир и осмотрел много.",
@@ -147,6 +167,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Aber ich habe noch nichts gefunden.",
       "english": "But haven't found anything yet.",
       "russian": "Но ничего не нашёл.",
@@ -154,6 +175,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Warum fragst du nicht bei der Stadt?",
       "english": "Why don't you ask the city?",
       "russian": "Почему ты не обратишься в город?",
@@ -161,6 +183,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Es gibt doch die Wohnungsbau GmbH.",
       "english": "There is the Housing Company.",
       "russian": "Есть же жилищная компания.",
@@ -168,6 +191,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die bietet viele Wohnungen an und die sind nicht so teuer.",
       "english": "They offer many apartments and they are not so expensive.",
       "russian": "Она предлагает много квартир, и они не такие дорогие.",
@@ -175,6 +199,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wohnungsbau GmbH? Wohnst du auch in einer Wohnung von der Wohnungsbau GmbH?",
       "english": "Housing Company? Do you also live in an apartment from the Housing Company?",
       "russian": "Жилищная компания? Ты тоже живешь в квартире от жилищной компании?",
@@ -182,6 +207,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Entschuldigen Sie bitte, wo finde ich Frau Barth?",
       "english": "Excuse me, where can I find Ms. Barth?",
       "russian": "Извините, где я могу найти госпожу Барт?",
@@ -189,6 +215,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Haben Sie einen Termin?",
       "english": "Do you have an appointment?",
       "russian": "У вас назначена встреча?",
@@ -196,6 +223,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, um elf Uhr.",
       "english": "Yes, at eleven o'clock.",
       "russian": "Да, на одиннадцать часов.",
@@ -203,6 +231,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Büro von Frau Barth ist im Erdgeschoss, Zimmer 31.",
       "english": "Ms. Barth's office is on the ground floor, room 31.",
       "russian": "Офис госпожи Барт на первом этаже, комната 31.",
@@ -210,6 +239,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Vielen Dank.",
       "english": "Thank you.",
       "russian": "Спасибо.",
@@ -217,6 +247,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Verzeihung, können Sie mir helfen? Ich verstehe das Wort familienstand nicht. Was bedeutet das bitte?",
       "english": "Excuse me, can you help me? I don't understand the word marital status. What does it mean?",
       "russian": "Извините, вы можете мне помочь? Я не понимаю слово 'семейное положение'. Что это значит?",
@@ -224,6 +255,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sind Sie verheiratet? Ja.",
       "english": "Are you married? Yes.",
       "russian": "Вы женаты? Да.",
@@ -231,6 +263,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Dann tragen Sie bei Familienstand verheiratet ein.",
       "english": "Then enter married for marital status.",
       "russian": "Тогда укажите 'женат' в графе 'семейное положение'.",
@@ -238,6 +271,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich danke Ihnen.",
       "english": "Thank you.",
       "russian": "Спасибо вам.",
@@ -245,6 +279,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Entschuldigung, ich habe eine Frage.",
       "english": "Excuse me, I have a question.",
       "russian": "Извините, у меня вопрос.",
@@ -252,6 +287,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, bitte?",
       "english": "Yes, please?",
       "russian": "Да, пожалуйста?",
@@ -259,6 +295,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich fülle gerade ein Anmeldeformular für einen Computerkurs aus. Was bedeutet das Wort Kursgebühr?",
       "english": "I am filling out a registration form for a computer course. What does the word course fee mean?",
       "russian": "Я заполняю регистрационную форму для компьютерных курсов. Что означает слово 'плата за курс'?",
@@ -266,6 +303,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das ist das Geld für den Kurs. Man bezahlt die Gebühr vor dem Kurs.",
       "english": "That is the money for the course. You pay the fee before the course.",
       "russian": "Это плата за курс. Вы платите до начала курса.",
@@ -273,6 +311,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Vielen Dank für Ihre Hilfe.",
       "english": "Thank you for your help.",
       "russian": "Спасибо за вашу помощь.",
@@ -280,6 +319,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Entschuldigen Sie bitte, muss man hier lange warten?",
       "english": "Excuse me, do you have to wait long here?",
       "russian": "Извините, здесь долго ждать?",
@@ -287,6 +327,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Haben Sie eine Wartenummer?",
       "english": "Do you have a waiting number?",
       "russian": "У вас есть номер ожидания?",
@@ -294,6 +335,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Nein, bekommt man die am Informationsschalter?",
       "english": "No, do you get it at the information desk?",
       "russian": "Нет, их выдают на информационном столе?",
@@ -301,6 +343,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Nein, die Wartenummer ziehen Sie hier an dem Automaten.",
       "english": "No, you get the waiting number here at the machine.",
       "russian": "Нет, номер ожидания вы получаете здесь, в автомате.",
@@ -308,6 +351,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wenn Sie Ihre Nummer auf der Anzeigetafel sehen, gehen Sie zum Schalter.",
       "english": "When you see your number on the display board, go to the counter.",
       "russian": "Когда вы увидите свой номер на табло, подойдите к стойке.",
@@ -315,6 +359,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Auf der Anzeigetafel ist jetzt die Nummer 61 und ich habe die Nummer 93. Wie lange dauert das?",
       "english": "The display board currently shows number 61, and I have number 93. How long will it take?",
       "russian": "На табло сейчас номер 61, а у меня номер 93. Сколько это займёт времени?",
@@ -322,6 +367,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Heute sind viele Leute da. Das dauert bestimmt eine Stunde.",
       "english": "There are many people here today. It will take about an hour.",
       "russian": "Сегодня здесь много людей. Это займет примерно час.",
@@ -329,6 +375,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Bei der Arbeitsagentur kann man Arbeit suchen.",
       "english": "You can look for a job at the employment agency.",
       "russian": "В агентстве по трудоустройству можно искать работу.",
@@ -336,6 +383,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Bei der Kfz-Zulassungsstelle kann man das Auto anmelden und abmelden.",
       "english": "You can register and deregister a car at the vehicle registration office.",
       "russian": "В регистрационном отделе можно зарегистрировать и снять с учета машину.",
@@ -343,6 +391,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Bei der Familienkasse kann man Kindergeld beantragen.",
       "english": "You can apply for child benefit at the family fund.",
       "russian": "В семейной кассе можно подать заявление на детское пособие.",
@@ -350,6 +399,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Beim Standesamt kann man heiraten.",
       "english": "You can get married at the civil registry office.",
       "russian": "В ЗАГСе можно пожениться.",
@@ -357,6 +407,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Beim Ausländeramt kann man ein Visum verlängern.",
       "english": "You can extend a visa at the immigration office.",
       "russian": "В иммиграционном офисе можно продлить визу.",
@@ -364,6 +415,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Bei der Meldestelle kann man die Wohnung anmelden.",
       "english": "You can register an apartment at the registration office.",
       "russian": "В регистрационном бюро можно зарегистрировать квартиру.",
@@ -371,6 +423,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Guten Tag, ich möchte meinen Personalausweis verlängern.",
       "english": "Good day, I want to renew my identity card.",
       "russian": "Добрый день, я хочу продлить своё удостоверение личности.",
@@ -378,6 +431,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Haben Sie das Formular schon ausgefüllt?",
       "english": "Have you filled out the form already?",
       "russian": "Вы уже заполнили форму?",
@@ -385,6 +439,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Welches Formular? Nein, ich habe noch kein Formular ausgefüllt.",
       "english": "Which form? No, I haven't filled out any form yet.",
       "russian": "Какую форму? Нет, я ещё ничего не заполнил.",
@@ -392,6 +447,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich kann das auch nicht im Internet herunterladen.",
       "english": "I can't download it from the internet either.",
       "russian": "Я также не могу скачать его из интернета.",
@@ -399,6 +455,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wissen Sie, ich habe keinen Computer und ...",
       "english": "You know, I don't have a computer and ...",
       "russian": "Знаете, у меня нет компьютера и ...",
@@ -406,6 +463,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das ist doch gar kein Problem. Wir füllen das Formular zusammen aus. Ich schreibe alles in den Computer.",
       "english": "That's no problem at all. We will fill out the form together. I will type everything into the computer.",
       "russian": "Это не проблема. Мы заполним форму вместе. Я введу всё в компьютер.",
@@ -413,6 +471,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das ist nett. Danke.",
       "english": "That's kind. Thank you.",
       "russian": "Это мило. Спасибо.",
@@ -420,6 +479,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Guten Tag, ich brauche ein Foto. Und darum möchte ich hier ein Passfoto machen lassen.",
       "english": "Good day, I need a photo. Therefore, I would like to have a passport photo taken here.",
       "russian": "Добрый день, мне нужно фото. Поэтому я хотел бы сделать здесь фото на паспорт.",
@@ -427,6 +487,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Machen Sie bitte den Mund zu und schauen Sie nach vorne.",
       "english": "Please close your mouth and look forward.",
       "russian": "Пожалуйста, закройте рот и смотрите вперёд.",
@@ -434,6 +495,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie können in drei Wochen am Informationsschalter im Bürgeramt abholen. Wir rufen Sie an.",
       "english": "You can pick it up at the information desk in the citizens' office in three weeks. We will call you.",
       "russian": "Вы можете забрать его на информационной стойке в городском управлении через три недели. Мы вам позвоним.",
@@ -441,6 +503,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Drei Wochen? So lange?",
       "english": "Three weeks? That long?",
       "russian": "Три недели? Так долго?",

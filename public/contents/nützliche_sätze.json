@@ -7,6 +7,7 @@
   "content": [
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe Angst.",
       "english": "I am afraid.",
       "russian": "Я боюсь.",
@@ -14,6 +15,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Mir ist langweilig.",
       "english": "I am bored.",
       "russian": "Мне скучно.",
@@ -21,6 +23,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Mir ist übel.",
       "english": "I feel nauseous.",
       "russian": "Мне плохо.",
@@ -28,6 +31,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich schäme mich.",
       "english": "I am ashamed.",
       "russian": "Мне стыдно.",
@@ -35,6 +39,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Es tut mir weh.",
       "english": "It hurts.",
       "russian": "Мне больно.",
@@ -42,6 +47,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das widert mich an.",
       "english": "That disgusts me.",
       "russian": "Это вызывает у меня отвращение.",
@@ -49,6 +55,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Mir ist kalt.",
       "english": "I am cold.",
       "russian": "Мне холодно.",
@@ -56,6 +63,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Mir ist heiß.",
       "english": "I am hot.",
       "russian": "Мне жарко.",
@@ -63,6 +71,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das ist mir wurscht.",
       "english": "I don't care.",
       "russian": "Мне всё равно.",
@@ -70,6 +79,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Mir ist traurig zumute.",
       "english": "I feel sad.",
       "russian": "Мне грустно.",
@@ -77,6 +87,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich bekomme keine Luft.",
       "english": "I can't breathe.",
       "russian": "Я не могу дышать.",
@@ -84,6 +95,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Es tut mir leid.",
       "english": "I am sorry.",
       "russian": "Мне жаль.",
@@ -91,6 +103,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich mache mir Sorgen.",
       "english": "I am worried.",
       "russian": "Я волнуюсь.",
@@ -98,6 +111,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Es ist wahr.",
       "english": "It is true.",
       "russian": "Это правда.",
@@ -105,6 +119,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Es ist klar.",
       "english": "It is clear.",
       "russian": "Это ясно.",
@@ -112,6 +127,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Es ist frisch.",
       "english": "It is fresh.",
       "russian": "Это свежее.",
@@ -119,6 +135,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Es ist heiß.",
       "english": "It is hot.",
       "russian": "Это горячее.",
@@ -126,6 +143,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Es ist sinnlos.",
       "english": "It is pointless.",
       "russian": "Это бессмысленно.",
@@ -133,6 +151,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Es ist verboten.",
       "english": "It is forbidden.",
       "russian": "Это запрещено.",
@@ -140,6 +159,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Es ist schwer.",
       "english": "It is difficult.",
       "russian": "Это трудно.",
@@ -147,6 +167,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Es ist leicht.",
       "english": "It is easy.",
       "russian": "Это легко.",
@@ -154,6 +175,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Es ist egal.",
       "english": "It doesn't matter.",
       "russian": "Это не важно.",
@@ -161,6 +183,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Es ist seltsam.",
       "english": "It is strange.",
       "russian": "Это странно.",
@@ -168,6 +191,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Es ist zum Weinen.",
       "english": "It is tear-jerking.",
       "russian": "Это вызывает слезы.",
@@ -175,6 +199,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Es ist möglich.",
       "english": "It is possible.",
       "russian": "Это возможно.",
@@ -182,6 +207,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Es ist unmöglich.",
       "english": "It is impossible.",
       "russian": "Это невозможно.",
@@ -189,6 +215,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Es ist mir schnuppe.",
       "english": "I don't care.",
       "russian": "Мне всё равно.",
@@ -196,6 +223,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Es ist aus damit.",
       "english": "It is over.",
       "russian": "Это закончено.",
@@ -203,6 +231,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich möchte dich sehen.",
       "english": "I want to see you.",
       "russian": "Я хочу тебя увидеть.",
@@ -210,6 +239,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir müssen uns treffen.",
       "english": "We have to meet.",
       "russian": "Мы должны встретиться.",
@@ -217,6 +247,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wollen wir einen Termin vereinbaren?",
       "english": "Shall we set up an appointment?",
       "russian": "Хотим ли мы назначить встречу?",
@@ -224,6 +255,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wie wäre es mit Dienstag?",
       "english": "How about Tuesday?",
       "russian": "Как насчет вторника?",
@@ -231,6 +263,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wann hast du Zeit?",
       "english": "When do you have time?",
       "russian": "Когда у тебя есть время?",
@@ -238,6 +271,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Welche Uhrzeit schlägst du vor?",
       "english": "What time do you suggest?",
       "russian": "Какое время ты предлагаешь?",
@@ -245,6 +279,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Bei mir geht es heute Abend, und bei dir?",
       "english": "I am free this evening, and you?",
       "russian": "Я свободен сегодня вечером, а ты?",
@@ -252,6 +287,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Hilf mir!",
       "english": "Help me!",
       "russian": "Помоги мне!",
@@ -259,6 +295,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Folge mir!",
       "english": "Follow me!",
       "russian": "Следуй за мной!",
@@ -266,6 +303,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sag mal!",
       "english": "Tell me!",
       "russian": "Скажи!",
@@ -273,6 +311,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Stör mich nicht!",
       "english": "Don't bother me!",
       "russian": "Не беспокой меня!",
@@ -280,6 +319,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Warte eine Sekunde!",
       "english": "Wait a second!",
       "russian": "Подожди секунду!",
@@ -287,6 +327,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Vertraue mir!",
       "english": "Trust me!",
       "russian": "Доверься мне!",
@@ -294,6 +335,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Unterschreiben Sie hier!",
       "english": "Sign here!",
       "russian": "Подпишите здесь!",
@@ -301,6 +343,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Setzen Sie sich bitte!",
       "english": "Please sit down!",
       "russian": "Садитесь, пожалуйста!",
@@ -308,6 +351,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sei nicht zu spät!",
       "english": "Don't be late!",
       "russian": "Не опаздывай!",
@@ -316,6 +360,7 @@
 
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Geh raus!",
       "english": "Go out!",
       "russian": "Выйди!",
@@ -323,6 +368,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Beeil dich!",
       "english": "Hurry up!",
       "russian": "Поторопись!",
@@ -330,6 +376,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sei doch geduldig!",
       "english": "Be patient!",
       "russian": "Будь терпелив!",
@@ -337,6 +384,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sei vorsichtig!",
       "english": "Be careful!",
       "russian": "Будь осторожен!",
@@ -344,6 +392,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Abgemacht!",
       "english": "Agreed!",
       "russian": "Договорились!",
@@ -351,6 +400,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Kein Problem!",
       "english": "No problem!",
       "russian": "Без проблем!",
@@ -358,6 +408,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wie schade!",
       "english": "What a pity!",
       "russian": "Как жаль!",
@@ -365,6 +416,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Von mir aus!",
       "english": "As far as I'm concerned!",
       "russian": "Что касается меня!",
@@ -372,6 +424,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich weiß Bescheid!",
       "english": "I know!",
       "russian": "Я знаю!",
@@ -379,6 +432,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich bin dagegen!",
       "english": "I am against it!",
       "russian": "Я против!",
@@ -386,6 +440,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Alles klar!",
       "english": "All right!",
       "russian": "Всё ясно!",
@@ -393,6 +448,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Richtig!",
       "english": "Correct!",
       "russian": "Правильно!",
@@ -400,6 +456,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Kein Wunder!",
       "english": "No wonder!",
       "russian": "Неудивительно!",
@@ -407,6 +464,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Unbedingt!",
       "english": "Absolutely!",
       "russian": "Обязательно!",
@@ -414,6 +472,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Gott sei Dank!",
       "english": "Thank God!",
       "russian": "Слава Богу!",
@@ -421,6 +480,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "nicht ganz",
       "english": "not quite",
       "russian": "не совсем",
@@ -428,6 +488,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "ganz richtig",
       "english": "completely correct",
       "russian": "совершенно правильно",
@@ -435,6 +496,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "ganz falsch",
       "english": "completely wrong",
       "russian": "совершенно неправильно",
@@ -442,6 +504,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "ganz oben",
       "english": "at the very top",
       "russian": "в самом верху",
@@ -449,6 +512,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "ganz unten",
       "english": "at the very bottom",
       "russian": "в самом низу",
@@ -456,6 +520,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "ganz allein",
       "english": "all alone",
       "russian": "совсем один",
@@ -463,6 +528,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "ganz und gar",
       "english": "entirely",
       "russian": "полностью",
@@ -470,6 +536,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "ganz von selbst",
       "english": "all by itself",
       "russian": "само по себе",
@@ -477,6 +544,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "im Großen und Ganzen",
       "english": "by and large",
       "russian": "в целом",
@@ -484,6 +552,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "von ganzem Herzen",
       "english": "with all my heart",
       "russian": "от всего сердца",
@@ -491,6 +560,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "ganz am Anfang",
       "english": "at the very beginning",
       "russian": "в самом начале",
@@ -498,6 +568,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "ganz am Ende",
       "english": "at the very end",
       "russian": "в самом конце",
@@ -505,6 +576,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "den ganzen Tag",
       "english": "all day long",
       "russian": "весь день",
@@ -512,6 +584,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "ganz für sich allein",
       "english": "all by oneself",
       "russian": "в одиночестве",
@@ -519,6 +592,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "okay",
       "english": "okay",
       "russian": "хорошо",
@@ -526,6 +600,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "sicher",
       "english": "sure",
       "russian": "конечно",
@@ -533,6 +608,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "natürlich",
       "english": "of course",
       "russian": "конечно",
@@ -540,6 +616,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "richtig",
       "english": "correct",
       "russian": "правильно",
@@ -547,6 +624,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "gewiss",
       "english": "certainly",
       "russian": "безусловно",
@@ -554,6 +632,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "genau",
       "english": "exactly",
       "russian": "точно",
@@ -561,6 +640,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "absolut",
       "english": "absolutely",
       "russian": "абсолютно",
@@ -568,6 +648,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "ohne Frage",
       "english": "without a doubt",
       "russian": "без сомнения",
@@ -575,6 +656,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "unbedingt",
       "english": "definitely",
       "russian": "определенно",
@@ -582,6 +664,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "zweifellos",
       "english": "undoubtedly",
       "russian": "несомненно",
@@ -589,6 +672,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "selbstverständlich",
       "english": "naturally",
       "russian": "естественно",
@@ -596,6 +680,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das macht nichts.",
       "english": "It doesn't matter.",
       "russian": "Это не важно.",
@@ -603,6 +688,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Gott sei Dank!",
       "english": "Thank God!",
       "russian": "Слава Богу!",
@@ -610,6 +696,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Alles bleibt beim Alten.",
       "english": "Everything stays the same.",
       "russian": "Всё остаётся по-прежнему.",
@@ -617,6 +704,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Mir ist alles egal.",
       "english": "I don't care about anything.",
       "russian": "Мне всё равно.",
@@ -624,6 +712,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das passt mir nicht.",
       "english": "That doesn't suit me.",
       "russian": "Это мне не подходит.",
@@ -631,6 +720,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe nichts dagegen.",
       "english": "I have nothing against it.",
       "russian": "Я не против.",
@@ -638,6 +728,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Nicht alles auf einmal.",
       "english": "Not all at once.",
       "russian": "Не всё сразу.",
@@ -645,6 +736,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich kann nichts dafür.",
       "english": "It's not my fault.",
       "russian": "Я не виноват.",
@@ -652,6 +744,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Keine Ursache.",
       "english": "Don't mention it.",
       "russian": "Не за что.",
@@ -659,6 +752,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Macht nichts.",
       "english": "It doesn't matter.",
       "russian": "Ничего страшного.",
@@ -666,6 +760,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das geht nicht.",
       "english": "That won't work.",
       "russian": "Так не пойдёт.",
@@ -673,6 +768,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Mach weiter so!",
       "english": "Keep it up!",
       "russian": "Так держать!",
@@ -680,6 +776,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich bin glücklich.",
       "english": "I am happy.",
       "russian": "Я счастлив.",
@@ -687,6 +784,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich bin traurig.",
       "english": "I am sad.",
       "russian": "Мне грустно.",
@@ -694,6 +792,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich bin krank.",
       "english": "I am sick.",
       "russian": "Я болен.",
@@ -701,6 +800,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich bin verliebt.",
       "english": "I am in love.",
       "russian": "Я влюблён.",
@@ -708,6 +808,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich bin müde.",
       "english": "I am tired.",
       "russian": "Я устал.",
@@ -715,6 +816,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich bin verärgert.",
       "english": "I am annoyed.",
       "russian": "Я раздражён.",
@@ -722,6 +824,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe Angst.",
       "english": "I am afraid.",
       "russian": "Я боюсь.",
@@ -729,6 +832,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe Durst.",
       "english": "I am thirsty.",
       "russian": "Я хочу пить.",
@@ -736,6 +840,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich bin verzweifelt.",
       "english": "I am desperate.",
       "russian": "Я в отчаянии.",
@@ -743,6 +848,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich bin entzückt.",
       "english": "I am delighted.",
       "russian": "Я в восторге.",
@@ -750,6 +856,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich bin entrüstet.",
       "english": "I am outraged.",
       "russian": "Я возмущён.",
@@ -757,6 +864,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wie geht es dir?",
       "english": "How are you?",
       "russian": "Как ты?",
@@ -764,6 +872,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wie geht es deiner Familie?",
       "english": "How is your family?",
       "russian": "Как твоя семья?",
@@ -771,6 +880,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Was gibt es Neues bei dir?",
       "english": "What's new with you?",
       "russian": "Что нового у тебя?",
@@ -778,6 +888,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Was hast du am Wochenende vor?",
       "english": "What are your plans for the weekend?",
       "russian": "Какие планы на выходные?",
@@ -785,6 +896,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wie läuft deine Arbeit?",
       "english": "How is your work going?",
       "russian": "Как идёт твоя работа?",
@@ -792,6 +904,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wo warst du im Urlaub?",
       "english": "Where were you on vacation?",
       "russian": "Где ты был в отпуске?",
@@ -799,6 +912,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wann können wir uns wiedertreffen?",
       "english": "When can we meet again?",
       "russian": "Когда мы можем снова встретиться?",
@@ -806,6 +920,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ach so!",
       "english": "Oh, I see!",
       "russian": "Ах так!",
@@ -813,6 +928,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ach was!",
       "english": "Oh really!",
       "russian": "Да ладно!",
@@ -820,6 +936,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ach ja!",
       "english": "Oh yes!",
       "russian": "Ах да!",
@@ -827,6 +944,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, Pustekuchen!",
       "english": "Yeah, right!",
       "russian": "Да, как же!",
@@ -834,6 +952,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Guck mal!",
       "english": "Look!",
       "russian": "Посмотри!",
@@ -841,6 +960,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "So ein Ärger!",
       "english": "What a bother!",
       "russian": "Какая досада!",
@@ -848,6 +968,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ach, du grüne Neue!",
       "english": "Oh my goodness!",
       "russian": "Боже мой!",
@@ -855,6 +976,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ach, du meine Güte!",
       "english": "Oh my goodness!",
       "russian": "Боже мой!",
@@ -862,6 +984,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ach du heiliger Bimbam!",
       "english": "Oh my gosh!",
       "russian": "О боже!",
@@ -869,6 +992,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja schau mal!",
       "english": "Just look!",
       "russian": "Просто посмотри!",
@@ -876,6 +1000,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Was du nicht sagst!",
       "english": "You don't say!",
       "russian": "Да что ты говоришь!",
@@ -883,6 +1008,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Nein, das geht zu weit!",
       "english": "No, that's going too far!",
       "russian": "Нет, это уже слишком!",
@@ -890,6 +1016,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wie spät ist es?",
       "english": "What time is it?",
       "russian": "Который час?",
@@ -897,6 +1024,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "2:00 zwei Uhr",
       "english": "2:00 two o'clock",
       "russian": "2:00 два часа",
@@ -904,6 +1032,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "2:05 fünf nach zwei",
       "english": "2:05 five past two",
       "russian": "2:05 пять минут третьего",
@@ -911,6 +1040,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "2:15 viertel drei/ Viertel nach zwei",
       "english": "2:15 quarter past two",
       "russian": "2:15 четверть третьего",
@@ -918,6 +1048,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "2:28 kurz vor halb drei",
       "english": "2:28 shortly before half past two",
       "russian": "2:28 незадолго до половины третьего",
@@ -925,6 +1056,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "2:30 halb drei",
       "english": "2:30 half past two",
       "russian": "2:30 половина третьего",
@@ -932,6 +1064,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "2:32 kurz nach halb drei",
       "english": "2:32 shortly after half past two",
       "russian": "2:32 незадолго после половины третьего",
@@ -939,6 +1072,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "2:45 drei viertel drei/ Viertel vor drei",
       "english": "2:45 quarter to three",
       "russian": "2:45 без четверти три",
@@ -946,6 +1080,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "2:55 fünf vor drei",
       "english": "2:55 five to three",
       "russian": "2:55 без пяти три",
@@ -953,6 +1088,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich bitte um Verzeihung!",
       "english": "I apologize!",
       "russian": "Прошу прощения!",
@@ -960,6 +1096,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Verzeihen Sie meine Verspätung!",
       "english": "Please forgive my lateness!",
       "russian": "Простите за опоздание!",
@@ -967,6 +1104,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich wollte Sie nicht kränken!",
       "english": "I didn't mean to offend you!",
       "russian": "Я не хотел вас обидеть!",
@@ -974,6 +1112,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Entschuldigung",
       "english": "Sorry",
       "russian": "Извините",
@@ -981,6 +1120,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das ist meine Schuld!",
       "english": "It's my fault!",
       "russian": "Это моя вина!",
@@ -988,6 +1128,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Verzeihen Sie die Frage...!",
       "english": "Excuse the question...!",
       "russian": "Простите за вопрос...!",
@@ -995,6 +1136,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Alles Gute zum Geburtstag!",
       "english": "Happy Birthday!",
       "russian": "С днём рождения!",
@@ -1002,6 +1144,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Herzlichen Glückwunsch!",
       "english": "Congratulations!",
       "russian": "Поздравляю!",
@@ -1009,6 +1152,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich wünsche dir von Herzen alles Gute!",
       "english": "I wish you all the best from the bottom of my heart!",
       "russian": "Желаю тебе всего наилучшего от всей души!",
@@ -1016,6 +1160,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich wünsche dir nur das Beste zum Geburtstag!",
       "english": "I wish you only the best for your birthday!",
       "russian": "Желаю тебе только самого лучшего на день рождения!",
@@ -1023,6 +1168,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Gute Nacht!",
       "english": "Good night!",
       "russian": "Спокойной ночи!",
@@ -1030,6 +1176,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Guten Appetit!",
       "english": "Enjoy your meal!",
       "russian": "Приятного аппетита!",
@@ -1037,6 +1184,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Alles Gute!",
       "english": "All the best!",
       "russian": "Всего наилучшего!",
@@ -1044,6 +1192,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Gesundheit!",
       "english": "Bless you!",
       "russian": "Будьте здоровы!",
@@ -1051,6 +1200,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Gute Reise!",
       "english": "Have a good trip!",
       "russian": "Счастливого пути!",
@@ -1058,6 +1208,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Es ist mir egal!",
       "english": "I don't care!",
       "russian": "Мне всё равно!",
@@ -1065,6 +1216,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Es kümmert mich nicht!",
       "english": "It doesn't bother me!",
       "russian": "Меня это не волнует!",
@@ -1072,6 +1224,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Es interessiert mich nicht!",
       "english": "It doesn't interest me!",
       "russian": "Меня это не интересует!",
@@ -1079,6 +1232,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich pfeife darauf!",
       "english": "I don't give a damn!",
       "russian": "Мне на это наплевать!",
@@ -1086,6 +1240,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Es ist mir wurscht!",
       "english": "I don't care!",
       "russian": "Мне плевать!",
@@ -1093,6 +1248,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Es ist mir schnuppe!",
       "english": "I don't care at all!",
       "russian": "Мне это до лампочки!",
@@ -1100,6 +1256,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich bin überrascht!",
       "english": "I am surprised!",
       "russian": "Я удивлён!",
@@ -1107,6 +1264,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich bin erstaunt!",
       "english": "I am astonished!",
       "russian": "Я поражён!",
@@ -1114,6 +1272,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich bin verblüfft!",
       "english": "I am amazed!",
       "russian": "Я ошеломлён!",
@@ -1121,6 +1280,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich bin verwundert!",
       "english": "I am bewildered!",
       "russian": "Я озадачен!",
@@ -1128,6 +1288,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich finde keine Worte!",
       "english": "I'm speechless!",
       "russian": "У меня нет слов!",
@@ -1135,6 +1296,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich traue meinen Augen nicht!",
       "english": "I can't believe my eyes!",
       "russian": "Я не верю своим глазам!",
@@ -1142,6 +1304,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Gib mir!",
       "english": "Give me!",
       "russian": "Дай мне!",
@@ -1149,6 +1312,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Nimm!",
       "english": "Take it!",
       "russian": "Возьми!",
@@ -1156,6 +1320,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Hör zu!",
       "english": "Listen!",
       "russian": "Слушай!",
@@ -1163,6 +1328,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Komm her!",
       "english": "Come here!",
       "russian": "Иди сюда!",
@@ -1170,6 +1336,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Geh weg!",
       "english": "Go away!",
       "russian": "Уходи!",
@@ -1177,6 +1344,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Beeil dich!",
       "english": "Hurry up!",
       "russian": "Поторопись!",
@@ -1184,6 +1352,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Schau mal!",
       "english": "Look!",
       "russian": "Посмотри!",
@@ -1191,6 +1360,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sei still!",
       "english": "Be quiet!",
       "russian": "Замолчи!",
@@ -1198,6 +1368,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sei nicht albern!",
       "english": "Don't be silly!",
       "russian": "Не будь глупым!",
@@ -1205,6 +1376,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sei vorsichtig!",
       "english": "Be careful!",
       "russian": "Будь осторожен!",
@@ -1212,6 +1384,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Nicht rauchen!",
       "english": "No smoking!",
       "russian": "Не курить!",
@@ -1219,6 +1392,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Nicht stören!",
       "english": "Do not disturb!",
       "russian": "Не беспокоить!",
@@ -1226,6 +1400,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Nicht lärmen!",
       "english": "No noise!",
       "russian": "Не шуметь!",
@@ -1233,6 +1408,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Lass mich in Ruhe!",
       "english": "Leave me alone!",
       "russian": "Оставь меня в покое!",
@@ -1240,6 +1416,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich bin hungrig.",
       "english": "I am hungry.",
       "russian": "Я голоден.",
@@ -1247,6 +1424,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe Hunger.",
       "english": "I am hungry.",
       "russian": "Я голоден.",
@@ -1254,6 +1432,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe einen Bärenhunger.",
       "english": "I am starving.",
       "russian": "Я голоден как медведь.",
@@ -1261,6 +1440,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe Heißhunger.",
       "english": "I have a craving.",
       "russian": "У меня волчий аппетит.",
@@ -1268,6 +1448,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe einen Mordshunger.",
       "english": "I am famished.",
       "russian": "Я умираю от голода.",
@@ -1275,6 +1456,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich bin am Verhungern.",
       "english": "I am starving.",
       "russian": "Я умираю с голоду.",
@@ -1282,6 +1464,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Mir knurrt der Magen.",
       "english": "My stomach is growling.",
       "russian": "У меня урчит в животе.",
@@ -1289,6 +1472,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich sterbe vor Hunger.",
       "english": "I am dying of hunger.",
       "russian": "Я умираю от голода.",
@@ -1296,6 +1480,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich muss was essen.",
       "english": "I need to eat something.",
       "russian": "Мне нужно что-то поесть.",
@@ -1303,6 +1488,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Danke für Ihr Kompliment!",
       "english": "Thank you for your compliment!",
       "russian": "Спасибо за комплимент!",
@@ -1310,6 +1496,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das ist sehr nett von Ihnen!",
       "english": "That's very kind of you!",
       "russian": "Это очень мило с вашей стороны!",
@@ -1317,6 +1504,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie sind sehr gutherzig.",
       "english": "You are very kind-hearted.",
       "russian": "Вы очень добросердечны.",
@@ -1324,6 +1512,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich bin Ihnen sehr dankbar.",
       "english": "I am very grateful to you.",
       "russian": "Я вам очень благодарен.",
@@ -1331,6 +1520,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie kleiden sich mit Geschmack.",
       "english": "You dress with taste.",
       "russian": "У вас хороший вкус в одежде.",
@@ -1338,6 +1528,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Mir gefällt Ihre neue Frisur.",
       "english": "I like your new hairstyle.",
       "russian": "Мне нравится ваша новая прическа.",
@@ -1345,6 +1536,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe Ihnen viel zu verdanken!",
       "english": "I owe you a lot!",
       "russian": "Я вам многим обязан!",

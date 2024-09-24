@@ -7,6 +7,7 @@
   "content": [
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das ist meine Familie.",
       "english": "This is my family.",
       "russian": "Это моя семья.",
@@ -14,6 +15,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Oben auf dem Foto rechts sind meine Eltern.",
       "english": "At the top of the photo on the right are my parents.",
       "russian": "Наверху на фото справа мои родители.",
@@ -21,6 +23,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Mein Vater heißt Thomas, meine Mutter heißt Sabine.",
       "english": "My father's name is Thomas, my mother's name is Sabine.",
       "russian": "Моего отца зовут Томас, мою мать зовут Сабина.",
@@ -28,6 +31,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe zwei Geschwister, mein Bruder heißt Tobias und meine Schwester heißt Lisa.",
       "english": "I have two siblings, my brother's name is Tobias and my sister's name is Lisa.",
       "russian": "У меня два брата и сестры, моего брата зовут Тобиас, а сестру Лиза.",
@@ -35,6 +39,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Oben links sind meine Großeltern.",
       "english": "At the top left are my grandparents.",
       "russian": "Наверху слева мои бабушка и дедушка.",
@@ -42,6 +47,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Mein Großvater heißt Peter und meine Großmutter heißt Brigitte.",
       "english": "My grandfather's name is Peter and my grandmother's name is Brigitte.",
       "russian": "Моего дедушку зовут Петер, а бабушку Бригитта.",
@@ -49,6 +55,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Meine Familie ist groß. Ich habe auch ...",
       "english": "My family is large. I also have ...",
       "russian": "Моя семья большая. У меня также есть ...",
@@ -56,6 +63,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Hallo, Alberto, hier ist Elena. Kommst du bald nach Berlin?",
       "english": "Hello, Alberto, this is Elena. Are you coming to Berlin soon?",
       "russian": "Привет, Альберто, это Елена. Ты скоро приедешь в Берлин?",
@@ -63,6 +71,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, ich habe jetzt Zeit und komme gerne nach Berlin.",
       "english": "Yes, I have time now and would love to come to Berlin.",
       "russian": "Да, у меня сейчас есть время, и я с удовольствием приеду в Берлин.",
@@ -70,6 +79,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das ist schön. Wann kommst du?",
       "english": "That's nice. When are you coming?",
       "russian": "Это хорошо. Когда ты приедешь?",
@@ -77,6 +87,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich komme am Wochenende und bleibe zwei Tage. O.k.?",
       "english": "I am coming on the weekend and staying for two days. Okay?",
       "russian": "Я приеду на выходные и останусь на два дня. Хорошо?",
@@ -84,6 +95,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Was machen wir?",
       "english": "What are we going to do?",
       "russian": "Что мы будем делать?",
@@ -91,6 +103,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, super! Ich habe viele Ideen.",
       "english": "Yes, great! I have many ideas.",
       "russian": "Да, отлично! У меня много идей.",
@@ -98,6 +111,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "In Berlin gibt es viele Sehenswürdigkeiten.",
       "english": "There are many sights in Berlin.",
       "russian": "В Берлине много достопримечательностей.",
@@ -105,6 +119,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Also, zuerst kaufen wir Lebensmittel im Supermarkt.",
       "english": "So, first we buy groceries at the supermarket.",
       "russian": "Итак, сначала мы покупаем продукты в супермаркете.",
@@ -112,6 +127,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Dann machen wir eine Radtour.",
       "english": "Then we will go on a bike tour.",
       "russian": "Потом мы поедем на велопрогулку.",
@@ -119,6 +135,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Danach essen wir zu Mittag.",
       "english": "Afterwards, we will have lunch.",
       "russian": "После этого мы пообедаем.",
@@ -126,6 +143,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Und dann besichtigen wir Berlin.",
       "english": "And then we will visit Berlin.",
       "russian": "А затем мы осмотрим Берлин.",
@@ -133,6 +151,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Es gibt sehr viele Sehenswürdigkeiten.",
       "english": "There are very many sights.",
       "russian": "Там очень много достопримечательностей.",
@@ -140,6 +159,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir trinken einen Kaffee und dann besuchen wir ein Straßenfest in Kreuzberg.",
       "english": "We will drink a coffee and then visit a street festival in Kreuzberg.",
       "russian": "Мы выпьем кофе, а затем посетим уличный фестиваль в Кройцберге.",
@@ -147,6 +167,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wie findest du das?",
       "english": "How do you like that?",
       "russian": "Как тебе это?",
@@ -154,6 +175,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Also, Marek, kommst du dann am Wochenende?",
       "english": "So, Marek, are you coming on the weekend?",
       "russian": "Итак, Марек, ты приедешь на выходные?",
@@ -161,6 +183,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, natürlich. Was machen wir?",
       "english": "Yes, of course. What are we going to do?",
       "russian": "Да, конечно. Что мы будем делать?",
@@ -168,6 +191,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe einige Ideen.",
       "english": "I have some ideas.",
       "russian": "У меня есть несколько идей.",
@@ -175,6 +199,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Zuerst machen wir einen Stadtbummel.",
       "english": "First, we will take a stroll around the city.",
       "russian": "Сначала мы прогуляемся по городу.",
@@ -182,6 +207,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Dann besichtigen wir den Hafen.",
       "english": "Then we will visit the harbor.",
       "russian": "Потом мы посетим порт.",
@@ -189,6 +215,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Hafen ist sehr groß und sehr interessant.",
       "english": "The harbor is very large and very interesting.",
       "russian": "Порт очень большой и очень интересный.",
@@ -196,6 +223,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir sehen dann auch die Elbphilharmonie.",
       "english": "We will also see the Elbphilharmonie.",
       "russian": "Мы также увидим Эльбскую филармонию.",
@@ -203,6 +231,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Danach besichtigen wir das Rathaus und trinken einen Kaffee in der Innenstadt.",
 
       "english": "After that, we will visit the town hall and drink a coffee in the city center.",
@@ -211,6 +240,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Was willst du noch machen?",
       "english": "What else do you want to do?",
       "russian": "Что ты ещё хочешь сделать?",
@@ -218,6 +248,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich möchte gerne..",
       "english": "I would like to..",
       "russian": "Я бы хотел..",
@@ -225,6 +256,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "In unserer Reihe ‘Senioren in Bremen’ sprechen wir heute mit Frau Hermine Müller.",
       "english": "In our series 'Seniors in Bremen' we are talking today with Mrs. Hermine Müller.",
       "russian": "В нашей серии 'Пожилые люди в Бремене' мы сегодня говорим с госпожой Гермине Мюллер.",
@@ -232,6 +264,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Frau Müller, erzählen Sie doch von Ihrem Leben früher und von Ihrer Familie.",
       "english": "Mrs. Müller, please tell us about your life in the past and about your family.",
       "russian": "Госпожа Мюллер, расскажите нам о своей жизни в прошлом и о своей семье.",
@@ -239,6 +272,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ach, früher war alles anders.",
       "english": "Oh, everything was different in the past.",
       "russian": "О, раньше все было по-другому.",
@@ -246,6 +280,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Familien in Deutschland waren groß, eine Familie hatte oft fünf, sechs oder mehr Kinder.",
       "english": "Families in Germany were large, often a family had five, six or more children.",
       "russian": "Семьи в Германии были большими, часто в семье было пять, шесть или больше детей.",
@@ -253,6 +288,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wer ist das auf dem Foto?",
       "english": "Who is that in the photo?",
       "russian": "Кто это на фотографии?",
@@ -260,6 +296,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Auf dem Foto sind meine Großeltern und ihre Kinder.",
       "english": "In the photo are my grandparents and their children.",
       "russian": "На фотографии мои бабушка и дедушка и их дети.",
@@ -267,6 +304,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Meine Großeltern hatten sechs Kinder.",
       "english": "My grandparents had six children.",
       "russian": "У моих бабушки и дедушки было шестеро детей.",
@@ -274,6 +312,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Meine Mutter sitzt vorne in der Mitte.",
       "english": "My mother is sitting in the middle at the front.",
       "russian": "Моя мама сидит впереди в середине.",
@@ -281,6 +320,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Was war Ihr Vater von Beruf?",
       "english": "What was your father's profession?",
       "russian": "Кем был ваш отец по профессии?",
@@ -288,6 +328,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Mein Großvater war Arzt von Beruf, mein Vater war auch Arzt.",
       "english": "My grandfather was a doctor by profession, my father was also a doctor.",
       "russian": "Мой дедушка был врачом по профессии, мой отец тоже был врачом.",
@@ -295,6 +336,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Meine Mutter hatte keinen Beruf.",
       "english": "My mother did not have a profession.",
       "russian": "У моей мамы не было профессии.",
@@ -302,6 +344,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie hatte viel Arbeit im Haus.",
       "english": "She had a lot of work at home.",
       "russian": "У неё было много работы по дому.",
@@ -309,6 +352,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir waren drei Geschwister.",
       "english": "We were three siblings.",
       "russian": "У нас было трое детей.",
@@ -316,6 +360,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir hatten natürlich keinen Computer und kein Smartphone.",
       "english": "Of course, we did not have a computer or a smartphone.",
       "russian": "Конечно, у нас не было компьютера и смартфона.",
@@ -323,6 +368,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir waren viel draußen.",
       "english": "We were outside a lot.",
       "russian": "Мы много времени проводили на улице.",
@@ -330,6 +376,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das war schön.",
       "english": "That was nice.",
       "russian": "Это было прекрасно.",
@@ -337,6 +384,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich hatte keine langweilige Kindheit.",
       "english": "I did not have a boring childhood.",
       "russian": "У меня не было скучного детства.",
@@ -344,6 +392,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Meine Kinder und Enkelkinder leben ganz anders.",
       "english": "My children and grandchildren live very differently.",
       "russian": "Мои дети и внуки живут совсем по-другому.",
@@ -351,6 +400,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Sonntag bei Familie Schmidt.",
       "english": "Sunday at the Schmidt family.",
       "russian": "Воскресенье в семье Шмидт.",
@@ -358,6 +408,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Sonntag ist ruhig und gemütlich.",
       "english": "Sunday is quiet and cozy.",
       "russian": "Воскресенье тихое и уютное.",
@@ -365,6 +416,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Alle schlafen lange.",
       "english": "Everyone sleeps late.",
       "russian": "Все спят долго.",
@@ -372,6 +424,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Eltern kochen das Mittagessen.",
       "english": "The parents cook lunch.",
       "russian": "Родители готовят обед.",
@@ -379,6 +432,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Kinder spielen.",
       "english": "The children play.",
       "russian": "Дети играют.",
@@ -386,6 +440,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Dann essen sie Schokolade.",
       "english": "Then they eat chocolate.",
       "russian": "Потом они едят шоколад.",
@@ -393,6 +448,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Frau Schmidt liest ein Buch.",
       "english": "Mrs. Schmidt reads a book.",
       "russian": "Фрау Шмидт читает книгу.",
@@ -400,6 +456,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Herr Schmidt schläft.",
       "english": "Mr. Schmidt sleeps.",
       "russian": "Господин Шмидт спит.",
@@ -407,6 +464,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Danach besuchen sie Freunde.",
       "english": "Afterwards, they visit friends.",
       "russian": "После этого они навещают друзей.",
@@ -414,6 +472,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Kinder sehen einen Film.",
       "english": "The children watch a movie.",
       "russian": "Дети смотрят фильм.",
@@ -421,6 +480,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Und? Was machen wir morgen?",
 
       "english": "And? What are we doing tomorrow?",
@@ -429,6 +489,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir sehen einen Film! Oder wir chillen und essen Pizza!",
       "english": "We watch a movie! Or we chill and eat pizza!",
       "russian": "Мы смотрим фильм! Или мы отдыхаем и едим пиццу!",
@@ -436,6 +497,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe eine Idee.",
       "english": "I have an idea.",
       "russian": "У меня есть идея.",
@@ -443,6 +505,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir nehmen die S-Bahn und fahren nach Potsdam.",
       "english": "We take the S-Bahn and go to Potsdam.",
       "russian": "Мы сядем на городскую электричку и поедем в Потсдам.",
@@ -450,6 +513,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Potsdam ist sehr schön.",
       "english": "Potsdam is very beautiful.",
       "russian": "Потсдам очень красивый.",
@@ -457,6 +521,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Stadt hat viele Sehenswürdigkeiten.",
       "english": "The city has many sights.",
       "russian": "В городе много достопримечательностей.",
@@ -464,6 +529,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Gut. Wir fahren morgen nach Potsdam.",
       "english": "Good. We go to Potsdam tomorrow.",
       "russian": "Хорошо. Мы поедем в Потсдам завтра.",
@@ -471,6 +537,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Und was machen wir jetzt?",
       "english": "And what are we doing now?",
       "russian": "И что мы делаем сейчас?",
@@ -478,6 +545,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Jetzt trinke ich noch einen Kaffee und dann kaufen wir Lebensmittel im Supermarkt.",
       "english": "Now I drink another coffee and then we buy groceries at the supermarket.",
       "russian": "Сейчас я выпью ещё кофе, а потом мы купим продукты в супермаркете.",
@@ -485,6 +553,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Prima! Kaufen wir auch Pizza?",
       "english": "Great! Shall we also buy pizza?",
       "russian": "Отлично! Купим ли мы также пиццу?",
@@ -492,6 +561,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die bestimmen Artikel sind der, die und das, im Plural die.",
       "english": "The definite articles are der, die, and das, in the plural die.",
       "russian": "Определённые артикли это der, die и das, во множественном числе die.",
@@ -499,6 +569,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die unbestimmten Artikel sind ein und eine.",
       "english": "The indefinite articles are ein and eine.",
       "russian": "Неопределённые артикли это ein и eine.",
@@ -506,6 +577,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Entschuldigen Sie, können Sie das bitte wiederholen?",
       "english": "Excuse me, can you please repeat that?",
       "russian": "Извините, не могли бы вы повторить это?",
@@ -513,6 +585,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Kann ich heute 20 Minuten früher gehen?",
       "english": "Can I leave 20 minutes early today?",
       "russian": "Могу я сегодня уйти на 20 минут раньше?",
@@ -520,6 +593,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe einen Termin.",
       "english": "I have an appointment.",
       "russian": "У меня назначена встреча.",
@@ -527,6 +601,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, das geht. Bitte machen Sie dann die Aufgaben 4 und 5 alleine zu Hause.",
       "english": "Yes, that is fine. Please do tasks 4 and 5 alone at home.",
       "russian": "Да, это возможно. Пожалуйста, выполните задания 4 и 5 самостоятельно дома.",
@@ -534,6 +609,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Haben Sie noch Fragen?",
       "english": "Do you have any other questions?",
       "russian": "У вас есть ещё вопросы?",
@@ -541,6 +617,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, was ist der Unterschied von wo und woher?",
       "english": "Yes, what is the difference between where and where from?",
       "russian": "Да, в чём разница между где и откуда?",
@@ -548,6 +625,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Können Sie bitte noch einmal erklären: Was ist Plural?",
       "english": "Can you please explain again: What is plural?",
       "russian": "Не могли бы вы ещё раз объяснить: Что такое множественное число?",
@@ -555,6 +633,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Im Singular sagt man kein Haus, im Plural keine Häuser.",
       "english": "In the singular, you say 'no house,' in the plural, 'no houses.'",
       "russian": "В единственном числе вы говорите 'kein Haus', во множественном числе 'keine Häuser'.",

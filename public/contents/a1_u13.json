@@ -7,6 +7,7 @@
   "content": [
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Es ist so heiß. Ich gehe ins Wasser. Kommst du mit?",
       "english": "It's so hot. I'm going into the water. Are you coming with me?",
       "russian": "Так жарко. Я иду в воду. Ты идешь со мной?",
@@ -14,6 +15,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Nee, jetzt nicht. Ich lese noch ein bisschen.",
       "english": "No, not now. I'm going to read a bit more.",
       "russian": "Нет, сейчас нет. Я еще немного почитаю.",
@@ -21,6 +23,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Und – was kaufen wir jetzt noch?",
       "english": "And – what else are we going to buy?",
       "russian": "И что мы еще купим?",
@@ -28,6 +31,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich brauche noch ein Paar Schuhe.",
       "english": "I need another pair of shoes.",
       "russian": "Мне нужны еще одна пара обуви.",
@@ -35,6 +39,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Oh ja, Schuhe kaufe ich auch gerne.",
       "english": "Oh yes, I also love buying shoes.",
       "russian": "О, да, я тоже люблю покупать обувь.",
@@ -42,6 +47,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wie viel Liter sind es?",
       "english": "How many liters is it?",
       "russian": "Сколько литров?",
@@ -49,6 +55,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Hier 20 Liter, alles zusammen heute Abend fast tausend Liter Milch.",
       "english": "Here 20 liters, altogether tonight almost a thousand liters of milk.",
       "russian": "Здесь 20 литров, всего сегодня вечером почти тысяча литров молока.",
@@ -56,6 +63,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Puh, jetzt sind wir schon vier Stunden unterwegs. Ich kann nicht mehr.",
       "english": "Phew, we've been on the road for four hours already. I can't go on anymore.",
       "russian": "Фух, мы уже четыре часа в пути. Я больше не могу.",
@@ -63,6 +71,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Gut, dann machen wir eine Pause. Aber es ist nicht mehr weit. Und dann haben wir einen tollen Blick.",
       "english": "Good, then we'll take a break. But it's not far now. And then we'll have a great view.",
       "russian": "Хорошо, тогда сделаем перерыв. Но это уже недалеко. А потом у нас будет отличный вид.",
@@ -70,6 +79,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Achtung an Gleis 5. Der IC aus Hamburg zur Weiterfahrt nach Dortmund, planmäßige Abfahrt 12.05 Uhr, fährt jetzt ein.",
       "english": "Attention at platform 5. The IC from Hamburg to Dortmund, scheduled departure at 12:05, is arriving now.",
       "russian": "Внимание на пятом пути. Междугородний поезд из Гамбурга в Дортмунд, запланированный отъезд в 12:05, прибывает сейчас.",
@@ -77,6 +87,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Achtung an Gleis vier. Der ICE von Stuttgart nach Hamburg, planmäßige Ankunft 8.04 Uhr, planmäßige Weiterfahrt 8.06 Uhr, kommt heute zehn Minuten später.",
       "english": "Attention at platform 4. The ICE from Stuttgart to Hamburg, scheduled arrival at 8:04, scheduled departure at 8:06, is arriving ten minutes late today.",
       "russian": "Внимание на четвертом пути. Междугородний экспресс из Штутгарта в Гамбург, запланированное прибытие в 8:04, запланированный отъезд в 8:06, сегодня прибудет на десять минут позже.",
@@ -84,6 +95,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Regionalexpress von Freising nach München, planmäßige Abfahrt 15.02 Uhr von Gleis drei, fährt heute von Gleis sieben.",
       "english": "The regional express from Freising to Munich, scheduled departure at 15:02 from platform 3, is departing today from platform 7.",
       "russian": "Региональный экспресс из Фрайзинга в Мюнхен, запланированный отъезд в 15:02 с третьего пути, сегодня отправляется с седьмого пути.",
@@ -91,6 +103,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Und hier noch die Wettervorhersage für morgen, Dienstag, den 28. Oktober.",
       "english": "And here is the weather forecast for tomorrow, Tuesday, October 28.",
       "russian": "И вот прогноз погоды на завтра, вторник, 28 октября.",
@@ -98,6 +111,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Im Norden und Osten ist es bewölkt mit Regen, im Süden scheint manchmal die Sonne. Höchsttemperaturen bis sieben Grad.",
       "english": "In the north and east, it is cloudy with rain, in the south, the sun sometimes shines. Maximum temperatures up to seven degrees.",
       "russian": "На севере и востоке облачно с дождем, на юге иногда светит солнце. Максимальная температура до семи градусов.",
@@ -105,6 +119,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "In der Nacht sinken die Temperaturen in ganz Deutschland auf null bis ein Grad.",
       "english": "At night, temperatures drop across Germany to zero to one degree.",
       "russian": "Ночью температура по всей Германии опустится до нуля - одного градуса.",
@@ -112,6 +127,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Jetzt haben wir noch das Wetter mit Sven Schmidt.",
       "english": "Now we have the weather with Sven Schmidt.",
       "russian": "А теперь прогноз погоды с Свеном Шмидтом.",
@@ -119,6 +135,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sven, wie wird das Wetter am Wochenende? Besser als heute?",
       "english": "Sven, what will the weather be like this weekend? Better than today?",
       "russian": "Свен, какой будет погода на выходных? Лучше, чем сегодня?",
@@ -126,6 +143,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ja, Thomas, das Wetter am Wochenende ist besser.",
       "english": "Yes, Thomas, the weather this weekend is better.",
       "russian": "Да, Томас, погода на выходных лучше.",
@@ -133,6 +151,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Am Samstag und Sonntag scheint an beiden Tagen die Sonne.",
       "english": "On Saturday and Sunday, the sun will shine both days.",
       "russian": "В субботу и воскресенье оба дня будет светить солнце.",
@@ -140,6 +159,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Nur im Norden, am Samstag, regnet es.",
       "english": "Only in the north, on Saturday, it will rain.",
       "russian": "Только на севере в субботу будет дождь.",
@@ -147,6 +167,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Temperaturen am Samstag liegen am Tag zwischen 25 Grad im Osten und 30 Grad im Westen.",
       "english": "The temperatures on Saturday will be between 25 degrees in the east and 30 degrees in the west.",
       "russian": "Температура в субботу будет колебаться от 25 градусов на востоке до 30 градусов на западе.",
@@ -154,6 +175,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Auch in der Nacht ist es kaum kälter mit Temperaturen zwischen 24 und 28 Grad.",
       "english": "At night, it will hardly be colder with temperatures between 24 and 28 degrees.",
       "russian": "Ночью будет едва ли холоднее с температурой от 24 до 28 градусов.",
@@ -161,6 +183,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich habe zwei kleine Kinder, Maja und Tom.",
       "english": "I have two small children, Maja and Tom.",
       "russian": "У меня двое маленьких детей, Майя и Том.",
@@ -168,6 +191,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Sie sind 3 und 5 Jahre alt.",
       "english": "They are 3 and 5 years old.",
       "russian": "Им 3 и 5 лет.",
@@ -175,6 +199,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir leben hier im Zentrum von Frankfurt.",
       "english": "We live here in the center of Frankfurt.",
       "russian": "Мы живем здесь, в центре Франкфурта.",
@@ -182,6 +207,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Es gibt viel Verkehr und wenig Platz für die Kinder zum Spielen.",
       "english": "There is a lot of traffic and little space for the children to play.",
       "russian": "Много транспорта и мало места для детей, чтобы играть.",
@@ -189,6 +215,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Wir haben auch in der Wohnung wenig Platz.",
       "english": "We also have little space in the apartment.",
       "russian": "У нас также мало места в квартире.",
@@ -196,6 +223,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Kinder möchten so gerne einen Hund oder eine Katze, aber das geht hier nicht.",
       "english": "The children would love to have a dog or a cat, but that's not possible here.",
       "russian": "Дети очень хотят собаку или кошку, но здесь это невозможно.",
@@ -203,6 +231,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Im Urlaub wollen wir etwas anderes machen.",
       "english": "On vacation, we want to do something different.",
       "russian": "В отпуске мы хотим делать что-то другое.",
@@ -210,6 +239,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Kinder sollen Platz haben und in der Natur spielen können und sollen auch Tiere kennenlernen, Hunde, Katzen, Kühe.",
       "english": "The children should have space and be able to play in nature, and they should also get to know animals, dogs, cats, cows.",
       "russian": "У детей должно быть место и возможность играть на природе, и они также должны познакомиться с животными, собаками, кошками, коровами.",
@@ -217,6 +247,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich sitze bei der Arbeit viel am Computer und habe wenig Zeit für Sport.",
       "english": "I sit at the computer a lot at work and have little time for sports.",
       "russian": "Я много сижу за компьютером на работе и у меня мало времени на спорт.",
@@ -224,6 +255,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Im Urlaub möchte ich mich aktiv sein.",
       "english": "On vacation, I want to be active.",
       "russian": "В отпуске я хочу быть активным.",
@@ -231,6 +263,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich liebe den Wassersport, Segeln, Kanufahren und Schwimmen.",
       "english": "I love water sports, sailing, canoeing, and swimming.",
       "russian": "Я люблю водные виды спорта, парусный спорт, греблю на каноэ и плавание.",
@@ -238,6 +271,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Ich lebe in einer kleinen Stadt, das ist sehr angenehm, aber hier ist nichts los.",
       "english": "I live in a small town, which is very pleasant, but there's nothing going on here.",
       "russian": "Я живу в маленьком городке, это очень приятно, но здесь ничего не происходит.",
@@ -245,6 +279,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Es ist nicht so interessant.",
       "english": "It's not so interesting.",
       "russian": "Это не так интересно.",
@@ -252,6 +287,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Im Urlaub möchte ich etwas anderes sehen.",
       "english": "On vacation, I want to see something different.",
       "russian": "В отпуске я хочу увидеть что-то другое.",
@@ -259,6 +295,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Großstädte kennenlernen und Kultur, Theater, Konzerte ... Das brauche ich.",
       "english": "Get to know big cities and culture, theater, concerts ... I need that.",
       "russian": "Знакомство с большими городами и культурой, театром, концертами ... Мне это нужно.",
@@ -266,6 +303,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "die Meere – die Berge – die Flüsse – die Strände – die Wälder – die Wiesen – die Dörfer – die Bäume",
       "english": "the seas – the mountains – the rivers – the beaches – the forests – the meadows – the villages – the trees",
       "russian": "моря – горы – реки – пляжи – леса – луга – деревни – деревья",
@@ -273,6 +311,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Schwarzwald.",
       "english": "The Black Forest.",
       "russian": "Шварцвальд.",
@@ -280,6 +319,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Der Schwarzwald ist sehr schön.",
       "english": "The Black Forest is very beautiful.",
       "russian": "Шварцвальд очень красив.",
@@ -287,6 +327,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Das Wetter ist sehr gut.",
       "english": "The weather is very good.",
       "russian": "Погода очень хорошая.",
@@ -294,6 +335,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Im Sommer regnet es wenig.",
       "english": "It rains little in summer.",
       "russian": "Летом мало дождей.",
@@ -301,6 +343,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Die Sonne scheint viel.",
       "english": "The sun shines a lot.",
       "russian": "Солнце светит много.",
@@ -308,6 +351,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Es ist warm.",
       "english": "It's warm.",
       "russian": "Тепло.",
@@ -315,6 +359,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Viele Leute machen dort Urlaub.",
       "english": "Many people vacation there.",
       "russian": "Многие люди отдыхают там.",
@@ -322,6 +367,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Man kann im See schwimmen.",
       "english": "You can swim in the lake.",
       "russian": "Можно купаться в озере.",
@@ -329,6 +375,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Man kann in den Bergen wandern.",
       "english": "You can hike in the mountains.",
       "russian": "Можно ходить в горы.",
@@ -336,6 +383,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Im Winter ist es kalt.",
       "english": "It's cold in winter.",
       "russian": "Зимой холодно.",
@@ -343,6 +391,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Es gibt viel Schnee.",
       "english": "There is a lot of snow.",
       "russian": "Много снега.",
@@ -350,6 +399,7 @@
     },
     {
       "isSelected": false,
+      "type": "sentence",
       "sentence": "Aber auch im Winter scheint die Sonne viel.",
       "english": "But even in winter, the sun shines a lot.",
       "russian": "Но и зимой солнце светит много.",

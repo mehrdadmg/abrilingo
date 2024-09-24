@@ -1,0 +1,255 @@
+{
+  "info": {
+    "name": "Essen",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "sentence": "Ich möchte eine Pizza online bestellen und dafür bezahlen.",
+      "english": "I would like to order a pizza online and pay for it.",
+      "russian": "Я хотел бы заказать пиццу онлайн и оплатить её.",
+      "farsi": "می‌خواهم یک پیتزا آنلاین سفارش دهم و برای آن پرداخت کنم."
+    },
+    {
+      "sentence": "Natürlich! Bitte wählen Sie Ihre Pizza aus und fahren Sie mit der Bezahlung fort.",
+      "english": "Of course! Please select your pizza and proceed to payment.",
+      "russian": "Конечно! Пожалуйста, выберите свою пиццу и продолжайте к оплате.",
+      "farsi": "البته! لطفاً پیتزای خود را انتخاب کنید و به مرحله پرداخت بروید."
+    },
+    {
+      "sentence": "Ich möchte hier einen Burger bestellen und mit Karte bezahlen.",
+      "english": "I would like to order a burger here and pay by card.",
+      "russian": "Я хотел бы заказать бургер здесь и оплатить картой.",
+      "farsi": "می‌خواهم اینجا یک برگر سفارش دهم و با کارت پرداخت کنم."
+    },
+    {
+      "sentence": "Sicher! Möchten Sie etwas dazu trinken?",
+      "english": "Sure! Would you like something to drink with that?",
+      "russian": "Конечно! Хотите что-то выпить к этому?",
+      "farsi": "مطمئناً! آیا می‌خواهید چیزی برای نوشیدن با آن داشته باشید؟"
+    },
+    {
+      "sentence": "Hallo, ich möchte zwei Pizzen zur Lieferung bestellen.",
+      "english": "Hello, I would like to order two pizzas for delivery.",
+      "russian": "Здравствуйте, я хотел бы заказать две пиццы на доставку.",
+      "farsi": "سلام، می‌خواهم دو پیتزا برای تحویل سفارش دهم."
+    },
+    {
+      "sentence": "Kein Problem! Wie möchten Sie bezahlen, mit Karte oder bar?",
+      "english": "No problem! How would you like to pay, by card or cash?",
+      "russian": "Нет проблем! Как вы хотите заплатить, картой или наличными?",
+      "farsi": "مشکلی نیست! چطور می‌خواهید پرداخت کنید، با کارت یا نقدی؟"
+    },
+    {
+      "sentence": "Ich bezahle mit Karte.",
+      "english": "I will pay by card.",
+      "russian": "Я оплачу картой.",
+      "farsi": "من با کارت پرداخت می‌کنم."
+    },
+    {
+      "sentence": "Enthält dieses Gericht...?",
+      "english": "Does this dish contain...?",
+      "russian": "Содержит ли это блюдо...?",
+      "farsi": "آیا این غذا شامل... است؟"
+    },
+    {
+      "sentence": "Kann ich dieses Gericht ohne... bestellen?",
+      "english": "Can I order this dish without...?",
+      "russian": "Могу ли я заказать это блюдо без...?",
+      "farsi": "آیا می‌توانم این غذا را بدون... سفارش دهم؟"
+    },
+    {
+      "sentence": "Ist dieses Gericht vegetarisch?",
+      "english": "Is this dish vegetarian?",
+      "russian": "Это блюдо вегетарианское?",
+      "farsi": "آیا این غذا وگان است؟"
+    },
+    {
+      "sentence": "Wie lange dauert es, bis meine Bestellung fertig ist?",
+      "english": "How long will it take for my order to be ready?",
+      "russian": "Как долго ждать, пока мой заказ будет готов?",
+      "farsi": "چقدر طول می‌کشد تا سفارش من آماده شود؟"
+    },
+    {
+      "sentence": "Kann ich mit Kreditkarte bezahlen?",
+      "english": "Can I pay with a credit card?",
+      "russian": "Могу ли я оплатить кредитной картой?",
+      "farsi": "آیا می‌توانم با کارت اعتباری پرداخت کنم؟"
+    },
+    {
+      "sentence": "Haben Sie einen Studentenrabatt?",
+      "english": "Do you have a student discount?",
+      "russian": "У вас есть студенческая скидка?",
+      "farsi": "آیا شما تخفیف دانشجویی دارید؟"
+    },
+    {
+      "sentence": "Die Quittung, bitte.",
+      "english": "The receipt, please.",
+      "russian": "Чек, пожалуйста.",
+      "farsi": "لطفاً فاکتور را بدهید."
+    },
+    {
+      "sentence": "Könnten Sie das ein bisschen genauer erklären?",
+      "english": "Could you explain that a bit more precisely?",
+      "russian": "Не могли бы вы объяснить это немного точнее?",
+      "farsi": "آیا می‌توانید این را کمی دقیق‌تر توضیح دهید؟"
+    },
+    {
+      "sentence": "Was bedeutet das?",
+      "english": "What does that mean?",
+      "russian": "Что это значит?",
+      "farsi": "این چه معنی می‌دهد؟"
+    },
+    {
+      "sentence": "Mein Essen ist kalt. Könnten Sie es bitte aufwärmen?",
+      "english": "My food is cold. Could you please heat it up?",
+      "russian": "Моя еда холодная. Не могли бы вы её разогреть?",
+      "farsi": "غذای من سرد است. آیا می‌توانید آن را گرم کنید؟"
+    },
+    {
+      "sentence": "Das habe ich nicht bestellt. Könnten Sie es bitte ändern?",
+      "english": "I did not order this. Could you please change it?",
+      "russian": "Я это не заказывал. Не могли бы вы это поменять?",
+      "farsi": "من این را سفارش نداده‌ام. آیا می‌توانید آن را تغییر دهید؟"
+    },
+    {
+      "sentence": "Ist dieser Platz frei?",
+      "english": "Is this seat free?",
+      "russian": "Это место свободно?",
+      "farsi": "آیا این جا خالی است؟"
+    },
+    {
+      "sentence": "Was empfehlen Sie?",
+      "english": "What do you recommend?",
+      "russian": "Что вы рекомендуете?",
+      "farsi": "شما چه چیزی را پیشنهاد می‌کنید؟"
+    },
+    {
+      "sentence": "Ja, bitte.",
+      "english": "Yes, please.",
+      "russian": "Да, пожалуйста.",
+      "farsi": "بله، لطفاً."
+    },
+    {
+      "sentence": "Nein, danke.",
+      "english": "No, thank you.",
+      "russian": "Нет, спасибо.",
+      "farsi": "نه، ممنون."
+    },
+    {
+      "sentence": "When do you close?",
+      "english": "Wann schließen Sie?",
+      "russian": "Когда вы закрываетесь?",
+      "farsi": "کی بسته می‌شوید؟"
+    },
+    {
+      "sentence": "Bis wann kann ich bestellen?",
+      "english": "Until when can I order?",
+      "russian": "До какого времени я могу заказать?",
+      "farsi": "تا چه زمانی می‌توانم سفارش دهم؟"
+    },
+    {
+      "sentence": "Möchten Sie hier essen oder es mitnehmen?",
+      "english": "Would you like to eat here or take it away?",
+      "russian": "Хотите поесть здесь или взять с собой?",
+      "farsi": "آیا می‌خواهید اینجا بخورید یا با خود ببرید؟"
+    },
+    {
+      "sentence": "Ich esse hier.",
+      "english": "I will eat here.",
+      "russian": "Я буду есть здесь.",
+      "farsi": "من اینجا می‌خورم."
+    },
+    {
+      "sentence": "Ich nehme es mit.",
+      "english": "I will take it with me.",
+      "russian": "Я возьму это с собой.",
+      "farsi": "من این را با خود می‌برم."
+    },
+    {
+      "sentence": "Ich möchte einen Tisch reservieren.",
+      "english": "I would like to reserve a table.",
+      "russian": "Я хотел бы забронировать столик.",
+      "farsi": "می‌خواهم یک میز رزرو کنم."
+    },
+    {
+      "sentence": "Kann ich einen Tisch für zwei Personen reservieren?",
+      "english": "Can I reserve a table for two people?",
+      "russian": "Могу ли я зарезервировать столик на двоих?",
+      "farsi": "آیا می‌توانم یک میز برای دو نفر رزرو کنم؟"
+    },
+    {
+      "sentence": "Ich möchte für Samstagabend einen Tisch reservieren.",
+      "english": "I would like to reserve a table for Saturday evening.",
+      "russian": "Я хотел бы забронировать столик на субботний вечер.",
+      "farsi": "می‌خواهم یک میز برای شب شنبه رزرو کنم."
+    },
+    {
+      "sentence": "Haben Sie einen Tisch frei?",
+      "english": "Do you have a table free?",
+      "russian": "У вас есть свободный столик?",
+      "farsi": "آیا شما یک میز خالی دارید؟"
+    },
+    {
+      "sentence": "Wir sind vier Personen.",
+      "english": "We are four people.",
+      "russian": "Нас четверо.",
+      "farsi": "ما چهار نفر هستیم."
+    },
+    {
+      "sentence": "Für 20 Uhr, bitte.",
+      "english": "For 8 PM, please.",
+      "russian": "На 20:00, пожалуйста.",
+      "farsi": "برای ساعت ۸ بعدازظهر، لطفاً."
+    },
+    {
+      "sentence": "Ich möchte einen Tisch für heute Abend reservieren.",
+      "english": "I would like to reserve a table for tonight.",
+      "russian": "Я хотел бы зарезервировать столик на сегодня вечер.",
+      "farsi": "می‌خواهم یک میز برای امشب رزرو کنم."
+    },
+    {
+      "sentence": "Ist meine Reservierung bestätigt?",
+      "english": "Is my reservation confirmed?",
+      "russian": "Моя бронь подтверждена?",
+      "farsi": "آیا رزرو من تأیید شده است؟"
+    },
+    {
+      "sentence": "Die Reservierung läuft auf den Namen Max.",
+      "english": "The reservation is under the name Max.",
+      "russian": "Бронь оформлена на имя Макс.",
+      "farsi": "رزرو به نام مکس است."
+    },
+    {
+      "sentence": "Können Sie meine Reservierung noch einmal bestätigen?",
+      "english": "Can you confirm my reservation again?",
+      "russian": "Не могли бы вы подтвердить мою бронь еще раз?",
+      "farsi": "آیا می‌توانید دوباره رزرو من را تأیید کنید؟"
+    },
+    {
+      "sentence": "Ich möchte meine Reservierung ändern.",
+      "english": "I would like to change my reservation.",
+      "russian": "Я хотел бы изменить свою бронь.",
+      "farsi": "می‌خواهم رزرو خود را تغییر دهم."
+    },
+    {
+      "sentence": "Ich möchte meine Reservierung stornieren.",
+      "english": "I would like to cancel my reservation.",
+      "russian": "Я хотел бы отменить свою бронь.",
+      "farsi": "می‌خواهم رزرو خود را لغو کنم."
+    },
+    {
+      "sentence": "Können Sie einen Tisch am Fenster reservieren?",
+      "english": "Can you reserve a table by the window?",
+      "russian": "Не могли бы вы зарезервировать столик у окна?",
+      "farsi": "آیا می‌توانید یک میز کنار پنجره رزرو کنید؟"
+    },
+    {
+      "sentence": "Kann ich einen Tisch draußen reservieren?",
+      "english": "Can I reserve a table outside?",
+      "russian": "Могу ли я зарезервировать столик на улице?",
+      "farsi": "آیا می‌توانم یک میز در بیرون رزرو کنم؟"
+    }
+  ]
+}
