@@ -208,6 +208,30 @@ const alllessons = [
     name: 'A2S4',
   },
   {
+    file_name: 'b1_u01.json',
+    name: 'B1U01',
+  },
+  {
+    file_name: 'b1_u02.json',
+    name: 'B1U02',
+  },
+  {
+    file_name: 'b1_u03.json',
+    name: 'B1U03',
+  },
+  {
+    file_name: 'b1_u04.json',
+    name: 'B1U04',
+  },
+  {
+    file_name: 'b1_u05.json',
+    name: 'B1U05',
+  },
+  {
+    file_name: 'b1_u06.json',
+    name: 'B1U06',
+  },
+  {
     file_name: 'frontend_1_100.json',
     name: 'Frontend_1_100',
   },

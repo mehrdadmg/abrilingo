@@ -1,0 +1,1097 @@
+{
+  "info": {
+    "name": "B1U02",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hast du die E-Mail von Frau Tscharner heute Morgen schon gelesen?",
+      "english": "Have you read the email from Ms. Tscharner this morning?",
+      "russian": "Ты уже прочитал электронное письмо от госпожи Тшарнер сегодня утром?",
+      "farsi": "آیا ایمیل خانم تسچارنر را امروز صبح خوانده‌ای؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Von Frau Tscharner?",
+      "english": "From Ms. Tscharner?",
+      "russian": "От госпожи Тшарнер?",
+      "farsi": "از خانم تسچارنر؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nein, ich war in einer Besprechung und hatte noch keine Zeit, meine Mails zu checken.",
+      "english": "No, I was in a meeting and haven't had time to check my emails.",
+      "russian": "Нет, я был на совещании и еще не успел проверить свои электронные письма.",
+      "farsi": "نه، من در یک جلسه بودم و هنوز وقت نکرده‌ام ایمیل‌هایم را چک کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was schreibt sie denn? Sie hat einige Fragen.",
+      "english": "What does she write? She has some questions.",
+      "russian": "Что она пишет? У нее есть несколько вопросов.",
+      "farsi": "او چه می‌نویسد؟ او چند سوال دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Du hast doch dein Tablet dabei.",
+      "english": "You have your tablet with you.",
+      "russian": "У тебя же есть твой планшет.",
+      "farsi": "تو که تبلتت را با خودت داری."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kann ich die Mail lesen? Hier gibt es doch kostenloses WLAN, oder?",
+      "english": "Can I read the email? There's free Wi-Fi here, right?",
+      "russian": "Могу я прочитать электронное письмо? Здесь есть бесплатный Wi-Fi, верно?",
+      "farsi": "می‌توانم ایمیل را بخوانم؟ اینجا وای‌فای رایگان هست، درست است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, klar. Hier, lies.",
+      "english": "Yes, of course. Here, read.",
+      "russian": "Да, конечно. Вот, читай.",
+      "farsi": "بله، البته. بفرما، بخوان."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ah okay, kein Problem.",
+      "english": "Ah, okay, no problem.",
+      "russian": "Ах, хорошо, никаких проблем.",
+      "farsi": "آه، خوب، مشکلی نیست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich beantworte ihre Fragen, wenn wir wieder im Büro sind.",
+      "english": "I'll answer her questions when we are back in the office.",
+      "russian": "Я отвечу на ее вопросы, когда мы вернемся в офис.",
+      "farsi": "من به سوالات او پاسخ می‌دهم وقتی دوباره در دفتر هستیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe jetzt endlich eine Mobile-TV-App auf mein Smartphone heruntergeladen.",
+      "english": "I finally downloaded a mobile TV app on my smartphone.",
+      "russian": "Я наконец-то скачал мобильное приложение для телевидения на свой смартфон.",
+      "farsi": "بالاخره یک اپلیکیشن تلویزیونی موبایل روی گوشی هوشمندم دانلود کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich schaue jetzt häufiger im Zug die Bundesligaspiele an.",
+      "english": "I now watch Bundesliga games more often on the train.",
+      "russian": "Теперь я чаще смотрю игры Бундеслиги в поезде.",
+      "farsi": "اکنون بیشتر در قطار بازی‌های بوندسلیگا را تماشا می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kostet die App etwas?",
+      "english": "Does the app cost anything?",
+      "russian": "Приложение стоит денег?",
+      "farsi": "آیا این اپلیکیشن هزینه‌ای دارد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nein, die App ist kostenlos, aber man muss sich für ein TV-Paket entscheiden.",
+      "english": "No, the app is free, but you have to choose a TV package.",
+      "russian": "Нет, приложение бесплатное, но нужно выбрать ТВ-пакет.",
+      "farsi": "نه، این اپلیکیشن رایگان است، اما باید یک بسته تلویزیونی انتخاب کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und das kostet natürlich etwas.",
+      "english": "And that costs something, of course.",
+      "russian": "И это, конечно, стоит денег.",
+      "farsi": "و البته این هزینه‌ای دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und was für ein TV-Paket hast du abonniert?",
+      "english": "And what kind of TV package have you subscribed to?",
+      "russian": "На какой ТВ-пакет ты подписан?",
+      "farsi": "تو به چه نوع بسته تلویزیونی اشتراک داری؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Basis-Paket. Da gibt es Nachrichten, Sport und TV-Serien.",
+      "english": "The basic package. It includes news, sports, and TV series.",
+      "russian": "Базовый пакет. В него входят новости, спорт и телесериалы.",
+      "farsi": "بسته پایه. شامل اخبار، ورزش و سریال‌های تلویزیونی است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kann man eigentlich mit dem Smartphone bequem Fußball oder Filme anschauen?",
+      "english": "Can you comfortably watch football or movies on a smartphone?",
+      "russian": "На смартфоне удобно смотреть футбол или фильмы?",
+      "farsi": "آیا می‌توان با گوشی هوشمند به راحتی فوتبال یا فیلم تماشا کرد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ist das Display nicht viel zu klein?",
+      "english": "Isn't the display much too small?",
+      "russian": "Разве экран не слишком маленький?",
+      "farsi": "آیا صفحه‌نمایش خیلی کوچک نیست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Finde ich nicht. Für unterwegs ist das toll. Hier schau mal.",
+      "english": "I don't think so. It's great for on the go. Here, take a look.",
+      "russian": "Я так не считаю. Это отлично для поездок. Вот, посмотри.",
+      "farsi": "من اینطور فکر نمی‌کنم. برای مسافرت عالی است. اینجا، نگاه کن."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hast du ein neues Smartphone?",
+      "english": "Do you have a new smartphone?",
+      "russian": "У тебя новый смартфон?",
+      "farsi": "آیا تو یک گوشی هوشمند جدید داری؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, ich habe es gestern gekauft.",
+      "english": "Yes, I bought it yesterday.",
+      "russian": "Да, я купил его вчера.",
+      "farsi": "بله، من آن را دیروز خریدم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sieht toll aus, oder?",
+      "english": "Looks great, doesn't it?",
+      "russian": "Выглядит здорово, не так ли?",
+      "farsi": "عالی به نظر می‌رسد، درست است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Display ist ja richtig groß.",
+      "english": "The display is really big.",
+      "russian": "Экран действительно большой.",
+      "farsi": "صفحه‌نمایش واقعاً بزرگ است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das gefällt mir.",
+      "english": "I like that.",
+      "russian": "Мне это нравится.",
+      "farsi": "این را دوست دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe auch gehört, dass dieses Modell eine richtig gute Kamera hat.",
+      "english": "I've also heard that this model has a really good camera.",
+      "russian": "Я тоже слышал, что у этой модели действительно хорошая камера.",
+      "farsi": "من هم شنیده‌ام که این مدل دوربین واقعاً خوبی دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Stimmt. Das war mir auch wichtig.",
+      "english": "That's true. That was important to me as well.",
+      "russian": "Верно. Это тоже было для меня важно.",
+      "farsi": "درست است. این هم برای من مهم بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ihr wisst ja, ich poste ziemlich viele Fotos auf Facebook.",
+      "english": "You know, I post quite a lot of photos on Facebook.",
+      "russian": "Вы же знаете, я выкладываю довольно много фотографий на Facebook.",
+      "farsi": "شما می‌دانید که من عکس‌های زیادی در فیس‌بوک منتشر می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Machen wir doch ein Selfie von uns und laden es gleich in Facebook hoch.",
+      "english": "Let's take a selfie and upload it to Facebook right away.",
+      "russian": "Давайте сделаем селфи и сразу загрузим его на Facebook.",
+      "farsi": "بیایید یک سلفی بگیریم و بلافاصله در فیس‌بوک بارگذاری کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Okay. Also lächeln, Augen auf ...",
+      "english": "Okay. So smile, eyes open ...",
+      "russian": "Хорошо. Так что улыбайтесь, глаза открыты ...",
+      "farsi": "خوب. پس لبخند بزنید، چشم‌ها را باز کنید ..."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Willkommen zur Sendung 'Marktplatz'.",
+      "english": "Welcome to the show 'Marketplace'.",
+      "russian": "Добро пожаловать на шоу 'Маркетплейс'.",
+      "farsi": "به برنامه «بازار» خوش آمدید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Unser Thema ist heute Online-Shopping.",
+      "english": "Our topic today is online shopping.",
+      "russian": "Наша тема сегодня - онлайн-шоппинг.",
+      "farsi": "موضوع ما امروز خرید آنلاین است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Neun von zehn Internet-Nutzern kaufen inzwischen regelmäßig online ein, und es sind nicht nur junge Menschen.",
+      "english": "Nine out of ten internet users now shop online regularly, and it's not just young people.",
+      "russian": "Девять из десяти пользователей Интернета сейчас регулярно покупают онлайн, и это не только молодые люди.",
+      "farsi": "نه از ده کاربر اینترنت اکنون به طور منظم آنلاین خرید می‌کنند و این فقط جوانان نیستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Auch ältere Menschen über 65 Jahre kaufen heute oft im Internet ein.",
+      "english": "Older people over 65 also often shop online today.",
+      "russian": "Пожилые люди старше 65 лет также часто покупают онлайн сегодня.",
+      "farsi": "مردم مسن‌تر از 65 سال هم امروز اغلب به صورت آنلاین خرید می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir wollen erfahren, was die Kunden gern im Internet einkaufen, warum sie online shoppen und welche Erfahrungen sie gemacht haben.",
+      "english": "We want to find out what customers like to buy online, why they shop online, and what experiences they have had.",
+      "russian": "Мы хотим узнать, что клиенты любят покупать в Интернете, почему они делают покупки онлайн и какой у них был опыт.",
+      "farsi": "ما می‌خواهیم بدانیم مشتریان چه چیزهایی را دوست دارند به صورت آنلاین بخرند، چرا خرید آنلاین می‌کنند و چه تجربیاتی داشته‌اند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Unser Reporter Sven Giersberg hat sich umgehört.",
+      "english": "Our reporter Sven Giersberg has been asking around.",
+      "russian": "Наш репортер Свен Гирсберг расспрашивал людей.",
+      "farsi": "گزارشگر ما، سوئن گیرزبرگ، از مردم پرس‌وجو کرده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Guten Tag, ich bin Sven Giersberg von Radio 104.3.",
+      "english": "Good day, I am Sven Giersberg from Radio 104.3.",
+      "russian": "Добрый день, я Свен Гирсберг из Radio 104.3.",
+      "farsi": "سلام، من سوئن گیرزبرگ از رادیو 104.3 هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Haben Sie einen Moment Zeit?",
+      "english": "Do you have a moment?",
+      "russian": "У вас есть минутка?",
+      "farsi": "آیا یک لحظه وقت دارید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, worum geht es denn?",
+      "english": "Yes, what is it about?",
+      "russian": "Да, о чем речь?",
+      "farsi": "بله، موضوع چیست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Um das Thema Online-Shopping.",
+      "english": "About the topic of online shopping.",
+      "russian": "О теме онлайн-шоппинга.",
+      "farsi": "در مورد موضوع خرید آنلاین."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ah, okay.",
+      "english": "Ah, okay.",
+      "russian": "А, хорошо.",
+      "farsi": "آه، خوب."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kaufen Sie im Internet ein?",
+      "english": "Do you shop online?",
+      "russian": "Вы делаете покупки в Интернете?",
+      "farsi": "آیا شما آنلاین خرید می‌کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, ich kaufe sehr oft online ein.",
+      "english": "Yes, I shop online very often.",
+      "russian": "Да, я очень часто покупаю онлайн.",
+      "farsi": "بله، من خیلی اوقات آنلاین خرید می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Warum kaufen Sie im Internet ein und nicht in Geschäften?",
+      "english": "Why do you shop online and not in stores?",
+      "russian": "Почему вы покупаете в Интернете, а не в магазинах?",
+      "farsi": "چرا شما آنلاین خرید می‌کنید و نه در فروشگاه‌ها؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es gibt viele Gründe.",
+      "english": "There are many reasons.",
+      "russian": "Есть много причин.",
+      "farsi": "دلایل زیادی وجود دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es ist einfach bequemer, nach der Arbeit zu Hause am Computer einzukaufen.",
+      "english": "It's simply more convenient to shop on the computer at home after work.",
+      "russian": "Просто удобнее делать покупки за компьютером дома после работы.",
+      "farsi": "خرید از طریق کامپیوتر در خانه بعد از کار خیلی راحت‌تر است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das macht einfach mehr Spaß.",
+      "english": "It's just more fun.",
+      "russian": "Это просто веселее.",
+      "farsi": "این واقعاً بیشتر لذت بخش است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Geschäfte sind abends und am Wochenende sehr voll und es gibt nicht genug Parkplätze in der Stadt.",
+      "english": "The stores are very crowded in the evenings and on weekends, and there aren't enough parking spaces in the city.",
+      "russian": "Магазины очень переполнены по вечерам и в выходные, и в городе недостаточно парковочных мест.",
+      "farsi": "فروشگاه‌ها در شب‌ها و آخر هفته‌ها خیلی شلوغ هستند و در شهر پارکینگ کافی وجود ندارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was kaufen Sie denn gern im Internet ein?",
+      "english": "What do you like to buy online?",
+      "russian": "Что вы любите покупать в Интернете?",
+      "farsi": "شما چه چیزهایی را دوست دارید به صورت آنلاین بخرید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bestelle Bücher, DVDs und lade häufig Musik runter.",
+      "english": "I order books, DVDs, and often download music.",
+      "russian": "Я заказываю книги, DVD и часто скачиваю музыку.",
+      "farsi": "من کتاب‌ها، دی‌وی‌دی‌ها را سفارش می‌دهم و اغلب موسیقی دانلود می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich fahre auch regelmäßig mit der Bahn zu meinen Eltern.",
+      "english": "I also regularly take the train to my parents.",
+      "russian": "Я также регулярно езжу на поезде к своим родителям.",
+      "farsi": "من همچنین به طور منظم با قطار به دیدن والدینم می‌روم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dann kaufe ich die Fahrkarte natürlich online.",
+      "english": "Then I buy the ticket online, of course.",
+      "russian": "Тогда я, конечно, покупаю билет онлайн.",
+      "farsi": "سپس من البته بلیط را به صورت آنلاین می‌خرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Da muss ich nicht in einer langen Schlange warten.",
+      "english": "I don't have to wait in a long line.",
+      "russian": "Мне не нужно стоять в длинной очереди.",
+      "farsi": "من نیازی به ایستادن در صف طولانی ندارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kaufen Sie auch Kleidung oder Schuhe im Netz?",
+      "english": "Do you also buy clothes or shoes online?",
+      "russian": "Вы тоже покупаете одежду или обувь в Интернете?",
+      "farsi": "آیا شما هم لباس یا کفش آنلاین می‌خرید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Also, Schuhe kaufe ich inzwischen ziemlich oft im Netz.",
+      "english": "Well, I now buy shoes quite often online.",
+      "russian": "Что ж, теперь я довольно часто покупаю обувь в Интернете.",
+      "farsi": "خب، حالا من کفش‌ها را به طور مرتب آنلاین می‌خرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn ich aber neue Kleider brauche, dann gehe ich lieber in eine Boutique oder ins Kaufhaus.",
+      "english": "But if I need new clothes, I prefer to go to a boutique or a department store.",
+      "russian": "Но если мне нужны новые платья, я предпочитаю идти в бутик или универмаг.",
+      "farsi": "اما اگر لباس جدیدی نیاز داشته باشم، ترجیح می‌دهم به یک بوتیک یا یک فروشگاه بزرگ بروم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich möchte die Kleider erst anprobieren.",
+      "english": "I want to try on the clothes first.",
+      "russian": "Я хочу сначала примерить одежду.",
+      "farsi": "من می‌خواهم ابتدا لباس‌ها را پرو کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Haben Sie schon schlechte Erfahrungen beim Online-Shopping gemacht?",
+      "english": "Have you had bad experiences with online shopping?",
+      "russian": "У вас были плохие опыты с онлайн-шоппингом?",
+      "farsi": "آیا شما تجربه بدی با خرید آنلاین داشته‌اید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nein, noch nie.",
+      "english": "No, never.",
+      "russian": "Нет, никогда.",
+      "farsi": "نه، هرگز."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Meine Bestellungen sind bis jetzt immer sehr schnell gekommen.",
+      "english": "My orders have always arrived very quickly so far.",
+      "russian": "Мои заказы до сих пор всегда приходили очень быстро.",
+      "farsi": "سفارش‌های من تا به حال همیشه خیلی سریع به دستم رسیده‌اند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und wenn mir die Sachen nicht gefallen haben, habe ich sie einfach zurückgeschickt.",
+      "english": "And if I didn't like the items, I simply returned them.",
+      "russian": "И если мне не понравились вещи, я просто вернул их.",
+      "farsi": "و اگر چیزی را دوست نداشتم، به سادگی آن را برگرداندم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Da hat es nie Probleme gegeben.",
+      "english": "There were never any problems with that.",
+      "russian": "С этим никогда не было проблем.",
+      "farsi": "هرگز با این مسئله مشکلی نداشتم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vielen Dank für das Gespräch.",
+      "english": "Thank you very much for the conversation.",
+      "russian": "Большое спасибо за разговор.",
+      "farsi": "خیلی ممنون از صحبت با شما."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bitte, keine Ursache.",
+      "english": "Please, no problem.",
+      "russian": "Пожалуйста, нет причин.",
+      "farsi": "لطفاً، هیچ مشکلی نیست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hallo, guten Tag. Ich bin von Radio 104.3.",
+      "english": "Hello, good day. I am from Radio 104.3.",
+      "russian": "Здравствуйте, добрый день. Я из Radio 104.3.",
+      "farsi": "سلام، روز بخیر. من از رادیو 104.3 هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir machen eine kleine Umfrage hier in der Fußgängerzone.",
+      "english": "We are doing a small survey here in the pedestrian zone.",
+      "russian": "Мы проводим небольшой опрос здесь, в пешеходной зоне.",
+      "farsi": "ما یک نظرسنجی کوچک در این پیاده‌رو داریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kaufen Sie regelmäßig im Internet ein?",
+      "english": "Do you shop online regularly?",
+      "russian": "Вы регулярно делаете покупки в Интернете?",
+      "farsi": "آیا شما به طور منظم آنلاین خرید می‌کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja klar!",
+      "english": "Of course!",
+      "russian": "Да, конечно!",
+      "farsi": "بله، البته!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Warum?",
+      "english": "Why?",
+      "russian": "Почему?",
+      "farsi": "چرا؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe nicht so viel Geld.",
+      "english": "I don't have that much money.",
+      "russian": "У меня не так много денег.",
+      "farsi": "من آنقدر پول ندارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im Internet kann ich die Preise besser vergleichen.",
+      "english": "I can compare prices better online.",
+      "russian": "В Интернете я могу лучше сравнить цены.",
+      "farsi": "در اینترنت می‌توانم قیمت‌ها را بهتر مقایسه کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich lese z. B. auch immer, was andere Kunden über ein Produkt schreiben.",
+      "english": "For example, I always read what other customers say about a product.",
+      "russian": "Например, я всегда читаю, что другие клиенты пишут о продукте.",
+      "farsi": "به عنوان مثال، همیشه می‌خوانم دیگر مشتریان درباره یک محصول چه می‌گویند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das kann ich nicht machen, wenn ich in ein Geschäft gehe.",
+      "english": "I can't do that when I go to a store.",
+      "russian": "Я не могу этого сделать, когда иду в магазин.",
+      "farsi": "من نمی‌توانم این کار را وقتی به یک فروشگاه می‌روم، انجام دهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe zum Beispiel bei meinem Tablet 100 Euro gespart, weil ich es online bestellt habe.",
+      "english": "For example, I saved 100 euros on my tablet because I ordered it online.",
+      "russian": "Например, я сэкономил 100 евро на своем планшете, потому что заказал его онлайн.",
+      "farsi": "به عنوان مثال، من 100 یورو در تبلت خود صرفه‌جویی کردم زیرا آن را آنلاین سفارش دادم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und meine Brille habe ich auch online gekauft.",
+      "english": "And I also bought my glasses online.",
+      "russian": "И я тоже купил свои очки онлайн.",
+      "farsi": "و من همچنین عینک خود را به صورت آنلاین خریدم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das war ganz einfach.",
+      "english": "That was very easy.",
+      "russian": "Это было очень просто.",
+      "farsi": "این واقعاً ساده بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und sehr billig!",
+      "english": "And very cheap!",
+      "russian": "И очень дешево!",
+      "farsi": "و خیلی ارزان!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Verstehe. Kaufen Sie fast nur im Netz ein?",
+      "english": "I see. Do you mostly shop online?",
+      "russian": "Понимаю. Вы почти только в Интернете покупаете?",
+      "farsi": "متوجه شدم. آیا شما تقریباً فقط آنلاین خرید می‌کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Fast. Nur Lebensmittel nicht.",
+      "english": "Almost. Just not groceries.",
+      "russian": "Почти. Только не продукты.",
+      "farsi": "تقریباً. فقط مواد غذایی نیست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Gemüse und Obst soll ja frisch sein.",
+      "english": "Vegetables and fruits should be fresh.",
+      "russian": "Овощи и фрукты должны быть свежими.",
+      "farsi": "سبزیجات و میوه‌ها باید تازه باشند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Deshalb gehe ich in den Supermarkt und Brot und Brötchen hole ich natürlich beim Bäcker.",
+      "english": "That's why I go to the supermarket, and of course, I get bread and rolls from the baker.",
+      "russian": "Поэтому я хожу в супермаркет, а хлеб и булочки, конечно, покупаю у пекаря.",
+      "farsi": "به همین دلیل من به سوپرمارکت می‌روم و البته نان و نان‌های کوچک را از نانوایی می‌گیرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und Sie haben noch nie schlechte Erfahrungen gemacht beim Online-Einkauf?",
+      "english": "And you have never had bad experiences with online shopping?",
+      "russian": "И у вас никогда не было плохого опыта с онлайн-шоппингом?",
+      "farsi": "و شما هرگز تجربه بدی با خرید آنلاین نداشتید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Eigentlich nicht.",
+      "english": "Actually not.",
+      "russian": "На самом деле, нет.",
+      "farsi": "در واقع نه."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bekomme natürlich viele E-Mails mit Werbung von Online Geschäften, aber das stört mich nicht.",
+      "english": "Of course, I receive many emails with advertisements from online stores, but that doesn't bother me.",
+      "russian": "Конечно, я получаю много электронных писем с рекламой от интернет-магазинов, но это меня не беспокоит.",
+      "farsi": "البته، من ایمیل‌های زیادی با تبلیغات از فروشگاه‌های آنلاین دریافت می‌کنم، اما این مرا اذیت نمی‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Danke für das Gespräch!",
+      "english": "Thank you for the conversation!",
+      "russian": "Спасибо за разговор!",
+      "farsi": "از صحبت با شما متشکرم!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Gern geschehen!",
+      "english": "You're welcome!",
+      "russian": "Пожалуйста!",
+      "farsi": "خواهش می‌کنم!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hallo, Eleni. Wie geht's dir denn?",
+      "english": "Hello, Eleni. How are you?",
+      "russian": "Привет, Элени. Как дела?",
+      "farsi": "سلام، النی. حالت چطوره؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hi, Carlos. Ganz gut. Zurzeit bin ich aber ziemlich beschäftigt.",
+      "english": "Hi, Carlos. Pretty good. But I'm quite busy at the moment.",
+      "russian": "Привет, Карлос. Все хорошо. Но сейчас я довольно занята.",
+      "farsi": "سلام، کارلوس. خوبم، ولی در حال حاضر خیلی مشغولم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Du weißt ja, ich mache eine Fortbildung in 'häuslicher Pflege'.",
+      "english": "You know, I'm doing a training course in 'home care'.",
+      "russian": "Ты же знаешь, я прохожу курс повышения квалификации по 'домашнему уходу'.",
+      "farsi": "می‌دانی که من در حال گذراندن دوره آموزشی در زمینه 'مراقبت خانگی' هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und nächste Woche gibt es eine Prüfung.",
+      "english": "And there is an exam next week.",
+      "russian": "И на следующей неделе у меня экзамен.",
+      "farsi": "و هفته آینده یک امتحان دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Da muss ich noch viel lernen.",
+      "english": "I still have a lot to study.",
+      "russian": "Мне нужно еще много учить.",
+      "farsi": "باید خیلی بیشتر مطالعه کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Du machst doch einen Online-Kurs, oder?",
+      "english": "You're doing an online course, right?",
+      "russian": "Ты ведь проходишь онлайн-курс, да?",
+      "farsi": "تو که داری دوره آنلاین می‌گذرانی، درست است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja. Ich mache einen E-Learning-Kurs.",
+      "english": "Yes. I'm doing an e-learning course.",
+      "russian": "Да. Я прохожу курс дистанционного обучения.",
+      "farsi": "بله. من یک دوره یادگیری الکترونیکی می‌گذرانم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Warum besuchst du eigentlich keinen normalen Kurs?",
+      "english": "Why aren't you attending a regular course?",
+      "russian": "Почему ты не посещаешь обычный курс?",
+      "farsi": "چرا به یک دوره معمولی نمی‌روی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "E-Learning hat für mich viele Vorteile.",
+      "english": "E-learning has many advantages for me.",
+      "russian": "Дистанционное обучение имеет для меня много преимуществ.",
+      "farsi": "آموزش الکترونیکی برای من مزایای زیادی دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich kann lernen, wann und wo ich will.",
+      "english": "I can study whenever and wherever I want.",
+      "russian": "Я могу учиться, когда и где хочу.",
+      "farsi": "می‌توانم هر زمان و هر کجا که بخواهم درس بخوانم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "So kann ich Beruf, Familie und Fortbildung gut verbinden.",
+      "english": "This way, I can balance work, family, and education well.",
+      "russian": "Таким образом, я могу хорошо совмещать работу, семью и обучение.",
+      "farsi": "به این ترتیب، می‌توانم کار، خانواده و آموزش را به خوبی ترکیب کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das heißt, du lernst alleine zu Hause an deinem Computer?",
+      "english": "So that means you study alone at home on your computer?",
+      "russian": "То есть ты учишься одна дома на своем компьютере?",
+      "farsi": "یعنی تو تنها در خانه با کامپیوترت درس می‌خوانی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja. Aber ich kann zum Beispiel auch lernen, wenn ich in einem Café sitze und einen Kaffee trinke oder wenn ich mit der Straßenbahn zur Arbeit fahre.",
+      "english": "Yes. But I can also study, for example, when I'm sitting in a café drinking coffee or when I'm taking the tram to work.",
+      "russian": "Да. Но я могу, например, учиться, когда сижу в кафе и пью кофе или когда еду на трамвае на работу.",
+      "farsi": "بله. اما می‌توانم مثلاً در یک کافه بنشینم و قهوه بنوشم یا وقتی با تراموا به سر کار می‌روم درس بخوانم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe alle Texte und Übungen auf meinem Tablet dabei.",
+      "english": "I have all the texts and exercises on my tablet.",
+      "russian": "У меня на планшете все тексты и упражнения.",
+      "farsi": "من همه متون و تمرین‌ها را روی تبلتم دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das hört sich gut an.",
+      "english": "That sounds good.",
+      "russian": "Звучит хорошо.",
+      "farsi": "این خوب به نظر می‌رسد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber brauchst du keinen Lehrer, wenn du Probleme hast oder wenn du etwas nicht verstehst?",
+      "english": "But don't you need a teacher if you have problems or don't understand something?",
+      "russian": "Но разве тебе не нужен учитель, если у тебя есть проблемы или ты чего-то не понимаешь?",
+      "farsi": "اما اگر مشکلی داشته باشی یا چیزی را نفهمی، نیاز به معلم نداری؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Manchmal schon, klar.",
+      "english": "Sometimes, sure.",
+      "russian": "Иногда да, конечно.",
+      "farsi": "گاهی بله، مطمئناً."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber wenn ich Fragen habe, schreibe ich eine E-Mail und ich bekomme schnell eine Antwort von einem Fernlehrer.",
+      "english": "But when I have questions, I write an email and get a quick response from a distance teacher.",
+      "russian": "Но когда у меня есть вопросы, я пишу письмо, и мне быстро отвечает удаленный преподаватель.",
+      "farsi": "اما وقتی سوالی دارم، یک ایمیل می‌نویسم و سریعاً از یک معلم از راه دور پاسخ می‌گیرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und ich nehme auch an Diskussionen mit anderen Kursteilnehmern in einem Online-Forum teil.",
+      "english": "And I also participate in discussions with other course participants in an online forum.",
+      "russian": "И я также участвую в обсуждениях с другими участниками курса на онлайн-форуме.",
+      "farsi": "و من همچنین در بحث‌هایی با دیگر شرکت‌کنندگان دوره در یک انجمن آنلاین شرکت می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir helfen uns gegenseitig.",
+      "english": "We help each other.",
+      "russian": "Мы помогаем друг другу.",
+      "farsi": "ما به یکدیگر کمک می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es gibt also regelmäßig Chats?",
+      "english": "So, are there regular chats?",
+      "russian": "Значит, есть регулярные чаты?",
+      "farsi": "پس به طور مرتب چت‌هایی هم هست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, aber ich nehme nur selten teil.",
+      "english": "Yes, but I rarely participate.",
+      "russian": "Да, но я редко участвую.",
+      "farsi": "بله، اما من به ندرت شرکت می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie lange dauert der Kurs?",
+      "english": "How long does the course last?",
+      "russian": "Сколько длится курс?",
+      "farsi": "دوره چقدر طول می‌کشد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das kann man so nicht sagen.",
+      "english": "You can't really say that.",
+      "russian": "Нельзя сказать точно.",
+      "farsi": "نمی‌توان دقیقاً گفت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das hängt von den Lernenden ab.",
+      "english": "It depends on the learners.",
+      "russian": "Это зависит от учащихся.",
+      "farsi": "این بستگی به خود یادگیرنده‌ها دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich kann selbst entscheiden, wann ich lernen möchte und wie schnell ich lernen möchte.",
+      "english": "I can decide for myself when and how fast I want to learn.",
+      "russian": "Я могу сам решать, когда и как быстро я хочу учиться.",
+      "farsi": "من خودم می‌توانم تصمیم بگیرم که کی و با چه سرعتی می‌خواهم یاد بگیرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber es gibt natürlich Vorschläge, wie viel Zeit man für jedes Thema, das man bearbeiten soll, ungefähr braucht.",
+      "english": "But of course, there are suggestions about how much time you need for each topic you should cover.",
+      "russian": "Но, конечно, есть рекомендации, сколько времени нужно на каждую тему, которую нужно изучить.",
+      "farsi": "اما البته پیشنهاداتی وجود دارد که چقدر زمان برای هر موضوعی که باید به آن پرداخته شود، لازم است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In meinem Kurs bearbeite ich zwölf Themen.",
+      "english": "In my course, I'm covering twelve topics.",
+      "russian": "В моем курсе я изучаю двенадцать тем.",
+      "farsi": "در دوره من، من به دوازده موضوع می‌پردازم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dafür braucht man ungefähr 60 bis 90 Stunden.",
+      "english": "It takes about 60 to 90 hours for that.",
+      "russian": "На это требуется около 60-90 часов.",
+      "farsi": "برای آن حدود 60 تا 90 ساعت نیاز است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und bekommst du auch ein Zertifikat, wenn du fertig bist?",
+      "english": "And do you also get a certificate when you're done?",
+      "russian": "И ты получаешь сертификат, когда заканчиваешь?",
+      "farsi": "و آیا وقتی تمام شدی، یک گواهی‌نامه هم می‌گیری؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Natürlich. Die Fortbildung ist anerkannt, und wenn ich die Prüfung bestehe, bekomme ich ein Zertifikat.",
+      "english": "Of course. The training is recognized, and if I pass the exam, I'll get a certificate.",
+      "russian": "Конечно. Повышение квалификации признано, и если я сдам экзамен, я получу сертификат.",
+      "farsi": "البته. این دوره آموزشی معتبر است و اگر امتحان را قبول شوم، گواهی می‌گیرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es ist einfach und bequem, online einzukaufen.",
+      "english": "It's easy and convenient to shop online.",
+      "russian": "Покупать онлайн легко и удобно.",
+      "farsi": "خرید آنلاین آسان و راحت است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es gibt keine Öffnungszeiten und man kann die Preise vergleichen.",
+      "english": "There are no opening hours, and you can compare prices.",
+      "russian": "Нет времени работы, и можно сравнивать цены.",
+      "farsi": "ساعات کاری وجود ندارد و می‌توان قیمت‌ها را مقایسه کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bestelle vor allem Bücher, Schuhe und Kleider online.",
+      "english": "I mostly order books, shoes, and clothes online.",
+      "russian": "Я заказываю в основном книги, обувь и одежду онлайн.",
+      "farsi": "من بیشتر کتاب‌ها، کفش‌ها و لباس‌ها را آنلاین سفارش می‌دهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich finde aber, dass Online-Shopping nicht nur Vorteile hat.",
+      "english": "But I think that online shopping doesn't only have advantages.",
+      "russian": "Но я думаю, что онлайн-шоппинг имеет не только преимущества.",
+      "farsi": "اما من فکر می‌کنم خرید آنلاین فقط مزایا ندارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Beim Online-Shopping kann man die Produkte nicht anprobieren.",
+      "english": "With online shopping, you can't try on the products.",
+      "russian": "При онлайн-покупках нельзя примерить товары.",
+      "farsi": "در خرید آنلاین نمی‌توان محصولات را امتحان کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Lebensmittel kaufe ich nie online ein.",
+      "english": "I never buy groceries online.",
+      "russian": "Продукты я никогда не покупаю онлайн.",
+      "farsi": "من هرگز مواد غذایی را آنلاین نمی‌خرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "E-Mails checken",
+      "english": "Check emails",
+      "russian": "Проверить электронную почту",
+      "farsi": "ایمیل‌ها را بررسی کنید"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Apps herunterladen",
+      "english": "Download apps",
+      "russian": "Скачать приложения",
+      "farsi": "برنامه‌ها را دانلود کنید"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Fotos posten",
+      "english": "Post photos",
+      "russian": "Опубликовать фотографии",
+      "farsi": "عکس‌ها را منتشر کنید"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "an einem E-Learning-Kurs teilnehmen",
+      "english": "Participate in an e-learning course",
+      "russian": "Принять участие в курсе электронного обучения",
+      "farsi": "در یک دوره یادگیری الکترونیکی شرکت کنید"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Produkte bewerten",
+      "english": "Rate products",
+      "russian": "Оценить продукты",
+      "farsi": "محصولات را ارزیابی کنید"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Passwort bestätigen",
+      "english": "Confirm the password",
+      "russian": "Подтвердите пароль",
+      "farsi": "گذرواژه را تأیید کنید"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Waren zurücksenden",
+      "english": "Return goods",
+      "russian": "Вернуть товары",
+      "farsi": "کالاها را بازگردانید"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kundenbewertungen lesen",
+      "english": "Read customer reviews",
+      "russian": "Читать отзывы клиентов",
+      "farsi": "نظرات مشتریان را بخوانید"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "eine Fortbildung machen",
+      "english": "Take further training",
+      "russian": "Пройти дополнительное обучение",
+      "farsi": "دوره‌های آموزشی بیشتری را بگذرانید"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "ein Zertifikat bekommen",
+      "english": "Receive a certificate",
+      "russian": "Получить сертификат",
+      "farsi": "یک گواهی دریافت کنید"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "den AGBs zustimmen",
+      "english": "Agree to the terms and conditions",
+      "russian": "Согласиться с условиями и положениями",
+      "farsi": "به شرایط و ضوابط موافقت کنید"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "süchtig machen",
+      "english": "Make addictive",
+      "russian": "Вызывать зависимость",
+      "farsi": "اعتیادآور بودن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Handy ausschalten",
+      "english": "Turn off the mobile phone",
+      "russian": "Выключить мобильный телефон",
+      "farsi": "موبایل را خاموش کنید"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Natur lieben",
+      "english": "Love nature",
+      "russian": "Любить природу",
+      "farsi": "طبیعت را دوست داشته باشید"
+    }
+  ]
+}

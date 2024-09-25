@@ -184,8 +184,8 @@
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "When do you close?",
-      "english": "Wann schließen Sie?",
+      "sentence": "Wann schließen Sie?",
+      "english": "When do you close?",
       "russian": "Когда вы закрываетесь?",
       "farsi": "کی بسته می‌شوید؟"
     },
@@ -288,10 +288,10 @@
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Die Reservierung läuft auf den Namen Max.",
-      "english": "The reservation is under the name Max.",
-      "russian": "Бронь оформлена на имя Макс.",
-      "farsi": "رزرو به نام مکس است."
+      "sentence": "Die Reservierung läuft auf den Namen Maxim.",
+      "english": "The reservation is under the name Maxim.",
+      "russian": "Бронь оформлена на имя Максим.",
+      "farsi": "رزرو به نام ماکسیم است."
     },
     {
       "isSelected": false,

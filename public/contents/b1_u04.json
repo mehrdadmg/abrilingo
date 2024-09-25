@@ -1,0 +1,1185 @@
+{
+  "info": {
+    "name": "B1U04",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Grüß dich, Manu!",
+      "english": "Hello, Manu!",
+      "russian": "Привет, Ману!",
+      "farsi": "سلام، مانو!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hallo, Alina, Das ist ja eine Überraschung, dich habe ich ja ewig nicht gesehen!",
+      "english": "Hello, Alina, what a surprise, I haven’t seen you in ages!",
+      "russian": "Привет, Алина, какая неожиданность, я тебя не видел целую вечность!",
+      "farsi": "سلام، آلینا، چه سورپرایزی، من مدت‌ها تو را ندیده بودم!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Stimmt, das ist schon ziemlich lange her vier Jahre, oder?",
+      "english": "That's true, it's been quite a long time, four years, right?",
+      "russian": "Верно, это было довольно давно, четыре года, да?",
+      "farsi": "درست است، مدت زیادی است که چهار سال می‌گذرد، درست است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mindestens! Komm, setz dich. Hast du Zeit für einen Kaffee?",
+      "english": "At least! Come, have a seat. Do you have time for a coffee?",
+      "russian": "По меньшей мере! Садись. У тебя есть время на кофе?",
+      "farsi": "حداقل! بیا، بشین. آیا وقت نوشیدن قهوه داری؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, gerne.",
+      "english": "Yes, I would love to.",
+      "russian": "Да, с удовольствием.",
+      "farsi": "بله، با کمال میل."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie geht es dir?",
+      "english": "How are you?",
+      "russian": "Как дела?",
+      "farsi": "چطوری؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Gut. Aber im Moment bin ich ein bisschen kaputt.",
+      "english": "Good. But at the moment I am a bit exhausted.",
+      "russian": "Хорошо. Но сейчас я немного устал.",
+      "farsi": "خوب است. اما در حال حاضر کمی خسته‌ام."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich war einkaufen und die Geschäfte sind heute sehr voll.",
+      "english": "I went shopping, and the stores are very crowded today.",
+      "russian": "Я ходила по магазинам, и сегодня магазины очень переполнены.",
+      "farsi": "من به خرید رفته بودم و امروز فروشگاه‌ها خیلی شلوغ هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Guten Tag. Was darf es sein?",
+      "english": "Good day. What would you like?",
+      "russian": "Добрый день. Что вы хотите?",
+      "farsi": "روز بخیر. چه چیزی می‌خواهید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hallo. Ich hätte gern eine Tasse Kaffee und ein Mineralwasser.",
+      "english": "Hello. I would like a cup of coffee and a mineral water.",
+      "russian": "Здравствуйте. Я бы хотел чашку кофе и минеральную воду.",
+      "farsi": "سلام. من یک فنجان قهوه و یک آب معدنی می‌خواهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vier Tüten! Das sieht aber auch nach einer langen Shopping-Tour aus!",
+      "english": "Four bags! That looks like a long shopping tour!",
+      "russian": "Четыре сумки! Это выглядит как длинная шоппинг-прогулка!",
+      "farsi": "چهار کیسه! این به نظر می‌رسد که یک خرید طولانی بوده است!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein Sohn Jakob wird morgen zwei Jahre alt und ich hatte noch kein Geburtstagsgeschenk für ihn!",
+      "english": "My son Jakob will be two years old tomorrow, and I still didn't have a birthday gift for him!",
+      "russian": "Моему сыну Якову завтра исполнится два года, и у меня все еще нет подарка на день рождения для него!",
+      "farsi": "پسرم یعقوب فردا دو ساله می‌شود و من هنوز هدیه تولدی برای او ندارم!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ach, Habib und du, ihr habt also geheiratet?",
+      "english": "Oh, Habib and you, so you got married?",
+      "russian": "О, Хабиб и ты, так вы поженились?",
+      "farsi": "اوه، حبیب و تو، پس شما ازدواج کرده‌اید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, vor drei Jahren.",
+      "english": "Yes, three years ago.",
+      "russian": "Да, три года назад.",
+      "farsi": "بله، سه سال پیش."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und seit zwei Jahren sind wir zu Dritt.",
+      "english": "And for the last two years, we are three.",
+      "russian": "А за последние два года нас трое.",
+      "farsi": "و در دو سال گذشته ما سه نفر هستیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Jakob hat unser Leben total verändert!",
+      "english": "Jakob has completely changed our lives!",
+      "russian": "Яков полностью изменил нашу жизнь!",
+      "farsi": "یعقوب زندگی ما را به‌کلی تغییر داده است!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und du? Was machst Du jetzt eigentlich?",
+      "english": "And you? What are you actually doing now?",
+      "russian": "А ты? Чем ты сейчас занимаешься?",
+      "farsi": "و تو؟ الان در واقع چه کار می‌کنی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bei mir hat sich beruflich einiges verändert.",
+      "english": "A lot has changed for me professionally.",
+      "russian": "У меня многое изменилось в профессиональном плане.",
+      "farsi": "برای من در زمینه حرفه‌ای تغییرات زیادی رخ داده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vor drei Jahren bin ich arbeitslos geworden.",
+      "english": "Three years ago, I became unemployed.",
+      "russian": "Три года назад я стал безработным.",
+      "farsi": "سه سال پیش من بیکار شدم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und da ich in meinem Beruf keine Stelle finden konnte, habe ich eine Umschulung zum U-Bahn-Fahrer gemacht.",
+      "english": "And since I couldn't find a job in my profession, I retrained as a subway driver.",
+      "russian": "И поскольку я не мог найти работу по своей специальности, я переобучился на водителя метро.",
+      "farsi": "و از آنجا که نتوانستم شغفی در حرفه‌ام پیدا کنم، به عنوان راننده مترو دوباره آموزش دیدم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und ich hatte Glück.",
+      "english": "And I was lucky.",
+      "russian": "И мне повезло.",
+      "farsi": "و من شانس آوردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Gleich nach der Umschulung habe ich eine Stelle bekommen.",
+      "english": "Right after the retraining, I got a job.",
+      "russian": "Сразу после переобучения я получил работу.",
+      "farsi": "بلافاصله پس از آموزش دوباره، من یک شغل پیدا کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und, gefällt dir der Job?",
+      "english": "And do you like the job?",
+      "russian": "И тебе нравится работа?",
+      "farsi": "و آیا از شغل خوشت می‌آید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, sehr gut. Nur die Schichtarbeit ist ziemlich anstrengend.",
+      "english": "Yes, very much. Only the shift work is quite exhausting.",
+      "russian": "Да, очень хорошо. Только сменная работа довольно утомительна.",
+      "farsi": "بله، خیلی خوب است. فقط کار شیفتی کمی خسته‌کننده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das glaube ich.",
+      "english": "I believe that.",
+      "russian": "Я в это верю.",
+      "farsi": "من به این باور دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und bist du noch Single?",
+      "english": "And are you still single?",
+      "russian": "А ты все еще одинок?",
+      "farsi": "و آیا هنوز هم مجردی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja. Die richtige Frau habe ich noch nicht kennengelernt.",
+      "english": "Yes. I haven't met the right woman yet.",
+      "russian": "Да. Я еще не встретил правильную женщину.",
+      "farsi": "بله. من هنوز زن مناسبی را ملاقات نکرده‌ام."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber das ist in Ordnung....",
+      "english": "But that’s okay....",
+      "russian": "Но это нормально....",
+      "farsi": "اما این خوب است...."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was machst du denn jetzt beruflich?",
+      "english": "What are you doing for work now?",
+      "russian": "Чем ты сейчас занимаешься?",
+      "farsi": "الان چه کاری انجام می‌دهی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Du weißt ja noch, dass ich eine Ausbildung zur Altenpflegerin gemacht habe.",
+      "english": "You still remember that I trained as a geriatric nurse.",
+      "russian": "Ты ведь помнишь, что я учился на медсестру для пожилых людей.",
+      "farsi": "تو هنوز به یاد داری که من به عنوان پرستار سالمندان آموزش دیده‌ام."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich arbeite in einem Altenheim in Offenbach in Teilzeit.",
+      "english": "I work part-time in a nursing home in Offenbach.",
+      "russian": "Я работаю неполный рабочий день в доме престарелых в Оффенбахе.",
+      "farsi": "من به صورت نیمه‌وقت در یک خانه سالمندان در اوفنباخ کار می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Habib und ich wollen uns beide um Jakob kümmern.",
+      "english": "Habib and I both want to take care of Jakob.",
+      "russian": "Хабиб и я оба хотим заботиться о Якове.",
+      "farsi": "حبیب و من هر دو می‌خواهیم از یعقوب مراقبت کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das klappt sehr gut.",
+      "english": "That works very well.",
+      "russian": "Это очень хорошо работает.",
+      "farsi": "این خیلی خوب پیش می‌رود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wohnst du noch in Mainz?",
+      "english": "Are you still living in Mainz?",
+      "russian": "Ты все еще живешь в Майнце?",
+      "farsi": "آیا هنوز در ماینز زندگی می‌کنی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nein, ich bin vor etwa zwei Jahren nach Frankfurt umgezogen.",
+      "english": "No, I moved to Frankfurt about two years ago.",
+      "russian": "Нет, я переехал во Франкфурт около двух лет назад.",
+      "farsi": "نه، من حدود دو سال پیش به فرانکفورت نقل مکان کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dort habe ich eine schöne 2-Zimmer-Wohnung gefunden.",
+      "english": "There, I found a nice 2-room apartment.",
+      "russian": "Там я нашел красивую двухкомнатную квартиру.",
+      "farsi": "در آنجا یک آپارتمان دو اتاقه زیبا پیدا کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und die Miete ist nicht so hoch.",
+      "english": "And the rent is not that high.",
+      "russian": "И аренда не такая высокая.",
+      "farsi": "و اجاره هم زیاد نیست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und ihr?",
+      "english": "And you?",
+      "russian": "А у вас?",
+      "farsi": "و شما؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir wohnen jetzt auch in Frankfurt.",
+      "english": "We also live in Frankfurt now.",
+      "russian": "Мы тоже теперь живем во Франкфурте.",
+      "farsi": "ما هم اکنون در فرانکفورت زندگی می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es war nicht leicht, eine bezahlbare Drei-Zimmer-Wohnung zu finden.",
+      "english": "It wasn't easy to find an affordable three-room apartment.",
+      "russian": "Найти доступную трехкомнатную квартиру было нелегко.",
+      "farsi": "پیدا کردن یک آپارتمان سه اتاقه قابل پرداخت آسان نبود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber wir hatten Glück.",
+      "english": "But we were lucky.",
+      "russian": "Но нам повезло.",
+      "farsi": "اما ما شانس آوردیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben nette Nachbarn und fühlen uns sehr wohl.",
+      "english": "We have nice neighbors and feel very comfortable.",
+      "russian": "У нас хорошие соседи, и мы чувствуем себя очень комфортно.",
+      "farsi": "ما همسایه‌های خوبی داریم و خیلی راحت احساس می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Fährst du immer noch so viel Fahrrad?",
+      "english": "Do you still ride your bike that much?",
+      "russian": "Ты все еще так много ездишь на велосипеде?",
+      "farsi": "آیا هنوز هم اینقدر با دوچرخه می‌روی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nein, nicht mehr ganz so viel.",
+      "english": "No, not quite as much anymore.",
+      "russian": "Нет, уже не так много.",
+      "farsi": "نه، دیگر به این اندازه نمی‌روم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber in meinem letzten Urlaub bin ich mit einem Freund mit dem Zug nach Berlin gefahren und von dort sind wir mit dem Rad bis nach Kopenhagen gefahren.",
+      "english": "But in my last vacation, I took a train to Berlin with a friend, and from there, we rode our bikes to Copenhagen.",
+      "russian": "Но в мой последний отпуск я с другом поехал на поезде в Берлин, а оттуда мы доехали на велосипедах до Копенгагена.",
+      "farsi": "اما در تعطیلات آخرم، من با دوستی با قطار به برلین رفتم و از آنجا با دوچرخه تا کپنهاگ رفتم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es war toll.",
+      "english": "It was great.",
+      "russian": "Это было здорово.",
+      "farsi": "عالی بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und du? Tanzt du noch?",
+      "english": "And you? Do you still dance?",
+      "russian": "А ты? Ты все еще танцуешь?",
+      "farsi": "و تو؟ هنوز هم می‌رقصی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nein, nicht mehr.",
+      "english": "No, not anymore.",
+      "russian": "Нет, уже не танцую.",
+      "farsi": "نه، دیگر نمی‌رقصم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber ich habe angefangen, Klavier zu spielen.",
+      "english": "But I have started playing the piano.",
+      "russian": "Но я начал играть на пианино.",
+      "farsi": "اما من شروع به نواختن پیانو کرده‌ام."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Guten Abend meine Damen und Herren.",
+      "english": "Good evening, ladies and gentlemen.",
+      "russian": "Добрый вечер, дамы и господа.",
+      "farsi": "عصر بخیر، خانم‌ها و آقایان."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Heute wollen wir unsere Reihe 'Wie war das eigentlich?' fortsetzen.",
+      "english": "Today, we want to continue our series 'How was that actually?'",
+      "russian": "Сегодня мы хотим продолжить нашу серию 'Как это было на самом деле?'",
+      "farsi": "امروز می‌خواهیم سری خود را با عنوان 'در واقع چطور بود؟' ادامه دهیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Auch heute haben wir wieder einen Zeitzeugen im Studio, Herrn Josef Obermeier.",
+      "english": "Again today, we have a witness in the studio, Mr. Josef Obermeier.",
+      "russian": "Сегодня у нас снова есть свидетель в студии, господин Йозеф Обермайер.",
+      "farsi": "امروز هم دوباره یک شاهد در استودیو داریم، آقای یوزف اوبرمایر."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Herr Obermeier, herzlich willkommen. Schön, dass Sie hier sind.",
+      "english": "Mr. Obermeier, welcome. Nice to have you here.",
+      "russian": "Господин Обермайер, добро пожаловать. Рад вас видеть здесь.",
+      "farsi": "آقای اوبرمایر، خوش آمدید. خوشحالم که اینجا هستید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Guten Abend. Vielen Dank für die Einladung.",
+      "english": "Good evening. Thank you very much for the invitation.",
+      "russian": "Добрый вечер. Большое спасибо за приглашение.",
+      "farsi": "عصر بخیر. بسیار سپاسگزارم برای دعوت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Herr Obermeier, Sie wurden 1938 in München geboren und sind jetzt 77 Jahre alt.",
+      "english": "Mr. Obermeier, you were born in 1938 in Munich and are now 77 years old.",
+      "russian": "Господин Обермайер, вы родились в 1938 году в Мюнхене и сейчас вам 77 лет.",
+      "farsi": "آقای اوبرمایر، شما در سال 1938 در مونیخ به دنیا آمدید و اکنون 77 ساله هستید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Richtig. Ich kam ein Jahr vor dem Zweiten Weltkrieg in München zur Welt.",
+      "english": "That's right. I was born in Munich a year before the Second World War.",
+      "russian": "Верно. Я родился в Мюнхене за год до Второй мировой войны.",
+      "farsi": "درست است. من یک سال قبل از جنگ جهانی دوم در مونیخ به دنیا آمدم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können Sie sich noch an den Krieg erinnern?",
+      "english": "Do you still remember the war?",
+      "russian": "Вы все еще помните войну?",
+      "farsi": "آیا هنوز جنگ را به یاد دارید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Natürlich.",
+      "english": "Of course.",
+      "russian": "Конечно.",
+      "farsi": "البته."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Manches vergesse ich sicher nie.",
+      "english": "There are some things I will surely never forget.",
+      "russian": "Некоторые вещи я точно никогда не забуду.",
+      "farsi": "برخی چیزها را قطعاً هرگز فراموش نخواهم کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es war eine schlimme Zeit.",
+      "english": "It was a terrible time.",
+      "russian": "Это было ужасное время.",
+      "farsi": "این یک زمان وحشتناک بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Meine Schwester und ich hatten oft Angst.",
+      "english": "My sister and I were often scared.",
+      "russian": "Моя сестра и я часто боялись.",
+      "farsi": "من و خواهرم اغلب ترسیده بودیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir mussten häufig hungrig ins Bett gehen und im Winter haben wir oft gefroren.",
+      "english": "We often had to go to bed hungry, and in winter we often froze.",
+      "russian": "Мы часто ложились спать голодными, а зимой мы часто мерзли.",
+      "farsi": "ما اغلب مجبور بودیم گرسنه به رختخواب برویم و در زمستان اغلب یخ می‌زدیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Am Ende des Krieges mussten wir München verlassen, denn das Haus in dem wir wohnten, war zerstört.",
+      "english": "At the end of the war, we had to leave Munich because the house we lived in was destroyed.",
+      "russian": "В конце войны нам пришлось покинуть Мюнхен, потому что дом, в котором мы жили, был разрушен.",
+      "farsi": "در پایان جنگ، ما مجبور شدیم مونیخ را ترک کنیم زیرا خانه‌ای که در آن زندگی می‌کردیم، ویران شده بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir sind dann in eine kleine 3-Zimmer-Wohnung in Hechendorf, einem Dorf in der Nähe von München, gezogen.",
+      "english": "We then moved to a small 3-room apartment in Hechendorf, a village near Munich.",
+      "russian": "Мы переехали в маленькую трехкомнатную квартиру в Хехендорфе, деревне недалеко от Мюнхена.",
+      "farsi": "سپس ما به یک آپارتمان سه اتاقه کوچک در هخندورف، دهکده‌ای نزدیک مونیخ، نقل مکان کردیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sah Ihr Alltag als Kind aus?",
+      "english": "What was your daily life like as a child?",
+      "russian": "Какова была ваша повседневная жизнь в детстве?",
+      "farsi": "زندگی روزمره‌ات به عنوان یک کودک چه شکلی بود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die ersten Jahre nach dem Krieg waren hart.",
+      "english": "The first years after the war were tough.",
+      "russian": "Первые годы после войны были тяжелыми.",
+      "farsi": "سال‌های اول بعد از جنگ سخت بودند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das kann sich heute keiner mehr vorstellen, wie das damals war.",
+      "english": "No one can imagine today how it was back then.",
+      "russian": "Сегодня никто не может представить, как это было тогда.",
+      "farsi": "هیچ‌کس امروز نمی‌تواند تصور کند که آن زمان چگونه بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es war viel kaputt.",
+      "english": "A lot was broken.",
+      "russian": "Многое было сломано.",
+      "farsi": "بسیاری چیزها خراب بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber ich habe trotzdem schöne Erinnerungen: Als Kind war ich fast immer draußen.",
+      "english": "But I still have nice memories: As a child, I was almost always outside.",
+      "russian": "Но у меня все равно остались хорошие воспоминания: в детстве я почти всегда был на улице.",
+      "farsi": "اما من هنوز هم یادهای خوبی دارم: وقتی کودک بودم، تقریباً همیشه در بیرون بودم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn das Wetter schön war, dann sind wir mit dem Fahrrad zum Pilsensee zum Schwimmen gefahren.",
+      "english": "When the weather was nice, we rode our bikes to Pilsensee to swim.",
+      "russian": "Когда погода была хорошей, мы катались на велосипедах к Пилзенскому озеру, чтобы поплавать.",
+      "farsi": "وقتی هوا خوب بود، با دوچرخه به دریاچه پیلسن برای شنا می‌رفتیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und am Sonntagnachmittag gab es fast immer Kaffee und Kuchen mit der ganzen Familie.",
+      "english": "And on Sunday afternoons, there was almost always coffee and cake with the whole family.",
+      "russian": "А по воскресеньям после обеда почти всегда были кофе и пирожные с всей семьей.",
+      "farsi": "و در بعدازظهرهای روز یکشنبه، تقریباً همیشه قهوه و کیک با کل خانواده وجود داشت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Meine Mutter konnte sehr gut backen.",
+      "english": "My mother could bake very well.",
+      "russian": "Моя мать очень хорошо печь.",
+      "farsi": "مادرم می‌توانست خیلی خوب کیک بپزد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und wenn Oktoberfest war, sind wir alle mit dem Zug nach München gefahren.",
+      "english": "And when it was Oktoberfest, we all took the train to Munich.",
+      "russian": "А когда было Октоберфест, мы все ездили на поезде в Мюнхен.",
+      "farsi": "و وقتی جشن اکتبر بود، همه ما با قطار به مونیخ می‌رفتیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie haben nach der Schule eine Lehre gemacht?",
+      "english": "Did you do an apprenticeship after school?",
+      "russian": "Вы проходили обучение после школы?",
+      "farsi": "آیا پس از مدرسه، دوره کارآموزی را گذراندید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, als ich Abitur machte, wollte ich studieren, aber das ging aus finanziellen Gründen nicht.",
+      "english": "Yes, when I graduated from high school, I wanted to study, but I couldn't for financial reasons.",
+      "russian": "Да, когда я закончил школу, я хотел учиться, но по финансовым причинам не смог.",
+      "farsi": "بله، وقتی دیپلم گرفتم، می‌خواستم تحصیل کنم، اما به دلایل مالی نتوانستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Also habe ich 1957 eine kaufmännische Lehre bei der Firma Schöninger in München begonnen.",
+      "english": "So I started a commercial apprenticeship at the Schöninger company in Munich in 1957.",
+      "russian": "Итак, в 1957 году я начал коммерческое обучение в компании Schöninger в Мюнхене.",
+      "farsi": "بنابراین من در سال 1957 یک دوره کارآموزی تجاری در شرکت شونینگر در مونیخ آغاز کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie waren damals die Arbeitszeiten?",
+      "english": "What were the working hours like back then?",
+      "russian": "Какие тогда были рабочие часы?",
+      "farsi": "ساعات کاری آن زمان چه شکلی بود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Na ja, Sie wissen ja, die 40 Stunden Woche gibt es erst seit den 1960er Jahren.",
+      "english": "Well, you know, the 40-hour workweek has only existed since the 1960s.",
+      "russian": "Ну, вы знаете, 40-часовая рабочая неделя существует только с 1960-х годов.",
+      "farsi": "خب، می‌دانید، هفته کاری 40 ساعته از دهه 1960 به بعد وجود دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich musste anfangs auch als Lehrling von Montag bis Samstag fast 50 Stunden pro Woche arbeiten.",
+      "english": "At first, I also had to work almost 50 hours a week as an apprentice from Monday to Saturday.",
+      "russian": "Сначала я также должен был работать почти 50 часов в неделю в качестве ученика с понедельника по субботу.",
+      "farsi": "در ابتدا من هم باید از دوشنبه تا شنبه تقریباً 50 ساعت در هفته به عنوان کارآموز کار می‌کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ach ja, richtig.",
+      "english": "Oh yes, that's right.",
+      "russian": "Ах да, верно.",
+      "farsi": "آه بله، درست است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Gewerkschaften haben damals gefordert: 'Samstags gehört Vati mir!'",
+      "english": "The unions then demanded: 'Saturdays belong to Daddy!'",
+      "russian": "Профсоюзы тогда требовали: 'Субботы принадлежат папе!'",
+      "farsi": "اتحادیه‌ها در آن زمان خواستار شدند: 'شنبه‌ها متعلق به پدر است!'"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, genau!",
+      "english": "Yes, exactly!",
+      "russian": "Да, точно!",
+      "farsi": "بله، دقیقاً!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber Sie hatten zum Glück trotzdem noch ein bisschen Freizeit.",
+      "english": "But fortunately, you still had a bit of free time.",
+      "russian": "Но, к счастью, у вас все равно оставалось немного свободного времени.",
+      "farsi": "اما خوشبختانه شما هنوز هم کمی زمان آزاد داشتید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, natürlich! Ich bin jeden Samstagabend zum Tanz gegangen.",
+      "english": "Yes, of course! I went dancing every Saturday night.",
+      "russian": "Да, конечно! Я каждую субботу вечером ходил танцевать.",
+      "farsi": "بله، البته! من هر شنبه شب به رقص می‌رفتم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und dabei haben Sie auch Ihre Frau Ilse kennengelernt?",
+      "english": "And did you also meet your wife Ilse there?",
+      "russian": "И вы также там встретили свою жену Ильзу?",
+      "farsi": "و در آنجا همسر خود ایلزه را ملاقات کردید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Richtig.",
+      "english": "That's right.",
+      "russian": "Верно.",
+      "farsi": "درست است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und wann haben Sie geheiratet?",
+      "english": "And when did you get married?",
+      "russian": "А когда вы поженились?",
+      "farsi": "و چه زمانی ازدواج کردید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "1962. Als ich Ilse 1959 kennenlernte, wohnten wir beide noch bei unseren Eltern.",
+      "english": "1962. When I met Ilse in 1959, we both still lived with our parents.",
+      "russian": "1962. Когда я встретил Ильзу в 1959 году, мы оба еще жили с родителями.",
+      "farsi": "1962. وقتی در سال 1959 ایلزه را ملاقات کردم، هر دو هنوز با والدینمان زندگی می‌کردیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber wir konnten zunächst keine Wohnung finden.",
+      "english": "But initially, we couldn't find an apartment.",
+      "russian": "Но сначала мы не могли найти квартиру.",
+      "farsi": "اما در ابتدا نمی‌توانستیم آپارتمان پیدا کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Deshalb haben wir nicht gleich geheiratet.",
+      "english": "That's why we didn't get married right away.",
+      "russian": "Вот почему мы не поженились сразу.",
+      "farsi": "به همین دلیل ما فوراً ازدواج نکردیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Mieten in München waren damals schon sehr hoch und wegen der vielen Flüchtlinge gab es kaum Wohnungen.",
+      "english": "The rents in Munich were already very high at that time, and due to many refugees, there were hardly any apartments.",
+      "russian": "Арендные ставки в Мюнхене тогда уже были очень высокими, а из-за большого количества беженцев почти не было квартир.",
+      "farsi": "اجاره‌ها در مونیخ در آن زمان بسیار بالا بود و به دلیل تعداد زیاد پناهندگان، به‌سختی آپارتمان وجود داشت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber schließlich haben wir eine Wohnung in München Pasing gefunden und geheiratet.",
+      "english": "But eventually, we found an apartment in Munich Pasing and got married.",
+      "russian": "Но в конце концов мы нашли квартиру в Мюнхен Пазинг и поженились.",
+      "farsi": "اما در نهایت، ما یک آپارتمان در مونیخ پازینگ پیدا کردیم و ازدواج کردیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und Sie sind bei der Firma Schöninger geblieben?",
+      "english": "And did you stay with the Schöninger company?",
+      "russian": "И вы остались в компании Schöninger?",
+      "farsi": "و آیا در شرکت شونینگر ماندید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, bis zur Rente!",
+      "english": "Yes, until retirement!",
+      "russian": "Да, до пенсии!",
+      "farsi": "بله، تا زمان بازنشستگی!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich hatte gute Chefs und nette Kollegen.",
+      "english": "I had good bosses and nice colleagues.",
+      "russian": "У меня были хорошие начальники и приятные коллеги.",
+      "farsi": "من روسای خوب و همکاران مهربانی داشتم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und dann habe ich auch immer mehr verdient.",
+      "english": "And then I also earned more and more.",
+      "russian": "И потом я тоже стал зарабатывать все больше.",
+      "farsi": "و سپس من نیز بیشتر و بیشتر درآمد کسب کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es ging Ihnen also ganz gut?",
+      "english": "So you were doing quite well?",
+      "russian": "Так что у вас все было довольно хорошо?",
+      "farsi": "بنابراین شما وضعیت خوبی داشتید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, es ging uns immer besser.",
+      "english": "Yes, we were always doing better.",
+      "russian": "Да, нам всегда было лучше.",
+      "farsi": "بله، همیشه بهتر می‌شدیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mitte der 60er Jahre haben wir unseren ersten Fernseher gekauft und 1969 unser erstes Auto.",
+      "english": "In the mid-60s, we bought our first television and in 1969 our first car.",
+      "russian": "В середине 60-х мы купили наш первый телевизор, а в 1969 году — нашу первую машину.",
+      "farsi": "در اواسط دهه 60، ما اولین تلویزیون خود را خریدیم و در سال 1969 اولین اتومبیل خود را."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es war ein VW Käfer.",
+      "english": "It was a VW Beetle.",
+      "russian": "Это был Volkswagen Жук.",
+      "farsi": "این یک فولکس واگن بیتل بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Als wir ihn hatten, sind wir im Sommer mit unseren beiden Kindern zum ersten Mal nach Italien gefahren.",
+      "english": "When we had it, we went to Italy for the first time in the summer with our two children.",
+      "russian": "Когда он у нас был, мы впервые летом поехали в Италию с нашими двумя детьми.",
+      "farsi": "وقتی آن را داشتیم، در تابستان برای اولین بار با دو فرزندمان به ایتالیا رفتیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das war herrlich.",
+      "english": "That was wonderful.",
+      "russian": "Это было прекрасно.",
+      "farsi": "این فوق‌العاده بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und hat Ihre Frau auch gearbeitet?",
+      "english": "And did your wife also work?",
+      "russian": "А ваша жена тоже работала?",
+      "farsi": "و آیا همسرتان هم کار می‌کرد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Am Anfang, als die Kinder klein waren, war sie Hausfrau.",
+      "english": "At first, when the children were small, she was a housewife.",
+      "russian": "Сначала, когда дети были маленькими, она была домохозяйкой.",
+      "farsi": "در ابتدا، وقتی بچه‌ها کوچک بودند، او خانه‌دار بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat den Haushalt gemacht und unsere Kinder erzogen.",
+      "english": "She took care of the household and raised our children.",
+      "russian": "Она занималась домашним хозяйством и воспитывала наших детей.",
+      "farsi": "او از خانه‌داری و تربیت بچه‌ها مراقبت می‌کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Als unser jüngstes Kind acht war, hat sie dann als Sekretärin in München angefangen.",
+      "english": "When our youngest child was eight, she started working as a secretary in Munich.",
+      "russian": "Когда наш младший ребенок стал восьми лет, она начала работать секретарем в Мюнхене.",
+      "farsi": "وقتی فرزند کوچک‌تر ما هشت ساله شد، او به عنوان منشی در مونیخ کار را آغاز کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und was machen Sie jetzt?",
+      "english": "And what are you doing now?",
+      "russian": "А чем вы сейчас занимаетесь?",
+      "farsi": "و حالا چه می‌کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich genieße meinen Lebensabend!",
+      "english": "I am enjoying my retirement!",
+      "russian": "Я наслаждаюсь своей пенсией!",
+      "farsi": "من از دوران بازنشستگی‌ام لذت می‌برم!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe ja inzwischen Enkelkinder.",
+      "english": "I now have grandchildren.",
+      "russian": "Теперь у меня есть внуки.",
+      "farsi": "من حالا نوه دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn die Sonne morgen scheint, gehe ich mit ihnen spazieren.",
+      "english": "If the sun shines tomorrow, I will go for a walk with them.",
+      "russian": "Если завтра солнце будет светить, я пойду с ними гулять.",
+      "farsi": "اگر فردا آفتاب بتابد، با آنها به پیاده‌روی می‌روم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und wenn Sie so zurückschauen?",
+      "english": "And when you look back like that?",
+      "russian": "А когда вы так оглядываетесь назад?",
+      "farsi": "و وقتی این‌گونه به گذشته نگاه می‌کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hatten Sie ein glückliches Leben?",
+      "english": "Did you have a happy life?",
+      "russian": "У вас была счастливая жизнь?",
+      "farsi": "آیا زندگی شادی داشتید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn ich zurückschaue, bin ich sehr zufrieden!",
+      "english": "When I look back, I am very satisfied!",
+      "russian": "Когда я оглядываюсь назад, я очень доволен!",
+      "farsi": "وقتی به گذشته نگاه می‌کنم، بسیار راضی هستم!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich hatte sehr viel Glück im Leben.",
+      "english": "I was very lucky in life.",
+      "russian": "Мне очень повезло в жизни.",
+      "farsi": "من در زندگی بسیار خوش شانس بودم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es gab schon damals sehr viele Verkehrsunfälle.",
+      "english": "There were already many traffic accidents back then.",
+      "russian": "Тогда уже было много дорожных аварий.",
+      "farsi": "در آن زمان تصادفات ترافیکی بسیار زیادی وجود داشت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Am Potsdamer Platz stellte man deshalb 1924 eine Ampel auf, um den Verkehr zu regeln.",
+      "english": "That’s why a traffic light was installed at Potsdamer Platz in 1924 to regulate traffic.",
+      "russian": "Поэтому в 1924 году на Потсдамской площади был установлен светофор для регулирования движения.",
+      "farsi": "به همین دلیل در سال 1924 در میدان پوتسدام یک چراغ ترافیکی نصب شد تا ترافیک را تنظیم کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im letzten Jahr sind mehr als 100 Millionen Passagiere mit Lufthansa geflogen.",
+      "english": "Last year, more than 100 million passengers flew with Lufthansa.",
+      "russian": "В прошлом году более 100 миллионов пассажиров летали с Lufthansa.",
+      "farsi": "در سال گذشته، بیش از 100 میلیون مسافر با لوفتهانزا پرواز کردند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Flugverkehr wächst jedes Jahr.",
+      "english": "Air traffic grows every year.",
+      "russian": "Авиаперевозки растут с каждым годом.",
+      "farsi": "ترافیک هوایی هر سال در حال افزایش است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er spielt Gitarre in einer erfolgreichen Musikband.",
+      "english": "He plays guitar in a successful music band.",
+      "russian": "Он играет на гитаре в успешной музыкальной группе.",
+      "farsi": "او در یک گروه موسیقی موفق گیتار می‌زند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat schon drei Alben veröffentlicht.",
+      "english": "He has already released three albums.",
+      "russian": "Он уже выпустил три альбома.",
+      "farsi": "او تا کنون سه آلبوم منتشر کرده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ilses Eltern hatten einen Bauernhof.",
+      "english": "Ilse's parents had a farm.",
+      "russian": "Родители Ильзе имели ферму.",
+      "farsi": "والدین ایلزه یک مزرعه داشتند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn die Früchte und das Getreide reif waren, half Ilse bei der Ernte.",
+      "english": "When the fruits and grains were ripe, Ilse helped with the harvest.",
+      "russian": "Когда фрукты и зерно созревали, Ильза помогала с уборкой.",
+      "farsi": "وقتی میوه‌ها و غلات رسیده بودند، ایلزه در برداشت کمک می‌کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Als ich ein Kind war, lebte ich in einem Dorf.",
+      "english": "When I was a child, I lived in a village.",
+      "russian": "Когда я был ребенком, я жил в деревне.",
+      "farsi": "وقتی کودک بودم، در یک روستا زندگی می‌کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich wohnte mit meinen Eltern in einer kleinen Wohnung.",
+      "english": "I lived with my parents in a small apartment.",
+      "russian": "Я жил с родителями в маленькой квартире.",
+      "farsi": "من با والدینم در یک آپارتمان کوچک زندگی می‌کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich ging jeden Tag zu Fuß zur Schule.",
+      "english": "I walked to school every day.",
+      "russian": "Я ходил в школу пешком каждый день.",
+      "farsi": "هر روز به مدرسه پیاده می‌رفتم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Am Nachmittag machte ich Hausaufgaben.",
+      "english": "In the afternoon, I did my homework.",
+      "russian": "После обеда я делал домашние задания.",
+      "farsi": "در بعدازظهر، تکالیفم را انجام می‌دادم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Am Sonntagnachmittag gab es oft Kuchen.",
+      "english": "There was often cake on Sunday afternoons.",
+      "russian": "В воскресенье после обеда часто подавали пирожные.",
+      "farsi": "در بعدازظهرهای روز یکشنبه اغلب کیک وجود داشت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn das Wetter schön war, bin ich schwimmen gegangen.",
+      "english": "When the weather was nice, I went swimming.",
+      "russian": "Когда погода была хорошей, я ходил плавать.",
+      "farsi": "وقتی هوا خوب بود، به شنا می‌رفتم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich hatte eine schöne Kindheit.",
+      "english": "I had a beautiful childhood.",
+      "russian": "У меня было прекрасное детство.",
+      "farsi": "من یک دوران کودکی زیبا داشتم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Firma ist ziemlich cool.",
+      "english": "The company is pretty cool.",
+      "russian": "Компания довольно крутая.",
+      "farsi": "این شرکت نسبتاً جالب است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wirklich? Erzähl mal.",
+      "english": "Really? Tell me more.",
+      "russian": "Правда? Расскажи подробнее.",
+      "farsi": "واقعاً؟ بیشتر بگو."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie heißt die Firma überhaupt?",
+      "english": "What's the name of the company anyway?",
+      "russian": "Как называется компания вообще?",
+      "farsi": "اسم شرکت اصلاً چیست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Also, die Firma heißt Knorr-Bremse.",
+      "english": "So, the company is called Knorr-Bremse.",
+      "russian": "Итак, компания называется Knorr-Bremse.",
+      "farsi": "بنابراین، نام شرکت شونینگر است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das ist ein altes Familienunternehmen.",
+      "english": "It is an old family business.",
+      "russian": "Это старая семейная компания.",
+      "farsi": "این یک شرکت خانوادگی قدیمی است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Firma gibt es schon seit über 100 Jahren.",
+      "english": "The company has existed for over 100 years.",
+      "russian": "Компания существует уже более 100 лет.",
+      "farsi": "این شرکت بیش از 100 سال است که وجود دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie wurde 1905 von Georg Knorr in Berlin gegründet.",
+      "english": "It was founded in 1905 by Georg Knorr in Berlin.",
+      "russian": "Она была основана в 1905 году Георгом Кнором в Берлине.",
+      "farsi": "این شرکت در سال 1905 توسط جورج شونینگر در برلین تأسیس شد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und was haben die damals genau gemacht?",
+      "english": "And what did they do exactly back then?",
+      "russian": "А что они тогда конкретно делали?",
+      "farsi": "و آنها در آن زمان دقیقاً چه کار می‌کردند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Unternehmen entwickelte damals eine besondere Bremse.",
+      "english": "The company developed a special brake back then.",
+      "russian": "Компания тогда разработала специальный тормоз.",
+      "farsi": "این شرکت در آن زمان یک ترمز خاص را توسعه داد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Knorr-Bremse war in den 1920er Jahren der größte Hersteller von Bremsen für Züge in Europa.",
+      "english": "In the 1920s, Knorr-Bremse was the largest manufacturer of brakes for trains in Europe.",
+      "russian": "В 1920-х годах Knorr-Bremse была крупнейшим производителем тормозов для поездов в Европе.",
+      "farsi": "در دهه 1920، شونینگر بزرگترین تولیدکننده ترمز برای قطارها در اروپا بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im Jahr 1939 hatten etwa 90 Prozent aller deutschen Lkw von 7 bis 16 Tonnen eine solche Bremse.",
+      "english": "In 1939, about 90 percent of all German trucks weighing 7 to 16 tons had such a brake.",
+      "russian": "В 1939 году примерно 90 процентов всех немецких грузовиков весом от 7 до 16 тонн имели такие тормоза.",
+      "farsi": "در سال 1939، حدود 90 درصد از تمام کامیون‌های آلمانی با وزن 7 تا 16 تن دارای چنین ترمزی بودند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Cool, wie?",
+      "english": "Cool, right?",
+      "russian": "Круто, да?",
+      "farsi": "خوب است، نه؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nach dem Zweiten Weltkrieg ging die Firma nach München.",
+      "english": "After World War II, the company moved to Munich.",
+      "russian": "После Второй мировой войны компания переехала в Мюнхен.",
+      "farsi": "پس از جنگ جهانی دوم، شرکت به مونیخ نقل مکان کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dort entwickelte sie sich zu einem der weltweit führenden Unternehmen im Bereich der Bremstechnologie.",
+      "english": "There it developed into one of the world's leading companies in brake technology.",
+      "russian": "Там она превратилась в одну из ведущих компаний мира в области тормозной технологии.",
+      "farsi": "در آنجا به یکی از شرکت‌های پیشرو جهان در زمینه فناوری ترمز تبدیل شد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Meinst du, das ist das Richtige für dich?",
+      "english": "Do you think that's the right thing for you?",
+      "russian": "Ты думаешь, это именно то, что тебе нужно?",
+      "farsi": "آیا فکر می‌کنید این مناسب شماست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Interessierst du dich denn für Bremsen?",
+      "english": "Are you interested in brakes?",
+      "russian": "Ты интересуешься тормозами?",
+      "farsi": "آیا به ترمزها علاقه دارید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Du warst doch nie ein Fan von Technik, oder?",
+      "english": "You were never a fan of technology, were you?",
+      "russian": "Ты никогда не был фанатом технологий, верно?",
+      "farsi": "تو هرگز طرفدار فناوری نبودی، نه؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ach, Tantchen!",
+      "english": "Oh, Aunty!",
+      "russian": "Ах, тётя!",
+      "farsi": "آه، عمه!"
+    }
+  ]
+}

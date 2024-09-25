@@ -1,0 +1,946 @@
+{
+  "info": {
+    "name": "B1U03",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Gut, dann kommen wir also zum nächsten Punkt: Wie soll das Werbeplakat aussehen? Hat jemand eine Idee?",
+      "english": "Well, then let's move on to the next point: What should the advertising poster look like? Does anyone have an idea?",
+      "russian": "Ну что ж, давайте перейдем к следующему пункту: каким должно быть рекламное объявление? У кого-то есть идея?",
+      "farsi": "خوب، پس بیایید به نقطه بعدی برویم: پوستر تبلیغاتی باید چگونه باشد؟ کسی ایده‌ای دارد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Tja, ich denke, es sollte etwas Lustiges sein.",
+      "english": "Well, I think it should be something funny.",
+      "russian": "Ну, я думаю, это должно быть что-то смешное.",
+      "farsi": "خب، فکر می‌کنم باید چیزی خنده‌دار باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sag mal Dennis, kannst du deine Mails nicht später checken?",
+      "english": "Say, Dennis, can’t you check your emails later?",
+      "russian": "Скажи, Деннис, ты не можешь проверить свои письма позже?",
+      "farsi": "بگو، دنیس، نمی‌توانی ایمیل‌هایت را بعداً بررسی کنی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das ist hier eine Teambesprechung!",
+      "english": "This is a team meeting!",
+      "russian": "Это здесь командное собрание!",
+      "farsi": "این یک جلسه تیمی است!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, Entschuldigung. Wie war die Frage?",
+      "english": "Yes, sorry. What was the question?",
+      "russian": "Да, извините. Какой был вопрос?",
+      "farsi": "بله، ببخشید. سوال چه بود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es geht um das Plakat!",
+      "english": "It’s about the poster!",
+      "russian": "Дело в плакате!",
+      "farsi": "موضوع درباره پوستر است!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Oh nein! So ein Pech!",
+      "english": "Oh no! What bad luck!",
+      "russian": "О нет! Какое несчастье!",
+      "farsi": "اوه نه! چه بدشانسی!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Warten Sie, ich helfe Ihnen.",
+      "english": "Wait, I’ll help you.",
+      "russian": "Подождите, я помогу вам.",
+      "farsi": "صبر کنید، من به شما کمک می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Danke, das ist sehr nett.",
+      "english": "Thank you, that's very nice.",
+      "russian": "Спасибо, это очень мило.",
+      "farsi": "متشکرم، این خیلی خوب است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das ist doch kein Problem!",
+      "english": "That’s no problem!",
+      "russian": "Это не проблема!",
+      "farsi": "این مشکلی نیست!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Also, Herr Jäger, Ihr Lebenslauf und Ihre Berufserfahrungen sind sehr interessant.",
+      "english": "So, Mr. Jäger, your CV and work experience are very interesting.",
+      "russian": "Итак, господин Ягер, ваше резюме и опыт работы очень интересны.",
+      "farsi": "پس، آقای یگر، رزومه و تجربیات کاری شما بسیار جالب است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Entschuldigen Sie Kollegin, ich habe noch eine Frage.",
+      "english": "Excuse me, colleague, I have another question.",
+      "russian": "Извините, коллега, у меня есть еще один вопрос.",
+      "farsi": "ببخشید همکار، یک سوال دیگر دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sagen Sie Herr Jäger, Sie sind zurzeit bei der Firma Tecton unbefristet angestellt.",
+      "english": "Tell me, Mr. Jäger, you are currently employed permanently at Tecton.",
+      "russian": "Скажите, господин Ягер, вы в настоящее время работаете в компании Tecton на постоянной основе.",
+      "farsi": "بفرمایید آقای یگر، شما در حال حاضر به طور دائمی در شرکت تکتون مشغول به کار هستید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Warum wollen Sie denn jetzt Ihre Stelle wechseln?",
+      "english": "Why do you want to change your job now?",
+      "russian": "Почему вы хотите сейчас сменить место работы?",
+      "farsi": "چرا می‌خواهید الان شغل خود را عوض کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Also, ich, ähm, ich möchte gerne ...",
+      "english": "Well, I, um, I would like to ...",
+      "russian": "Ну, я, эм, хотел бы ...",
+      "farsi": "خب، من، ام، دوست دارم ..."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was Sie da geschrieben haben, muss wirklich noch einmal überarbeitet werden!",
+      "english": "What you have written there really needs to be revised!",
+      "russian": "То, что вы написали, действительно нужно пересмотреть!",
+      "farsi": "آنچه شما نوشته‌اید، واقعاً باید دوباره ویرایش شود!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das können wir so nicht präsentieren. Warum?",
+      "english": "We can't present it like this. Why?",
+      "russian": "Мы не можем представить это так. Почему?",
+      "farsi": "ما نمی‌توانیم این را اینگونه ارائه کنیم. چرا؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Weil Sie keine Zahlen notiert haben.",
+      "english": "Because you haven't noted any numbers.",
+      "russian": "Потому что вы не записали никаких цифр.",
+      "farsi": "چون شما هیچ عددی را یادداشت نکرده‌اید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich hatte Ihnen gesagt, dass wir aktuelle Zahlen brauchen.",
+      "english": "I had told you that we need current figures.",
+      "russian": "Я говорил вам, что нам нужны актуальные данные.",
+      "farsi": "من به شما گفته بودم که ما به اعداد به‌روز نیاز داریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber Sie haben mir wahrscheinlich nicht richtig zugehört.",
+      "english": "But you probably weren't listening to me properly.",
+      "russian": "Но вы, вероятно, не слушали меня внимательно.",
+      "farsi": "اما شما احتمالاً به من به درستی گوش ندادید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber wir haben Ihnen die Präsentation doch schon ...",
+      "english": "But we already gave you the presentation...",
+      "russian": "Но мы ведь уже дали вам презентацию ...",
+      "farsi": "اما ما قبلاً ارائه را به شما داده‌ایم ..."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Um zwölf möchte ich die neue Präsentation haben.",
+      "english": "I would like to have the new presentation by twelve.",
+      "russian": "Я хотел бы получить новую презентацию к двенадцати.",
+      "farsi": "من می‌خواهم تا ساعت دوازده ارائه جدید را داشته باشم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Boris Ionow.",
+      "english": "Boris Ionow.",
+      "russian": "Борис Ионов.",
+      "farsi": "بوریس ایونوف."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hallo Boris, hier ist Surab.",
+      "english": "Hello Boris, this is Surab.",
+      "russian": "Привет, Борис, это Сураб.",
+      "farsi": "سلام بوریس، این سوراب است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hallo Surab. Ich wollte dich auch schon anrufen.",
+      "english": "Hello Surab. I wanted to call you too.",
+      "russian": "Привет, Сураб. Я тоже хотел тебе позвонить.",
+      "farsi": "سلام سوراب. من هم می‌خواستم به تو زنگ بزنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie geht es dir? Hast du deinen Sprachkurs schon beendet?",
+      "english": "How are you? Have you finished your language course yet?",
+      "russian": "Как дела? Ты уже закончил свой языковой курс?",
+      "farsi": "چطوری؟ آیا دوره زبانت را تمام کرده‌ای؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, vor drei Wochen.",
+      "english": "Yes, three weeks ago.",
+      "russian": "Да, три недели назад.",
+      "farsi": "بله، سه هفته پیش."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich suche jetzt einen Ausbildungsplatz als Industriemechaniker und da habe ich auch die Webseite von der Heriton AG gelesen.",
+      "english": "I am now looking for an apprenticeship as an industrial mechanic, and I have also read the website of Heriton AG.",
+
+      "russian": "Сейчас я ищу место для стажировки в качестве промышленного механика, и я также читал веб-сайт Heriton AG.",
+      "farsi": "من اکنون به دنبال یک دوره آموزشی به عنوان مکانیک صنعتی هستم و وب‌سایت شرکت Heriton AG را نیز خوانده‌ام."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Da arbeitest du doch, oder?",
+      "english": "You work there, right?",
+      "russian": "Ты же там работаешь, да?",
+      "farsi": "شما در آنجا کار می‌کنید، درست است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, ich bin der Einkaufsabteilung.",
+      "english": "Yes, I work in the purchasing department.",
+      "russian": "Да, я работаю в отделе закупок.",
+      "farsi": "بله، من در بخش خرید کار می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Heriton bietet auch Ausbildungsplätze zum Industriemechaniker an.",
+      "english": "Heriton also offers apprenticeships for industrial mechanics.",
+      "russian": "Heriton также предлагает места для стажировок для промышленных механиков.",
+      "farsi": "شرکت Heriton همچنین فرصت‌های آموزشی برای مکانیک‌های صنعتی ارائه می‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kannst du mir etwas über die Firma erzählen und ein paar Tipps für die Bewerbung geben?",
+      "english": "Can you tell me something about the company and give me some tips for the application?",
+      "russian": "Можешь рассказать мне что-то о компании и дать несколько советов по подаче заявки?",
+      "farsi": "آیا می‌توانی کمی درباره شرکت بگویی و چند نکته برای درخواست شغلی به من بدهی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Natürlich, gerne, aber ich kann dir gleich sagen, dass es bei uns manchmal ziemlich stressig ist.",
+      "english": "Of course, gladly, but I can tell you right away that it can be quite stressful here sometimes.",
+      "russian": "Конечно, с удовольствием, но я могу сразу сказать, что у нас иногда довольно стрессово.",
+      "farsi": "البته، با کمال میل، اما می‌توانم به شما بگویم که گاهی اوقات اینجا واقعاً استرس‌زا است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Obwohl das Betriebsklima eigentlich gut ist, gibt es manchmal Probleme, vor allem, wenn wir viel Arbeit haben und nicht pünktlich fertig werden.",
+      "english": "Although the working atmosphere is actually good, there are sometimes problems, especially when we have a lot of work and can't finish on time.",
+      "russian": "Хотя атмосфера на работе на самом деле хорошая, иногда возникают проблемы, особенно когда у нас много работы и мы не можем закончить вовремя.",
+      "farsi": "اگرچه جو کاری در واقع خوب است، اما گاهی اوقات مشکلاتی وجود دارد، به ویژه وقتی که کار زیادی داریم و نمی‌توانیم به موقع تمام کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im Moment haben wir sehr viel zu tun, aber das ist eigentlich auch ein gutes Zeichen, denn es zeigt, dass die Firma gut läuft.",
+      "english": "At the moment, we have a lot to do, but that's actually a good sign because it shows that the company is doing well.",
+      "russian": "В данный момент у нас очень много работы, но это на самом деле хороший знак, потому что это показывает, что компания хорошо работает.",
+      "farsi": "در حال حاضر ما کار زیادی داریم، اما این در واقع یک علامت خوب است زیرا نشان می‌دهد که شرکت خوب کار می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich glaube, es ist in jeder Firma normal, dass es auch Stress und Probleme gibt.",
+      "english": "I think it's normal in every company to have stress and problems as well.",
+      "russian": "Я думаю, в каждой компании нормально, что есть стресс и проблемы.",
+      "farsi": "من فکر می‌کنم در هر شرکتی طبیعی است که استرس و مشکلاتی هم وجود داشته باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mich interessiert vor allem, dass ich eine gute Ausbildung bekomme.",
+      "english": "I am mainly interested in getting a good education.",
+      "russian": "Меня прежде всего интересует получение хорошего образования.",
+      "farsi": "من به طور خاص به این موضوع علاقه‌مند هستم که یک آموزش خوب دریافت کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Weißt du, wie viele Auszubildende ihr pro Jahr habt?",
+      "english": "Do you know how many trainees you have each year?",
+      "russian": "Ты знаешь, сколько стажеров у вас каждый год?",
+      "farsi": "آیا می‌دانی هر سال چند کارآموز دارید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich glaube, in diesem Jahr fangen bei uns acht Auszubildende in der Produktion und sechs in der Verwaltung an.",
+      "english": "I believe this year we are starting eight trainees in production and six in administration.",
+      "russian": "Я думаю, в этом году у нас начинают восемь стажеров в производстве и шесть в администрации.",
+      "farsi": "من فکر می‌کنم که امسال هشت کارآموز در تولید و شش نفر در اداره شروع به کار می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und was glaubst du, was ist wichtig, wenn man sich bei euch bewirbt?",
+      "english": "And what do you think is important when applying to you?",
+      "russian": "И что, по твоему мнению, важно при подаче заявки к вам?",
+      "farsi": "و به نظر تو چه چیزی مهم است وقتی کسی برای شما درخواست می‌دهد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Natürlich sind die Schulnoten wichtig, aber es ist auch wichtig, dass du ein gutes Bewerbungsschreiben hast, in dem du erklärst, warum du dich für die Ausbildung interessierst.",
+      "english": "Of course, grades are important, but it's also important to have a good application letter explaining why you are interested in the apprenticeship.",
+      "russian": "Конечно, оценки важны, но также важно иметь хорошее сопроводительное письмо, в котором вы объясняете, почему вы заинтересованы в стажировке.",
+      "farsi": "البته نمرات تحصیلی مهم هستند، اما همچنین مهم است که یک نامه درخواست خوب داشته باشید که در آن توضیح دهید چرا به دوره آموزشی علاقه دارید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Außerdem solltest du beim Bewerbungsgespräch einen guten Eindruck machen.",
+      "english": "Additionally, you should make a good impression during the interview.",
+      "russian": "Кроме того, вам следует произвести хорошее впечатление на собеседовании.",
+      "farsi": "علاوه بر این، باید در مصاحبه یک تصور خوب ایجاد کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was ist besser, eine Online-Bewerbung oder eine schriftliche Bewerbung?",
+      "english": "Which is better, an online application or a written application?",
+      "russian": "Что лучше: онлайн-заявка или письменная заявка?",
+      "farsi": "کدام بهتر است، درخواست آنلاین یا درخواست مکتوب؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bei uns akzeptiert man nur noch Online-Bewerbungen.",
+      "english": "We only accept online applications now.",
+      "russian": "У нас теперь принимаются только онлайн-заявки.",
+      "farsi": "ما اکنون فقط درخواست‌های آنلاین را قبول می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn du willst, können wir uns mal treffen. Dann kann ich dir mehr über die Firma erzählen.",
+      "english": "If you want, we can meet up sometime. Then I can tell you more about the company.",
+      "russian": "Если хочешь, мы можем встретиться. Тогда я могу рассказать тебе больше о компании.",
+      "farsi": "اگر می‌خواهی، می‌توانیم یک بار همدیگر را ملاقات کنیم. سپس می‌توانم بیشتر درباره شرکت به تو بگویم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber du solltest dich nicht nur bei der Heriton AG bewerben, sondern auch bei anderen Firmen.",
+      "english": "But you should not only apply to Heriton AG, but also to other companies.",
+      "russian": "Но ты не должен подавать заявку только в Heriton AG, но и в другие компании.",
+      "farsi": "اما شما نباید فقط به Heriton AG درخواست دهید، بلکه به شرکت‌های دیگر نیز باید درخواست دهید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dann hast du mehr Chancen.",
+      "english": "Then you will have more chances.",
+      "russian": "Тогда у тебя будет больше шансов.",
+      "farsi": "پس شانس‌های بیشتری خواهید داشت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben jedes Jahr mehr Bewerber als freie Ausbildungsstellen.",
+      "english": "Every year we have more applicants than available apprenticeship places.",
+      "russian": "Каждый год у нас больше заявителей, чем свободных мест для стажировок.",
+      "farsi": "هر سال ما متقاضیان بیشتری داریم نسبت به مکان‌های آموزشی خالی."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Danke für den Tipp und ein Treffen finde ich eine gute Idee.",
+      "english": "Thank you for the tip, and I think meeting is a good idea.",
+      "russian": "Спасибо за совет, и я думаю, что встреча - это хорошая идея.",
+      "farsi": "از راهنمایی‌تان متشکرم و فکر می‌کنم ملاقات یک ایده خوب است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wann hast du Zeit?",
+      "english": "When do you have time?",
+      "russian": "Когда у тебя есть время?",
+      "farsi": "کی وقت داری؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn du willst, können wir uns übermorgen treffen.",
+      "english": "If you want, we can meet the day after tomorrow.",
+      "russian": "Если хочешь, мы можем встретиться послезавтра.",
+      "farsi": "اگر می‌خواهی، می‌توانیم پس‌فردا ملاقات کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Guten Tag, meine Damen und Herren, in unserer Reihe 'Richtig bewerben' hören Sie heute ein Interview mit Frau Ott, die seit vier Wochen einen festen Arbeitsvertrag mit der Grundstein GmbH hat.",
+      "english": "Good day, ladies and gentlemen, in our series 'Applying Correctly', you will hear an interview with Ms. Ott, who has had a permanent employment contract with Grundstein GmbH for four weeks.",
+      "russian": "Добрый день, дамы и господа, в нашей серии 'Правильное подача заявок' вы услышите интервью с г-жой Отт, у которой есть постоянный трудовой договор с Grundstein GmbH на протяжении четырех недель.",
+      "farsi": "روز بخیر، خانم‌ها و آقایان، در سری ما با عنوان 'درست درخواست دادن' امروز شما یک مصاحبه با خانم اوت را خواهید شنید که چهار هفته است که قرارداد دائمی با شرکت Grundstein GmbH دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Frau Ott, können Sie uns kurz erzählen, wie die Bewerbung abgelaufen ist?",
+      "english": "Ms. Ott, can you briefly tell us how the application process went?",
+      "russian": "Госпожа Отт, можете ли вы кратко рассказать нам, как проходил процесс подачи заявки?",
+      "farsi": "خانم اوت، می‌توانید به‌طور خلاصه به ما بگویید که روند درخواست چگونه بود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber natürlich, gerne.",
+      "english": "Of course, gladly.",
+      "russian": "Конечно, с удовольствием.",
+      "farsi": "البته، با کمال میل."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein Mann hat in Rostock eine gute Arbeit als Abteilungsleiter in einem großen Möbelgeschäft gefunden und wir sind zusammen von Bochum dorthin gezogen.",
+      "english": "My husband found a good job in Rostock as a department manager in a large furniture store, and we moved there together from Bochum.",
+      "russian": "Мой муж нашел хорошую работу в Ростоке в качестве начальника отдела в большом мебельном магазине, и мы переехали туда вместе из Бохума.",
+      "farsi": "شوهرم در روستوک شغف خوبی به‌عنوان مدیر بخش در یک فروشگاه بزرگ مبلمان پیدا کرد و ما از بوشوم به آنجا نقل مکان کردیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Deshalb musste ich auch eine neue Stelle in meinem Beruf als Bauingenieurin suchen.",
+      "english": "That's why I also had to look for a new position in my profession as a civil engineer.",
+      "russian": "Вот почему мне также нужно было искать новое место в своей профессии как инженера-строителя.",
+      "farsi": "به همین دلیل من همچنین باید به دنبال یک شغل جدید در حرفه‌ام به‌عنوان مهندس عمران می‌بودم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das war aber nicht so einfach.",
+      "english": "But that was not so easy.",
+      "russian": "Но это было не так просто.",
+      "farsi": "اما این کار آسانی نبود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe mich bei mehreren Firmen beworben, aber viele Absagen bekommen.",
+      "english": "I applied to several companies but received many rejections.",
+      "russian": "Я подала заявки в несколько компаний, но получила много отказов.",
+      "farsi": "من به چندین شرکت درخواست دادم اما جواب منفی‌های زیادی دریافت کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Außerdem haben viele Firmen eine Online-Bewerbung erwartet und das war für mich am Anfang ein bisschen schwierig, weil ich darin keine Erfahrungen hatte.",
+      "english": "Additionally, many companies expected an online application, and that was a bit difficult for me at first because I had no experience with it.",
+      "russian": "Кроме того, многие компании ожидали онлайн-заявку, и это было для меня немного сложно в начале, потому что у меня не было с этим опыта.",
+      "farsi": "علاوه بر این، بسیاری از شرکت‌ها انتظار داشتند که درخواست آنلاین باشد و این در ابتدا برای من کمی دشوار بود زیرا من در این زمینه تجربه‌ای نداشتم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie viele Bewerbungen haben Sie geschrieben?",
+      "english": "How many applications did you write?",
+      "russian": "Сколько заявок вы написали?",
+      "farsi": "چند درخواست نوشته‌اید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ungefähr zwanzig. Aber nach drei Monaten hat es dann doch geklappt.",
+      "english": "About twenty. But after three months, it finally worked out.",
+      "russian": "Примерно двадцать. Но через три месяца это наконец-то получилось.",
+      "farsi": "حدود بیست. اما بعد از سه ماه بالاخره درست شد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im Internet habe ich eine geeignete Stellenanzeige gefunden und sie genauer gelesen.",
+      "english": "I found a suitable job advertisement on the internet and read it more closely.",
+      "russian": "В интернете я нашла подходящее объявление о вакансии и прочитала его более внимательно.",
+      "farsi": "من در اینترنت یک آگهی شغلی مناسب پیدا کردم و آن را دقیق‌تر خواندم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Danach habe ich einen Bewerbungsbrief geschrieben und ich habe meinen Lebenslauf noch einmal aktualisiert und verbessert.",
+      "english": "After that, I wrote an application letter and updated and improved my resume once again.",
+      "russian": "После этого я написала сопроводительное письмо и еще раз обновила и улучшила свое резюме.",
+      "farsi": "بعد از آن، من یک نامه درخواست نوشتم و دوباره رزومه‌ام را به‌روز و بهبود بخشیدم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich musste alle meine Zeugnisse scannen, denn die Firma wollte eine Online-Bewerbung.",
+      "english": "I had to scan all my certificates because the company wanted an online application.",
+      "russian": "Мне нужно было отсканировать все мои документы, так как компания требовала онлайн-заявку.",
+      "farsi": "من مجبور بودم تمام گواهی‌نامه‌هایم را اسکن کنم، زیرا شرکت درخواست آنلاین می‌خواست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Schließlich habe ich alle Unterlagen abgeschickt.",
+      "english": "Finally, I sent all the documents.",
+      "russian": "В конце концов, я отправила все документы.",
+      "farsi": "سرانجام، من تمام مدارک را ارسال کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie lange hat es dann bis zur Einladung zum Bewerbungsgespräch gedauert?",
+      "english": "How long did it take until the invitation to the interview?",
+      "russian": "Сколько времени прошло до приглашения на собеседование?",
+      "farsi": "چقدر طول کشید تا دعوت‌نامه برای مصاحبه را دریافت کنم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ungefähr drei Wochen.",
+      "english": "About three weeks.",
+      "russian": "Примерно три недели.",
+      "farsi": "حدود سه هفته."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich hatte dann noch zehn Tage Zeit für die Vorbereitung auf das Bewerbungsgespräch.",
+      "english": "I then had ten more days to prepare for the interview.",
+      "russian": "У меня было еще десять дней для подготовки к собеседованию.",
+      "farsi": "سپس ده روز دیگر برای آماده شدن برای مصاحبه داشتم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe mich über die Firma informiert und mit meinem Mann das Bewerbungsgespräch geübt.",
+      "english": "I informed myself about the company and practiced the interview with my husband.",
+      "russian": "Я ознакомилась с компанией и репетировала собеседование с мужем.",
+      "farsi": "من درباره شرکت اطلاعاتی کسب کردم و مصاحبه را با شوهرم تمرین کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Trotzdem war ich vor dem Bewerbungsgespräch ziemlich nervös.",
+      "english": "Nevertheless, I was quite nervous before the interview.",
+      "russian": "Тем не менее, я была довольно нервной перед собеседованием.",
+      "farsi": "با این حال، قبل از مصاحبه کمی عصبی بودم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und das Bewerbungsgespräch war dann erfolgreich.",
+      "english": "And the interview was successful.",
+      "russian": "И собеседование прошло успешно.",
+      "farsi": "و مصاحبه موفقیت‌آمیز بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, es ist gut gelaufen.",
+      "english": "Yes, it went well.",
+      "russian": "Да, все прошло хорошо.",
+      "farsi": "بله، خوب پیش رفت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Eine Woche nach dem Gespräch habe ich eine Zusage bekommen und den Arbeitsvertrag unterschrieben.",
+      "english": "A week after the interview, I received an offer and signed the contract.",
+      "russian": "Через неделю после собеседования я получила предложение и подписала контракт.",
+      "farsi": "یک هفته پس از مصاحبه، من پیشنهاد گرفتم و قرارداد را امضا کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Perfekt, das ist also alles gut gelaufen.",
+      "english": "Perfect, so everything went well.",
+      "russian": "Отлично, значит, все прошло хорошо.",
+      "farsi": "عالی، پس همه چیز خوب پیش رفت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich möchte gerne noch einmal genauer über das Bewerbungsschreiben sprechen.",
+      "english": "I would like to talk again more specifically about the application letter.",
+      "russian": "Я бы хотела еще раз более подробно поговорить о сопроводительном письме.",
+      "farsi": "می‌خواهم دوباره درباره نامه درخواست به‌طور خاص صحبت کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Schatz, bist du sicher, dass die Krawatte zu dem Anzug passt?",
+      "english": "Honey, are you sure the tie matches the suit?",
+      "russian": "Дорогой, ты уверен, что галстук подходит к костюму?",
+      "farsi": "عزیزم، آیا مطمئنی که کراوات با کت و شلوار هماهنگ است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber natürlich.",
+      "english": "Of course.",
+      "russian": "Конечно.",
+      "farsi": "البته."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Du weißt doch, dass ich immer die richtigen Krawatten kaufe, damit du gut aussiehst!",
+      "english": "You know I always buy the right ties so you look good!",
+      "russian": "Ты же знаешь, что я всегда покупаю подходящие галстуки, чтобы ты хорошо выглядела!",
+      "farsi": "تو می‌دانی که من همیشه کراوات‌های درست را می‌خرم تا تو خوب به نظر برسی!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bin ich nervös!",
+      "english": "Am I nervous!",
+      "russian": "Я нервничаю!",
+      "farsi": "من عصبی هستم!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was meinst du, war ich wirklich gut, als wir gestern das Bewerbungsgespräch geübt haben?",
+      "english": "What do you think, was I really good when we practiced the interview yesterday?",
+      "russian": "Как ты думаешь, я действительно была хороша, когда мы вчера репетировали собеседование?",
+      "farsi": "به نظر تو، آیا من واقعاً خوب بودم وقتی که دیروز مصاحبه را تمرین کردیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber ja! Du weißt über die Firma gut Bescheid.",
+      "english": "Of course! You know a lot about the company.",
+      "russian": "Конечно! Ты хорошо знаешь о компании.",
+      "farsi": "البته! تو اطلاعات خوبی درباره شرکت داری."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das zeigt, dass du gut vorbereitet bist.",
+      "english": "That shows you are well prepared.",
+      "russian": "Это показывает, что ты хорошо подготовлена.",
+      "farsi": "این نشان می‌دهد که تو به‌خوبی آماده‌ای."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und du wirkst sehr sicher, wenn du die Frage beantwortest, was du besonders gut kannst.",
+      "english": "And you seem very confident when you answer the question about what you can do well.",
+      "russian": "И ты выглядишь очень уверенно, когда отвечаешь на вопрос, что ты умеешь делать особенно хорошо.",
+      "farsi": "و تو خیلی با اعتماد به نفس به سوالی که می‌پرسی چه چیزی را به خوبی می‌کنی، پاسخ می‌دهی."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Du hast deine Stärken gut analysiert.",
+      "english": "You have analyzed your strengths well.",
+      "russian": "Ты хорошо проанализировала свои сильные стороны.",
+      "farsi": "تو نقاط قوت خود را به‌خوبی تحلیل کرده‌ای."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hach, wo ist denn jetzt der Einladungsbrief?",
+      "english": "Oh, where is the invitation letter now?",
+      "russian": "Ах, где же теперь приглашение?",
+      "farsi": "آه، حالا نامه دعوت کجاست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich will ihn am Empfang zeigen! Er war doch gerade noch hier auf dem Tisch!",
+      "english": "I want to show it at the reception! It was just here on the table!",
+      "russian": "Я хочу показать его на ресепшен! Он же только что был здесь на столе!",
+      "farsi": "من می‌خواهم آن را در پذیرش نشان دهم! آن که همین الان اینجا روی میز بود!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Entschuldige, ich habe ihn schon in deine Tasche getan, damit du ihn nicht vergisst.",
+      "english": "Sorry, I already put it in your bag so you wouldn't forget it.",
+      "russian": "Извини, я уже положила его в твою сумку, чтобы ты не забыла.",
+      "farsi": "ببخشید، من آن را قبلاً در کیفت گذاشتم تا فراموش نکنی."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dann ist ja gut! Hast du das Taxi schon bestellt?",
+      "english": "Then that's good! Have you already ordered the taxi?",
+      "russian": "Тогда хорошо! Ты уже заказала такси?",
+      "farsi": "پس خوب است! آیا تاکسی را قبلاً سفارش داده‌ای؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich will nicht zu spät kommen.",
+      "english": "I don't want to be late.",
+      "russian": "Я не хочу опоздать.",
+      "farsi": "من نمی‌خواهم دیر برسم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, es kommt gleich.",
+      "english": "Yes, it’s coming soon.",
+      "russian": "Да, оно скоро будет.",
+      "farsi": "بله، آن به زودی می‌آید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Rufst du mich an, wenn das Gespräch zu Ende ist?",
+      "english": "Will you call me when the conversation is over?",
+      "russian": "Ты позвонишь мне, когда разговор закончится?",
+      "farsi": "آیا وقتی مکالمه تمام شد، به من زنگ می‌زنی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, natürlich. Also dann, Tschüss!",
+      "english": "Yes, of course. So then, bye!",
+      "russian": "Да, конечно. Ну тогда, пока!",
+      "farsi": "بله، البته. پس خداحافظ!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Tschüss, viel Glück!",
+      "english": "Bye, good luck!",
+      "russian": "Пока, удачи!",
+      "farsi": "خداحافظ، موفق باشی!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat im Internet eine passende Stelle gefunden.",
+      "english": "He found a suitable position on the internet.",
+      "russian": "Он нашел подходящую вакансию в интернете.",
+      "farsi": "او در اینترنت یک شغل مناسب پیدا کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dann hat er einen Bewerbungsbrief geschrieben.",
+      "english": "Then he wrote an application letter.",
+      "russian": "Затем он написал сопроводительное письмо.",
+      "farsi": "سپس او یک نامه درخواست نوشت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat seinen Lebenslauf aktualisiert und seine Zeugnisse eingescannt.",
+      "english": "He updated his resume and scanned his certificates.",
+      "russian": "Он обновил свое резюме и отсканировал свои документы.",
+      "farsi": "او رزومه‌اش را به‌روز کرد و گواهی‌نامه‌هایش را اسکن کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Firma hat ihn zum Bewerbungsgespräch eingeladen.",
+      "english": "The company invited him for an interview.",
+      "russian": "Компания пригласила его на собеседование.",
+      "farsi": "شرکت او را به مصاحبه دعوت کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat sich gut auf das Gespräch vorbereitet.",
+      "english": "He prepared well for the conversation.",
+      "russian": "Он хорошо подготовился к разговору.",
+      "farsi": "او به‌خوبی برای مکالمه آماده شد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat sich über die Firma informiert und seine Stärken analysiert.",
+      "english": "He informed himself about the company and analyzed his strengths.",
+      "russian": "Он ознакомился с компанией и проанализировал свои сильные стороны.",
+      "farsi": "او با شرکت آشنا شد و نقاط قوت خود را تحلیل کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Trotzdem war er vor dem Gespräch etwas nervös.",
+      "english": "Nevertheless, he was a bit nervous before the conversation.",
+      "russian": "Тем не менее, он был немного нервным перед разговором.",
+      "farsi": "با این حال، او قبل از مکالمه کمی عصبی بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das ist super. Genau richtig.",
+      "english": "That's great. Just right.",
+      "russian": "Это супер. Совсем правильно.",
+      "farsi": "این عالی است. دقیقاً درست است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "So siehst du viel besser aus als mit dem schwarzen Kostüm und mit den hohen Schuhen.",
+      "english": "You look much better than with the black suit and high heels.",
+      "russian": "Ты выглядишь намного лучше, чем в черном костюме и на высоких каблуках.",
+      "farsi": "تو خیلی بهتر از زمانی که با کت و شلوار سیاه و کفش‌های پاشنه‌بلند هستی، به نظر می‌رسی."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das war zu elegant.",
+      "english": "That was too elegant.",
+      "russian": "Это было слишком элегантно.",
+      "farsi": "این خیلی با شکوه بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Jetzt zeigst du, wie du bist.",
+      "english": "Now you show who you are.",
+      "russian": "Теперь ты показываешь, кто ты есть.",
+      "farsi": "حالا تو نشان می‌دهی که کی هستی."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ist das wirklich angemessen für ein Bewerbungsgespräch?",
+      "english": "Is that really appropriate for a job interview?",
+      "russian": "Это действительно подходит для собеседования?",
+      "farsi": "آیا این واقعاً برای یک مصاحبه شغلی مناسب است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, klar.",
+      "english": "Yes, of course.",
+      "russian": "Да, конечно.",
+      "farsi": "بله، البته."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das macht einen gepflegten Eindruck, ist aber nicht langweilig.",
+      "english": "It makes a neat impression but is not boring.",
+      "russian": "Это производит аккуратное впечатление, но не скучное.",
+      "farsi": "این تأثیر مرتبی دارد، اما خسته‌کننده نیست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das passt perfekt! Danke, Friederike.",
+      "english": "That fits perfectly! Thank you, Friederike.",
+      "russian": "Это идеально подходит! Спасибо, Фридерике.",
+      "farsi": "این کاملاً مناسب است! متشکرم، فریدریکه."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Du bist wirklich die beste Tante der Welt! Hast du sonst noch einen Tipp?",
+      "english": "You are truly the best aunt in the world! Do you have any other tips?",
+      "russian": "Ты действительно лучшая тетя на свете! У тебя есть другие советы?",
+      "farsi": "تو واقعاً بهترین عمه در دنیا هستی! آیا نکته دیگری داری؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Na ja. Du darfst natürlich nicht unhöflich sein.",
+      "english": "Well, you must not be rude, of course.",
+      "russian": "Ну, ты, конечно, не должна быть грубой.",
+      "farsi": "خب، البته که نباید بی‌ادب باشی."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin nie unhöflich!",
+      "english": "I am never rude!",
+      "russian": "Я никогда не бываю грубой!",
+      "farsi": "من هرگز بی‌ادب نیستم!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sei einfach zu allen Leuten, die du in der Firma triffst, besonders freundlich.",
+      "english": "Just be especially friendly to everyone you meet in the company.",
+      "russian": "Просто будьте особенно дружелюбны ко всем, кого встретите в компании.",
+      "farsi": "فقط به همه افرادی که در شرکت ملاقات می‌کنی، به‌ویژه دوستانه باش."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Außerdem ist es wichtig, nicht ohne Pause zu reden, sondern gut zuzuhören.",
+      "english": "Moreover, it is important not to speak without pause but to listen well.",
+      "russian": "Кроме того, важно не говорить без остановки, а хорошо слушать.",
+      "farsi": "علاوه بر این، مهم است که بدون وقفه صحبت نکنید، بلکه خوب گوش دهید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Zeig den Leuten, dass du interessiert und engagiert bist!",
+      "english": "Show people that you are interested and engaged!",
+      "russian": "Покажи людям, что ты заинтересована и вовлечена!",
+      "farsi": "به مردم نشان بده که علاقه‌مند و متعهد هستی!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und du solltest alles tun, um nicht zu spät zu kommen.",
+      "english": "And you should do everything to avoid being late.",
+      "russian": "И тебе следует сделать все, чтобы не опоздать.",
+      "farsi": "و باید همه کارها را انجام دهی تا دیر نرسی."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin natürlich pünktlich.",
+      "english": "I am, of course, punctual.",
+      "russian": "Я, конечно, пунктуальна.",
+      "farsi": "من البته دقیق هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das ist ja wohl klar!",
+      "english": "That is, of course, clear!",
+      "russian": "Это, конечно, понятно!",
+      "farsi": "این البته واضح است!"
+    }
+  ]
+}

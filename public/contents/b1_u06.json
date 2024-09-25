@@ -1,0 +1,873 @@
+{
+  "info": {
+    "name": "B1U06",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Liebe Hörerinnen und Hörer, haben Sie schon einmal überlegt, was ist Ihnen im Leben wichtig oder unwichtig ist?",
+      "english": "Dear listeners, have you ever thought about what is important or unimportant to you in life?",
+      "russian": "Дорогие слушатели, вы когда-нибудь задумывались о том, что для вас важно или неважно в жизни?",
+      "farsi": "شنوندگان عزیز، آیا شما تا به حال فکر کرده‌اید که چه چیزی در زندگی برای شما مهم یا بی‌اهمیت است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ist es Ihnen zum Beispiel wichtig, viel Geld auf Ihrem Bankkonto zu haben?",
+      "english": "Is it important for you to have a lot of money in your bank account?",
+      "russian": "Вам важно иметь много денег на своем банковском счете?",
+      "farsi": "آیا برای شما مهم است که پول زیادی در حساب بانکی خود داشته باشید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ist es Ihnen wichtig, dass Ihre Fußballmannschaft am Samstag gewinnt?",
+      "english": "Is it important for you that your football team wins on Saturday?",
+      "russian": "Для вас важно, чтобы ваша футбольная команда выиграла в субботу?",
+      "farsi": "آیا برای شما مهم است که تیم فوتبال شما روز شنبه برنده شود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ist es Ihnen wichtig, was andere Menschen über Sie denken?",
+      "english": "Is it important for you what other people think of you?",
+      "russian": "Вам важно, что думают о вас другие люди?",
+      "farsi": "آیا برای شما مهم است که دیگران درباره شما چه فکر می‌کنند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben nachgefragt.",
+      "english": "We asked around.",
+      "russian": "Мы провели опрос.",
+      "farsi": "ما از مردم پرسیدیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hören Sie also, was Menschen uns auf der Straße ganz spontan auf die Frage, was ihnen im Leben wichtig ist, geantwortet haben.",
+      "english": "So listen to what people spontaneously answered us on the street when we asked them what is important to them in life.",
+      "russian": "Слушайте, что люди спонтанно отвечали нам на улице на вопрос, что для них важно в жизни.",
+      "farsi": "پس به آنچه مردم به طور خودجوش به ما در خیابان پاسخ دادند گوش دهید که چه چیزی در زندگی برایشان مهم است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein Name ist Nadra.",
+      "english": "My name is Nadra.",
+      "russian": "Меня зовут Надра.",
+      "farsi": "نام من نادرا است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin 14 Jahre alt.",
+      "english": "I am 14 years old.",
+      "russian": "Мне 14 лет.",
+      "farsi": "من 14 ساله هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Wichtigste für mich in meinem Leben ist meine Familie, die ich über alles liebe.",
+      "english": "The most important thing for me in my life is my family, whom I love above all.",
+      "russian": "Самое важное в моей жизни — это моя семья, которую я люблю больше всего.",
+      "farsi": "مهم‌ترین چیز در زندگی من خانواده‌ام است که بیش از همه آنها را دوست دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Meine Freunde sind auch sehr wichtig.",
+      "english": "My friends are also very important.",
+      "russian": "Мои друзья тоже очень важны.",
+      "farsi": "دوستان من نیز بسیار مهم هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und eine gute Schulausbildung ist mir natürlich auch wichtig, auch wenn ich nicht die beste Schülerin bin.",
+      "english": "And a good school education is of course important to me, even though I am not the best student.",
+      "russian": "И хорошее школьное образование, конечно, для меня важно, даже если я не лучший ученик.",
+      "farsi": "و البته یک آموزش خوب در مدرسه برای من هم مهم است، حتی اگر من بهترین دانش‌آموز نباشم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich möchte unbedingt einen guten Realschulabschluss machen, damit ich später den Beruf lernen kann, den ich möchte!",
+      "english": "I definitely want to get a good secondary school diploma so that I can later learn the profession I want!",
+      "russian": "Я обязательно хочу получить хороший аттестат, чтобы позже изучить профессию, которую хочу!",
+      "farsi": "من قطعاً می‌خواهم یک دیپلم خوب در مقطع متوسطه بگیرم تا بعداً بتوانم شغلی را که می‌خواهم یاد بگیرم!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich heiße Carlos Andrade.",
+      "english": "My name is Carlos Andrade.",
+      "russian": "Меня зовут Карлос Андраде.",
+      "farsi": "نام من کارلوس آندrade است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin 18 und mache diesen Sommer Abitur.",
+      "english": "I am 18 and will graduate from high school this summer.",
+      "russian": "Мне 18, и этим летом я заканчиваю школу.",
+      "farsi": "من 18 ساله هستم و تابستان امسال دیپلم می‌گیرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im Leben ist mir wichtig, dass ich Freunde habe, auf die ich zählen kann.",
+      "english": "In life, it is important for me to have friends I can count on.",
+      "russian": "В жизни для меня важно иметь друзей, на которых я могу положиться.",
+      "farsi": "در زندگی برای من مهم است که دوستانی داشته باشم که بتوانم به آنها تکیه کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn es mir schlecht geht, sind meine Freunde für mich da.",
+      "english": "When I feel bad, my friends are there for me.",
+      "russian": "Когда мне плохо, мои друзья рядом со мной.",
+      "farsi": "وقتی حال من بد است، دوستانم برای من هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und ich will auch Spaß haben und das Leben genießen.",
+      "english": "And I also want to have fun and enjoy life.",
+      "russian": "И я также хочу развлекаться и наслаждаться жизнью.",
+      "farsi": "و من همچنین می‌خواهم خوش بگذرانم و از زندگی لذت ببرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin Karina Lau. Ich bin 22 Jahre alt und Studentin.",
+      "english": "I am Karina Lau. I am 22 years old and a student.",
+      "russian": "Меня зовут Карина Лау. Мне 22 года, и я студентка.",
+      "farsi": "من کارینا لاو هستم. من 22 ساله و دانشجو هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Meiner Meinung nach ändern sich die Dinge, die einem am wichtigsten sind, ständig.",
+      "english": "In my opinion, the things that are most important to someone change constantly.",
+      "russian": "На мой взгляд, вещи, которые имеют наибольшее значение, постоянно меняются.",
+      "farsi": "به نظر من، چیزهایی که برای کسی از همه مهم‌تر هستند، دائماً تغییر می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Für mich gibt es aber drei Dinge, die sehr wichtig sind und mir sicher auch immer wichtig bleiben:",
+      "english": "However, there are three things that are very important to me and will surely always remain important:",
+      "russian": "Но для меня есть три вещи, которые очень важны и, безусловно, всегда будут важны:",
+      "farsi": "اما برای من سه چیز وجود دارد که بسیار مهم است و مطمئناً همیشه مهم خواهد ماند:"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das ist ´persönliche Freiheit´, also, dass ich selbst entscheiden kann, wie ich lebe, was ich tue und woran ich glaube.",
+      "english": "That is 'personal freedom', meaning that I can decide for myself how I live, what I do, and what I believe in.",
+      "russian": "Это 'личная свобода', то есть я могу сам решать, как жить, что делать и во что верить.",
+      "farsi": "این 'آزادی شخصی' است، به این معنا که می‌توانم خودم تصمیم بگیرم که چگونه زندگی کنم، چه کار کنم و به چه چیزی ایمان داشته باشم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dann 'neue Dinge lernen' und natürlich die Liebe.",
+      "english": "Then 'learning new things' and of course love.",
+      "russian": "Затем 'учить новые вещи' и, конечно же, любовь.",
+      "farsi": "سپس 'یادگیری چیزهای جدید' و البته عشق."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein Name ist Ferdinand Suter.",
+      "english": "My name is Ferdinand Suter.",
+      "russian": "Меня зовут Фердинанд Сутер.",
+      "farsi": "نام من فردیناند سوتر است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin 28 Jahre alt und Maschinenbauer.",
+      "english": "I am 28 years old and a mechanical engineer.",
+      "russian": "Мне 28 лет, и я машиностроитель.",
+      "farsi": "من 28 ساله هستم و مهندس مکانیک هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Zurzeit ist mir Erfolg im Beruf sehr wichtig.",
+      "english": "Currently, success in my profession is very important to me.",
+      "russian": "В данный момент успех в профессии для меня очень важен.",
+      "farsi": "در حال حاضر موفقیت در شغل برای من بسیار مهم است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich will viel Geld verdienen, um eine Eigentumswohnung kaufen zu können.",
+      "english": "I want to earn a lot of money in order to buy a condominium.",
+      "russian": "Я хочу много зарабатывать, чтобы купить квартиру.",
+      "farsi": "من می‌خواهم پول زیادی به دست آورم تا بتوانم یک آپارتمان بخرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In ein paar Jahren habe ich aber vielleicht andere Wünsche, wer weiß.",
+      "english": "In a few years, I might have different wishes, who knows.",
+      "russian": "Через несколько лет у меня могут быть другие желания, кто знает.",
+      "farsi": "در چند سال آینده ممکن است خواسته‌های دیگری داشته باشم، چه کسی می‌داند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Alina und Lukas, ihr habt ja beide bald Geburtstag.",
+      "english": "Alina and Lukas, both of you have a birthday coming up soon.",
+      "russian": "Алина и Лукас, у вас обоих скоро день рождения.",
+      "farsi": "آلینا و لوکاس، شما هر دو به زودی تولد دارید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was wünscht ihr euch denn?",
+      "english": "What do you wish for?",
+      "russian": "Что вы себе желаете?",
+      "farsi": "چه آرزویی دارید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Also, ich wünsche mir einen Fußball und ich hätte auch gern neue Fußballschuhe.",
+      "english": "Well, I wish for a football, and I would also like new football shoes.",
+      "russian": "Итак, я хочу футбол и также хотел бы новые футбольные ботинки.",
+      "farsi": "خب، من یک توپ فوتبال می‌خواهم و همچنین می‌خواهم کفش‌های فوتبال جدیدی داشته باشم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und ich wünsche mir ein Smartphone zum Geburtstag.",
+      "english": "And I wish for a smartphone for my birthday.",
+      "russian": "И я хочу смартфон на день рождения.",
+      "farsi": "و من یک گوشی هوشمند برای تولدم می‌خواهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ein Smartphone? Smartphones sind aber ziemlich teuer.",
+      "english": "A smartphone? But smartphones are quite expensive.",
+      "russian": "Смартфон? Но смартфоны довольно дорогие.",
+      "farsi": "یک گوشی هوشمند؟ اما گوشی‌های هوشمند نسبتاً گران هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich weiß, aber alle meine Freunde haben ein Smartphone.",
+      "english": "I know, but all my friends have a smartphone.",
+      "russian": "Я знаю, но все мои друзья имеют смартфон.",
+      "farsi": "می‌دانم، اما همه دوستانم یک گوشی هوشمند دارند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dann brauchst du einen Vertrag mit Internet.",
+      "english": "Then you need a contract with internet.",
+      "russian": "Тогда вам нужен контракт с интернетом.",
+      "farsi": "پس تو به یک قرارداد اینترنتی نیاز داری."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das können wir uns nicht leisten.",
+      "english": "We can't afford that.",
+      "russian": "Мы не можем себе это позволить.",
+      "farsi": "ما نمی‌توانیم هزینه آن را بپردازیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es gibt aber auch günstige Tarife für Jugendliche.",
+      "english": "But there are also cheap tariffs for young people.",
+      "russian": "Но есть также недорогие тарифы для молодежи.",
+      "farsi": "اما همچنین تعرفه‌های ارزانی برای جوانان وجود دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Du hast doch etwas Geld gespart, oder?",
+      "english": "You've saved some money, right?",
+      "russian": "Ты же немного денег сэкономил, да?",
+      "farsi": "تو کمی پول پس‌انداز کرده‌ای، درست است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Du könntest dir das Smartphone selbst kaufen und wir könnten die Gebühren für das Smartphone im ersten Jahr bezahlen.",
+      "english": "You could buy the smartphone yourself, and we could pay the fees for the smartphone in the first year.",
+      "russian": "Ты мог бы купить смартфон сам, а мы могли бы оплатить сборы за смартфон в первый год.",
+      "farsi": "شما می‌توانید گوشی هوشمند را خودتان بخرید و ما می‌توانیم هزینه‌های گوشی هوشمند را در سال اول بپردازیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was meinst du?",
+      "english": "What do you think?",
+      "russian": "Что ты об этом думаешь?",
+      "farsi": "نظرت چیست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das wäre toll. Vielen Dank.",
+      "english": "That would be great. Thank you very much.",
+      "russian": "Это было бы здорово. Большое спасибо.",
+      "farsi": "این عالی خواهد بود. بسیار متشکرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Verbraucherschutzzentrale Hannover, hier spricht Jasmin Baumann.",
+      "english": "Consumer Protection Center Hannover, this is Jasmin Baumann speaking.",
+      "russian": "Центр защиты прав потребителей Ганновер, говорит Ясмин Бауман.",
+      "farsi": "مرکز حمایت از مصرف‌کنندگان هانوفر، من یاسمن بومان صحبت می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Guten Tag. Mein Name ist Karsten Decker.",
+      "english": "Good day. My name is Karsten Decker.",
+      "russian": "Добрый день. Меня зовут Карстен Деккер.",
+      "farsi": "روز بخیر. نام من کارستن دکر است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich rufe an, weil ich eine Frage habe.",
+      "english": "I am calling because I have a question.",
+      "russian": "Я звоню, потому что у меня есть вопрос.",
+      "farsi": "من تماس می‌زنم چون سوالی دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, bitte.",
+      "english": "Yes, please.",
+      "russian": "Да, пожалуйста.",
+      "farsi": "بله، لطفاً."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vor zwei Tagen habe ich in der Buchhandlung Sturz ein Sprachlernprogramm für Englisch mit einer CD-ROM gekauft.",
+      "english": "Two days ago, I bought a language learning program for English with a CD-ROM at the Sturz bookstore.",
+      "russian": "Два дня назад я купил языковую программу для изучения английского с CD-ROM в книжном магазине Sturz.",
+      "farsi": "دو روز پیش من یک برنامه یادگیری زبان برای زبان انگلیسی با یک CD-ROM در کتابفروشی استورز خریدم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber dann hat mir ein Freund gesagt, dass er das Sprachlernprogramm auch hat und es mir leihen kann.",
+      "english": "But then a friend told me that he has the language learning program too and can lend it to me.",
+      "russian": "Но потом друг сказал мне, что у него тоже есть эта языковая программа, и он может одолжить ее мне.",
+      "farsi": "اما بعداً دوستی به من گفت که او نیز برنامه یادگیری زبان را دارد و می‌تواند آن را به من قرض بدهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Deshalb wollte ich es zurückgeben.",
+      "english": "That's why I wanted to return it.",
+      "russian": "Поэтому я хотел его вернуть.",
+      "farsi": "بنابراین می‌خواستم آن را برگردانم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich nehme an, die Buchhandlung hat die CD-ROM nicht zurückgenommen.",
+      "english": "I assume the bookstore did not take back the CD-ROM.",
+      "russian": "Я предполагаю, что книжный магазин не принял обратно CD-ROM.",
+      "farsi": "من فرض می‌کنم که کتابفروشی CD-ROM را پس نگرفته است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Richtig. Der Buchhändler hat mir gesagt, dass sie keine CD-ROMs zurücknehmen.",
+      "english": "Correct. The bookseller told me that they do not accept CD-ROMs back.",
+      "russian": "Правильно. Книжный продавец сказал мне, что они не принимают CD-ROM обратно.",
+      "farsi": "درست است. کتابفروش به من گفت که آنها CD-ROM را پس نمی‌گیرند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mich wundert das, denn vor einiger Zeit habe ich dort ein Buch zurückgegeben und einen Gutschein bekommen.",
+      "english": "I find that surprising because some time ago I returned a book there and received a voucher.",
+      "russian": "Меня это удивляет, потому что некоторое время назад я вернул книгу и получил voucher.",
+      "farsi": "این برای من تعجب‌آور است چون مدتی پیش من در آنجا کتابی را پس دادم و یک کوپن دریافت کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mich interessiert, wie die Regeln für den Umtausch sind.",
+      "english": "I am interested in what the rules for exchanges are.",
+      "russian": "Меня интересует, какие правила обмена.",
+      "farsi": "من علاقه‌مندم بدانم قوانین برای تعویض چیست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Allgemein ist es so, dass es im Geschäft kein generelles Umtauschrecht gibt.",
+      "english": "In general, there is no general right of exchange in the store.",
+      "russian": "В общем, в магазине нет общего права на обмен.",
+      "farsi": "به طور کلی، در فروشگاه حق عمومی برای تعویض وجود ندارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es gilt die Regel, gekauft ist gekauft.",
+      "english": "The rule is: what you buy is bought.",
+      "russian": "Существует правило: что купил, то купил.",
+      "farsi": "قانون این است: آنچه خریدید، خریداری شده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn die Buchhandlung in der Vergangenheit Bücher zurückgenommen hat, dann hat sie sich kulant gezeigt.",
+      "english": "If the bookstore has taken back books in the past, it has shown leniency.",
+      "russian": "Если книжный магазин в прошлом принимал книги обратно, он проявил снисходительность.",
+      "farsi": "اگر کتابفروشی در گذشته کتاب‌هایی را پس گرفته باشد، نشان‌دهنده تساهل بوده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kulant? Was meinen Sie damit?",
+      "english": "Lenient? What do you mean by that?",
+      "russian": "Снисходительный? Что вы имеете в виду?",
+      "farsi": "تساهل؟ منظور شما از این چیست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das heißt, die Buchhandlung muss die Bücher nicht zurücknehmen, aber sie hat es gemacht, weil sie kundenfreundlich sein möchte.",
+      "english": "That means the bookstore does not have to take the books back, but it did so because it wants to be customer-friendly.",
+      "russian": "Это означает, что книжный магазин не обязан принимать книги обратно, но он это делает, потому что хочет быть дружелюбным к клиентам.",
+      "farsi": "این بدان معناست که کتابفروشی نیازی به پس‌گیری کتاب‌ها ندارد، اما این کار را انجام می‌دهد چون می‌خواهد مشتری‌مدار باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Allerdings nehmen die meisten Geschäfte Software - also zum Beispiel Computerspiele oder CD-ROMS nicht zurück, denn man kann sie schnell auf den eigenen Computer kopieren.",
+      "english": "However, most stores do not take back software - such as computer games or CD-ROMs - because you can quickly copy them to your own computer.",
+      "russian": "Однако большинство магазинов не принимают обратно программное обеспечение - например, компьютерные игры или CD-ROM, потому что их можно быстро скопировать на свой компьютер.",
+      "farsi": "با این حال، بیشتر فروشگاه‌ها نرم‌افزارها، مانند بازی‌های کامپیوتری یا CD-ROM ها را پس نمی‌گیرند، زیرا می‌توان آنها را به سرعت روی کامپیوتر خود کپی کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ah ja. Vielen Dank für die Informationen.",
+      "english": "Ah yes. Thank you very much for the information.",
+      "russian": "А, да. Большое спасибо за информацию.",
+      "farsi": "آه بله. بسیار متشکرم برای اطلاعات."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Auf Wiederhören.",
+      "english": "Goodbye.",
+      "russian": "До свидания.",
+      "farsi": "خداحافظ."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Verbraucherzentrale Wiesbaden. Florian Niemeyer am Apparat.",
+      "english": "Consumer Center Wiesbaden. Florian Niemeyer on the line.",
+      "russian": "Центр защиты прав потребителей Висбаден. На линии Флориан Ниемайер.",
+      "farsi": "مرکز حمایت از مصرف‌کنندگان ویسبادن. فلوریان نیماير در خط است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Guten Tag, ich heiße Marco Baldini.",
+      "english": "Good day, my name is Marco Baldini.",
+      "russian": "Добрый день, меня зовут Марко Балдини.",
+      "farsi": "روز بخیر، نام من مارکو بالدینی است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich rufe an, weil ich ein großes Problem habe.",
+      "english": "I am calling because I have a big problem.",
+      "russian": "Я звоню, потому что у меня большая проблема.",
+      "farsi": "من تماس می‌زنم چون مشکل بزرگی دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dann erzählen Sie doch mal.",
+      "english": "Then tell me more.",
+      "russian": "Тогда расскажите подробнее.",
+      "farsi": "پس بیشتر بگویید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vor vier Tagen hat ein Mann bei mir zu Hause geklingelt und mir einen Vertrag für einen neuen Telefonanschluss angeboten.",
+      "english": "Four days ago, a man rang my doorbell at home and offered me a contract for a new telephone connection.",
+      "russian": "Четыре дня назад ко мне домой пришел мужчина и предложил контракт на новое телефонное соединение.",
+      "farsi": "چهار روز پیش، یک مرد به خانه‌ام آمد و یک قرارداد برای یک اتصال تلفن جدید به من پیشنهاد داد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe dann den Vertrag unterschrieben, weil ich dachte, dass ich so Geld sparen kann.",
+      "english": "I then signed the contract because I thought I could save money that way.",
+      "russian": "Я тогда подписал контракт, потому что думал, что смогу сэкономить деньги.",
+      "farsi": "من سپس قرارداد را امضا کردم چون فکر کردم اینگونه می‌توانم پول صرفه‌جویی کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Gestern habe ich aber den Vertrag noch einmal genau gelesen und gesehen, dass der neue Telefonanschluss nicht billiger ist als der, den ich jetzt habe.",
+      "english": "But yesterday I read the contract carefully again and saw that the new telephone connection is not cheaper than the one I currently have.",
+      "russian": "Но вчера я снова внимательно прочитал контракт и увидел, что новое телефонное соединение не дешевле, чем то, что у меня сейчас.",
+      "farsi": "اما دیروز قرارداد را دوباره به دقت خواندم و دیدم که اتصال تلفن جدید ارزان‌تر از آنچه که اکنون دارم نیست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie möchten also den Telefonanbieter nicht wechseln?",
+      "english": "So you don't want to change the telephone provider?",
+      "russian": "Так вы не хотите менять телефонного провайдера?",
+      "farsi": "بنابراین شما نمی‌خواهید ارائه‌دهنده تلفن را عوض کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja. Ich möchte bei meinem jetzigen Telefonanbieter bleiben.",
+      "english": "Yes. I want to stay with my current telephone provider.",
+      "russian": "Да. Я хочу остаться у своего нынешнего телефонного провайдера.",
+      "farsi": "بله. من می‌خواهم در ارائه‌دهنده تلفن فعلی خود بمانم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was soll ich machen?",
+      "english": "What should I do?",
+      "russian": "Что мне делать?",
+      "farsi": "من چه کار باید بکنم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe auch unterschrieben, dass ich meinen alten Telefonvertrag kündige.",
+      "english": "I also signed that I am terminating my old telephone contract.",
+      "russian": "Я также подписал, что расторгаю свой старый телефонный контракт.",
+      "farsi": "من همچنین امضا کرده‌ام که قرارداد تلفن قدیمی‌ام را لغو می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Mann war bei Ihnen zu Hause in Ihrer Wohnung und Sie haben den Vertrag auch dort unterschrieben?",
+      "english": "The man was at your home in your apartment and you also signed the contract there?",
+      "russian": "Мужчина был у вас дома в вашей квартире, и вы также подписали контракт там?",
+      "farsi": "آن مرد در خانه شما در آپارتمان شما بود و شما همچنین آنجا قرارداد را امضا کردید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, richtig.",
+      "english": "Yes, that's right.",
+      "russian": "Да, верно.",
+      "farsi": "بله، درست است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Zum Glück habe ich noch nichts bezahlt.",
+      "english": "Fortunately, I haven't paid anything yet.",
+      "russian": "К счастью, я еще ничего не заплатил.",
+      "farsi": "خوشبختانه، من هنوز هیچ چیزی پرداخت نکرده‌ام."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Also, wenn Sie den Vertrag zu Hause unterschrieben haben, ist das ein sogenanntes Haustürgeschäft.",
+      "english": "So, if you signed the contract at home, it is called a door-to-door sale.",
+      "russian": "Итак, если вы подписали контракт дома, это называется сделкой на дому.",
+      "farsi": "پس اگر شما قرارداد را در خانه امضا کرده‌اید، به آن معامله در خانه می‌گویند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie können diesen Vertrag innerhalb von 14 Tagen widerrufen und Sie können Ihren alten Telefonanschluss behalten.",
+      "english": "You can cancel this contract within 14 days and you can keep your old telephone connection.",
+      "russian": "Вы можете отменить этот контракт в течение 14 дней и сохранить свое старое телефонное соединение.",
+      "farsi": "شما می‌توانید این قرارداد را در مدت 14 روز لغو کنید و می‌توانید اتصال تلفن قدیمی خود را حفظ کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber ich weiß nicht, wie das geht.",
+      "english": "But I don’t know how that works.",
+      "russian": "Но я не знаю, как это работает.",
+      "farsi": "اما نمی‌دانم چگونه این کار انجام می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können Sie mir helfen?",
+      "english": "Can you help me?",
+      "russian": "Вы можете мне помочь?",
+      "farsi": "آیا می‌توانید به من کمک کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich schlage vor, dass Sie bei uns persönlich vorbeikommen.",
+      "english": "I suggest that you come to us in person.",
+      "russian": "Я предлагаю вам прийти к нам лично.",
+      "farsi": "من پیشنهاد می‌کنم که به صورت حضوری به ما بیایید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben von Montag bis Freitag immer von 10.00 bis 14.00 Uhr geöffnet.",
+      "english": "We are open from Monday to Friday from 10:00 to 14:00.",
+      "russian": "Мы открыты с понедельника по пятницу с 10:00 до 14:00.",
+      "farsi": "ما از دوشنبه تا جمعه همیشه از ساعت 10:00 تا 14:00 باز هستیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dann komme ich gleich morgen.",
+      "english": "Then I'll come right away tomorrow.",
+      "russian": "Тогда я приду завтра.",
+      "farsi": "پس فردا می‌آیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vielen Dank und auf Wiederhören.",
+      "english": "Thank you very much and goodbye.",
+      "russian": "Большое спасибо и до свидания.",
+      "farsi": "بسیار متشکرم و خداحافظ."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Guten Tag, was kann ich für Sie tun?",
+      "english": "Good day, how can I help you?",
+      "russian": "Добрый день, чем я могу вам помочь?",
+      "farsi": "روز بخیر، چگونه می‌توانم به شما کمک کنم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Guten Tag. Dieses Buch hat mir ein Freund zum Geburtstag geschenkt.",
+      "english": "Good day. This book was a birthday gift from a friend.",
+      "russian": "Добрый день. Эту книгу мне подарил друг на день рождения.",
+      "farsi": "روز بخیر. این کتاب هدیه تولدی از یک دوست به من بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber ich habe es schon.",
+      "english": "But I already have it.",
+      "russian": "Но у меня уже есть эта книга.",
+      "farsi": "اما من آن را دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich würde es deshalb gern umtauschen.",
+      "english": "So I would like to exchange it.",
+      "russian": "Поэтому я хотел бы его обменять.",
+      "farsi": "بنابراین می‌خواهم آن را تعویض کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Haben Sie den Kassenzettel?",
+      "english": "Do you have the receipt?",
+      "russian": "У вас есть чек?",
+      "farsi": "آیا شما رسید دارید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, mein Freund hat ihn mir gegeben.",
+      "english": "Yes, my friend gave it to me.",
+      "russian": "Да, мой друг дал его мне.",
+      "farsi": "بله، دوستم آن را به من داد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bitte sehr. Danke.",
+      "english": "Here you go. Thank you.",
+      "russian": "Пожалуйста. Спасибо.",
+      "farsi": "بفرمایید. متشکرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie können sich ein Buch zum gleichen Preis oder ein Buch, das teurer ist, aussuchen.",
+      "english": "You can choose a book at the same price or a book that is more expensive.",
+      "russian": "Вы можете выбрать книгу той же цены или книгу, которая дороже.",
+      "farsi": "شما می‌توانید کتابی به همان قیمت یا کتابی که گران‌تر است را انتخاب کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dann müssten Sie allerdings die Differenz bezahlen.",
+      "english": "However, you would have to pay the difference.",
+      "russian": "Однако вам нужно будет заплатить разницу.",
+      "farsi": "با این حال، شما باید تفاوت را پرداخت کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das ist kein Problem. Vielen Dank.",
+      "english": "That's not a problem. Thank you very much.",
+      "russian": "Это не проблема. Большое спасибо.",
+      "farsi": "این مشکلی نیست. خیلی ممنون."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hast du flexible Arbeitszeiten?",
+      "english": "Do you have flexible working hours?",
+      "russian": "У вас гибкий график работы?",
+      "farsi": "آیا شما ساعات کاری منعطفی دارید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nein, ich muss immer von 8 bis 16:30 Uhr arbeiten.",
+      "english": "No, I always have to work from 8 to 16:30.",
+      "russian": "Нет, я всегда должен работать с 8 до 16:30.",
+      "farsi": "نه، من همیشه باید از ساعت 8 تا 16:30 کار کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was bedeutet,, vegetarische\" Ernährung?",
+      "english": "What does 'vegetarian' diet mean?",
+      "russian": "Что значит «вегетарианская» диета?",
+      "farsi": "رژیم «گیاهی» یعنی چه؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das heißt, dass man keinen Fisch und kein Fleisch isst.",
+      "english": "That means one does not eat fish or meat.",
+      "russian": "Это значит, что не едят рыбу и мясо.",
+      "farsi": "این به این معنی است که کسی ماهی یا گوشت نمی‌خورد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ist es dir wichtig, gut zu verdienen?",
+      "english": "Is it important for you to earn well?",
+      "russian": "Вам важно хорошо зарабатывать?",
+      "farsi": "آیا برای شما مهم است که خوب درآمد کسب کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, denn ich glaube, man hat weniger Sorgen, wenn man finanzielle Sicherheit hat.",
+      "english": "Yes, because I believe one has fewer worries when one has financial security.",
+      "russian": "Да, потому что я думаю, что у человека меньше забот, когда у него есть финансовая безопасность.",
+      "farsi": "بله، زیرا من معتقدم که وقتی کسی امنیت مالی دارد، نگرانی کمتری دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Haben Sie einen unbefristeten Arbeitsvertrag?",
+      "english": "Do you have a permanent employment contract?",
+      "russian": "У вас есть бессрочный трудовой договор?",
+      "farsi": "آیا شما یک قرارداد کاری دائمی دارید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Leider nicht, ich bin nur bis zum 31.12. angestellt.",
+      "english": "Unfortunately not, I am only employed until December 31.",
+      "russian": "К сожалению, нет, я работаю только до 31 декабря.",
+      "farsi": "متأسفانه نه، من فقط تا 31 دسامبر استخدام هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Welche materiellen Wünsche haben die Deutschen?",
+      "english": "What material wishes do the Germans have?",
+      "russian": "Какие материальные желания есть у немцев?",
+      "farsi": "آلمان‌ها چه آرزوهای مادی دارند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Viele hätten gern ein Haus oder eine eigene Wohnung.",
+      "english": "Many would like to have a house or their own apartment.",
+      "russian": "Многие хотели бы иметь дом или собственную квартиру.",
+      "farsi": "بسیاری از آنها می‌خواهند یک خانه یا آپارتمان خود را داشته باشند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wo kann man sich über das Thema \"Mobilfunkvertrag\" informieren?",
+      "english": "Where can one get information about the topic of 'mobile phone contracts'?",
+      "russian": "Где можно получить информацию о теме «мобильные телефоны»?",
+      "farsi": "کجا می‌توان درباره موضوع «قراردادهای تلفن همراه» اطلاعات کسب کرد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Verbraucherschutzzentrale bietet Beratung zu wichtigen Verbraucherthemen an.",
+      "english": "The consumer protection center offers advice on important consumer topics.",
+      "russian": "Центр защиты прав потребителей предлагает консультации по важным потребительским вопросам.",
+      "farsi": "مرکز حمایت از مصرف‌کنندگان مشاوره‌ای در مورد موضوعات مهم مصرف‌کننده ارائه می‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin Krankenpfleger im Krankenhaus.",
+      "english": "I am a nurse in the hospital.",
+      "russian": "Я медсестра в больнице.",
+      "farsi": "من پرستار در بیمارستان هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich muss oft am Wochenende arbeiten.",
+      "english": "I often have to work on weekends.",
+      "russian": "Я часто должен работать по выходным.",
+      "farsi": "من اغلب باید در تعطیلات کار کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich würde am Wochenende gerne mehr Zeit mit meiner Freundin verbringen.",
+      "english": "I would like to spend more time with my girlfriend on the weekend.",
+      "russian": "Я хотел бы проводить больше времени с девушкой в выходные.",
+      "farsi": "من می‌خواهم آخر هفته زمان بیشتری را با دوست دخترم بگذرانم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn ich dieses Wochenende nicht arbeiten müsste, könnten wir essen gehen.",
+      "english": "If I didn’t have to work this weekend, we could go out to eat.",
+      "russian": "Если бы мне не нужно было работать в эти выходные, мы могли бы поужинать.",
+      "farsi": "اگر این آخر هفته مجبور به کار نبودم، می‌توانستیم بیرون برویم و غذا بخوریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn ich eine andere Stelle finden würde, würde ich sofort kündigen.",
+      "english": "If I found another position, I would resign immediately.",
+      "russian": "Если бы я нашел другое место, я бы сразу уволился.",
+      "farsi": "اگر یک شغل دیگر پیدا می‌کردم، بلافاصله استعفا می‌دادم."
+    }
+  ]
+}

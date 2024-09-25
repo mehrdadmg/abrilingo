@@ -1,0 +1,241 @@
+{
+  "info": {
+    "name": "B1U01",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie aktuelle Statistiken zeigen, lebt aktuell nur noch jeder zweite Deutsche in einer Familie mit Kindern. 1996 waren es mit 57 Prozent noch deutlich mehr.",
+      "english": "As current statistics show, only every second German currently lives in a family with children. In 1996, it was significantly more at 57 percent.",
+      "russian": "Как показывают текущие статистические данные, сейчас только каждый второй немец живет в семье с детьми. В 1996 году этот показатель составлял 57 процентов.",
+      "farsi": "همان‌طور که آمارهای جدید نشان می‌دهند، در حال حاضر تنها هر دومین آلمانی در خانواده‌ای با فرزند زندگی می‌کند. در سال ۱۹۹۶، این عدد به‌طور قابل توجهی بیشتر و برابر با ۵۷ درصد بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Jeder dritte Deutsche lebt in einer Partnerschaft ohne Kinder und jeder fünfte ist alleinstehend, also ohne Partner oder Kinder.",
+      "english": "Every third German lives in a partnership without children, and every fifth is single, meaning without a partner or children.",
+      "russian": "Каждый третий немец живет в партнерстве без детей, и каждый пятый — одинок, то есть без партнера или детей.",
+      "farsi": "هر سومین آلمانی در شراکتی بدون فرزند زندگی می‌کند و هر پنجمین نفر مجرد است، یعنی بدون همسر یا فرزند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bei den Familien mit Kindern ist das „klassische Familienmodell\" - das heißt ein verheiratetes Paar mit ein bis drei Kindern - mit 70 Prozent noch immer am häufigsten. Von zehn Paaren mit Kindern ist nur eins unverheiratet.",
+      "english": "Among families with children, the 'classic family model'—meaning a married couple with one to three children—is still the most common at 70 percent. Only one in ten couples with children is unmarried.",
+      "russian": "Среди семей с детьми классическая семейная модель — это женатая пара с одним-двумя детьми — до сих пор самая распространенная и составляет 70 процентов. Только одна из десяти пар с детьми не состоит в браке.",
+      "farsi": "در بین خانواده‌های دارای فرزند، مدل «خانواده کلاسیک» که به معنای یک زوج متأهل با یک تا سه فرزند است، با ۷۰ درصد هنوز هم رایج‌ترین مدل است. تنها یک از هر ده زوج دارای فرزند، ازدواج نکرده‌اند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Deutlich gestiegen ist in den letzten Jahren die Zahl der Alleinerziehenden.",
+      "english": "The number of single parents has increased significantly in recent years.",
+      "russian": "За последние годы значительно увеличилось количество родителей-одиночек.",
+      "farsi": "در سال‌های اخیر تعداد والدین تنها به‌طور قابل توجهی افزایش یافته است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In jeder fünften Familie erziehen Mutter oder Vater die Kinder allein.",
+      "english": "In one out of every five families, the mother or father raises the children alone.",
+      "russian": "В одной из каждых пяти семей мать или отец воспитывает детей в одиночку.",
+      "farsi": "در یک از هر پنج خانواده، مادر یا پدر به‌تنهایی فرزندان را بزرگ می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Auch sogenannte Patchworkfamilien, also Familien in denen Paare mit ihren Kindern aus früheren Beziehungen zusammenleben, gibt es heute häufiger als früher.",
+      "english": "So-called patchwork families, where couples live together with their children from previous relationships, are also more common today than before.",
+      "russian": "Так называемые «семьи из лоскутков», в которых пары живут со своими детьми от предыдущих браков, сегодня встречаются чаще, чем раньше.",
+      "farsi": "همچنین خانواده‌های موسوم به «پچ‌ورک» که در آن‌ها زوج‌ها با فرزندانشان از روابط قبلی با هم زندگی می‌کنند، امروزه بیشتر از گذشته دیده می‌شوند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sehr selten ist es heutzutage hingegen, dass mehrere Generationen zusammenleben. In nur einem von 100 Haushalten leben Großeltern, Kinder und Enkelkinder zusammen.",
+      "english": "It is, however, very rare nowadays for multiple generations to live together. In only one out of 100 households do grandparents, children, and grandchildren live together.",
+      "russian": "В то же время очень редко сегодня встречаются семьи, где живут несколько поколений вместе. Только в одном из ста домохозяйств вместе живут бабушки, дедушки, дети и внуки.",
+      "farsi": "با این حال، این روزها بسیار نادر است که چندین نسل در یک خانه زندگی کنند. تنها در یکی از هر ۱۰۰ خانه، پدربزرگ‌ها و مادربزرگ‌ها، فرزندان و نوه‌ها با هم زندگی می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Peter. Es ist noch Arbeit da!",
+      "english": "Peter, there is still work to be done!",
+      "russian": "Питер, здесь еще есть работа!",
+      "farsi": "پیتر، هنوز کارهایی هست که باید انجام شود!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was sagst du, Eva? Ich habe gerade bei der Sendung zugehört.",
+      "english": "What did you say, Eva? I was just listening to the show.",
+      "russian": "Что ты сказала, Ева? Я слушал передачу.",
+      "farsi": "چی گفتی، اوا؟ من داشتم برنامه را گوش می‌کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dann mach den Fernseher leiser!",
+      "english": "Then turn down the TV!",
+      "russian": "Тогда сделай телевизор потише!",
+      "farsi": "پس صدای تلویزیون را کم کن!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Okay, was gibt es?",
+      "english": "Okay, what is it?",
+      "russian": "Хорошо, что случилось?",
+      "farsi": "باشه، چی شده؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Du sollst auch mal etwas machen.",
+      "english": "You should also do something.",
+      "russian": "Ты тоже должен что-то сделать.",
+      "farsi": "تو هم باید کاری انجام دهی."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir müssen noch in der Küche den Tisch abräumen, die Spülmaschine aus- und einräumen, die Einkäufe in den Schrank stellen und so weiter.",
+      "english": "We still need to clear the table in the kitchen, unload and load the dishwasher, put the groceries in the cupboard, and so on.",
+      "russian": "Нам нужно убрать со стола на кухне, выгрузить и загрузить посудомоечную машину, поставить продукты в шкаф и так далее.",
+      "farsi": "ما هنوز باید میز آشپزخانه را جمع کنیم، ماشین ظرف‌شویی را خالی و پر کنیم، خریدها را در کابینت بگذاریم و غیره."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber ich habe den ganzen Tag gearbeitet.",
+      "english": "But I worked all day.",
+      "russian": "Но я работал весь день.",
+      "farsi": "اما من تمام روز کار کرده‌ام."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich will mich jetzt ausruhen!",
+      "english": "I want to rest now!",
+      "russian": "Я хочу сейчас отдохнуть!",
+      "farsi": "من الان می‌خواهم استراحت کنم!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich war auch arbeiten, genau wie du! Und danach habe ich gebügelt, die Wäsche aufgehängt, staubgesaugt, den Müll weggebracht und die Kinder aus der Kita abgeholt.",
+      "english": "I worked too, just like you! And afterwards, I ironed, hung up the laundry, vacuumed, took out the trash, and picked up the kids from daycare.",
+      "russian": "Я тоже работала, как и ты! А потом я гладила, развешивала белье, пылесосила, выносила мусор и забирала детей из детского сада.",
+      "farsi": "من هم کار کردم، درست مثل تو! و بعد از آن، لباس‌ها را اتو کردم، رخت‌ها را آویزان کردم، جاروبرقی کشیدم، زباله‌ها را بیرون گذاشتم و بچه‌ها را از مهدکودک برداشتم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Du räumst jetzt die Küche auf, nicht ich! Ich muss noch die Wäsche in den Schrank legen.",
+      "english": "You are cleaning the kitchen now, not me! I still have to put the laundry in the closet.",
+      "russian": "Теперь ты убираешь кухню, а не я! Мне еще нужно разложить белье по шкафам.",
+      "farsi": "حالا تو آشپزخانه را تمیز می‌کنی، نه من! من هنوز باید لباس‌ها را در کمد بگذارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ach Eva, morgen Vormittag habe ich frei.",
+      "english": "Oh Eva, I have the morning off tomorrow.",
+      "russian": "О, Ева, завтра утром я свободен.",
+      "farsi": "اوه اوا، من فردا صبح آزاد هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich kann das auch morgen machen.",
+      "english": "I can do that tomorrow too.",
+      "russian": "Я могу сделать это и завтра.",
+      "farsi": "می‌توانم این کار را هم فردا انجام دهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nein, du machst das bitte jetzt! Morgen Vormittag hast du keine Zeit.",
+      "english": "No, you will do it now! You won't have time tomorrow morning.",
+      "russian": "Нет, ты сделаешь это сейчас! У тебя не будет времени завтра утром.",
+      "farsi": "نه، تو همین حالا انجامش می‌دهی! فردا صبح وقت نداری."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Du musst morgen die Kinder in die Kita bringen und danach noch den Brief an die Bank schreiben und ein Geburtstagsgeschenk für deine Mutter kaufen.",
+      "english": "Tomorrow you have to take the kids to daycare, write a letter to the bank, and buy a birthday present for your mother.",
+      "russian": "Завтра тебе нужно отвезти детей в детский сад, написать письмо в банк и купить подарок на день рождения для своей матери.",
+      "farsi": "فردا باید بچه‌ها را به مهدکودک ببری، نامه‌ای به بانک بنویسی و یک هدیه تولد برای مادرت بخری."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Okay, du hast ja recht.",
+      "english": "Okay, you're right.",
+      "russian": "Ладно, ты права.",
+      "farsi": "باشه، تو درست می‌گویی."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie war alleinerziehend.",
+      "english": "She was a single parent.",
+      "russian": "Она была матерью-одиночкой.",
+      "farsi": "او یک مادر مجرد بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er war auch alleinerziehend.",
+      "english": "He was also a single parent.",
+      "russian": "Он тоже был отцом-одиночкой.",
+      "farsi": "او هم یک پدر مجرد بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie wohnen jetzt zusammen und sind eine Patchworkfamilie.",
+      "english": "They now live together and are a patchwork family.",
+      "russian": "Теперь они живут вместе и являются «семьей из лоскутков».",
+      "farsi": "آن‌ها اکنون با هم زندگی می‌کنند و یک خانواده پچ‌ورک هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie kümmern sich gemeinsam um die Kinder.",
+      "english": "They take care of the children together.",
+      "russian": "Они вместе заботятся о детях.",
+      "farsi": "آن‌ها با هم از بچه‌ها مراقبت می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Am Samstag machen sie den Haushalt: Er bringt den Müll weg und putzt, sie macht die Wäsche.",
+      "english": "On Saturdays, they do the household chores: He takes out the trash and cleans, she does the laundry.",
+      "russian": "По субботам они занимаются домашними делами: он выносит мусор и убирает, она стирает белье.",
+      "farsi": "در روزهای شنبه، آن‌ها کارهای خانه را انجام می‌دهند: او زباله‌ها را بیرون می‌برد و تمیز می‌کند، او لباس‌ها را می‌شوید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Am Sonntag ruhen sie sich aus.",
+      "english": "On Sundays, they rest.",
+      "russian": "По воскресеньям они отдыхают.",
+      "farsi": "روزهای یکشنبه، آن‌ها استراحت می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie finden, dass Gleichberechtigung wichtig ist.",
+      "english": "They believe that equality is important.",
+      "russian": "Они считают, что равноправие важно.",
+      "farsi": "آن‌ها فکر می‌کنند که برابری مهم است."
+    }
+  ]
+}

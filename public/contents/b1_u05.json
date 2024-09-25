@@ -1,0 +1,417 @@
+{
+  "info": {
+    "name": "B1U05",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Guten Tag, liebe Hörerinnen und Hörer.",
+      "english": "Good day, dear listeners.",
+      "russian": "Добрый день, дорогие слушатели.",
+      "farsi": "روز بخیر، شنوندگان عزیز."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir von Radio Unterrode stehen heute vor dem Werkstor der Matzon GmbH, wo man im Moment nur ein Thema kennt:",
+      "english": "We from Radio Unterrode are currently standing in front of the factory gate of Matzon GmbH, where only one topic is known at the moment:",
+      "russian": "Мы из Радио Унтерроде сегодня стоим перед воротами завода Matzon GmbH, где сейчас известно только одно дело:",
+      "farsi": "ما از رادیو آنترواده امروز در مقابل دروازه کارخانه ماتزون GmbH ایستاده‌ایم، جایی که در حال حاضر فقط یک موضوع شناخته شده است:"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die mögliche Schließung des Werks hier in Unterrode.",
+      "english": "The possible closure of the factory here in Unterrode.",
+      "russian": "Возможное закрытие завода здесь, в Унтерроде.",
+      "farsi": "بستن احتمالی کارخانه در اینجا در آنترواده."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dazu haben wir einige Mitarbeiter befragt.",
+      "english": "We have interviewed some employees about this.",
+      "russian": "Мы опросили некоторых сотрудников по этому поводу.",
+      "farsi": "ما در این زمینه از برخی کارکنان پرس و جو کردیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Paolo Marin, 29 Jahre alt und seit sieben Jahren bei Matzon, sagt zum Beispiel:",
+      "english": "Paolo Marin, 29 years old and with Matzon for seven years, says, for example:",
+      "russian": "Паоло Марин, 29 лет и работающий в Matzon уже семь лет, говорит, например:",
+      "farsi": "پائولو مارین، 29 ساله و هفت سال در ماتزون، می‌گوید:"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe hier zuerst meine Ausbildung als Industriekaufmann gemacht und arbeite jetzt in der Personalabteilung.",
+      "english": "I first trained here as an industrial clerk and now work in the human resources department.",
+      "russian": "Сначала я здесь учился на промышленного менеджера, а сейчас работаю в отделе кадров.",
+      "farsi": "من ابتدا به عنوان یک کارآموز صنعتی اینجا آموزش دیدم و حالا در بخش منابع انسانی کار می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin für Gehaltsabrechnungen zuständig.",
+      "english": "I am responsible for payroll.",
+      "russian": "Я отвечаю за расчёт заработной платы.",
+      "farsi": "من مسئول محاسبه حقوق هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In unserer Abteilung sprechen wir jeden Tag über die mögliche Schließung.",
+      "english": "In our department, we talk about the possible closure every day.",
+      "russian": "В нашем отделе мы каждый день обсуждаем возможное закрытие.",
+      "farsi": "در بخش ما هر روز در مورد بستن احتمالی صحبت می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Niemand will arbeitslos werden.",
+      "english": "No one wants to become unemployed.",
+      "russian": "Никто не хочет стать безработным.",
+      "farsi": "هیچ کس نمی‌خواهد بیکار شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ina Winter, 27 Jahre alt, meint: Ganz klar, im Moment ist die Betriebsschließung das große Thema.",
+      "english": "Ina Winter, 27 years old, says: Clearly, at the moment, the closure of the company is the big topic.",
+      "russian": "Ина Винтер, 27 лет, говорит: Безусловно, в данный момент закрытие предприятия является главной темой.",
+      "farsi": "اینا وینتر، 27 ساله، می‌گوید: به وضوح، در حال حاضر بستن شرکت موضوع بزرگی است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber ich habe eigentlich nicht so große Angst.",
+      "english": "But I actually don't have much fear.",
+      "russian": "Но на самом деле я не так уж и боюсь.",
+      "farsi": "اما در واقع من چندان نگران نیستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin sicher, dass ich eine neue Arbeit finden kann, wenn das Werk schließt.",
+      "english": "I am sure that I can find a new job if the factory closes.",
+      "russian": "Я уверен, что смогу найти новую работу, если завод закроется.",
+      "farsi": "من مطمئن هستم که می‌توانم یک کار جدید پیدا کنم اگر کارخانه بسته شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin noch jung.",
+      "english": "I am still young.",
+      "russian": "Я все еще молод.",
+      "farsi": "من هنوز جوان هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich arbeite in der Produktion, und bin für die Endkontrolle unserer Produkte verantwortlich.",
+      "english": "I work in production and am responsible for the final inspection of our products.",
+      "russian": "Я работаю в производстве и отвечаю за финальную проверку нашей продукции.",
+      "farsi": "من در تولید کار می‌کنم و مسئول بازرسی نهایی محصولات ما هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "So eine Arbeit kann ich schnell wieder bekommen.",
+      "english": "I can quickly find a similar job again.",
+      "russian": "Такую работу я могу быстро снова найти.",
+      "farsi": "من می‌توانم به سرعت یک کار مشابه پیدا کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Besonders kritisch sieht Mayara Rodriguez, 47 Jahre alt, die Situation:",
+      "english": "Mayara Rodriguez, 47 years old, sees the situation as particularly critical:",
+      "russian": "Майара Родригес, 47 лет, видит ситуацию как особенно критическую:",
+      "farsi": "مایارا رودریگز، 47 ساله، وضعیت را به‌ویژه بحرانی می‌بیند:"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich arbeite seit fünf Jahren als Assistentin der Geschäftsführung von Matzon.",
+      "english": "I have been working as an executive assistant at Matzon for five years.",
+      "russian": "Я работаю ассистентом руководства в Matzon уже пять лет.",
+      "farsi": "من به مدت پنج سال به عنوان دستیار مدیرعامل در ماتزون کار می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Zu meinen Aufgaben gehören die Terminplanung, die Vorbereitung von Konferenzen und so weiter.",
+      "english": "My tasks include scheduling appointments, preparing conferences, and so on.",
+      "russian": "В мои обязанности входят планирование встреч, подготовка конференций и так далее.",
+      "farsi": "وظایف من شامل برنامه‌ریزی قرارها، آماده‌سازی کنفرانس‌ها و غیره است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Eigentlich ein toller Job, aber leider habe ich im Moment nicht so richtig Spaß an der Arbeit und das geht vielen Kollegen genauso.",
+      "english": "Actually, a great job, but unfortunately, I am not really enjoying my work at the moment, and many colleagues feel the same way.",
+      "russian": "На самом деле, отличная работа, но, к сожалению, сейчас мне не очень весело на работе, и многим коллегам тоже.",
+      "farsi": "در واقع، یک شغل عالی است، اما متأسفانه، در حال حاضر از کارم لذت نمی‌برم و بسیاری از همکاران نیز همینطور احساس می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir diskutieren sehr viel über den Plan, das Werk hier in Unterrode zu schließen.",
+      "english": "We discuss a lot about the plan to close the factory here in Unterrode.",
+      "russian": "Мы много обсуждаем план закрытия завода здесь, в Унтерроде.",
+      "farsi": "ما خیلی درباره برنامه بستن کارخانه در اینجا در آنترواده بحث می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir alle haben Sorge, dass wir unseren Arbeitsplatz verlieren.",
+      "english": "We all worry that we will lose our jobs.",
+      "russian": "Мы все беспокоимся о том, что потеряем свои рабочие места.",
+      "farsi": "همه ما نگران این هستیم که شغل‌مان را از دست بدهیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Gerade für Leute wie mich, die nicht mehr ganz jung sind, ist das eine schwierige Situation.",
+      "english": "Especially for people like me, who are not quite young anymore, this is a difficult situation.",
+      "russian": "Тем более для людей, как я, которые уже не совсем молодые, это сложная ситуация.",
+      "farsi": "به ویژه برای افرادی مثل من که دیگر چندان جوان نیستند، این یک وضعیت دشوار است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hallo Alfonso, na wie war es denn heute in der Firma?",
+      "english": "Hello Alfonso, so how was it today at the company?",
+      "russian": "Привет, Альфонсо, как сегодня на фирме?",
+      "farsi": "سلام آلفونسو، امروز در شرکت چطور بود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hallo, Nina. Ach, du weißt ja, die Situation ist schwierig.",
+      "english": "Hello, Nina. Oh, you know, the situation is difficult.",
+      "russian": "Привет, Нина. О, ты же знаешь, ситуация сложная.",
+      "farsi": "سلام، نینا. اوه، می‌دانی، وضعیت دشوار است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben den ganzen Tag über die Schließung gesprochen.",
+      "english": "We talked all day about the closure.",
+      "russian": "Мы весь день говорили о закрытии.",
+      "farsi": "ما تمام روز درباره بستن صحبت کردیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe wenig Hoffnung.",
+      "english": "I have little hope.",
+      "russian": "У меня мало надежды.",
+      "farsi": "من امید زیادی ندارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das klingt aber nicht gut.",
+      "english": "That doesn't sound good.",
+      "russian": "Это не звучит хорошо.",
+      "farsi": "این خوب به نظر نمی‌رسد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe heute zwei interessante Stellenanzeigen für dich im Internet gefunden.",
+      "english": "I found two interesting job advertisements for you on the internet today.",
+      "russian": "Я сегодня нашёл для тебя две интересные вакансии в интернете.",
+      "farsi": "من امروز دو آگهی استخدام جالب برای تو در اینترنت پیدا کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe sie ausgedruckt.",
+      "english": "I printed them out.",
+      "russian": "Я распечатал их.",
+      "farsi": "من آنها را چاپ کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das ist lieb von dir.",
+      "english": "That's kind of you.",
+      "russian": "Это очень мило с твоей стороны.",
+      "farsi": "این از طرف تو محبت‌آمیز است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Zeig mal her Hm, die Stellen sind beide interessant.",
+      "english": "Show me. Hmm, both positions are interesting.",
+      "russian": "Покажи-ка. Хм, обе вакансии интересные.",
+      "farsi": "به من نشان بده. همم، هر دو موقعیت جالب هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber die Brüninghaus GmbH sucht einen Mitarbeiter, der ein Studium hat.",
+      "english": "But Brüninghaus GmbH is looking for an employee who has a degree.",
+      "russian": "Но Brüninghaus GmbH ищет сотрудника с высшим образованием.",
+      "farsi": "اما شرکت برونینگهاوس به دنبال کارمندی است که مدرک تحصیلی داشته باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Da kann ich mich nicht bewerben.",
+      "english": "I can't apply for that.",
+      "russian": "Я не могу на это подать заявку.",
+      "farsi": "من نمی‌توانم برای آن درخواست بدهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, schade. Dabei hast du so viel Berufserfahrung ...",
+      "english": "Yes, that's a shame. You have so much work experience...",
+      "russian": "Да, жаль. У тебя так много опыта работы...",
+      "farsi": "بله، متأسفم. تو تجربه کاری زیادی داری..."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "aber leider nur eine Ausbildung als Kaufmännischer Angestellter.",
+      "english": "but unfortunately only a training as a commercial employee.",
+      "russian": "но, к сожалению, только обучение на коммерческого сотрудника.",
+      "farsi": "اما متأسفانه فقط یک آموزش به عنوان کارمند تجاری."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Na ja, die andere Anzeige finde ich ganz passend.",
+      "english": "Well, I find the other ad quite suitable.",
+      "russian": "Ну, мне кажется, другое объявление довольно подходящим.",
+      "farsi": "خوب، من آگهی دیگر را کاملاً مناسب می‌بینم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Englischkenntnisse habe ich und Teamarbeit mache ich auch jetzt.",
+      "english": "I have English skills and I am currently working in a team.",
+      "russian": "У меня есть знания английского, и я сейчас тоже работаю в команде.",
+      "farsi": "من دانش زبان انگلیسی دارم و اکنون هم در تیم کار می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber die Firma ist in Essen, das ist ganz schön weit weg.",
+      "english": "But the company is in Essen, which is quite far away.",
+      "russian": "Но компания находится в Эссене, это довольно далеко.",
+      "farsi": "اما شرکت در اَسن است که نسبتاً دور است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir müssten umziehen, wenn ich die Stelle bekomme.",
+      "english": "We would have to move if I get the job.",
+      "russian": "Нам придется переехать, если я получу эту работу.",
+      "farsi": "اگر من آن شغل را بگیرم، ما باید نقل مکان کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn wir hier bleiben und du arbeitslos wirst, ist das aber noch schlechter für uns.",
+      "english": "If we stay here and you become unemployed, it would be even worse for us.",
+      "russian": "Если мы останемся здесь, и ты станешь безработным, это будет для нас еще хуже.",
+      "farsi": "اگر ما اینجا بمانیم و تو بیکار شوی، این برای ما حتی بدتر خواهد بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Außerdem ist Essen eine große Stadt.",
+      "english": "Moreover, Essen is a big city.",
+      "russian": "К тому же Эссен — это большой город.",
+      "farsi": "علاوه بر این، اَسن یک شهر بزرگ است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vielleicht habe ich dort auch ein Chance, eine Arbeit in meinem Beruf zu finden.",
+      "english": "Maybe I also have a chance to find a job in my field there.",
+      "russian": "Возможно, у меня там тоже есть шанс найти работу по специальности.",
+      "farsi": "شاید من در آنجا نیز شانسی برای پیدا کردن کار در رشته خود داشته باشم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Unterrode ist einfach zu klein, hier finde ich nie eine Stelle als Musiklehrerin!",
+      "english": "Unterrode is just too small; I can never find a position as a music teacher here!",
+      "russian": "Унтерроде просто слишком маленький, я никогда не найду здесь работу учителем музыки!",
+      "farsi": "آنترواده واقعاً خیلی کوچک است، من هرگز نمی‌توانم در اینجا شغلی به عنوان معلم موسیقی پیدا کنم!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Da hast du auch wieder Recht.",
+      "english": "You are right about that again.",
+      "russian": "Ты опять прав.",
+      "farsi": "در این مورد هم حق با تو است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dann bewerbe ich mich also bei der Firma.",
+      "english": "Then I will apply to the company.",
+      "russian": "Тогда я подам заявку в компанию.",
+      "farsi": "پس من برای آن شرکت درخواست می‌دهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Unternehmen, in dem ich arbeite, hat 1.500 Beschäftigte.",
+      "english": "The company I work for has 1,500 employees.",
+      "russian": "Компания, в которой я работаю, имеет 1500 сотрудников.",
+      "farsi": "شرکتی که من در آن کار می‌کنم، 1500 کارمند دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "900 Mitarbeiter arbeiten in der Produktion und 600 in der Verwaltung.",
+      "english": "900 employees work in production and 600 in administration.",
+      "russian": "900 сотрудников работают в производстве и 600 в администрации.",
+      "farsi": "900 کارمند در تولید و 600 نفر در بخش اداری کار می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Unternehmen hat seinen Hauptsitz in Stuttgart.",
+      "english": "The company is headquartered in Stuttgart.",
+      "russian": "Компания имеет штаб-квартиру в Штутгарте.",
+      "farsi": "شرکت دفتر مرکزی خود را در اشتوتگارت دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir produzieren Motoren für Autos.",
+      "english": "We produce engines for cars.",
+      "russian": "Мы производим двигатели для автомобилей.",
+      "farsi": "ما موتورهایی برای خودروها تولید می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich arbeite seit meiner Ausbildung im Verkauf.",
+      "english": "I have been working in sales since my training.",
+      "russian": "Я работаю в продажах с тех пор, как прошел обучение.",
+      "farsi": "من از زمان آموزش‌ام در بخش فروش کار می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bei uns ist das Betriebsklima sehr angenehm.",
+      "english": "The working atmosphere here is very pleasant.",
+      "russian": "У нас в компании очень приятная атмосфера.",
+      "farsi": "جو کاری در اینجا بسیار دلپذیر است."
+    }
+  ]
+}
