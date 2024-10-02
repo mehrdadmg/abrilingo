@@ -8,10 +8,18 @@
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Wie aktuelle Statistiken zeigen, lebt aktuell nur noch jeder zweite Deutsche in einer Familie mit Kindern. 1996 waren es mit 57 Prozent noch deutlich mehr.",
-      "english": "As current statistics show, only every second German currently lives in a family with children. In 1996, it was significantly more at 57 percent.",
-      "russian": "Как показывают текущие статистические данные, сейчас только каждый второй немец живет в семье с детьми. В 1996 году этот показатель составлял 57 процентов.",
-      "farsi": "همان‌طور که آمارهای جدید نشان می‌دهند، در حال حاضر تنها هر دومین آلمانی در خانواده‌ای با فرزند زندگی می‌کند. در سال ۱۹۹۶، این عدد به‌طور قابل توجهی بیشتر و برابر با ۵۷ درصد بود."
+      "sentence": "Wie aktuelle Statistiken zeigen, lebt aktuell nur noch jeder zweite Deutsche in einer Familie mit Kindern.",
+      "english": "As current statistics show, only every second German currently lives in a family with children.",
+      "russian": "Как показывают текущие статистические данные, сейчас только каждый второй немец живет в семье с детьми.",
+      "farsi": "همان‌طور که آمارهای جدید نشان می‌دهند، در حال حاضر تنها هر دومین آلمانی در خانواده‌ای با فرزند زندگی می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "1996 waren es mit 57 Prozent noch deutlich mehr.",
+      "english": "In 1996, it was significantly more at 57 percent.",
+      "russian": "В 1996 году этот показатель составлял 57 процентов.",
+      "farsi": " در سال ۱۹۹۶، این عدد به‌طور قابل توجهی بیشتر و برابر با ۵۷ درصد بود."
     },
     {
       "isSelected": false,
@@ -24,7 +32,7 @@
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Bei den Familien mit Kindern ist das „klassische Familienmodell\" - das heißt ein verheiratetes Paar mit ein bis drei Kindern - mit 70 Prozent noch immer am häufigsten. Von zehn Paaren mit Kindern ist nur eins unverheiratet.",
+      "sentence": "Bei den Familien mit Kindern ist das ´klassische Familienmodell´ - das heißt ein verheiratetes Paar mit ein bis drei Kindern - mit 70 Prozent noch immer am häufigsten. Von zehn Paaren mit Kindern ist nur eins unverheiratet.",
       "english": "Among families with children, the 'classic family model'—meaning a married couple with one to three children—is still the most common at 70 percent. Only one in ten couples with children is unmarried.",
       "russian": "Среди семей с детьми классическая семейная модель — это женатая пара с одним-двумя детьми — до сих пор самая распространенная и составляет 70 процентов. Только одна из десяти пар с детьми не состоит в браке.",
       "farsi": "در بین خانواده‌های دارای فرزند، مدل «خانواده کلاسیک» که به معنای یک زوج متأهل با یک تا سه فرزند است، با ۷۰ درصد هنوز هم رایج‌ترین مدل است. تنها یک از هر ده زوج دارای فرزند، ازدواج نکرده‌اند."

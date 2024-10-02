@@ -72,6 +72,10 @@ const alllessons = [
     name: 'Temporale_Präpositionen',
   },
   {
+    file_name: 'zu_infinitiv.json',
+    name: 'Zu_Infinitiv',
+  },
+  {
     file_name: 'essen.json',
     name: 'Essen',
   },

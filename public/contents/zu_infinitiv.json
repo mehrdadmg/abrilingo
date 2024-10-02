@@ -1,0 +1,1402 @@
+{
+  "info": {
+    "name": "Zu_Infinitiv",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat mir angeboten, ihm beim Umzug zu helfen.",
+      "english": "He offered me to help him with the move.",
+      "russian": "Он предложил мне помочь ему с переездом.",
+      "farsi": "او به من پیشنهاد داد که در اسباب‌کشی به او کمک کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir planen, dir eine bessere Stelle anzubieten.",
+      "english": "We plan to offer you a better position.",
+      "russian": "Мы планируем предложить вам лучшую должность.",
+      "farsi": "ما برنامه داریم که به تو یک شغل بهتر پیشنهاد دهیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat ihm angeboten, mit ihm zu reisen.",
+      "english": "She offered to travel with him.",
+      "russian": "Она предложила поехать с ним.",
+      "farsi": "او به او پیشنهاد داد که با او سفر کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich möchte dir anbieten, meine Bücher zu benutzen.",
+      "english": "I would like to offer you to use my books.",
+      "russian": "Я хочу предложить тебе воспользоваться моими книгами.",
+      "farsi": "من می‌خواهم به تو پیشنهاد کنم که از کتاب‌های من استفاده کنی."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er überlegt, ihr seine Unterstützung anzubieten.",
+      "english": "He is considering offering her his support.",
+      "russian": "Он думает предложить ей свою поддержку.",
+      "farsi": "او در حال فکر کردن است که حمایت خود را به او پیشنهاد دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Firma wird uns anbieten, den Vertrag zu verlängern.",
+      "english": "The company will offer us to extend the contract.",
+      "russian": "Компания предложит нам продлить контракт.",
+      "farsi": "شرکت به ما پیشنهاد خواهد داد که قرارداد را تمدید کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich fange an, Deutsch zu lernen.",
+      "english": "I am starting to learn German.",
+      "russian": "Я начинаю учить немецкий.",
+      "farsi": "من شروع به یادگیری زبان آلمانی کرده‌ام."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat angefangen, das Buch zu lesen.",
+      "english": "He started reading the book.",
+      "russian": "Он начал читать книгу.",
+      "farsi": "او شروع به خواندن کتاب کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben vor, morgen mit der Arbeit anzufangen.",
+      "english": "We plan to start work tomorrow.",
+      "russian": "Мы планируем начать работу завтра.",
+      "farsi": "ما قصد داریم فردا کار را شروع کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie beginnt damit, ihre Wohnung zu renovieren.",
+      "english": "She is starting to renovate her apartment.",
+      "russian": "Она начинает ремонтировать свою квартиру.",
+      "farsi": "او شروع به بازسازی آپارتمانش کرده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat endlich angefangen, regelmäßig Sport zu treiben.",
+      "english": "He finally started exercising regularly.",
+      "russian": "Он наконец-то начал регулярно заниматься спортом.",
+      "farsi": "او بالاخره شروع به ورزش منظم کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir wollen anfangen, früher aufzustehen.",
+      "english": "We want to start getting up earlier.",
+      "russian": "Мы хотим начать вставать раньше.",
+      "farsi": "ما می‌خواهیم شروع کنیم زودتر از خواب بیدار شویم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat aufgehört, zu rauchen.",
+      "english": "He quit smoking.",
+      "russian": "Он бросил курить.",
+      "farsi": "او سیگار کشیدن را ترک کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir müssen aufhören, so viel zu arbeiten.",
+      "english": "We need to stop working so much.",
+      "russian": "Нам нужно перестать так много работать.",
+      "farsi": "ما باید دست از کار کردن بیش از حد برداریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hört auf, ihn anzurufen.",
+      "english": "She stopped calling him.",
+      "russian": "Она перестала ему звонить.",
+      "farsi": "او دیگر به او زنگ نمی‌زند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es ist Zeit, mit dem Lärm aufzuhören.",
+      "english": "It is time to stop the noise.",
+      "russian": "Пора прекратить шум.",
+      "farsi": "وقت آن است که به سر و صدا پایان دهید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat aufgehört, Fleisch zu essen.",
+      "english": "He stopped eating meat.",
+      "russian": "Он перестал есть мясо.",
+      "farsi": "او گوشت خوردن را ترک کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie plant, mit dem Job aufzuhören.",
+      "english": "She plans to quit the job.",
+      "russian": "Она планирует уволиться с работы.",
+      "farsi": "او قصد دارد از کارش استعفا دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir beginnen, das Projekt zu planen.",
+      "english": "We are starting to plan the project.",
+      "russian": "Мы начинаем планировать проект.",
+      "farsi": "ما شروع به برنامه‌ریزی پروژه کرده‌ایم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat begonnen, ein neues Buch zu schreiben.",
+      "english": "She started writing a new book.",
+      "russian": "Она начала писать новую книгу.",
+      "farsi": "او شروع به نوشتن یک کتاب جدید کرده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er plant, mit dem Studium zu beginnen.",
+      "english": "He plans to start his studies.",
+      "russian": "Он планирует начать учебу.",
+      "farsi": "او قصد دارد تحصیلات خود را شروع کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie beginnen, die Arbeit zu organisieren.",
+      "english": "They are starting to organize the work.",
+      "russian": "Они начинают организовывать работу.",
+      "farsi": "آنها شروع به سازمان‌دهی کار کرده‌اند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben beschlossen, früher zu beginnen.",
+      "english": "We decided to start earlier.",
+      "russian": "Мы решили начать раньше.",
+      "farsi": "ما تصمیم گرفتیم زودتر شروع کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er beginnt, mehr Verantwortung zu übernehmen.",
+      "english": "He is starting to take on more responsibility.",
+      "russian": "Он начинает брать на себя больше ответственности.",
+      "farsi": "او شروع به پذیرفتن مسئولیت بیشتری کرده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er bemüht sich, bessere Noten zu bekommen.",
+      "english": "He is trying to get better grades.",
+      "russian": "Он старается получать лучшие оценки.",
+      "farsi": "او تلاش می‌کند نمرات بهتری کسب کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir bemühen uns, die Arbeit rechtzeitig zu beenden.",
+      "english": "We are trying to finish the work on time.",
+      "russian": "Мы стараемся закончить работу вовремя.",
+      "farsi": "ما در تلاش هستیم کار را به موقع تمام کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie bemüht sich, jeden Tag Deutsch zu sprechen.",
+      "english": "She is trying to speak German every day.",
+      "russian": "Она старается говорить по-немецки каждый день.",
+      "farsi": "او تلاش می‌کند هر روز آلمانی صحبت کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat sich bemüht, das Problem zu lösen.",
+      "english": "He tried to solve the problem.",
+      "russian": "Он старался решить проблему.",
+      "farsi": "او تلاش کرد تا مشکل را حل کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bemühe mich, pünktlich zu sein.",
+      "english": "I am trying to be on time.",
+      "russian": "Я стараюсь быть вовремя.",
+      "farsi": "من تلاش می‌کنم به موقع باشم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie bemühen sich, ihre Aufgaben effizient zu erledigen.",
+      "english": "They are trying to complete their tasks efficiently.",
+      "russian": "Они стараются выполнять свои задачи эффективно.",
+      "farsi": "آنها در تلاش هستند تا وظایف خود را به‌طور کارآمد انجام دهند."
+    },
+
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben beschlossen, in den Urlaub zu fahren.",
+      "english": "We have decided to go on vacation.",
+      "russian": "Мы решили поехать в отпуск.",
+      "farsi": "ما تصمیم گرفته‌ایم به تعطیلات برویم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat beschlossen, einen neuen Job zu suchen.",
+      "english": "She decided to look for a new job.",
+      "russian": "Она решила искать новую работу.",
+      "farsi": "او تصمیم گرفت به دنبال یک شغل جدید بگردد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er beschließt, sein Studium fortzusetzen.",
+      "english": "He decides to continue his studies.",
+      "russian": "Он решил продолжить учебу.",
+      "farsi": "او تصمیم می‌گیرد تحصیلات خود را ادامه دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie beschlossen, das Projekt zu beenden.",
+      "english": "They decided to finish the project.",
+      "russian": "Они решили завершить проект.",
+      "farsi": "آنها تصمیم گرفتند پروژه را به پایان برسانند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben beschlossen, die Party abzusagen.",
+      "english": "We have decided to cancel the party.",
+      "russian": "Мы решили отменить вечеринку.",
+      "farsi": "ما تصمیم گرفته‌ایم مهمانی را لغو کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat beschlossen, gesund zu essen.",
+      "english": "He decided to eat healthy.",
+      "russian": "Он решил питаться здорово.",
+      "farsi": "او تصمیم گرفت سالم غذا بخورد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bitte dich, mir zu helfen.",
+      "english": "I ask you to help me.",
+      "russian": "Я прошу тебя помочь мне.",
+      "farsi": "من از تو می‌خواهم که به من کمک کنی."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat mich gebeten, pünktlich zu kommen.",
+      "english": "She asked me to come on time.",
+      "russian": "Она попросила меня прийти вовремя.",
+      "farsi": "او از من خواست که به موقع بیایم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er bittet seine Kollegen, leise zu sein.",
+      "english": "He asks his colleagues to be quiet.",
+      "russian": "Он просит своих коллег быть тише.",
+      "farsi": "او از همکارانش می‌خواهد که ساکت باشند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir bitten Sie, das Formular auszufüllen.",
+      "english": "We ask you to fill out the form.",
+      "russian": "Мы просим вас заполнить форму.",
+      "farsi": "ما از شما می‌خواهیم فرم را پر کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat ihn gebeten, die Tür zu schließen.",
+      "english": "She asked him to close the door.",
+      "russian": "Она попросила его закрыть дверь.",
+      "farsi": "او از او خواست در را ببندد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er bittet darum, die Musik leiser zu machen.",
+      "english": "He asks to lower the volume of the music.",
+      "russian": "Он просит сделать музыку тише.",
+      "farsi": "او درخواست می‌کند که صدای موسیقی را کم کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Eltern haben ihm erlaubt, ins Kino zu gehen.",
+      "english": "The parents allowed him to go to the cinema.",
+      "russian": "Родители разрешили ему пойти в кино.",
+      "farsi": "والدینش به او اجازه دادند به سینما برود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie erlaubt ihren Kindern, lange aufzubleiben.",
+      "english": "She allows her children to stay up late.",
+      "russian": "Она позволяет своим детям допоздна не ложиться спать.",
+      "farsi": "او به فرزندانش اجازه می‌دهد تا دیر وقت بیدار بمانند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat uns erlaubt, das Auto zu benutzen.",
+      "english": "He allowed us to use the car.",
+      "russian": "Он разрешил нам воспользоваться машиной.",
+      "farsi": "او به ما اجازه داد از ماشین استفاده کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Firma erlaubt den Mitarbeitern, im Homeoffice zu arbeiten.",
+      "english": "The company allows employees to work from home.",
+      "russian": "Компания разрешает сотрудникам работать из дома.",
+      "farsi": "شرکت به کارکنان اجازه می‌دهد که از خانه کار کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Erlaubst du mir, dein Fahrrad zu nehmen?",
+      "english": "Do you allow me to take your bike?",
+      "russian": "Ты разрешаешь мне взять твой велосипед?",
+      "farsi": "آیا اجازه می‌دهی دوچرخه‌ات را بردارم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Lehrerin erlaubt den Schülern, eine Pause zu machen.",
+      "english": "The teacher allows the students to take a break.",
+      "russian": "Учительница разрешает ученикам сделать перерыв.",
+      "farsi": "معلم به دانش‌آموزان اجازه می‌دهد که استراحت کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich glaube, die Prüfung bestehen zu können.",
+      "english": "I believe I can pass the exam.",
+      "russian": "Я верю, что смогу сдать экзамен.",
+      "farsi": "من فکر می‌کنم که بتوانم در امتحان قبول شوم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er glaubt, die Lösung gefunden zu haben.",
+      "english": "He believes he has found the solution.",
+      "russian": "Он считает, что нашел решение.",
+      "farsi": "او فکر می‌کند که راه‌حل را پیدا کرده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie glaubt, morgen Zeit zu haben.",
+      "english": "She believes she will have time tomorrow.",
+      "russian": "Она считает, что у нее завтра будет время.",
+      "farsi": "او فکر می‌کند فردا وقت خواهد داشت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir glauben, das Ziel bald zu erreichen.",
+      "english": "We believe we will reach the goal soon.",
+      "russian": "Мы считаем, что скоро достигнем цели.",
+      "farsi": "ما فکر می‌کنیم به زودی به هدف خواهیم رسید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er glaubt, eine gute Entscheidung getroffen zu haben.",
+      "english": "He believes he made a good decision.",
+      "russian": "Он считает, что принял правильное решение.",
+      "farsi": "او فکر می‌کند که تصمیم خوبی گرفته است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie glauben, das Problem lösen zu können.",
+      "english": "They believe they can solve the problem.",
+      "russian": "Они считают, что смогут решить проблему.",
+      "farsi": "آنها فکر می‌کنند که می‌توانند مشکل را حل کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Eltern verbieten ihm, so spät auszugehen.",
+      "english": "The parents forbid him from going out so late.",
+      "russian": "Родители запрещают ему выходить так поздно.",
+      "farsi": "والدینش به او اجازه نمی‌دهند که اینقدر دیر بیرون برود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Lehrer verbietet den Schülern, während des Unterrichts zu sprechen.",
+      "english": "The teacher forbids the students from talking during class.",
+      "russian": "Учитель запрещает ученикам разговаривать во время урока.",
+      "farsi": "معلم به دانش‌آموزان اجازه نمی‌دهد در طول درس صحبت کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat uns verboten, im Büro zu essen.",
+      "english": "She forbade us from eating in the office.",
+      "russian": "Она запретила нам есть в офисе.",
+      "farsi": "او به ما اجازه نداد که در دفتر غذا بخوریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er verbietet seiner Tochter, allein zu reisen.",
+      "english": "He forbids his daughter from traveling alone.",
+      "russian": "Он запрещает своей дочери путешествовать одной.",
+      "farsi": "او به دخترش اجازه نمی‌دهد که به تنهایی سفر کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Firma verbietet es, private Anrufe zu tätigen.",
+      "english": "The company forbids making private calls.",
+      "russian": "Компания запрещает делать личные звонки.",
+      "farsi": "شرکت تماس‌های خصوصی را ممنوع می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Arzt verbietet ihm, Alkohol zu trinken.",
+      "english": "The doctor forbids him from drinking alcohol.",
+      "russian": "Врач запрещает ему пить алкоголь.",
+      "farsi": "دکتر به او اجازه نمی‌دهد الکل بنوشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe vergessen, das Licht auszuschalten.",
+      "english": "I forgot to turn off the light.",
+      "russian": "Я забыл выключить свет.",
+      "farsi": "من فراموش کردم که چراغ را خاموش کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat vergessen, die E-Mail zu schicken.",
+      "english": "She forgot to send the email.",
+      "russian": "Она забыла отправить электронное письмо.",
+      "farsi": "او فراموش کرد ایمیل را ارسال کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er vergisst immer, seine Hausaufgaben zu machen.",
+      "english": "He always forgets to do his homework.",
+      "russian": "Он всегда забывает делать домашнее задание.",
+      "farsi": "او همیشه فراموش می‌کند تکالیفش را انجام دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben vergessen, den Termin zu bestätigen.",
+      "english": "We forgot to confirm the appointment.",
+      "russian": "Мы забыли подтвердить встречу.",
+      "farsi": "ما فراموش کردیم وقت ملاقات را تأیید کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat vergessen, die Tür zu schließen.",
+      "english": "He forgot to close the door.",
+      "russian": "Он забыл закрыть дверь.",
+      "farsi": "او فراموش کرد در را ببندد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie vergisst oft, den Müll rauszubringen.",
+      "english": "She often forgets to take out the trash.",
+      "russian": "Она часто забывает вынести мусор.",
+      "farsi": "او اغلب فراموش می‌کند که زباله‌ها را بیرون ببرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe ihm versprochen, ihm zu helfen.",
+      "english": "I promised him to help him.",
+      "russian": "Я пообещал ему помочь.",
+      "farsi": "من به او قول دادم که کمکش کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat uns versprochen, die Arbeit rechtzeitig zu erledigen.",
+      "english": "She promised us to finish the work on time.",
+      "russian": "Она пообещала нам вовремя завершить работу.",
+      "farsi": "او به ما قول داد که کار را به موقع تمام کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat versprochen, mehr Sport zu treiben.",
+      "english": "He promised to do more sports.",
+      "russian": "Он пообещал больше заниматься спортом.",
+      "farsi": "او قول داد که بیشتر ورزش کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir versprechen, die Aufgabe morgen zu beenden.",
+      "english": "We promise to finish the task tomorrow.",
+      "russian": "Мы обещаем завершить задачу завтра.",
+      "farsi": "ما قول می‌دهیم که کار را فردا تمام کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat ihren Eltern versprochen, besser in der Schule zu sein.",
+      "english": "She promised her parents to do better in school.",
+      "russian": "Она пообещала своим родителям лучше учиться в школе.",
+      "farsi": "او به والدینش قول داد که در مدرسه بهتر عمل کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er verspricht, das Problem zu lösen.",
+      "english": "He promises to solve the problem.",
+      "russian": "Он обещает решить проблему.",
+      "farsi": "او قول می‌دهد که مشکل را حل کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich versuche, jeden Tag Deutsch zu lernen.",
+      "english": "I try to learn German every day.",
+      "russian": "Я пытаюсь учить немецкий каждый день.",
+      "farsi": "من سعی می‌کنم هر روز آلمانی یاد بگیرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er versucht, das Problem zu lösen.",
+      "english": "He tries to solve the problem.",
+      "russian": "Он пытается решить проблему.",
+      "farsi": "او سعی می‌کند مشکل را حل کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir versuchen, die Arbeit bis morgen zu beenden.",
+      "english": "We try to finish the work by tomorrow.",
+      "russian": "Мы пытаемся завершить работу до завтра.",
+      "farsi": "ما سعی می‌کنیم کار را تا فردا تمام کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie versucht, weniger Zucker zu essen.",
+      "english": "She tries to eat less sugar.",
+      "russian": "Она пытается есть меньше сахара.",
+      "farsi": "او سعی می‌کند کمتر شکر مصرف کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich werde versuchen, früher aufzustehen.",
+      "english": "I will try to get up earlier.",
+      "russian": "Я постараюсь вставать пораньше.",
+      "farsi": "من سعی خواهم کرد زودتر بیدار شوم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat versucht, den Bus zu erreichen.",
+      "english": "He tried to catch the bus.",
+      "russian": "Он пытался успеть на автобус.",
+      "farsi": "او سعی کرد به اتوبوس برسد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben vor, nächste Woche in den Urlaub zu fahren.",
+      "english": "We plan to go on vacation next week.",
+      "russian": "Мы планируем поехать в отпуск на следующей неделе.",
+      "farsi": "ما قصد داریم هفته آینده به تعطیلات برویم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat vor, eine neue Sprache zu lernen.",
+      "english": "She plans to learn a new language.",
+      "russian": "Она планирует выучить новый язык.",
+      "farsi": "او قصد دارد یک زبان جدید یاد بگیرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat vor, sich einen neuen Laptop zu kaufen.",
+      "english": "He plans to buy a new laptop.",
+      "russian": "Он планирует купить новый ноутбук.",
+      "farsi": "او قصد دارد یک لپ‌تاپ جدید بخرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe vor, morgen mit dem Training zu beginnen.",
+      "english": "I plan to start training tomorrow.",
+      "russian": "Я планирую начать тренировки завтра.",
+      "farsi": "من قصد دارم از فردا تمرینات را شروع کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie haben vor, das Haus zu renovieren.",
+      "english": "They plan to renovate the house.",
+      "russian": "Они планируют отремонтировать дом.",
+      "farsi": "آنها قصد دارند خانه را بازسازی کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat vor, seinen Job zu wechseln.",
+      "english": "He plans to change his job.",
+      "russian": "Он планирует сменить работу.",
+      "farsi": "او قصد دارد شغل خود را عوض کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich freue mich, dich bald zu sehen.",
+      "english": "I am looking forward to seeing you soon.",
+      "russian": "Я с нетерпением жду встречи с тобой.",
+      "farsi": "من منتظر دیدن تو در آینده نزدیک هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir freuen uns, im Urlaub zu entspannen.",
+      "english": "We are looking forward to relaxing on vacation.",
+      "russian": "Мы с нетерпением ждем отдыха в отпуске.",
+      "farsi": "ما مشتاقانه منتظر استراحت در تعطیلات هستیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er freut sich, das neue Auto zu fahren.",
+      "english": "He is excited to drive the new car.",
+      "russian": "Он рад водить новую машину.",
+      "farsi": "او مشتاق است که ماشین جدید را براند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie freut sich, das Examen bestanden zu haben.",
+      "english": "She is happy to have passed the exam.",
+      "russian": "Она рада, что сдала экзамен.",
+      "farsi": "او خوشحال است که امتحان را قبول شده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich freue mich, an deinem Geburtstag teilzunehmen.",
+      "english": "I am looking forward to attending your birthday.",
+      "russian": "Я с нетерпением жду твоего дня рождения.",
+      "farsi": "من مشتاقانه منتظر حضور در جشن تولد تو هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir freuen uns, wieder ins Kino zu gehen.",
+      "english": "We are excited to go to the cinema again.",
+      "russian": "Мы с нетерпением ждем похода в кино снова.",
+      "farsi": "ما مشتاقانه منتظریم که دوباره به سینما برویم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin bereit, die Prüfung zu schreiben.",
+      "english": "I am ready to take the exam.",
+      "russian": "Я готов сдать экзамен.",
+      "farsi": "من آماده‌ام که امتحان را بنویسم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er ist bereit, das Risiko einzugehen.",
+      "english": "He is ready to take the risk.",
+      "russian": "Он готов пойти на риск.",
+      "farsi": "او آماده است که ریسک را بپذیرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie ist bereit, eine neue Herausforderung anzunehmen.",
+      "english": "She is ready to take on a new challenge.",
+      "russian": "Она готова принять новый вызов.",
+      "farsi": "او آماده است که یک چالش جدید را بپذیرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir sind bereit, sofort zu starten.",
+      "english": "We are ready to start immediately.",
+      "russian": "Мы готовы начать немедленно.",
+      "farsi": "ما آماده‌ایم که فوراً شروع کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er war bereit, alles zu tun, um zu gewinnen.",
+      "english": "He was ready to do anything to win.",
+      "russian": "Он был готов сделать все, чтобы победить.",
+      "farsi": "او آماده بود هر کاری انجام دهد تا برنده شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie sind bereit, bei dem Projekt mitzuarbeiten.",
+      "english": "They are ready to cooperate on the project.",
+      "russian": "Они готовы сотрудничать над проектом.",
+      "farsi": "آنها آماده‌اند که در پروژه همکاری کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es ist nicht erlaubt, hier zu parken.",
+      "english": "It is not allowed to park here.",
+      "russian": "Здесь не разрешается парковаться.",
+      "farsi": "پارک کردن اینجا مجاز نیست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ist es erlaubt, dieses Dokument zu kopieren?",
+      "english": "Is it allowed to copy this document?",
+      "russian": "Разрешено ли копировать этот документ?",
+      "farsi": "آیا کپی کردن این سند مجاز است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es ist nicht erlaubt, während der Prüfung zu sprechen.",
+      "english": "It is not allowed to speak during the exam.",
+      "russian": "Не разрешается говорить во время экзамена.",
+      "farsi": "صحبت کردن در حین امتحان مجاز نیست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es war erlaubt, Fotos zu machen.",
+      "english": "It was allowed to take photos.",
+      "russian": "Разрешалось делать фотографии.",
+      "farsi": "گرفتن عکس‌ها مجاز بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es ist erlaubt, im Park zu grillen.",
+      "english": "It is allowed to grill in the park.",
+      "russian": "Разрешено жарить на гриле в парке.",
+      "farsi": "آشپزی در پارک مجاز است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es ist nicht erlaubt, laute Musik zu spielen.",
+      "english": "It is not allowed to play loud music.",
+      "russian": "Не разрешается играть громкую музыку.",
+      "farsi": "پخش موسیقی بلند مجاز نیست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es war falsch, so spät zu kommen.",
+      "english": "It was wrong to arrive so late.",
+      "russian": "Было неправильно приходить так поздно.",
+      "farsi": "این اشتباه بود که اینقدر دیر بیایید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es ist falsch, jemanden ohne Grund zu beschuldigen.",
+      "english": "It is wrong to accuse someone without reason.",
+      "russian": "Неправильно обвинять кого-то без причины.",
+      "farsi": "این اشتباه است که بدون دلیل کسی را متهم کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es ist falsch, die Arbeit nicht zu beenden.",
+      "english": "It is wrong not to finish the work.",
+      "russian": "Неправильно не заканчивать работу.",
+      "farsi": "این اشتباه است که کار را تمام نکنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es wäre falsch, ihm nicht zu helfen.",
+      "english": "It would be wrong not to help him.",
+      "russian": "Было бы неправильно не помочь ему.",
+      "farsi": "این اشتباه خواهد بود که به او کمک نکنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es ist falsch, im Unterricht nicht aufzupassen.",
+      "english": "It is wrong not to pay attention in class.",
+      "russian": "Неправильно не обращать внимания на уроках.",
+      "farsi": "این اشتباه است که در کلاس توجه نکنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es war falsch, das Geheimnis zu verraten.",
+      "english": "It was wrong to reveal the secret.",
+      "russian": "Было неправильно раскрывать секрет.",
+      "farsi": "این اشتباه بود که راز را فاش کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es ist gesund, regelmäßig Sport zu treiben.",
+      "english": "It is healthy to exercise regularly.",
+      "russian": "Полезно регулярно заниматься спортом.",
+      "farsi": "سلامت است که به طور منظم ورزش کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es ist gesund, viel Wasser zu trinken.",
+      "english": "It is healthy to drink a lot of water.",
+      "russian": "Полезно пить много воды.",
+      "farsi": "سلامت است که آب زیادی بنوشید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es ist gesund, frisches Obst und Gemüse zu essen.",
+      "english": "It is healthy to eat fresh fruits and vegetables.",
+      "russian": "Полезно есть свежие фрукты и овощи.",
+      "farsi": "سلامت است که میوه‌ها و سبزیجات تازه بخورید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es ist nicht gesund, lange am Computer zu sitzen.",
+      "english": "It is not healthy to sit at the computer for a long time.",
+      "russian": "Не полезно долго сидеть за компьютером.",
+      "farsi": "سلامت نیست که مدت طولانی پشت کامپیوتر بنشینید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es wäre gesund, mehr an die frische Luft zu gehen.",
+      "english": "It would be healthy to go outside more often.",
+      "russian": "Было бы полезно чаще выходить на свежий воздух.",
+      "farsi": "این سلامت خواهد بود که بیشتر به هوای تازه بروید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es ist gesund, ausreichend zu schlafen.",
+      "english": "It is healthy to get enough sleep.",
+      "russian": "Полезно достаточно спать.",
+      "farsi": "سلامت است که خواب کافی داشته باشید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es ist gut, jeden Tag Deutsch zu üben.",
+      "english": "It is good to practice German every day.",
+      "russian": "Полезно каждый день практиковать немецкий.",
+      "farsi": "خوب است که هر روز آلمانی تمرین کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es ist gut, regelmäßig zu trainieren.",
+      "english": "It is good to train regularly.",
+      "russian": "Полезно регулярно тренироваться.",
+      "farsi": "خوب است که به طور منظم تمرین کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es wäre gut, früh ins Bett zu gehen.",
+      "english": "It would be good to go to bed early.",
+      "russian": "Было бы хорошо лечь спать пораньше.",
+      "farsi": "این خوب خواهد بود که زود بخوابید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es ist gut, sich gesund zu ernähren.",
+      "english": "It is good to eat healthily.",
+      "russian": "Полезно питаться здоровой пищей.",
+      "farsi": "خوب است که به طور سالم غذا بخورید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es ist gut, auf die Umwelt zu achten.",
+      "english": "It is good to pay attention to the environment.",
+      "russian": "Полезно заботиться об окружающей среде.",
+      "farsi": "خوب است که به محیط زیست توجه کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es ist gut, offen für neue Ideen zu sein.",
+      "english": "It is good to be open to new ideas.",
+      "russian": "Полезно быть открытым для новых идей.",
+      "farsi": "خوب است که نسبت به ایده‌های جدید باز باشید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es ist leicht, diesen Fehler zu vermeiden.",
+      "english": "It is easy to avoid this mistake.",
+      "russian": "Легко избежать этой ошибки.",
+      "farsi": "اجتناب از این اشتباه آسان است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es war nicht leicht, die Aufgabe zu lösen.",
+      "english": "It was not easy to solve the task.",
+      "russian": "Не было легко решить задачу.",
+      "farsi": "حل این کار آسان نبود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es ist leicht, neue Vokabeln zu lernen, wenn man übt.",
+      "english": "It is easy to learn new vocabulary when you practice.",
+      "russian": "Легко учить новые слова, когда практикуешь.",
+      "farsi": "یادگیری واژگان جدید وقتی تمرین می‌کنید آسان است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es ist nicht leicht, immer pünktlich zu sein.",
+      "english": "It is not easy to always be on time.",
+      "russian": "Не легко всегда быть вовремя.",
+      "farsi": "همیشه به موقع بودن آسان نیست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es ist leicht, im Sommer früh aufzustehen.",
+      "english": "It is easy to get up early in the summer.",
+      "russian": "Легко вставать рано летом.",
+      "farsi": "در تابستان زود بیدار شدن آسان است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es wird leicht sein, den Weg zu finden.",
+      "english": "It will be easy to find the way.",
+      "russian": "Легко будет найти путь.",
+      "farsi": "یافتن راه آسان خواهد بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es ist richtig, auf die Gesundheit zu achten.",
+      "english": "It is right to pay attention to health.",
+      "russian": "Правильно заботиться о здоровье.",
+      "farsi": "توجه به سلامت درست است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es war richtig, den Vertrag zu unterschreiben.",
+      "english": "It was right to sign the contract.",
+      "russian": "Правильно было подписать контракт.",
+      "farsi": "امضا کردن قرارداد درست بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es ist richtig, bei Problemen Hilfe zu suchen.",
+      "english": "It is right to seek help with problems.",
+      "russian": "Правильно искать помощь при проблемах.",
+      "farsi": "جستجوی کمک در مواقع مشکل درست است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es ist richtig, ehrlich zu sein.",
+      "english": "It is right to be honest.",
+      "russian": "Правильно быть честным.",
+      "farsi": "راستگو بودن درست است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es ist richtig, Verantwortung zu übernehmen.",
+      "english": "It is right to take responsibility.",
+      "russian": "Правильно брать на себя ответственность.",
+      "farsi": "به عهده گرفتن مسئولیت درست است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es ist richtig, die Umwelt zu schützen.",
+      "english": "It is right to protect the environment.",
+      "russian": "Правильно защищать окружающую среду.",
+      "farsi": "حفاظت از محیط زیست درست است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es ist teuer, in dieser Stadt zu leben.",
+      "english": "It is expensive to live in this city.",
+      "russian": "Жить в этом городе дорого.",
+      "farsi": "زندگی در این شهر گران است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es wird teuer sein, das Auto zu reparieren.",
+      "english": "It will be expensive to repair the car.",
+      "russian": "Ремонт автомобиля будет дорогим.",
+      "farsi": "ترمیم خودرو هزینه‌بر خواهد بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es ist teuer, ständig essen zu gehen.",
+      "english": "It is expensive to eat out all the time.",
+      "russian": "Постоянно есть вне дома дорого.",
+      "farsi": "همیشه بیرون غذا خوردن هزینه‌بر است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es ist nicht teuer, öffentliche Verkehrsmittel zu nutzen.",
+      "english": "It is not expensive to use public transportation.",
+      "russian": "Пользоваться общественным транспортом недорого.",
+      "farsi": "استفاده از حمل و نقل عمومی گران نیست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es kann teuer sein, eine Reise zu buchen.",
+      "english": "It can be expensive to book a trip.",
+      "russian": "Бронирование поездки может быть дорогим.",
+      "farsi": "رزرو سفر می‌تواند هزینه‌بر باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es war teuer, das Haus zu renovieren.",
+      "english": "It was expensive to renovate the house.",
+      "russian": "Ремонт дома был дорогим.",
+      "farsi": "بازسازی خانه هزینه‌بر بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es ist verboten, hier zu rauchen.",
+      "english": "It is forbidden to smoke here.",
+      "russian": "Здесь запрещено курить.",
+      "farsi": "سیگار کشیدن در اینجا ممنوع است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es war verboten, die Dokumente zu kopieren.",
+      "english": "It was forbidden to copy the documents.",
+      "russian": "Запрещено копировать документы.",
+      "farsi": "کپی کردن اسناد ممنوع بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es ist verboten, auf dieser Straße zu parken.",
+      "english": "It is forbidden to park on this street.",
+      "russian": "Запрещено парковаться на этой улице.",
+      "farsi": "پارک کردن در این خیابان ممنوع است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es ist verboten, ohne Genehmigung zu campen.",
+      "english": "It is forbidden to camp without permission.",
+      "russian": "Запрещено кемпинговать без разрешения.",
+      "farsi": "کمپ زدن بدون مجوز ممنوع است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es ist verboten, in der Stadt Feuerwerk zu zünden.",
+      "english": "It is forbidden to set off fireworks in the city.",
+      "russian": "Запрещено запускать фейерверки в городе.",
+      "farsi": "آتش بازی در شهر ممنوع است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es war verboten, den Raum zu betreten.",
+      "english": "It was forbidden to enter the room.",
+      "russian": "Запрещено было входить в комнату.",
+      "farsi": "ورود به اتاق ممنوع بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe keine Angst, vor vielen Leuten zu sprechen.",
+      "english": "I am not afraid to speak in front of many people.",
+      "russian": "Я не боюсь говорить перед многими людьми.",
+      "farsi": "من از صحبت کردن در برابر افراد زیاد نمی‌ترسم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat Angst, die Prüfung nicht zu bestehen.",
+      "english": "He is afraid of not passing the exam.",
+      "russian": "Он боится не сдать экзамен.",
+      "farsi": "او از قبول نشدن در امتحان می‌ترسد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat keine Angst, neue Herausforderungen anzunehmen.",
+      "english": "She is not afraid to take on new challenges.",
+      "russian": "Она не боится принимать новые вызовы.",
+      "farsi": "او از پذیرفتن چالش‌های جدید نمی‌ترسد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben Angst, etwas falsch zu machen.",
+      "english": "We are afraid of making a mistake.",
+      "russian": "Мы боимся сделать ошибку.",
+      "farsi": "ما از انجام یک اشتباه می‌ترسیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe keine Angst, im Dunkeln spazieren zu gehen.",
+      "english": "I am not afraid to walk in the dark.",
+      "russian": "Я не боюсь гулять в темноте.",
+      "farsi": "من از قدم زدن در تاریکی نمی‌ترسم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat Angst, seinen Job zu verlieren.",
+      "english": "He is afraid of losing his job.",
+      "russian": "Он боится потерять свою работу.",
+      "farsi": "او از دست دادن شغلش می‌ترسد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe die Absicht, nächstes Jahr nach Deutschland zu ziehen.",
+      "english": "I intend to move to Germany next year.",
+      "russian": "Я намерен переехать в Германию в следующем году.",
+      "farsi": "من قصد دارم سال آینده به آلمان نقل مکان کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben die Absicht, das Projekt bald zu starten.",
+      "english": "We intend to start the project soon.",
+      "russian": "Мы намерены начать проект скоро.",
+      "farsi": "ما قصد داریم به زودی پروژه را شروع کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat die Absicht, eine neue Sprache zu lernen.",
+      "english": "She intends to learn a new language.",
+      "russian": "Она намерена выучить новый язык.",
+      "farsi": "او قصد دارد یک زبان جدید یاد بگیرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat die Absicht, ein eigenes Unternehmen zu gründen.",
+      "english": "He intends to start his own business.",
+      "russian": "Он намерен открыть собственный бизнес.",
+      "farsi": "او قصد دارد یک شرکت خصوصی تأسیس کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben die Absicht, die Wohnung zu renovieren.",
+      "english": "We intend to renovate the apartment.",
+      "russian": "Мы намерены отремонтировать квартиру.",
+      "farsi": "ما قصد داریم آپارتمان را نوسازی کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat die Absicht, an einem Marathon teilzunehmen.",
+      "english": "She intends to participate in a marathon.",
+      "russian": "Она намерена участвовать в марафоне.",
+      "farsi": "او قصد دارد در یک ماراتن شرکت کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe keine Lust, heute Abend auszugehen.",
+      "english": "I don't feel like going out this evening.",
+      "russian": "Мне не хочется выходить сегодня вечером.",
+      "farsi": "من حال و حوصله بیرون رفتن در این شب را ندارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat Lust, einen Film zu schauen.",
+      "english": "He feels like watching a movie.",
+      "russian": "Ему хочется посмотреть фильм.",
+      "farsi": "او حال و حوصله تماشای فیلم را دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat keine Lust, Hausaufgaben zu machen.",
+      "english": "She doesn't feel like doing homework.",
+      "russian": "Ей не хочется делать домашние задания.",
+      "farsi": "او حال و حوصله انجام تکالیف را ندارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben Lust, ins Theater zu gehen.",
+      "english": "We feel like going to the theater.",
+      "russian": "Нам хочется пойти в театр.",
+      "farsi": "ما حال و حوصله رفتن به تئاتر را داریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat keine Lust, früh aufzustehen.",
+      "english": "He doesn't feel like getting up early.",
+      "russian": "Ему не хочется вставать рано.",
+      "farsi": "او حال و حوصله بیدار شدن زود را ندارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe Lust, ein Eis zu essen.",
+      "english": "I feel like eating ice cream.",
+      "russian": "Мне хочется поесть мороженое.",
+      "farsi": "من حال و حوصله خوردن بستنی را دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es macht keinen Spaß, im Regen zu laufen.",
+      "english": "It is not fun to run in the rain.",
+      "russian": "Бегать под дождем не весело.",
+      "farsi": "دویدن زیر باران خوشایند نیست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es macht Spaß, mit Freunden zusammen zu sein.",
+      "english": "It is fun to be with friends.",
+      "russian": "Весело проводить время с друзьями.",
+      "farsi": "بودن با دوستان لذت‌بخش است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es hat keinen Spaß gemacht, den ganzen Tag zu arbeiten.",
+      "english": "It was not fun to work all day.",
+      "russian": "Работать весь день не было весело.",
+      "farsi": "کار کردن تمام روز خوشایند نبود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es macht viel Spaß, neue Städte zu erkunden.",
+      "english": "It is a lot of fun to explore new cities.",
+      "russian": "Исследовать новые города очень весело.",
+      "farsi": "کشف شهرهای جدید بسیار لذت‌بخش است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es wird keinen Spaß machen, bei schlechtem Wetter zu wandern.",
+      "english": "It will not be fun to hike in bad weather.",
+      "russian": "Ходить в поход в плохую погоду не будет весело.",
+      "farsi": "پیاده‌روی در هوای بد خوشایند نخواهد بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es hat Spaß gemacht, das neue Spiel zu spielen.",
+      "english": "It was fun to play the new game.",
+      "russian": "Играть в новую игру было весело.",
+      "farsi": "بازی کردن در بازی جدید خوشایند بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe keine Zeit, mich mit dir zu treffen.",
+      "english": "I don't have time to meet you.",
+      "russian": "У меня нет времени встретиться с тобой.",
+      "farsi": "من وقت ندارم با تو ملاقات کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat Zeit, heute Abend zu kochen.",
+      "english": "He has time to cook this evening.",
+      "russian": "У него есть время поужинать сегодня вечером.",
+      "farsi": "او وقت دارد که امشب بپزد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat keine Zeit, das Projekt bis morgen zu beenden.",
+      "english": "She doesn't have time to finish the project by tomorrow.",
+      "russian": "У нее нет времени закончить проект к завтрашнему дню.",
+      "farsi": "او وقت ندارد که پروژه را تا فردا تمام کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben genug Zeit, alles vorzubereiten.",
+      "english": "We have enough time to prepare everything.",
+      "russian": "У нас достаточно времени, чтобы все подготовить.",
+      "farsi": "ما زمان کافی داریم تا همه چیز را آماده کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat keine Zeit, lange zu warten.",
+      "english": "He doesn't have time to wait long.",
+      "russian": "У него нет времени долго ждать.",
+      "farsi": "او وقت ندارد که مدت طولانی صبر کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe Zeit, morgen in die Stadt zu gehen.",
+      "english": "I have time to go to the city tomorrow.",
+      "russian": "У меня есть время пойти в город завтра.",
+      "farsi": "من وقت دارم که فردا به شهر بروم."
+    }
+  ]
+}
