@@ -1,0 +1,537 @@
+{
+  "info": {
+    "name": "Frontend_Backend_04",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie sicherstellen, dass bei einem fehlgeschlagenen API-Request der richtige HTTP-Statuscode gesendet wird?",
+      "english": "Could you ensure that the correct HTTP status code is sent for a failed API request?",
+      "russian": "Можете ли вы убедиться, что для неудачного запроса API отправлен правильный HTTP-статус код?",
+      "farsi": "آیا می‌توانید اطمینان حاصل کنید که برای یک درخواست ناموفق API کد وضعیت HTTP صحیح ارسال می‌شود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die API gibt einen 404-Fehler zurück. Können Sie überprüfen, ob der Endpunkt korrekt ist?",
+      "english": "The API returns a 404 error. Can you check if the endpoint is correct?",
+      "russian": "API возвращает ошибку 404. Можете ли вы проверить, правильна ли конечная точка?",
+      "farsi": "API یک خطای 404 برمی‌گرداند. آیا می‌توانید بررسی کنید که نقطه پایانی صحیح است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie einen 500-Fehler senden, wenn ein interner Serverfehler auftritt?",
+      "english": "Could you send a 500 error when an internal server error occurs?",
+      "russian": "Можете ли вы отправить ошибку 500, если возникает внутренняя ошибка сервера?",
+      "farsi": "آیا می‌توانید یک خطای 500 ارسال کنید وقتی یک خطای داخلی سرور رخ می‌دهد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Server gibt einen 403-Fehler zurück, obwohl der Benutzer die Berechtigung hat. Können Sie das prüfen?",
+      "english": "The server returns a 403 error, even though the user has permission. Can you check that?",
+      "russian": "Сервер возвращает ошибку 403, хотя у пользователя есть права. Можете ли вы это проверить?",
+      "farsi": "سرور یک خطای 403 برمی‌گرداند، با اینکه کاربر مجوز دارد. آیا می‌توانید این را بررسی کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollen wir für ungültige Anfragen einen 400-Bad-Request-Code verwenden?",
+      "english": "Should we use a 400 Bad Request code for invalid requests?",
+      "russian": "Должны ли мы использовать код 400 Bad Request для недопустимых запросов?",
+      "farsi": "آیا باید برای درخواست‌های نامعتبر از کد 400 Bad Request استفاده کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die API sollte bei einem erfolgreichen Request einen 200-OK-Code zurückgeben.",
+      "english": "The API should return a 200 OK code for a successful request.",
+      "russian": "API должно возвращать код 200 OK для успешного запроса.",
+      "farsi": "API باید برای یک درخواست موفق کد 200 OK برگرداند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie sicherstellen, dass bei einem abgelaufenen Token ein 401 Unauthorized gesendet wird?",
+      "english": "Could you ensure that a 401 Unauthorized is sent when a token has expired?",
+      "russian": "Можете ли вы убедиться, что код 401 Unauthorized отправляется при истечении срока действия токена?",
+      "farsi": "آیا می‌توانید اطمینان حاصل کنید که یک خطای 401 Unauthorized ارسال می‌شود وقتی توکن منقضی شده است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es wäre besser, wenn wir statt eines 500-Fehlers spezifischere Fehlercodes senden könnten.",
+      "english": "It would be better if we could send more specific error codes instead of a 500 error.",
+      "russian": "Было бы лучше, если бы мы могли отправлять более специфичные коды ошибок вместо ошибки 500.",
+      "farsi": "بهتر خواهد بود اگر بتوانیم به‌جای خطای 500 کدهای خطای خاص‌تری ارسال کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollte der Server bei einem Timeout einen 504-Statuscode zurückgeben?",
+      "english": "Should the server return a 504 status code in case of a timeout?",
+      "russian": "Должен ли сервер возвращать статус-код 504 в случае тайм-аута?",
+      "farsi": "آیا سرور باید در صورت تایم اوت یک کد وضعیت 504 برگرداند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bei fehlenden Daten sollten wir einen 204-No-Content-Code senden.",
+      "english": "We should send a 204 No Content code when data is missing.",
+      "russian": "Мы должны отправлять код 204 No Content, если данные отсутствуют.",
+      "farsi": "باید یک کد 204 No Content ارسال کنیم وقتی داده‌ای وجود ندارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn die Anfrage korrekt verarbeitet wurde, aber keine Inhalte zurückgibt, wäre ein 204-Status angemessen.",
+      "english": "If the request was processed correctly but returns no content, a 204 status would be appropriate.",
+      "russian": "Если запрос был обработан корректно, но не возвращает контент, статус 204 будет уместен.",
+      "farsi": "اگر درخواست به درستی پردازش شده اما محتوایی برنگرداند، یک کد وضعیت 204 مناسب خواهد بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie bitte sicherstellen, dass bei jeder API-Antwort der richtige HTTP-Statuscode gesetzt ist?",
+      "english": "Could you please ensure that the correct HTTP status code is set for every API response?",
+      "russian": "Можете ли вы, пожалуйста, убедиться, что правильный HTTP-статус код установлен для каждого ответа API?",
+      "farsi": "آیا می‌توانید لطفاً اطمینان حاصل کنید که کد وضعیت صحیح HTTP برای هر پاسخ API تنظیم شده است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Server gibt einen 503-Service-Unavailable-Fehler zurück. Können Sie die Serverauslastung prüfen?",
+      "english": "The server returns a 503 Service Unavailable error. Can you check the server load?",
+      "russian": "Сервер возвращает ошибку 503 Service Unavailable. Можете ли вы проверить загрузку сервера?",
+      "farsi": "سرور یک خطای 503 Service Unavailable برمی‌گرداند. آیا می‌توانید بار سرور را بررسی کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir sollten den Statuscode 302 verwenden, um den Benutzer auf eine andere URL umzuleiten.",
+      "english": "We should use status code 302 to redirect the user to another URL.",
+      "russian": "Мы должны использовать статус-код 302, чтобы перенаправить пользователя на другой URL.",
+      "farsi": "باید از کد وضعیت 302 استفاده کنیم تا کاربر را به یک URL دیگر هدایت کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bei einer Anfrage, die die maximale Größe überschreitet, sollten wir einen 413-Statuscode senden.",
+      "english": "For a request that exceeds the maximum size, we should send a 413 status code.",
+      "russian": "Для запроса, превышающего максимальный размер, мы должны отправить статус-код 413.",
+      "farsi": "برای یک درخواست که از اندازه حداکثر تجاوز کرده، باید یک کد وضعیت 413 ارسال کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie bitte sicherstellen, dass der 429 Too Many Requests-Status korrekt ausgelöst wird?",
+      "english": "Could you please ensure that the 429 Too Many Requests status is triggered correctly?",
+      "russian": "Можете ли вы, пожалуйста, убедиться, что статус 429 Too Many Requests вызывается корректно?",
+      "farsi": "آیا می‌توانید لطفاً اطمینان حاصل کنید که وضعیت 429 Too Many Requests به درستی فعال می‌شود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bei einem fehlgeschlagenen Datenbankzugriff sollten wir einen 500-Fehler an das Frontend senden.",
+      "english": "For a failed database access, we should send a 500 error to the frontend.",
+      "russian": "В случае неудачного доступа к базе данных мы должны отправить ошибку 500 на фронтенд.",
+      "farsi": "برای دسترسی ناموفق به پایگاه داده، باید یک خطای 500 به فرانت‌اند ارسال کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollte der 404-Fehler auch bei ungültigen API-Routen zurückgegeben werden?",
+      "english": "Should the 404 error also be returned for invalid API routes?",
+      "russian": "Должен ли код ошибки 404 возвращаться и для недопустимых маршрутов API?",
+      "farsi": "آیا خطای 404 باید برای مسیرهای نامعتبر API نیز برگردانده شود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können Sie überprüfen, warum der Server einen 405-Method Not Allowed-Fehler zurückgibt?",
+      "english": "Can you check why the server is returning a 405 Method Not Allowed error?",
+      "russian": "Можете ли вы проверить, почему сервер возвращает ошибку 405 Method Not Allowed?",
+      "farsi": "آیا می‌توانید بررسی کنید چرا سرور یک خطای 405 Method Not Allowed برمی‌گرداند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bei einem Konflikt in den Daten sollte der Server einen 409-Fehlercode senden.",
+      "english": "In case of a conflict in the data, the server should send a 409 error code.",
+      "russian": "В случае конфликта данных сервер должен отправить код ошибки 409.",
+      "farsi": "در صورت وجود تضاد در داده‌ها، سرور باید یک کد خطای 409 ارسال کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie bitte den 201-Created-Status verwenden, wenn eine neue Ressource erfolgreich erstellt wurde?",
+      "english": "Could you please use the 201 Created status when a new resource has been successfully created?",
+      "russian": "Можете ли вы, пожалуйста, использовать статус 201 Created, когда новый ресурс успешно создан?",
+      "farsi": "آیا می‌توانید لطفاً از وضعیت 201 Created استفاده کنید وقتی یک منبع جدید با موفقیت ایجاد شده است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir dem Benutzer mitteilen, dass die Anfrage fehlgeschlagen ist?",
+      "english": "How should we inform the user that the request has failed?",
+      "russian": "Как нам сообщить пользователю, что запрос не удался?",
+      "farsi": "چگونه باید به کاربر اطلاع دهیم که درخواست ناموفق بوده است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können wir spezifische Fehlermeldungen basierend auf den HTTP-Statuscodes anzeigen?",
+      "english": "Can we display specific error messages based on the HTTP status codes?",
+      "russian": "Можем ли мы отображать специфические сообщения об ошибках на основе HTTP-статус кодов?",
+      "farsi": "آیا می‌توانیم پیام‌های خطای خاصی را بر اساس کدهای وضعیت HTTP نمایش دهیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Benutzer sollte eine verständliche Fehlermeldung sehen, wenn ein 404-Fehler auftritt.",
+      "english": "The user should see a clear error message when a 404 error occurs.",
+      "russian": "Пользователь должен увидеть понятное сообщение об ошибке, если возникает ошибка 404.",
+      "farsi": "کاربر باید یک پیام خطای واضح ببیند زمانی که یک خطای 404 رخ می‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollen wir bei einem 500-Fehler eine allgemeine Fehlermeldung anzeigen oder detailliertere Informationen liefern?",
+      "english": "Should we display a general error message or provide more detailed information for a 500 error?",
+      "russian": "Должны ли мы отображать общее сообщение об ошибке или предоставить более подробную информацию при ошибке 500?",
+      "farsi": "آیا باید یک پیام خطای عمومی نمایش دهیم یا اطلاعات دقیق‌تری برای یک خطای 500 ارائه دهیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können wir bei einem 401-Fehler den Benutzer auf die Anmeldeseite weiterleiten?",
+      "english": "Can we redirect the user to the login page for a 401 error?",
+      "russian": "Можем ли мы перенаправить пользователя на страницу входа при ошибке 401?",
+      "farsi": "آیا می‌توانیم کاربر را در صورت خطای 401 به صفحه ورود هدایت کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir den Benutzer über einen 403-Fehler informieren, wenn er keine Berechtigung hat?",
+      "english": "How should we inform the user about a 403 error when they lack permission?",
+      "russian": "Как нам сообщить пользователю об ошибке 403, если у него нет прав доступа?",
+      "farsi": "چگونه باید به کاربر درباره خطای 403 اطلاع دهیم وقتی که مجوز لازم را ندارد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollen wir einen speziellen Fehlerdialog für Serverfehler implementieren?",
+      "english": "Should we implement a specific error dialog for server errors?",
+      "russian": "Должны ли мы реализовать специальный диалог ошибок для серверных ошибок?",
+      "farsi": "آیا باید یک دیالوگ خطای خاص برای خطاهای سرور پیاده‌سازی کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Benutzer sollte eine Warnung erhalten, wenn der Server einen 503-Fehler zurückgibt.",
+      "english": "The user should receive a warning when the server returns a 503 error.",
+      "russian": "Пользователь должен получить предупреждение, если сервер возвращает ошибку 503.",
+      "farsi": "کاربر باید یک هشدار دریافت کند زمانی که سرور یک خطای 503 برمی‌گرداند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können wir eine Retry-Option anbieten, wenn ein 504-Timeout-Fehler auftritt?",
+      "english": "Can we offer a retry option when a 504 timeout error occurs?",
+      "russian": "Можем ли мы предложить вариант повторной попытки при возникновении ошибки 504 тайм-аута?",
+      "farsi": "آیا می‌توانیم گزینه تلاش مجدد را ارائه دهیم زمانی که یک خطای 504 تایم‌اوت رخ می‌دهد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Fehlermeldung für einen 400-Bad Request sollte die Ursache des Fehlers erklären.",
+      "english": "The error message for a 400 Bad Request should explain the cause of the error.",
+      "russian": "Сообщение об ошибке 400 Bad Request должно объяснять причину ошибки.",
+      "farsi": "پیام خطای 400 Bad Request باید علت خطا را توضیح دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollen wir dem Benutzer erlauben, eine alternative Aktion durchzuführen, wenn ein 409-Fehler auftritt?",
+      "english": "Should we allow the user to perform an alternative action when a 409 error occurs?",
+      "russian": "Должны ли мы позволить пользователю выполнить альтернативное действие при ошибке 409?",
+      "farsi": "آیا باید به کاربر اجازه دهیم که یک اقدام جایگزین انجام دهد وقتی یک خطای 409 رخ می‌دهد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir die Benutzererfahrung bei einem 502 Bad Gateway verbessern?",
+      "english": "How should we improve the user experience when a 502 Bad Gateway occurs?",
+      "russian": "Как мы можем улучшить пользовательский опыт при возникновении ошибки 502 Bad Gateway?",
+      "farsi": "چگونه باید تجربه کاربری را بهبود بخشیم وقتی یک خطای 502 Bad Gateway رخ می‌دهد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Benutzer sollte die Möglichkeit haben, die Seite neu zu laden, wenn ein 503-Fehler auftritt.",
+      "english": "The user should have the option to reload the page when a 503 error occurs.",
+      "russian": "Пользователь должен иметь возможность перезагрузить страницу при ошибке 503.",
+      "farsi": "کاربر باید امکان بارگذاری مجدد صفحه را داشته باشد وقتی یک خطای 503 رخ می‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollen wir eine spezifische Meldung für nicht autorisierte Zugriffe anzeigen, wenn ein 401-Fehler auftritt?",
+      "english": "Should we display a specific message for unauthorized access when a 401 error occurs?",
+      "russian": "Должны ли мы отображать специальное сообщение для неавторизованного доступа при ошибке 401?",
+      "farsi": "آیا باید یک پیام خاص برای دسترسی غیرمجاز نمایش دهیم زمانی که یک خطای 401 رخ می‌دهد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Benutzer sollte eine informative Meldung erhalten, wenn ein 204-No-Content-Response gesendet wird.",
+      "english": "The user should receive an informative message when a 204 No Content response is sent.",
+      "russian": "Пользователь должен получить информативное сообщение при отправке ответа 204 No Content.",
+      "farsi": "کاربر باید یک پیام اطلاع‌رسانی دریافت کند زمانی که یک پاسخ 204 No Content ارسال می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollen wir eine Meldung anzeigen, wenn der Benutzer versucht, eine Seite zu laden, die nicht gefunden wird (404)?",
+      "english": "Should we display a message when the user tries to load a page that cannot be found (404)?",
+      "russian": "Должны ли мы отображать сообщение, когда пользователь пытается загрузить страницу, которая не найдена (404)?",
+      "farsi": "آیا باید یک پیام نمایش دهیم وقتی کاربر سعی می‌کند صفحه‌ای را بارگذاری کند که پیدا نمی‌شود (404)؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Benutzer sollte eine Benachrichtigung erhalten, wenn die Anfrage erfolgreich war, aber keine Daten zurückgibt (204).",
+      "english": "The user should receive a notification when the request was successful but returns no data (204).",
+      "russian": "Пользователь должен получить уведомление, если запрос был успешным, но не возвращает данные (204).",
+      "farsi": "کاربر باید یک اطلاعیه دریافت کند زمانی که درخواست موفقیت‌آمیز بوده ولی داده‌ای برنمی‌گرداند (204)."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollen wir die Fehlermeldungen basierend auf der HTTP-Fehlerkategorie (4xx, 5xx) gestalten?",
+      "english": "Should we design error messages based on the HTTP error category (4xx, 5xx)?",
+      "russian": "Должны ли мы разрабатывать сообщения об ошибках на основе категории ошибок HTTP (4xx, 5xx)?",
+      "farsi": "آیا باید پیام‌های خطا را بر اساس دسته‌بندی خطاهای HTTP (4xx, 5xx) طراحی کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie können wir sicherstellen, dass die Fehlermeldungen dem Benutzer helfen, das Problem zu verstehen?",
+      "english": "How can we ensure that the error messages help the user understand the problem?",
+      "russian": "Как мы можем убедиться, что сообщения об ошибках помогают пользователю понять проблему?",
+      "farsi": "چگونه می‌توانیم اطمینان حاصل کنیم که پیام‌های خطا به کاربر کمک می‌کنند مشکل را درک کند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollen wir dem Benutzer eine Rückmeldung geben, wenn die Anfrage zu lange dauert und ein 504-Timeout auftritt?",
+      "english": "Should we provide feedback to the user when the request takes too long and a 504 timeout occurs?",
+      "russian": "Должны ли мы предоставить пользователю обратную связь, если запрос занимает слишком много времени и происходит тайм-аут 504?",
+      "farsi": "آیا باید به کاربر بازخورد دهیم زمانی که درخواست بیش از حد طول می‌کشد و یک تایم‌اوت 504 رخ می‌دهد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Benutzer sollte über jede Änderung der Daten informiert werden, die zu einem 409-Konflikt führen könnte.",
+      "english": "The user should be informed about any data changes that could lead to a 409 conflict.",
+      "russian": "Пользователь должен быть проинформирован о любых изменениях данных, которые могут привести к конфликту 409.",
+      "farsi": "کاربر باید در مورد هرگونه تغییر داده که ممکن است به یک تضاد 409 منجر شود، مطلع شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir die Fehlermeldung gestalten, wenn der Server aufgrund eines 503-Fehlers nicht erreichbar ist?",
+      "english": "How should we design the error message when the server is unreachable due to a 503 error?",
+      "russian": "Как нам оформить сообщение об ошибке, если сервер недоступен из-за ошибки 503?",
+      "farsi": "چگونه باید پیام خطا را طراحی کنیم زمانی که سرور به دلیل یک خطای 503 غیرقابل دسترسی است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Benutzer sollte eine klare Anleitung erhalten, was zu tun ist, wenn ein 403-Fehler auftritt.",
+      "english": "The user should receive clear instructions on what to do when a 403 error occurs.",
+      "russian": "Пользователь должен получить четкие инструкции о том, что делать, если возникает ошибка 403.",
+      "farsi": "کاربر باید دستورالعمل‌های روشنی دریافت کند که در صورت بروز خطای 403 چه کاری باید انجام دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollen wir dem Benutzer eine detaillierte Meldung oder eine allgemeine Fehlermeldung anzeigen, wenn ein 500-Fehler auftritt?",
+      "english": "Should we display a detailed message or a general error message when a 500 error occurs?",
+      "russian": "Должны ли мы отображать подробное сообщение или общее сообщение об ошибке при возникновении ошибки 500?",
+      "farsi": "آیا باید یک پیام دقیق یا یک پیام خطای عمومی نمایش دهیم زمانی که یک خطای 500 رخ می‌دهد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können wir den Benutzer auffordern, die Seite neu zu laden, wenn ein 502 Bad Gateway-Fehler auftritt?",
+      "english": "Can we prompt the user to reload the page when a 502 Bad Gateway error occurs?",
+      "russian": "Можем ли мы предложить пользователю перезагрузить страницу при возникновении ошибки 502 Bad Gateway?",
+      "farsi": "آیا می‌توانیم از کاربر بخواهیم صفحه را دوباره بارگذاری کند زمانی که یک خطای 502 Bad Gateway رخ می‌دهد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie können wir verhindern, dass dieselbe Anfrage mehrfach gesendet wird?",
+      "english": "How can we prevent the same request from being sent multiple times?",
+      "russian": "Как мы можем предотвратить многократную отправку одного и того же запроса?",
+      "farsi": "چگونه می‌توانیم از ارسال چندباره همان درخواست جلوگیری کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können Sie sicherstellen, dass keine doppelten API-Requests vom Frontend gesendet werden?",
+      "english": "Can you ensure that no duplicate API requests are sent from the frontend?",
+      "russian": "Можете ли вы гарантировать, что с фронтенда не отправляются дублирующиеся запросы API?",
+      "farsi": "آیا می‌توانید اطمینان حاصل کنید که درخواست‌های تکراری API از سمت فرانت‌اند ارسال نمی‌شوند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollen wir bei mehrfachen Fehlversuchen die Anfrage pausieren und dem Benutzer eine Meldung anzeigen?",
+      "english": "Should we pause the request after multiple failed attempts and display a message to the user?",
+      "russian": "Должны ли мы приостановить запрос после нескольких неудачных попыток и отобразить сообщение пользователю?",
+      "farsi": "آیا باید پس از چندین تلاش ناموفق درخواست را متوقف کنیم و یک پیام به کاربر نمایش دهیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können wir die Anzahl der gleichzeitigen API-Requests limitieren, um Überlastungen zu vermeiden?",
+      "english": "Can we limit the number of simultaneous API requests to avoid overload?",
+      "russian": "Можем ли мы ограничить количество одновременных API-запросов, чтобы избежать перегрузки?",
+      "farsi": "آیا می‌توانیم تعداد درخواست‌های API همزمان را محدود کنیم تا از بارگذاری بیش از حد جلوگیری کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir den Benutzer darüber informieren, wenn zu viele Anfragen gesendet werden (429 Too Many Requests)?",
+      "english": "How should we inform the user when too many requests are sent (429 Too Many Requests)?",
+      "russian": "Как мы должны информировать пользователя, если отправлено слишком много запросов (429 Too Many Requests)?",
+      "farsi": "چگونه باید به کاربر اطلاع دهیم زمانی که تعداد زیادی درخواست ارسال شده است (429 Too Many Requests)؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können Sie sicherstellen, dass Anfragen bei Netzwerkfehlern automatisch erneut gesendet werden?",
+      "english": "Can you ensure that requests are automatically resent in case of network errors?",
+      "russian": "Можете ли вы гарантировать, что запросы будут автоматически отправлены повторно в случае сетевых ошибок?",
+      "farsi": "آیا می‌توانید اطمینان حاصل کنید که درخواست‌ها در صورت خطاهای شبکه به صورت خودکار مجدداً ارسال شوند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollen wir ein Timeout für API-Anfragen festlegen, um lange Wartezeiten zu vermeiden?",
+      "english": "Should we set a timeout for API requests to avoid long waiting times?",
+      "russian": "Должны ли мы установить тайм-аут для запросов API, чтобы избежать долгого ожидания?",
+      "farsi": "آیا باید یک تایم‌اوت برای درخواست‌های API تنظیم کنیم تا از زمان‌های انتظار طولانی جلوگیری کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten wir eine Retry-Strategie implementieren, um sicherzustellen, dass fehlgeschlagene Anfragen wiederholt werden?",
+      "english": "Could we implement a retry strategy to ensure that failed requests are retried?",
+      "russian": "Можем ли мы реализовать стратегию повторных попыток, чтобы убедиться, что неудавшиеся запросы повторяются?",
+      "farsi": "آیا می‌توانیم یک استراتژی تلاش مجدد پیاده‌سازی کنیم تا اطمینان حاصل شود که درخواست‌های ناموفق دوباره امتحان می‌شوند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie können wir sicherstellen, dass fehlerhafte Anfragen den Rest der Anwendung nicht beeinflussen?",
+      "english": "How can we ensure that faulty requests do not affect the rest of the application?",
+      "russian": "Как мы можем убедиться, что ошибочные запросы не влияют на остальную часть приложения?",
+      "farsi": "چگونه می‌توانیم اطمینان حاصل کنیم که درخواست‌های اشتباه بر بقیه برنامه تأثیری ندارند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie eine Drosselung der Anfragen einrichten, um Überlastungen zu verhindern?",
+      "english": "Could you set up throttling of requests to prevent overload?",
+      "russian": "Можете ли вы настроить ограничение количества запросов, чтобы предотвратить перегрузку?",
+      "farsi": "آیا می‌توانید یک محدودیت سرعت برای درخواست‌ها تنظیم کنید تا از بارگذاری بیش از حد جلوگیری شود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollen wir die API-Antworten zwischenspeichern, um unnötige Anfragen zu vermeiden?",
+      "english": "Should we cache the API responses to avoid unnecessary requests?",
+      "russian": "Должны ли мы кэшировать ответы API, чтобы избежать ненужных запросов?",
+      "farsi": "آیا باید پاسخ‌های API را ذخیره کنیم تا از درخواست‌های غیرضروری جلوگیری شود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können Sie sicherstellen, dass die Anzahl der gleichzeitigen Verbindungen limitiert ist, um Zeitüberschreitungen zu verhindern?",
+      "english": "Can you ensure that the number of concurrent connections is limited to prevent timeouts?",
+      "russian": "Можете ли вы гарантировать, что количество одновременных соединений ограничено, чтобы предотвратить тайм-ауты?",
+      "farsi": "آیا می‌توانید اطمینان حاصل کنید که تعداد اتصالات همزمان محدود است تا از زمان‌های اتمام جلوگیری شود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir Anfragen priorisieren, um kritische Daten zuerst zu laden?",
+      "english": "How should we prioritize requests to load critical data first?",
+      "russian": "Как нам приоритизировать запросы, чтобы сначала загружать критически важные данные?",
+      "farsi": "چگونه باید درخواست‌ها را اولویت‌بندی کنیم تا داده‌های مهم ابتدا بارگذاری شوند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollen wir eine Exponential Backoff-Strategie für das Wiederholen fehlgeschlagener Anfragen implementieren?",
+      "english": "Should we implement an exponential backoff strategy for retrying failed requests?",
+      "russian": "Должны ли мы реализовать стратегию экспоненциального увеличения интервалов для повторных попыток неудавшихся запросов?",
+      "farsi": "آیا باید یک استراتژی Exponential Backoff برای تکرار درخواست‌های ناموفق پیاده‌سازی کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können wir eine Meldung anzeigen, wenn der Benutzer zu viele Anfragen in kurzer Zeit sendet?",
+      "english": "Can we display a message when the user sends too many requests in a short time?",
+      "russian": "Можем ли мы отобразить сообщение, если пользователь отправляет слишком много запросов за короткий промежуток времени?",
+      "farsi": "آیا می‌توانیم یک پیام نمایش دهیم زمانی که کاربر تعداد زیادی درخواست را در زمان کوتاهی ارسال می‌کند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können Sie sicherstellen, dass Anfragen in der richtigen Reihenfolge gesendet werden?",
+      "english": "Can you ensure that requests are sent in the correct order?",
+      "russian": "Можете ли вы гарантировать, что запросы отправляются в правильном порядке?",
+      "farsi": "آیا می‌توانید اطمینان حاصل کنید که درخواست‌ها به ترتیب صحیح ارسال می‌شوند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollen wir eine Überwachungsfunktion implementieren, um potenzielle Netzwerkprobleme frühzeitig zu erkennen?",
+      "english": "Should we implement a monitoring function to detect potential network issues early?",
+      "russian": "Должны ли мы реализовать функцию мониторинга, чтобы заранее выявлять потенциальные проблемы с сетью?",
+      "farsi": "آیا باید یک عملکرد نظارت پیاده‌سازی کنیم تا مشکلات احتمالی شبکه را زود تشخیص دهیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können Sie sicherstellen, dass bei einem Netzwerkfehler die Verbindung erneut aufgebaut wird?",
+      "english": "Can you ensure that the connection is reestablished in case of a network error?",
+      "russian": "Можете ли вы гарантировать, что соединение будет восстановлено в случае сетевой ошибки?",
+      "farsi": "آیا می‌توانید اطمینان حاصل کنید که در صورت بروز خطای شبکه اتصال مجدداً برقرار شود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollen wir einen Timeout für Anfragen festlegen, um zu lange Wartezeiten zu verhindern?",
+      "english": "Should we set a timeout for requests to prevent long waiting times?",
+      "russian": "Должны ли мы установить тайм-аут для запросов, чтобы предотвратить долгие ожидания?",
+      "farsi": "آیا باید برای درخواست‌ها تایم‌اوت تنظیم کنیم تا از زمان‌های انتظار طولانی جلوگیری شود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir sicherstellen, dass fehlerhafte Anfragen nicht wiederholt gesendet werden?",
+      "english": "How can we ensure that faulty requests are not repeatedly sent?",
+      "russian": "Как мы можем убедиться, что ошибочные запросы не отправляются повторно?",
+      "farsi": "چگونه می‌توانیم اطمینان حاصل کنیم که درخواست‌های نادرست دوباره ارسال نمی‌شوند؟"
+    }
+  ]
+}

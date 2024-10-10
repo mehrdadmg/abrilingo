@@ -236,6 +236,30 @@ const alllessons = [
     name: 'B1U06',
   },
   {
+    file_name: 'frontend_backend_01.json',
+    name: 'Frontend_Backend_01',
+  },
+  {
+    file_name: 'frontend_backend_02.json',
+    name: 'Frontend_Backend_02',
+  },
+  {
+    file_name: 'frontend_backend_03.json',
+    name: 'Frontend_Backend_03',
+  },
+  {
+    file_name: 'frontend_backend_04.json',
+    name: 'Frontend_Backend_04',
+  },
+  {
+    file_name: 'frontend_backend_05.json',
+    name: 'Frontend_Backend_05',
+  },
+  {
+    file_name: 'frontend_backend_06.json',
+    name: 'Frontend_Backend_06',
+  },
+  {
     file_name: 'frontend_1_100.json',
     name: 'Frontend_1_100',
   },

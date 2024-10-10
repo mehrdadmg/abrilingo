@@ -1,0 +1,817 @@
+{
+  "info": {
+    "name": "Frontend_Backend_05",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie eine API bereitstellen, die es uns ermöglicht, Daten nach bestimmten Feldern zu filtern?",
+      "english": "Could you provide an API that allows us to filter data by specific fields?",
+      "russian": "Можете ли вы предоставить API, которое позволит нам фильтровать данные по определенным полям?",
+      "farsi": "آیا می‌توانید یک API ارائه دهید که به ما اجازه دهد داده‌ها را بر اساس فیلدهای مشخصی فیلتر کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie können wir eine Abfrage für alle Datensätze mit einem bestimmten Status erstellen?",
+      "english": "How can we create a query for all records with a specific status?",
+      "russian": "Как мы можем создать запрос для всех записей с определенным статусом?",
+      "farsi": "چگونه می‌توانیم یک کوئری برای تمام رکوردها با یک وضعیت خاص ایجاد کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können Sie einen Endpunkt implementieren, um eine Suche mit mehreren Filtern zu ermöglichen?",
+      "english": "Can you implement an endpoint to enable a search with multiple filters?",
+      "russian": "Можете ли вы реализовать конечную точку для поиска с несколькими фильтрами?",
+      "farsi": "آیا می‌توانید یک نقطه انتهایی برای امکان جستجو با چندین فیلتر پیاده‌سازی کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir benötigen eine API, die uns erlaubt, Datensätze nach Datum zu sortieren.",
+      "english": "We need an API that allows us to sort records by date.",
+      "russian": "Нам нужен API, который позволит сортировать записи по дате.",
+      "farsi": "ما به یک API نیاز داریم که به ما اجازه دهد رکوردها را بر اساس تاریخ مرتب کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie sicherstellen, dass die Abfragen nach Benutzernamen gefiltert werden können?",
+      "english": "Could you ensure that the queries can be filtered by username?",
+      "russian": "Можете ли вы гарантировать, что запросы можно фильтровать по имени пользователя?",
+      "farsi": "آیا می‌توانید اطمینان حاصل کنید که کوئری‌ها را می‌توان بر اساس نام کاربری فیلتر کرد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie können wir eine Suche nach einem bestimmten Keyword im Titel durchführen?",
+      "english": "How can we perform a search for a specific keyword in the title?",
+      "russian": "Как мы можем выполнить поиск по определенному ключевому слову в заголовке?",
+      "farsi": "چگونه می‌توانیم یک جستجو برای یک کلمه کلیدی خاص در عنوان انجام دهیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollen wir eine Paginierung hinzufügen, um große Datenmengen zu verwalten?",
+      "english": "Should we add pagination to manage large datasets?",
+      "russian": "Должны ли мы добавить постраничную навигацию для управления большими объемами данных?",
+      "farsi": "آیا باید صفحه‌بندی را برای مدیریت مجموعه‌های بزرگ داده‌ها اضافه کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie können wir sicherstellen, dass die API nur die relevanten Datensätze zurückgibt?",
+      "english": "How can we ensure that the API returns only the relevant records?",
+      "russian": "Как мы можем гарантировать, что API возвращает только соответствующие записи?",
+      "farsi": "چگونه می‌توانیم اطمینان حاصل کنیم که API فقط رکوردهای مرتبط را برمی‌گرداند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie eine Möglichkeit hinzufügen, um Datensätze basierend auf dem Erstellungsdatum zu filtern?",
+      "english": "Could you add a way to filter records based on their creation date?",
+      "russian": "Можете ли вы добавить возможность фильтрации записей по дате создания?",
+      "farsi": "آیا می‌توانید یک راه برای فیلتر کردن رکوردها بر اساس تاریخ ایجاد اضافه کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie können wir nur aktive Benutzer in der Abfrage zurückgeben?",
+      "english": "How can we return only active users in the query?",
+      "russian": "Как мы можем вернуть только активных пользователей в запросе?",
+      "farsi": "چگونه می‌توانیم در کوئری فقط کاربران فعال را برگردانیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollen wir eine Volltextsuche für bestimmte Felder implementieren?",
+      "english": "Should we implement full-text search for specific fields?",
+      "russian": "Должны ли мы реализовать полнотекстовый поиск для определенных полей?",
+      "farsi": "آیا باید یک جستجوی تمام‌متن برای فیلدهای خاص پیاده‌سازی کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können Sie sicherstellen, dass wir nach verschiedenen Statuswerten filtern können?",
+      "english": "Can you ensure that we can filter by different status values?",
+      "russian": "Можете ли вы гарантировать, что мы можем фильтровать по различным значениям статуса?",
+      "farsi": "آیا می‌توانید اطمینان حاصل کنید که می‌توانیم بر اساس مقادیر مختلف وضعیت فیلتر کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie können wir eine Abfrage für Datensätze erstellen, die in einem bestimmten Zeitraum aktualisiert wurden?",
+      "english": "How can we create a query for records that were updated within a specific time period?",
+      "russian": "Как мы можем создать запрос для записей, которые были обновлены в течение определенного периода времени?",
+      "farsi": "چگونه می‌توانیم یک کوئری برای رکوردهایی ایجاد کنیم که در یک بازه زمانی خاص به‌روزرسانی شده‌اند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie einen Endpunkt erstellen, der es uns ermöglicht, nach mehreren Kriterien gleichzeitig zu filtern?",
+      "english": "Could you create an endpoint that allows us to filter by multiple criteria at the same time?",
+      "russian": "Можете ли вы создать конечную точку, которая позволит нам фильтровать по нескольким критериям одновременно?",
+      "farsi": "آیا می‌توانید یک نقطه انتهایی ایجاد کنید که به ما امکان فیلتر کردن بر اساس چندین معیار به‌طور هم‌زمان را بدهد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir die Filteroptionen in der API dokumentieren?",
+      "english": "How should we document the filter options in the API?",
+      "russian": "Как мы должны документировать параметры фильтра в API?",
+      "farsi": "چگونه باید گزینه‌های فیلتر را در API مستند کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können Sie sicherstellen, dass die API die Möglichkeit bietet, Datensätze nach Benutzer-ID zu filtern?",
+      "english": "Can you ensure that the API provides the ability to filter records by user ID?",
+      "russian": "Можете ли вы гарантировать, что API предоставляет возможность фильтрации записей по идентификатору пользователя?",
+      "farsi": "آیا می‌توانید اطمینان حاصل کنید که API امکان فیلتر کردن رکوردها بر اساس شناسه کاربر را ارائه می‌دهد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollen wir die Filter in der URL oder im Body der Anfrage übergeben?",
+      "english": "Should we pass the filters in the URL or in the body of the request?",
+      "russian": "Должны ли мы передавать фильтры в URL или в теле запроса?",
+      "farsi": "آیا باید فیلترها را در URL یا در بدنه درخواست ارسال کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir eine Abfrage für Datensätze erstellen, die eine bestimmte Eigenschaft enthalten?",
+      "english": "How should we create a query for records that contain a specific attribute?",
+      "russian": "Как мы должны создать запрос для записей, содержащих определенный атрибут?",
+      "farsi": "چگونه باید یک کوئری برای رکوردهایی ایجاد کنیم که یک ویژگی خاص دارند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie eine Sortierfunktion für die API-Abfragen hinzufügen?",
+      "english": "Could you add a sorting function to the API queries?",
+      "russian": "Можете ли вы добавить функцию сортировки к запросам API?",
+      "farsi": "آیا می‌توانید یک عملکرد مرتب‌سازی به کوئری‌های API اضافه کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie können wir eine Suchabfrage implementieren, die mehrere Keywords unterstützt?",
+      "english": "How can we implement a search query that supports multiple keywords?",
+      "russian": "Как мы можем реализовать поисковый запрос, поддерживающий несколько ключевых слов?",
+      "farsi": "چگونه می‌توانیم یک کوئری جستجو را پیاده‌سازی کنیم که از چندین کلمه کلیدی پشتیبانی کند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollen wir eine Filteroption für Datensätze hinzufügen, die einen bestimmten Status aufweisen?",
+      "english": "Should we add a filter option for records that have a specific status?",
+      "russian": "Должны ли мы добавить опцию фильтра для записей с определенным статусом?",
+      "farsi": "آیا باید گزینه فیلتر برای رکوردهایی که یک وضعیت خاص دارند، اضافه کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie eine Möglichkeit einbauen, um nach der letzten Aktualisierung zu filtern?",
+      "english": "Could you add a feature to filter by the last update?",
+      "russian": "Можете ли вы добавить возможность фильтрации по последнему обновлению?",
+      "farsi": "آیا می‌توانید امکانی اضافه کنید تا بر اساس آخرین به‌روزرسانی فیلتر کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie können wir sicherstellen, dass die API nur Datensätze zurückgibt, die bestimmten Kriterien entsprechen?",
+      "english": "How can we ensure that the API only returns records that meet specific criteria?",
+      "russian": "Как мы можем гарантировать, что API возвращает только записи, соответствующие определенным критериям?",
+      "farsi": "چگونه می‌توانیم اطمینان حاصل کنیم که API فقط رکوردهایی را برمی‌گرداند که با معیارهای خاص مطابقت دارند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollen wir eine Option hinzufügen, um nach numerischen Werten zu filtern?",
+      "english": "Should we add an option to filter by numerical values?",
+      "russian": "Должны ли мы добавить опцию фильтрации по числовым значениям?",
+      "farsi": "آیا باید گزینه‌ای برای فیلتر کردن بر اساس مقادیر عددی اضافه کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können Sie eine API erstellen, die uns erlaubt, nach benutzerdefinierten Feldern zu suchen?",
+      "english": "Can you create an API that allows us to search by custom fields?",
+      "russian": "Можете ли вы создать API, которое позволит искать по пользовательским полям?",
+      "farsi": "آیا می‌توانید یک API ایجاد کنید که به ما اجازه دهد بر اساس فیلدهای سفارشی جستجو کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir eine Suche basierend auf dem Inhalt eines bestimmten Feldes implementieren?",
+      "english": "How should we implement a search based on the content of a specific field?",
+      "russian": "Как мы должны реализовать поиск на основе содержимого определенного поля?",
+      "farsi": "چگونه باید یک جستجو بر اساس محتوای یک فیلد خاص پیاده‌سازی کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie eine Funktion hinzufügen, um Datensätze basierend auf mehreren Filtern zu sortieren?",
+      "english": "Could you add a function to sort records based on multiple filters?",
+      "russian": "Можете ли вы добавить функцию сортировки записей на основе нескольких фильтров?",
+      "farsi": "آیا می‌توانید یک عملکرد برای مرتب‌سازی رکوردها بر اساس چندین فیلتر اضافه کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie können wir sicherstellen, dass die API flexibel genug ist, um mehrere Filterbedingungen zu unterstützen?",
+      "english": "How can we ensure that the API is flexible enough to support multiple filter conditions?",
+      "russian": "Как мы можем гарантировать, что API достаточно гибкий, чтобы поддерживать несколько условий фильтрации?",
+      "farsi": "چگونه می‌توانیم اطمینان حاصل کنیم که API به اندازه کافی انعطاف‌پذیر است تا از چندین شرط فیلتر پشتیبانی کند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollen wir eine Paginierungsfunktion hinzufügen, um große Datensätze effizient zu laden?",
+      "english": "Should we add a pagination function to efficiently load large datasets?",
+      "russian": "Должны ли мы добавить функцию постраничной навигации для эффективной загрузки больших наборов данных?",
+      "farsi": "آیا باید یک تابع صفحه‌بندی اضافه کنیم تا مجموعه‌های داده بزرگ را به‌طور کارآمد بارگیری کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie können wir eine Abfrage für Datensätze erstellen, die einem bestimmten Kriterium entsprechen?",
+      "english": "How can we create a query for records that meet a specific criterion?",
+      "russian": "Как мы можем создать запрос для записей, соответствующих определенному критерию?",
+      "farsi": "چگونه می‌توانیم یک کوئری برای رکوردهایی ایجاد کنیم که با یک معیار خاص مطابقت دارند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie eine API bereitstellen, die es uns erlaubt, Datensätze nach Erstellungsdatum zu filtern?",
+      "english": "Could you provide an API that allows us to filter records by their creation date?",
+      "russian": "Можете ли вы предоставить API, которое позволит нам фильтровать записи по дате их создания?",
+      "farsi": "آیا می‌توانید یک API ارائه دهید که به ما اجازه دهد رکوردها را بر اساس تاریخ ایجادشان فیلتر کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie können wir sicherstellen, dass nur relevante Daten aus der Datenbank abgerufen werden?",
+      "english": "How can we ensure that only relevant data is retrieved from the database?",
+      "russian": "Как мы можем гарантировать, что из базы данных извлекаются только актуальные данные?",
+      "farsi": "چگونه می‌توانیم اطمینان حاصل کنیم که فقط داده‌های مرتبط از پایگاه داده بازیابی می‌شوند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollen wir eine Filteroption für Datensätze hinzufügen, die in einem bestimmten Zeitraum erstellt wurden?",
+      "english": "Should we add a filter option for records created within a specific time period?",
+      "russian": "Должны ли мы добавить опцию фильтрации для записей, созданных в определенный период времени?",
+      "farsi": "آیا باید گزینه فیلتر برای رکوردهایی که در یک بازه زمانی خاص ایجاد شده‌اند، اضافه کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können Sie sicherstellen, dass die API eine Suche nach benutzerdefinierten Werten unterstützt?",
+      "english": "Can you ensure that the API supports searching by custom values?",
+      "russian": "Можете ли вы гарантировать, что API поддерживает поиск по пользовательским значениям?",
+      "farsi": "آیا می‌توانید اطمینان حاصل کنید که API از جستجو بر اساس مقادیر سفارشی پشتیبانی می‌کند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir eine Abfrage für Datensätze erstellen, die nach verschiedenen Kriterien gefiltert werden?",
+      "english": "How should we create a query for records filtered by different criteria?",
+      "russian": "Как мы должны создать запрос для записей, отфильтрованных по разным критериям?",
+      "farsi": "چگونه باید یک کوئری برای رکوردهایی که بر اساس معیارهای مختلف فیلتر شده‌اند، ایجاد کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie eine Sortierfunktion für Datensätze basierend auf einem bestimmten Attribut hinzufügen?",
+      "english": "Could you add a sorting function for records based on a specific attribute?",
+      "russian": "Можете ли вы добавить функцию сортировки записей по определенному атрибуту?",
+      "farsi": "آیا می‌توانید یک تابع مرتب‌سازی برای رکوردها بر اساس یک ویژگی خاص اضافه کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie können wir sicherstellen, dass die Filterung der Datensätze effizient durchgeführt wird?",
+      "english": "How can we ensure that the filtering of records is done efficiently?",
+      "russian": "Как мы можем гарантировать, что фильтрация записей выполняется эффективно?",
+      "farsi": "چگونه می‌توانیم اطمینان حاصل کنیم که فیلتر کردن رکوردها به‌طور کارآمد انجام می‌شود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollen wir eine Option für die Filterung nach Zahlenwerten implementieren?",
+      "english": "Should we implement an option for filtering by numerical values?",
+      "russian": "Должны ли мы реализовать опцию фильтрации по числовым значениям?",
+      "farsi": "آیا باید گزینه‌ای برای فیلتر کردن بر اساس مقادیر عددی پیاده‌سازی کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können Sie eine API bereitstellen, die es uns ermöglicht, nach bestimmten Schlüsselwörtern zu suchen?",
+      "english": "Can you provide an API that allows us to search by specific keywords?",
+      "russian": "Можете ли вы предоставить API, которое позволит нам искать по определенным ключевым словам?",
+      "farsi": "آیا می‌توانید یک API ارائه دهید که به ما امکان جستجو بر اساس کلمات کلیدی خاص را بدهد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie können wir sicherstellen, dass die API nur die Datensätze zurückgibt, die bestimmten Filterkriterien entsprechen?",
+      "english": "How can we ensure that the API only returns records that meet specific filter criteria?",
+      "russian": "Как мы можем гарантировать, что API возвращает только записи, соответствующие определенным критериям фильтрации?",
+      "farsi": "چگونه می‌توانیم اطمینان حاصل کنیم که API فقط رکوردهایی را برمی‌گرداند که با معیارهای فیلتر خاص مطابقت دارند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie eine API erstellen, um neue Benutzerdaten in die Datenbank zu speichern?",
+      "english": "Could you create an API to store new user data in the database?",
+      "russian": "Можете ли вы создать API для сохранения новых данных пользователей в базе данных?",
+      "farsi": "آیا می‌توانید یک API ایجاد کنید تا داده‌های جدید کاربر را در پایگاه داده ذخیره کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir die Daten validieren, bevor sie an die Datenbank gesendet werden?",
+      "english": "How should we validate the data before it is sent to the database?",
+      "russian": "Как мы должны проверять данные перед их отправкой в базу данных?",
+      "farsi": "چگونه باید داده‌ها را قبل از ارسال به پایگاه داده اعتبارسنجی کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können Sie sicherstellen, dass die Daten korrekt in die Datenbank geschrieben werden?",
+      "english": "Can you ensure that the data is correctly written to the database?",
+      "russian": "Можете ли вы гарантировать, что данные корректно записаны в базу данных?",
+      "farsi": "آیا می‌توانید اطمینان حاصل کنید که داده‌ها به‌درستی در پایگاه داده نوشته می‌شوند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollen wir ein Feedback an den Benutzer geben, wenn die Daten erfolgreich gespeichert wurden?",
+      "english": "Should we provide feedback to the user when the data is successfully saved?",
+      "russian": "Должны ли мы предоставлять обратную связь пользователю, когда данные успешно сохранены?",
+      "farsi": "آیا باید به کاربر اطلاع دهیم که داده‌ها با موفقیت ذخیره شده‌اند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie können wir sicherstellen, dass die gespeicherten Daten auch in Echtzeit im Frontend angezeigt werden?",
+      "english": "How can we ensure that the stored data is also displayed in real-time on the frontend?",
+      "russian": "Как мы можем гарантировать, что сохраненные данные также отображаются в режиме реального времени на фронтенде?",
+      "farsi": "چگونه می‌توانیم اطمینان حاصل کنیم که داده‌های ذخیره شده نیز در زمان واقعی در فرانت‌اند نمایش داده می‌شوند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können Sie sicherstellen, dass neue Datensätze automatisch eine ID erhalten?",
+      "english": "Can you ensure that new records automatically receive an ID?",
+      "russian": "Можете ли вы гарантировать, что новые записи автоматически получают идентификатор?",
+      "farsi": "آیا می‌توانید اطمینان حاصل کنید که رکوردهای جدید به‌صورت خودکار یک شناسه دریافت می‌کنند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir Fehler beim Speichern der Daten in der Datenbank handhaben?",
+      "english": "How should we handle errors when saving data to the database?",
+      "russian": "Как мы должны обрабатывать ошибки при сохранении данных в базе данных?",
+      "farsi": "چگونه باید خطاها را هنگام ذخیره داده‌ها در پایگاه داده مدیریت کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie eine API implementieren, um Daten vom Frontend an die Datenbank zu senden?",
+      "english": "Could you implement an API to send data from the frontend to the database?",
+      "russian": "Можете ли вы реализовать API для отправки данных с фронтенда в базу данных?",
+      "farsi": "آیا می‌توانید یک API پیاده‌سازی کنید تا داده‌ها را از فرانت‌اند به پایگاه داده ارسال کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollen wir eine Bestätigung an den Benutzer senden, nachdem die Daten erfolgreich gespeichert wurden?",
+      "english": "Should we send a confirmation to the user after the data is successfully saved?",
+      "russian": "Должны ли мы отправлять подтверждение пользователю после успешного сохранения данных?",
+      "farsi": "آیا باید پس از اینکه داده‌ها با موفقیت ذخیره شدند، یک تأییدیه به کاربر ارسال کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie können wir sicherstellen, dass die Daten korrekt im Backend verarbeitet werden, bevor sie gespeichert werden?",
+      "english": "How can we ensure that the data is correctly processed in the backend before it is saved?",
+      "russian": "Как мы можем гарантировать, что данные корректно обрабатываются на бэкенде перед их сохранением?",
+      "farsi": "چگونه می‌توانیم اطمینان حاصل کنیم که داده‌ها به‌درستی در بک‌اند پردازش می‌شوند قبل از اینکه ذخیره شوند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können Sie eine Validierung auf der Serverseite hinzufügen, um fehlerhafte Daten zu verhindern?",
+      "english": "Can you add server-side validation to prevent invalid data?",
+      "russian": "Можете ли вы добавить валидацию на стороне сервера, чтобы предотвратить некорректные данные?",
+      "farsi": "آیا می‌توانید یک اعتبارسنجی سمت سرور اضافه کنید تا از داده‌های نادرست جلوگیری شود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir das Speichern von Daten in die Datenbank protokollieren?",
+      "english": "How should we log the saving of data to the database?",
+      "russian": "Как мы должны протоколировать сохранение данных в базу данных?",
+      "farsi": "چگونه باید ذخیره داده‌ها در پایگاه داده را ثبت کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie sicherstellen, dass die gespeicherten Daten in Echtzeit im Frontend aktualisiert werden?",
+      "english": "Could you ensure that the stored data is updated in real-time on the frontend?",
+      "russian": "Можете ли вы гарантировать, что сохраненные данные обновляются в режиме реального времени на фронтенде?",
+      "farsi": "آیا می‌توانید اطمینان حاصل کنید که داده‌های ذخیره شده در زمان واقعی در فرانت‌اند به‌روز می‌شوند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie können wir sicherstellen, dass das Speichern der Daten effizient erfolgt?",
+      "english": "How can we ensure that the saving of data is done efficiently?",
+      "russian": "Как мы можем гарантировать, что сохранение данных происходит эффективно?",
+      "farsi": "چگونه می‌توانیم اطمینان حاصل کنیم که ذخیره داده‌ها به‌طور کارآمد انجام می‌شود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollen wir eine API bereitstellen, um neue Datensätze in der Datenbank zu erstellen?",
+      "english": "Should we provide an API to create new records in the database?",
+      "russian": "Должны ли мы предоставить API для создания новых записей в базе данных?",
+      "farsi": "آیا باید یک API برای ایجاد رکوردهای جدید در پایگاه داده فراهم کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir den Benutzer über das erfolgreiche Speichern der Daten informieren?",
+      "english": "How should we inform the user about the successful saving of the data?",
+      "russian": "Как мы должны информировать пользователя об успешном сохранении данных?",
+      "farsi": "چگونه باید کاربر را از موفقیت‌آمیز بودن ذخیره داده‌ها مطلع کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können Sie sicherstellen, dass die Daten sicher gespeichert werden?",
+      "english": "Can you ensure that the data is stored securely?",
+      "russian": "Можете ли вы гарантировать, что данные хранятся безопасно?",
+      "farsi": "آیا می‌توانید اطمینان حاصل کنید که داده‌ها به‌صورت امن ذخیره می‌شوند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollen wir eine Rückmeldung an den Benutzer geben, wenn die Daten in der Datenbank gespeichert wurden?",
+      "english": "Should we provide feedback to the user when the data is stored in the database?",
+      "russian": "Должны ли мы предоставить обратную связь пользователю, когда данные сохранены в базе данных?",
+      "farsi": "آیا باید به کاربر اطلاع دهیم که داده‌ها در پایگاه داده ذخیره شده‌اند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie können wir sicherstellen, dass die Daten vor dem Speichern korrekt validiert werden?",
+      "english": "How can we ensure that the data is correctly validated before it is saved?",
+      "russian": "Как мы можем гарантировать, что данные корректно проверены перед их сохранением?",
+      "farsi": "چگونه می‌توانیم اطمینان حاصل کنیم که داده‌ها به‌درستی قبل از ذخیره اعتبارسنجی می‌شوند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie eine API bereitstellen, um benutzerdefinierte Daten in der Datenbank zu speichern?",
+      "english": "Could you provide an API to store custom data in the database?",
+      "russian": "Можете ли вы предоставить API для сохранения пользовательских данных в базе данных?",
+      "farsi": "آیا می‌توانید یک API فراهم کنید تا داده‌های سفارشی را در پایگاه داده ذخیره کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir das Feedback des Benutzers nach dem Speichern der Daten handhaben?",
+      "english": "How should we handle user feedback after saving the data?",
+      "russian": "Как мы должны обрабатывать отзыв пользователя после сохранения данных?",
+      "farsi": "چگونه باید بازخورد کاربر را پس از ذخیره داده‌ها مدیریت کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können Sie sicherstellen, dass die API fehlerhafte Datensätze abfängt, bevor sie gespeichert werden?",
+      "english": "Can you ensure that the API catches invalid records before they are saved?",
+      "russian": "Можете ли вы гарантировать, что API перехватывает некорректные записи перед их сохранением?",
+      "farsi": "آیا می‌توانید اطمینان حاصل کنید که API داده‌های نادرست را قبل از ذخیره شدن شناسایی می‌کند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollen wir dem Benutzer die Möglichkeit geben, die eingegebenen Daten vor dem Speichern zu überprüfen?",
+      "english": "Should we allow the user to review the entered data before saving?",
+      "russian": "Должны ли мы предоставить пользователю возможность просмотреть введенные данные перед сохранением?",
+      "farsi": "آیا باید به کاربر این امکان را بدهیم که داده‌های وارد شده را قبل از ذخیره بررسی کند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie können wir sicherstellen, dass das Speichern der Daten fehlerfrei verläuft?",
+      "english": "How can we ensure that the data saving process runs smoothly?",
+      "russian": "Как мы можем гарантировать, что процесс сохранения данных проходит без ошибок?",
+      "farsi": "چگونه می‌توانیم اطمینان حاصل کنیم که فرآیند ذخیره داده‌ها بدون خطا انجام می‌شود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie eine API bereitstellen, die es uns ermöglicht, Daten sicher in die Datenbank zu schreiben?",
+      "english": "Could you provide an API that allows us to safely write data to the database?",
+      "russian": "Можете ли вы предоставить API, который позволит нам безопасно записывать данные в базу данных?",
+      "farsi": "آیا می‌توانید یک API فراهم کنید که به ما امکان نوشتن امن داده‌ها در پایگاه داده را بدهد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir den Benutzer informieren, wenn das Speichern der Daten fehlschlägt?",
+      "english": "How should we inform the user if saving the data fails?",
+      "russian": "Как мы должны информировать пользователя, если сохранение данных не удается?",
+      "farsi": "چگونه باید کاربر را مطلع کنیم اگر ذخیره داده‌ها شکست بخورد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können Sie sicherstellen, dass die Datenbank eine Rückmeldung gibt, wenn die Daten erfolgreich gespeichert wurden?",
+      "english": "Can you ensure that the database provides feedback when the data is successfully saved?",
+      "russian": "Можете ли вы гарантировать, что база данных предоставляет обратную связь при успешном сохранении данных?",
+      "farsi": "آیا می‌توانید اطمینان حاصل کنید که پایگاه داده پس از ذخیره موفق داده‌ها بازخورد می‌دهد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollen wir dem Benutzer eine Benachrichtigung anzeigen, wenn das Speichern der Daten abgeschlossen ist?",
+      "english": "Should we display a notification to the user when the data saving process is complete?",
+      "russian": "Должны ли мы показывать уведомление пользователю после завершения процесса сохранения данных?",
+      "farsi": "آیا باید پس از اتمام فرآیند ذخیره داده‌ها به کاربر اطلاع‌رسانی کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie können wir sicherstellen, dass die Datenbank keine doppelten Einträge erstellt?",
+      "english": "How can we ensure that the database does not create duplicate entries?",
+      "russian": "Как мы можем гарантировать, что база данных не создает дублирующие записи?",
+      "farsi": "چگونه می‌توانیم اطمینان حاصل کنیم که پایگاه داده ورودی‌های تکراری ایجاد نمی‌کند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie sicherstellen, dass die Datenbank nur gültige Daten akzeptiert?",
+      "english": "Could you ensure that the database only accepts valid data?",
+      "russian": "Можете ли вы гарантировать, что база данных принимает только корректные данные?",
+      "farsi": "آیا می‌توانید اطمینان حاصل کنید که پایگاه داده فقط داده‌های معتبر را می‌پذیرد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "پیاده‌سازی قابلیت‌هایی مانند جستجو، فیلتر و صفحه‌بندی",
+      "english": "Implementing features like search, filter, and pagination",
+      "russian": "Реализация таких функций, как поиск, фильтрация и постраничная навигация",
+      "farsi": "پیاده‌سازی قابلیت‌هایی مانند جستجو، فیلتر و صفحه‌بندی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie eine API implementieren, die Paginierung für große Datensätze unterstützt?",
+      "english": "Could you implement an API that supports pagination for large datasets?",
+      "russian": "Можете ли вы реализовать API, поддерживающий постраничную навигацию для больших наборов данных?",
+      "farsi": "آیا می‌توانید یک API پیاده‌سازی کنید که از صفحه‌بندی برای مجموعه‌های داده بزرگ پشتیبانی کند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir eine effiziente Paginierung im Frontend implementieren?",
+      "english": "How should we implement efficient pagination on the frontend?",
+      "russian": "Как мы должны реализовать эффективную постраничную навигацию на фронтенде?",
+      "farsi": "چگونه باید یک صفحه‌بندی کارآمد را در فرانت‌اند پیاده‌سازی کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können Sie sicherstellen, dass die API eine Filterfunktion für die Suche bereitstellt?",
+      "english": "Can you ensure that the API provides a filter function for searches?",
+      "russian": "Можете ли вы гарантировать, что API предоставляет функцию фильтра для поиска?",
+      "farsi": "آیا می‌توانید اطمینان حاصل کنید که API یک قابلیت فیلتر برای جستجو فراهم می‌کند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollen wir eine Volltextsuche für die Datenbankabfragen implementieren?",
+      "english": "Should we implement a full-text search for database queries?",
+      "russian": "Должны ли мы реализовать полнотекстовый поиск для запросов к базе данных?",
+      "farsi": "آیا باید یک جستجوی تمام‌متن برای پرس‌وجوهای پایگاه داده پیاده‌سازی کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie können wir sicherstellen, dass die Paginierung auch bei großen Datenmengen performant ist?",
+      "english": "How can we ensure that pagination is performant even with large datasets?",
+      "russian": "Как мы можем гарантировать, что постраничная навигация будет производительной даже при больших объемах данных?",
+      "farsi": "چگونه می‌توانیم اطمینان حاصل کنیم که صفحه‌بندی حتی با حجم زیادی از داده‌ها کارآمد است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie eine API bereitstellen, die eine Sortierung und Filterung der Daten unterstützt?",
+      "english": "Could you provide an API that supports sorting and filtering of data?",
+      "russian": "Можете ли вы предоставить API, который поддерживает сортировку и фильтрацию данных?",
+      "farsi": "آیا می‌توانید یک API فراهم کنید که از مرتب‌سازی و فیلتر کردن داده‌ها پشتیبانی کند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir die Filteroptionen im Frontend darstellen?",
+      "english": "How should we present the filter options in the frontend?",
+      "russian": "Как мы должны представить параметры фильтра на фронтенде?",
+      "farsi": "چگونه باید گزینه‌های فیلتر را در فرانت‌اند ارائه دهیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können Sie sicherstellen, dass die Paginierung mit der Sortierfunktion kompatibel ist?",
+      "english": "Can you ensure that pagination is compatible with the sorting function?",
+      "russian": "Можете ли вы гарантировать, что постраничная навигация совместима с функцией сортировки?",
+      "farsi": "آیا می‌توانید اطمینان حاصل کنید که صفحه‌بندی با قابلیت مرتب‌سازی سازگار است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollen wir eine dynamische Filterfunktion basierend auf Benutzereingaben implementieren?",
+      "english": "Should we implement a dynamic filter function based on user input?",
+      "russian": "Должны ли мы реализовать динамическую функцию фильтрации на основе пользовательского ввода?",
+      "farsi": "آیا باید یک قابلیت فیلتر پویا مبتنی بر ورودی کاربر پیاده‌سازی کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie können wir sicherstellen, dass die API effizient auf Filteranfragen reagiert?",
+      "english": "How can we ensure that the API responds efficiently to filter requests?",
+      "russian": "Как мы можем гарантировать, что API эффективно реагирует на запросы фильтрации?",
+      "farsi": "چگونه می‌توانیم اطمینان حاصل کنیم که API به‌طور کارآمد به درخواست‌های فیلتر پاسخ می‌دهد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie eine API bereitstellen, die es uns ermöglicht, Datensätze zu durchsuchen und zu filtern?",
+      "english": "Could you provide an API that allows us to search and filter records?",
+      "russian": "Можете ли вы предоставить API, который позволяет нам искать и фильтровать записи?",
+      "farsi": "آیا می‌توانید یک API فراهم کنید که به ما امکان جستجو و فیلتر کردن رکوردها را بدهد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir die Suchergebnisse in der Benutzeroberfläche darstellen?",
+      "english": "How should we present the search results in the user interface?",
+      "russian": "Как мы должны отображать результаты поиска в пользовательском интерфейсе?",
+      "farsi": "چگونه باید نتایج جستجو را در رابط کاربری نمایش دهیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können Sie sicherstellen, dass die API eine schnelle Antwortzeit bei Suchabfragen hat?",
+      "english": "Can you ensure that the API has a fast response time for search queries?",
+      "russian": "Можете ли вы гарантировать, что API быстро реагирует на поисковые запросы?",
+      "farsi": "آیا می‌توانید اطمینان حاصل کنید که API زمان پاسخگویی سریعی به درخواست‌های جستجو دارد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollen wir eine Filteroption basierend auf verschiedenen Kategorien implementieren?",
+      "english": "Should we implement a filter option based on different categories?",
+      "russian": "Должны ли мы реализовать опцию фильтрации на основе различных категорий?",
+      "farsi": "آیا باید یک گزینه فیلتر بر اساس دسته‌بندی‌های مختلف پیاده‌سازی کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie können wir sicherstellen, dass die Paginierung ohne Datenverlust funktioniert?",
+      "english": "How can we ensure that pagination works without data loss?",
+      "russian": "Как мы можем гарантировать, что постраничная навигация работает без потери данных?",
+      "farsi": "چگونه می‌توانیم اطمینان حاصل کنیم که صفحه‌بندی بدون از دست دادن داده‌ها کار می‌کند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie sicherstellen, dass die API Such- und Filteranfragen gleichzeitig bearbeiten kann?",
+      "english": "Could you ensure that the API can handle search and filter requests simultaneously?",
+      "russian": "Можете ли вы гарантировать, что API может обрабатывать поисковые и фильтрационные запросы одновременно?",
+      "farsi": "آیا می‌توانید اطمینان حاصل کنید که API می‌تواند درخواست‌های جستجو و فیلتر را به‌طور همزمان مدیریت کند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir die Benutzer über die Paginierungsoptionen informieren?",
+      "english": "How should we inform users about the pagination options?",
+      "russian": "Как мы должны информировать пользователей о вариантах постраничной навигации?",
+      "farsi": "چگونه باید کاربران را درباره گزینه‌های صفحه‌بندی مطلع کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können Sie sicherstellen, dass die API auf komplexe Filteranfragen effizient reagiert?",
+      "english": "Can you ensure that the API responds efficiently to complex filter queries?",
+      "russian": "Можете ли вы гарантировать, что API эффективно реагирует на сложные запросы фильтрации?",
+      "farsi": "آیا می‌توانید اطمینان حاصل کنید که API به درخواست‌های فیلتر پیچیده به‌طور کارآمد پاسخ می‌دهد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollen wir dem Benutzer die Möglichkeit geben, Filter zurückzusetzen?",
+      "english": "Should we allow users to reset filters?",
+      "russian": "Должны ли мы предоставить пользователям возможность сброса фильтров?",
+      "farsi": "آیا باید به کاربران امکان بازنشانی فیلترها را بدهیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie können wir sicherstellen, dass die Paginierung und die Filterung in Echtzeit funktionieren?",
+      "english": "How can we ensure that pagination and filtering work in real-time?",
+      "russian": "Как мы можем гарантировать, что постраничная навигация и фильтрация работают в режиме реального времени?",
+      "farsi": "چگونه می‌توانیم اطمینان حاصل کنیم که صفحه‌بندی و فیلتر کردن به‌صورت همزمان کار می‌کند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie eine API bereitstellen, die verschiedene Filter für die Daten unterstützt?",
+      "english": "Could you provide an API that supports various filters for the data?",
+      "russian": "Можете ли вы предоставить API, который поддерживает различные фильтры для данных?",
+      "farsi": "آیا می‌توانید یک API فراهم کنید که از فیلترهای مختلف برای داده‌ها پشتیبانی کند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir die Ergebnisse sortieren und filtern, um eine optimale Benutzererfahrung zu bieten?",
+      "english": "How should we sort and filter the results to provide an optimal user experience?",
+      "russian": "Как мы должны сортировать и фильтровать результаты, чтобы обеспечить оптимальный пользовательский опыт?",
+      "farsi": "چگونه باید نتایج را مرتب و فیلتر کنیم تا تجربه کاربری بهتری فراهم کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können Sie sicherstellen, dass die Filterfunktion flexibel genug ist, um verschiedene Kriterien zu unterstützen?",
+      "english": "Can you ensure that the filter function is flexible enough to support different criteria?",
+      "russian": "Можете ли вы гарантировать, что функция фильтрации достаточно гибкая, чтобы поддерживать различные критерии?",
+      "farsi": "آیا می‌توانید اطمینان حاصل کنید که قابلیت فیلتر به اندازه کافی انعطاف‌پذیر است تا از معیارهای مختلف پشتیبانی کند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollen wir dem Benutzer ermöglichen, die Anzahl der pro Seite angezeigten Datensätze zu ändern?",
+      "english": "Should we allow the user to change the number of records displayed per page?",
+      "russian": "Должны ли мы разрешить пользователю изменять количество записей, отображаемых на странице?",
+      "farsi": "آیا باید به کاربر امکان تغییر تعداد رکوردهای نمایش‌داده‌شده در هر صفحه را بدهیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie können wir sicherstellen, dass die API effizient auf Sortier- und Filteranfragen reagiert?",
+      "english": "How can we ensure that the API responds efficiently to sorting and filtering requests?",
+      "russian": "Как мы можем гарантировать, что API эффективно реагирует на запросы сортировки и фильтрации?",
+      "farsi": "چگونه می‌توانیم اطمینان حاصل کنیم که API به درخواست‌های مرتب‌سازی و فیلتر به‌طور کارآمد پاسخ می‌دهد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie eine Paginierungsfunktion für die Datenbankabfragen bereitstellen?",
+      "english": "Could you provide a pagination function for database queries?",
+      "russian": "Можете ли вы предоставить функцию постраничной навигации для запросов к базе данных?",
+      "farsi": "آیا می‌توانید یک قابلیت صفحه‌بندی برای پرس‌وجوهای پایگاه داده فراهم کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir die Paginierung implementieren, um eine nahtlose Benutzererfahrung zu gewährleisten?",
+      "english": "How should we implement pagination to ensure a seamless user experience?",
+      "russian": "Как мы должны реализовать постраничную навигацию, чтобы обеспечить бесшовный пользовательский опыт?",
+      "farsi": "چگونه باید صفحه‌بندی را پیاده‌سازی کنیم تا تجربه کاربری بدون درز تضمین شود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können Sie sicherstellen, dass die API auch bei großen Datenmengen performant bleibt?",
+      "english": "Can you ensure that the API remains performant even with large datasets?",
+      "russian": "Можете ли вы гарантировать, что API останется производительным даже при больших объемах данных?",
+      "farsi": "آیا می‌توانید اطمینان حاصل کنید که API حتی با حجم زیادی از داده‌ها کارآمد باقی می‌ماند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollen wir eine dynamische Paginierungsfunktion für verschiedene Benutzeranfragen implementieren?",
+      "english": "Should we implement a dynamic pagination function for different user requests?",
+      "russian": "Должны ли мы реализовать динамическую функцию постраничной навигации для различных пользовательских запросов?",
+      "farsi": "آیا باید یک قابلیت صفحه‌بندی پویا برای درخواست‌های مختلف کاربران پیاده‌سازی کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie können wir sicherstellen, dass die Filterung der Datensätze effizient und benutzerfreundlich ist?",
+      "english": "How can we ensure that filtering records is efficient and user-friendly?",
+      "russian": "Как мы можем гарантировать, что фильтрация записей будет эффективной и удобной для пользователя?",
+      "farsi": "چگونه می‌توانیم اطمینان حاصل کنیم که فیلتر کردن رکوردها به‌طور کارآمد و کاربرپسند انجام شود؟"
+    }
+  ]
+}

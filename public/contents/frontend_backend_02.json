@@ -1,0 +1,729 @@
+{
+  "info": {
+    "name": "Frontend_Backend_02",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir müssen uns auf ein einheitliches Datenformat einigen. Bevorzugen Sie JSON oder XML?",
+      "english": "We need to agree on a consistent data format. Do you prefer JSON or XML?",
+      "russian": "Нам нужно договориться о едином формате данных. Вы предпочитаете JSON или XML?",
+      "farsi": "ما باید بر روی یک فرمت داده‌ای یکسان توافق کنیم. آیا JSON یا XML را ترجیح می‌دهید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie die API-Antwort in JSON formatieren, da es einfacher im Frontend zu verarbeiten ist?",
+      "english": "Could you format the API response in JSON, as it is easier to process in the frontend?",
+      "russian": "Можете ли вы форматировать ответ API в JSON, так как его легче обрабатывать на фронтенде?",
+      "farsi": "آیا می‌توانید پاسخ API را به فرمت JSON ارائه دهید، زیرا پردازش آن در فرانت‌اند آسان‌تر است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "XML ist zu schwerfällig für unsere Anforderungen. Können wir stattdessen JSON verwenden?",
+      "english": "XML is too cumbersome for our requirements. Can we use JSON instead?",
+      "russian": "XML слишком громоздкий для наших требований. Можем ли мы вместо этого использовать JSON?",
+      "farsi": "XML برای نیازهای ما بیش از حد سنگین است. آیا می‌توانیم به جای آن از JSON استفاده کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Welche Felder sollen im JSON-Response enthalten sein?",
+      "english": "Which fields should be included in the JSON response?",
+      "russian": "Какие поля должны быть включены в ответ JSON?",
+      "farsi": "کدام فیلدها باید در پاسخ JSON گنجانده شوند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir müssen das Datum im ISO 8601-Format übermitteln, um Konsistenz sicherzustellen.",
+      "english": "We need to transmit the date in ISO 8601 format to ensure consistency.",
+      "russian": "Нам нужно передавать дату в формате ISO 8601, чтобы обеспечить согласованность.",
+      "farsi": "ما باید تاریخ را به فرمت ISO 8601 ارسال کنیم تا اطمینان از یکپارچگی داده‌ها داشته باشیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie den API-Response in einem kompakteren JSON-Format zurückgeben?",
+      "english": "Could you return the API response in a more compact JSON format?",
+      "russian": "Можете ли вы вернуть ответ API в более компактном формате JSON?",
+      "farsi": "آیا می‌توانید پاسخ API را در یک فرمت JSON فشرده‌تر ارائه دهید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Soll der API-Response in Kamel-Case oder Snake-Case formatiert sein?",
+      "english": "Should the API response be formatted in camel case or snake case?",
+      "russian": "Ответ API должен быть отформатирован в camel case или snake case?",
+      "farsi": "آیا پاسخ API باید به فرمت camel case یا snake case باشد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es wäre gut, wenn alle Zeitstempel als Unix-Zeitstempel übermittelt werden könnten.",
+      "english": "It would be good if all timestamps could be transmitted as Unix timestamps.",
+      "russian": "Было бы хорошо, если бы все временные метки передавались как Unix-временные метки.",
+      "farsi": "خوب است اگر همه تمبرهای زمانی به صورت تمبرهای زمانی Unix ارسال شوند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollen wir leere Felder im JSON-Response ausblenden oder sie mit null füllen?",
+      "english": "Should we hide empty fields in the JSON response or fill them with null?",
+      "russian": "Мы должны скрывать пустые поля в ответе JSON или заполнять их null?",
+      "farsi": "آیا باید فیلدهای خالی را در پاسخ JSON پنهان کنیم یا آن‌ها را با مقدار null پر کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie bitte sicherstellen, dass alle Zeichenketten im UTF-8-Format kodiert sind?",
+      "english": "Could you please ensure that all strings are encoded in UTF-8 format?",
+      "russian": "Можете ли вы убедиться, что все строки закодированы в формате UTF-8?",
+      "farsi": "آیا می‌توانید اطمینان حاصل کنید که همه رشته‌ها به فرمت UTF-8 کدگذاری شده‌اند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die API-Antwort enthält HTML-Tags. Können wir reine JSON-Daten bekommen?",
+      "english": "The API response contains HTML tags. Can we get pure JSON data?",
+      "russian": "Ответ API содержит HTML-теги. Можем ли мы получить чистые данные JSON?",
+      "farsi": "پاسخ API حاوی تگ‌های HTML است. آیا می‌توانیم داده‌های خالص JSON دریافت کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Welche JSON-Keys sollen im Response als obligatorisch markiert werden?",
+      "english": "Which JSON keys should be marked as mandatory in the response?",
+      "russian": "Какие ключи JSON должны быть отмечены как обязательные в ответе?",
+      "farsi": "کدام کلیدهای JSON باید به عنوان اجباری در پاسخ علامت‌گذاری شوند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Für den Export benötigen wir die Daten im CSV-Format. Können Sie das ermöglichen?",
+      "english": "For export, we need the data in CSV format. Can you make that possible?",
+      "russian": "Для экспорта нам нужны данные в формате CSV. Можете ли вы это обеспечить?",
+      "farsi": "برای صادرات، ما به داده‌ها در فرمت CSV نیاز داریم. آیا می‌توانید این امکان را فراهم کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es gibt ein Problem mit der Dezimaldarstellung. Können wir alle Zahlen auf zwei Nachkommastellen formatieren?",
+      "english": "There is an issue with decimal representation. Can we format all numbers to two decimal places?",
+      "russian": "Есть проблема с отображением десятичных чисел. Можем ли мы форматировать все числа до двух знаков после запятой?",
+      "farsi": "مشکلی در نمایش اعشار وجود دارد. آیا می‌توانیم همه اعداد را به دو رقم اعشار فرمت کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir mit optionalen Feldern im JSON-Response umgehen?",
+      "english": "How should we handle optional fields in the JSON response?",
+      "russian": "Как нам обрабатывать необязательные поля в ответе JSON?",
+      "farsi": "چگونه باید فیلدهای اختیاری را در پاسخ JSON مدیریت کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie bitte das XML-Format der API-Daten standardisieren?",
+      "english": "Could you please standardize the XML format of the API data?",
+      "russian": "Можете ли вы стандартизировать формат XML данных API?",
+      "farsi": "آیا می‌توانید فرمت XML داده‌های API را استاندارد کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Verschachtelung im JSON-Response ist zu tief. Können wir das flacher gestalten?",
+      "english": "The nesting in the JSON response is too deep. Can we make it flatter?",
+      "russian": "Вложенность в ответе JSON слишком глубокая. Можем ли мы сделать её менее сложной?",
+      "farsi": "تو در تویی در پاسخ JSON خیلی عمیق است. آیا می‌توانیم آن را ساده‌تر کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können Sie bitte sicherstellen, dass alle API-Daten im UTF-8-Format zurückgegeben werden?",
+      "english": "Could you please ensure that all API data is returned in UTF-8 format?",
+      "russian": "Можете ли вы убедиться, что все данные API возвращаются в формате UTF-8?",
+      "farsi": "آیا می‌توانید اطمینان حاصل کنید که تمام داده‌های API به فرمت UTF-8 بازگردانده شوند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es gibt Diskrepanzen zwischen den im Frontend benötigten Datenfeldern und den im Backend gelieferten Feldern.",
+      "english": "There are discrepancies between the data fields needed in the frontend and the fields delivered by the backend.",
+      "russian": "Есть расхождения между полями данных, необходимыми на фронтенде, и полями, предоставляемыми бэкендом.",
+      "farsi": "بین فیلدهای داده‌ای مورد نیاز در فرانت‌اند و فیلدهای ارائه شده توسط بک‌اند اختلافاتی وجود دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die API gibt unterschiedliche Formate für numerische Werte zurück. Können wir das standardisieren?",
+      "english": "The API returns different formats for numeric values. Can we standardize that?",
+      "russian": "API возвращает разные форматы для числовых значений. Можем ли мы это стандартизировать?",
+      "farsi": "API فرمت‌های مختلفی برای مقادیر عددی برمی‌گرداند. آیا می‌توانیم آن را استاندارد کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die JSON-Struktur ist nicht konsistent zwischen verschiedenen Endpunkten. Können wir das angleichen?",
+      "english": "The JSON structure is not consistent across different endpoints. Can we align that?",
+      "russian": "Структура JSON не согласована между различными конечными точками. Можем ли мы это унифицировать?",
+      "farsi": "ساختار JSON بین نقاط انتهایی مختلف یکسان نیست. آیا می‌توانیم آن را هماهنگ کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Welche Datenfelder können wir als Arrays im JSON-Response zurückgeben?",
+      "english": "Which data fields can we return as arrays in the JSON response?",
+      "russian": "Какие поля данных мы можем вернуть как массивы в ответе JSON?",
+      "farsi": "کدام فیلدهای داده‌ای را می‌توانیم به عنوان آرایه‌ها در پاسخ JSON برگردانیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Verwendung von XML ist für uns zu langsam. Können wir auf JSON umstellen?",
+      "english": "The use of XML is too slow for us. Can we switch to JSON?",
+      "russian": "Использование XML для нас слишком медленное. Можем ли мы переключиться на JSON?",
+      "farsi": "استفاده از XML برای ما خیلی کند است. آیا می‌توانیم به JSON تغییر دهیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollen die Booleschen Werte als true/false oder 1/0 im JSON-Response zurückgegeben werden?",
+      "english": "Should Boolean values be returned as true/false or 1/0 in the JSON response?",
+      "russian": "Булевы значения должны возвращаться как true/false или 1/0 в ответе JSON?",
+      "farsi": "آیا مقادیر بولی باید به صورت true/false یا 1/0 در پاسخ JSON بازگردانده شوند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie die Null-Werte im JSON-Response als leere Zeichenfolgen zurückgeben?",
+      "english": "Could you return the null values as empty strings in the JSON response?",
+      "russian": "Можете ли вы вернуть значения null как пустые строки в ответе JSON?",
+      "farsi": "آیا می‌توانید مقادیر null را به صورت رشته‌های خالی در پاسخ JSON برگردانید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Für die nächste Version müssen wir sicherstellen, dass alle Datumsfelder im ISO-Format sind.",
+      "english": "For the next version, we need to ensure that all date fields are in ISO format.",
+      "russian": "Для следующей версии нам нужно убедиться, что все поля с датами находятся в формате ISO.",
+      "farsi": "برای نسخه بعدی باید اطمینان حاصل کنیم که همه فیلدهای تاریخ به فرمت ISO هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie bitte sicherstellen, dass alle numerischen Werte als Integer zurückgegeben werden?",
+      "english": "Could you please ensure that all numeric values are returned as integers?",
+      "russian": "Можете ли вы убедиться, что все числовые значения возвращаются как целые числа?",
+      "farsi": "آیا می‌توانید اطمینان حاصل کنید که همه مقادیر عددی به عنوان اعداد صحیح بازگردانده شوند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es wäre gut, wenn wir standardmäßig alle API-Daten in JSON übermitteln könnten.",
+      "english": "It would be good if we could transmit all API data in JSON by default.",
+      "russian": "Было бы хорошо, если бы мы могли передавать все данные API в формате JSON по умолчанию.",
+      "farsi": "خوب است اگر بتوانیم به طور پیش‌فرض همه داده‌های API را در فرمت JSON ارسال کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir mit unterschiedlichen Einheiten in den API-Daten umgehen? Müssen wir die Umrechnung im Frontend vornehmen?",
+      "english": "How should we handle different units in the API data? Do we need to do the conversion in the frontend?",
+      "russian": "Как нам обрабатывать разные единицы измерения в данных API? Нужно ли нам выполнять преобразование на фронтенде?",
+      "farsi": "چگونه باید با واحدهای مختلف در داده‌های API برخورد کنیم؟ آیا باید تبدیل واحدها را در فرانت‌اند انجام دهیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die XML-Struktur ist zu komplex. Können wir eine einfachere Version verwenden?",
+      "english": "The XML structure is too complex. Can we use a simpler version?",
+      "russian": "Структура XML слишком сложная. Можем ли мы использовать более простую версию?",
+      "farsi": "ساختار XML خیلی پیچیده است. آیا می‌توانیم از نسخه ساده‌تری استفاده کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir die paginierten Daten im Frontend anzeigen?",
+      "english": "How should we display the paginated data in the frontend?",
+      "russian": "Как нам отображать данные с пагинацией на фронтенде?",
+      "farsi": "چگونه باید داده‌های صفحه‌بندی‌شده را در فرانت‌اند نمایش دهیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie die Daten in kleineren Paketen senden, damit die Tabellen schneller geladen werden?",
+      "english": "Could you send the data in smaller batches to make the tables load faster?",
+      "russian": "Можете ли вы отправлять данные меньшими пакетами, чтобы таблицы загружались быстрее?",
+      "farsi": "آیا می‌توانید داده‌ها را در بسته‌های کوچک‌تر ارسال کنید تا جداول سریع‌تر بارگذاری شوند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die API liefert eine große Datenmenge. Wie sollen wir die Pagination im Frontend implementieren?",
+      "english": "The API delivers a large amount of data. How should we implement pagination in the frontend?",
+      "russian": "API передаёт большое количество данных. Как нам реализовать пагинацию на фронтенде?",
+      "farsi": "API حجم زیادی از داده‌ها را ارائه می‌دهد. چگونه باید صفحه‌بندی را در فرانت‌اند پیاده‌سازی کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können Sie die Daten so formatieren, dass sie für die Darstellung in Tabellen optimiert sind?",
+      "english": "Can you format the data so that it is optimized for display in tables?",
+      "russian": "Можете ли вы отформатировать данные так, чтобы они были оптимизированы для отображения в таблицах?",
+      "farsi": "آیا می‌توانید داده‌ها را به گونه‌ای فرمت کنید که برای نمایش در جداول بهینه شده باشند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir benötigen zusätzliche Felder für die Spalten in der Tabelle. Können Sie diese hinzufügen?",
+      "english": "We need additional fields for the columns in the table. Can you add them?",
+      "russian": "Нам нужны дополнительные поля для столбцов в таблице. Можете ли вы их добавить?",
+      "farsi": "ما به فیلدهای اضافی برای ستون‌های جدول نیاز داریم. آیا می‌توانید آنها را اضافه کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir die komplexen Datenstrukturen für die Diagramme verarbeiten?",
+      "english": "How should we process the complex data structures for the charts?",
+      "russian": "Как нам обрабатывать сложные структуры данных для диаграмм?",
+      "farsi": "چگونه باید ساختارهای داده‌ای پیچیده را برای نمودارها پردازش کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie den API-Response anpassen, um aggregierte Daten für die Diagrammanzeige zu liefern?",
+      "english": "Could you adjust the API response to provide aggregated data for chart display?",
+      "russian": "Можете ли вы настроить ответ API, чтобы предоставить агрегированные данные для отображения диаграмм?",
+      "farsi": "آیا می‌توانید پاسخ API را تنظیم کنید تا داده‌های تجمیعی برای نمایش نمودار ارائه دهد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Tabellen im Frontend laden zu langsam. Können wir die Daten für die erste Seite zwischenspeichern?",
+      "english": "The tables in the frontend load too slowly. Can we cache the data for the first page?",
+      "russian": "Таблицы на фронтенде загружаются слишком медленно. Можем ли мы кэшировать данные для первой страницы?",
+      "farsi": "جداول در فرانت‌اند خیلی کند بارگذاری می‌شوند. آیا می‌توانیم داده‌های صفحه اول را در حافظه پنهان ذخیره کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir die Filterlogik für die tabellarischen Daten umsetzen?",
+      "english": "How should we implement the filter logic for the tabular data?",
+      "russian": "Как нам реализовать логику фильтрации для табличных данных?",
+      "farsi": "چگونه باید منطق فیلتر کردن داده‌های جدولی را پیاده‌سازی کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Daten für das Diagramm sind nicht in einem geeigneten Format. Können Sie das ändern?",
+      "english": "The data for the chart is not in a suitable format. Can you change that?",
+      "russian": "Данные для диаграммы не в подходящем формате. Можете ли вы это изменить?",
+      "farsi": "داده‌های نمودار در فرمت مناسبی نیستند. آیا می‌توانید آن را تغییر دهید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es wäre hilfreich, wenn die API bereits sortierte Daten zurückgeben könnte.",
+      "english": "It would be helpful if the API could return sorted data.",
+      "russian": "Было бы полезно, если бы API мог возвращать отсортированные данные.",
+      "farsi": "مفید خواهد بود اگر API بتواند داده‌های مرتب شده را برگرداند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie die API so anpassen, dass sie nur die Daten für die aktuelle Seite zurückgibt?",
+      "english": "Could you adjust the API to only return the data for the current page?",
+      "russian": "Можете ли вы настроить API так, чтобы он возвращал данные только для текущей страницы?",
+      "farsi": "آیا می‌توانید API را به گونه‌ای تنظیم کنید که فقط داده‌های صفحه فعلی را بازگرداند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Für die Diagramme benötigen wir eine flachere Datenstruktur.",
+      "english": "For the charts, we need a flatter data structure.",
+      "russian": "Для диаграмм нам нужна менее вложенная структура данных.",
+      "farsi": "برای نمودارها، ما به یک ساختار داده‌ای ساده‌تر نیاز داریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir mit fehlenden Werten in den Tabellen umgehen?",
+      "english": "How should we handle missing values in the tables?",
+      "russian": "Как нам обрабатывать отсутствующие значения в таблицах?",
+      "farsi": "چگونه باید با مقادیر گمشده در جداول برخورد کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie bitte die Daten nach einem bestimmten Kriterium vorab filtern?",
+      "english": "Could you please pre-filter the data based on a specific criterion?",
+      "russian": "Можете ли вы заранее отфильтровать данные по определённому критерию?",
+      "farsi": "آیا می‌توانید داده‌ها را بر اساس یک معیار خاص از قبل فیلتر کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die API liefert zu viele Daten. Können Sie die Rückgabe auf die relevanten Spalten beschränken?",
+      "english": "The API returns too much data. Can you limit the response to the relevant columns?",
+      "russian": "API возвращает слишком много данных. Можете ли вы ограничить ответ только релевантными столбцами?",
+      "farsi": "API داده‌های زیادی را برمی‌گرداند. آیا می‌توانید پاسخ را به ستون‌های مرتبط محدود کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir die Paginierungslogik mit dem aktuellen API-Response handhaben?",
+      "english": "How should we handle the pagination logic with the current API response?",
+      "russian": "Как нам обрабатывать логику пагинации с текущим ответом API?",
+      "farsi": "چگونه باید منطق صفحه‌بندی را با پاسخ فعلی API مدیریت کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Für die Diagramme benötigen wir Daten über Zeiträume. Können Sie diese in der API bereitstellen?",
+      "english": "For the charts, we need data over time periods. Can you provide that in the API?",
+      "russian": "Для диаграмм нам нужны данные за определённые периоды времени. Можете ли вы предоставить их в API?",
+      "farsi": "برای نمودارها، ما به داده‌های مربوط به دوره‌های زمانی نیاز داریم. آیا می‌توانید این داده‌ها را در API فراهم کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie bitte die Datenstruktur so anpassen, dass sie für verschachtelte Tabellen geeignet ist?",
+      "english": "Could you please adjust the data structure to be suitable for nested tables?",
+      "russian": "Можете ли вы настроить структуру данных так, чтобы она подходила для вложенных таблиц?",
+      "farsi": "آیا می‌توانید ساختار داده‌ها را به گونه‌ای تنظیم کنید که برای جداول تو در تو مناسب باشد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die API gibt die Daten in unregelmäßigen Intervallen zurück. Wie sollen wir das im Frontend darstellen?",
+      "english": "The API returns data at irregular intervals. How should we display that in the frontend?",
+      "russian": "API возвращает данные с нерегулярными интервалами. Как нам это отображать на фронтенде?",
+      "farsi": "API داده‌ها را در فواصل نامنظم برمی‌گرداند. چگونه باید آن را در فرانت‌اند نمایش دهیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es wäre besser, wenn die API bereits formatierte Daten für die Diagrammanzeige zurückgeben könnte.",
+      "english": "It would be better if the API could return preformatted data for chart display.",
+      "russian": "Было бы лучше, если бы API возвращал предварительно отформатированные данные для отображения диаграмм.",
+      "farsi": "بهتر خواهد بود اگر API بتواند داده‌های از پیش فرمت شده برای نمایش نمودار برگرداند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir mit übermäßig langen Tabellen umgehen? Können wir eine Lazy-Loading-Funktion implementieren?",
+      "english": "How should we handle excessively long tables? Can we implement a lazy-loading feature?",
+      "russian": "Как нам обрабатывать чрезмерно длинные таблицы? Можем ли мы реализовать функцию ленивой загрузки?",
+      "farsi": "چگونه باید با جداول بیش از حد طولانی برخورد کنیم؟ آیا می‌توانیم یک ویژگی بارگذاری تنبل پیاده‌سازی کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die aktuellen Daten sind zu groß, um sie auf einmal zu laden. Wie sollen wir das aufteilen?",
+      "english": "The current data is too large to load all at once. How should we split that up?",
+      "russian": "Текущие данные слишком велики, чтобы загружать их все сразу. Как нам это разделить?",
+      "farsi": "داده‌های فعلی خیلی بزرگ هستند و نمی‌توان همه آنها را یک‌باره بارگذاری کرد. چگونه باید آنها را تقسیم کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie die API so konfigurieren, dass sie Daten in einem paginierten Format zurückgibt?",
+      "english": "Could you configure the API to return data in a paginated format?",
+      "russian": "Можете ли вы настроить API так, чтобы он возвращал данные в формате с пагинацией?",
+      "farsi": "آیا می‌توانید API را طوری تنظیم کنید که داده‌ها را در یک فرمت صفحه‌بندی‌شده بازگرداند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Für die Tabelle benötigen wir eine Möglichkeit, die Spalten dynamisch zu sortieren.",
+      "english": "For the table, we need a way to dynamically sort the columns.",
+      "russian": "Для таблицы нам нужен способ динамической сортировки столбцов.",
+      "farsi": "برای جدول، ما به یک روش برای مرتب‌سازی دینامیکی ستون‌ها نیاز داریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir die Daten für dynamische Diagramme im Frontend verarbeiten?",
+      "english": "How should we process the data for dynamic charts in the frontend?",
+      "russian": "Как нам обрабатывать данные для динамических диаграмм на фронтенде?",
+      "farsi": "چگونه باید داده‌ها را برای نمودارهای دینامیک در فرانت‌اند پردازش کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es gibt ein Problem mit der Formatierung der numerischen Werte in den Tabellen. Können Sie das prüfen?",
+      "english": "There is an issue with the formatting of numeric values in the tables. Can you check that?",
+      "russian": "Есть проблема с форматированием числовых значений в таблицах. Можете это проверить?",
+      "farsi": "مشکلی در فرمت مقادیر عددی در جداول وجود دارد. آیا می‌توانید آن را بررسی کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie uns aggregierte Daten bereitstellen, damit wir die Diagramme effizienter rendern können?",
+      "english": "Could you provide us with aggregated data to render the charts more efficiently?",
+      "russian": "Можете ли вы предоставить нам агрегированные данные, чтобы более эффективно отображать диаграммы?",
+      "farsi": "آیا می‌توانید داده‌های تجمیعی را برای ما فراهم کنید تا نمودارها را کارآمدتر رندر کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Daten enthalten viele verschachtelte Strukturen. Wie sollen wir das im Frontend visualisieren?",
+      "english": "The data contains many nested structures. How should we visualize that in the frontend?",
+      "russian": "Данные содержат много вложенных структур. Как нам это визуализировать на фронтенде?",
+      "farsi": "داده‌ها شامل بسیاری از ساختارهای تو در تو هستند. چگونه باید آن را در فرانت‌اند تجسم کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir benötigen ein besseres Management der Ladezeiten für große Tabellen im Frontend.",
+      "english": "We need better management of loading times for large tables in the frontend.",
+      "russian": "Нам нужно лучшее управление временем загрузки для больших таблиц на фронтенде.",
+      "farsi": "ما به مدیریت بهتر زمان بارگذاری برای جداول بزرگ در فرانت‌اند نیاز داریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können wir die Daten komprimieren, bevor sie an das Frontend gesendet werden?",
+      "english": "Can we compress the data before sending it to the frontend?",
+      "russian": "Можем ли мы сжать данные перед отправкой на фронтенд?",
+      "farsi": "آیا می‌توانیم داده‌ها را قبل از ارسال به فرانت‌اند فشرده کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die API-Antwort ist zu groß. Können wir nur die benötigten Felder senden?",
+      "english": "The API response is too large. Can we send only the required fields?",
+      "russian": "Ответ API слишком велик. Можем ли мы отправить только необходимые поля?",
+      "farsi": "پاسخ API بیش از حد بزرگ است. آیا می‌توانیم فقط فیلدهای مورد نیاز را ارسال کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es wäre besser, wenn wir die Anzahl der API-Aufrufe reduzieren könnten, um die Ladezeit zu verkürzen.",
+      "english": "It would be better if we could reduce the number of API calls to shorten the loading time.",
+      "russian": "Было бы лучше, если бы мы могли сократить количество вызовов API, чтобы уменьшить время загрузки.",
+      "farsi": "بهتر خواهد بود اگر بتوانیم تعداد درخواست‌های API را کاهش دهیم تا زمان بارگذاری کوتاه‌تر شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie die Datenpufferung implementieren, um die Antwortzeiten zu verbessern?",
+      "english": "Could you implement data buffering to improve response times?",
+      "russian": "Можете ли вы реализовать буферизацию данных для улучшения времени отклика?",
+      "farsi": "آیا می‌توانید بافر کردن داده‌ها را پیاده‌سازی کنید تا زمان‌های پاسخگویی بهبود یابد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie können wir die Datenübertragung optimieren, um die Latenz zu minimieren?",
+      "english": "How can we optimize data transfer to minimize latency?",
+      "russian": "Как мы можем оптимизировать передачу данных, чтобы минимизировать задержку?",
+      "farsi": "چگونه می‌توانیم انتقال داده را بهینه کنیم تا تأخیر به حداقل برسد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten wir die API-Anfragen parallelisieren, um die Ladezeit zu reduzieren?",
+      "english": "Could we parallelize the API requests to reduce loading time?",
+      "russian": "Можем ли мы распараллелить запросы API, чтобы сократить время загрузки?",
+      "farsi": "آیا می‌توانیم درخواست‌های API را موازی‌سازی کنیم تا زمان بارگذاری کاهش یابد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir sollten nur die ersten 10 Datensätze laden und die restlichen bei Bedarf nachladen.",
+      "english": "We should load only the first 10 records and load the rest as needed.",
+      "russian": "Мы должны загружать только первые 10 записей, а остальные подгружать по мере необходимости.",
+      "farsi": "باید فقط ۱۰ رکورد اول را بارگذاری کنیم و مابقی را در صورت نیاز بارگذاری کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können wir eine Caching-Lösung implementieren, um wiederholte API-Anfragen zu vermeiden?",
+      "english": "Can we implement a caching solution to avoid repeated API requests?",
+      "russian": "Можем ли мы реализовать решение с кэшированием, чтобы избежать повторяющихся запросов к API?",
+      "farsi": "آیا می‌توانیم یک راه‌حل کشینگ پیاده‌سازی کنیم تا از درخواست‌های تکراری به API جلوگیری کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es wäre gut, wenn die API eine Art Delta-Update liefern könnte, anstatt die gesamten Daten zu senden.",
+      "english": "It would be good if the API could provide some form of delta update instead of sending the entire data set.",
+      "russian": "Было бы хорошо, если бы API мог предоставлять дельта-обновления, а не отправлять все данные целиком.",
+      "farsi": "خوب خواهد بود اگر API بتواند نوعی به‌روزرسانی دلتا ارائه دهد به جای اینکه تمام داده‌ها را ارسال کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Datenantwort enthält viele unnötige Informationen. Können wir das reduzieren?",
+      "english": "The data response contains a lot of unnecessary information. Can we reduce that?",
+      "russian": "Ответ с данными содержит много ненужной информации. Можем ли мы это сократить?",
+      "farsi": "پاسخ داده‌ها شامل اطلاعات غیرضروری زیادی است. آیا می‌توانیم آن را کاهش دهیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie die Daten im Backend vorbereiten, damit sie im Frontend schneller verarbeitet werden können?",
+      "english": "Could you prepare the data in the backend so that it can be processed faster in the frontend?",
+      "russian": "Можете ли вы подготовить данные на бэкенде, чтобы их можно было быстрее обработать на фронтенде?",
+      "farsi": "آیا می‌توانید داده‌ها را در بک‌اند آماده کنید تا در فرانت‌اند سریع‌تر پردازش شوند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie können wir die JSON-Antwortgröße reduzieren, um die Übertragungszeit zu verkürzen?",
+      "english": "How can we reduce the size of the JSON response to shorten transmission time?",
+      "russian": "Как мы можем уменьшить размер ответа JSON, чтобы сократить время передачи?",
+      "farsi": "چگونه می‌توانیم اندازه پاسخ JSON را کاهش دهیم تا زمان انتقال کوتاه‌تر شود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können wir eine serverseitige Filterung der Daten einführen, um die API-Anfrage effizienter zu machen?",
+      "english": "Can we implement server-side filtering of the data to make the API request more efficient?",
+      "russian": "Можем ли мы реализовать серверную фильтрацию данных, чтобы сделать запрос API более эффективным?",
+      "farsi": "آیا می‌توانیم فیلتر کردن داده‌ها را در سمت سرور پیاده‌سازی کنیم تا درخواست API کارآمدتر شود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten wir die Daten chunkweise senden, damit die Seite schrittweise geladen werden kann?",
+      "english": "Could we send the data in chunks so that the page can load incrementally?",
+      "russian": "Можем ли мы отправлять данные частями, чтобы страница загружалась поэтапно?",
+      "farsi": "آیا می‌توانیم داده‌ها را به صورت تکه‌ای ارسال کنیم تا صفحه به صورت مرحله‌ای بارگذاری شود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es wäre hilfreich, wenn die API-Response bereits sortierte und gefilterte Daten liefern könnte.",
+      "english": "It would be helpful if the API response could already provide sorted and filtered data.",
+      "russian": "Было бы полезно, если бы ответ API уже содержал отсортированные и отфильтрованные данные.",
+      "farsi": "مفید خواهد بود اگر پاسخ API بتواند داده‌های مرتب و فیلتر شده را ارائه دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können wir die Ladezeit durch die Verwendung von gzip-Komprimierung verbessern?",
+      "english": "Can we improve loading time by using gzip compression?",
+      "russian": "Можем ли мы улучшить время загрузки, используя сжатие gzip?",
+      "farsi": "آیا می‌توانیم با استفاده از فشرده‌سازی gzip زمان بارگذاری را بهبود دهیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Abfragen dauern zu lange. Können Sie die SQL-Statements im Backend optimieren?",
+      "english": "The queries are taking too long. Can you optimize the SQL statements in the backend?",
+      "russian": "Запросы занимают слишком много времени. Можете ли вы оптимизировать SQL-запросы на бэкенде?",
+      "farsi": "درخواست‌ها بیش از حد طولانی هستند. آیا می‌توانید دستورات SQL را در بک‌اند بهینه‌سازی کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie den API-Response in einer effizienteren Struktur zurückgeben, um die Parsing-Zeit zu verkürzen?",
+      "english": "Could you return the API response in a more efficient structure to reduce parsing time?",
+      "russian": "Можете ли вы вернуть ответ API в более эффективной структуре, чтобы сократить время разбора?",
+      "farsi": "آیا می‌توانید پاسخ API را در یک ساختار کارآمدتر برگردانید تا زمان تجزیه کاهش یابد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es wäre sinnvoll, die Größe der Bilder im Backend zu reduzieren, um die Ladezeit zu verbessern.",
+      "english": "It would make sense to reduce the size of images in the backend to improve loading time.",
+      "russian": "Имеет смысл уменьшить размер изображений на бэкенде, чтобы улучшить время загрузки.",
+      "farsi": "عاقلانه خواهد بود که اندازه تصاویر را در بک‌اند کاهش دهیم تا زمان بارگذاری بهبود یابد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können wir die Daten inkrementell laden, um die User Experience zu verbessern?",
+      "english": "Can we load the data incrementally to improve the user experience?",
+      "russian": "Можем ли мы загружать данные инкрементально, чтобы улучшить пользовательский опыт?",
+      "farsi": "آیا می‌توانیم داده‌ها را به‌صورت افزایشی بارگذاری کنیم تا تجربه کاربری بهبود یابد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es wäre gut, wenn wir eine Lazy-Loading-Strategie für große Datensätze implementieren könnten.",
+      "english": "It would be good if we could implement a lazy-loading strategy for large datasets.",
+      "russian": "Было бы хорошо, если бы мы могли реализовать стратегию ленивой загрузки для больших наборов данных.",
+      "farsi": "خوب خواهد بود اگر بتوانیم یک استراتژی بارگذاری تنبل برای مجموعه داده‌های بزرگ پیاده‌سازی کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Datenabfrage ist zu langsam. Können Sie einen Index in der Datenbank hinzufügen?",
+      "english": "The data query is too slow. Can you add an index to the database?",
+      "russian": "Запрос данных слишком медленный. Можете ли вы добавить индекс в базу данных?",
+      "farsi": "درخواست داده‌ها خیلی کند است. آیا می‌توانید یک ایندکس به پایگاه داده اضافه کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten wir nur die geänderten Daten zurückgeben, um die Datenübertragung zu minimieren?",
+      "english": "Could we return only the changed data to minimize data transfer?",
+      "russian": "Можем ли мы возвращать только измененные данные, чтобы минимизировать передачу данных?",
+      "farsi": "آیا می‌توانیم فقط داده‌های تغییر یافته را برگردانیم تا انتقال داده‌ها به حداقل برسد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie können wir die Netzwerkbandbreite optimieren, um die Daten schneller zu übertragen?",
+      "english": "How can we optimize network bandwidth to transfer data faster?",
+      "russian": "Как мы можем оптимизировать пропускную способность сети, чтобы быстрее передавать данные?",
+      "farsi": "چگونه می‌توانیم پهنای باند شبکه را بهینه کنیم تا داده‌ها سریع‌تر منتقل شوند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie die Anzahl der API-Aufrufe durch Batch-Anfragen reduzieren?",
+      "english": "Could you reduce the number of API calls by using batch requests?",
+      "russian": "Можете ли вы сократить количество вызовов API, используя пакетные запросы?",
+      "farsi": "آیا می‌توانید تعداد درخواست‌های API را با استفاده از درخواست‌های دسته‌ای کاهش دهید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es wäre hilfreich, wenn wir kleinere Datenmengen auf einmal übertragen könnten, um die Reaktionszeit zu verbessern.",
+      "english": "It would be helpful if we could transfer smaller amounts of data at a time to improve response time.",
+      "russian": "Было бы полезно, если бы мы могли передавать меньшие объемы данных за один раз, чтобы улучшить время отклика.",
+      "farsi": "مفید خواهد بود اگر بتوانیم حجم‌های کوچکتری از داده‌ها را در یک زمان منتقل کنیم تا زمان پاسخگویی بهبود یابد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können wir die Anzahl der Felder im API-Response dynamisch anpassen, um die Antwortzeit zu verringern?",
+      "english": "Can we dynamically adjust the number of fields in the API response to reduce response time?",
+      "russian": "Можем ли мы динамически настраивать количество полей в ответе API, чтобы сократить время отклика?",
+      "farsi": "آیا می‌توانیم تعداد فیلدهای موجود در پاسخ API را به صورت پویا تنظیم کنیم تا زمان پاسخگویی کاهش یابد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Paginierung der Daten könnte die Ladezeit erheblich verkürzen. Können wir das implementieren?",
+      "english": "Paginating the data could significantly shorten loading time. Can we implement that?",
+      "russian": "Пагинация данных может значительно сократить время загрузки. Можем ли мы это реализовать?",
+      "farsi": "صفحه‌بندی داده‌ها می‌تواند به طور قابل توجهی زمان بارگذاری را کاهش دهد. آیا می‌توانیم آن را پیاده‌سازی کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie die Daten zwischenspeichern, um die Anzahl der Anfragen an die Datenbank zu reduzieren?",
+      "english": "Could you cache the data to reduce the number of requests to the database?",
+      "russian": "Можете ли вы кэшировать данные, чтобы сократить количество запросов к базе данных?",
+      "farsi": "آیا می‌توانید داده‌ها را کش کنید تا تعداد درخواست‌ها به پایگاه داده کاهش یابد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie können wir den Overhead der Datenübertragung minimieren, um die Ladezeiten im Frontend zu verbessern?",
+      "english": "How can we minimize the overhead of data transmission to improve loading times in the frontend?",
+      "russian": "Как мы можем минимизировать накладные расходы на передачу данных, чтобы улучшить время загрузки на фронтенде?",
+      "farsi": "چگونه می‌توانیم سربار انتقال داده‌ها را به حداقل برسانیم تا زمان بارگذاری در فرانت‌اند بهبود یابد؟"
+    }
+  ]
+}

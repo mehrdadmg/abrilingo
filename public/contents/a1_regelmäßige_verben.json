@@ -8,6 +8,52 @@
     {
       "isSelected": false,
       "type": "verben",
+      "Infinitive": "holen",
+      "Präsens": "Er holt",
+      "Präteritum": "Er holte",
+      "Perfekt": "hat geholt",
+      "englishMeaning": "to fetch, to get",
+      "englishUsage": "Refers to going to retrieve something or someone.",
+      "russianMeaning": "принести, взять",
+      "russianUsage": "Описывает процесс похода для получения чего-либо или кого-либо.",
+      "farsiMeaning": "آوردن، گرفتن",
+      "farsiUsage": "برای توصیف عمل رفتن برای گرفتن چیزی یا کسی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich hole die Post jeden Tag.",
+      "english": "I collect the mail every day.",
+      "russian": "Я забираю почту каждый день.",
+      "farsi": "من هر روز پست را می‌گیرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er holte das Paket vom Postamt ab.",
+      "english": "He picked up the package from the post office.",
+      "russian": "Он забрал посылку из почтового отделения.",
+      "farsi": "او بسته را از اداره پست برداشت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat den Arzt gerufen.",
+      "english": "She has called the doctor.",
+      "russian": "Она вызвала врача.",
+      "farsi": "او پزشک را صدا زده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben den Regenschirm geholt, weil es regnete.",
+      "english": "We got the umbrella because it was raining.",
+      "russian": "Мы взяли зонт, потому что шел дождь.",
+      "farsi": "ما چتر را گرفتیم چون باران می‌بارید."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
       "Infinitive": "abholen",
       "Präsens": "Er holt ab",
       "Präteritum": "Er holte ab",
@@ -42,6 +88,44 @@
       "english": "He has picked up the book.",
       "russian": "Он забрал книгу.",
       "farsi": "او کتاب را برداشته است."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "anmelden",
+      "Präsens": "Er meldet an",
+      "Präteritum": "Er meldete an",
+      "Perfekt": "hat angemeldet",
+      "englishMeaning": "to register, to sign in",
+      "englishUsage": "Refers to the act of registering or logging into a system.",
+      "russianMeaning": "регистрироваться",
+      "russianUsage": "Описывает процесс регистрации или входа в систему.",
+      "farsiMeaning": "ثبت‌نام کردن، ورود",
+      "farsiUsage": "برای توصیف عمل ثبت‌نام یا ورود به سیستم استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich melde mich für den Kurs an.",
+      "english": "I am registering for the course.",
+      "russian": "Я записываюсь на курс.",
+      "farsi": "من برای دوره ثبت نام می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er meldete sich für das Seminar an.",
+      "english": "He registered for the seminar.",
+      "russian": "Он записался на семинар.",
+      "farsi": "او برای سمینار ثبت نام کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat sich für die Konferenz angemeldet.",
+      "english": "He has registered for the conference.",
+      "russian": "Он зарегистрировался на конференцию.",
+      "farsi": "او برای کنفرانس ثبت نام کرده است."
     },
     {
       "isSelected": false,
@@ -122,6 +206,90 @@
     {
       "isSelected": false,
       "type": "verben",
+      "Infinitive": "machen",
+      "Präsens": "Er macht",
+      "Präteritum": "Er machte",
+      "Perfekt": "hat gemacht",
+      "englishMeaning": "to make, to do",
+      "englishUsage": "Describes the act of creating or performing something.",
+      "russianMeaning": "делать",
+      "russianUsage": "Описывает процесс создания или выполнения чего-либо.",
+      "farsiMeaning": "ساختن، انجام دادن",
+      "farsiUsage": "برای توصیف عمل خلق یا انجام چیزی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich mache meine Hausaufgaben am Nachmittag.",
+      "english": "I do my homework in the afternoon.",
+      "russian": "Я делаю домашнее задание после обеда.",
+      "farsi": "من بعدازظهرها تکالیفم را انجام می‌دهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er machte den Kuchen am Sonntag.",
+      "english": "He made the cake on Sunday.",
+      "russian": "Он испёк торт в воскресенье.",
+      "farsi": "او کیک را در روز یکشنبه درست کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat die Aufgaben fertig gemacht.",
+      "english": "He has completed the tasks.",
+      "russian": "Он выполнил задачи.",
+      "farsi": "او وظایف را به پایان رسانده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben den Bericht gemacht, weil es dringend war.",
+      "english": "We completed the report because it was urgent.",
+      "russian": "Мы сделали отчёт, потому что это было срочно.",
+      "farsi": "ما گزارش را انجام دادیم چون فوری بود."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "aufmachen",
+      "Präsens": "Er macht auf",
+      "Präteritum": "Er machte auf",
+      "Perfekt": "hat aufgemacht",
+      "englishMeaning": "to open",
+      "englishUsage": "Describes the action of making something accessible by opening it.",
+      "russianMeaning": "открывать",
+      "russianUsage": "Описывает процесс открытия чего-либо, чтобы сделать его доступным.",
+      "farsiMeaning": "باز کردن",
+      "farsiUsage": "برای توصیف عمل باز کردن چیزی برای دسترسی به آن استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich mache die Tür auf.",
+      "english": "I am opening the door.",
+      "russian": "Я открываю дверь.",
+      "farsi": "من در را باز می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er machte das Fenster auf.",
+      "english": "He opened the window.",
+      "russian": "Он открыл окно.",
+      "farsi": "او پنجره را باز کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat die Tür aufgemacht.",
+      "english": "He has opened the door.",
+      "russian": "Он открыл дверь.",
+      "farsi": "او در را باز کرده است."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
       "Infinitive": "anmachen",
       "Präsens": "Er macht an",
       "Präteritum": "Er machte an",
@@ -160,40 +328,48 @@
     {
       "isSelected": false,
       "type": "verben",
-      "Infinitive": "anmelden",
-      "Präsens": "Er meldet an",
-      "Präteritum": "Er meldete an",
-      "Perfekt": "hat angemeldet",
-      "englishMeaning": "to register, to sign in",
-      "englishUsage": "Refers to the act of registering or logging into a system.",
-      "russianMeaning": "регистрироваться",
-      "russianUsage": "Описывает процесс регистрации или входа в систему.",
-      "farsiMeaning": "ثبت‌نام کردن، ورود",
-      "farsiUsage": "برای توصیف عمل ثبت‌نام یا ورود به سیستم استفاده می‌شود."
+      "Infinitive": "probieren",
+      "Präsens": "Er probiert",
+      "Präteritum": "Er probierte",
+      "Perfekt": "hat probiert",
+      "englishMeaning": "to try",
+      "englishUsage": "Refers to the act of testing or attempting something.",
+      "russianMeaning": "попробовать",
+      "russianUsage": "Описывает процесс тестирования или попытки чего-либо.",
+      "farsiMeaning": "تلاش کردن، امتحان کردن",
+      "farsiUsage": "برای توصیف عمل تست کردن یا تلاش کردن چیزی استفاده می‌شود."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Ich melde mich für den Kurs an.",
-      "english": "I am registering for the course.",
-      "russian": "Я записываюсь на курс.",
-      "farsi": "من برای دوره ثبت نام می‌کنم."
+      "sentence": "Ich probiere das neue Rezept aus.",
+      "english": "I am trying out the new recipe.",
+      "russian": "Я пробую новый рецепт.",
+      "farsi": "من در حال امتحان کردن دستور پخت جدید هستم."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Er meldete sich für das Seminar an.",
-      "english": "He registered for the seminar.",
-      "russian": "Он записался на семинар.",
-      "farsi": "او برای سمینار ثبت نام کرد."
+      "sentence": "Er probierte das neue Restaurant aus.",
+      "english": "He tried out the new restaurant.",
+      "russian": "Он попробовал новый ресторан.",
+      "farsi": "او رستوران جدید را امتحان کرد."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Er hat sich für die Konferenz angemeldet.",
-      "english": "He has registered for the conference.",
-      "russian": "Он зарегистрировался на конференцию.",
-      "farsi": "او برای کنفرانس ثبت نام کرده است."
+      "sentence": "Er hat das neue Gerät getestet.",
+      "english": "He has tested the new device.",
+      "russian": "Он протестировал новое устройство.",
+      "farsi": "او دستگاه جدید را آزمایش کرده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben das neue Rezept ausprobiert, weil wir neugierig waren.",
+      "english": "We tried out the new recipe because we were curious.",
+      "russian": "Мы опробовали новый рецепт, потому что нам было любопытно.",
+      "farsi": "ما دستور پخت جدید را امتحان کردیم چون کنجکاو بودیم."
     },
     {
       "isSelected": false,
@@ -312,6 +488,52 @@
     {
       "isSelected": false,
       "type": "verben",
+      "Infinitive": "hören",
+      "Präsens": "Er hört",
+      "Präteritum": "Er hörte",
+      "Perfekt": "hat gehört",
+      "englishMeaning": "to hear",
+      "englishUsage": "Describes the act of perceiving sounds through the ears.",
+      "russianMeaning": "слышать",
+      "russianUsage": "Описывает процесс восприятия звуков через уши.",
+      "farsiMeaning": "شنیدن",
+      "farsiUsage": "برای توصیف عمل درک صداها از طریق گوش‌ها استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich höre gerne Musik beim Arbeiten.",
+      "english": "I like to listen to music while working.",
+      "russian": "Мне нравится слушать музыку во время работы.",
+      "farsi": "من در حین کار به موسیقی گوش دادن را دوست دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hörte gestern einen seltsamen Geräusch.",
+      "english": "He heard a strange noise yesterday.",
+      "russian": "Он услышал странный шум вчера.",
+      "farsi": "او دیروز صدای عجیبی شنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat die Nachricht gehört.",
+      "english": "He has heard the news.",
+      "russian": "Он услышал новость.",
+      "farsi": "او خبر را شنیده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben die Sirene gehört, weil wir am Fenster standen.",
+      "english": "We heard the siren because we were standing at the window.",
+      "russian": "Мы услышали сирену, потому что стояли у окна.",
+      "farsi": "ما آژیر را شنیدیم چون در کنار پنجره ایستاده بودیم."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
       "Infinitive": "aufhören",
       "Präsens": "Er hört auf",
       "Präteritum": "Er hörte auf",
@@ -385,44 +607,7 @@
       "russian": "Он положил трубку.",
       "farsi": "او تلفن را قطع کرده است."
     },
-    {
-      "isSelected": false,
-      "type": "verben",
-      "Infinitive": "aufmachen",
-      "Präsens": "Er macht auf",
-      "Präteritum": "Er machte auf",
-      "Perfekt": "hat aufgemacht",
-      "englishMeaning": "to open",
-      "englishUsage": "Describes the action of making something accessible by opening it.",
-      "russianMeaning": "открывать",
-      "russianUsage": "Описывает процесс открытия чего-либо, чтобы сделать его доступным.",
-      "farsiMeaning": "باز کردن",
-      "farsiUsage": "برای توصیف عمل باز کردن چیزی برای دسترسی به آن استفاده می‌شود."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Ich mache die Tür auf.",
-      "english": "I am opening the door.",
-      "russian": "Я открываю дверь.",
-      "farsi": "من در را باز می‌کنم."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Er machte das Fenster auf.",
-      "english": "He opened the window.",
-      "russian": "Он открыл окно.",
-      "farsi": "او پنجره را باز کرد."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Er hat die Tür aufgemacht.",
-      "english": "He has opened the door.",
-      "russian": "Он открыл дверь.",
-      "farsi": "او در را باز کرده است."
-    },
+
     {
       "isSelected": false,
       "type": "verben",
@@ -768,6 +953,52 @@
     {
       "isSelected": false,
       "type": "verben",
+      "Infinitive": "suchen",
+      "Präsens": "Er sucht",
+      "Präteritum": "Er suchte",
+      "Perfekt": "hat gesucht",
+      "englishMeaning": "to search, to look for",
+      "englishUsage": "Refers to the act of trying to find something or someone.",
+      "russianMeaning": "искать",
+      "russianUsage": "Описывает процесс попытки найти что-либо или кого-либо.",
+      "farsiMeaning": "جستجو کردن، پیدا کردن",
+      "farsiUsage": "برای توصیف عمل تلاش برای یافتن چیزی یا کسی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich suche meine Schlüssel.",
+      "english": "I am looking for my keys.",
+      "russian": "Я ищу свои ключи.",
+      "farsi": "من در حال جستجوی کلیدهایم هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er suchte nach einem guten Restaurant.",
+      "english": "He searched for a good restaurant.",
+      "russian": "Он искал хороший ресторан.",
+      "farsi": "او به دنبال یک رستوران خوب جستجو کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat nach dem Fehler gesucht.",
+      "english": "He has looked for the mistake.",
+      "russian": "Он искал ошибку.",
+      "farsi": "او به دنبال اشتباه جستجو کرده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben die alte Rechnung gesucht, weil wir sie für die Steuererklärung brauchten.",
+      "english": "We searched for the old invoice because we needed it for the tax return.",
+      "russian": "Мы искали старый счет, потому что он был нужен для налоговой декларации.",
+      "farsi": "ما به دنبال فاکتور قدیمی جستجو کردیم چون به آن برای اظهارنامه مالیاتی نیاز داشتیم."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
       "Infinitive": "besuchen",
       "Präsens": "Er besucht",
       "Präteritum": "Er besuchte",
@@ -806,6 +1037,53 @@
     {
       "isSelected": false,
       "type": "verben",
+      "Infinitive": "untersuchen",
+      "Präsens": "Er untersucht",
+      "Präteritum": "Er untersuchte",
+      "Perfekt": "hat untersucht",
+      "englishMeaning": "to investigate, to examine",
+      "englishUsage": "Refers to the act of looking into something carefully to find out more details.",
+      "russianMeaning": "исследовать, проверять",
+      "russianUsage": "Описывает процесс внимательного изучения чего-либо для получения более подробной информации.",
+      "farsiMeaning": "بررسی کردن، تحقیق کردن",
+      "farsiUsage": "برای توصیف عمل نگاه کردن به چیزی به دقت برای یافتن جزئیات بیشتر استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Arzt untersucht den Patienten.",
+      "english": "The doctor examines the patient.",
+      "russian": "Врач осматривает пациента.",
+      "farsi": "پزشک بیمار را معاینه می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er untersuchte die Daten genau.",
+      "english": "He examined the data carefully.",
+      "russian": "Он тщательно изучил данные.",
+      "farsi": "او داده‌ها را به دقت بررسی کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat das neue Medikament untersucht.",
+      "english": "He has examined the new medication.",
+      "russian": "Он исследовал новое лекарство.",
+      "farsi": "او داروی جدید را بررسی کرده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben die Sicherheitsvorkehrungen überprüft, weil wir uns auf die Inspektion vorbereiten mussten.",
+      "english": "We checked the safety measures because we had to prepare for the inspection.",
+      "russian": "Мы проверили меры безопасности, потому что нам нужно было подготовиться к проверке.",
+      "farsi": "ما تدابیر ایمنی را بررسی کردیم چون باید برای بازرسی آماده می‌شدیم."
+    },
+
+    {
+      "isSelected": false,
+      "type": "verben",
       "Infinitive": "betreuen",
       "Präsens": "Er betreut",
       "Präteritum": "Er betreute",
@@ -840,6 +1118,44 @@
       "english": "He has taken care of the patients.",
       "russian": "Он ухаживал за пациентами.",
       "farsi": "او به بیماران رسیدگی کرده است."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "zahlen",
+      "Präsens": "Er zahlt",
+      "Präteritum": "Er zahlte",
+      "Perfekt": "hat gezahlt",
+      "englishMeaning": "to pay",
+      "englishUsage": "Describes the act of giving money in exchange for goods or services.",
+      "russianMeaning": "платить",
+      "russianUsage": "Описывает процесс передачи денег в обмен на товары или услуги.",
+      "farsiMeaning": "پرداخت کردن",
+      "farsiUsage": "برای توصیف عمل دادن پول در ازای کالا یا خدمات استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich zahle die Rechnung.",
+      "english": "I pay the bill.",
+      "russian": "Я оплачиваю счёт.",
+      "farsi": "من فاکتور را پرداخت می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er zahlte die Miete pünktlich.",
+      "english": "He paid the rent on time.",
+      "russian": "Он заплатил аренду вовремя.",
+      "farsi": "او اجاره را به موقع پرداخت کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat die Rechnung bezahlt.",
+      "english": "He has paid the bill.",
+      "russian": "Он оплатил счёт.",
+      "farsi": "او فاکتور را پرداخت کرده است."
     },
     {
       "isSelected": false,
@@ -1072,6 +1388,52 @@
     {
       "isSelected": false,
       "type": "verben",
+      "Infinitive": "kaufen",
+      "Präsens": "Er kauft",
+      "Präteritum": "Er kaufte",
+      "Perfekt": "hat gekauft",
+      "englishMeaning": "to buy",
+      "englishUsage": "Describes the act of purchasing something.",
+      "russianMeaning": "покупать",
+      "russianUsage": "Описывает процесс покупки чего-либо.",
+      "farsiMeaning": "خریدن",
+      "farsiUsage": "برای توصیف عمل خرید چیزی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich kaufe gerne frisches Gemüse auf dem Markt.",
+      "english": "I like to buy fresh vegetables at the market.",
+      "russian": "Мне нравится покупать свежие овощи на рынке.",
+      "farsi": "من دوست دارم سبزیجات تازه را از بازار بخرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er kaufte gestern einen neuen Fernseher.",
+      "english": "He bought a new TV yesterday.",
+      "russian": "Он купил новый телевизор вчера.",
+      "farsi": "او دیروز یک تلویزیون جدید خرید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat das Buch im Buchladen gekauft.",
+      "english": "He has bought the book in the bookstore.",
+      "russian": "Он купил книгу в книжном магазине.",
+      "farsi": "او کتاب را در کتابفروشی خریده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben das Haus gekauft, weil es in einer guten Lage ist.",
+      "english": "We bought the house because it is in a good location.",
+      "russian": "Мы купили дом, потому что он находится в хорошем месте.",
+      "farsi": "ما خانه را خریدیم چون در مکان خوبی قرار دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
       "Infinitive": "einkaufen",
       "Präsens": "Er kauft ein",
       "Präteritum": "Er kaufte ein",
@@ -1106,6 +1468,52 @@
       "english": "He has bought the gifts.",
       "russian": "Он купил подарки.",
       "farsi": "او هدایا را خریداری کرده است."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "verkaufen",
+      "Präsens": "Er verkauft",
+      "Präteritum": "Er verkaufte",
+      "Perfekt": "hat verkauft",
+      "englishMeaning": "to sell",
+      "englishUsage": "Describes the act of exchanging goods or services for money.",
+      "russianMeaning": "продавать",
+      "russianUsage": "Описывает процесс обмена товаров или услуг на деньги.",
+      "farsiMeaning": "فروختن",
+      "farsiUsage": "برای توصیف عمل مبادله کالا یا خدمات برای پول استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich verkaufe mein altes Auto.",
+      "english": "I am selling my old car.",
+      "russian": "Я продаю свой старый автомобиль.",
+      "farsi": "من خودروی قدیمی‌ام را می‌فروشم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er verkaufte seine Sammlung auf dem Flohmarkt.",
+      "english": "He sold his collection at the flea market.",
+      "russian": "Он продал свою коллекцию на блошином рынке.",
+      "farsi": "او مجموعه‌اش را در بازار دست‌فروشان فروخت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat das Haus verkauft.",
+      "english": "He has sold the house.",
+      "russian": "Он продал дом.",
+      "farsi": "او خانه را فروخته است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben beschlossen, das alte Möbelstück zu verkaufen, weil wir Platz für neue Möbel schaffen wollten.",
+      "english": "We decided to sell the old piece of furniture because we wanted to make room for new furniture.",
+      "russian": "Мы решили продать старую мебель, потому что хотели освободить место для новой мебели.",
+      "farsi": "ما تصمیم گرفتیم که مبل قدیمی را بفروشیم چون می‌خواستیم جای جدیدی برای مبلمان جدید ایجاد کنیم."
     },
     {
       "isSelected": false,
@@ -1439,9 +1847,9 @@
       "isSelected": false,
       "type": "verben",
       "Infinitive": "geboren",
-      "Präsens": "Er wird geboren",
-      "Präteritum": "Er wurde geboren",
-      "Perfekt": "ist geboren worden",
+      "Präsens": "Er gebort",
+      "Präteritum": "Er geborte",
+      "Perfekt": "hat gebort",
       "englishMeaning": "to be born",
       "englishUsage": "Refers to the act of coming into life.",
       "russianMeaning": "родиться",
@@ -1452,7 +1860,7 @@
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Ich bin in einer kleinen Stadt geboren.",
+      "sentence": "Ich habe in einer kleinen Stadt gebort.",
       "english": "I was born in a small town.",
       "russian": "Я родился в маленьком городе.",
       "farsi": "من در یک شهر کوچک به دنیا آمده‌ام."
@@ -1476,7 +1884,7 @@
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Meine Schwester ist in London geboren.",
+      "sentence": "Meine Schwester hat in London geboren.",
       "english": "My sister was born in London.",
       "russian": "Моя сестра родилась в Лондоне.",
       "farsi": "خواهر من در لندن به دنیا آمده است."
@@ -1760,98 +2168,6 @@
     {
       "isSelected": false,
       "type": "verben",
-      "Infinitive": "holen",
-      "Präsens": "Er holt",
-      "Präteritum": "Er holte",
-      "Perfekt": "hat geholt",
-      "englishMeaning": "to fetch, to get",
-      "englishUsage": "Refers to going to retrieve something or someone.",
-      "russianMeaning": "принести, взять",
-      "russianUsage": "Описывает процесс похода для получения чего-либо или кого-либо.",
-      "farsiMeaning": "آوردن، گرفتن",
-      "farsiUsage": "برای توصیف عمل رفتن برای گرفتن چیزی یا کسی استفاده می‌شود."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Ich hole die Post jeden Tag.",
-      "english": "I collect the mail every day.",
-      "russian": "Я забираю почту каждый день.",
-      "farsi": "من هر روز پست را می‌گیرم."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Er holte das Paket vom Postamt ab.",
-      "english": "He picked up the package from the post office.",
-      "russian": "Он забрал посылку из почтового отделения.",
-      "farsi": "او بسته را از اداره پست برداشت."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Sie hat den Arzt gerufen.",
-      "english": "She has called the doctor.",
-      "russian": "Она вызвала врача.",
-      "farsi": "او پزشک را صدا زده است."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Wir haben den Regenschirm geholt, weil es regnete.",
-      "english": "We got the umbrella because it was raining.",
-      "russian": "Мы взяли зонт, потому что шел дождь.",
-      "farsi": "ما چتر را گرفتیم چون باران می‌بارید."
-    },
-    {
-      "isSelected": false,
-      "type": "verben",
-      "Infinitive": "hören",
-      "Präsens": "Er hört",
-      "Präteritum": "Er hörte",
-      "Perfekt": "hat gehört",
-      "englishMeaning": "to hear",
-      "englishUsage": "Describes the act of perceiving sounds through the ears.",
-      "russianMeaning": "слышать",
-      "russianUsage": "Описывает процесс восприятия звуков через уши.",
-      "farsiMeaning": "شنیدن",
-      "farsiUsage": "برای توصیف عمل درک صداها از طریق گوش‌ها استفاده می‌شود."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Ich höre gerne Musik beim Arbeiten.",
-      "english": "I like to listen to music while working.",
-      "russian": "Мне нравится слушать музыку во время работы.",
-      "farsi": "من در حین کار به موسیقی گوش دادن را دوست دارم."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Er hörte gestern einen seltsamen Geräusch.",
-      "english": "He heard a strange noise yesterday.",
-      "russian": "Он услышал странный шум вчера.",
-      "farsi": "او دیروز صدای عجیبی شنید."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Er hat die Nachricht gehört.",
-      "english": "He has heard the news.",
-      "russian": "Он услышал новость.",
-      "farsi": "او خبر را شنیده است."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Wir haben die Sirene gehört, weil wir am Fenster standen.",
-      "english": "We heard the siren because we were standing at the window.",
-      "russian": "Мы услышали сирену, потому что стояли у окна.",
-      "farsi": "ما آژیر را شنیدیم چون در کنار پنجره ایستاده بودیم."
-    },
-    {
-      "isSelected": false,
-      "type": "verben",
       "Infinitive": "hupen",
       "Präsens": "Er hupt",
       "Präteritum": "Er hupte",
@@ -1940,52 +2256,6 @@
       "english": "We jogged because the weather was pleasant.",
       "russian": "Мы бегали трусцой, потому что погода была приятной.",
       "farsi": "ما دویدیم چون هوا خوشایند بود."
-    },
-    {
-      "isSelected": false,
-      "type": "verben",
-      "Infinitive": "kaufen",
-      "Präsens": "Er kauft",
-      "Präteritum": "Er kaufte",
-      "Perfekt": "hat gekauft",
-      "englishMeaning": "to buy",
-      "englishUsage": "Describes the act of purchasing something.",
-      "russianMeaning": "покупать",
-      "russianUsage": "Описывает процесс покупки чего-либо.",
-      "farsiMeaning": "خریدن",
-      "farsiUsage": "برای توصیف عمل خرید چیزی استفاده می‌شود."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Ich kaufe gerne frisches Gemüse auf dem Markt.",
-      "english": "I like to buy fresh vegetables at the market.",
-      "russian": "Мне нравится покупать свежие овощи на рынке.",
-      "farsi": "من دوست دارم سبزیجات تازه را از بازار بخرم."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Er kaufte gestern einen neuen Fernseher.",
-      "english": "He bought a new TV yesterday.",
-      "russian": "Он купил новый телевизор вчера.",
-      "farsi": "او دیروز یک تلویزیون جدید خرید."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Er hat das Buch im Buchladen gekauft.",
-      "english": "He has bought the book in the bookstore.",
-      "russian": "Он купил книгу в книжном магазине.",
-      "farsi": "او کتاب را در کتابفروشی خریده است."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Wir haben das Haus gekauft, weil es in einer guten Lage ist.",
-      "english": "We bought the house because it is in a good location.",
-      "russian": "Мы купили дом, потому что он находится в хорошем месте.",
-      "farsi": "ما خانه را خریدیم چون در مکان خوبی قرار دارد."
     },
     {
       "isSelected": false,
@@ -2255,52 +2525,7 @@
       "russian": "Он очень любил свою собаку.",
       "farsi": "او سگش را بسیار دوست داشته است."
     },
-    {
-      "isSelected": false,
-      "type": "verben",
-      "Infinitive": "machen",
-      "Präsens": "Er macht",
-      "Präteritum": "Er machte",
-      "Perfekt": "hat gemacht",
-      "englishMeaning": "to make, to do",
-      "englishUsage": "Describes the act of creating or performing something.",
-      "russianMeaning": "делать",
-      "russianUsage": "Описывает процесс создания или выполнения чего-либо.",
-      "farsiMeaning": "ساختن، انجام دادن",
-      "farsiUsage": "برای توصیف عمل خلق یا انجام چیزی استفاده می‌شود."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Ich mache meine Hausaufgaben am Nachmittag.",
-      "english": "I do my homework in the afternoon.",
-      "russian": "Я делаю домашнее задание после обеда.",
-      "farsi": "من بعدازظهرها تکالیفم را انجام می‌دهم."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Er machte den Kuchen am Sonntag.",
-      "english": "He made the cake on Sunday.",
-      "russian": "Он испёк торт в воскресенье.",
-      "farsi": "او کیک را در روز یکشنبه درست کرد."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Er hat die Aufgaben fertig gemacht.",
-      "english": "He has completed the tasks.",
-      "russian": "Он выполнил задачи.",
-      "farsi": "او وظایف را به پایان رسانده است."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Wir haben den Bericht gemacht, weil es dringend war.",
-      "english": "We completed the report because it was urgent.",
-      "russian": "Мы сделали отчёт, потому что это было срочно.",
-      "farsi": "ما گزارش را انجام دادیم چون فوری بود."
-    },
+
     {
       "isSelected": false,
       "type": "verben",
@@ -2710,52 +2935,6 @@
     {
       "isSelected": false,
       "type": "verben",
-      "Infinitive": "probieren",
-      "Präsens": "Er probiert",
-      "Präteritum": "Er probierte",
-      "Perfekt": "hat probiert",
-      "englishMeaning": "to try",
-      "englishUsage": "Refers to the act of testing or attempting something.",
-      "russianMeaning": "попробовать",
-      "russianUsage": "Описывает процесс тестирования или попытки чего-либо.",
-      "farsiMeaning": "تلاش کردن، امتحان کردن",
-      "farsiUsage": "برای توصیف عمل تست کردن یا تلاش کردن چیزی استفاده می‌شود."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Ich probiere das neue Rezept aus.",
-      "english": "I am trying out the new recipe.",
-      "russian": "Я пробую новый рецепт.",
-      "farsi": "من در حال امتحان کردن دستور پخت جدید هستم."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Er probierte das neue Restaurant aus.",
-      "english": "He tried out the new restaurant.",
-      "russian": "Он попробовал новый ресторан.",
-      "farsi": "او رستوران جدید را امتحان کرد."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Er hat das neue Gerät getestet.",
-      "english": "He has tested the new device.",
-      "russian": "Он протестировал новое устройство.",
-      "farsi": "او دستگاه جدید را آزمایش کرده است."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Wir haben das neue Rezept ausprobiert, weil wir neugierig waren.",
-      "english": "We tried out the new recipe because we were curious.",
-      "russian": "Мы опробовали новый рецепт, потому что нам было любопытно.",
-      "farsi": "ما دستور پخت جدید را امتحان کردیم چون کنجکاو بودیم."
-    },
-    {
-      "isSelected": false,
-      "type": "verben",
       "Infinitive": "reden",
       "Präsens": "Er redet",
       "Präteritum": "Er redete",
@@ -2851,7 +3030,7 @@
       "Infinitive": "reisen",
       "Präsens": "Er reist",
       "Präteritum": "Er reiste",
-      "Perfekt": "hat gereist",
+      "Perfekt": "ist gereist",
       "englishMeaning": "to travel",
       "englishUsage": "Refers to the act of moving from one place to another, often for leisure or work.",
       "russianMeaning": "путешествовать",
@@ -3346,52 +3525,6 @@
     {
       "isSelected": false,
       "type": "verben",
-      "Infinitive": "suchen",
-      "Präsens": "Er sucht",
-      "Präteritum": "Er suchte",
-      "Perfekt": "hat gesucht",
-      "englishMeaning": "to search, to look for",
-      "englishUsage": "Refers to the act of trying to find something or someone.",
-      "russianMeaning": "искать",
-      "russianUsage": "Описывает процесс попытки найти что-либо или кого-либо.",
-      "farsiMeaning": "جستجو کردن، پیدا کردن",
-      "farsiUsage": "برای توصیف عمل تلاش برای یافتن چیزی یا کسی استفاده می‌شود."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Ich suche meine Schlüssel.",
-      "english": "I am looking for my keys.",
-      "russian": "Я ищу свои ключи.",
-      "farsi": "من در حال جستجوی کلیدهایم هستم."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Er suchte nach einem guten Restaurant.",
-      "english": "He searched for a good restaurant.",
-      "russian": "Он искал хороший ресторан.",
-      "farsi": "او به دنبال یک رستوران خوب جستجو کرد."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Er hat nach dem Fehler gesucht.",
-      "english": "He has looked for the mistake.",
-      "russian": "Он искал ошибку.",
-      "farsi": "او به دنبال اشتباه جستجو کرده است."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Wir haben die alte Rechnung gesucht, weil wir sie für die Steuererklärung brauchten.",
-      "english": "We searched for the old invoice because we needed it for the tax return.",
-      "russian": "Мы искали старый счет, потому что он был нужен для налоговой декларации.",
-      "farsi": "ما به دنبال فاکتور قدیمی جستجو کردیم چون به آن برای اظهارنامه مالیاتی نیاز داشتیم."
-    },
-    {
-      "isSelected": false,
-      "type": "verben",
       "Infinitive": "surfen",
       "Präsens": "Er surft",
       "Präteritum": "Er surfte",
@@ -3598,52 +3731,6 @@
     {
       "isSelected": false,
       "type": "verben",
-      "Infinitive": "untersuchen",
-      "Präsens": "Er untersucht",
-      "Präteritum": "Er untersuchte",
-      "Perfekt": "hat untersucht",
-      "englishMeaning": "to investigate, to examine",
-      "englishUsage": "Refers to the act of looking into something carefully to find out more details.",
-      "russianMeaning": "исследовать, проверять",
-      "russianUsage": "Описывает процесс внимательного изучения чего-либо для получения более подробной информации.",
-      "farsiMeaning": "بررسی کردن، تحقیق کردن",
-      "farsiUsage": "برای توصیف عمل نگاه کردن به چیزی به دقت برای یافتن جزئیات بیشتر استفاده می‌شود."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Der Arzt untersucht den Patienten.",
-      "english": "The doctor examines the patient.",
-      "russian": "Врач осматривает пациента.",
-      "farsi": "پزشک بیمار را معاینه می‌کند."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Er untersuchte die Daten genau.",
-      "english": "He examined the data carefully.",
-      "russian": "Он тщательно изучил данные.",
-      "farsi": "او داده‌ها را به دقت بررسی کرد."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Er hat das neue Medikament untersucht.",
-      "english": "He has examined the new medication.",
-      "russian": "Он исследовал новое лекарство.",
-      "farsi": "او داروی جدید را بررسی کرده است."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Wir haben die Sicherheitsvorkehrungen überprüft, weil wir uns auf die Inspektion vorbereiten mussten.",
-      "english": "We checked the safety measures because we had to prepare for the inspection.",
-      "russian": "Мы проверили меры безопасности, потому что нам нужно было подготовиться к проверке.",
-      "farsi": "ما تدابیر ایمنی را بررسی کردیم چون باید برای بازرسی آماده می‌شدیم."
-    },
-    {
-      "isSelected": false,
-      "type": "verben",
       "Infinitive": "verdienen",
       "Präsens": "Er verdient",
       "Präteritum": "Er verdiente",
@@ -3687,98 +3774,7 @@
       "russian": "Мы решили работать больше, потому что хотели увеличить свой доход.",
       "farsi": "ما تصمیم گرفتیم بیشتر کار کنیم چون می‌خواستیم درآمدمان را افزایش دهیم."
     },
-    {
-      "isSelected": false,
-      "type": "verben",
-      "Infinitive": "verheiratet",
-      "Präsens": "Er ist verheiratet",
-      "Präteritum": "Er war verheiratet",
-      "Perfekt": "ist verheiratet gewesen",
-      "englishMeaning": "married",
-      "englishUsage": "Describes the state of being legally united with a partner in marriage.",
-      "russianMeaning": "женатый/замужняя",
-      "russianUsage": "Описывает состояние законного союза с партнером в браке.",
-      "farsiMeaning": "متاهل",
-      "farsiUsage": "برای توصیف وضعیت قانونی اتحاد با شریک در ازدواج استفاده می‌شود."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Ich bin seit fünf Jahren verheiratet.",
-      "english": "I have been married for five years.",
-      "russian": "Я женат(а) уже пять лет.",
-      "farsi": "من پنج سال است که متاهل هستم."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Er war vor zehn Jahren verheiratet.",
-      "english": "He was married ten years ago.",
-      "russian": "Он был женат десять лет назад.",
-      "farsi": "او ده سال پیش متاهل بود."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Er ist seit letztem Jahr verheiratet.",
-      "english": "He has been married since last year.",
-      "russian": "Он женат с прошлого года.",
-      "farsi": "او از سال گذشته متاهل است."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Wir haben beschlossen, die Hochzeit zu feiern, weil wir seit drei Jahren verheiratet sind.",
-      "english": "We decided to celebrate the wedding because we have been married for three years.",
-      "russian": "Мы решили отпраздновать свадьбу, потому что мы женаты три года.",
-      "farsi": "ما تصمیم گرفتیم جشن عروسی بگیریم چون سه سال است که متاهل هستیم."
-    },
-    {
-      "isSelected": false,
-      "type": "verben",
-      "Infinitive": "verkaufen",
-      "Präsens": "Er verkauft",
-      "Präteritum": "Er verkaufte",
-      "Perfekt": "hat verkauft",
-      "englishMeaning": "to sell",
-      "englishUsage": "Describes the act of exchanging goods or services for money.",
-      "russianMeaning": "продавать",
-      "russianUsage": "Описывает процесс обмена товаров или услуг на деньги.",
-      "farsiMeaning": "فروختن",
-      "farsiUsage": "برای توصیف عمل مبادله کالا یا خدمات برای پول استفاده می‌شود."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Ich verkaufe mein altes Auto.",
-      "english": "I am selling my old car.",
-      "russian": "Я продаю свой старый автомобиль.",
-      "farsi": "من خودروی قدیمی‌ام را می‌فروشم."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Er verkaufte seine Sammlung auf dem Flohmarkt.",
-      "english": "He sold his collection at the flea market.",
-      "russian": "Он продал свою коллекцию на блошином рынке.",
-      "farsi": "او مجموعه‌اش را در بازار دست‌فروشان فروخت."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Er hat das Haus verkauft.",
-      "english": "He has sold the house.",
-      "russian": "Он продал дом.",
-      "farsi": "او خانه را فروخته است."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Wir haben beschlossen, das alte Möbelstück zu verkaufen, weil wir Platz für neue Möbel schaffen wollten.",
-      "english": "We decided to sell the old piece of furniture because we wanted to make room for new furniture.",
-      "russian": "Мы решили продать старую мебель, потому что хотели освободить место для новой мебели.",
-      "farsi": "ما تصمیم گرفتیم که مبل قدیمی را بفروشیم چون می‌خواستیم جای جدیدی برای مبلمان جدید ایجاد کنیم."
-    },
+
     {
       "isSelected": false,
       "type": "verben",
@@ -3958,44 +3954,6 @@
     {
       "isSelected": false,
       "type": "verben",
-      "Infinitive": "willkommen",
-      "Präsens": "Er ist willkommen",
-      "Präteritum": "Er war willkommen",
-      "Perfekt": "ist willkommen gewesen",
-      "englishMeaning": "welcome",
-      "englishUsage": "Describes the act of greeting someone with friendliness and warmth.",
-      "russianMeaning": "добро пожаловать",
-      "russianUsage": "Описывает процесс приветствия кого-либо с дружелюбием и теплотой.",
-      "farsiMeaning": "خوش آمدید",
-      "farsiUsage": "برای توصیف عمل خوشامدگویی به کسی با دوستانه و گرمی استفاده می‌شود."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Willkommen in unserem Haus!",
-      "english": "Welcome to our house!",
-      "russian": "Добро пожаловать в наш дом!",
-      "farsi": "خوش آمدید به خانه ما!"
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Er wurde herzlich willkommen geheißen.",
-      "english": "He was warmly welcomed.",
-      "russian": "Его тепло приветствовали.",
-      "farsi": "او به گرمی خوش آمد گفته شد."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Er hat die neuen Mitarbeiter willkommen geheißen.",
-      "english": "He has welcomed the new employees.",
-      "russian": "Он приветствовал новых сотрудников.",
-      "farsi": "او از کارکنان جدید استقبال کرده است."
-    },
-    {
-      "isSelected": false,
-      "type": "verben",
       "Infinitive": "wohnen",
       "Präsens": "Er wohnt",
       "Präteritum": "Er wohnte",
@@ -4039,44 +3997,7 @@
       "russian": "Мы решили жить ближе к работе, потому что ежедневные поездки были слишком длинными.",
       "farsi": "ما تصمیم گرفتیم نزدیک‌تر به محل کار زندگی کنیم چون سفر روزانه خیلی طولانی بود."
     },
-    {
-      "isSelected": false,
-      "type": "verben",
-      "Infinitive": "zahlen",
-      "Präsens": "Er zahlt",
-      "Präteritum": "Er zahlte",
-      "Perfekt": "hat gezahlt",
-      "englishMeaning": "to pay",
-      "englishUsage": "Describes the act of giving money in exchange for goods or services.",
-      "russianMeaning": "платить",
-      "russianUsage": "Описывает процесс передачи денег в обмен на товары или услуги.",
-      "farsiMeaning": "پرداخت کردن",
-      "farsiUsage": "برای توصیف عمل دادن پول در ازای کالا یا خدمات استفاده می‌شود."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Ich zahle die Rechnung.",
-      "english": "I pay the bill.",
-      "russian": "Я оплачиваю счёт.",
-      "farsi": "من فاکتور را پرداخت می‌کنم."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Er zahlte die Miete pünktlich.",
-      "english": "He paid the rent on time.",
-      "russian": "Он заплатил аренду вовремя.",
-      "farsi": "او اجاره را به موقع پرداخت کرد."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Er hat die Rechnung bezahlt.",
-      "english": "He has paid the bill.",
-      "russian": "Он оплатил счёт.",
-      "farsi": "او فاکتور را پرداخت کرده است."
-    },
+
     {
       "isSelected": false,
       "type": "verben",

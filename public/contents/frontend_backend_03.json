@@ -1,0 +1,729 @@
+{
+  "info": {
+    "name": "Frontend_Backend_03",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie sicherstellen, dass der JWT-Token bei jeder API-Anfrage im Header gesendet wird?",
+      "english": "Could you ensure that the JWT token is sent in the header with every API request?",
+      "russian": "Можете ли вы убедиться, что JWT-токен отправляется в заголовке с каждым запросом API?",
+      "farsi": "آیا می‌توانید اطمینان حاصل کنید که توکن JWT در هر درخواست API در هدر ارسال می‌شود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir mit abgelaufenen Tokens umgehen? Soll das Frontend eine automatische Erneuerung anfordern?",
+      "english": "How should we handle expired tokens? Should the frontend request an automatic renewal?",
+      "russian": "Как нам обращаться с истекшими токенами? Должен ли фронтенд запрашивать автоматическое обновление?",
+      "farsi": "چگونه باید با توکن‌های منقضی شده برخورد کنیم؟ آیا فرانت‌اند باید درخواست تمدید خودکار بدهد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Token wird im Frontend nicht korrekt gespeichert. Können Sie die Token-Lebensdauer überprüfen?",
+      "english": "The token is not being stored correctly in the frontend. Can you check the token's lifespan?",
+      "russian": "Токен неправильно сохраняется на фронтенде. Можете ли вы проверить срок действия токена?",
+      "farsi": "توکن در فرانت‌اند به درستی ذخیره نمی‌شود. آیا می‌توانید طول عمر توکن را بررسی کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie sicherstellen, dass der Token nur über HTTPS gesendet wird, um die Sicherheit zu gewährleisten?",
+      "english": "Could you ensure that the token is sent only over HTTPS to ensure security?",
+      "russian": "Можете ли вы убедиться, что токен отправляется только через HTTPS для обеспечения безопасности?",
+      "farsi": "آیا می‌توانید اطمینان حاصل کنید که توکن فقط از طریق HTTPS ارسال می‌شود تا امنیت تضمین شود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Welche Art von Token verwenden wir zur Authentifizierung, JWT oder OAuth?",
+      "english": "What type of token are we using for authentication, JWT or OAuth?",
+      "russian": "Какой тип токена мы используем для аутентификации, JWT или OAuth?",
+      "farsi": "ما از چه نوع توکنی برای احراز هویت استفاده می‌کنیم، JWT یا OAuth؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der API-Response enthält keinen Authorization-Token. Können Sie das prüfen?",
+      "english": "The API response does not contain an authorization token. Can you check that?",
+      "russian": "Ответ API не содержит токен авторизации. Можете ли вы это проверить?",
+      "farsi": "پاسخ API حاوی توکن مجوز نیست. آیا می‌توانید آن را بررسی کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können wir den Token im LocalStorage oder SessionStorage speichern, oder benötigen wir eine sicherere Lösung?",
+      "english": "Can we store the token in LocalStorage or SessionStorage, or do we need a more secure solution?",
+      "russian": "Можем ли мы хранить токен в LocalStorage или SessionStorage, или нам нужно более безопасное решение?",
+      "farsi": "آیا می‌توانیم توکن را در LocalStorage یا SessionStorage ذخیره کنیم یا به یک راه‌حل ایمن‌تر نیاز داریم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir die Token-Erneuerung im Frontend handhaben, wenn der User länger inaktiv ist?",
+      "english": "How should we handle token renewal in the frontend when the user is inactive for a long time?",
+      "russian": "Как нам обрабатывать обновление токена на фронтенде, если пользователь долго неактивен?",
+      "farsi": "چگونه باید تجدید توکن را در فرانت‌اند زمانی که کاربر برای مدت طولانی غیرفعال است مدیریت کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Soll der Authorization-Token bei jedem API-Request erneut generiert werden, oder bleibt er für eine Sitzung gültig?",
+      "english": "Should the authorization token be regenerated with each API request, or is it valid for a session?",
+      "russian": "Должен ли токен авторизации генерироваться заново при каждом запросе API, или он действителен для одной сессии?",
+      "farsi": "آیا توکن مجوز باید با هر درخواست API دوباره تولید شود یا برای یک جلسه معتبر است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie den Token im HttpOnly-Cookie speichern, um das Risiko von XSS-Angriffen zu minimieren?",
+      "english": "Could you store the token in an HttpOnly cookie to minimize the risk of XSS attacks?",
+      "russian": "Можете ли вы хранить токен в HttpOnly-куки, чтобы минимизировать риск XSS-атак?",
+      "farsi": "آیا می‌توانید توکن را در کوکی HttpOnly ذخیره کنید تا خطر حملات XSS به حداقل برسد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Token scheint nach der Anmeldung nicht korrekt übertragen zu werden. Können Sie die Backend-Konfiguration überprüfen?",
+      "english": "The token does not seem to be transmitted correctly after login. Can you check the backend configuration?",
+      "russian": "Кажется, токен не передается корректно после входа в систему. Можете ли вы проверить конфигурацию бэкенда?",
+      "farsi": "به نظر می‌رسد توکن پس از ورود به سیستم به درستی منتقل نمی‌شود. آیا می‌توانید پیکربندی بک‌اند را بررسی کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie gehen wir mit Tokens um, die von verschiedenen Geräten gesendet werden? Soll der alte Token ungültig gemacht werden?",
+      "english": "How should we handle tokens sent from different devices? Should the old token be invalidated?",
+      "russian": "Как нам обращаться с токенами, отправляемыми с разных устройств? Нужно ли аннулировать старый токен?",
+      "farsi": "چگونه باید با توکن‌هایی که از دستگاه‌های مختلف ارسال می‌شوند برخورد کنیم؟ آیا باید توکن قدیمی باطل شود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der User erhält einen 403-Fehler, obwohl der Token im Request-Header gesendet wird. Können Sie das prüfen?",
+      "english": "The user is receiving a 403 error, even though the token is being sent in the request header. Can you check that?",
+      "russian": "Пользователь получает ошибку 403, хотя токен отправляется в заголовке запроса. Можете ли вы это проверить?",
+      "farsi": "کاربر یک خطای 403 دریافت می‌کند، اگرچه توکن در هدر درخواست ارسال می‌شود. آیا می‌توانید آن را بررسی کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie sicherstellen, dass der Access-Token bei einer abgelaufenen Sitzung automatisch erneuert wird?",
+      "english": "Could you ensure that the access token is automatically renewed when a session expires?",
+      "russian": "Можете ли вы убедиться, что токен доступа автоматически обновляется при истечении сессии?",
+      "farsi": "آیا می‌توانید اطمینان حاصل کنید که توکن دسترسی در هنگام انقضای جلسه به طور خودکار تمدید می‌شود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir die Refresh-Tokens verwalten, um eine reibungslose Benutzererfahrung zu gewährleisten?",
+      "english": "How should we manage refresh tokens to ensure a smooth user experience?",
+      "russian": "Как нам управлять токенами обновления, чтобы обеспечить бесперебойный пользовательский опыт?",
+      "farsi": "چگونه باید توکن‌های تجدید را مدیریت کنیم تا یک تجربه کاربری روان را تضمین کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Soll der Token nach jeder erfolgreichen Authentifizierung automatisch aktualisiert werden?",
+      "english": "Should the token be automatically updated after each successful authentication?",
+      "russian": "Должен ли токен автоматически обновляться после каждой успешной аутентификации?",
+      "farsi": "آیا توکن باید پس از هر احراز هویت موفقیت‌آمیز به طور خودکار به‌روزرسانی شود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können Sie die Token-Verschlüsselung verstärken, um die Sicherheit zu erhöhen?",
+      "english": "Can you strengthen token encryption to enhance security?",
+      "russian": "Можете ли вы усилить шифрование токена для повышения безопасности?",
+      "farsi": "آیا می‌توانید رمزگذاری توکن را تقویت کنید تا امنیت افزایش یابد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir den Zugriff auf API-Endpunkte basierend auf den im Token enthaltenen Berechtigungen einschränken?",
+      "english": "How should we restrict access to API endpoints based on the permissions contained in the token?",
+      "russian": "Как нам ограничить доступ к конечным точкам API на основе разрешений, содержащихся в токене?",
+      "farsi": "چگونه باید دسترسی به نقاط پایانی API را بر اساس مجوزهای موجود در توکن محدود کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie bitte sicherstellen, dass die Tokens nach der Abmeldung des Benutzers ungültig gemacht werden?",
+      "english": "Could you please ensure that the tokens are invalidated after the user logs out?",
+      "russian": "Можете ли вы убедиться, что токены аннулируются после выхода пользователя из системы?",
+      "farsi": "آیا می‌توانید اطمینان حاصل کنید که توکن‌ها پس از خروج کاربر از سیستم باطل می‌شوند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie können wir überprüfen, ob der gesendete Token abgelaufen ist, bevor wir eine API-Anfrage stellen?",
+      "english": "How can we check if the token sent has expired before making an API request?",
+      "russian": "Как мы можем проверить, истек ли срок действия отправленного токена, перед тем как сделать запрос API?",
+      "farsi": "چگونه می‌توانیم بررسی کنیم که آیا توکن ارسال‌شده منقضی شده است یا خیر، قبل از اینکه یک درخواست API ارسال کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Token wird nicht korrekt im Frontend gespeichert. Können Sie die Backend-Antwort prüfen?",
+      "english": "The token is not being stored correctly in the frontend. Can you check the backend response?",
+      "russian": "Токен неправильно сохраняется на фронтенде. Можете ли вы проверить ответ бэкенда?",
+      "farsi": "توکن به درستی در فرانت‌اند ذخیره نمی‌شود. آیا می‌توانید پاسخ بک‌اند را بررسی کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir die Token-Erneuerung im Frontend handhaben, wenn der Benutzer inaktiv ist?",
+      "english": "How should we handle token renewal in the frontend when the user is inactive?",
+      "russian": "Как нам обрабатывать обновление токена на фронтенде, если пользователь неактивен?",
+      "farsi": "چگونه باید تجدید توکن را در فرانت‌اند زمانی که کاربر غیرفعال است مدیریت کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie sicherstellen, dass der Token eine kurze Lebensdauer hat, um die Sicherheit zu erhöhen?",
+      "english": "Could you ensure that the token has a short lifespan to increase security?",
+      "russian": "Можете ли вы убедиться, что токен имеет короткий срок действия для повышения безопасности?",
+      "farsi": "آیا می‌توانید اطمینان حاصل کنید که توکن طول عمر کوتاهی دارد تا امنیت افزایش یابد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir den Zugriff auf bestimmte Routen im Frontend basierend auf den Token-Berechtigungen steuern?",
+      "english": "How should we manage access to certain routes in the frontend based on token permissions?",
+      "russian": "Как нам управлять доступом к определенным маршрутам на фронтенде на основе разрешений токена?",
+      "farsi": "چگونه باید دسترسی به مسیرهای خاص در فرانت‌اند را بر اساس مجوزهای توکن مدیریت کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können Sie die API so konfigurieren, dass ein neuer Token bei jeder erfolgreichen Anmeldung generiert wird?",
+      "english": "Can you configure the API so that a new token is generated with each successful login?",
+      "russian": "Можете ли вы настроить API так, чтобы новый токен генерировался при каждом успешном входе в систему?",
+      "farsi": "آیا می‌توانید API را طوری پیکربندی کنید که یک توکن جدید در هر ورود موفق تولید شود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir mit ungültigen Tokens umgehen? Soll das Frontend den Benutzer abmelden?",
+      "english": "How should we handle invalid tokens? Should the frontend log the user out?",
+      "russian": "Как нам обращаться с недействительными токенами? Должен ли фронтенд выйти из системы?",
+      "farsi": "چگونه باید با توکن‌های نامعتبر برخورد کنیم؟ آیا فرانت‌اند باید کاربر را از سیستم خارج کند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie den Token in den API-Responses als HttpOnly-Cookie senden?",
+      "english": "Could you send the token in API responses as an HttpOnly cookie?",
+      "russian": "Можете ли вы отправлять токен в ответах API как куки HttpOnly?",
+      "farsi": "آیا می‌توانید توکن را در پاسخ‌های API به عنوان یک کوکی HttpOnly ارسال کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie können wir sicherstellen, dass der Token beim Seitenwechsel nicht verloren geht?",
+      "english": "How can we ensure that the token is not lost when switching pages?",
+      "russian": "Как мы можем убедиться, что токен не теряется при переключении страниц?",
+      "farsi": "چگونه می‌توانیم اطمینان حاصل کنیم که توکن هنگام تغییر صفحات گم نمی‌شود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können wir die Authentifizierung über einen Refresh-Token handhaben, um die Benutzererfahrung zu verbessern?",
+      "english": "Can we handle authentication via a refresh token to improve the user experience?",
+      "russian": "Можем ли мы обрабатывать аутентификацию через токен обновления для улучшения пользовательского опыта?",
+      "farsi": "آیا می‌توانیم احراز هویت را از طریق یک توکن تجدید انجام دهیم تا تجربه کاربری بهبود یابد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie die API-Endpunkte so konfigurieren, dass sie nur Anfragen mit gültigen Tokens akzeptieren?",
+      "english": "Could you configure the API endpoints to accept only requests with valid tokens?",
+      "russian": "Можете ли вы настроить конечные точки API так, чтобы они принимали только запросы с действительными токенами?",
+      "farsi": "آیا می‌توانید نقاط پایانی API را طوری پیکربندی کنید که فقط درخواست‌های دارای توکن‌های معتبر را بپذیرند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir den Benutzerzugriff nach der Anmeldung im gesamten System verwalten?",
+      "english": "How should we manage user access throughout the system after login?",
+      "russian": "Как нам управлять доступом пользователей в системе после входа?",
+      "farsi": "چگونه باید دسترسی کاربر را پس از ورود به سیستم در سراسر سیستم مدیریت کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie sicherstellen, dass die Benutzerrollen im Token korrekt übermittelt werden?",
+      "english": "Could you ensure that the user roles are correctly transmitted in the token?",
+      "russian": "Можете ли вы убедиться, что пользовательские роли правильно передаются в токене?",
+      "farsi": "آیا می‌توانید اطمینان حاصل کنید که نقش‌های کاربری به درستی در توکن منتقل می‌شوند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie gehen wir mit Benutzern um, deren Berechtigungen sich während der Sitzung ändern?",
+      "english": "How do we handle users whose permissions change during the session?",
+      "russian": "Как нам обращаться с пользователями, чьи права изменяются во время сессии?",
+      "farsi": "چگونه باید با کاربرانی که مجوزهای آن‌ها در طول جلسه تغییر می‌کند، برخورد کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollten wir den Benutzer sofort abmelden, wenn seine Berechtigungen widerrufen werden?",
+      "english": "Should we log the user out immediately if their permissions are revoked?",
+      "russian": "Должны ли мы немедленно выйти из системы, если их права будут отозваны?",
+      "farsi": "آیا باید کاربر را فوراً از سیستم خارج کنیم اگر مجوزهای او لغو شود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Rolle des Benutzers wird im Frontend nicht korrekt aktualisiert. Können Sie die API überprüfen?",
+      "english": "The user's role is not being updated correctly in the frontend. Can you check the API?",
+      "russian": "Роль пользователя неправильно обновляется на фронтенде. Можете ли вы проверить API?",
+      "farsi": "نقش کاربر در فرانت‌اند به درستی به‌روزرسانی نمی‌شود. آیا می‌توانید API را بررسی کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie lange sollen die Benutzerberechtigungen nach der Anmeldung gültig bleiben?",
+      "english": "How long should user permissions remain valid after login?",
+      "russian": "Как долго должны оставаться действительными права пользователя после входа?",
+      "farsi": "مجوزهای کاربر پس از ورود به سیستم چه مدت باید معتبر بمانند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie sicherstellen, dass der Zugriff auf bestimmte Seiten basierend auf den Benutzerrollen eingeschränkt ist?",
+      "english": "Could you ensure that access to certain pages is restricted based on user roles?",
+      "russian": "Можете ли вы убедиться, что доступ к определенным страницам ограничен на основе пользовательских ролей?",
+      "farsi": "آیا می‌توانید اطمینان حاصل کنید که دسترسی به صفحات خاص بر اساس نقش‌های کاربر محدود شده است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollen wir die Benutzerrolle bei jedem Seitenaufruf erneut vom Backend anfordern?",
+      "english": "Should we request the user role from the backend with every page load?",
+      "russian": "Должны ли мы запрашивать роль пользователя на бэкенде при каждой загрузке страницы?",
+      "farsi": "آیا باید نقش کاربر را با هر بار بارگذاری صفحه از بک‌اند درخواست کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie können wir sicherstellen, dass der Benutzer nur auf autorisierte Routen zugreifen kann?",
+      "english": "How can we ensure that the user can only access authorized routes?",
+      "russian": "Как мы можем убедиться, что пользователь может получить доступ только к разрешенным маршрутам?",
+      "farsi": "چگونه می‌توانیم اطمینان حاصل کنیم که کاربر فقط به مسیرهای مجاز دسترسی دارد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie bitte eine API bereitstellen, um die aktuellen Benutzerberechtigungen abzufragen?",
+      "english": "Could you please provide an API to query the current user permissions?",
+      "russian": "Можете ли вы предоставить API для запроса текущих прав пользователя?",
+      "farsi": "آیا می‌توانید لطفاً یک API برای پرس‌وجوی مجوزهای فعلی کاربر ارائه دهید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Benutzer hat keinen Zugriff auf bestimmte Ressourcen, obwohl er die erforderlichen Berechtigungen hat. Können Sie das prüfen?",
+      "english": "The user doesn't have access to certain resources, even though they have the required permissions. Can you check that?",
+      "russian": "У пользователя нет доступа к определенным ресурсам, хотя у него есть необходимые права. Можете ли вы это проверить?",
+      "farsi": "کاربر به برخی منابع دسترسی ندارد، اگرچه مجوزهای لازم را دارد. آیا می‌توانید آن را بررسی کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir mit temporären Berechtigungen umgehen, die nach einer bestimmten Zeit ablaufen?",
+      "english": "How should we handle temporary permissions that expire after a certain period?",
+      "russian": "Как нам обращаться с временными правами, которые истекают через определенное время?",
+      "farsi": "چگونه باید با مجوزهای موقتی که پس از یک دوره خاص منقضی می‌شوند، برخورد کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können Sie sicherstellen, dass die Änderungen der Benutzerberechtigungen in Echtzeit im Frontend angezeigt werden?",
+      "english": "Can you ensure that changes to user permissions are displayed in real-time in the frontend?",
+      "russian": "Можете ли вы убедиться, что изменения прав пользователя отображаются в реальном времени на фронтенде?",
+      "farsi": "آیا می‌توانید اطمینان حاصل کنید که تغییرات مجوزهای کاربر به صورت لحظه‌ای در فرانت‌اند نمایش داده می‌شود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollen wir die Benutzerrollen zwischenspeichern, um die Performance zu verbessern?",
+      "english": "Should we cache user roles to improve performance?",
+      "russian": "Должны ли мы кэшировать роли пользователей для улучшения производительности?",
+      "farsi": "آیا باید نقش‌های کاربری را برای بهبود عملکرد کش کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie eine API bereitstellen, um die aktuellen Berechtigungen eines Benutzers zu aktualisieren?",
+      "english": "Could you provide an API to update the current permissions of a user?",
+      "russian": "Можете ли вы предоставить API для обновления текущих прав пользователя?",
+      "farsi": "آیا می‌توانید یک API برای به‌روزرسانی مجوزهای فعلی یک کاربر ارائه دهید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie gehen wir mit Benutzern um, die versuchen, auf nicht autorisierte Routen zuzugreifen?",
+      "english": "How do we handle users who attempt to access unauthorized routes?",
+      "russian": "Как нам обращаться с пользователями, которые пытаются получить доступ к неавторизованным маршрутам?",
+      "farsi": "چگونه باید با کاربرانی که سعی می‌کنند به مسیرهای غیرمجاز دسترسی پیدا کنند، برخورد کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Soll das Frontend den Benutzer automatisch abmelden, wenn seine Sitzung abgelaufen ist?",
+      "english": "Should the frontend automatically log the user out when their session expires?",
+      "russian": "Должен ли фронтенд автоматически выходить из системы, когда сессия пользователя истекает?",
+      "farsi": "آیا فرانت‌اند باید کاربر را به طور خودکار هنگام پایان جلسه از سیستم خارج کند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir die Benutzerrollen auf verschiedenen Seiten überprüfen und anwenden?",
+      "english": "How should we check and apply user roles across different pages?",
+      "russian": "Как нам проверять и применять пользовательские роли на разных страницах?",
+      "farsi": "چگونه باید نقش‌های کاربری را در صفحات مختلف بررسی و اعمال کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie sicherstellen, dass Benutzerrollen dynamisch geändert werden können, ohne dass der Benutzer sich neu anmelden muss?",
+      "english": "Could you ensure that user roles can be dynamically changed without requiring the user to log in again?",
+      "russian": "Можете ли вы убедиться, что пользовательские роли можно изменять динамически, без необходимости повторного входа пользователя?",
+      "farsi": "آیا می‌توانید اطمینان حاصل کنید که نقش‌های کاربری می‌توانند به‌صورت پویا تغییر کنند بدون اینکه کاربر نیاز به ورود مجدد داشته باشد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir Benutzern den Zugriff auf Funktionen basierend auf ihrer Rolle beschränken?",
+      "english": "How should we restrict user access to features based on their role?",
+      "russian": "Как нам ограничить доступ пользователей к функциям на основе их роли?",
+      "farsi": "چگونه باید دسترسی کاربران به قابلیت‌ها را بر اساس نقش آن‌ها محدود کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Benutzer kann nach der Anmeldung auf alle Seiten zugreifen. Können Sie die Rollenzuweisung prüfen?",
+      "english": "The user can access all pages after login. Can you check the role assignment?",
+      "russian": "Пользователь может получить доступ ко всем страницам после входа. Можете ли вы проверить назначение роли?",
+      "farsi": "کاربر پس از ورود به همه صفحات دسترسی دارد. آیا می‌توانید تخصیص نقش را بررسی کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir den Zugriff auf APIs basierend auf den Benutzerrollen verwalten?",
+      "english": "How should we manage access to APIs based on user roles?",
+      "russian": "Как нам управлять доступом к API на основе ролей пользователей?",
+      "farsi": "چگونه باید دسترسی به API‌ها را بر اساس نقش‌های کاربری مدیریت کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie sicherstellen, dass der Zugriff auf administrative Bereiche nur für Benutzer mit entsprechenden Berechtigungen möglich ist?",
+      "english": "Could you ensure that access to administrative areas is only available to users with the appropriate permissions?",
+      "russian": "Можете ли вы убедиться, что доступ к административным областям возможен только для пользователей с соответствующими правами?",
+      "farsi": "آیا می‌توانید اطمینان حاصل کنید که دسترسی به نواحی مدیریتی فقط برای کاربرانی با مجوزهای مناسب امکان‌پذیر است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir mit Benutzern umgehen, deren Berechtigungen während der Sitzung widerrufen wurden?",
+      "english": "How should we handle users whose permissions were revoked during the session?",
+      "russian": "Как нам обращаться с пользователями, чьи права были отозваны во время сессии?",
+      "farsi": "چگونه باید با کاربرانی که مجوزهای آن‌ها در طول جلسه لغو شده است برخورد کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Benutzer kann trotz fehlender Berechtigungen auf sensible Daten zugreifen. Können Sie das prüfen?",
+      "english": "The user can access sensitive data despite lacking permissions. Can you check that?",
+      "russian": "Пользователь может получить доступ к конфиденциальным данным, несмотря на отсутствие прав. Можете ли вы это проверить?",
+      "farsi": "کاربر می‌تواند به داده‌های حساس دسترسی داشته باشد با وجود اینکه مجوزها را ندارد. آیا می‌توانید آن را بررسی کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie sicherstellen, dass die Benutzerberechtigungen bei jedem API-Request überprüft werden?",
+      "english": "Could you ensure that user permissions are checked with every API request?",
+      "russian": "Можете ли вы убедиться, что права пользователей проверяются с каждым запросом API?",
+      "farsi": "آیا می‌توانید اطمینان حاصل کنید که مجوزهای کاربر در هر درخواست API بررسی شوند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollen wir den Benutzerzugriff auf bestimmte Features einschränken, basierend auf seiner Rolle?",
+      "english": "Should we restrict user access to certain features based on their role?",
+      "russian": "Должны ли мы ограничить доступ пользователей к определенным функциям на основе их роли?",
+      "farsi": "آیا باید دسترسی کاربر به قابلیت‌های خاص را بر اساس نقش آن‌ها محدود کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie können wir sicherstellen, dass die Benutzerrollen während der gesamten Sitzung konsistent bleiben?",
+      "english": "How can we ensure that user roles remain consistent throughout the session?",
+      "russian": "Как мы можем убедиться, что роли пользователей остаются неизменными на протяжении всей сессии?",
+      "farsi": "چگونه می‌توانیم اطمینان حاصل کنیم که نقش‌های کاربری در طول جلسه یکپارچه باقی می‌مانند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie eine API bereitstellen, um die Benutzerberechtigungen für bestimmte Aktionen abzufragen?",
+      "english": "Could you provide an API to query user permissions for specific actions?",
+      "russian": "Можете ли вы предоставить API для запроса прав пользователя на определенные действия?",
+      "farsi": "آیا می‌توانید یک API برای پرس‌وجوی مجوزهای کاربر برای اقدامات خاص ارائه دهید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir mit unterschiedlichen Rollen in verschiedenen Umgebungen umgehen, z.B. Dev und Prod?",
+      "english": "How should we handle different roles in different environments, e.g., Dev and Prod?",
+      "russian": "Как нам обращаться с различными ролями в разных средах, например, Dev и Prod?",
+      "farsi": "چگونه باید با نقش‌های مختلف در محیط‌های مختلف، مانند Dev و Prod، برخورد کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir dem Benutzer mitteilen, dass er keine Berechtigung für diese Aktion hat?",
+      "english": "How should we inform the user that they do not have permission for this action?",
+      "russian": "Как нам сообщить пользователю, что у него нет прав на это действие?",
+      "farsi": "چگونه باید به کاربر اطلاع دهیم که او مجوز انجام این عملیات را ندارد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie bitte eine Fehlermeldung für den Fall implementieren, dass dem Benutzer die Berechtigung fehlt?",
+      "english": "Could you please implement an error message in case the user lacks permission?",
+      "russian": "Можете ли вы, пожалуйста, реализовать сообщение об ошибке на случай, если пользователю не хватает прав?",
+      "farsi": "آیا می‌توانید لطفاً یک پیام خطا پیاده‌سازی کنید برای زمانی که کاربر مجوز لازم را ندارد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Welche Nachricht sollen wir anzeigen, wenn der Zugriff auf eine geschützte Seite verweigert wird?",
+      "english": "What message should we display when access to a protected page is denied?",
+      "russian": "Какое сообщение мы должны показать, когда доступ к защищенной странице отклонен?",
+      "farsi": "چه پیامی باید نمایش دهیم وقتی دسترسی به یک صفحه محافظت‌شده رد می‌شود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollen wir eine Weiterleitung zur Anmeldeseite einrichten, wenn der Benutzer nicht authentifiziert ist?",
+      "english": "Should we set up a redirect to the login page if the user is not authenticated?",
+      "russian": "Должны ли мы настроить перенаправление на страницу входа, если пользователь не аутентифицирован?",
+      "farsi": "آیا باید یک انتقال به صفحه ورود تنظیم کنیم اگر کاربر تأیید هویت نشده باشد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie sicherstellen, dass der Benutzer eine Warnung erhält, wenn seine Sitzung abgelaufen ist?",
+      "english": "Could you ensure that the user receives a warning when their session has expired?",
+      "russian": "Можете ли вы убедиться, что пользователь получает предупреждение, когда его сессия истекает?",
+      "farsi": "آیا می‌توانید اطمینان حاصل کنید که کاربر یک هشدار دریافت می‌کند وقتی جلسه‌اش منقضی شده است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir dem Benutzer anzeigen, dass seine Rolle nicht ausreicht, um diese Seite zu sehen?",
+      "english": "How should we indicate to the user that their role is insufficient to view this page?",
+      "russian": "Как нам показать пользователю, что его роль недостаточна для просмотра этой страницы?",
+      "farsi": "چگونه باید به کاربر نشان دهیم که نقش او برای دیدن این صفحه کافی نیست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollen wir einen spezifischen Fehlercode für fehlende Berechtigungen im Frontend anzeigen?",
+      "english": "Should we display a specific error code for missing permissions in the frontend?",
+      "russian": "Должны ли мы показывать определенный код ошибки для отсутствующих прав на фронтенде?",
+      "farsi": "آیا باید یک کد خطای خاص برای مجوزهای گمشده در فرانت‌اند نمایش دهیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie eine Rückmeldung geben, wenn der Benutzer versucht, auf eine nicht autorisierte Funktion zuzugreifen?",
+      "english": "Could you provide feedback when the user attempts to access an unauthorized feature?",
+      "russian": "Можете ли вы предоставить обратную связь, когда пользователь пытается получить доступ к неавторизованной функции?",
+      "farsi": "آیا می‌توانید یک بازخورد ارائه دهید وقتی کاربر سعی می‌کند به یک قابلیت غیرمجاز دسترسی پیدا کند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir dem Benutzer erklären, dass er sich erneut anmelden muss, um diese Aktion auszuführen?",
+      "english": "How should we explain to the user that they need to log in again to perform this action?",
+      "russian": "Как нам объяснить пользователю, что ему нужно войти в систему снова, чтобы выполнить это действие?",
+      "farsi": "چگونه باید به کاربر توضیح دهیم که باید دوباره وارد سیستم شود تا این عملیات را انجام دهد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollen wir eine generische Fehlermeldung oder eine spezifische Meldung für unzureichende Berechtigungen anzeigen?",
+      "english": "Should we display a generic error message or a specific message for insufficient permissions?",
+      "russian": "Должны ли мы показывать общее сообщение об ошибке или конкретное сообщение для недостаточных прав?",
+      "farsi": "آیا باید یک پیام خطای عمومی یا یک پیام خاص برای مجوزهای ناکافی نمایش دهیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können Sie sicherstellen, dass der Benutzer eine Benachrichtigung erhält, wenn er für eine Aktion keine Berechtigung hat?",
+      "english": "Can you ensure that the user receives a notification when they don't have permission for an action?",
+      "russian": "Можете ли вы убедиться, что пользователь получает уведомление, когда у него нет прав на действие?",
+      "farsi": "آیا می‌توانید اطمینان حاصل کنید که کاربر یک اعلان دریافت می‌کند وقتی برای یک عملیات مجوز ندارد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir den Unterschied zwischen Authentifizierungs- und Autorisierungsfehlern visuell darstellen?",
+      "english": "How should we visually represent the difference between authentication and authorization errors?",
+      "russian": "Как нам визуально представить разницу между ошибками аутентификации и авторизации?",
+      "farsi": "چگونه باید تفاوت بین خطاهای احراز هویت و مجوز را به صورت بصری نشان دهیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollen wir den Benutzer automatisch zu einer Fehlermeldungsseite weiterleiten, wenn ihm Berechtigungen fehlen?",
+      "english": "Should we automatically redirect the user to an error page if they lack permissions?",
+      "russian": "Должны ли мы автоматически перенаправить пользователя на страницу ошибки, если у него нет прав?",
+      "farsi": "آیا باید به طور خودکار کاربر را به یک صفحه خطا هدایت کنیم اگر او مجوزهای لازم را ندارد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie bitte eine Nachricht im Frontend anzeigen, wenn der Zugriff auf eine API aufgrund fehlender Berechtigungen verweigert wird?",
+      "english": "Could you please display a message in the frontend when access to an API is denied due to missing permissions?",
+      "russian": "Можете ли вы, пожалуйста, отобразить сообщение на фронтенде, когда доступ к API отклонен из-за отсутствующих прав?",
+      "farsi": "آیا می‌توانید لطفاً یک پیام در فرانت‌اند نمایش دهید وقتی دسترسی به یک API به دلیل نبود مجوزها رد می‌شود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir dem Benutzer anzeigen, dass seine Sitzung bald abläuft und er sich erneut anmelden muss?",
+      "english": "How should we inform the user that their session is about to expire and they need to log in again?",
+      "russian": "Как нам сообщить пользователю, что его сессия скоро истечет, и ему нужно снова войти в систему?",
+      "farsi": "چگونه باید به کاربر اطلاع دهیم که جلسه‌اش در حال انقضا است و باید دوباره وارد سیستم شود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollen wir eine spezifische Meldung für Administratoren anzeigen, wenn ihnen Berechtigungen fehlen?",
+      "english": "Should we display a specific message for administrators when they lack permissions?",
+      "russian": "Должны ли мы показывать конкретное сообщение для администраторов, когда у них нет прав?",
+      "farsi": "آیا باید یک پیام خاص برای مدیران نمایش دهیم وقتی آن‌ها مجوزهای لازم را ندارند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie eine Nachricht einblenden, wenn eine Aktion nur für Benutzer mit höheren Rechten verfügbar ist?",
+      "english": "Could you display a message when an action is only available to users with higher permissions?",
+      "russian": "Можете ли вы отобразить сообщение, когда действие доступно только пользователям с более высокими правами?",
+      "farsi": "آیا می‌توانید یک پیام نمایش دهید وقتی عملی فقط برای کاربرانی با مجوزهای بالاتر در دسترس است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir dem Benutzer zeigen, dass bestimmte Buttons deaktiviert sind, weil ihm die Berechtigungen fehlen?",
+      "english": "How should we indicate to the user that certain buttons are disabled because they lack permissions?",
+      "russian": "Как нам показать пользователю, что определенные кнопки отключены, потому что у него нет прав?",
+      "farsi": "چگونه باید به کاربر نشان دهیم که برخی از دکمه‌ها غیرفعال هستند چون او مجوزهای لازم را ندارد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollen wir die gesamte Seite oder nur bestimmte Funktionen ausblenden, wenn der Benutzer nicht autorisiert ist?",
+      "english": "Should we hide the entire page or only certain features if the user is not authorized?",
+      "russian": "Должны ли мы скрывать всю страницу или только определенные функции, если пользователь не авторизован?",
+      "farsi": "آیا باید کل صفحه یا فقط برخی از قابلیت‌ها را مخفی کنیم اگر کاربر مجاز نیست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie sicherstellen, dass die Fehlermeldung klar anzeigt, warum der Zugriff verweigert wurde?",
+      "english": "Could you ensure that the error message clearly indicates why access was denied?",
+      "russian": "Можете ли вы убедиться, что сообщение об ошибке четко указывает, почему доступ был отклонен?",
+      "farsi": "آیا می‌توانید اطمینان حاصل کنید که پیام خطا به‌وضوح نشان می‌دهد چرا دسترسی رد شده است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir den Benutzer über den Grund für die Ablehnung einer API-Anfrage informieren?",
+      "english": "How should we inform the user about the reason for rejecting an API request?",
+      "russian": "Как нам сообщить пользователю причину отклонения запроса API?",
+      "farsi": "چگونه باید کاربر را درباره دلیل رد یک درخواست API مطلع کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollen wir dem Benutzer die Möglichkeit geben, zusätzliche Berechtigungen anzufordern, wenn er eine Fehlermeldung sieht?",
+      "english": "Should we give the user the option to request additional permissions when they see an error message?",
+      "russian": "Должны ли мы дать пользователю возможность запросить дополнительные права, когда он видит сообщение об ошибке?",
+      "farsi": "آیا باید به کاربر امکان درخواست مجوزهای اضافی بدهیم وقتی او یک پیام خطا می‌بیند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können Sie eine Erfolgsmeldung anzeigen, wenn der Benutzer erfolgreich autorisiert wurde?",
+      "english": "Can you display a success message when the user has been successfully authorized?",
+      "russian": "Можете ли вы отобразить сообщение об успешной авторизации пользователя?",
+      "farsi": "آیا می‌توانید یک پیام موفقیت نمایش دهید وقتی کاربر با موفقیت مجاز شده است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir den Benutzer leiten, wenn er versucht, auf administrative Funktionen ohne ausreichende Berechtigungen zuzugreifen?",
+      "english": "How should we guide the user when they attempt to access administrative functions without sufficient permissions?",
+      "russian": "Как нам направлять пользователя, когда он пытается получить доступ к административным функциям без достаточных прав?",
+      "farsi": "چگونه باید کاربر را راهنمایی کنیم وقتی او تلاش می‌کند به قابلیت‌های مدیریتی بدون مجوزهای کافی دسترسی پیدا کند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie eine Nachricht anzeigen, wenn der Benutzer versucht, auf Ressourcen zuzugreifen, die nur für bestimmte Rollen verfügbar sind?",
+      "english": "Could you display a message when the user tries to access resources that are only available for specific roles?",
+      "russian": "Можете ли вы отобразить сообщение, когда пользователь пытается получить доступ к ресурсам, доступным только для определенных ролей?",
+      "farsi": "آیا می‌توانید یک پیام نمایش دهید وقتی کاربر سعی می‌کند به منابعی دسترسی پیدا کند که فقط برای نقش‌های خاص در دسترس هستند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir dem Benutzer anzeigen, dass seine Autorisierung für diese Sitzung abgelaufen ist?",
+      "english": "How should we indicate to the user that their authorization for this session has expired?",
+      "russian": "Как нам сообщить пользователю, что его авторизация для этой сессии истекла?",
+      "farsi": "چگونه باید به کاربر نشان دهیم که مجوز او برای این جلسه منقضی شده است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollen wir spezifische Meldungen für API-Fehler aufgrund von unzureichenden Berechtigungen anzeigen?",
+      "english": "Should we display specific messages for API errors due to insufficient permissions?",
+      "russian": "Должны ли мы показывать конкретные сообщения для ошибок API из-за недостаточных прав?",
+      "farsi": "آیا باید پیام‌های خاصی برای خطاهای API به دلیل مجوزهای ناکافی نمایش دهیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie eine Bestätigung einblenden, wenn der Benutzer versucht, eine geschützte Aktion ohne Berechtigung durchzuführen?",
+      "english": "Could you display a confirmation when the user attempts to perform a protected action without permission?",
+      "russian": "Можете ли вы отобразить подтверждение, когда пользователь пытается выполнить защищенное действие без прав?",
+      "farsi": "آیا می‌توانید یک تأییدیه نمایش دهید وقتی کاربر سعی می‌کند یک عملیات محافظت‌شده را بدون مجوز انجام دهد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir mit einer Weiterleitung zur Fehlerseite umgehen, wenn der Benutzer keine ausreichenden Berechtigungen hat?",
+      "english": "How should we handle a redirect to an error page when the user lacks sufficient permissions?",
+      "russian": "Как нам поступить с перенаправлением на страницу ошибки, если у пользователя недостаточно прав?",
+      "farsi": "چگونه باید با انتقال به صفحه خطا برخورد کنیم وقتی کاربر مجوزهای کافی ندارد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollen wir einen Hinweis auf eine fehlende Autorisierung im Benutzer-Dashboard anzeigen?",
+      "english": "Should we display a note about missing authorization in the user dashboard?",
+      "russian": "Должны ли мы показывать уведомление об отсутствии авторизации на панели пользователя?",
+      "farsi": "آیا باید یک یادداشت درباره فقدان مجوز در داشبورد کاربر نمایش دهیم؟"
+    }
+  ]
+}

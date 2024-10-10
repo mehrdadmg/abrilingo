@@ -1,0 +1,1449 @@
+{
+  "info": {
+    "name": "Frontend_Backend_01",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie mir bitte die API-Dokumentation für die neuen Endpunkte schicken?",
+      "english": "Could you please send me the API documentation for the new endpoints?",
+      "russian": "Не могли бы вы отправить мне документацию по API для новых конечных точек?",
+      "farsi": "لطفاً می‌توانید مستندات API برای نقاط انتهایی جدید را برای من ارسال کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die API-Dokumentation ist im Repository unter dem Ordner 'docs' verfügbar.",
+      "english": "The API documentation is available in the repository under the 'docs' folder.",
+      "russian": "Документация по API доступна в репозитории в папке 'docs'.",
+      "farsi": "مستندات API در مخزن در پوشه 'docs' موجود است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie mir bitte erklären, welche Parameter für diesen Endpunkt erforderlich sind?",
+      "english": "Could you please explain which parameters are required for this endpoint?",
+      "russian": "Не могли бы вы объяснить, какие параметры требуются для этой конечной точки?",
+      "farsi": "می‌توانید لطفاً توضیح دهید چه پارامترهایی برای این نقطه انتهایی لازم است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Für diesen Endpunkt benötigen Sie die Parameter 'user_id' und 'token'. Beide müssen als GET-Parameter gesendet werden.",
+      "english": "For this endpoint, you need the parameters 'user_id' and 'token'. Both must be sent as GET parameters.",
+      "russian": "Для этой конечной точки вам понадобятся параметры 'user_id' и 'token'. Оба должны быть отправлены как параметры GET.",
+      "farsi": "برای این نقطه انتهایی به پارامترهای 'user_id' و 'token' نیاز دارید. هر دو باید به عنوان پارامتر GET ارسال شوند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In welchem Format werden die Daten zurückgegeben? JSON oder XML?",
+      "english": "In which format are the data returned? JSON or XML?",
+      "russian": "В каком формате возвращаются данные? JSON или XML?",
+      "farsi": "داده‌ها در چه فرمتی بازگردانده می‌شوند؟ JSON یا XML؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Daten werden standardmäßig im JSON-Format zurückgegeben.",
+      "english": "The data are returned in JSON format by default.",
+      "russian": "Данные возвращаются в формате JSON по умолчанию.",
+      "farsi": "داده‌ها به صورت پیش‌فرض در فرمت JSON بازگردانده می‌شوند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich teste gerade die API. Sollten alle Endpunkte schon verfügbar sein?",
+      "english": "I am currently testing the API. Should all the endpoints be available already?",
+      "russian": "Я сейчас тестирую API. Все конечные точки уже должны быть доступны?",
+      "farsi": "من در حال تست API هستم. آیا همه نقاط انتهایی باید در دسترس باشند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die meisten Endpunkte sind einsatzbereit, aber wir arbeiten noch an einigen Details des Endpunktes /user.",
+      "english": "Most endpoints are ready, but we are still working on some details of the /user endpoint.",
+      "russian": "Большинство конечных точек готовы, но мы все еще работаем над некоторыми деталями конечной точки /user.",
+      "farsi": "بیشتر نقاط انتهایی آماده هستند، اما ما هنوز روی برخی جزئیات نقطه انتهایی /user کار می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich erhalte einen Fehler 500 beim Aufruf des Endpunkts. Können Sie das überprüfen?",
+      "english": "I am getting a 500 error when calling the endpoint. Can you check that?",
+      "russian": "Я получаю ошибку 500 при вызове конечной точки. Можете это проверить?",
+      "farsi": "هنگام فراخوانی نقطه انتهایی، خطای 500 دریافت می‌کنم. می‌توانید آن را بررسی کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich werde es mir ansehen. Es könnte ein Problem mit der Datenbankverbindung sein.",
+      "english": "I will take a look. It might be an issue with the database connection.",
+      "russian": "Я посмотрю на это. Возможно, проблема с подключением к базе данных.",
+      "farsi": "من آن را بررسی می‌کنم. ممکن است مشکلی در ارتباط با پایگاه داده باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie bitte einen neuen Endpunkt für die Benutzerregistrierung hinzufügen?",
+      "english": "Could you please add a new endpoint for user registration?",
+      "russian": "Не могли бы вы добавить новую конечную точку для регистрации пользователей?",
+      "farsi": "می‌توانید لطفاً یک نقطه انتهایی جدید برای ثبت‌نام کاربر اضافه کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, ich werde einen neuen Endpunkt mit POST-Methode erstellen. Wie sollen die Eingabedaten aussehen?",
+      "english": "Yes, I will create a new endpoint with a POST method. What should the input data look like?",
+      "russian": "Да, я создам новую конечную точку с методом POST. Как должны выглядеть входные данные?",
+      "farsi": "بله، من یک نقطه انتهایی جدید با روش POST ایجاد می‌کنم. داده‌های ورودی باید چگونه باشند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Welche Authentifizierungsmethode verwendet die API? Token-basiert oder OAuth?",
+      "english": "What authentication method does the API use? Token-based or OAuth?",
+      "russian": "Какой метод аутентификации использует API? На основе токена или OAuth?",
+      "farsi": "API از چه روشی برای احراز هویت استفاده می‌کند؟ مبتنی بر توکن یا OAuth؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die API verwendet ein Token-basiertes Authentifizierungssystem. Sie müssen das Token im Authorization-Header senden.",
+      "english": "The API uses a token-based authentication system. You need to send the token in the Authorization header.",
+      "russian": "API использует систему аутентификации на основе токена. Вам нужно отправить токен в заголовке Authorization.",
+      "farsi": "API از سیستم احراز هویت مبتنی بر توکن استفاده می‌کند. باید توکن را در هدر Authorization ارسال کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie ist der Fortschritt beim neuen Endpunkt für die Bestellhistorie?",
+      "english": "What is the progress on the new endpoint for order history?",
+      "russian": "Каков прогресс по новой конечной точке для истории заказов?",
+      "farsi": "پیشرفت نقطه انتهایی جدید برای تاریخچه سفارش‌ها چگونه است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben die grundlegende Funktionalität implementiert und testen gerade. Sie können es nächste Woche nutzen.",
+      "english": "We have implemented the basic functionality and are currently testing. You can use it next week.",
+      "russian": "Мы реализовали основную функциональность и сейчас тестируем. Вы сможете использовать его на следующей неделе.",
+      "farsi": "ما عملکرد اصلی را پیاده‌سازی کرده‌ایم و در حال تست هستیم. شما می‌توانید از آن در هفته آینده استفاده کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir Fehlercodes handhaben? Sollten wir spezielle Fehlermeldungen anzeigen?",
+      "english": "How should we handle error codes? Should we display specific error messages?",
+      "russian": "Как нам обрабатывать коды ошибок? Мы должны отображать конкретные сообщения об ошибках?",
+      "farsi": "چگونه باید با کدهای خطا برخورد کنیم؟ آیا باید پیام‌های خطای خاصی نمایش دهیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, wir senden spezifische Fehlermeldungen im JSON-Response. Zum Beispiel wird ein 404-Fehler mit der Nachricht 'Ressource nicht gefunden' zurückgegeben.",
+      "english": "Yes, we send specific error messages in the JSON response. For example, a 404 error will return the message 'Resource not found'.",
+      "russian": "Да, мы отправляем конкретные сообщения об ошибках в ответе JSON. Например, ошибка 404 вернет сообщение 'Ресурс не найден'.",
+      "farsi": "بله، ما پیام‌های خطای خاصی را در پاسخ JSON ارسال می‌کنیم. به عنوان مثال، خطای 404 پیامی با عنوان 'منبع یافت نشد' بازمی‌گرداند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollten wir die Anfragen an die API paginieren oder alle Daten auf einmal laden?",
+      "english": "Should we paginate API requests or load all data at once?",
+      "russian": "Мы должны использовать пагинацию для запросов к API или загружать все данные сразу?",
+      "farsi": "آیا باید درخواست‌ها به API را صفحه‌بندی کنیم یا همه داده‌ها را به یکباره بارگذاری کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bitte verwenden Sie Pagination, um die Ladezeit zu verkürzen. Wir haben Parameter für page und limit bereitgestellt.",
+      "english": "Please use pagination to reduce loading time. We have provided parameters for page and limit.",
+      "russian": "Пожалуйста, используйте пагинацию, чтобы сократить время загрузки. Мы предоставили параметры для страницы и лимита.",
+      "farsi": "لطفاً از صفحه‌بندی برای کاهش زمان بارگذاری استفاده کنید. ما پارامترهایی برای صفحه و محدودیت فراهم کرده‌ایم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ist die API-Versionierung implementiert? Ich möchte sicherstellen, dass ich die richtige Version verwende.",
+      "english": "Is API versioning implemented? I want to ensure that I'm using the correct version.",
+      "russian": "Реализована ли версионирование API? Я хочу убедиться, что использую правильную версию.",
+      "farsi": "آیا نسخه‌بندی API پیاده‌سازی شده است؟ می‌خواهم مطمئن شوم که از نسخه صحیح استفاده می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie bitte eine Liste der verfügbaren Endpunkte bereitstellen?",
+      "english": "Could you please provide a list of available endpoints?",
+      "russian": "Не могли бы вы предоставить список доступных конечных точек?",
+      "farsi": "آیا می‌توانید لطفاً یک لیست از نقاط انتهایی موجود ارائه دهید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie lautet die maximale Datenmenge, die die API auf einmal zurückgeben kann?",
+      "english": "What is the maximum amount of data the API can return at once?",
+      "russian": "Каков максимальный объем данных, который API может вернуть за один раз?",
+      "farsi": "حداکثر مقدار داده‌ای که API می‌تواند در یک بار بازگرداند چقدر است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie gehen wir mit CORS-Problemen um, wenn wir Anfragen vom Frontend aus senden?",
+      "english": "How do we handle CORS issues when sending requests from the frontend?",
+      "russian": "Как мы справляемся с проблемами CORS при отправке запросов с фронтенда?",
+      "farsi": "چگونه با مشکلات CORS هنگام ارسال درخواست‌ها از سمت فرانت‌اند برخورد کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können Sie einen Endpunkt hinzufügen, der nur die neuesten Daten zurückgibt?",
+      "english": "Can you add an endpoint that only returns the latest data?",
+      "russian": "Можете ли вы добавить конечную точку, которая возвращает только самые последние данные?",
+      "farsi": "آیا می‌توانید یک نقطه انتهایی اضافه کنید که فقط داده‌های جدید را بازگرداند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe Schwierigkeiten beim Authentifizieren mit dem API-Token. Können Sie das bitte überprüfen?",
+      "english": "I am having trouble authenticating with the API token. Could you please check that?",
+      "russian": "У меня возникли трудности с аутентификацией с использованием API-токена. Можете это проверить?",
+      "farsi": "در احراز هویت با توکن API مشکل دارم. لطفاً می‌توانید آن را بررسی کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Müssen wir besondere Header beim Senden von API-Anfragen verwenden?",
+      "english": "Do we need to use any special headers when sending API requests?",
+      "russian": "Нужно ли нам использовать какие-либо специальные заголовки при отправке запросов к API?",
+      "farsi": "آیا باید هدرهای خاصی هنگام ارسال درخواست‌های API استفاده کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Gibt es einen Rate-Limit für die Anzahl der API-Anfragen pro Minute?",
+      "english": "Is there a rate limit for the number of API requests per minute?",
+      "russian": "Существует ли ограничение на количество запросов к API в минуту?",
+      "farsi": "آیا محدودیتی برای تعداد درخواست‌های API در هر دقیقه وجود دارد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sind alle API-Anfragen asynchron oder gibt es blockierende Endpunkte?",
+      "english": "Are all API requests asynchronous or are there any blocking endpoints?",
+      "russian": "Все ли запросы к API асинхронные или есть блокирующие конечные точки?",
+      "farsi": "آیا همه درخواست‌های API غیرهمزمان هستند یا نقاط انتهایی مسدودکننده وجود دارند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie gehen wir mit Timeouts bei API-Anfragen um?",
+      "english": "How do we handle timeouts with API requests?",
+      "russian": "Как мы справляемся с тайм-аутами при запросах к API?",
+      "farsi": "چگونه با تایم‌اوت‌ها در درخواست‌های API برخورد کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie bitte den Endpunkt für das Abrufen der Benutzerdaten aktualisieren?",
+      "english": "Could you please update the endpoint for retrieving user data?",
+      "russian": "Не могли бы вы обновить конечную точку для получения данных пользователя?",
+      "farsi": "می‌توانید لطفاً نقطه انتهایی برای بازیابی داده‌های کاربر را به‌روز کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ist die API-Dokumentation für den neuen Endpunkt schon aktualisiert?",
+      "english": "Has the API documentation for the new endpoint been updated yet?",
+      "russian": "Документация по API для новой конечной точки уже обновлена?",
+      "farsi": "آیا مستندات API برای نقطه انتهایی جدید به‌روزرسانی شده است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Welches Format sollen wir für das Senden von Dateien über die API verwenden?",
+      "english": "What format should we use for sending files via the API?",
+      "russian": "Какой формат нам следует использовать для отправки файлов через API?",
+      "farsi": "برای ارسال فایل‌ها از طریق API باید از چه فرمتی استفاده کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollte die API-Anfrage bei einem Fehler automatisch wiederholt werden?",
+      "english": "Should the API request be automatically retried in case of an error?",
+      "russian": "Должен ли запрос к API автоматически повторяться в случае ошибки?",
+      "farsi": "آیا باید درخواست API در صورت بروز خطا به طور خودکار تکرار شود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Welche HTTP-Methoden sind für diesen Endpunkt erlaubt?",
+      "english": "Which HTTP methods are allowed for this endpoint?",
+      "russian": "Какие методы HTTP разрешены для этой конечной точки?",
+      "farsi": "چه روش‌های HTTP برای این نقطه انتهایی مجاز هستند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Gibt es eine Möglichkeit, die Datenmenge in der API-Antwort zu minimieren?",
+      "english": "Is there a way to minimize the amount of data in the API response?",
+      "russian": "Есть ли способ минимизировать объем данных в ответе API?",
+      "farsi": "آیا راهی برای کاهش حجم داده‌ها در پاسخ API وجود دارد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollen wir alle Anfragen an die API über HTTPS senden?",
+      "english": "Should we send all API requests via HTTPS?",
+      "russian": "Мы должны отправлять все запросы к API через HTTPS?",
+      "farsi": "آیا باید همه درخواست‌های API را از طریق HTTPS ارسال کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir den API-Response-Cache verwalten?",
+      "english": "How should we manage the API response cache?",
+      "russian": "Как нам управлять кэшем ответов API?",
+      "farsi": "چگونه باید حافظه کش پاسخ‌های API را مدیریت کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Gibt es spezielle Sicherheitsvorkehrungen, die wir beim API-Zugriff beachten müssen?",
+      "english": "Are there any special security measures we need to consider when accessing the API?",
+      "russian": "Есть ли специальные меры безопасности, которые нам нужно учитывать при доступе к API?",
+      "farsi": "آیا اقدامات امنیتی خاصی وجود دارد که هنگام دسترسی به API باید در نظر بگیریم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie mir bitte erklären, wie das API-Routing funktioniert?",
+      "english": "Could you please explain how API routing works?",
+      "russian": "Не могли бы вы объяснить, как работает маршрутизация API?",
+      "farsi": "لطفاً می‌توانید توضیح دهید که مسیریابی API چگونه کار می‌کند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie handhaben wir API-Anfragen für nicht authentifizierte Benutzer?",
+      "english": "How do we handle API requests for unauthenticated users?",
+      "russian": "Как мы обрабатываем запросы к API от неаутентифицированных пользователей?",
+      "farsi": "چگونه با درخواست‌های API از کاربران غیرمعتبر برخورد کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ist der Endpunkt für die Produktliste paginiert?",
+      "english": "Is the endpoint for the product list paginated?",
+      "russian": "Является ли конечная точка для списка продуктов пагинированной?",
+      "farsi": "آیا نقطه انتهایی لیست محصولات دارای صفحه‌بندی است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wann wird der neue API-Endpunkt in der Produktion verfügbar sein?",
+      "english": "When will the new API endpoint be available in production?",
+      "russian": "Когда новая конечная точка API будет доступна в производственной среде?",
+      "farsi": "چه زمانی نقطه انتهایی جدید API در تولید در دسترس خواهد بود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bekomme einen 403-Fehler bei der API-Anfrage. Was könnte das Problem sein?",
+      "english": "I am getting a 403 error with the API request. What could be the problem?",
+      "russian": "Я получаю ошибку 403 при запросе к API. В чем может быть проблема?",
+      "farsi": "من با درخواست API یک خطای 403 دریافت می‌کنم. مشکل ممکن است چه باشد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollten wir das API-Response-Format für bestimmte Benutzergruppen anpassen?",
+      "english": "Should we customize the API response format for certain user groups?",
+      "russian": "Должны ли мы настраивать формат ответа API для определенных групп пользователей?",
+      "farsi": "آیا باید فرمت پاسخ API را برای گروه‌های کاربری خاص سفارشی کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können wir einen Endpunkt für Bulk-Operationen hinzufügen?",
+      "english": "Can we add an endpoint for bulk operations?",
+      "russian": "Можем ли мы добавить конечную точку для массовых операций?",
+      "farsi": "آیا می‌توانیم یک نقطه انتهایی برای عملیات عمده اضافه کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was ist der Rückgabewert für eine erfolgreiche API-Anfrage?",
+      "english": "What is the return value for a successful API request?",
+      "russian": "Каков возвращаемое значение для успешного запроса к API?",
+      "farsi": "مقدار بازگشتی برای یک درخواست API موفقیت‌آمیز چیست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie unterscheiden sich die Endpunkte für GET- und POST-Anfragen in der API?",
+      "english": "How do the endpoints for GET and POST requests differ in the API?",
+      "russian": "Как различаются конечные точки для запросов GET и POST в API?",
+      "farsi": "چگونه نقاط انتهایی برای درخواست‌های GET و POST در API متفاوت هستند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Gibt es eine Möglichkeit, API-Anfragen zu priorisieren?",
+      "english": "Is there a way to prioritize API requests?",
+      "russian": "Есть ли способ приоритизировать запросы к API?",
+      "farsi": "آیا راهی برای اولویت‌بندی درخواست‌های API وجود دارد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie gehen wir mit fehlenden Feldern in den API-Antworten um?",
+      "english": "How do we handle missing fields in API responses?",
+      "russian": "Как мы обрабатываем отсутствующие поля в ответах API?",
+      "farsi": "چگونه با فیلدهای مفقود در پاسخ‌های API برخورد کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ist der Endpunkt /users/{id} in der API öffentlich oder benötigt er Authentifizierung?",
+      "english": "Is the endpoint /users/{id} in the API public or does it require authentication?",
+      "russian": "Является ли конечная точка /users/{id} в API публичной или требует аутентификации?",
+      "farsi": "آیا نقطه انتهایی /users/{id} در API عمومی است یا نیاز به احراز هویت دارد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollte die API einen festen Antwortstatus verwenden oder können wir benutzerdefinierte Statusmeldungen senden?",
+      "english": "Should the API use a fixed response status, or can we send custom status messages?",
+      "russian": "API должно использовать фиксированный статус ответа или мы можем отправлять пользовательские сообщения о статусе?",
+      "farsi": "آیا API باید از وضعیت پاسخ ثابت استفاده کند یا می‌توانیم پیام‌های وضعیت سفارشی ارسال کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können Sie mir bitte den Header-Parameter erklären, den wir beim Abrufen der Daten verwenden sollen?",
+      "english": "Could you please explain the header parameter we should use when retrieving the data?",
+      "russian": "Не могли бы вы объяснить заголовок, который мы должны использовать при получении данных?",
+      "farsi": "آیا می‌توانید لطفاً پارامتر هدر را که هنگام بازیابی داده‌ها باید استفاده کنیم توضیح دهید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Welche Anfragemethoden sind für das Aktualisieren von Benutzerdaten zulässig?",
+      "english": "Which request methods are allowed for updating user data?",
+      "russian": "Какие методы запросов разрешены для обновления данных пользователя?",
+      "farsi": "چه روش‌های درخواستی برای به‌روزرسانی داده‌های کاربر مجاز هستند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie geht die API mit leeren Anfragen um?",
+      "english": "How does the API handle empty requests?",
+      "russian": "Как API обрабатывает пустые запросы?",
+      "farsi": "API چگونه با درخواست‌های خالی برخورد می‌کند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten wir die API so konfigurieren, dass sie bei bestimmten Fehlern eine Benachrichtigung sendet?",
+      "english": "Could we configure the API to send a notification on certain errors?",
+      "russian": "Можем ли мы настроить API на отправку уведомлений при определенных ошибках?",
+      "farsi": "آیا می‌توانیم API را به‌گونه‌ای پیکربندی کنیم که در صورت بروز خطاهای خاص یک اعلان ارسال کند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Welche Felder sind beim Senden von POST-Daten über die API erforderlich?",
+      "english": "Which fields are required when sending POST data via the API?",
+      "russian": "Какие поля необходимы при отправке данных POST через API?",
+      "farsi": "کدام فیلدها هنگام ارسال داده‌های POST از طریق API لازم هستند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie handhabt die API Änderungen an den Datenmodellen? Müssen wir uns auf neue Schema-Änderungen vorbereiten?",
+      "english": "How does the API handle changes to data models? Do we need to prepare for new schema changes?",
+      "russian": "Как API обрабатывает изменения моделей данных? Нам нужно подготовиться к изменениям схемы?",
+      "farsi": "API چگونه با تغییرات مدل‌های داده برخورد می‌کند؟ آیا باید خود را برای تغییرات جدید در طرح آماده کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ist es möglich, die API-Antwort nach bestimmten Kriterien zu filtern?",
+      "english": "Is it possible to filter the API response by certain criteria?",
+      "russian": "Возможно ли отфильтровать ответ API по определенным критериям?",
+      "farsi": "آیا امکان فیلتر کردن پاسخ API بر اساس معیارهای خاص وجود دارد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie bitte die Rückgabestruktur für den neuen Endpunkt detaillierter erklären?",
+      "english": "Could you please explain the return structure for the new endpoint in more detail?",
+      "russian": "Не могли бы вы подробнее объяснить структуру возвращаемых данных для новой конечной точки?",
+      "farsi": "می‌توانید لطفاً ساختار بازگشتی برای نقطه انتهایی جدید را با جزئیات بیشتری توضیح دهید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe den API-Endpunkt getestet, aber die Antwort ist leer.",
+      "english": "I tested the API endpoint, but the response is empty.",
+      "russian": "Я протестировал конечную точку API, но ответ пуст.",
+      "farsi": "من نقطه انتهایی API را آزمایش کردم، اما پاسخ خالی است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie bitte überprüfen, ob der Endpunkt korrekt funktioniert?",
+      "english": "Could you please check if the endpoint is working correctly?",
+      "russian": "Не могли бы вы проверить, работает ли конечная точка правильно?",
+      "farsi": "آیا می‌توانید لطفاً بررسی کنید که آیا نقطه انتهایی به درستی کار می‌کند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die API liefert einen 404-Fehler zurück. Ist der Endpunkt verfügbar?",
+      "english": "The API returns a 404 error. Is the endpoint available?",
+      "russian": "API возвращает ошибку 404. Конечная точка доступна?",
+      "farsi": "API یک خطای 404 برمی‌گرداند. آیا نقطه انتهایی در دسترس است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich erhalte unerwartete Datenformate im Response. Können Sie das bitte prüfen?",
+      "english": "I am receiving unexpected data formats in the response. Can you please check?",
+      "russian": "Я получаю неожиданные форматы данных в ответе. Можете ли вы проверить?",
+      "farsi": "من فرمت‌های غیرمنتظره‌ای از داده‌ها را در پاسخ دریافت می‌کنم. آیا می‌توانید لطفاً بررسی کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir mit API-Fehlern umgehen, die während des Testens auftreten?",
+      "english": "How should we handle API errors that occur during testing?",
+      "russian": "Как нам обрабатывать ошибки API, возникающие во время тестирования?",
+      "farsi": "چگونه باید با خطاهای API که در طول آزمایش رخ می‌دهند برخورد کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der API-Response ist zu langsam. Können Sie die Performance optimieren?",
+      "english": "The API response is too slow. Can you optimize the performance?",
+      "russian": "Ответ API слишком медленный. Можете ли вы оптимизировать производительность?",
+      "farsi": "پاسخ API بسیار کند است. آیا می‌توانید عملکرد را بهینه‌سازی کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie mir bitte Testdaten für den API-Endpunkt bereitstellen?",
+      "english": "Could you please provide me with test data for the API endpoint?",
+      "russian": "Не могли бы вы предоставить мне тестовые данные для конечной точки API?",
+      "farsi": "آیا می‌توانید لطفاً داده‌های آزمایشی برای نقطه انتهایی API در اختیار من قرار دهید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir mit abgelaufenen Token im Frontend umgehen?",
+      "english": "How should we handle expired tokens in the frontend?",
+      "russian": "Как нам обрабатывать истекшие токены на фронтенде?",
+      "farsi": "چگونه باید با توکن‌های منقضی شده در فرانت‌اند برخورد کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich erhalte eine Fehlermeldung, dass die API nicht authentifiziert ist.",
+      "english": "I am receiving an error message that the API is not authenticated.",
+      "russian": "Я получаю сообщение об ошибке, что API не аутентифицировано.",
+      "farsi": "من یک پیام خطا دریافت می‌کنم که API تأیید اعتبار نشده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie bitte sicherstellen, dass der Endpunkt alle erforderlichen Felder zurückgibt?",
+      "english": "Could you please ensure that the endpoint returns all the required fields?",
+      "russian": "Не могли бы вы убедиться, что конечная точка возвращает все необходимые поля?",
+      "farsi": "آیا می‌توانید لطفاً اطمینان حاصل کنید که نقطه انتهایی تمام فیلدهای مورد نیاز را برمی‌گرداند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Warum wird ein 500-Fehler vom Server zurückgegeben, wenn ich die API aufrufe?",
+      "english": "Why is a 500 error returned by the server when I call the API?",
+      "russian": "Почему сервер возвращает ошибку 500, когда я вызываю API?",
+      "farsi": "چرا سرور هنگام فراخوانی API خطای 500 برمی‌گرداند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie das CORS-Problem lösen? Ich kann keine Anfragen vom Frontend senden.",
+      "english": "Could you resolve the CORS issue? I cannot send requests from the frontend.",
+      "russian": "Можете ли вы решить проблему CORS? Я не могу отправлять запросы с фронтенда.",
+      "farsi": "آیا می‌توانید مشکل CORS را حل کنید؟ من نمی‌توانم از فرانت‌اند درخواست ارسال کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die API scheint nicht korrekt auf POST-Anfragen zu reagieren.",
+      "english": "The API does not seem to be responding correctly to POST requests.",
+      "russian": "Похоже, что API неправильно реагирует на POST-запросы.",
+      "farsi": "به نظر می‌رسد API به درستی به درخواست‌های POST پاسخ نمی‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Welchen Statuscode sollten wir im Frontend für erfolgreiche Anfragen anzeigen?",
+      "english": "What status code should we display in the frontend for successful requests?",
+      "russian": "Какой статус-код мы должны отображать на фронтенде для успешных запросов?",
+      "farsi": "چه کد وضعیتی باید در فرانت‌اند برای درخواست‌های موفق نمایش دهیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können wir den API-Response für den Testmodus simulieren?",
+      "english": "Can we simulate the API response for test mode?",
+      "russian": "Можем ли мы симулировать ответ API для тестового режима?",
+      "farsi": "آیا می‌توانیم پاسخ API را برای حالت تست شبیه‌سازی کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bekomme bei jeder Anfrage einen 403-Fehler. Ist die API beschränkt?",
+      "english": "I get a 403 error on every request. Is the API restricted?",
+      "russian": "Я получаю ошибку 403 при каждом запросе. API ограничено?",
+      "farsi": "من برای هر درخواست یک خطای 403 دریافت می‌کنم. آیا API محدود شده است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir erhalten doppelte Daten im API-Response. Können Sie das überprüfen?",
+      "english": "We are receiving duplicate data in the API response. Can you check that?",
+      "russian": "Мы получаем дублирующие данные в ответе API. Можете ли вы это проверить?",
+      "farsi": "ما داده‌های تکراری در پاسخ API دریافت می‌کنیم. آیا می‌توانید بررسی کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Welche Testmethoden empfehlen Sie für die Validierung der API im Frontend?",
+      "english": "What testing methods do you recommend for validating the API in the frontend?",
+      "russian": "Какие методы тестирования вы рекомендуете для проверки API на фронтенде?",
+      "farsi": "چه روش‌های آزمایشی را برای اعتبارسنجی API در فرانت‌اند توصیه می‌کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollten wir die API-Antwort auf bestimmte Felder im Frontend beschränken?",
+      "english": "Should we limit the API response to specific fields in the frontend?",
+      "russian": "Следует ли ограничить ответ API определенными полями на фронтенде?",
+      "farsi": "آیا باید پاسخ API را به فیلدهای خاصی در فرانت‌اند محدود کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie bitte den Endpunkt auf Verfügbarkeit testen?",
+      "english": "Could you please test the endpoint for availability?",
+      "russian": "Не могли бы вы протестировать конечную точку на доступность?",
+      "farsi": "آیا می‌توانید لطفاً نقطه انتهایی را از نظر در دسترس بودن آزمایش کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich erhalte keine Antwort von der API. Könnten Sie die Serverlogs prüfen?",
+      "english": "I am not receiving any response from the API. Could you check the server logs?",
+      "russian": "Я не получаю ответа от API. Можете ли вы проверить логи сервера?",
+      "farsi": "من هیچ پاسخی از API دریافت نمی‌کنم. آیا می‌توانید لاگ‌های سرور را بررسی کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Authentifizierung scheint nicht korrekt zu funktionieren. Können Sie das Token-System überprüfen?",
+      "english": "Authentication does not seem to be working correctly. Can you check the token system?",
+      "russian": "Аутентификация, кажется, не работает должным образом. Можете ли вы проверить систему токенов?",
+      "farsi": "به نظر می‌رسد احراز هویت به درستی کار نمی‌کند. آیا می‌توانید سیستم توکن را بررسی کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir mit fehlenden Datenfeldern in der API-Antwort umgehen?",
+      "english": "How should we handle missing data fields in the API response?",
+      "russian": "Как нам обрабатывать отсутствующие поля данных в ответе API?",
+      "farsi": "چگونه باید با فیلدهای مفقود داده‌ها در پاسخ API برخورد کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich teste die API mit realen Daten. Könnten Sie überprüfen, ob alle Anfragen korrekt verarbeitet werden?",
+      "english": "I am testing the API with real data. Could you check if all requests are processed correctly?",
+      "russian": "Я тестирую API с реальными данными. Можете ли вы проверить, правильно ли обрабатываются все запросы?",
+      "farsi": "من API را با داده‌های واقعی آزمایش می‌کنم. آیا می‌توانید بررسی کنید که آیا همه درخواست‌ها به درستی پردازش می‌شوند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ist es möglich, Test-Endpoints für Entwicklungszwecke bereitzustellen?",
+      "english": "Is it possible to provide test endpoints for development purposes?",
+      "russian": "Можно ли предоставить тестовые конечные точки для целей разработки?",
+      "farsi": "آیا امکان ارائه نقاط انتهایی آزمایشی برای اهداف توسعه وجود دارد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die API sendet keine vollständigen Daten zurück. Können Sie das prüfen?",
+      "english": "The API is not returning complete data. Can you check that?",
+      "russian": "API не возвращает полные данные. Можете ли вы это проверить?",
+      "farsi": "API داده‌های کاملی برنمی‌گرداند. آیا می‌توانید بررسی کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bekomme einen 401-Fehler bei jeder Anfrage. Ist das Token-System korrekt konfiguriert?",
+      "english": "I get a 401 error on every request. Is the token system configured correctly?",
+      "russian": "Я получаю ошибку 401 при каждом запросе. Система токенов правильно настроена?",
+      "farsi": "من برای هر درخواست یک خطای 401 دریافت می‌کنم. آیا سیستم توکن به درستی پیکربندی شده است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Welche Tools verwenden Sie zur Überwachung der API-Performance?",
+      "english": "What tools do you use to monitor API performance?",
+      "russian": "Какие инструменты вы используете для мониторинга производительности API?",
+      "farsi": "چه ابزارهایی را برای نظارت بر عملکرد API استفاده می‌کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können Sie die API so konfigurieren, dass sie im Testmodus Dummy-Daten zurückgibt?",
+      "english": "Can you configure the API to return dummy data in test mode?",
+      "russian": "Можете ли вы настроить API на возврат тестовых данных в тестовом режиме?",
+      "farsi": "آیا می‌توانید API را طوری پیکربندی کنید که در حالت تست داده‌های جعلی برگرداند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie gehen wir mit API-Timeouts um, wenn der Server nicht rechtzeitig antwortet?",
+      "english": "How do we handle API timeouts when the server does not respond in time?",
+      "russian": "Как нам обрабатывать тайм-ауты API, когда сервер не отвечает вовремя?",
+      "farsi": "چگونه باید با تایم‌اوت‌های API وقتی سرور به موقع پاسخ نمی‌دهد برخورد کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der API-Response enthält veraltete Daten. Werden die Daten korrekt aktualisiert?",
+      "english": "The API response contains outdated data. Are the data being updated correctly?",
+      "russian": "Ответ API содержит устаревшие данные. Данные обновляются корректно?",
+      "farsi": "پاسخ API شامل داده‌های قدیمی است. آیا داده‌ها به درستی به‌روزرسانی می‌شوند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir die Fehlerbehandlung im Frontend gestalten, wenn die API Fehler zurückgibt?",
+      "english": "How should we handle error management in the frontend when the API returns errors?",
+      "russian": "Как нам реализовать обработку ошибок на фронтенде, когда API возвращает ошибки?",
+      "farsi": "چگونه باید مدیریت خطا را در فرانت‌اند طراحی کنیم وقتی API خطا برمی‌گرداند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können wir im Frontend eine Retry-Logik für fehlgeschlagene API-Anfragen implementieren?",
+      "english": "Can we implement a retry logic in the frontend for failed API requests?",
+      "russian": "Можем ли мы реализовать логику повторных запросов на фронтенде для неудавшихся запросов API?",
+      "farsi": "آیا می‌توانیم یک منطق تکرار درخواست برای درخواست‌های ناموفق API در فرانت‌اند پیاده‌سازی کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich erhalte eine ungültige JSON-Antwort von der API. Könnten Sie das prüfen?",
+      "english": "I am receiving an invalid JSON response from the API. Could you check that?",
+      "russian": "Я получаю недействительный ответ JSON от API. Можете ли вы это проверить?",
+      "farsi": "من یک پاسخ نامعتبر JSON از API دریافت می‌کنم. آیا می‌توانید بررسی کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Daten im API-Response scheinen inkonsistent zu sein. Können Sie das analysieren?",
+      "english": "The data in the API response seem to be inconsistent. Can you analyze that?",
+      "russian": "Данные в ответе API кажутся несогласованными. Можете ли вы это проанализировать?",
+      "farsi": "داده‌ها در پاسخ API به نظر ناسازگار هستند. آیا می‌توانید آن را تحلیل کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie wird die API mit gleichzeitigem Zugriff mehrerer Benutzer umgehen?",
+      "english": "How will the API handle simultaneous access by multiple users?",
+      "russian": "Как API будет обрабатывать одновременный доступ нескольких пользователей?",
+      "farsi": "API چگونه با دسترسی همزمان چندین کاربر برخورد خواهد کرد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie mir einen Beispiel-Request und -Response für diesen Endpunkt senden?",
+      "english": "Could you send me a sample request and response for this endpoint?",
+      "russian": "Не могли бы вы отправить мне пример запроса и ответа для этой конечной точки?",
+      "farsi": "آیا می‌توانید یک نمونه درخواست و پاسخ برای این نقطه انتهایی برای من ارسال کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe beim Testen keine Berechtigung zum Zugriff auf den Endpunkt. Ist das Absicht?",
+      "english": "I do not have permission to access the endpoint during testing. Is that intentional?",
+      "russian": "У меня нет разрешения на доступ к конечной точке при тестировании. Это преднамеренно?",
+      "farsi": "من هنگام آزمایش مجوز دسترسی به نقطه انتهایی را ندارم. آیا این عمدی است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir die API-Anfragen im Frontend optimieren, um die Ladezeiten zu reduzieren?",
+      "english": "How should we optimize the API requests in the frontend to reduce load times?",
+      "russian": "Как нам оптимизировать запросы API на фронтенде, чтобы сократить время загрузки?",
+      "farsi": "چگونه باید درخواست‌های API را در فرانت‌اند بهینه‌سازی کنیم تا زمان بارگذاری کاهش یابد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie bitte das Rate-Limit für die API erklären? Wie oft können wir Anfragen senden?",
+      "english": "Could you please explain the rate limit for the API? How often can we send requests?",
+      "russian": "Можете ли вы объяснить лимит скорости для API? Как часто мы можем отправлять запросы?",
+      "farsi": "آیا می‌توانید لطفاً محدودیت نرخ API را توضیح دهید؟ چند بار می‌توانیم درخواست ارسال کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Welche Datenbank wird für die API verwendet, und wie wirkt sich das auf die Performance aus?",
+      "english": "Which database is used for the API, and how does it affect performance?",
+      "russian": "Какая база данных используется для API и как это влияет на производительность?",
+      "farsi": "کدام پایگاه داده برای API استفاده می‌شود و این چگونه بر عملکرد تأثیر می‌گذارد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir API-Antworten cachen, um die Nutzererfahrung zu verbessern?",
+      "english": "How should we cache API responses to improve user experience?",
+      "russian": "Как нам кэшировать ответы API для улучшения пользовательского опыта?",
+      "farsi": "چگونه باید پاسخ‌های API را ذخیره کنیم تا تجربه کاربری بهبود یابد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die API-Antwort enthält zu viele unnötige Daten. Können wir das reduzieren?",
+      "english": "The API response contains too much unnecessary data. Can we reduce that?",
+      "russian": "Ответ API содержит слишком много ненужных данных. Можем ли мы это уменьшить?",
+      "farsi": "پاسخ API شامل داده‌های غیرضروری زیادی است. آیا می‌توانیم آن را کاهش دهیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bekomme einen 502-Fehler bei mehreren Anfragen. Ist der Server überlastet?",
+      "english": "I am getting a 502 error on multiple requests. Is the server overloaded?",
+      "russian": "Я получаю ошибку 502 при нескольких запросах. Сервер перегружен?",
+      "farsi": "من برای چندین درخواست خطای 502 دریافت می‌کنم. آیا سرور بارگذاری بیش از حد دارد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie handhaben Sie Datenvalidierung in der API? Müssen wir im Frontend zusätzliche Validierungen vornehmen?",
+      "english": "How do you handle data validation in the API? Do we need to add additional validation on the frontend?",
+      "russian": "Как вы обрабатываете проверку данных в API? Нужно ли нам добавлять дополнительную проверку на фронтенде?",
+      "farsi": "چگونه اعتبارسنجی داده‌ها را در API مدیریت می‌کنید؟ آیا باید اعتبارسنجی اضافی در فرانت‌اند اضافه کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Pagination im API-Response scheint nicht korrekt zu funktionieren. Können Sie das überprüfen?",
+      "english": "The pagination in the API response doesn't seem to be working correctly. Can you check that?",
+      "russian": "Пагинация в ответе API, похоже, работает неправильно. Можете ли вы это проверить?",
+      "farsi": "به نظر می‌رسد که صفحه‌بندی در پاسخ API به درستی کار نمی‌کند. آیا می‌توانید آن را بررسی کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollte der API-Response immer denselben Strukturaufbau haben, oder können Felder variieren?",
+      "english": "Should the API response always have the same structure, or can fields vary?",
+      "russian": "Должен ли ответ API всегда иметь одну и ту же структуру или поля могут варьироваться?",
+      "farsi": "آیا پاسخ API همیشه باید ساختار ثابتی داشته باشد، یا فیلدها می‌توانند متفاوت باشند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir benötigen eine Dokumentation für alle möglichen Fehlercodes, die die API zurückgeben kann.",
+      "english": "We need documentation for all possible error codes the API might return.",
+      "russian": "Нам нужна документация по всем возможным кодам ошибок, которые может вернуть API.",
+      "farsi": "ما به مستنداتی برای تمامی کدهای خطای احتمالی که API ممکن است برگرداند نیاز داریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können Sie den API-Response-Header für die Sicherheitsüberprüfung anpassen?",
+      "english": "Can you adjust the API response header for security checks?",
+      "russian": "Можете ли вы настроить заголовок ответа API для проверки безопасности?",
+      "farsi": "آیا می‌توانید هدر پاسخ API را برای بررسی‌های امنیتی تنظیم کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie testen Sie die API auf Skalierbarkeit, wenn mehrere Anfragen gleichzeitig eingehen?",
+      "english": "How do you test the API for scalability when multiple requests come in simultaneously?",
+      "russian": "Как вы тестируете API на масштабируемость, когда поступает несколько запросов одновременно?",
+      "farsi": "چگونه API را برای مقیاس‌پذیری آزمایش می‌کنید وقتی چندین درخواست به طور همزمان ارسال می‌شود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie bitte ein Beispiel für einen API-Request mit Authentifizierung bereitstellen?",
+      "english": "Could you please provide an example of an API request with authentication?",
+      "russian": "Можете ли вы предоставить пример запроса API с аутентификацией?",
+      "farsi": "آیا می‌توانید لطفاً یک نمونه از درخواست API با احراز هویت ارائه دهید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir erhalten bei bestimmten Anfragen eine Verzögerung. Können Sie das im Backend analysieren?",
+      "english": "We are experiencing delays on certain requests. Can you analyze that in the backend?",
+      "russian": "Мы получаем задержки на определенные запросы. Можете ли вы проанализировать это на бэкенде?",
+      "farsi": "ما در برخی درخواست‌ها با تأخیر مواجه می‌شویم. آیا می‌توانید آن را در بک‌اند بررسی کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die API sendet manchmal keine vollständige Antwort zurück. Ist das ein bekanntes Problem?",
+      "english": "The API sometimes does not send a complete response. Is this a known issue?",
+      "russian": "API иногда не отправляет полный ответ. Это известная проблема?",
+      "farsi": "API گاهی اوقات پاسخ کاملی ارسال نمی‌کند. آیا این یک مشکل شناخته شده است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollen wir mit API-Fehlern im Produktionsmodus umgehen? Sollen wir die Benutzer informieren?",
+      "english": "How should we handle API errors in production mode? Should we inform the users?",
+      "russian": "Как нам обрабатывать ошибки API в производственном режиме? Мы должны уведомлять пользователей?",
+      "farsi": "چگونه باید با خطاهای API در حالت تولید برخورد کنیم؟ آیا باید کاربران را مطلع کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ist der API-Endpunkt für eine hohe Anzahl von Anfragen optimiert?",
+      "english": "Is the API endpoint optimized for a high number of requests?",
+      "russian": "Оптимизирована ли конечная точка API для большого количества запросов?",
+      "farsi": "آیا نقطه انتهایی API برای تعداد زیادی از درخواست‌ها بهینه شده است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich erhalte immer wieder einen Cross-Origin-Fehler. Können Sie das bitte beheben?",
+      "english": "I keep getting a cross-origin error. Can you fix that, please?",
+      "russian": "Я постоянно получаю ошибку Cross-Origin. Можете ли вы это исправить?",
+      "farsi": "من دائماً خطای Cross-Origin دریافت می‌کنم. آیا می‌توانید آن را برطرف کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sollte die API eine Fehlermeldung zurückgeben, wenn die Anfragedaten unvollständig sind?",
+      "english": "Should the API return an error message when the request data are incomplete?",
+      "russian": "Должен ли API возвращать сообщение об ошибке, если данные запроса неполные?",
+      "farsi": "آیا API باید یک پیام خطا برگرداند اگر داده‌های درخواست ناقص باشند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie gehen wir mit API-Responses um, die zu langsam sind? Gibt es Optimierungsmöglichkeiten?",
+      "english": "How do we handle API responses that are too slow? Are there optimization options?",
+      "russian": "Как нам обрабатывать слишком медленные ответы API? Есть ли варианты оптимизации?",
+      "farsi": "چگونه باید با پاسخ‌های API که خیلی کند هستند برخورد کنیم؟ آیا گزینه‌هایی برای بهینه‌سازی وجود دارد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die API-Daten scheinen nicht synchron mit der Datenbank zu sein. Können Sie das prüfen?",
+      "english": "The API data seem to be out of sync with the database. Can you check that?",
+      "russian": "Данные API, похоже, не синхронизированы с базой данных. Можете ли вы это проверить?",
+      "farsi": "به نظر می‌رسد که داده‌های API با پایگاه داده همگام نیستند. آیا می‌توانید آن را بررسی کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie stellen wir sicher, dass die API stabil bleibt, wenn mehrere Benutzer gleichzeitig Anfragen senden?",
+      "english": "How do we ensure that the API remains stable when multiple users are sending requests simultaneously?",
+      "russian": "Как нам гарантировать, что API останется стабильным, когда несколько пользователей отправляют запросы одновременно?",
+      "farsi": "چگونه اطمینان حاصل کنیم که API زمانی که چندین کاربر به طور همزمان درخواست ارسال می‌کنند پایدار باقی می‌ماند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die API-Antwort wird nicht im Frontend angezeigt. Können Sie das prüfen?",
+      "english": "The API response is not displayed in the frontend. Can you check that?",
+      "russian": "Ответ API не отображается на фронтенде. Можете ли вы это проверить?",
+      "farsi": "پاسخ API در فرانت‌اند نمایش داده نمی‌شود. آیا می‌توانید آن را بررسی کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich erhalte falsche Daten von der API. Können Sie das Backend-Log überprüfen?",
+      "english": "I am receiving incorrect data from the API. Can you check the backend log?",
+      "russian": "Я получаю неверные данные от API. Можете ли вы проверить журнал бэкенда?",
+      "farsi": "من داده‌های نادرستی از API دریافت می‌کنم. آیا می‌توانید لاگ بک‌اند را بررسی کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Verbindung zur API scheint unterbrochen zu sein. Was könnte das Problem sein?",
+      "english": "The connection to the API seems to be interrupted. What could be the problem?",
+      "russian": "Похоже, что соединение с API прервано. В чем может быть проблема?",
+      "farsi": "به نظر می‌رسد ارتباط با API قطع شده است. مشکل چه می‌تواند باشد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es scheint ein Problem mit der JSON-Serialisierung zu geben. Können Sie das im Backend prüfen?",
+      "english": "There seems to be an issue with JSON serialization. Can you check that in the backend?",
+      "russian": "Кажется, есть проблема с сериализацией JSON. Можете ли вы проверить это на бэкенде?",
+      "farsi": "به نظر می‌رسد مشکلی در سریال‌سازی JSON وجود دارد. آیا می‌توانید آن را در بک‌اند بررسی کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bekomme einen 500-Fehler, wenn ich den API-Endpunkt aufrufe.",
+      "english": "I am getting a 500 error when calling the API endpoint.",
+      "russian": "Я получаю ошибку 500 при вызове конечной точки API.",
+      "farsi": "من هنگام فراخوانی نقطه انتهایی API خطای 500 دریافت می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die API-Antwort enthält nicht alle erwarteten Felder.",
+      "english": "The API response does not contain all the expected fields.",
+      "russian": "Ответ API не содержит всех ожидаемых полей.",
+      "farsi": "پاسخ API شامل تمام فیلدهای مورد انتظار نیست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es gibt eine Inkonsistenz zwischen den Daten, die die API zurückgibt, und dem, was im Frontend angezeigt wird.",
+      "english": "There is an inconsistency between the data returned by the API and what is displayed in the frontend.",
+      "russian": "Существует несоответствие между данными, возвращаемыми API, и тем, что отображается на фронтенде.",
+      "farsi": "بین داده‌های برگشتی API و آنچه در فرانت‌اند نمایش داده می‌شود ناسازگاری وجود دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Authentifizierung funktioniert nicht richtig. Ich bekomme immer wieder einen 401-Fehler.",
+      "english": "Authentication is not working properly. I keep getting a 401 error.",
+      "russian": "Аутентификация не работает должным образом. Я продолжаю получать ошибку 401.",
+      "farsi": "احراز هویت به درستی کار نمی‌کند. من دائماً خطای 401 دریافت می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie die Rate-Limits der API überprüfen? Ich erhalte zu viele Timeout-Fehler.",
+      "english": "Could you check the rate limits of the API? I am getting too many timeout errors.",
+      "russian": "Можете ли вы проверить лимиты скорости API? Я получаю слишком много ошибок тайм-аута.",
+      "farsi": "آیا می‌توانید محدودیت نرخ API را بررسی کنید؟ من تعداد زیادی خطای تایم‌اوت دریافت می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die API liefert manchmal null-Werte zurück, obwohl Daten vorhanden sein sollten.",
+      "english": "The API sometimes returns null values even though data should be available.",
+      "russian": "API иногда возвращает значения null, хотя данные должны быть доступны.",
+      "farsi": "API گاهی اوقات مقادیر null برمی‌گرداند در حالی که باید داده‌ها در دسترس باشند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich kann keine Verbindung zum API-Endpunkt herstellen. Ist der Server erreichbar?",
+      "english": "I cannot connect to the API endpoint. Is the server reachable?",
+      "russian": "Я не могу подключиться к конечной точке API. Сервер доступен?",
+      "farsi": "من نمی‌توانم به نقطه انتهایی API وصل شوم. آیا سرور قابل دسترسی است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der API-Response ist extrem langsam und beeinträchtigt die Benutzererfahrung.",
+      "english": "The API response is extremely slow and affects the user experience.",
+      "russian": "Ответ API чрезвычайно медленный и влияет на пользовательский опыт.",
+      "farsi": "پاسخ API بسیار کند است و تجربه کاربری را تحت تأثیر قرار می‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die API antwortet nicht, wenn ich eine Anfrage mit einem bestimmten Parameter sende.",
+      "english": "The API does not respond when I send a request with a specific parameter.",
+      "russian": "API не отвечает, когда я отправляю запрос с определенным параметром.",
+      "farsi": "API پاسخ نمی‌دهد وقتی من یک درخواست با یک پارامتر خاص ارسال می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe die API-Antwort im Frontend korrekt verarbeitet, aber die Daten werden nicht aktualisiert.",
+      "english": "I have correctly processed the API response in the frontend, but the data is not updating.",
+      "russian": "Я правильно обработал ответ API на фронтенде, но данные не обновляются.",
+      "farsi": "من پاسخ API را به درستی در فرانت‌اند پردازش کرده‌ام، اما داده‌ها به‌روزرسانی نمی‌شوند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es gibt ein Problem mit der Pagination der API-Antwort. Die Seitenzahlen stimmen nicht überein.",
+      "english": "There is an issue with the pagination of the API response. The page numbers do not match.",
+      "russian": "Существует проблема с пагинацией ответа API. Номера страниц не совпадают.",
+      "farsi": "مشکلی در صفحه‌بندی پاسخ API وجود دارد. شماره صفحات مطابقت ندارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der API-Endpunkt gibt unvollständige Daten zurück. Können Sie das prüfen?",
+      "english": "The API endpoint returns incomplete data. Can you check that?",
+      "russian": "Конечная точка API возвращает неполные данные. Можете ли вы это проверить?",
+      "farsi": "نقطه انتهایی API داده‌های ناقص برمی‌گرداند. آیا می‌توانید آن را بررسی کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die API scheint nicht auf POST-Anfragen zu reagieren.",
+      "english": "The API doesn't seem to be responding to POST requests.",
+      "russian": "Похоже, что API не отвечает на POST-запросы.",
+      "farsi": "به نظر می‌رسد که API به درخواست‌های POST پاسخ نمی‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe Schwierigkeiten mit den CORS-Einstellungen. Die API wird blockiert.",
+      "english": "I am having issues with CORS settings. The API is being blocked.",
+      "russian": "У меня проблемы с настройками CORS. API блокируется.",
+      "farsi": "من در تنظیمات CORS مشکل دارم. API مسدود شده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Struktur der API-Antwort hat sich geändert und bricht die Darstellung im Frontend.",
+      "english": "The structure of the API response has changed and breaks the display in the frontend.",
+      "russian": "Структура ответа API изменилась и нарушает отображение на фронтенде.",
+      "farsi": "ساختار پاسخ API تغییر کرده و نمایش در فرانت‌اند را خراب می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die API liefert bei großen Anfragen eine Time-out-Fehlermeldung.",
+      "english": "The API returns a timeout error for large requests.",
+      "russian": "API возвращает ошибку тайм-аута для больших запросов.",
+      "farsi": "API برای درخواست‌های بزرگ یک خطای تایم‌اوت برمی‌گرداند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Daten im API-Response stimmen nicht mit den Daten in der Datenbank überein.",
+      "english": "The data in the API response do not match the data in the database.",
+      "russian": "Данные в ответе API не совпадают с данными в базе данных.",
+      "farsi": "داده‌های پاسخ API با داده‌های موجود در پایگاه داده مطابقت ندارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der API-Endpunkt gibt bei GET-Anfragen einen Fehler 403 zurück. Haben wir die Berechtigungen korrekt gesetzt?",
+      "english": "The API endpoint returns a 403 error for GET requests. Have we set the permissions correctly?",
+      "russian": "Конечная точка API возвращает ошибку 403 для GET-запросов. Мы правильно установили разрешения?",
+      "farsi": "نقطه انتهایی API برای درخواست‌های GET خطای 403 برمی‌گرداند. آیا ما دسترسی‌ها را به درستی تنظیم کرده‌ایم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es scheint, als ob der API-Endpunkt die falschen Statuscodes zurückgibt.",
+      "english": "It seems that the API endpoint is returning incorrect status codes.",
+      "russian": "Кажется, что конечная точка API возвращает неверные коды статусов.",
+      "farsi": "به نظر می‌رسد که نقطه انتهایی API کدهای وضعیت اشتباه را برمی‌گرداند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die API-Antwort enthält doppelte Daten. Können Sie das im Backend beheben?",
+      "english": "The API response contains duplicate data. Can you fix that in the backend?",
+      "russian": "Ответ API содержит дублирующие данные. Можете ли вы это исправить на бэкенде?",
+      "farsi": "پاسخ API حاوی داده‌های تکراری است. آیا می‌توانید آن را در بک‌اند برطرف کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die API antwortet inkonsistent, manchmal kommen die Daten, manchmal nicht.",
+      "english": "The API is responding inconsistently; sometimes the data comes through, sometimes it doesn't.",
+      "russian": "API отвечает несогласованно: иногда данные приходят, иногда нет.",
+      "farsi": "API به‌صورت ناسازگار پاسخ می‌دهد؛ گاهی داده‌ها می‌آیند و گاهی نه."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es gibt eine Diskrepanz zwischen dem Timestamp im API-Response und den angezeigten Daten.",
+      "english": "There is a discrepancy between the timestamp in the API response and the displayed data.",
+      "russian": "Существует расхождение между временной меткой в ответе API и отображаемыми данными.",
+      "farsi": "بین تایم‌استمپ در پاسخ API و داده‌های نمایش داده شده اختلاف وجود دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bekomme regelmäßig einen 429-Fehler. Ist das API-Limit zu niedrig eingestellt?",
+      "english": "I regularly get a 429 error. Is the API limit set too low?",
+      "russian": "Я регулярно получаю ошибку 429. Может быть, лимит API установлен слишком низко?",
+      "farsi": "من به طور منظم خطای 429 دریافت می‌کنم. آیا محدودیت API بیش از حد پایین تنظیم شده است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die API sendet manchmal ungültige JSON-Daten zurück.",
+      "english": "The API sometimes returns invalid JSON data.",
+      "russian": "API иногда возвращает недопустимые данные JSON.",
+      "farsi": "API گاهی اوقات داده‌های نامعتبر JSON برمی‌گرداند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Filterfunktionen in der API scheinen nicht korrekt zu arbeiten.",
+      "english": "The filtering functions in the API do not seem to be working correctly.",
+      "russian": "Функции фильтрации в API, кажется, работают неправильно.",
+      "farsi": "به نظر می‌رسد که فیلترهای API به درستی کار نمی‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die API gibt bei einem Fehler keinen aussagekräftigen Statuscode zurück.",
+      "english": "The API does not return a meaningful status code in case of an error.",
+      "russian": "API не возвращает информативный код статуса в случае ошибки.",
+      "farsi": "API در صورت بروز خطا یک کد وضعیت معنی‌دار برنمی‌گرداند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Daten im API-Response sind veraltet. Können Sie die Cache-Einstellungen prüfen?",
+      "english": "The data in the API response is outdated. Can you check the cache settings?",
+      "russian": "Данные в ответе API устарели. Можете ли вы проверить настройки кэша?",
+      "farsi": "داده‌های موجود در پاسخ API قدیمی هستند. آیا می‌توانید تنظیمات کش را بررسی کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es gibt ein Problem mit der Authentifizierung. Ich werde aus der API abgemeldet.",
+      "english": "There is an issue with authentication. I am being logged out of the API.",
+      "russian": "Есть проблема с аутентификацией. Меня выкидывает из API.",
+      "farsi": "مشکلی در احراز هویت وجود دارد. من از API خارج می‌شوم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der API-Endpunkt gibt inkorrekte Felder zurück. Wir benötigen mehr Details im Response.",
+      "english": "The API endpoint is returning incorrect fields. We need more details in the response.",
+      "russian": "Конечная точка API возвращает некорректные поля. Нам нужно больше деталей в ответе.",
+      "farsi": "نقطه انتهایی API فیلدهای نادرستی برمی‌گرداند. ما به جزئیات بیشتری در پاسخ نیاز داریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich erhalte keine Fehlermeldung, wenn die API-Anfrage fehlschlägt.",
+      "english": "I am not receiving an error message when the API request fails.",
+      "russian": "Я не получаю сообщение об ошибке, когда запрос API не удается.",
+      "farsi": "من هنگام شکست درخواست API پیغام خطایی دریافت نمی‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Validierung der Eingabedaten in der API scheint fehlerhaft zu sein.",
+      "english": "The validation of input data in the API seems to be faulty.",
+      "russian": "Проверка входных данных в API кажется ошибочной.",
+      "farsi": "به نظر می‌رسد اعتبارسنجی داده‌های ورودی در API معیوب باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die API-Antwort enthält zusätzliche Felder, die nicht dokumentiert sind.",
+      "english": "The API response contains additional fields that are not documented.",
+      "russian": "Ответ API содержит дополнительные поля, которые не задокументированы.",
+      "farsi": "پاسخ API شامل فیلدهای اضافی است که مستند نشده‌اند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der API-Endpunkt scheint in bestimmten Fällen eine leere Antwort zurückzugeben.",
+      "english": "The API endpoint seems to be returning an empty response in certain cases.",
+      "russian": "Конечная точка API, похоже, возвращает пустой ответ в некоторых случаях.",
+      "farsi": "به نظر می‌رسد که نقطه انتهایی API در برخی موارد یک پاسخ خالی برمی‌گرداند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die API antwortet nicht auf Anfragen, wenn die Last zu hoch ist.",
+      "english": "The API does not respond to requests when the load is too high.",
+      "russian": "API не отвечает на запросы, когда нагрузка слишком велика.",
+      "farsi": "API در هنگام بالا بودن بار پاسخ نمی‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Reihenfolge der Daten im API-Response ist falsch.",
+      "english": "The order of the data in the API response is incorrect.",
+      "russian": "Порядок данных в ответе API неправильный.",
+      "farsi": "ترتیب داده‌ها در پاسخ API اشتباه است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die API scheint nicht auf PUT-Anfragen zu reagieren.",
+      "english": "The API does not seem to be responding to PUT requests.",
+      "russian": "API, похоже, не отвечает на запросы PUT.",
+      "farsi": "به نظر می‌رسد API به درخواست‌های PUT پاسخ نمی‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie die API-Logs überprüfen? Es scheint ein Problem mit der Datenverarbeitung zu geben.",
+      "english": "Could you check the API logs? There seems to be an issue with data processing.",
+      "russian": "Можете ли вы проверить журналы API? Кажется, есть проблема с обработкой данных.",
+      "farsi": "آیا می‌توانید لاگ‌های API را بررسی کنید؟ به نظر می‌رسد مشکلی در پردازش داده‌ها وجود دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der API-Response-Header enthält nicht die erwarteten Sicherheitsinformationen.",
+      "english": "The API response header does not contain the expected security information.",
+      "russian": "Заголовок ответа API не содержит ожидаемую информацию по безопасности.",
+      "farsi": "هدر پاسخ API شامل اطلاعات امنیتی مورد انتظار نیست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die API scheint bei parallelen Anfragen zu versagen.",
+      "english": "The API seems to fail with parallel requests.",
+      "russian": "API, кажется, не справляется с параллельными запросами.",
+      "farsi": "به نظر می‌رسد API با درخواست‌های موازی مشکل دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es gibt ein Problem mit der Sortierung der Daten in der API-Antwort.",
+      "english": "There is an issue with the sorting of the data in the API response.",
+      "russian": "Возникла проблема с сортировкой данных в ответе API.",
+      "farsi": "مشکلی در مرتب‌سازی داده‌ها در پاسخ API وجود دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die API gibt bei bestimmten Anfragen inkonsistente Datentypen zurück.",
+      "english": "The API returns inconsistent data types for certain requests.",
+      "russian": "API возвращает несовместимые типы данных для некоторых запросов.",
+      "farsi": "API برای برخی درخواست‌ها انواع داده‌های ناسازگار برمی‌گرداند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die API funktioniert nicht korrekt mit dem neuen Frontend-Update.",
+      "english": "The API is not functioning correctly with the new frontend update.",
+      "russian": "API некорректно работает с новым обновлением фронтенда.",
+      "farsi": "API با به‌روزرسانی جدید فرانت‌اند به درستی کار نمی‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Fehlerbehandlung in der API ist nicht ausreichend. Ich bekomme keinen klaren Fehlercode.",
+      "english": "The error handling in the API is insufficient. I am not receiving a clear error code.",
+      "russian": "Обработка ошибок в API недостаточна. Я не получаю четкого кода ошибки.",
+      "farsi": "مدیریت خطا در API کافی نیست. من کد خطای مشخصی دریافت نمی‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie das Datenmodell der API prüfen? Es gibt Inkonsistenzen.",
+      "english": "Could you check the API data model? There are inconsistencies.",
+      "russian": "Можете проверить модель данных API? Есть несоответствия.",
+      "farsi": "آیا می‌توانید مدل داده‌های API را بررسی کنید؟ ناسازگاری‌هایی وجود دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es gibt ein Problem mit den Header-Parametern, die die API erwartet.",
+      "english": "There is an issue with the header parameters that the API expects.",
+      "russian": "Есть проблема с параметрами заголовка, которые ожидает API.",
+      "farsi": "مشکلی در پارامترهای هدر وجود دارد که API انتظار دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der API-Endpunkt ist nicht erreichbar. Können Sie den Status des Servers überprüfen?",
+      "english": "The API endpoint is not reachable. Can you check the server status?",
+      "russian": "Конечная точка API недоступна. Можете проверить статус сервера?",
+      "farsi": "نقطه انتهایی API در دسترس نیست. آیا می‌توانید وضعیت سرور را بررسی کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die API verarbeitet Bulk-Anfragen nicht korrekt.",
+      "english": "The API is not processing bulk requests correctly.",
+      "russian": "API неправильно обрабатывает массовые запросы.",
+      "farsi": "API درخواست‌های دسته‌ای را به درستی پردازش نمی‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der API-Endpunkt gibt bei POST-Anfragen immer denselben Fehler zurück.",
+      "english": "The API endpoint always returns the same error for POST requests.",
+      "russian": "Конечная точка API всегда возвращает одну и ту же ошибку для запросов POST.",
+      "farsi": "نقطه انتهایی API همیشه یک خطای یکسان برای درخواست‌های POST برمی‌گرداند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es scheint ein Problem mit der Datenkonsistenz zwischen Frontend und Backend zu geben.",
+      "english": "There seems to be an issue with data consistency between the frontend and backend.",
+      "russian": "Кажется, есть проблема с согласованностью данных между фронтендом и бэкендом.",
+      "farsi": "به نظر می‌رسد مشکلی در سازگاری داده‌ها بین فرانت‌اند و بک‌اند وجود دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die API scheint Daten zu verlieren, wenn mehrere Anfragen gleichzeitig gesendet werden.",
+      "english": "The API seems to be losing data when multiple requests are sent simultaneously.",
+      "russian": "API, похоже, теряет данные, когда несколько запросов отправляются одновременно.",
+      "farsi": "به نظر می‌رسد API هنگام ارسال چندین درخواست به طور همزمان داده‌ها را از دست می‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich erhalte eine Fehlermeldung, dass die Anfrage nicht korrekt formatiert ist.",
+      "english": "I am receiving an error message that the request is not formatted correctly.",
+      "russian": "Я получаю сообщение об ошибке, что запрос неправильно форматирован.",
+      "farsi": "من یک پیام خطا دریافت می‌کنم که درخواست به درستی فرمت نشده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der API-Response enthält unerwartete Sonderzeichen.",
+      "english": "The API response contains unexpected special characters.",
+      "russian": "Ответ API содержит неожиданные специальные символы.",
+      "farsi": "پاسخ API شامل کاراکترهای ویژه غیرمنتظره است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die API gibt bei DELETE-Anfragen keine korrekte Erfolgsmeldung zurück.",
+      "english": "The API does not return the correct success message for DELETE requests.",
+      "russian": "API не возвращает корректное сообщение об успешном завершении для запросов DELETE.",
+      "farsi": "API برای درخواست‌های DELETE پیام موفقیت درستی را برنمی‌گرداند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Daten im API-Response sind in einer anderen Sprache als erwartet.",
+      "english": "The data in the API response is in a different language than expected.",
+      "russian": "Данные в ответе API на другом языке, чем ожидалось.",
+      "farsi": "داده‌های موجود در پاسخ API به زبانی متفاوت از انتظار هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die API antwortet nicht korrekt auf Anfragen mit speziellen Zeichen im Parameter.",
+      "english": "The API is not responding correctly to requests with special characters in the parameter.",
+      "russian": "API некорректно отвечает на запросы с особыми символами в параметре.",
+      "farsi": "API به درخواست‌های حاوی کاراکترهای ویژه در پارامتر به درستی پاسخ نمی‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der API-Response scheint verzögert zu sein, obwohl die Anfragen schnell gesendet werden.",
+      "english": "The API response seems delayed, even though the requests are sent quickly.",
+      "russian": "Ответ API, кажется, задерживается, хотя запросы отправляются быстро.",
+      "farsi": "به نظر می‌رسد پاسخ API با تأخیر مواجه است، حتی با وجود اینکه درخواست‌ها سریع ارسال می‌شوند."
+    }
+  ]
+}
