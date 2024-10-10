@@ -8,12 +8,20 @@ const PlayText = (props) => {
   const { speak } = useSpeechSynthesis();
 
   const handleSpeak = () => {
-    speak({
+    /* speak({
       text: props.text,
       rate: props.rate,
       pitch: props.pitch,
       voice: props.voice,
-    });
+    }); */
+    setTimeout(() => {
+      speak({
+        text: props.text,
+        rate: props.rate,
+        pitch: props.pitch,
+        voice: props.voice,
+      });
+    }, 300);
   };
   return (
     <button
