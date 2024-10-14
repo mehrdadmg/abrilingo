@@ -43,6 +43,14 @@ const alllessons = [
     file_name: 'a1_regelmäßige_verben.json',
     name: 'A1_Regelmäßige_Verben',
   },
+  {
+    file_name: 'a2_unregelmäßige_verben.json',
+    name: 'A2_Unregelmäßige_Verben',
+  },
+  {
+    file_name: 'a2_regelmäßige_verben.json',
+    name: 'A2_Regelmäßige_Verben',
+  },
   /* {
     file_name: 'verben_01.json',
     name: 'Verben_01',

@@ -1,0 +1,1359 @@
+{
+  "info": {
+    "name": "A2_Unregelmäßige_Verben",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "abheben",
+      "Präsens": "Er hebt ab",
+      "Präteritum": "Er hob ab",
+      "Perfekt": "hat abgehoben",
+      "englishMeaning": "to withdraw, to take off",
+      "englishUsage": "Refers to either withdrawing money from an account or a plane taking off.",
+      "russianMeaning": "снимать (деньги), взлетать",
+      "russianUsage": "Используется для обозначения снятия денег с банковского счёта или взлёта самолёта.",
+      "farsiMeaning": "برداشت کردن، بلند شدن",
+      "farsiUsage": "برای اشاره به برداشت پول از حساب یا بلند شدن هواپیما استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe heute Geld am Automaten abgehoben.",
+      "english": "I withdrew money from the ATM today.",
+      "russian": "Сегодня я снял деньги в банкомате.",
+      "farsi": "امروز از دستگاه خودپرداز پول برداشت کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Flugzeug hob um 10 Uhr ab.",
+      "english": "The plane took off at 10 o'clock.",
+      "russian": "Самолет взлетел в 10 часов.",
+      "farsi": "هواپیما ساعت ۱۰ پرواز کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "abnehmen",
+      "Präsens": "Er nimmt ab",
+      "Präteritum": "Er nahm ab",
+      "Perfekt": "hat abgenommen",
+      "englishMeaning": "to lose weight, to remove",
+      "englishUsage": "Describes the act of losing weight or removing something from its place.",
+      "russianMeaning": "худеть, снимать",
+      "russianUsage": "Описывает процесс потери веса или снятия чего-либо с места.",
+      "farsiMeaning": "وزن کم کردن، برداشتن",
+      "farsiUsage": "برای توصیف عمل کاهش وزن یا برداشتن چیزی از محل خود استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich muss abnehmen, ich habe zu viel zugenommen.",
+      "english": "I need to lose weight; I have gained too much.",
+      "russian": "Мне нужно похудеть, я слишком много набрал.",
+      "farsi": "باید وزن کم کنم، خیلی اضافه‌وزن پیدا کرده‌ام."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kannst du mir bitte das Buch abnehmen?",
+      "english": "Can you please take the book from me?",
+      "russian": "Можешь, пожалуйста, взять у меня книгу?",
+      "farsi": "می‌توانی لطفاً کتاب را از من بگیری؟"
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "abschließen",
+      "Präsens": "Er schließt ab",
+      "Präteritum": "Er schloss ab",
+      "Perfekt": "hat abgeschlossen",
+      "englishMeaning": "to complete, to lock",
+      "englishUsage": "Refers to either completing a task or locking a door.",
+      "russianMeaning": "заканчивать, запирать",
+      "russianUsage": "Используется для обозначения завершения задания или запирания двери.",
+      "farsiMeaning": "تمام کردن، قفل کردن",
+      "farsiUsage": "برای اشاره به اتمام کاری یا قفل کردن در استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe gerade die Tür abgeschlossen.",
+      "english": "I just locked the door.",
+      "russian": "Я только что запер дверь.",
+      "farsi": "من همین الان در را قفل کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat sein Studium erfolgreich abgeschlossen.",
+      "english": "He successfully completed his studies.",
+      "russian": "Он успешно завершил учебу.",
+      "farsi": "او با موفقیت تحصیلات خود را به پایان رساند."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "anbieten",
+      "Präsens": "Er bietet an",
+      "Präteritum": "Er bot an",
+      "Perfekt": "hat angeboten",
+      "englishMeaning": "to offer",
+      "englishUsage": "Describes the act of proposing or providing something to someone.",
+      "russianMeaning": "предлагать",
+      "russianUsage": "Описывает процесс предложения или предоставления чего-либо кому-либо.",
+      "farsiMeaning": "پیشنهاد دادن",
+      "farsiUsage": "برای توصیف عمل پیشنهاد یا ارائه چیزی به کسی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich biete dir eine Tasse Kaffee an.",
+      "english": "I offer you a cup of coffee.",
+      "russian": "Я предлагаю тебе чашку кофе.",
+      "farsi": "یک فنجان قهوه به تو پیشنهاد می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Geschäft bietet eine große Auswahl an Produkten an.",
+      "english": "The store offers a wide range of products.",
+      "russian": "Магазин предлагает широкий ассортимент товаров.",
+      "farsi": "فروشگاه طیف گسترده‌ای از محصولات را ارائه می‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "abhängen",
+      "Präsens": "Er hängt ab",
+      "Präteritum": "Er hing ab",
+      "Perfekt": "hat abgehangen",
+      "englishMeaning": "to depend on",
+      "englishUsage": "Used to describe something being reliant on another factor.",
+      "russianMeaning": "зависеть",
+      "russianUsage": "Используется для описания зависимости чего-либо от другого фактора.",
+      "farsiMeaning": "بستگی داشتن",
+      "farsiUsage": "برای اشاره به وابستگی چیزی به عامل دیگر استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es hängt vom Wetter ab, ob wir heute ins Schwimmbad gehen.",
+      "english": "It depends on the weather whether we go to the swimming pool today.",
+      "russian": "Это зависит от погоды, пойдем ли мы сегодня в бассейн.",
+      "farsi": "بستگی به آب‌وهوا دارد که امروز به استخر برویم یا نه."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein Erfolg hängt von deiner Hilfe ab.",
+      "english": "My success depends on your help.",
+      "russian": "Мой успех зависит от твоей помощи.",
+      "farsi": "موفقیت من به کمک تو بستگی دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "angeben",
+      "Präsens": "Er gibt an",
+      "Präteritum": "Er gab an",
+      "Perfekt": "hat angegeben",
+      "englishMeaning": "to state, to boast",
+      "englishUsage": "Describes the act of stating something clearly or showing off.",
+      "russianMeaning": "заявлять, хвастаться",
+      "russianUsage": "Описывает процесс чёткого заявления чего-либо или хвастовства.",
+      "farsiMeaning": "اعلام کردن، خودنمایی کردن",
+      "farsiUsage": "برای توصیف عمل بیان چیزی به وضوح یا خودنمایی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er gibt immer an, wie reich er ist.",
+      "english": "He always shows off how rich he is.",
+      "russian": "Он всегда хвастается, какой он богатый.",
+      "farsi": "او همیشه به رخ می‌کشد که چقدر ثروتمند است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bitte gib deine Adresse an.",
+      "english": "Please provide your address.",
+      "russian": "Пожалуйста, укажи свой адрес.",
+      "farsi": "لطفاً آدرس خود را ارائه دهید."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "ausgeben",
+      "Präsens": "Er gibt aus",
+      "Präteritum": "Er gab aus",
+      "Perfekt": "hat ausgegeben",
+      "englishMeaning": "to spend, to issue",
+      "englishUsage": "Refers to spending money or issuing something like documents.",
+      "russianMeaning": "тратить, выдавать",
+      "russianUsage": "Используется для обозначения траты денег или выдачи чего-либо, например документов.",
+      "farsiMeaning": "خرج کردن، صادر کردن",
+      "farsiUsage": "برای اشاره به خرج کردن پول یا صدور چیزی مانند اسناد استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe gestern zu viel Geld ausgegeben.",
+      "english": "I spent too much money yesterday.",
+      "russian": "Вчера я потратил слишком много денег.",
+      "farsi": "دیروز خیلی پول خرج کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Firma gibt viel Geld für Werbung aus.",
+      "english": "The company spends a lot of money on advertising.",
+      "russian": "Компания тратит много денег на рекламу.",
+      "farsi": "شرکت پول زیادی برای تبلیغات خرج می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "ausziehen",
+      "Präsens": "Er zieht aus",
+      "Präteritum": "Er zog aus",
+      "Perfekt": "ist ausgezogen",
+      "englishMeaning": "to move out, to undress",
+      "englishUsage": "Refers to leaving a residence or taking off clothes.",
+      "russianMeaning": "съезжать, раздеваться",
+      "russianUsage": "Используется для обозначения съезда с жилья или снятия одежды.",
+      "farsiMeaning": "اسباب‌کشی کردن، درآوردن لباس",
+      "farsiUsage": "برای اشاره به نقل مکان از منزل یا درآوردن لباس استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich ziehe nächste Woche aus.",
+      "english": "I am moving next week.",
+      "russian": "Я уезжаю на следующей неделе.",
+      "farsi": "من هفته آینده اسباب‌کشی می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Zieh bitte deinen Mantel aus.",
+      "english": "Please take off your coat.",
+      "russian": "Пожалуйста, сними пальто.",
+      "farsi": "لطفاً پالتوی خود را در بیاور."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "behalten",
+      "Präsens": "Er behält",
+      "Präteritum": "Er behielt",
+      "Perfekt": "hat behalten",
+      "englishMeaning": "to keep",
+      "englishUsage": "Describes the act of retaining or not giving something away.",
+      "russianMeaning": "оставлять, сохранять",
+      "russianUsage": "Описывает процесс сохранения или отказа от передачи чего-либо.",
+      "farsiMeaning": "نگه داشتن",
+      "farsiUsage": "برای توصیف عمل حفظ کردن یا ندادن چیزی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich behalte dieses Buch.",
+      "english": "I am keeping this book.",
+      "russian": "Я оставлю эту книгу.",
+      "farsi": "من این کتاب را نگه می‌دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Du darfst das Spielzeug behalten.",
+      "english": "You may keep the toy.",
+      "russian": "Ты можешь оставить себе игрушку.",
+      "farsi": "می‌توانی آن اسباب‌بازی را نگه داری."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "bewerben (sich)",
+      "Präsens": "Er bewirbt sich",
+      "Präteritum": "Er bewarb sich",
+      "Perfekt": "hat sich beworben",
+      "englishMeaning": "to apply (for a job)",
+      "englishUsage": "Refers to the act of applying for a job or a position.",
+      "russianMeaning": "подавать заявление",
+      "russianUsage": "Используется для обозначения подачи заявления на работу или должность.",
+      "farsiMeaning": "درخواست دادن",
+      "farsiUsage": "برای اشاره به عمل درخواست شغل یا موقعیت استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe mich für diesen Job beworben.",
+      "english": "I applied for this job.",
+      "russian": "Я подал заявление на эту работу.",
+      "farsi": "من برای این شغل درخواست دادم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat sich an der Universität beworben.",
+      "english": "She applied to the university.",
+      "russian": "Она подала заявление в университет.",
+      "farsi": "او به دانشگاه درخواست داده است."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "bieten",
+      "Präsens": "Er bietet",
+      "Präteritum": "Er bot",
+      "Perfekt": "hat geboten",
+      "englishMeaning": "to offer",
+      "englishUsage": "Describes the act of making something available or providing an opportunity.",
+      "russianMeaning": "предлагать",
+      "russianUsage": "Описывает процесс предоставления чего-либо или возможности.",
+      "farsiMeaning": "ارائه دادن",
+      "farsiUsage": "برای توصیف عمل در دسترس قرار دادن یا فراهم کردن یک فرصت استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich biete dir einen Kaffee an.",
+      "english": "I offer you a coffee.",
+      "russian": "Я предлагаю тебе кофе.",
+      "farsi": "من به تو یک قهوه پیشنهاد می‌دهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Geschäft bietet eine große Auswahl an Schuhen an.",
+      "english": "The store offers a wide selection of shoes.",
+      "russian": "Магазин предлагает широкий ассортимент обуви.",
+      "farsi": "فروشگاه مجموعه بزرگی از کفش‌ها را ارائه می‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "bitten",
+      "Präsens": "Er bittet",
+      "Präteritum": "Er bat",
+      "Perfekt": "hat gebeten",
+      "englishMeaning": "to request, to ask for",
+      "englishUsage": "Refers to the act of politely asking for something.",
+      "russianMeaning": "просить",
+      "russianUsage": "Описывает процесс вежливого просьбы о чем-либо.",
+      "farsiMeaning": "درخواست کردن",
+      "farsiUsage": "برای توصیف عمل درخواست مودبانه چیزی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bitte dich um einen Gefallen.",
+      "english": "I ask you for a favor.",
+      "russian": "Я прошу тебя об одолжении.",
+      "farsi": "من از تو یک لطف می‌خواهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kann ich dich um einen Rat bitten?",
+      "english": "Can I ask you for advice?",
+      "russian": "Могу я попросить у тебя совета?",
+      "farsi": "آیا می‌توانم از تو مشورت بخواهم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "einnehmen",
+      "Präsens": "Er nimmt ein",
+      "Präteritum": "Er nahm ein",
+      "Perfekt": "hat eingenommen",
+      "englishMeaning": "to take, to consume",
+      "englishUsage": "Describes the act of consuming or taking something, such as food or medicine.",
+      "russianMeaning": "принимать",
+      "russianUsage": "Описывает процесс потребления чего-либо, например, еды или лекарства.",
+      "farsiMeaning": "مصرف کردن",
+      "farsiUsage": "برای توصیف عمل مصرف چیزی مانند غذا یا دارو استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich nehme jeden Tag eine Tablette ein.",
+      "english": "I take a pill every day.",
+      "russian": "Я принимаю таблетку каждый день.",
+      "farsi": "من هر روز یک قرص مصرف می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Stadt nimmt eine zentrale Lage ein.",
+      "english": "The city occupies a central location.",
+      "russian": "Город занимает центральное положение.",
+      "farsi": "این شهر موقعیت مرکزی دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "empfehlen",
+      "Präsens": "Er empfiehlt",
+      "Präteritum": "Er empfahl",
+      "Perfekt": "hat empfohlen",
+      "englishMeaning": "to recommend",
+      "englishUsage": "Refers to advising someone to do or use something.",
+      "russianMeaning": "рекомендовать",
+      "russianUsage": "Описывает процесс советования кому-либо сделать или использовать что-либо.",
+      "farsiMeaning": "توصیه کردن",
+      "farsiUsage": "برای توصیه به کسی برای انجام یا استفاده از چیزی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich kann dir dieses Buch sehr empfehlen.",
+      "english": "I can highly recommend this book to you.",
+      "russian": "Я могу очень порекомендовать тебе эту книгу.",
+      "farsi": "می‌توانم این کتاب را بسیار به تو توصیه کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Arzt empfiehlt mir, mehr Sport zu treiben.",
+      "english": "The doctor recommends that I do more exercise.",
+      "russian": "Врач рекомендует мне больше заниматься спортом.",
+      "farsi": "پزشک به من توصیه می‌کند که بیشتر ورزش کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "erkennen",
+      "Präsens": "Er erkennt",
+      "Präteritum": "Er erkannte",
+      "Perfekt": "hat erkannt",
+      "englishMeaning": "to recognize",
+      "englishUsage": "Describes the act of identifying something or someone previously known.",
+      "russianMeaning": "узнавать",
+      "russianUsage": "Описывает процесс распознавания кого-либо или чего-либо ранее известного.",
+      "farsiMeaning": "شناختن",
+      "farsiUsage": "برای توصیف عمل شناختن چیزی یا کسی که قبلاً شناخته شده استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe ihn sofort erkannt.",
+      "english": "I recognized him immediately.",
+      "russian": "Я сразу его узнал.",
+      "farsi": "من او را فوراً شناختم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man kann an seiner Stimme erkennen, dass er müde ist.",
+      "english": "You can tell by his voice that he is tired.",
+      "russian": "По его голосу можно понять, что он устал.",
+      "farsi": "می‌توان از صدایش تشخیص داد که خسته است."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "fallen",
+      "Präsens": "Er fällt",
+      "Präteritum": "Er fiel",
+      "Perfekt": "ist gefallen",
+      "englishMeaning": "to fall",
+      "englishUsage": "Describes the act of dropping or descending from a higher place.",
+      "russianMeaning": "падать",
+      "russianUsage": "Описывает процесс падения с высоты.",
+      "farsiMeaning": "افتادن",
+      "farsiUsage": "برای توصیف عمل سقوط یا پایین آمدن از مکانی بالاتر استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin gestern vom Fahrrad gefallen.",
+      "english": "I fell off my bike yesterday.",
+      "russian": "Я вчера упал с велосипеда.",
+      "farsi": "من دیروز از دوچرخه افتادم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Blätter fallen im Herbst von den Bäumen.",
+      "english": "The leaves fall from the trees in autumn.",
+      "russian": "Листья падают с деревьев осенью.",
+      "farsi": "برگ‌ها در پاییز از درختان می‌ریزند."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "genießen",
+      "Präsens": "Er genießt",
+      "Präteritum": "Er genoss",
+      "Perfekt": "hat genossen",
+      "englishMeaning": "to enjoy",
+      "englishUsage": "Refers to the act of taking pleasure in something.",
+      "russianMeaning": "наслаждаться",
+      "russianUsage": "Описывает процесс получения удовольствия от чего-либо.",
+      "farsiMeaning": "لذت بردن",
+      "farsiUsage": "برای توصیف عمل لذت بردن از چیزی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich genieße die Sonne.",
+      "english": "I enjoy the sun.",
+      "russian": "Я наслаждаюсь солнцем.",
+      "farsi": "من از آفتاب لذت می‌برم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben das Essen sehr genossen.",
+      "english": "We really enjoyed the meal.",
+      "russian": "Мы очень насладились едой.",
+      "farsi": "ما خیلی از غذا لذت بردیم."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "hängen",
+      "Präsens": "Er hängt",
+      "Präteritum": "Er hing",
+      "Perfekt": "hat gehangen",
+      "englishMeaning": "to hang",
+      "englishUsage": "Describes the act of suspending something from above.",
+      "russianMeaning": "висеть",
+      "russianUsage": "Описывает процесс подвешивания чего-либо сверху.",
+      "farsiMeaning": "آویزان کردن",
+      "farsiUsage": "برای توصیف عمل آویزان کردن چیزی از بالا استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein Mantel hängt im Schrank.",
+      "english": "My coat is hanging in the closet.",
+      "russian": "Моё пальто висит в шкафу.",
+      "farsi": "پالتوی من در کمد آویزان است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Bild hängt schief an der Wand.",
+      "english": "The picture is hanging crooked on the wall.",
+      "russian": "Картина висит криво на стене.",
+      "farsi": "تصویر کج روی دیوار آویزان است."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "herausfinden",
+      "Präsens": "Er findet heraus",
+      "Präteritum": "Er fand heraus",
+      "Perfekt": "hat herausgefunden",
+      "englishMeaning": "to find out, to discover",
+      "englishUsage": "Refers to learning or discovering information previously unknown.",
+      "russianMeaning": "выяснять, обнаруживать",
+      "russianUsage": "Описывает процесс получения или обнаружения ранее неизвестной информации.",
+      "farsiMeaning": "کشف کردن، فهمیدن",
+      "farsiUsage": "برای اشاره به کشف یا فهمیدن اطلاعاتی که قبلاً ناشناخته بوده استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich muss noch herausfinden, wie der Computer funktioniert.",
+      "english": "I still need to figure out how the computer works.",
+      "russian": "Мне нужно выяснить, как работает компьютер.",
+      "farsi": "من هنوز باید بفهمم که کامپیوتر چگونه کار می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben herausgefunden, wer das Fenster eingeschlagen hat.",
+      "english": "We found out who broke the window.",
+      "russian": "Мы выяснили, кто разбил окно.",
+      "farsi": "ما فهمیدیم که چه کسی پنجره را شکسته است."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "hinterlassen",
+      "Präsens": "Er hinterlässt",
+      "Präteritum": "Er hinterließ",
+      "Perfekt": "hat hinterlassen",
+      "englishMeaning": "to leave behind",
+      "englishUsage": "Refers to the act of leaving something after going or departing.",
+      "russianMeaning": "оставлять после себя",
+      "russianUsage": "Описывает процесс оставления чего-либо после отъезда или ухода.",
+      "farsiMeaning": "به جا گذاشتن",
+      "farsiUsage": "برای اشاره به عمل ترک کردن چیزی بعد از رفتن استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Meine Großmutter hat mir ein Haus hinterlassen.",
+      "english": "My grandmother left me a house.",
+      "russian": "Моя бабушка оставила мне дом.",
+      "farsi": "مادربزرگم یک خانه برای من به جا گذاشت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat einen Brief für dich hinterlassen.",
+      "english": "He left a letter for you.",
+      "russian": "Он оставил для тебя письмо.",
+      "farsi": "او برای تو یک نامه به جا گذاشته است."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "lassen",
+      "Präsens": "Er lässt",
+      "Präteritum": "Er ließ",
+      "Perfekt": "hat gelassen",
+      "englishMeaning": "to let, to allow, to leave",
+      "englishUsage": "Refers to allowing something to happen or leaving something as it is.",
+      "russianMeaning": "позволять, оставлять",
+      "russianUsage": "Означает позволять чему-либо произойти или оставлять что-либо как есть.",
+      "farsiMeaning": "اجازه دادن، رها کردن",
+      "farsiUsage": "برای اجازه دادن به رخداد چیزی یا به حال خود رها کردن چیزی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich lasse meinen Hund jeden Tag aus.",
+      "english": "I let my dog out every day.",
+      "russian": "Я выгуливаю свою собаку каждый день.",
+      "farsi": "من هر روز سگم را بیرون می‌برم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Lass uns das Thema wechseln.",
+      "english": "Let's change the subject.",
+      "russian": "Давай сменим тему.",
+      "farsi": "بیا موضوع را عوض کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "rennen",
+      "Präsens": "Er rennt",
+      "Präteritum": "Er rannte",
+      "Perfekt": "ist gerannt",
+      "englishMeaning": "to run",
+      "englishUsage": "Describes the act of moving swiftly on foot.",
+      "russianMeaning": "бегать",
+      "russianUsage": "Описывает процесс быстрого передвижения пешком.",
+      "farsiMeaning": "دویدن",
+      "farsiUsage": "برای توصیف حرکت سریع با پاها استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Kinder rennen im Garten herum.",
+      "english": "The children are running around in the garden.",
+      "russian": "Дети бегают по саду.",
+      "farsi": "بچه‌ها در باغ می‌دوند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich muss zum Zug rennen, ich komme zu spät.",
+      "english": "I have to run to the train, I'm late.",
+      "russian": "Мне нужно бежать на поезд, я опаздываю.",
+      "farsi": "باید به سمت قطار بدوم، دیرم شده است."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "schließen",
+      "Präsens": "Er schließt",
+      "Präteritum": "Er schloss",
+      "Perfekt": "hat geschlossen",
+      "englishMeaning": "to close, to shut",
+      "englishUsage": "Refers to the act of closing something, such as a door or a book.",
+      "russianMeaning": "закрывать",
+      "russianUsage": "Означает закрывать что-либо, например, дверь или книгу.",
+      "farsiMeaning": "بستن",
+      "farsiUsage": "برای اشاره به بستن چیزی مثل در یا کتاب استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bitte schließt die Tür.",
+      "english": "Please close the door.",
+      "russian": "Пожалуйста, закройте дверь.",
+      "farsi": "لطفاً در را ببندید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Geschäft schließt um 18 Uhr.",
+      "english": "The shop closes at 6 p.m.",
+      "russian": "Магазин закрывается в 18:00.",
+      "farsi": "فروشگاه ساعت ۶ عصر بسته می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "streichen (sich)",
+      "Präsens": "Er streicht sich",
+      "Präteritum": "Er strich sich",
+      "Perfekt": "hat sich gestrichen",
+      "englishMeaning": "to cancel, to paint, to stroke (oneself)",
+      "englishUsage": "Describes the act of canceling something, painting a surface, or stroking oneself.",
+      "russianMeaning": "отменять, красить, гладить себя",
+      "russianUsage": "Описывает действия отмены, покраски или поглаживания себя.",
+      "farsiMeaning": "لغو کردن، رنگ کردن، نوازش کردن خود",
+      "farsiUsage": "برای اشاره به عمل لغو کردن، رنگ آمیزی یا نوازش خود استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich streiche mir jeden Morgen die Haare.",
+      "english": "I brush my hair every morning.",
+      "russian": "Я причёсываю волосы каждое утро.",
+      "farsi": "هر صبح موهایم را شانه می‌زنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat sich die Haare kurz geschnitten.",
+      "english": "He cut his hair short.",
+      "russian": "Он подстриг волосы коротко.",
+      "farsi": "او موهایش را کوتاه کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "teilnehmen (an)",
+      "Präsens": "Er nimmt teil",
+      "Präteritum": "Er nahm teil",
+      "Perfekt": "hat teilgenommen",
+      "englishMeaning": "to participate (in)",
+      "englishUsage": "Refers to taking part in an activity or event.",
+      "russianMeaning": "участвовать (в)",
+      "russianUsage": "Означает участие в каком-либо мероприятии или событии.",
+      "farsiMeaning": "شرکت کردن در",
+      "farsiUsage": "برای اشاره به شرکت در یک فعالیت یا رویداد استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich nehme an dem Kurs teil.",
+      "english": "I am taking part in the course.",
+      "russian": "Я участвую в курсе.",
+      "farsi": "من در این دوره شرکت می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir nehmen am Fest teil.",
+      "english": "We are taking part in the festival.",
+      "russian": "Мы принимаем участие в фестивале.",
+      "farsi": "ما در جشنواره شرکت می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "tun",
+      "Präsens": "Er tut",
+      "Präteritum": "Er tat",
+      "Perfekt": "hat getan",
+      "englishMeaning": "to do",
+      "englishUsage": "Describes the act of performing an action or task.",
+      "russianMeaning": "делать",
+      "russianUsage": "Означает выполнение какого-либо действия или задания.",
+      "farsiMeaning": "انجام دادن",
+      "farsiUsage": "برای توصیف عمل انجام دادن کاری یا وظیفه‌ای استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was tust du heute Abend?",
+      "english": "What are you doing tonight?",
+      "russian": "Что ты делаешь сегодня вечером?",
+      "farsi": "امشب چه کار می‌کنی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Tut mir leid, ich kann das nicht tun.",
+      "english": "I'm sorry, I can't do that.",
+      "russian": "Извини, я не могу это сделать.",
+      "farsi": "متاسفم، نمی‌توانم این کار را انجام دهم."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "unterhalten (sich)",
+      "Präsens": "Er unterhält sich",
+      "Präteritum": "Er unterhielt sich",
+      "Perfekt": "hat sich unterhalten",
+      "englishMeaning": "to talk, to converse",
+      "englishUsage": "Refers to engaging in conversation with someone.",
+      "russianMeaning": "разговаривать",
+      "russianUsage": "Означает вступление в разговор с кем-либо.",
+      "farsiMeaning": "گفتگو کردن",
+      "farsiUsage": "برای اشاره به صحبت کردن با کسی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben uns lange über alte Zeiten unterhalten.",
+      "english": "We talked for a long time about the old days.",
+      "russian": "Мы долго говорили о старых временах.",
+      "farsi": "ما مدت زیادی در مورد روزهای قدیم صحبت کردیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie unterhält sich gerne mit ihren Freunden.",
+      "english": "She enjoys chatting with her friends.",
+      "russian": "Ей нравится общаться со своими друзьями.",
+      "farsi": "او دوست دارد با دوستانش گپ بزند."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "unternehmen",
+      "Präsens": "Er unternimmt",
+      "Präteritum": "Er unternahm",
+      "Perfekt": "hat unternommen",
+      "englishMeaning": "to undertake, to do",
+      "englishUsage": "Describes the act of engaging in an activity or project.",
+      "russianMeaning": "предпринимать",
+      "russianUsage": "Описывает процесс участия в деятельности или проекте.",
+      "farsiMeaning": "اقدام کردن",
+      "farsiUsage": "برای توصیف شرکت در فعالیت یا پروژه‌ای استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Am Wochenende unternehmen wir etwas.",
+      "english": "We are doing something over the weekend.",
+      "russian": "Мы что-то предпримем на выходных.",
+      "farsi": "آخر هفته کاری انجام می‌دهیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat eine Reise nach Italien unternommen.",
+      "english": "She took a trip to Italy.",
+      "russian": "Она совершила поездку в Италию.",
+      "farsi": "او سفری به ایتالیا انجام داد."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "verbringen",
+      "Präsens": "Er verbringt",
+      "Präteritum": "Er verbrachte",
+      "Perfekt": "hat verbracht",
+      "englishMeaning": "to spend (time)",
+      "englishUsage": "Refers to the act of passing or using time in a certain way.",
+      "russianMeaning": "проводить (время)",
+      "russianUsage": "Означает проведение или использование времени определённым образом.",
+      "farsiMeaning": "سپری کردن",
+      "farsiUsage": "برای اشاره به گذراندن یا استفاده از زمان به شکل خاصی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich verbringe meine Freizeit gerne mit Lesen.",
+      "english": "I enjoy spending my free time reading.",
+      "russian": "Я люблю проводить свободное время за чтением.",
+      "farsi": "من دوست دارم اوقات فراغت خود را با خواندن کتاب سپری کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben die Ferien am Meer verbracht.",
+      "english": "We spent the holidays at the sea.",
+      "russian": "Мы провели каникулы на море.",
+      "farsi": "ما تعطیلات را در کنار دریا گذراندیم."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "vergleichen",
+      "Präsens": "Er vergleicht",
+      "Präteritum": "Er verglich",
+      "Perfekt": "hat verglichen",
+      "englishMeaning": "to compare",
+      "englishUsage": "Describes the act of examining two or more things to identify similarities or differences.",
+      "russianMeaning": "сравнивать",
+      "russianUsage": "Описывает процесс сопоставления двух или более вещей для выявления сходств или различий.",
+      "farsiMeaning": "مقایسه کردن",
+      "farsiUsage": "برای توصیف عمل بررسی دو یا چند چیز برای شناسایی شباهت‌ها یا تفاوت‌ها استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kannst du diese beiden Bilder vergleichen?",
+      "english": "Can you compare these two pictures?",
+      "russian": "Можешь сравнить эти две картины?",
+      "farsi": "می‌توانی این دو تصویر را مقایسه کنی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man kann ihn nicht mit seinem Bruder vergleichen.",
+      "english": "You can't compare him with his brother.",
+      "russian": "Его нельзя сравнивать с его братом.",
+      "farsi": "نمی‌توان او را با برادرش مقایسه کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "verlassen",
+      "Präsens": "Er verlässt",
+      "Präteritum": "Er verließ",
+      "Perfekt": "hat verlassen",
+      "englishMeaning": "to leave",
+      "englishUsage": "Refers to the act of departing from a place or person.",
+      "russianMeaning": "покидать",
+      "russianUsage": "Означает процесс ухода откуда-либо или от кого-либо.",
+      "farsiMeaning": "ترک کردن",
+      "farsiUsage": "برای توصیف عمل ترک کردن یک مکان یا شخص استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich verlasse das Haus um 7 Uhr morgens.",
+      "english": "I leave the house at 7 a.m.",
+      "russian": "Я выхожу из дома в 7 утра.",
+      "farsi": "من ساعت ۷ صبح خانه را ترک می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat seine Freunde im Stich gelassen.",
+      "english": "He let his friends down.",
+      "russian": "Он подвёл своих друзей.",
+      "farsi": "او دوستانش را ناامید کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "verlassen (sich)",
+      "Präsens": "Er verlässt sich",
+      "Präteritum": "Er verließ sich",
+      "Perfekt": "hat sich verlassen",
+      "englishMeaning": "to rely on, to depend on",
+      "englishUsage": "Refers to placing trust in someone or something.",
+      "russianMeaning": "полагаться",
+      "russianUsage": "Означает доверие кому-либо или чему-либо.",
+      "farsiMeaning": "اعتماد کردن به",
+      "farsiUsage": "برای اشاره به اعتماد کردن به کسی یا چیزی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich verlasse mich auf dich.",
+      "english": "I rely on you.",
+      "russian": "Я полагаюсь на тебя.",
+      "farsi": "من روی تو حساب می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Du kannst dich auf ihn verlassen.",
+      "english": "You can rely on him.",
+      "russian": "Ты можешь на него положиться.",
+      "farsi": "می‌توانی روی او حساب کنی."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "verlieren",
+      "Präsens": "Er verliert",
+      "Präteritum": "Er verlor",
+      "Perfekt": "hat verloren",
+      "englishMeaning": "to lose",
+      "englishUsage": "Describes the act of no longer having something or failing to win.",
+      "russianMeaning": "терять",
+      "russianUsage": "Означает утрату чего-либо или неудачу в соревновании.",
+      "farsiMeaning": "گم کردن، باختن",
+      "farsiUsage": "برای توصیف از دست دادن چیزی یا شکست در مسابقه استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe meinen Schlüssel verloren.",
+      "english": "I lost my key.",
+      "russian": "Я потерял свой ключ.",
+      "farsi": "کلیدم را گم کرده‌ام."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir dürfen dieses Spiel nicht verlieren.",
+      "english": "We must not lose this game.",
+      "russian": "Мы не должны проиграть эту игру.",
+      "farsi": "نباید این بازی را ببازیم."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "vermeiden",
+      "Präsens": "Er vermeidet",
+      "Präteritum": "Er vermied",
+      "Perfekt": "hat vermieden",
+      "englishMeaning": "to avoid",
+      "englishUsage": "Refers to staying away from or preventing something from happening.",
+      "russianMeaning": "избегать",
+      "russianUsage": "Означает уклонение от чего-либо или предотвращение его.",
+      "farsiMeaning": "اجتناب کردن",
+      "farsiUsage": "برای اشاره به دوری از چیزی یا جلوگیری از وقوع آن استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich versuche, Stress zu vermeiden.",
+      "english": "I try to avoid stress.",
+      "russian": "Я стараюсь избегать стресса.",
+      "farsi": "سعی می‌کنم از استرس دوری کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Du solltest diesen Fehler vermeiden.",
+      "english": "You should avoid this mistake.",
+      "russian": "Тебе следует избегать этой ошибки.",
+      "farsi": "باید از این اشتباه اجتناب کنی."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "verschieben",
+      "Präsens": "Er verschiebt",
+      "Präteritum": "Er verschob",
+      "Perfekt": "hat verschoben",
+      "englishMeaning": "to postpone, to move",
+      "englishUsage": "Describes the act of delaying something or physically moving it.",
+      "russianMeaning": "переносить, перемещать",
+      "russianUsage": "Означает отсрочку или перемещение чего-либо.",
+      "farsiMeaning": "به تأخیر انداختن، جابجا کردن",
+      "farsiUsage": "برای توصیف به تأخیر انداختن یا جابجا کردن چیزی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir müssen das Meeting verschieben.",
+      "english": "We need to reschedule the meeting.",
+      "russian": "Нам нужно перенести встречу.",
+      "farsi": "باید جلسه را به تعویق بیندازیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Flug wurde verschoben.",
+      "english": "The flight was delayed.",
+      "russian": "Рейс был отложен.",
+      "farsi": "پرواز به تأخیر افتاد."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "verschreiben",
+      "Präsens": "Er verschreibt",
+      "Präteritum": "Er verschrieb",
+      "Perfekt": "hat verschrieben",
+      "englishMeaning": "to prescribe",
+      "englishUsage": "Refers to a doctor giving a written recommendation for a treatment or medication.",
+      "russianMeaning": "прописывать",
+      "russianUsage": "Означает выдачу врачом письменной рекомендации на лечение или лекарство.",
+      "farsiMeaning": "نسخه نوشتن",
+      "farsiUsage": "برای اشاره به تجویز دارو یا درمان توسط پزشک استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Arzt hat mir ein Medikament verschrieben.",
+      "english": "The doctor prescribed me a medication.",
+      "russian": "Врач выписал мне лекарство.",
+      "farsi": "دکتر برایم دارو تجویز کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe mich verschrieben.",
+      "english": "I made a writing mistake.",
+      "russian": "Я допустил ошибку при письме.",
+      "farsi": "اشتباه نوشتم."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "vorbeikommen",
+      "Präsens": "Er kommt vorbei",
+      "Präteritum": "Er kam vorbei",
+      "Perfekt": "ist vorbeigekommen",
+      "englishMeaning": "to drop by, to come by",
+      "englishUsage": "Refers to visiting someone or a place briefly.",
+      "russianMeaning": "зайти, заглянуть",
+      "russianUsage": "Означает краткий визит к кому-либо или куда-либо.",
+      "farsiMeaning": "سری زدن",
+      "farsiUsage": "برای اشاره به دیدار کوتاه از کسی یا مکانی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kannst du später vorbeikommen?",
+      "english": "Can you come by later?",
+      "russian": "Ты можешь зайти позже?",
+      "farsi": "می‌توانی بعداً سری بزنی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich komme kurz bei dir vorbei.",
+      "english": "I will stop by briefly.",
+      "russian": "Я ненадолго зайду к тебе.",
+      "farsi": "یک لحظه بهت سر می‌زنم."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "vorlesen",
+      "Präsens": "Er liest vor",
+      "Präteritum": "Er las vor",
+      "Perfekt": "hat vorgelesen",
+      "englishMeaning": "to read aloud",
+      "englishUsage": "Describes the act of reading something out loud to others.",
+      "russianMeaning": "читать вслух",
+      "russianUsage": "Означает чтение чего-либо вслух для других.",
+      "farsiMeaning": "با صدای بلند خواندن",
+      "farsiUsage": "برای توصیف عمل بلند خواندن برای دیگران استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Meine Mutter hat mir als Kind oft vorgelesen.",
+      "english": "My mother often read to me as a child.",
+      "russian": "Моя мать часто читала мне в детстве.",
+      "farsi": "مادرم در کودکی اغلب برایم کتاب می‌خواند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich lese dir jetzt etwas vor.",
+      "english": "I will read something to you now.",
+      "russian": "Я сейчас что-то тебе прочитаю.",
+      "farsi": "الان چیزی برایت می‌خوانم."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "vorschlagen",
+      "Präsens": "Er schlägt vor",
+      "Präteritum": "Er schlug vor",
+      "Perfekt": "hat vorgeschlagen",
+      "englishMeaning": "to suggest, to propose",
+      "englishUsage": "Refers to giving a recommendation or idea for consideration.",
+      "russianMeaning": "предлагать",
+      "russianUsage": "Означает представление предложения или идеи для рассмотрения.",
+      "farsiMeaning": "پیشنهاد دادن",
+      "farsiUsage": "برای پیشنهاد دادن یا ارائه یک ایده به دیگران استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich schlage vor, ins Kino zu gehen.",
+      "english": "I suggest going to the cinema.",
+      "russian": "Я предлагаю пойти в кино.",
+      "farsi": "پیشنهاد می‌کنم به سینما برویم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat einen guten Vorschlag gemacht.",
+      "english": "She made a good suggestion.",
+      "russian": "Она сделала хорошее предложение.",
+      "farsi": "او پیشنهاد خوبی داد."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "werden",
+      "Präsens": "Er wird",
+      "Präteritum": "Er wurde",
+      "Perfekt": "ist geworden",
+      "englishMeaning": "to become",
+      "englishUsage": "Refers to changing into something or someone new.",
+      "russianMeaning": "становиться",
+      "russianUsage": "Означает процесс превращения во что-то новое.",
+      "farsiMeaning": "شدن",
+      "farsiUsage": "برای اشاره به تغییر به چیزی جدید یا متفاوت استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich werde Arzt.",
+      "english": "I will become a doctor.",
+      "russian": "Я стану врачом.",
+      "farsi": "من دکتر می‌شوم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es wird kalt draußen.",
+      "english": "It's getting cold outside.",
+      "russian": "На улице становится холодно.",
+      "farsi": "بیرون سرد می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "zunehmen",
+      "Präsens": "Er nimmt zu",
+      "Präteritum": "Er nahm zu",
+      "Perfekt": "hat zugenommen",
+      "englishMeaning": "to gain weight, to increase",
+      "englishUsage": "Refers to either gaining weight or something increasing in size or quantity.",
+      "russianMeaning": "набирать вес, увеличиваться",
+      "russianUsage": "Означает набор веса или увеличение чего-либо в размере или количестве.",
+      "farsiMeaning": "اضافه وزن پیدا کردن، افزایش یافتن",
+      "farsiUsage": "برای اشاره به افزایش وزن یا بیشتر شدن چیزی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe in letzter Zeit zugenommen.",
+      "english": "I have gained weight recently.",
+      "russian": "Я недавно набрал вес.",
+      "farsi": "اخیراً وزن اضافه کرده‌ام."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Temperaturen nehmen langsam zu.",
+      "english": "The temperatures are slowly increasing.",
+      "russian": "Температуры постепенно повышаются.",
+      "farsi": "دماها به آرامی در حال افزایش هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "zurückbekommen",
+      "Präsens": "Er bekommt zurück",
+      "Präteritum": "Er bekam zurück",
+      "Perfekt": "hat zurückbekommen",
+      "englishMeaning": "to get back",
+      "englishUsage": "Describes receiving something that was previously given away or lost.",
+      "russianMeaning": "получить обратно",
+      "russianUsage": "Означает получение чего-либо, что было ранее отдано или потеряно.",
+      "farsiMeaning": "پس گرفتن",
+      "farsiUsage": "برای اشاره به بازپس‌گیری چیزی که قبلاً داده یا گم شده استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe mein Buch endlich zurückbekommen.",
+      "english": "I finally got my book back.",
+      "russian": "Я наконец-то получил свою книгу обратно.",
+      "farsi": "بالاخره کتابم را پس گرفتم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wann bekomme ich mein Geld zurück?",
+      "english": "When will I get my money back?",
+      "russian": "Когда я получу свои деньги обратно?",
+      "farsi": "کی پولم را پس می‌گیرم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "zurückbringen",
+      "Präsens": "Er bringt zurück",
+      "Präteritum": "Er brachte zurück",
+      "Perfekt": "hat zurückgebracht",
+      "englishMeaning": "to bring back",
+      "englishUsage": "Refers to the act of returning something to its original place or owner.",
+      "russianMeaning": "возвращать",
+      "russianUsage": "Означает возвращение чего-либо на его первоначальное место или владельцу.",
+      "farsiMeaning": "بازگرداندن",
+      "farsiUsage": "برای اشاره به بازگرداندن چیزی به مکان یا صاحب اصلی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kannst du mir das Buch morgen zurückbringen?",
+      "english": "Can you bring me the book back tomorrow?",
+      "russian": "Ты можешь вернуть мне книгу завтра?",
+      "farsi": "می‌توانی کتاب را فردا برایم برگردانی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bitte bring die Gläser zurück in die Küche.",
+      "english": "Please bring the glasses back to the kitchen.",
+      "russian": "Пожалуйста, верни стаканы обратно на кухню.",
+      "farsi": "لطفاً لیوان‌ها را به آشپزخانه برگردان."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "zurückrufen",
+      "Präsens": "Er ruft zurück",
+      "Präteritum": "Er rief zurück",
+      "Perfekt": "hat zurückgerufen",
+      "englishMeaning": "to call back",
+      "englishUsage": "Describes returning a phone call to someone who previously called.",
+      "russianMeaning": "перезвонить",
+      "russianUsage": "Означает звонок в ответ на чей-то предыдущий звонок.",
+      "farsiMeaning": "تماس دوباره گرفتن",
+      "farsiUsage": "برای توصیف تماس دوباره با کسی که قبلاً تماس گرفته، استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich rufe dich später zurück.",
+      "english": "I'll call you back later.",
+      "russian": "Я перезвоню тебе позже.",
+      "farsi": "بعداً باهات تماس می‌گیرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat mich noch nicht zurückgerufen.",
+      "english": "He hasn't called me back yet.",
+      "russian": "Он еще не перезвонил мне.",
+      "farsi": "او هنوز به من زنگ نزده."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "zusammenhalten",
+      "Präsens": "Er hält zusammen",
+      "Präteritum": "Er hielt zusammen",
+      "Perfekt": "hat zusammengehalten",
+      "englishMeaning": "to stick together, to hold together",
+      "englishUsage": "Refers to people or things staying united or holding together.",
+      "russianMeaning": "держаться вместе, объединяться",
+      "russianUsage": "Означает сохранение единства между людьми или вещами.",
+      "farsiMeaning": "کنار هم ماندن، متحد بودن",
+      "farsiUsage": "برای اشاره به اتحاد یا کنار هم ماندن افراد یا چیزها استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir müssen zusammenhalten, um dieses Problem zu lösen.",
+      "english": "We need to stick together to solve this problem.",
+      "russian": "Нам нужно держаться вместе, чтобы решить эту проблему.",
+      "farsi": "باید با هم همکاری کنیم تا این مشکل را حل کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Familie hält zusammen.",
+      "english": "The family sticks together.",
+      "russian": "Семья держится вместе.",
+      "farsi": "خانواده با هم متحد هستند."
+    }
+  ]
+}
