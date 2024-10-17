@@ -36,12 +36,24 @@ const noSentenceSelected = {
 
 const alllessons = [
   {
+    file_name: 'quiz_1.json',
+    name: 'Quiz_1',
+  },
+  {
     file_name: 'a1_unregelmäßige_verben.json',
     name: 'A1_Unregelmäßige_Verben',
   },
   {
+    file_name: 'a1_unregelmäßige_verben_sentence.json',
+    name: 'A1_Unregelmäßige_Verben_Sentence',
+  },
+  {
     file_name: 'a1_regelmäßige_verben.json',
     name: 'A1_Regelmäßige_Verben',
+  },
+  {
+    file_name: 'a1_regelmäßige_verben_sentence.json',
+    name: 'A1_Regelmäßige_Verben_Sentence',
   },
   {
     file_name: 'a2_unregelmäßige_verben.json',

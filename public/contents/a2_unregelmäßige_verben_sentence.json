@@ -1,0 +1,729 @@
+{
+  "info": {
+    "name": "A2_Unregelmäßige_Verben_Sentence",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe heute Geld am Automaten abgehoben.",
+      "english": "I withdrew money from the ATM today.",
+      "russian": "Сегодня я снял деньги в банкомате.",
+      "farsi": "امروز از دستگاه خودپرداز پول برداشت کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Flugzeug hob um 10 Uhr ab.",
+      "english": "The plane took off at 10 o'clock.",
+      "russian": "Самолет взлетел в 10 часов.",
+      "farsi": "هواپیما ساعت ۱۰ پرواز کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich muss abnehmen, ich habe zu viel zugenommen.",
+      "english": "I need to lose weight; I have gained too much.",
+      "russian": "Мне нужно похудеть, я слишком много набрал.",
+      "farsi": "باید وزن کم کنم، خیلی اضافه‌وزن پیدا کرده‌ام."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kannst du mir bitte das Buch abnehmen?",
+      "english": "Can you please take the book from me?",
+      "russian": "Можешь, пожалуйста, взять у меня книгу?",
+      "farsi": "می‌توانی لطفاً کتاب را از من بگیری؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe gerade die Tür abgeschlossen.",
+      "english": "I just locked the door.",
+      "russian": "Я только что запер дверь.",
+      "farsi": "من همین الان در را قفل کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat sein Studium erfolgreich abgeschlossen.",
+      "english": "He successfully completed his studies.",
+      "russian": "Он успешно завершил учебу.",
+      "farsi": "او با موفقیت تحصیلات خود را به پایان رساند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich biete dir eine Tasse Kaffee an.",
+      "english": "I offer you a cup of coffee.",
+      "russian": "Я предлагаю тебе чашку кофе.",
+      "farsi": "یک فنجان قهوه به تو پیشنهاد می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Geschäft bietet eine große Auswahl an Produkten an.",
+      "english": "The store offers a wide range of products.",
+      "russian": "Магазин предлагает широкий ассортимент товаров.",
+      "farsi": "فروشگاه طیف گسترده‌ای از محصولات را ارائه می‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es hängt vom Wetter ab, ob wir heute ins Schwimmbad gehen.",
+      "english": "It depends on the weather whether we go to the swimming pool today.",
+      "russian": "Это зависит от погоды, пойдем ли мы сегодня в бассейн.",
+      "farsi": "بستگی به آب‌وهوا دارد که امروز به استخر برویم یا نه."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein Erfolg hängt von deiner Hilfe ab.",
+      "english": "My success depends on your help.",
+      "russian": "Мой успех зависит от твоей помощи.",
+      "farsi": "موفقیت من به کمک تو بستگی دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er gibt immer an, wie reich er ist.",
+      "english": "He always shows off how rich he is.",
+      "russian": "Он всегда хвастается, какой он богатый.",
+      "farsi": "او همیشه به رخ می‌کشد که چقدر ثروتمند است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bitte gib deine Adresse an.",
+      "english": "Please provide your address.",
+      "russian": "Пожалуйста, укажи свой адрес.",
+      "farsi": "لطفاً آدرس خود را ارائه دهید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe gestern zu viel Geld ausgegeben.",
+      "english": "I spent too much money yesterday.",
+      "russian": "Вчера я потратил слишком много денег.",
+      "farsi": "دیروز خیلی پول خرج کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Firma gibt viel Geld für Werbung aus.",
+      "english": "The company spends a lot of money on advertising.",
+      "russian": "Компания тратит много денег на рекламу.",
+      "farsi": "شرکت پول زیادی برای تبلیغات خرج می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich ziehe nächste Woche aus.",
+      "english": "I am moving next week.",
+      "russian": "Я уезжаю на следующей неделе.",
+      "farsi": "من هفته آینده اسباب‌کشی می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Zieh bitte deinen Mantel aus.",
+      "english": "Please take off your coat.",
+      "russian": "Пожалуйста, сними пальто.",
+      "farsi": "لطفاً پالتوی خود را در بیاور."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich behalte dieses Buch.",
+      "english": "I am keeping this book.",
+      "russian": "Я оставлю эту книгу.",
+      "farsi": "من این کتاب را نگه می‌دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Du darfst das Spielzeug behalten.",
+      "english": "You may keep the toy.",
+      "russian": "Ты можешь оставить себе игрушку.",
+      "farsi": "می‌توانی آن اسباب‌بازی را نگه داری."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe mich für diesen Job beworben.",
+      "english": "I applied for this job.",
+      "russian": "Я подал заявление на эту работу.",
+      "farsi": "من برای این شغل درخواست دادم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat sich an der Universität beworben.",
+      "english": "She applied to the university.",
+      "russian": "Она подала заявление в университет.",
+      "farsi": "او به دانشگاه درخواست داده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich biete dir einen Kaffee an.",
+      "english": "I offer you a coffee.",
+      "russian": "Я предлагаю тебе кофе.",
+      "farsi": "من به تو یک قهوه پیشنهاد می‌دهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Geschäft bietet eine große Auswahl an Schuhen an.",
+      "english": "The store offers a wide selection of shoes.",
+      "russian": "Магазин предлагает широкий ассортимент обуви.",
+      "farsi": "فروشگاه مجموعه بزرگی از کفش‌ها را ارائه می‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bitte dich um einen Gefallen.",
+      "english": "I ask you for a favor.",
+      "russian": "Я прошу тебя об одолжении.",
+      "farsi": "من از تو یک لطف می‌خواهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kann ich dich um einen Rat bitten?",
+      "english": "Can I ask you for advice?",
+      "russian": "Могу я попросить у тебя совета?",
+      "farsi": "آیا می‌توانم از تو مشورت بخواهم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich nehme jeden Tag eine Tablette ein.",
+      "english": "I take a pill every day.",
+      "russian": "Я принимаю таблетку каждый день.",
+      "farsi": "من هر روز یک قرص مصرف می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Stadt nimmt eine zentrale Lage ein.",
+      "english": "The city occupies a central location.",
+      "russian": "Город занимает центральное положение.",
+      "farsi": "این شهر موقعیت مرکزی دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich kann dir dieses Buch sehr empfehlen.",
+      "english": "I can highly recommend this book to you.",
+      "russian": "Я могу очень порекомендовать тебе эту книгу.",
+      "farsi": "می‌توانم این کتاب را بسیار به تو توصیه کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Arzt empfiehlt mir, mehr Sport zu treiben.",
+      "english": "The doctor recommends that I do more exercise.",
+      "russian": "Врач рекомендует мне больше заниматься спортом.",
+      "farsi": "پزشک به من توصیه می‌کند که بیشتر ورزش کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe ihn sofort erkannt.",
+      "english": "I recognized him immediately.",
+      "russian": "Я сразу его узнал.",
+      "farsi": "من او را فوراً شناختم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man kann an seiner Stimme erkennen, dass er müde ist.",
+      "english": "You can tell by his voice that he is tired.",
+      "russian": "По его голосу можно понять, что он устал.",
+      "farsi": "می‌توان از صدایش تشخیص داد که خسته است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin gestern vom Fahrrad gefallen.",
+      "english": "I fell off my bike yesterday.",
+      "russian": "Я вчера упал с велосипеда.",
+      "farsi": "من دیروز از دوچرخه افتادم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Blätter fallen im Herbst von den Bäumen.",
+      "english": "The leaves fall from the trees in autumn.",
+      "russian": "Листья падают с деревьев осенью.",
+      "farsi": "برگ‌ها در پاییز از درختان می‌ریزند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich genieße die Sonne.",
+      "english": "I enjoy the sun.",
+      "russian": "Я наслаждаюсь солнцем.",
+      "farsi": "من از آفتاب لذت می‌برم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben das Essen sehr genossen.",
+      "english": "We really enjoyed the meal.",
+      "russian": "Мы очень насладились едой.",
+      "farsi": "ما خیلی از غذا لذت بردیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein Mantel hängt im Schrank.",
+      "english": "My coat is hanging in the closet.",
+      "russian": "Моё пальто висит в шкафу.",
+      "farsi": "پالتوی من در کمد آویزان است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Bild hängt schief an der Wand.",
+      "english": "The picture is hanging crooked on the wall.",
+      "russian": "Картина висит криво на стене.",
+      "farsi": "تصویر کج روی دیوار آویزان است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich muss noch herausfinden, wie der Computer funktioniert.",
+      "english": "I still need to figure out how the computer works.",
+      "russian": "Мне нужно выяснить, как работает компьютер.",
+      "farsi": "من هنوز باید بفهمم که کامپیوتر چگونه کار می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben herausgefunden, wer das Fenster eingeschlagen hat.",
+      "english": "We found out who broke the window.",
+      "russian": "Мы выяснили, кто разбил окно.",
+      "farsi": "ما فهمیدیم که چه کسی پنجره را شکسته است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Meine Großmutter hat mir ein Haus hinterlassen.",
+      "english": "My grandmother left me a house.",
+      "russian": "Моя бабушка оставила мне дом.",
+      "farsi": "مادربزرگم یک خانه برای من به جا گذاشت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat einen Brief für dich hinterlassen.",
+      "english": "He left a letter for you.",
+      "russian": "Он оставил для тебя письмо.",
+      "farsi": "او برای تو یک نامه به جا گذاشته است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich lasse meinen Hund jeden Tag aus.",
+      "english": "I let my dog out every day.",
+      "russian": "Я выгуливаю свою собаку каждый день.",
+      "farsi": "من هر روز سگم را بیرون می‌برم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Lass uns das Thema wechseln.",
+      "english": "Let's change the subject.",
+      "russian": "Давай сменим тему.",
+      "farsi": "بیا موضوع را عوض کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Kinder rennen im Garten herum.",
+      "english": "The children are running around in the garden.",
+      "russian": "Дети бегают по саду.",
+      "farsi": "بچه‌ها در باغ می‌دوند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich muss zum Zug rennen, ich komme zu spät.",
+      "english": "I have to run to the train, I'm late.",
+      "russian": "Мне нужно бежать на поезд, я опаздываю.",
+      "farsi": "باید به سمت قطار بدوم، دیرم شده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bitte schließt die Tür.",
+      "english": "Please close the door.",
+      "russian": "Пожалуйста, закройте дверь.",
+      "farsi": "لطفاً در را ببندید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Geschäft schließt um 18 Uhr.",
+      "english": "The shop closes at 6 p.m.",
+      "russian": "Магазин закрывается в 18:00.",
+      "farsi": "فروشگاه ساعت ۶ عصر بسته می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich streiche mir jeden Morgen die Haare.",
+      "english": "I brush my hair every morning.",
+      "russian": "Я причёсываю волосы каждое утро.",
+      "farsi": "هر صبح موهایم را شانه می‌زنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat sich die Haare kurz geschnitten.",
+      "english": "He cut his hair short.",
+      "russian": "Он подстриг волосы коротко.",
+      "farsi": "او موهایش را کوتاه کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich nehme an dem Kurs teil.",
+      "english": "I am taking part in the course.",
+      "russian": "Я участвую в курсе.",
+      "farsi": "من در این دوره شرکت می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir nehmen am Fest teil.",
+      "english": "We are taking part in the festival.",
+      "russian": "Мы принимаем участие в фестивале.",
+      "farsi": "ما در جشنواره شرکت می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was tust du heute Abend?",
+      "english": "What are you doing tonight?",
+      "russian": "Что ты делаешь сегодня вечером?",
+      "farsi": "امشب چه کار می‌کنی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Tut mir leid, ich kann das nicht tun.",
+      "english": "I'm sorry, I can't do that.",
+      "russian": "Извини, я не могу это сделать.",
+      "farsi": "متاسفم، نمی‌توانم این کار را انجام دهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben uns lange über alte Zeiten unterhalten.",
+      "english": "We talked for a long time about the old days.",
+      "russian": "Мы долго говорили о старых временах.",
+      "farsi": "ما مدت زیادی در مورد روزهای قدیم صحبت کردیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie unterhält sich gerne mit ihren Freunden.",
+      "english": "She enjoys chatting with her friends.",
+      "russian": "Ей нравится общаться со своими друзьями.",
+      "farsi": "او دوست دارد با دوستانش گپ بزند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Am Wochenende unternehmen wir etwas.",
+      "english": "We are doing something over the weekend.",
+      "russian": "Мы что-то предпримем на выходных.",
+      "farsi": "آخر هفته کاری انجام می‌دهیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat eine Reise nach Italien unternommen.",
+      "english": "She took a trip to Italy.",
+      "russian": "Она совершила поездку в Италию.",
+      "farsi": "او سفری به ایتالیا انجام داد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich verbringe meine Freizeit gerne mit Lesen.",
+      "english": "I enjoy spending my free time reading.",
+      "russian": "Я люблю проводить свободное время за чтением.",
+      "farsi": "من دوست دارم اوقات فراغت خود را با خواندن کتاب سپری کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben die Ferien am Meer verbracht.",
+      "english": "We spent the holidays at the sea.",
+      "russian": "Мы провели каникулы на море.",
+      "farsi": "ما تعطیلات را در کنار دریا گذراندیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kannst du diese beiden Bilder vergleichen?",
+      "english": "Can you compare these two pictures?",
+      "russian": "Можешь сравнить эти две картины?",
+      "farsi": "می‌توانی این دو تصویر را مقایسه کنی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man kann ihn nicht mit seinem Bruder vergleichen.",
+      "english": "You can't compare him with his brother.",
+      "russian": "Его нельзя сравнивать с его братом.",
+      "farsi": "نمی‌توان او را با برادرش مقایسه کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich verlasse das Haus um 7 Uhr morgens.",
+      "english": "I leave the house at 7 a.m.",
+      "russian": "Я выхожу из дома в 7 утра.",
+      "farsi": "من ساعت ۷ صبح خانه را ترک می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat seine Freunde im Stich gelassen.",
+      "english": "He let his friends down.",
+      "russian": "Он подвёл своих друзей.",
+      "farsi": "او دوستانش را ناامید کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich verlasse mich auf dich.",
+      "english": "I rely on you.",
+      "russian": "Я полагаюсь на тебя.",
+      "farsi": "من روی تو حساب می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Du kannst dich auf ihn verlassen.",
+      "english": "You can rely on him.",
+      "russian": "Ты можешь на него положиться.",
+      "farsi": "می‌توانی روی او حساب کنی."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe meinen Schlüssel verloren.",
+      "english": "I lost my key.",
+      "russian": "Я потерял свой ключ.",
+      "farsi": "کلیدم را گم کرده‌ام."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir dürfen dieses Spiel nicht verlieren.",
+      "english": "We must not lose this game.",
+      "russian": "Мы не должны проиграть эту игру.",
+      "farsi": "نباید این بازی را ببازیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich versuche, Stress zu vermeiden.",
+      "english": "I try to avoid stress.",
+      "russian": "Я стараюсь избегать стресса.",
+      "farsi": "سعی می‌کنم از استرس دوری کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Du solltest diesen Fehler vermeiden.",
+      "english": "You should avoid this mistake.",
+      "russian": "Тебе следует избегать этой ошибки.",
+      "farsi": "باید از این اشتباه اجتناب کنی."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir müssen das Meeting verschieben.",
+      "english": "We need to reschedule the meeting.",
+      "russian": "Нам нужно перенести встречу.",
+      "farsi": "باید جلسه را به تعویق بیندازیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Flug wurde verschoben.",
+      "english": "The flight was delayed.",
+      "russian": "Рейс был отложен.",
+      "farsi": "پرواز به تأخیر افتاد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Arzt hat mir ein Medikament verschrieben.",
+      "english": "The doctor prescribed me a medication.",
+      "russian": "Врач выписал мне лекарство.",
+      "farsi": "دکتر برایم دارو تجویز کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe mich verschrieben.",
+      "english": "I made a writing mistake.",
+      "russian": "Я допустил ошибку при письме.",
+      "farsi": "اشتباه نوشتم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kannst du später vorbeikommen?",
+      "english": "Can you come by later?",
+      "russian": "Ты можешь зайти позже?",
+      "farsi": "می‌توانی بعداً سری بزنی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich komme kurz bei dir vorbei.",
+      "english": "I will stop by briefly.",
+      "russian": "Я ненадолго зайду к тебе.",
+      "farsi": "یک لحظه بهت سر می‌زنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Meine Mutter hat mir als Kind oft vorgelesen.",
+      "english": "My mother often read to me as a child.",
+      "russian": "Моя мать часто читала мне в детстве.",
+      "farsi": "مادرم در کودکی اغلب برایم کتاب می‌خواند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich lese dir jetzt etwas vor.",
+      "english": "I will read something to you now.",
+      "russian": "Я сейчас что-то тебе прочитаю.",
+      "farsi": "الان چیزی برایت می‌خوانم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich schlage vor, ins Kino zu gehen.",
+      "english": "I suggest going to the cinema.",
+      "russian": "Я предлагаю пойти в кино.",
+      "farsi": "پیشنهاد می‌کنم به سینما برویم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat einen guten Vorschlag gemacht.",
+      "english": "She made a good suggestion.",
+      "russian": "Она сделала хорошее предложение.",
+      "farsi": "او پیشنهاد خوبی داد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich werde Arzt.",
+      "english": "I will become a doctor.",
+      "russian": "Я стану врачом.",
+      "farsi": "من دکتر می‌شوم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es wird kalt draußen.",
+      "english": "It's getting cold outside.",
+      "russian": "На улице становится холодно.",
+      "farsi": "بیرون سرد می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe in letzter Zeit zugenommen.",
+      "english": "I have gained weight recently.",
+      "russian": "Я недавно набрал вес.",
+      "farsi": "اخیراً وزن اضافه کرده‌ام."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Temperaturen nehmen langsam zu.",
+      "english": "The temperatures are slowly increasing.",
+      "russian": "Температуры постепенно повышаются.",
+      "farsi": "دماها به آرامی در حال افزایش هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe mein Buch endlich zurückbekommen.",
+      "english": "I finally got my book back.",
+      "russian": "Я наконец-то получил свою книгу обратно.",
+      "farsi": "بالاخره کتابم را پس گرفتم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wann bekomme ich mein Geld zurück?",
+      "english": "When will I get my money back?",
+      "russian": "Когда я получу свои деньги обратно?",
+      "farsi": "کی پولم را پس می‌گیرم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kannst du mir das Buch morgen zurückbringen?",
+      "english": "Can you bring me the book back tomorrow?",
+      "russian": "Ты можешь вернуть мне книгу завтра?",
+      "farsi": "می‌توانی کتاب را فردا برایم برگردانی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bitte bring die Gläser zurück in die Küche.",
+      "english": "Please bring the glasses back to the kitchen.",
+      "russian": "Пожалуйста, верни стаканы обратно на кухню.",
+      "farsi": "لطفاً لیوان‌ها را به آشپزخانه برگردان."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich rufe dich später zurück.",
+      "english": "I'll call you back later.",
+      "russian": "Я перезвоню тебе позже.",
+      "farsi": "بعداً باهات تماس می‌گیرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat mich noch nicht zurückgerufen.",
+      "english": "He hasn't called me back yet.",
+      "russian": "Он еще не перезвонил мне.",
+      "farsi": "او هنوز به من زنگ نزده."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir müssen zusammenhalten, um dieses Problem zu lösen.",
+      "english": "We need to stick together to solve this problem.",
+      "russian": "Нам нужно держаться вместе, чтобы решить эту проблему.",
+      "farsi": "باید با هم همکاری کنیم تا این مشکل را حل کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Familie hält zusammen.",
+      "english": "The family sticks together.",
+      "russian": "Семья держится вместе.",
+      "farsi": "خانواده با هم متحد هستند."
+    }
+  ]
+}
