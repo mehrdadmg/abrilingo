@@ -1,23 +1,23 @@
-import { useState } from 'react';
-import { useDispatch, useSelector } from 'react-redux';
-import { chooseLesson, handleSentenceNo, handleContentsLength } from '../../redux/actionCreator';
+import { useEffect, useState } from 'react';
+import { useSelector } from 'react-redux';
 
 import { GrPrevious } from 'react-icons/gr';
 import BottomActions from '../../UI/BottomActions/BottomActions';
 import './MultipleChoice.css';
 
 const MultipleChoice = (props) => {
-  //const dispatch = useDispatch();
-
   const contentLength = useSelector((state) => state.contentsLength);
   const contentIndex = useSelector((state) => state.indexSentence);
 
-  //console.log('MultipleChoice contentIndex: ', contentIndex);
   const [selectedAnswer, setSelectedAnswer] = useState(null);
 
   const handleAnswerClick = (index) => {
     setSelectedAnswer(index);
   };
+  useEffect(() => {
+    setSelectedAnswer(null);
+  }, [contentIndex]);
+
   return (
     <>
       <div className="header">
@@ -44,7 +44,9 @@ const MultipleChoice = (props) => {
                 className={`choice-button ${selectedAnswer === index ? 'selected' : ''} ${
                   selectedAnswer !== null && selectedAnswer !== index ? 'no_selected' : ''
                 } ${item.isCorrect}`}
-                onClick={() => handleAnswerClick(index)}
+                onClick={() => {
+                  handleAnswerClick(index);
+                }}
               >
                 {item.answerText}
               </button>
