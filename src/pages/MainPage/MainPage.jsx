@@ -62,7 +62,7 @@ function MainPage(props) {
             Learn
           </button>
           <button
-            className="bottom_btn btn"
+            className="middle_btn btn"
             onClick={() => {
               props.goToPage('practice');
               dispatch(handleTypePage('Practice'));
@@ -71,6 +71,18 @@ function MainPage(props) {
             }}
           >
             Practice
+          </button>
+
+          <button
+            className="bottom_btn btn"
+            onClick={() => {
+              props.goToPage('quiz');
+              dispatch(handleTypePage('Quiz'));
+              dispatch(handleSelectedTabActive(false));
+              //dispatch(handleSentenceNo(parseInt(getPracticeSentenceNo())));
+            }}
+          >
+            Quiz (just for test!)
           </button>
         </div>
       </div>

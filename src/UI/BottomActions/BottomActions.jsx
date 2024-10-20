@@ -15,7 +15,7 @@ const BottomActions = (props) => {
   const activeTab = useSelector((state) => state.isSelectedTabActive);
 
   const handlerNextContent = () => {
-    if (parseInt(indexState) < dataLesson.content.length - 1) {
+    if (parseInt(indexState) < contentLength - 1) {
       let tempIndex = parseInt(indexState) + 1;
       dispatch(handleSentenceNo(tempIndex));
       if (!activeTab) {

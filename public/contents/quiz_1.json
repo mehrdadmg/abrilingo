@@ -1,0 +1,122 @@
+{
+  "info": {
+    "name": "Quiz_1",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Um 14 Uhr beginnt die Besprechung.",
+      "english": "At 2 PM the meeting begins.",
+      "russian": "В 14 часов начинается совещание.",
+      "farsi": "ساعت 2 بعدازظهر جلسه شروع می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Um 16 Uhr gehe ich ins Fitnessstudio, nachdem ich ab 14 Uhr gearbeitet habe.",
+      "english": "At 4 PM I go to the gym after I have worked from 2 PM.",
+      "russian": "В 16 часов я иду в спортзал после того, как работал с 14 часов.",
+      "farsi": "ساعت 4 به باشگاه می‌روم، بعد از اینکه از ساعت 2 کار کرده‌ام."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe für eine Woche Urlaub genommen.",
+      "english": "I have taken a week off.",
+      "russian": "Я взял неделю отпуска.",
+      "farsi": "من یک هفته مرخصی گرفته‌ام."
+    }
+  ],
+
+  "quiz": [
+    {
+      "quiz_info": {
+        "type": "Multiple Choice",
+        "description": "Select the correct option for the blank space."
+      },
+      "quiz_content": [
+        {
+          "questionText": " ... 7 Uhr stehe ich auf.",
+          "answerText": "Um 7 Uhr stehe ich auf.",
+          "answerOptions": [
+            { "answerText": "Am", "isCorrect": false },
+            { "answerText": "In", "isCorrect": false },
+            { "answerText": "Um", "isCorrect": true },
+            { "answerText": "On", "isCorrect": false }
+          ]
+        },
+        {
+          "questionText": " ... der Arbeit entspanne ich mich.",
+          "answerText": "Nach der Arbeit entspanne ich mich.",
+          "answerOptions": [
+            { "answerText": "Nach", "isCorrect": true },
+            { "answerText": "Für", "isCorrect": false },
+            { "answerText": "Zwischen", "isCorrect": false },
+            { "answerText": "Seit", "isCorrect": false }
+          ]
+        },
+        {
+          "questionText": " Der Kuchen muss ... eine Stunde im Ofen bleiben.",
+          "answerText": "Der Kuchen muss für eine Stunde im Ofen bleiben.",
+          "answerOptions": [
+            { "answerText": "Seit", "isCorrect": false },
+            { "answerText": "Nach", "isCorrect": false },
+            { "answerText": "In", "isCorrect": false },
+            { "answerText": "Für", "isCorrect": true }
+          ]
+        },
+        {
+          "questionText": " ... der Arbeit entspanne ich mich.",
+          "answerText": "Nach der Arbeit entspanne ich mich.",
+          "answerOptions": [
+            { "answerText": "Nach", "isCorrect": true },
+            { "answerText": "Für", "isCorrect": false },
+            { "answerText": "Zwischen", "isCorrect": false },
+            { "answerText": "Seit", "isCorrect": false }
+          ]
+        },
+        {
+          "questionText": " Der Kuchen muss ... eine Stunde im Ofen bleiben.",
+          "answerText": "Der Kuchen muss für eine Stunde im Ofen bleiben.",
+          "answerOptions": [
+            { "answerText": "Seit", "isCorrect": false },
+            { "answerText": "Nach", "isCorrect": false },
+            { "answerText": "In", "isCorrect": false },
+            { "answerText": "Für", "isCorrect": true }
+          ]
+        }
+      ]
+    },
+    {
+      "quiz_info": {
+        "type": "Multiple Choice",
+        "description": "Select the correct option for the blank space."
+      },
+      "quiz_content": [
+        {
+          "questionText": " ... 7 Uhr stehe ich auf.",
+          "answerText": "Um 7 Uhr stehe ich auf.",
+          "answerOptions": [
+            { "answerText": "Am", "isCorrect": false },
+            { "answerText": "In", "isCorrect": false },
+            { "answerText": "Um", "isCorrect": true },
+            { "answerText": "On", "isCorrect": false }
+          ]
+        },
+        {
+          "questionText": " ... der Arbeit entspanne ich mich.",
+          "answerText": "Nach der Arbeit entspanne ich mich.",
+          "answerOptions": [
+            { "answerText": "Nach", "isCorrect": true },
+            { "answerText": "Für", "isCorrect": false },
+            { "answerText": "Zwischen", "isCorrect": false },
+            { "answerText": "Seit", "isCorrect": false }
+          ]
+        }
+      ]
+    }
+  ]
+}

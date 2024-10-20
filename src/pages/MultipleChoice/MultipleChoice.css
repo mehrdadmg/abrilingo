@@ -1,0 +1,47 @@
+.multiple_choice .description {
+  text-align: left;
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.multiple_choice .question {
+  text-align: left;
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.multiple_choice .choice-button {
+  display: block;
+  width: 100%;
+  background-color: #ffffff;
+  border: 2px solid #007bff;
+  border-radius: 4px;
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  margin-bottom: 8px;
+}
+
+.multiple_choice .choice-button:hover {
+  background-color: #e6f2ff;
+}
+
+.multiple_choice .choice-button.selected.true {
+  background-color: #00ff00;
+  color: #ffffff;
+}
+
+.multiple_choice .choice-button.selected.false {
+  background-color: #ff002f;
+  color: #ffffff;
+}
+
+.multiple_choice .choice-button.no_selected.true {
+  background-color: #00ff00;
+  color: #ffffff;
+}

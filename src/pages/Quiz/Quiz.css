@@ -1,0 +1,77 @@
+.quiz {
+  height: 100%;
+}
+
+.quiz .header {
+  height: 5vh;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.quiz .back-button {
+  background: none;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+}
+.quiz .back-button svg {
+  margin-bottom: -4px;
+}
+.quiz .page_name {
+  background: none;
+  border: none;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 10px 20px;
+}
+.quiz .quiz_titel {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+.quiz .card {
+  /* min-height: 85%; */
+  order: 0;
+  flex: 1 1 auto;
+  align-self: auto;
+  width: 100%;
+  position: relative;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 8px;
+  padding-top: 0;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.quiz .btn {
+  background-color: white;
+  border: solid 2px black;
+  width: 100%;
+  margin: 0px;
+  padding: 40px 10px;
+  font-size: 20px;
+  color: black;
+}
+
+.quiz .btn span {
+  font-size: 16px;
+}
+
+.quiz .quiz_btn :first-child {
+  margin-top: 100px;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
+
+.quiz_btn .btn {
+  border-bottom: none;
+  border-radius: 0;
+}
+
+.quiz .quiz_btn :last-child {
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom: solid 2px black;
+}

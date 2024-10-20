@@ -4,6 +4,7 @@ import MainPage from './pages/MainPage/MainPage';
 import LearningSentences from './pages/LearningSentences/LearningSentences';
 import Choselesson from './pages/ChoseLesson/ChoseLesson';
 import Setting from './pages/Setting/Setting';
+import Quiz from './pages/Quiz/Quiz';
 import { startLesson } from './content/lessons';
 
 import { getlesson, setlesson } from './api/handleLocalStorage';
@@ -62,6 +63,15 @@ function App() {
           case 'setting':
             return (
               <Setting
+                BackToMainPage={() => {
+                  setDisplayed('main_page');
+                }}
+              />
+            );
+
+          case 'quiz':
+            return (
+              <Quiz
                 BackToMainPage={() => {
                   setDisplayed('main_page');
                 }}
