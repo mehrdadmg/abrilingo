@@ -60,8 +60,16 @@ const alllessons = [
     name: 'A2_Unregelmäßige_Verben',
   },
   {
+    file_name: 'a2_unregelmäßige_verben_sentence.json',
+    name: 'A2_Unregelmäßige_Verben_Sentence',
+  },
+  {
     file_name: 'a2_regelmäßige_verben.json',
     name: 'A2_Regelmäßige_Verben',
+  },
+  {
+    file_name: 'a2_regelmäßige_verben_sentence.json',
+    name: 'A2_Regelmäßige_Verben_Sentence',
   },
   /* {
     file_name: 'verben_01.json',

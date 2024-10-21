@@ -4,7 +4,7 @@ import { chooseLesson, handleSentenceNo, handleContentsLength } from '../../redu
 
 //import { GrPrevious } from 'react-icons/gr';
 
-import { getlesson } from '../../api/handleLocalStorage';
+import { getlesson, setlesson } from '../../api/handleLocalStorage';
 import { getData } from '../../api/handleIndexedDB';
 import QuizList from '../QuizList/QuizList';
 import MultipleChoice from '../MultipleChoice/MultipleChoice';
@@ -29,17 +29,18 @@ const Quiz = (props) => {
   let lesson = getlesson();
   if (!lesson) {
     lesson = startLesson.info.name;
-    //setlesson(lesson);
+    setlesson(lesson);
   }
 
   const loadeContent = async () => {
     let lessonContent = await getData(lesson);
-    if (lessonContent && lessonContent.quiz) {
-      setQuizContent(lessonContent.quiz);
-
+    if (lessonContent) {
       dispatch(chooseLesson(lessonContent));
-      //dispatch(handleContentsLength(lessonContent.content.length));
-      //dispatch(handleSentenceNo(parseInt(sentenceNo)));
+      if (lessonContent.quiz) {
+        setQuizContent(lessonContent.quiz);
+      } else {
+        setQuizContent(null);
+      }
     }
   };
 

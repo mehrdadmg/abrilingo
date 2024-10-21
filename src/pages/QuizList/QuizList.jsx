@@ -7,9 +7,8 @@ import { GrPrevious } from 'react-icons/gr';
 const QuizList = (props) => {
   const dispatch = useDispatch();
 
-  //console.log('QuizList: ', props);
   const dataLesson = useSelector((state) => state.lesson);
-  //console.log('QuizList: ', dataLesson.quiz);
+
   return (
     <>
       <div className="header">
@@ -25,6 +24,7 @@ const QuizList = (props) => {
       </div>
       <div className="card">
         <div className="quiz_btn">
+          {!dataLesson.quiz && <button className="btn">There are no quizes in this lesson!</button>}
           {dataLesson.quiz &&
             dataLesson.quiz.length &&
             dataLesson.quiz.map((item, index) => (
