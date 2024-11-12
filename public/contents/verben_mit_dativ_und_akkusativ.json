@@ -1,0 +1,601 @@
+{
+  "info": {
+    "name": "Verben_Mit_Dativ_Und_Akkusativ",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich empfehle dir das Buch.",
+      "english": "I recommend the book to you.",
+      "russian": "Я рекомендую тебе эту книгу.",
+      "farsi": "این کتاب را به تو پیشنهاد می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kannst du mir einen guten Film empfehlen?",
+      "english": "Can you recommend a good movie to me?",
+      "russian": "Можешь порекомендовать мне хороший фильм?",
+      "farsi": "می‌توانی یک فیلم خوب به من پیشنهاد کنی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Arzt hat mir eine neue Diät empfohlen.",
+      "english": "The doctor recommended a new diet to me.",
+      "russian": "Врач порекомендовал мне новую диету.",
+      "farsi": "پزشک یک رژیم جدید به من توصیه کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich würde dir gerne das neue Restaurant in der Stadt empfehlen.",
+      "english": "I would like to recommend the new restaurant in town to you.",
+      "russian": "Я бы хотел порекомендовать тебе новый ресторан в городе.",
+      "farsi": "دوست دارم رستوران جدیدی در شهر را به تو پیشنهاد کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kannst du mir das bitte noch einmal erklären?",
+      "english": "Can you please explain that to me again?",
+      "russian": "Можешь объяснить мне это ещё раз, пожалуйста?",
+      "farsi": "می‌توانی دوباره برایم توضیح بدهی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat mir die Aufgabe erklärt.",
+      "english": "He explained the task to me.",
+      "russian": "Он объяснил мне задание.",
+      "farsi": "او وظیفه را برایم توضیح داد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Lehrer erklärt den Schülern die Grammatik.",
+      "english": "The teacher explains the grammar to the students.",
+      "russian": "Учитель объясняет ученикам грамматику.",
+      "farsi": "معلم دستور زبان را به دانش‌آموزان توضیح می‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe ihm die Situation erklärt.",
+      "english": "I explained the situation to him.",
+      "russian": "Я объяснил ему ситуацию.",
+      "farsi": "وضعیت را برای او توضیح دادم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Erzähl mir doch mal von deinem Urlaub.",
+      "english": "Tell me about your vacation.",
+      "russian": "Расскажи мне о своем отпуске.",
+      "farsi": "درباره تعطیلاتت برایم بگو."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat uns eine Geschichte erzählt.",
+      "english": "She told us a story.",
+      "russian": "Она рассказала нам историю.",
+      "farsi": "او یک داستان برای ما تعریف کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein Großvater erzählt mir oft von seiner Jugend.",
+      "english": "My grandfather often tells me about his youth.",
+      "russian": "Мой дедушка часто рассказывает мне о своей молодости.",
+      "farsi": "پدربزرگم اغلب درباره جوانی‌اش برایم می‌گوید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat ihr von seinem Problem erzählt.",
+      "english": "He told her about his problem.",
+      "russian": "Он рассказал ей о своей проблеме.",
+      "farsi": "او درباره مشکلش به او گفت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Gib mir bitte das Buch.",
+      "english": "Please give me the book.",
+      "russian": "Пожалуйста, дай мне книгу.",
+      "farsi": "لطفاً کتاب را به من بده."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie gibt ihm ein Geschenk.",
+      "english": "She gives him a gift.",
+      "russian": "Она дарит ему подарок.",
+      "farsi": "او به او یک هدیه می‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kannst du mir einen Stift geben?",
+      "english": "Can you give me a pen?",
+      "russian": "Можешь дать мне ручку?",
+      "farsi": "می‌توانی یک خودکار به من بدهی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat ihr einen Blumenstrauß gegeben.",
+      "english": "He gave her a bouquet of flowers.",
+      "russian": "Он подарил ей букет цветов.",
+      "farsi": "او به او یک دسته گل داد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich kaufe mir ein neues Kleid.",
+      "english": "I am buying myself a new dress.",
+      "russian": "Я покупаю себе новое платье.",
+      "farsi": "من برای خودم یک لباس جدید می‌خرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kannst du mir bitte eine Zeitung kaufen?",
+      "english": "Can you please buy me a newspaper?",
+      "russian": "Ты можешь купить мне газету?",
+      "farsi": "می‌توانی لطفاً یک روزنامه برایم بخری؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat sich ein neues Fahrrad gekauft.",
+      "english": "She bought herself a new bicycle.",
+      "russian": "Она купила себе новый велосипед.",
+      "farsi": "او برای خودش یک دوچرخه جدید خرید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat ihr einen Ring gekauft.",
+      "english": "He bought her a ring.",
+      "russian": "Он купил ей кольцо.",
+      "farsi": "او برای او یک حلقه خرید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bring mir bitte einen Apfel mit.",
+      "english": "Please bring me an apple.",
+      "russian": "Пожалуйста, принеси мне яблоко.",
+      "farsi": "لطفاً برایم یک سیب بیاور."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie bringt ihm eine Tasse Kaffee mit.",
+      "english": "She brings him a cup of coffee.",
+      "russian": "Она приносит ему чашку кофе.",
+      "farsi": "او برای او یک فنجان قهوه می‌آورد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kannst du mir das Buch morgen mitbringen?",
+      "english": "Can you bring me the book tomorrow?",
+      "russian": "Можешь принести мне книгу завтра?",
+      "farsi": "می‌توانی کتاب را فردا برایم بیاوری؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat ihr eine Überraschung mitgebracht.",
+      "english": "He brought her a surprise.",
+      "russian": "Он принёс ей сюрприз.",
+      "farsi": "او برای او یک سورپرایز آورد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kannst du mir die Flasche öffnen?",
+      "english": "Can you open the bottle for me?",
+      "russian": "Ты можешь открыть мне бутылку?",
+      "farsi": "می‌توانی بطری را برایم باز کنی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat das Paket geöffnet.",
+      "english": "He opened the package.",
+      "russian": "Он открыл пакет.",
+      "farsi": "او بسته را باز کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich reserviere einen Tisch im Restaurant.",
+      "english": "I am reserving a table at the restaurant.",
+      "russian": "Я резервирую столик в ресторане.",
+      "farsi": "من یک میز در رستوران رزرو می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kannst du mir ein Zimmer im Hotel reservieren?",
+      "english": "Can you reserve a room at the hotel for me?",
+      "russian": "Ты можешь забронировать мне номер в отеле?",
+      "farsi": "می‌توانی برایم یک اتاق در هتل رزرو کنی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat zwei Karten für das Konzert reserviert.",
+      "english": "She reserved two tickets for the concert.",
+      "russian": "Она забронировала два билета на концерт.",
+      "farsi": "او دو بلیط برای کنسرت رزرو کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat einen Flug nach Paris reserviert.",
+      "english": "He reserved a flight to Paris.",
+      "russian": "Он забронировал рейс в Париж.",
+      "farsi": "او یک پرواز به پاریس رزرو کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich schenke dir zum Geburtstag eine Blume.",
+      "english": "I am giving you a flower for your birthday.",
+      "russian": "Я дарю тебе цветок на день рождения.",
+      "farsi": "من برای تولدت به تو یک گل هدیه می‌دهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie schenkt ihm ein Buch.",
+      "english": "She is giving him a book as a gift.",
+      "russian": "Она дарит ему книгу.",
+      "farsi": "او به او یک کتاب هدیه می‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kannst du ihr zum Geburtstag etwas Schönes schenken?",
+      "english": "Can you give her something nice for her birthday?",
+      "russian": "Можешь подарить ей что-нибудь красивое на день рождения?",
+      "farsi": "می‌توانی برای تولدش چیزی زیبا به او هدیه دهی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat ihr eine Kette geschenkt.",
+      "english": "He gave her a necklace as a gift.",
+      "russian": "Он подарил ей цепочку.",
+      "farsi": "او به او یک گردنبند هدیه داد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich schicke dir eine Postkarte.",
+      "english": "I am sending you a postcard.",
+      "russian": "Я отправляю тебе открытку.",
+      "farsi": "من برایت یک کارت‌پستال می‌فرستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kannst du mir das Paket schicken?",
+      "english": "Can you send me the package?",
+      "russian": "Ты можешь отправить мне посылку?",
+      "farsi": "می‌توانی بسته را برایم بفرستی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie schickt ihm eine E-Mail.",
+      "english": "She is sending him an email.",
+      "russian": "Она отправляет ему электронное письмо.",
+      "farsi": "او برای او یک ایمیل می‌فرستد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er schickt das Buch seinem Freund zurück.",
+      "english": "He is sending the book back to his friend.",
+      "russian": "Он отправляет книгу обратно своему другу.",
+      "farsi": "او کتاب را به دوستش برمی‌گرداند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich schreibe dir einen Brief.",
+      "english": "I am writing you a letter.",
+      "russian": "Я пишу тебе письмо.",
+      "farsi": "من برایت یک نامه می‌نویسم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kannst du mir eine Nachricht schreiben?",
+      "english": "Can you write me a message?",
+      "russian": "Ты можешь написать мне сообщение?",
+      "farsi": "می‌توانی برایم یک پیام بنویسی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie schreibt ihm eine SMS.",
+      "english": "She is writing him a text message.",
+      "russian": "Она пишет ему смс.",
+      "farsi": "او برای او یک پیامک می‌نویسد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er schreibt einen Brief an seine Eltern.",
+      "english": "He is writing a letter to his parents.",
+      "russian": "Он пишет письмо своим родителям.",
+      "farsi": "او یک نامه به والدینش می‌نویسد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich sende dir eine SMS.",
+      "english": "I am sending you a text message.",
+      "russian": "Я отправляю тебе смс.",
+      "farsi": "من برایت یک پیامک می‌فرستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kannst du mir das Paket senden?",
+      "english": "Can you send me the package?",
+      "russian": "Ты можешь отправить мне посылку?",
+      "farsi": "می‌توانی بسته را برایم بفرستی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie sendet ihm ein Geschenk.",
+      "english": "She is sending him a gift.",
+      "russian": "Она отправляет ему подарок.",
+      "farsi": "او برای او یک هدیه می‌فرستد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er sendet die Daten an den Computer.",
+      "english": "He is sending the data to the computer.",
+      "russian": "Он отправляет данные на компьютер.",
+      "farsi": "او داده‌ها را به کامپیوتر ارسال می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Jemand hat mir mein Fahrrad gestohlen.",
+      "english": "Someone stole my bicycle.",
+      "russian": "Кто-то украл у меня велосипед.",
+      "farsi": "کسی دوچرخه‌ام را دزدیده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat ihr die Tasche gestohlen.",
+      "english": "He stole her bag.",
+      "russian": "Он украл у неё сумку.",
+      "farsi": "او کیفش را دزدیده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Dieb hat dem Mann das Portemonnaie gestohlen.",
+      "english": "The thief stole the man's wallet.",
+      "russian": "Вор украл у мужчины кошелёк.",
+      "farsi": "دزد کیف پول مرد را دزدیده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat dem Kind das Spielzeug gestohlen.",
+      "english": "She stole the toy from the child.",
+      "russian": "Она украла у ребёнка игрушку.",
+      "farsi": "او اسباب‌بازی کودک را دزدیده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich verkaufe mein altes Auto.",
+      "english": "I am selling my old car.",
+      "russian": "Я продаю свою старую машину.",
+      "farsi": "من ماشین قدیمی‌ام را می‌فروشم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kannst du mir das Buch verkaufen?",
+      "english": "Can you sell me the book?",
+      "russian": "Ты можешь продать мне книгу?",
+      "farsi": "می‌توانی کتاب را به من بفروشی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie verkauft ihre Wohnung.",
+      "english": "She is selling her apartment.",
+      "russian": "Она продаёт свою квартиру.",
+      "farsi": "او آپارتمانش را می‌فروشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er verkauft dem Kunden einen neuen Computer.",
+      "english": "He is selling a new computer to the customer.",
+      "russian": "Он продаёт клиенту новый компьютер.",
+      "farsi": "او یک کامپیوتر جدید به مشتری می‌فروشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich vermiete meine Wohnung.",
+      "english": "I am renting out my apartment.",
+      "russian": "Я сдаю свою квартиру.",
+      "farsi": "من آپارتمانم را اجاره می‌دهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kannst du mir ein Fahrrad vermieten?",
+      "english": "Can you rent me a bicycle?",
+      "russian": "Ты можешь сдать мне велосипед в аренду?",
+      "farsi": "می‌توانی یک دوچرخه را به من اجاره بدهی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie vermietet ein Zimmer an einen Studenten.",
+      "english": "She is renting a room to a student.",
+      "russian": "Она сдаёт комнату студенту.",
+      "farsi": "او یک اتاق را به یک دانشجو اجاره می‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er vermietet seinen Garten für eine Party.",
+      "english": "He is renting out his garden for a party.",
+      "russian": "Он сдаёт свой сад для вечеринки.",
+      "farsi": "او باغش را برای یک مهمانی اجاره می‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Arzt verschreibt mir ein Medikament.",
+      "english": "The doctor prescribes me a medication.",
+      "russian": "Врач прописал мне лекарство.",
+      "farsi": "پزشک برایم دارویی تجویز کرده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kannst du mir das Buch verschreiben?",
+      "english": "Can you prescribe me the book?",
+      "russian": "Ты можешь прописать мне книгу?",
+      "farsi": "می‌توانی کتاب را برایم تجویز کنی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie verschreibt dem Patienten ein Antibiotikum.",
+      "english": "She prescribes the patient an antibiotic.",
+      "russian": "Она прописывает пациенту антибиотик.",
+      "farsi": "او برای بیمار یک آنتی‌بیوتیک تجویز می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er verschreibt ihr eine Brille.",
+      "english": "He prescribes her glasses.",
+      "russian": "Он прописывает ей очки.",
+      "farsi": "او برایش عینک تجویز می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich stelle dir meinen Freund vor.",
+      "english": "I introduce my friend to you.",
+      "russian": "Я представляю тебе своего друга.",
+      "farsi": "من دوستم را به تو معرفی می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kannst du mir deinen Bruder vorstellen?",
+      "english": "Can you introduce your brother to me?",
+      "russian": "Ты можешь представить мне своего брата?",
+      "farsi": "می‌توانی برادرت را به من معرفی کنی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie stellt ihn ihren Kollegen vor.",
+      "english": "She introduces him to her colleagues.",
+      "russian": "Она представляет его своим коллегам.",
+      "farsi": "او او را به همکارانش معرفی می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er stellt das neue Produkt vor.",
+      "english": "He introduces the new product.",
+      "russian": "Он представляет новый продукт.",
+      "farsi": "او محصول جدید را معرفی می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Zeig mir bitte den Weg.",
+      "english": "Please show me the way.",
+      "russian": "Покажи мне, пожалуйста, путь.",
+      "farsi": "لطفاً مسیر را به من نشان بده."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kannst du mir dein neues Buch zeigen?",
+      "english": "Can you show me your new book?",
+      "russian": "Ты можешь показать мне свою новую книгу?",
+      "farsi": "می‌توانی کتاب جدیدت را به من نشان بدهی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie zeigt ihm die Stadt.",
+      "english": "She shows him the city.",
+      "russian": "Она показывает ему город.",
+      "farsi": "او شهر را به او نشان می‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er zeigt den Kindern die Tiere im Zoo.",
+      "english": "He shows the children the animals in the zoo.",
+      "russian": "Он показывает детям животных в зоопарке.",
+      "farsi": "او به کودکان حیوانات را در باغ وحش نشان می‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bring mir bitte das Buch zurück.",
+      "english": "Please bring the book back to me.",
+      "russian": "Пожалуйста, верни мне книгу.",
+      "farsi": "لطفاً کتاب را به من برگردان."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kannst du mir das Geld zurückbringen?",
+      "english": "Can you bring the money back to me?",
+      "russian": "Ты можешь вернуть мне деньги?",
+      "farsi": "می‌توانی پول را به من برگردانی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie bringt ihm die CD zurück.",
+      "english": "She brings him back the CD.",
+      "russian": "Она возвращает ему CD.",
+      "farsi": "او سی‌دی را به او برمی‌گرداند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er bringt den Wagen in die Werkstatt zurück.",
+      "english": "He brings the car back to the workshop.",
+      "russian": "Он возвращает машину в мастерскую.",
+      "farsi": "او ماشین را به کارگاه برمی‌گرداند."
+    }
+  ]
+}

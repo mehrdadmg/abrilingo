@@ -1,0 +1,2125 @@
+{
+  "info": {
+    "name": "Verben_mit_Präposition_Dativ",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "abhängen von + Dativ",
+      "Präsens": "Er hängt von etwas ab",
+      "Präteritum": "Er hing von etwas ab",
+      "Perfekt": "hat von etwas abgehangen",
+      "englishMeaning": "to depend on",
+      "englishUsage": "Used to express reliance or dependency on something or someone.",
+      "russianMeaning": "зависеть от",
+      "russianUsage": "Используется для выражения зависимости от чего-то или кого-то.",
+      "farsiMeaning": "بستگی داشتن به",
+      "farsiUsage": "برای بیان وابستگی یا اتکا به چیزی یا کسی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein Urlaub hängt vom Wetter ab.",
+      "english": "My vacation depends on the weather.",
+      "russian": "Мой отпуск зависит от погоды.",
+      "farsi": "تعطیلات من به آب و هوا بستگی دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Preis hängt von der Qualität ab.",
+      "english": "The price depends on the quality.",
+      "russian": "Цена зависит от качества.",
+      "farsi": "قیمت به کیفیت بستگی دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Erfolg des Projekts hängt von deiner Mitarbeit ab.",
+      "english": "The success of the project depends on your cooperation.",
+      "russian": "Успех проекта зависит от твоего сотрудничества.",
+      "farsi": "موفقیت پروژه به همکاری شما بستگی دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vieles hängt davon ab, wie man die Situation einschätzt.",
+      "english": "Much depends on how one assesses the situation.",
+      "russian": "Многое зависит от того, как оценивается ситуация.",
+      "farsi": "بسیاری از چیزها به این بستگی دارد که چگونه وضعیت را ارزیابی کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "aufhören mit + Dativ",
+      "Präsens": "Er hört mit etwas auf",
+      "Präteritum": "Er hörte mit etwas auf",
+      "Perfekt": "hat mit etwas aufgehört",
+      "englishMeaning": "to stop (doing something)",
+      "englishUsage": "Refers to the act of ceasing an activity or action.",
+      "russianMeaning": "перестать, прекратить",
+      "russianUsage": "Означает действие прекращения какой-либо активности или действия.",
+      "farsiMeaning": "متوقف کردن",
+      "farsiUsage": "برای اشاره به توقف یک فعالیت یا عمل استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich höre jetzt mit dem Rauchen auf.",
+      "english": "I am quitting smoking now.",
+      "russian": "Я сейчас бросаю курить.",
+      "farsi": "من اکنون سیگار را ترک می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hört mit dem Lernen auf.",
+      "english": "She is stopping studying.",
+      "russian": "Она перестает учиться.",
+      "farsi": "او از مطالعه دست می‌کشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir müssen aufhören, die Umwelt zu verschmutzen.",
+      "english": "We must stop polluting the environment.",
+      "russian": "Мы должны перестать загрязнять окружающую среду.",
+      "farsi": "ما باید از آلوده کردن محیط زیست دست بکشیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hört nicht auf zu reden.",
+      "english": "He doesn't stop talking.",
+      "russian": "Он не перестает говорить.",
+      "farsi": "او دست از صحبت کردن برنمی‌دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "ausgehen von + Dativ",
+      "Präsens": "Er geht von etwas aus",
+      "Präteritum": "Er ging von etwas aus",
+      "Perfekt": "ist von etwas ausgegangen",
+      "englishMeaning": "to assume, to start from",
+      "englishUsage": "Used to indicate an assumption or a starting point in reasoning.",
+      "russianMeaning": "исходить из",
+      "russianUsage": "Используется для обозначения предположения или отправной точки в рассуждениях.",
+      "farsiMeaning": "فرض کردن، از چیزی شروع کردن",
+      "farsiUsage": "برای بیان فرض یا نقطه شروع در استدلال استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich gehe davon aus, dass du kommst.",
+      "english": "I assume that you are coming.",
+      "russian": "Я предполагаю, что ты придешь.",
+      "farsi": "فرض می‌کنم که تو می‌آیی."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie geht davon aus, dass er Recht hat.",
+      "english": "She assumes that he is right.",
+      "russian": "Она предполагает, что он прав.",
+      "farsi": "او فرض می‌کند که حق با اوست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man kann nicht immer davon ausgehen, dass alles gut geht.",
+      "english": "One cannot always assume that everything will go well.",
+      "russian": "Нельзя всегда предполагать, что всё пойдет хорошо.",
+      "farsi": "نمی‌توان همیشه فرض کرد که همه چیز به خوبی پیش می‌رود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Polizei geht davon aus, dass es ein Unfall war.",
+      "english": "The police assume that it was an accident.",
+      "russian": "Полиция предполагает, что это был несчастный случай.",
+      "farsi": "پلیس فرض می‌کند که این یک تصادف بوده است."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "sich beschäftigen mit + Dativ",
+      "Präsens": "Er beschäftigt sich mit etwas",
+      "Präteritum": "Er beschäftigte sich mit etwas",
+      "Perfekt": "hat sich mit etwas beschäftigt",
+      "englishMeaning": "to engage with, to be occupied with",
+      "englishUsage": "Refers to involvement or engagement with a task or subject.",
+      "russianMeaning": "заниматься чем-либо",
+      "russianUsage": "Означает вовлечённость или занятие какой-либо задачей или предметом.",
+      "farsiMeaning": "مشغول شدن با",
+      "farsiUsage": "برای اشاره به درگیر شدن یا مشغول شدن با یک کار یا موضوع استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich beschäftige mich gerade mit Mathematik.",
+      "english": "I am currently engaged with mathematics.",
+      "russian": "Я сейчас занимаюсь математикой.",
+      "farsi": "من در حال حاضر با ریاضیات مشغولم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie beschäftigt sich mit Kunst.",
+      "english": "She is engaged with art.",
+      "russian": "Она занимается искусством.",
+      "farsi": "او با هنر مشغول است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wissenschaftler beschäftigen sich mit der Erforschung des Weltraums.",
+      "english": "Scientists are engaged in the exploration of space.",
+      "russian": "Ученые занимаются исследованием космоса.",
+      "farsi": "دانشمندان در حال بررسی فضای کیهانی هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er beschäftigt sich gerne mit alten Büchern.",
+      "english": "He enjoys engaging with old books.",
+      "russian": "Ему нравится заниматься старыми книгами.",
+      "farsi": "او دوست دارد با کتاب‌های قدیمی سر و کار داشته باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "bestehen aus + Dativ",
+      "Präsens": "Es besteht aus",
+      "Präteritum": "Es bestand aus",
+      "Perfekt": "hat aus bestanden",
+      "englishMeaning": "to consist of",
+      "englishUsage": "Describes the composition of something, or what it is made of.",
+      "russianMeaning": "состоять из",
+      "russianUsage": "Определяет состав чего-либо, или из чего оно сделано.",
+      "farsiMeaning": "تشکیل شدن از",
+      "farsiUsage": "برای توصیف ترکیب چیزی یا اجزای تشکیل دهنده آن استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Haus besteht aus Holz.",
+      "english": "The house is made of wood.",
+      "russian": "Дом сделан из дерева.",
+      "farsi": "خانه از چوب ساخته شده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Salat besteht aus Tomaten und Gurken.",
+      "english": "The salad consists of tomatoes and cucumbers.",
+      "russian": "Салат состоит из помидоров и огурцов.",
+      "farsi": "سالاد از گوجه‌فرنگی و خیار تشکیل شده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Mannschaft besteht aus erfahrenen Spielern.",
+      "english": "The team consists of experienced players.",
+      "russian": "Команда состоит из опытных игроков.",
+      "farsi": "تیم از بازیکنان باتجربه تشکیل شده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Problem besteht darin, dass...",
+      "english": "The problem is that...",
+      "russian": "Проблема в том, что...",
+      "farsi": "مشکل این است که..."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "sich bewerben bei + Dativ",
+      "Präsens": "Er bewirbt sich bei",
+      "Präteritum": "Er bewarb sich bei",
+      "Perfekt": "hat sich bei beworben",
+      "englishMeaning": "to apply to",
+      "englishUsage": "Used to describe the act of submitting an application, typically to an organization.",
+      "russianMeaning": "подавать заявление в",
+      "russianUsage": "Используется для обозначения подачи заявления, как правило, в организацию.",
+      "farsiMeaning": "درخواست دادن به",
+      "farsiUsage": "برای توصیف عمل ارسال درخواست، معمولاً به یک سازمان، استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bewerbe mich bei einer Firma.",
+      "english": "I am applying to a company.",
+      "russian": "Я подаю заявление в компанию.",
+      "farsi": "من برای یک شرکت درخواست می‌دهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie bewirbt sich bei einer Universität.",
+      "english": "She is applying to a university.",
+      "russian": "Она подает заявление в университет.",
+      "farsi": "او برای یک دانشگاه درخواست می‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat sich bei vielen Firmen beworben.",
+      "english": "He has applied to many companies.",
+      "russian": "Он подал заявление во многие компании.",
+      "farsi": "او برای بسیاری از شرکت‌ها درخواست داده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man sollte sich frühzeitig bei einem Studium bewerben.",
+      "english": "One should apply early for a degree program.",
+      "russian": "Следует заранее подать заявление на обучение.",
+      "farsi": "باید زودتر برای یک برنامه تحصیلی درخواست داد."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "chatten mit + Dativ",
+      "Präsens": "Er chattet mit",
+      "Präteritum": "Er chattete mit",
+      "Perfekt": "hat mit gechattet",
+      "englishMeaning": "to chat with",
+      "englishUsage": "Describes informal conversation or messaging with someone.",
+      "russianMeaning": "общаться с",
+      "russianUsage": "Означает неформальное общение или переписку с кем-либо.",
+      "farsiMeaning": "چت کردن با",
+      "farsiUsage": "برای توصیف گفتگوی غیررسمی یا پیام دادن به کسی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich chatte oft mit meinen Freunden.",
+      "english": "I often chat with my friends.",
+      "russian": "Я часто общаюсь в чате с друзьями.",
+      "farsi": "من اغلب با دوستانم چت می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie chattet gerne mit Fremden.",
+      "english": "She likes chatting with strangers.",
+      "russian": "Она любит общаться в чате с незнакомыми людьми.",
+      "farsi": "او دوست دارد با غریبه‌ها چت کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man kann online mit Menschen aus aller Welt chatten.",
+      "english": "You can chat online with people from all over the world.",
+      "russian": "Можно общаться онлайн с людьми со всего мира.",
+      "farsi": "می‌توان به‌صورت آنلاین با افراد از سراسر جهان چت کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er chattet lieber persönlich als online.",
+      "english": "He prefers chatting in person rather than online.",
+      "russian": "Он предпочитает общаться лично, а не онлайн.",
+      "farsi": "او ترجیح می‌دهد حضوری چت کند تا آنلاین."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "einladen zu + Dativ",
+      "Präsens": "Er lädt zu etwas ein",
+      "Präteritum": "Er lud zu etwas ein",
+      "Perfekt": "hat zu etwas eingeladen",
+      "englishMeaning": "to invite to",
+      "englishUsage": "Refers to the act of inviting someone to an event or occasion.",
+      "russianMeaning": "приглашать на",
+      "russianUsage": "Означает действие приглашения кого-либо на мероприятие или событие.",
+      "farsiMeaning": "دعوت کردن به",
+      "farsiUsage": "برای اشاره به عمل دعوت کسی به یک رویداد یا مناسبت استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich lade dich zu meiner Party ein.",
+      "english": "I am inviting you to my party.",
+      "russian": "Я приглашаю тебя на свою вечеринку.",
+      "farsi": "من تو را به مهمانی‌ام دعوت می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie lädt ihn zum Essen ein.",
+      "english": "She is inviting him to dinner.",
+      "russian": "Она приглашает его на ужин.",
+      "farsi": "او او را به شام دعوت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir laden alle Freunde zur Hochzeit ein.",
+      "english": "We are inviting all friends to the wedding.",
+      "russian": "Мы приглашаем всех друзей на свадьбу.",
+      "farsi": "ما همه دوستان را به عروسی دعوت می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er wurde zu einem wichtigen Treffen eingeladen.",
+      "english": "He was invited to an important meeting.",
+      "russian": "Его пригласили на важную встречу.",
+      "farsi": "او به یک جلسه مهم دعوت شد."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "erzählen von + Dativ",
+      "Präsens": "Er erzählt von",
+      "Präteritum": "Er erzählte von",
+      "Perfekt": "hat von erzählt",
+      "englishMeaning": "to talk about, to tell about",
+      "englishUsage": "Used to describe the act of recounting or talking about something.",
+      "russianMeaning": "рассказывать о",
+      "russianUsage": "Используется для описания действия рассказа или обсуждения чего-либо.",
+      "farsiMeaning": "صحبت کردن از، تعریف کردن",
+      "farsiUsage": "برای توصیف عمل بازگو کردن یا صحبت کردن در مورد چیزی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er erzählt von seinem Urlaub.",
+      "english": "He talks about his vacation.",
+      "russian": "Он рассказывает о своем отпуске.",
+      "farsi": "او درباره تعطیلاتش صحبت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie erzählt von ihren Problemen.",
+      "english": "She talks about her problems.",
+      "russian": "Она рассказывает о своих проблемах.",
+      "farsi": "او درباره مشکلاتش صحبت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Meine Oma erzählt gerne von früher.",
+      "english": "My grandmother likes to talk about the past.",
+      "russian": "Моя бабушка любит рассказывать о прошлом.",
+      "farsi": "مادربزرگم دوست دارد درباره گذشته صحبت کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Zeitung erzählt von einem neuen Gesetz.",
+      "english": "The newspaper talks about a new law.",
+      "russian": "Газета рассказывает о новом законе.",
+      "farsi": "روزنامه درباره یک قانون جدید صحبت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "fragen nach + Dativ",
+      "Präsens": "Er fragt nach",
+      "Präteritum": "Er fragte nach",
+      "Perfekt": "hat nach gefragt",
+      "englishMeaning": "to ask about",
+      "englishUsage": "Used to express an inquiry or question about something or someone.",
+      "russianMeaning": "спрашивать о",
+      "russianUsage": "Используется для выражения запроса или вопроса о чем-то или ком-то.",
+      "farsiMeaning": "پرسیدن در مورد",
+      "farsiUsage": "برای بیان سوال یا درخواست درباره چیزی یا کسی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich frage dich nach einem Rat.",
+      "english": "I ask you for advice.",
+      "russian": "Я прошу у тебя совета.",
+      "farsi": "من از تو راهنمایی می‌خواهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie fragt nach dem Weg.",
+      "english": "She asks for directions.",
+      "russian": "Она спрашивает дорогу.",
+      "farsi": "او مسیر را می‌پرسد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man sollte höflich nach etwas fragen.",
+      "english": "One should ask for something politely.",
+      "russian": "Нужно вежливо спрашивать о чем-либо.",
+      "farsi": "آدم باید مؤدبانه درخواست کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er fragt immer nach dem Warum.",
+      "english": "He always asks about the 'why'.",
+      "russian": "Он всегда спрашивает о причине.",
+      "farsi": "او همیشه دلیلش را می‌پرسد."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "gehören zu + Dativ",
+      "Präsens": "Er gehört zu",
+      "Präteritum": "Er gehörte zu",
+      "Perfekt": "hat zu gehört",
+      "englishMeaning": "to belong to",
+      "englishUsage": "Refers to membership or being part of a group or category.",
+      "russianMeaning": "принадлежать к",
+      "russianUsage": "Означает принадлежность к группе или категории.",
+      "farsiMeaning": "متعلق بودن به",
+      "farsiUsage": "برای اشاره به عضویت یا بخشی از یک گروه یا دسته بودن استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dieses Buch gehört zu meiner Sammlung.",
+      "english": "This book is part of my collection.",
+      "russian": "Эта книга является частью моей коллекции.",
+      "farsi": "این کتاب بخشی از مجموعه من است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Gabel gehört zum Besteck.",
+      "english": "The fork belongs to the cutlery.",
+      "russian": "Вилка принадлежит к столовым приборам.",
+      "farsi": "چنگال متعلق به کارد و چنگال است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Deutschland gehört zu Europa.",
+      "english": "Germany is part of Europe.",
+      "russian": "Германия является частью Европы.",
+      "farsi": "آلمان بخشی از اروپا است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Diese Aufgabe gehört zu den schwierigsten.",
+      "english": "This task is one of the most difficult.",
+      "russian": "Это задание является одним из самых сложных.",
+      "farsi": "این وظیفه یکی از سخت‌ترین‌ها است."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "gratulieren zu + Dativ",
+      "Präsens": "Er gratuliert zu",
+      "Präteritum": "Er gratulierte zu",
+      "Perfekt": "hat zu gratuliert",
+      "englishMeaning": "to congratulate on",
+      "englishUsage": "Used to express congratulations for an achievement or event.",
+      "russianMeaning": "поздравлять с",
+      "russianUsage": "Используется для выражения поздравления по случаю достижения или события.",
+      "farsiMeaning": "تبریک گفتن به",
+      "farsiUsage": "برای بیان تبریک برای یک دستاورد یا رویداد استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich gratuliere dir zum Geburtstag.",
+      "english": "I congratulate you on your birthday.",
+      "russian": "Поздравляю тебя с днем рождения.",
+      "farsi": "تولدت را تبریک می‌گویم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir gratulieren zum Erfolg.",
+      "english": "We congratulate you on the success.",
+      "russian": "Поздравляем с успехом.",
+      "farsi": "موفقیت را تبریک می‌گوییم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat ihm zum neuen Job gratuliert.",
+      "english": "She congratulated him on the new job.",
+      "russian": "Она поздравила его с новой работой.",
+      "farsi": "او شغل جدیدش را به او تبریک گفت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Mannschaft wurde zum Sieg gratuliert.",
+      "english": "The team was congratulated on the victory.",
+      "russian": "Команда была поздравлена с победой.",
+      "farsi": "تیم برای پیروزی تبریک گفته شد."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "leiden an + Dativ",
+      "Präsens": "Er leidet an",
+      "Präteritum": "Er litt an",
+      "Perfekt": "hat an gelitten",
+      "englishMeaning": "to suffer from",
+      "englishUsage": "Used to describe enduring or suffering from an ailment or condition.",
+      "russianMeaning": "страдать от",
+      "russianUsage": "Используется для описания страдания или выносливости в случае недуга или состояния.",
+      "farsiMeaning": "رنج بردن از",
+      "farsiUsage": "برای توصیف تحمل یا رنج بردن از یک بیماری یا وضعیت استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er leidet an einer Krankheit.",
+      "english": "He suffers from an illness.",
+      "russian": "Он страдает от болезни.",
+      "farsi": "او از یک بیماری رنج می‌برد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Viele Menschen leiden unter Stress.",
+      "english": "Many people suffer from stress.",
+      "russian": "Многие люди страдают от стресса.",
+      "farsi": "بسیاری از مردم از استرس رنج می‌برند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie leidet unter Schlaflosigkeit.",
+      "english": "She suffers from insomnia.",
+      "russian": "Она страдает от бессонницы.",
+      "farsi": "او از بی‌خوابی رنج می‌برد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Pflanze leidet unter Wassermangel.",
+      "english": "The plant suffers from a lack of water.",
+      "russian": "Растение страдает от нехватки воды.",
+      "farsi": "گیاه از کمبود آب رنج می‌برد."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "passen zu + Dativ",
+      "Präsens": "Es passt zu",
+      "Präteritum": "Es passte zu",
+      "Perfekt": "hat zu gepasst",
+      "englishMeaning": "to fit, to match",
+      "englishUsage": "Refers to suitability or compatibility between things or people.",
+      "russianMeaning": "подходить к",
+      "russianUsage": "Означает совместимость или соответствие между вещами или людьми.",
+      "farsiMeaning": "سازگار بودن با",
+      "farsiUsage": "برای اشاره به سازگاری یا تناسب بین چیزها یا افراد استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dieses Kleid passt zu deinen Augen.",
+      "english": "This dress matches your eyes.",
+      "russian": "Это платье подходит к твоим глазам.",
+      "farsi": "این لباس با چشمانت هماهنگ است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Wein passt gut zum Essen.",
+      "english": "The wine goes well with the food.",
+      "russian": "Вино хорошо сочетается с едой.",
+      "farsi": "این شراب با غذا خوب می‌آید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Musik passt nicht zu dieser Stimmung.",
+      "english": "The music doesn't match this mood.",
+      "russian": "Музыка не подходит к этому настроению.",
+      "farsi": "این موسیقی با این حال و هوا همخوانی ندارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er passt perfekt in unser Team.",
+      "english": "He fits perfectly into our team.",
+      "russian": "Он идеально вписывается в нашу команду.",
+      "farsi": "او به طور کامل با تیم ما هماهنگ است."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "schützen vor + Dativ",
+      "Präsens": "Er schützt vor",
+      "Präteritum": "Er schützte vor",
+      "Perfekt": "hat vor geschützt",
+      "englishMeaning": "to protect from",
+      "englishUsage": "Used to express safeguarding someone or something from harm.",
+      "russianMeaning": "защищать от",
+      "russianUsage": "Используется для выражения защиты кого-либо или чего-либо от вреда.",
+      "farsiMeaning": "محافظت کردن از",
+      "farsiUsage": "برای اشاره به حفاظت از کسی یا چیزی در برابر آسیب استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Helm schützt vor Kopfverletzungen.",
+      "english": "The helmet protects against head injuries.",
+      "russian": "Шлем защищает от травм головы.",
+      "farsi": "کلاه ایمنی از آسیب‌های سر محافظت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Sonnencreme schützt vor Sonnenbrand.",
+      "english": "The sunscreen protects against sunburn.",
+      "russian": "Солнцезащитный крем защищает от солнечных ожогов.",
+      "farsi": "کرم ضدآفتاب از آفتاب‌سوختگی محافظت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Polizei schützt die Bürger.",
+      "english": "The police protect the citizens.",
+      "russian": "Полиция защищает граждан.",
+      "farsi": "پلیس از شهروندان محافظت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Eltern schützen ihre Kinder.",
+      "english": "The parents protect their children.",
+      "russian": "Родители защищают своих детей.",
+      "farsi": "والدین از فرزندان خود محافظت می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "sprechen mit + Dativ",
+      "Präsens": "Er spricht mit",
+      "Präteritum": "Er sprach mit",
+      "Perfekt": "hat mit gesprochen",
+      "englishMeaning": "to speak with",
+      "englishUsage": "Used to indicate having a conversation with someone.",
+      "russianMeaning": "говорить с",
+      "russianUsage": "Используется для обозначения разговора с кем-либо.",
+      "farsiMeaning": "صحبت کردن با",
+      "farsiUsage": "برای بیان مکالمه با کسی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich spreche mit meinem Freund.",
+      "english": "I speak with my friend.",
+      "russian": "Я говорю с моим другом.",
+      "farsi": "من با دوستم صحبت می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie spricht mit dem Lehrer.",
+      "english": "She speaks with the teacher.",
+      "russian": "Она говорит с учителем.",
+      "farsi": "او با معلم صحبت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man sollte offen mit seinen Problemen sprechen.",
+      "english": "One should speak openly about their problems.",
+      "russian": "Надо открыто говорить о своих проблемах.",
+      "farsi": "باید به طور باز درباره مشکلات خود صحبت کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er spricht fließend Englisch.",
+      "english": "He speaks English fluently.",
+      "russian": "Он свободно говорит по-английски.",
+      "farsi": "او به طور روان انگلیسی صحبت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "teilnehmen an + Dativ",
+      "Präsens": "Er nimmt an etwas teil",
+      "Präteritum": "Er nahm an etwas teil",
+      "Perfekt": "hat an etwas teilgenommen",
+      "englishMeaning": "to participate in",
+      "englishUsage": "Refers to taking part in an event or activity.",
+      "russianMeaning": "участвовать в",
+      "russianUsage": "Означает участие в событии или деятельности.",
+      "farsiMeaning": "شرکت کردن در",
+      "farsiUsage": "برای اشاره به شرکت در یک رویداد یا فعالیت استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich nehme an einem Kurs teil.",
+      "english": "I am taking part in a course.",
+      "russian": "Я принимаю участие в курсе.",
+      "farsi": "من در یک دوره شرکت می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie nimmt an der Party teil.",
+      "english": "She is attending the party.",
+      "russian": "Она принимает участие в вечеринке.",
+      "farsi": "او در مهمانی شرکت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Viele Menschen nehmen an Demonstrationen teil.",
+      "english": "Many people take part in demonstrations.",
+      "russian": "Многие люди принимают участие в демонстрациях.",
+      "farsi": "بسیاری از مردم در تظاهرات شرکت می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er nimmt gerne an Diskussionen teil.",
+      "english": "He likes to participate in discussions.",
+      "russian": "Ему нравится участвовать в обсуждениях.",
+      "farsi": "او دوست دارد در بحث‌ها شرکت کند."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "telefonieren mit + Dativ",
+      "Präsens": "Er telefoniert mit",
+      "Präteritum": "Er telefonierte mit",
+      "Perfekt": "hat mit telefoniert",
+      "englishMeaning": "to talk on the phone with",
+      "englishUsage": "Used to describe speaking with someone on the phone.",
+      "russianMeaning": "разговаривать по телефону с",
+      "russianUsage": "Используется для обозначения разговора по телефону с кем-либо.",
+      "farsiMeaning": "تلفنی صحبت کردن با",
+      "farsiUsage": "برای بیان مکالمه تلفنی با کسی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich telefoniere mit meiner Mutter.",
+      "english": "I am talking on the phone with my mother.",
+      "russian": "Я разговариваю по телефону с мамой.",
+      "farsi": "من با مادرم تلفنی صحبت می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie telefoniert mit ihrem Freund.",
+      "english": "She is talking on the phone with her friend.",
+      "russian": "Она разговаривает по телефону с другом.",
+      "farsi": "او با دوستش تلفنی صحبت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man sollte während des Fahrens nicht telefonieren.",
+      "english": "One should not talk on the phone while driving.",
+      "russian": "Не следует разговаривать по телефону во время вождения.",
+      "farsi": "نباید هنگام رانندگی با تلفن صحبت کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er telefoniert stundenlang.",
+      "english": "He talks on the phone for hours.",
+      "russian": "Он разговаривает по телефону часами.",
+      "farsi": "او ساعت‌ها با تلفن صحبت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "träumen von + Dativ",
+      "Präsens": "Er träumt von",
+      "Präteritum": "Er träumte von",
+      "Perfekt": "hat von geträumt",
+      "englishMeaning": "to dream of",
+      "englishUsage": "Refers to dreaming about something or someone, either literally or figuratively.",
+      "russianMeaning": "мечтать о",
+      "russianUsage": "Означает мечтать о чем-то или ком-то, буквально или в переносном смысле.",
+      "farsiMeaning": "رویای چیزی را داشتن",
+      "farsiUsage": "برای اشاره به رؤیاپردازی درباره چیزی یا کسی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich träume von einer Reise nach Italien.",
+      "english": "I dream of a trip to Italy.",
+      "russian": "Я мечтаю о поездке в Италию.",
+      "farsi": "من رویای سفری به ایتالیا را دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie träumt von einem großen Haus.",
+      "english": "She dreams of a big house.",
+      "russian": "Она мечтает о большом доме.",
+      "farsi": "او رویای یک خانه بزرگ را دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er träumt davon, berühmt zu werden.",
+      "english": "He dreams of becoming famous.",
+      "russian": "Он мечтает стать знаменитым.",
+      "farsi": "او رویای مشهور شدن را دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man sollte niemals aufhören, von seinen Träumen zu träumen.",
+      "english": "One should never stop dreaming of their dreams.",
+      "russian": "Никогда не стоит прекращать мечтать о своих мечтах.",
+      "farsi": "هرگز نباید از رویای خود دست کشید."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "sich treffen mit + Dativ",
+      "Präsens": "Er trifft sich mit",
+      "Präteritum": "Er traf sich mit",
+      "Perfekt": "hat sich mit getroffen",
+      "englishMeaning": "to meet with",
+      "englishUsage": "Used to describe meeting up with someone.",
+      "russianMeaning": "встретиться с",
+      "russianUsage": "Означает встречу с кем-либо.",
+      "farsiMeaning": "ملاقات کردن با",
+      "farsiUsage": "برای اشاره به ملاقات با کسی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich treffe mich mit meinen Freunden.",
+      "english": "I am meeting with my friends.",
+      "russian": "Я встречаюсь с друзьями.",
+      "farsi": "من با دوستانم ملاقات می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie trifft sich mit ihrem Kollegen.",
+      "english": "She is meeting with her colleague.",
+      "russian": "Она встречается с коллегой.",
+      "farsi": "او با همکارش ملاقات می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir treffen uns nächste Woche.",
+      "english": "We are meeting next week.",
+      "russian": "Мы встречаемся на следующей неделе.",
+      "farsi": "ما هفته آینده ملاقات می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man sollte alte Freunde öfter treffen.",
+      "english": "One should meet old friends more often.",
+      "russian": "Нужно чаще встречаться со старыми друзьями.",
+      "farsi": "باید بیشتر با دوستان قدیمی ملاقات کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "sich trennen von + Dativ",
+      "Präsens": "Er trennt sich von",
+      "Präteritum": "Er trennte sich von",
+      "Perfekt": "hat sich von getrennt",
+      "englishMeaning": "to separate from",
+      "englishUsage": "Refers to ending a relationship or disassociating from someone or something.",
+      "russianMeaning": "расстаться с",
+      "russianUsage": "Означает окончание отношений или разрыв с кем-то или чем-то.",
+      "farsiMeaning": "جدا شدن از",
+      "farsiUsage": "برای اشاره به پایان دادن به رابطه یا جدایی از کسی یا چیزی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat sich von ihrem Freund getrennt.",
+      "english": "She broke up with her boyfriend.",
+      "russian": "Она рассталась со своим парнем.",
+      "farsi": "او از دوست‌پسرش جدا شد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich muss mich von meinem alten Auto trennen.",
+      "english": "I have to part with my old car.",
+      "russian": "Мне нужно расстаться со своей старой машиной.",
+      "farsi": "باید از ماشین قدیمی‌ام جدا شوم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat sich von seinem Hobby getrennt.",
+      "english": "He gave up his hobby.",
+      "russian": "Он отказался от своего хобби.",
+      "farsi": "او از سرگرمی‌اش دست کشید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Manchmal muss man sich von Dingen trennen, die man nicht mehr braucht.",
+      "english": "Sometimes you have to part with things you no longer need.",
+      "russian": "Иногда нужно расставаться с вещами, которые больше не нужны.",
+      "farsi": "گاهی باید از چیزهایی که دیگر نیاز ندارید، جدا شوید."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "umgehen mit + Dativ",
+      "Präsens": "Er geht mit etwas um",
+      "Präteritum": "Er ging mit etwas um",
+      "Perfekt": "ist mit etwas umgegangen",
+      "englishMeaning": "to deal with",
+      "englishUsage": "Describes the handling or managing of a situation or problem.",
+      "russianMeaning": "обращаться с",
+      "russianUsage": "Означает управление или обращение с ситуацией или проблемой.",
+      "farsiMeaning": "برخورد کردن با",
+      "farsiUsage": "برای توصیف مدیریت یا رسیدگی به یک وضعیت یا مشکل استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er geht gut mit Tieren um.",
+      "english": "He handles animals well.",
+      "russian": "Он хорошо обращается с животными.",
+      "farsi": "او به خوبی با حیوانات رفتار می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie gehst du mit dieser Situation um?",
+      "english": "How do you handle this situation?",
+      "russian": "Как ты справляешься с этой ситуацией?",
+      "farsi": "چطور با این موقعیت برخورد می‌کنی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man muss vorsichtig mit zerbrechlichen Dingen umgehen.",
+      "english": "You have to handle fragile items carefully.",
+      "russian": "Нужно обращаться с хрупкими вещами осторожно.",
+      "farsi": "باید با اشیاء شکننده با دقت رفتار کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kinder müssen lernen, mit Konflikten umzugehen.",
+      "english": "Children need to learn how to handle conflicts.",
+      "russian": "Дети должны научиться справляться с конфликтами.",
+      "farsi": "بچه‌ها باید یاد بگیرند که چگونه با تعارضات برخورد کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "sich unterhalten mit + Dativ",
+      "Präsens": "Er unterhält sich mit",
+      "Präteritum": "Er unterhielt sich mit",
+      "Perfekt": "hat sich mit unterhalten",
+      "englishMeaning": "to converse with",
+      "englishUsage": "Used to describe a casual conversation with someone.",
+      "russianMeaning": "беседовать с",
+      "russianUsage": "Используется для описания неформальной беседы с кем-либо.",
+      "farsiMeaning": "گپ زدن با",
+      "farsiUsage": "برای اشاره به یک گفتگوی غیررسمی با کسی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich unterhalte mich gerne mit meinen Freunden.",
+      "english": "I like to chat with my friends.",
+      "russian": "Я люблю болтать со своими друзьями.",
+      "farsi": "دوست دارم با دوستانم صحبت کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie unterhält sich mit dem Nachbarn.",
+      "english": "She is chatting with the neighbor.",
+      "russian": "Она беседует с соседом.",
+      "farsi": "او با همسایه صحبت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man sollte sich höflich mit anderen Menschen unterhalten.",
+      "english": "One should converse politely with other people.",
+      "russian": "Нужно вежливо общаться с другими людьми.",
+      "farsi": "باید با دیگران مودبانه صحبت کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er unterhält sich stundenlang am Telefon.",
+      "english": "He talks on the phone for hours.",
+      "russian": "Он часами разговаривает по телефону.",
+      "farsi": "او ساعت‌ها با تلفن صحبت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "sich verabreden mit + Dativ",
+      "Präsens": "Er verabredet sich mit",
+      "Präteritum": "Er verabredete sich mit",
+      "Perfekt": "hat sich mit verabredet",
+      "englishMeaning": "to make an appointment with",
+      "englishUsage": "Describes arranging a meeting or appointment with someone.",
+      "russianMeaning": "договориться с",
+      "russianUsage": "Означает договоренность о встрече или назначении с кем-либо.",
+      "farsiMeaning": "قرار گذاشتن با",
+      "farsiUsage": "برای اشاره به ترتیب دادن یک قرار ملاقات با کسی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich verabrede mich mit ihr ins Kino.",
+      "english": "I’m making plans with her to go to the cinema.",
+      "russian": "Я договорился с ней пойти в кино.",
+      "farsi": "با او قرار می‌گذارم که به سینما برویم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie verabredet sich mit ihren Freunden zum Kaffee trinken.",
+      "english": "She is arranging to meet her friends for coffee.",
+      "russian": "Она договаривается встретиться с друзьями на кофе.",
+      "farsi": "او با دوستانش قرار می‌گذارد که قهوه بنوشند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir sollten uns mal wieder verabreden.",
+      "english": "We should make plans to meet up again.",
+      "russian": "Нам стоит снова договориться о встрече.",
+      "farsi": "باید دوباره قرار بگذاریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er verabredet sich oft mit verschiedenen Leuten.",
+      "english": "He often arranges to meet different people.",
+      "russian": "Он часто договаривается встретиться с разными людьми.",
+      "farsi": "او اغلب با افراد مختلف قرار می‌گذارد."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "sich verabreden zu + Dativ",
+      "Präsens": "Er verabredet sich zu etwas",
+      "Präteritum": "Er verabredete sich zu etwas",
+      "Perfekt": "hat sich zu etwas verabredet",
+      "englishMeaning": "to arrange to meet for",
+      "englishUsage": "Refers to scheduling a meeting or gathering for a specific activity.",
+      "russianMeaning": "договориться о",
+      "russianUsage": "Означает договоренность о встрече для определенной деятельности.",
+      "farsiMeaning": "قرار گذاشتن برای",
+      "farsiUsage": "برای اشاره به هماهنگ کردن یک قرار ملاقات برای فعالیت خاصی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben uns zu einem Treffen verabredet.",
+      "english": "We have arranged to meet.",
+      "russian": "Мы договорились о встрече.",
+      "farsi": "ما برای یک ملاقات قرار گذاشتیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie verabredet sich zu einem Treffen mit ihrer Freundin.",
+      "english": "She is arranging to meet her friend.",
+      "russian": "Она договаривается о встрече со своей подругой.",
+      "farsi": "او برای ملاقات با دوستش قرار می‌گذارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie haben sich zu einem gemeinsamen Urlaub verabredet.",
+      "english": "They have arranged to go on a holiday together.",
+      "russian": "Они договорились поехать в отпуск вместе.",
+      "farsi": "آنها برای تعطیلات مشترک برنامه‌ریزی کردند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat sich zu einem Bewerbungsgespräch verabredet.",
+      "english": "He has arranged for a job interview.",
+      "russian": "Он договорился о собеседовании на работу.",
+      "farsi": "او برای یک مصاحبه شغلی قرار گذاشت."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "verbinden mit + Dativ",
+      "Präsens": "Er verbindet sich mit",
+      "Präteritum": "Er verband sich mit",
+      "Perfekt": "hat mit verbunden",
+      "englishMeaning": "to connect with",
+      "englishUsage": "Describes establishing a connection with someone or something.",
+      "russianMeaning": "соединить с",
+      "russianUsage": "Означает установление связи с кем-то или чем-то.",
+      "farsiMeaning": "ارتباط برقرار کردن با",
+      "farsiUsage": "برای اشاره به ایجاد ارتباط با کسی یا چیزی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Verbinde die Punkte!",
+      "english": "Connect the dots!",
+      "russian": "Соедини точки!",
+      "farsi": "نقاط را به هم وصل کن!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bitte verbinden Sie mich mit der Abteilung für Kundenservice.",
+      "english": "Please connect me with the customer service department.",
+      "russian": "Пожалуйста, соедините меня с отделом обслуживания клиентов.",
+      "farsi": "لطفاً مرا به بخش خدمات مشتری متصل کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Viele Menschen verbinden Urlaub mit Entspannung.",
+      "english": "Many people associate vacation with relaxation.",
+      "russian": "Многие люди связывают отпуск с отдыхом.",
+      "farsi": "بسیاری از مردم تعطیلات را با استراحت مرتبط می‌دانند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Diese Ereignisse sind miteinander verbunden.",
+      "english": "These events are connected to each other.",
+      "russian": "Эти события связаны друг с другом.",
+      "farsi": "این رویدادها با یکدیگر مرتبط هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "verbringen mit + Dativ",
+      "Präsens": "Er verbringt Zeit mit",
+      "Präteritum": "Er verbrachte Zeit mit",
+      "Perfekt": "hat Zeit mit verbracht",
+      "englishMeaning": "to spend time with",
+      "englishUsage": "Refers to sharing time with someone.",
+      "russianMeaning": "проводить время с",
+      "russianUsage": "Означает проведение времени с кем-либо.",
+      "farsiMeaning": "وقت گذراندن با",
+      "farsiUsage": "برای اشاره به گذراندن وقت با کسی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich verbringe meine Freizeit gerne mit Lesen.",
+      "english": "I like to spend my free time reading.",
+      "russian": "Я люблю проводить свое свободное время за чтением.",
+      "farsi": "من دوست دارم وقت آزادم را با خواندن بگذرانم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie verbringt viel Zeit mit ihrer Familie.",
+      "english": "She spends a lot of time with her family.",
+      "russian": "Она проводит много времени со своей семьей.",
+      "farsi": "او زمان زیادی را با خانواده‌اش می‌گذراند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben einen schönen Abend miteinander verbracht.",
+      "english": "We had a nice evening together.",
+      "russian": "Мы провели приятный вечер вместе.",
+      "farsi": "ما یک شب زیبا را با هم گذراندیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er verbringt seine Ferien am Meer.",
+      "english": "He spends his holidays by the sea.",
+      "russian": "Он проводит свой отпуск у моря.",
+      "farsi": "او تعطیلاتش را کنار دریا می‌گذراند."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "vergleichen mit + Dativ",
+      "Präsens": "Er vergleicht mit",
+      "Präteritum": "Er verglich mit",
+      "Perfekt": "hat mit verglichen",
+      "englishMeaning": "to compare with",
+      "englishUsage": "Describes examining similarities or differences with something else.",
+      "russianMeaning": "сравнить с",
+      "russianUsage": "Означает рассмотрение сходств или различий с чем-либо.",
+      "farsiMeaning": "مقایسه کردن با",
+      "farsiUsage": "برای توصیف مقایسه شباهت‌ها یا تفاوت‌ها با چیزی دیگر استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich vergleiche diesen Film mit dem anderen.",
+      "english": "I am comparing this movie with the other one.",
+      "russian": "Я сравниваю этот фильм с другим.",
+      "farsi": "من این فیلم را با دیگری مقایسه می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie vergleicht die Preise.",
+      "english": "She compares the prices.",
+      "russian": "Она сравнивает цены.",
+      "farsi": "او قیمت‌ها را مقایسه می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man sollte verschiedene Angebote miteinander vergleichen.",
+      "english": "One should compare different offers with each other.",
+      "russian": "Нужно сравнивать разные предложения друг с другом.",
+      "farsi": "باید پیشنهادات مختلف را با هم مقایسه کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er vergleicht sich immer mit anderen.",
+      "english": "He always compares himself with others.",
+      "russian": "Он всегда сравнивает себя с другими.",
+      "farsi": "او همیشه خودش را با دیگران مقایسه می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "gehören zu + Dativ",
+      "Präsens": "Es gehört zu",
+      "Präteritum": "Es gehörte zu",
+      "Perfekt": "hat zu gehört",
+      "englishMeaning": "to belong to",
+      "englishUsage": "Refers to being part of a group or association.",
+      "russianMeaning": "принадлежать к",
+      "russianUsage": "Означает принадлежность к группе или ассоциации.",
+      "farsiMeaning": "تعلق داشتن به",
+      "farsiUsage": "برای اشاره به عضویت در گروه یا انجمن استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dieses Buch gehört zu meiner Sammlung.",
+      "english": "This book is part of my collection.",
+      "russian": "Эта книга является частью моей коллекции.",
+      "farsi": "این کتاب بخشی از مجموعه من است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Gabel gehört zum Besteck.",
+      "english": "The fork belongs to the cutlery.",
+      "russian": "Вилка принадлежит к столовым приборам.",
+      "farsi": "چنگال جزو سرویس قاشق و چنگال است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Deutschland gehört zu Europa.",
+      "english": "Germany is part of Europe.",
+      "russian": "Германия является частью Европы.",
+      "farsi": "آلمان بخشی از اروپا است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Diese Aufgabe gehört zu den schwierigsten.",
+      "english": "This task is one of the most difficult.",
+      "russian": "Это задание — одно из самых сложных.",
+      "farsi": "این وظیفه از سخت‌ترین‌هاست."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "gratulieren zu + Dativ",
+      "Präsens": "Er gratuliert zu",
+      "Präteritum": "Er gratulierte zu",
+      "Perfekt": "hat zu gratuliert",
+      "englishMeaning": "to congratulate on",
+      "englishUsage": "Used to express congratulations on an achievement or event.",
+      "russianMeaning": "поздравить с",
+      "russianUsage": "Используется для выражения поздравления с достижением или событием.",
+      "farsiMeaning": "تبریک گفتن برای",
+      "farsiUsage": "برای تبریک گفتن به دستاورد یا رویدادی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich gratuliere dir zum Geburtstag.",
+      "english": "I congratulate you on your birthday.",
+      "russian": "Поздравляю тебя с днем рождения.",
+      "farsi": "تولدت را تبریک می‌گویم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir gratulieren zum Erfolg.",
+      "english": "We congratulate you on the success.",
+      "russian": "Поздравляем с успехом.",
+      "farsi": "موفقیت را تبریک می‌گوییم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat ihm zum neuen Job gratuliert.",
+      "english": "She congratulated him on the new job.",
+      "russian": "Она поздравила его с новой работой.",
+      "farsi": "او شغل جدیدش را به او تبریک گفت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Mannschaft wurde zum Sieg gratuliert.",
+      "english": "The team was congratulated on the victory.",
+      "russian": "Команду поздравили с победой.",
+      "farsi": "به تیم به خاطر پیروزی تبریک گفته شد."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "leiden an + Dativ",
+      "Präsens": "Er leidet an",
+      "Präteritum": "Er litt an",
+      "Perfekt": "hat an gelitten",
+      "englishMeaning": "to suffer from",
+      "englishUsage": "Refers to experiencing pain or discomfort due to an illness or condition.",
+      "russianMeaning": "страдать от",
+      "russianUsage": "Используется для обозначения страдания от болезни или состояния.",
+      "farsiMeaning": "رنج بردن از",
+      "farsiUsage": "برای اشاره به تحمل درد یا ناراحتی به دلیل یک بیماری یا وضعیت استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich leide an einer Erkältung.",
+      "english": "I am suffering from a cold.",
+      "russian": "Я страдаю от простуды.",
+      "farsi": "من از سرماخوردگی رنج می‌برم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie leidet an einer Allergie.",
+      "english": "She suffers from an allergy.",
+      "russian": "Она страдает от аллергии.",
+      "farsi": "او از آلرژی رنج می‌برد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Pflanze leidet an einem Nährstoffmangel.",
+      "english": "The plant suffers from a nutrient deficiency.",
+      "russian": "Растение страдает от недостатка питательных веществ.",
+      "farsi": "گیاه از کمبود مواد مغذی رنج می‌برد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein Hund leidet an Flöhen.",
+      "english": "My dog suffers from fleas.",
+      "russian": "Моя собака страдает от блох.",
+      "farsi": "سگ من از کک‌ها رنج می‌برد."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "passen zu + Dativ",
+      "Präsens": "Es passt zu",
+      "Präteritum": "Es passte zu",
+      "Perfekt": "hat zu gepasst",
+      "englishMeaning": "to match or go with",
+      "englishUsage": "Indicates compatibility or suitability with someone or something.",
+      "russianMeaning": "подходить к",
+      "russianUsage": "Означает совместимость или соответствие с кем-либо или чем-либо.",
+      "farsiMeaning": "تناسب داشتن با",
+      "farsiUsage": "برای اشاره به سازگاری یا تناسب با کسی یا چیزی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Diese Farbe passt gut zu deinem Kleid.",
+      "english": "This color goes well with your dress.",
+      "russian": "Этот цвет хорошо подходит к твоему платью.",
+      "farsi": "این رنگ به لباس تو خیلی خوب می‌آید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Essen passt perfekt zu dem Wein.",
+      "english": "The food goes perfectly with the wine.",
+      "russian": "Еда идеально подходит к вину.",
+      "farsi": "غذا کاملاً با شراب هماهنگ است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Seine Einstellung passt nicht in unser Team.",
+      "english": "His attitude does not fit in our team.",
+      "russian": "Его отношение не подходит для нашей команды.",
+      "farsi": "طرز فکر او با تیم ما جور نیست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Musik passt nicht zu dieser Stimmung.",
+      "english": "The music does not match this mood.",
+      "russian": "Музыка не соответствует этому настроению.",
+      "farsi": "موسیقی با این حال و هوا سازگار نیست."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "schützen vor + Dativ",
+      "Präsens": "Er schützt vor",
+      "Präteritum": "Er schützte vor",
+      "Perfekt": "hat vor geschützt",
+      "englishMeaning": "to protect from",
+      "englishUsage": "Used to indicate safeguarding someone or something from harm or danger.",
+      "russianMeaning": "защищать от",
+      "russianUsage": "Используется для обозначения защиты кого-либо или чего-либо от вреда или опасности.",
+      "farsiMeaning": "حفاظت کردن از",
+      "farsiUsage": "برای اشاره به محافظت از کسی یا چیزی در برابر آسیب یا خطر استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ein Hut schützt vor der Sonne.",
+      "english": "A hat protects from the sun.",
+      "russian": "Шляпа защищает от солнца.",
+      "farsi": "یک کلاه از خورشید محافظت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Jacke schützt vor Kälte.",
+      "english": "The jacket protects from the cold.",
+      "russian": "Куртка защищает от холода.",
+      "farsi": "کت از سرما محافظت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Impfungen schützen uns vor Krankheiten.",
+      "english": "Vaccinations protect us from diseases.",
+      "russian": "Прививки защищают нас от болезней.",
+      "farsi": "واکسن‌ها ما را از بیماری‌ها محافظت می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Polizei schützt die Bürger.",
+      "english": "The police protect the citizens.",
+      "russian": "Полиция защищает граждан.",
+      "farsi": "پلیس از شهروندان محافظت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "sprechen mit + Dativ",
+      "Präsens": "Er spricht mit",
+      "Präteritum": "Er sprach mit",
+      "Perfekt": "hat mit gesprochen",
+      "englishMeaning": "to speak with",
+      "englishUsage": "Used to indicate having a conversation with someone.",
+      "russianMeaning": "говорить с",
+      "russianUsage": "Используется для обозначения разговора с кем-либо.",
+      "farsiMeaning": "صحبت کردن با",
+      "farsiUsage": "برای بیان مکالمه با کسی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich spreche mit meiner Mutter am Telefon.",
+      "english": "I am speaking with my mother on the phone.",
+      "russian": "Я говорю с мамой по телефону.",
+      "farsi": "من با مادرم تلفنی صحبت می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er spricht mit seinem Lehrer über die Hausaufgaben.",
+      "english": "He is speaking with his teacher about the homework.",
+      "russian": "Он говорит с учителем о домашнем задании.",
+      "farsi": "او با معلمش درباره تکالیف صحبت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man sollte offen mit seinen Problemen sprechen.",
+      "english": "One should speak openly about their problems.",
+      "russian": "Нужно открыто говорить о своих проблемах.",
+      "farsi": "باید به‌طور باز در مورد مشکلات خود صحبت کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie spricht fließend Englisch mit ihren Kollegen.",
+      "english": "She speaks fluent English with her colleagues.",
+      "russian": "Она свободно говорит по-английски с коллегами.",
+      "farsi": "او به‌طور روان با همکارانش انگلیسی صحبت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "teilnehmen an + Dativ",
+      "Präsens": "Er nimmt an etwas teil",
+      "Präteritum": "Er nahm an etwas teil",
+      "Perfekt": "hat an etwas teilgenommen",
+      "englishMeaning": "to participate in",
+      "englishUsage": "Refers to taking part in an event or activity.",
+      "russianMeaning": "участвовать в",
+      "russianUsage": "Означает участие в событии или деятельности.",
+      "farsiMeaning": "شرکت کردن در",
+      "farsiUsage": "برای اشاره به شرکت در یک رویداد یا فعالیت استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich nehme an einem Sprachkurs teil.",
+      "english": "I am taking part in a language course.",
+      "russian": "Я принимаю участие в языковом курсе.",
+      "farsi": "من در یک دوره زبان شرکت می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie nimmt an der Party teil.",
+      "english": "She is attending the party.",
+      "russian": "Она участвует в вечеринке.",
+      "farsi": "او در مهمانی شرکت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Viele Menschen nehmen an Demonstrationen teil.",
+      "english": "Many people participate in demonstrations.",
+      "russian": "Многие люди участвуют в демонстрациях.",
+      "farsi": "بسیاری از مردم در تظاهرات شرکت می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er nimmt gerne an Diskussionen teil.",
+      "english": "He likes to participate in discussions.",
+      "russian": "Он любит участвовать в обсуждениях.",
+      "farsi": "او دوست دارد در بحث‌ها شرکت کند."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "telefonieren mit + Dativ",
+      "Präsens": "Er telefoniert mit",
+      "Präteritum": "Er telefonierte mit",
+      "Perfekt": "hat mit telefoniert",
+      "englishMeaning": "to talk on the phone with",
+      "englishUsage": "Used to describe speaking with someone on the phone.",
+      "russianMeaning": "разговаривать по телефону с",
+      "russianUsage": "Используется для обозначения разговора по телефону с кем-либо.",
+      "farsiMeaning": "تلفنی صحبت کردن با",
+      "farsiUsage": "برای بیان مکالمه تلفنی با کسی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie telefoniert gerade mit ihrem Freund.",
+      "english": "She is currently on the phone with her boyfriend.",
+      "russian": "Она сейчас разговаривает по телефону со своим парнем.",
+      "farsi": "او در حال حاضر با دوست‌پسرش تلفنی صحبت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er telefoniert mit seiner Oma.",
+      "english": "He is on the phone with his grandmother.",
+      "russian": "Он разговаривает по телефону со своей бабушкой.",
+      "farsi": "او با مادربزرگش تلفنی صحبت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man sollte während des Fahrens nicht telefonieren.",
+      "english": "One should not talk on the phone while driving.",
+      "russian": "Не следует разговаривать по телефону во время вождения.",
+      "farsi": "هنگام رانندگی نباید تلفنی صحبت کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er telefoniert stundenlang mit seinen Freunden.",
+      "english": "He talks on the phone with his friends for hours.",
+      "russian": "Он разговаривает по телефону со своими друзьями часами.",
+      "farsi": "او ساعت‌ها با دوستانش تلفنی صحبت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "träumen von + Dativ",
+      "Präsens": "Er träumt von",
+      "Präteritum": "Er träumte von",
+      "Perfekt": "hat von geträumt",
+      "englishMeaning": "to dream of",
+      "englishUsage": "Refers to dreaming about something or someone, either literally or figuratively.",
+      "russianMeaning": "мечтать о",
+      "russianUsage": "Означает мечтать о чем-то или ком-то, буквально или в переносном смысле.",
+      "farsiMeaning": "رویای چیزی را داشتن",
+      "farsiUsage": "برای اشاره به رؤیاپردازی درباره چیزی یا کسی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich träume von einer Reise nach Italien.",
+      "english": "I dream of a trip to Italy.",
+      "russian": "Я мечтаю о поездке в Италию.",
+      "farsi": "من آرزوی سفری به ایتالیا را دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie träumt von einem großen Haus.",
+      "english": "She dreams of a big house.",
+      "russian": "Она мечтает о большом доме.",
+      "farsi": "او آرزوی یک خانه بزرگ را دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Als Kind habe ich davon geträumt, Astronaut zu werden.",
+      "english": "As a child, I dreamed of becoming an astronaut.",
+      "russian": "В детстве я мечтал стать космонавтом.",
+      "farsi": "در کودکی آرزو داشتم فضانورد شوم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie träumt von einer besseren Zukunft für ihre Kinder.",
+      "english": "She dreams of a better future for her children.",
+      "russian": "Она мечтает о лучшем будущем для своих детей.",
+      "farsi": "او آرزوی آینده‌ای بهتر برای فرزندانش دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "sich treffen mit + Dativ",
+      "Präsens": "Er trifft sich mit",
+      "Präteritum": "Er traf sich mit",
+      "Perfekt": "hat sich mit getroffen",
+      "englishMeaning": "to meet with",
+      "englishUsage": "Used to describe meeting up with someone.",
+      "russianMeaning": "встретиться с",
+      "russianUsage": "Означает встречу с кем-либо.",
+      "farsiMeaning": "ملاقات کردن با",
+      "farsiUsage": "برای اشاره به ملاقات با کسی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir treffen uns heute Abend im Café.",
+      "english": "We are meeting tonight at the café.",
+      "russian": "Мы встречаемся сегодня вечером в кафе.",
+      "farsi": "ما امشب در کافه ملاقات می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie trifft sich mit ihrer Freundin zum Kaffee.",
+      "english": "She is meeting her friend for coffee.",
+      "russian": "Она встречается с подругой на кофе.",
+      "farsi": "او با دوستش برای قهوه ملاقات می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir sollten uns mal wieder treffen.",
+      "english": "We should meet again sometime.",
+      "russian": "Нам нужно снова встретиться как-нибудь.",
+      "farsi": "باید یک بار دیگر ملاقات کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie treffen sich regelmäßig zu einem Spieleabend.",
+      "english": "They meet regularly for a game night.",
+      "russian": "Они регулярно встречаются для игры вечером.",
+      "farsi": "آن‌ها به طور منظم برای شب بازی ملاقات می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "sich trennen von + Dativ",
+      "Präsens": "Er trennt sich von",
+      "Präteritum": "Er trennte sich von",
+      "Perfekt": "hat sich von getrennt",
+      "englishMeaning": "to separate from",
+      "englishUsage": "Refers to ending a relationship or disassociating from someone or something.",
+      "russianMeaning": "расстаться с",
+      "russianUsage": "Означает окончание отношений или разрыв с кем-то или чем-то.",
+      "farsiMeaning": "جدا شدن از",
+      "farsiUsage": "برای اشاره به پایان دادن به رابطه یا جدایی از کسی یا چیزی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat sich von ihrem Freund getrennt.",
+      "english": "She broke up with her boyfriend.",
+      "russian": "Она рассталась со своим парнем.",
+      "farsi": "او از دوست پسرش جدا شد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er trennt sich von seinem alten Fahrrad.",
+      "english": "He is parting with his old bicycle.",
+      "russian": "Он расстается со своим старым велосипедом.",
+      "farsi": "او از دوچرخه قدیمی خود جدا می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Manchmal muss man sich von alten Dingen trennen.",
+      "english": "Sometimes you have to part with old things.",
+      "russian": "Иногда нужно расставаться со старыми вещами.",
+      "farsi": "گاهی باید از چیزهای قدیمی جدا شد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat sich von seinem Hobby getrennt.",
+      "english": "He gave up his hobby.",
+      "russian": "Он отказался от своего хобби.",
+      "farsi": "او از سرگرمی‌اش دست کشید."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "umgehen mit + Dativ",
+      "Präsens": "Er geht mit etwas um",
+      "Präteritum": "Er ging с etwas um",
+      "Perfekt": "ist mit etwas umgegangen",
+      "englishMeaning": "to deal with",
+      "englishUsage": "Describes the handling or managing of a situation or problem.",
+      "russianMeaning": "обращаться с",
+      "russianUsage": "Означает управление или обращение с ситуацией или проблемой.",
+      "farsiMeaning": "برخورد کردن با",
+      "farsiUsage": "برای توصیف مدیریت یا رسیدگی به یک وضعیت یا مشکل استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kinder müssen lernen, mit Tieren umzugehen.",
+      "english": "Children need to learn how to handle animals.",
+      "russian": "Детям нужно научиться обращаться с животными.",
+      "farsi": "بچه‌ها باید یاد بگیرند چگونه با حیوانات برخورد کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man muss vorsichtig mit Glas umgehen.",
+      "english": "One must handle glass carefully.",
+      "russian": "Нужно осторожно обращаться со стеклом.",
+      "farsi": "باید با شیشه با احتیاط رفتار کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie gehst du mit Kritik um?",
+      "english": "How do you deal with criticism?",
+      "russian": "Как ты справляешься с критикой?",
+      "farsi": "چگونه با انتقاد برخورد می‌کنی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man muss vorsichtig mit diesem Thema umgehen.",
+      "english": "One has to handle this topic carefully.",
+      "russian": "С этой темой нужно обращаться осторожно.",
+      "farsi": "باید با این موضوع با احتیاط برخورد کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "sich unterhalten + Dativ",
+      "Präsens": "Er unterhält sich",
+      "Präteritum": "Er unterhielt sich",
+      "Perfekt": "hat sich unterhalten",
+      "englishMeaning": "to have a conversation",
+      "englishUsage": "Describes engaging in a discussion or chat with someone.",
+      "russianMeaning": "беседовать",
+      "russianUsage": "Означает участие в разговоре или беседе с кем-либо.",
+      "farsiMeaning": "گپ زدن",
+      "farsiUsage": "برای توصیف داشتن مکالمه با کسی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir unterhalten uns über das Wetter.",
+      "english": "We are talking about the weather.",
+      "russian": "Мы говорим о погоде.",
+      "farsi": "ما در مورد هوا صحبت می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er unterhält sich mit seinem Lehrer über die Hausaufgaben.",
+      "english": "He is talking with his teacher about the homework.",
+      "russian": "Он разговаривает со своим учителем о домашнем задании.",
+      "farsi": "او با معلمش درباره تکالیف صحبت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Kollegen unterhalten sich über das neue Projekt.",
+      "english": "The colleagues are discussing the new project.",
+      "russian": "Коллеги обсуждают новый проект.",
+      "farsi": "همکاران در مورد پروژه جدید صحبت می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie unterhält sich gerne mit ihren Freunden über Bücher.",
+      "english": "She enjoys talking with her friends about books.",
+      "russian": "Она любит говорить с друзьями о книгах.",
+      "farsi": "او دوست دارد با دوستانش درباره کتاب‌ها صحبت کند."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "sich verabreden mit + Dativ",
+      "Präsens": "Er verabredet sich mit",
+      "Präteritum": "Er verabredete sich mit",
+      "Perfekt": "hat sich mit verabredet",
+      "englishMeaning": "to arrange to meet with",
+      "englishUsage": "Used to describe setting a meeting time with someone.",
+      "russianMeaning": "договориться о встрече с",
+      "russianUsage": "Означает договоренность о встрече с кем-либо.",
+      "farsiMeaning": "قرار گذاشتن با",
+      "farsiUsage": "برای توصیف تعیین وقت ملاقات با کسی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich verabrede mich mit meiner Freundin ins Kino.",
+      "english": "I'm arranging to meet my friend at the cinema.",
+      "russian": "Я договариваюсь с подругой пойти в кино.",
+      "farsi": "قرار می‌گذارم با دوستم به سینما بروم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie verabredet sich zu einem Treffen mit ihrer Lehrerin.",
+      "english": "She arranges a meeting with her teacher.",
+      "russian": "Она договаривается о встрече с учителем.",
+      "farsi": "او قرار ملاقات با معلمش می‌گذارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat sich mit ihm zum Mittagessen verabredet.",
+      "english": "She has arranged to meet him for lunch.",
+      "russian": "Она договорилась встретиться с ним на обед.",
+      "farsi": "او قرار گذاشته با او برای ناهار ملاقات کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat sich mit ihr zu einem Konzert verabredet.",
+      "english": "He has arranged to meet her for a concert.",
+      "russian": "Он договорился встретиться с ней на концерте.",
+      "farsi": "او قرار گذاشته با او به کنسرت برود."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "sich verabreden zu + Dativ",
+      "Präsens": "Er verabredet sich zu",
+      "Präteritum": "Er verabredete sich zu",
+      "Perfekt": "hat sich zu verabredet",
+      "englishMeaning": "to agree to do something",
+      "englishUsage": "Used to describe making a plan to do something specific with someone.",
+      "russianMeaning": "договориться о чем-то",
+      "russianUsage": "Используется для обозначения планирования чего-либо с кем-то.",
+      "farsiMeaning": "برنامه‌ریزی برای انجام کاری",
+      "farsiUsage": "برای توصیف توافق بر انجام کاری با کسی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich verabrede mich zu einem Kaffee mit meiner Freundin.",
+      "english": "I'm arranging to have coffee with my friend.",
+      "russian": "Я договариваюсь выпить кофе с подругой.",
+      "farsi": "قرار می‌گذارم با دوستم برای قهوه ملاقات کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir verabreden uns zum Schwimmen mit den Nachbarn.",
+      "english": "We are arranging to go swimming with the neighbors.",
+      "russian": "Мы договариваемся пойти плавать с соседями.",
+      "farsi": "ما با همسایه‌ها برای شنا قرار می‌گذاریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat sich zu einem Kinobesuch mit ihrem Freund verabredet.",
+      "english": "She has arranged to go to the cinema with her boyfriend.",
+      "russian": "Она договорилась пойти в кино со своим парнем.",
+      "farsi": "او قرار گذاشته با دوست‌پسرش به سینما برود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben uns zu einem gemeinsamen Abendessen mit den Kollegen verabredet.",
+      "english": "We arranged to have a joint dinner with our colleagues.",
+      "russian": "Мы договорились о совместном ужине с коллегами.",
+      "farsi": "ما برای یک شام مشترک با همکاران قرار گذاشتیم."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "verbinden mit + Dativ",
+      "Präsens": "Er verbindet mit",
+      "Präteritum": "Er verband mit",
+      "Perfekt": "hat mit verbunden",
+      "englishMeaning": "to connect with",
+      "englishUsage": "Indicates making a connection or association with someone or something.",
+      "russianMeaning": "связаться с",
+      "russianUsage": "Означает установление связи или ассоциации с кем-то или чем-то.",
+      "farsiMeaning": "ارتباط برقرار کردن با",
+      "farsiUsage": "برای اشاره به برقراری ارتباط با کسی یا چیزی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bitte verbinden Sie mich mit der Buchhaltung.",
+      "english": "Please connect me to the accounting department.",
+      "russian": "Пожалуйста, соедините меня с бухгалтерией.",
+      "farsi": "لطفاً مرا به بخش حسابداری وصل کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Verbinde die beiden Sätze mit 'und'.",
+      "english": "Connect the two sentences with 'and'.",
+      "russian": "Соедините два предложения с помощью 'и'.",
+      "farsi": "دو جمله را با 'و' به هم وصل کن."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Brücke verbindet die beiden Städte.",
+      "english": "The bridge connects the two cities.",
+      "russian": "Мост соединяет два города.",
+      "farsi": "پل دو شهر را به هم متصل می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Verbinde das Gerät mit dem Computer.",
+      "english": "Connect the device to the computer.",
+      "russian": "Подключите устройство к компьютеру.",
+      "farsi": "دستگاه را به کامپیوتر وصل کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "verbringen mit + Dativ",
+      "Präsens": "Er verbringt mit",
+      "Präteritum": "Er verbrachte mit",
+      "Perfekt": "hat mit verbracht",
+      "englishMeaning": "to spend time with",
+      "englishUsage": "Used to describe spending time with someone or doing something together.",
+      "russianMeaning": "проводить время с",
+      "russianUsage": "Используется для обозначения проведения времени с кем-либо.",
+      "farsiMeaning": "وقت گذراندن با",
+      "farsiUsage": "برای توصیف گذراندن وقت با کسی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich verbringe meine Freizeit gerne mit Lesen.",
+      "english": "I like to spend my free time reading.",
+      "russian": "Я люблю проводить свободное время за чтением.",
+      "farsi": "دوست دارم اوقات فراغتم را به خواندن بگذرانم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir verbringen Weihnachten mit unseren Großeltern.",
+      "english": "We spend Christmas with our grandparents.",
+      "russian": "Мы проводим Рождество с нашими бабушкой и дедушкой.",
+      "farsi": "ما کریسمس را با پدربزرگ و مادربزرگمان می‌گذرانیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie verbringt viel Zeit damit, zu zeichnen.",
+      "english": "She spends a lot of time drawing.",
+      "russian": "Она тратит много времени на рисование.",
+      "farsi": "او زمان زیادی را صرف نقاشی می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie verbringt ihr Leben damit, anderen zu helfen.",
+      "english": "She spends her life helping others.",
+      "russian": "Она проводит свою жизнь, помогая другим.",
+      "farsi": "او زندگی‌اش را صرف کمک به دیگران می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "vergleichen mit + Dativ",
+      "Präsens": "Er vergleicht mit",
+      "Präteritum": "Er verglich mit",
+      "Perfekt": "hat mit verglichen",
+      "englishMeaning": "to compare with",
+      "englishUsage": "Describes examining similarities or differences with something else.",
+      "russianMeaning": "сравнить с",
+      "russianUsage": "Означает рассмотрение сходств или различий с чем-либо.",
+      "farsiMeaning": "مقایسه کردن با",
+      "farsiUsage": "برای توصیف مقایسه شباهت‌ها یا تفاوت‌ها با چیزی دیگر استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vergleiche die beiden Bilder miteinander.",
+      "english": "Compare the two pictures with each other.",
+      "russian": "Сравни два изображения друг с другом.",
+      "farsi": "دو تصویر را با هم مقایسه کن."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vergleiche deine Lösung mit meiner.",
+      "english": "Compare your solution with mine.",
+      "russian": "Сравни своё решение с моим.",
+      "farsi": "راه‌حل خود را با من مقایسه کن."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man kann die Situation nicht mit der vorherigen vergleichen.",
+      "english": "You can't compare the situation with the previous one.",
+      "russian": "Нельзя сравнивать эту ситуацию с предыдущей.",
+      "farsi": "نمی‌توان این وضعیت را با وضعیت قبلی مقایسه کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man kann die deutsche Kultur nicht mit der französischen vergleichen.",
+      "english": "You can't compare German culture with French culture.",
+      "russian": "Нельзя сравнивать немецкую культуру с французской.",
+      "farsi": "نمی‌توان فرهنگ آلمانی را با فرهنگ فرانسوی مقایسه کرد."
+    }
+  ]
+}

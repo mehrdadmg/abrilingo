@@ -1,0 +1,905 @@
+{
+  "info": {
+    "name": "B1_Fokus_u01",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hallo Ernesto, guten Morgen. Wie war dein Wochenende?",
+      "english": "Hello Ernesto, good morning. How was your weekend?",
+      "russian": "Привет, Эрнесто, доброе утро. Как прошли твои выходные?",
+      "farsi": "سلام ارنستو، صبح بخیر. آخر هفته‌ات چطور بود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hallo Muhammed, nicht schlecht. Ich hatte Besuch von Freunden aus Stuttgart. Was hast du gemacht?",
+      "english": "Hello Muhammed, not bad. I had friends from Stuttgart visiting. What did you do?",
+      "russian": "Привет, Мухаммед, неплохо. У меня были друзья из Штутгарта в гостях. А ты что делал?",
+      "farsi": "سلام محمد، بد نبود. دوستانی از اشتوتگارت به دیدنم آمدند. تو چه کار کردی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe meiner Schwester und ihrem Mann beim Umzug geholfen.",
+      "english": "I helped my sister and her husband with their move.",
+      "russian": "Я помогал сестре и её мужу с переездом.",
+      "farsi": "به خواهرم و شوهرش در اسباب‌کشی کمک کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dann war dein Wochenende also nicht so erholsam.",
+      "english": "So, your weekend wasn’t that relaxing.",
+      "russian": "Значит, твои выходные не были такими спокойными.",
+      "farsi": "پس آخر هفته‌ات چندان آرام نبود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Gibst du mir mal bitte meine Arbeitsschuhe runter?",
+      "english": "Could you please hand me down my work shoes?",
+      "russian": "Можешь, пожалуйста, передать мне мои рабочие ботинки?",
+      "farsi": "می‌توانی لطفاً کفش‌های کارم را به من بدهی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hier, bitte. Ja, stimmt, es war ziemlich anstrengend.",
+      "english": "Here you go. Yes, that's right, it was quite exhausting.",
+      "russian": "Вот, пожалуйста. Да, верно, это было довольно утомительно.",
+      "farsi": "بفرما. بله، درست است، خیلی خسته‌کننده بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Na ja, vielleicht kannst du dich ein bisschen bei der Arbeit erholen.",
+      "english": "Well, maybe you can rest a bit at work.",
+      "russian": "Ну, может быть, ты сможешь немного отдохнуть на работе.",
+      "farsi": "خب، شاید بتوانی کمی در محل کار استراحت کنی."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Diese Woche gibt es nicht so viel zu tun wie letzte Woche.",
+      "english": "This week, there's not as much to do as last week.",
+      "russian": "На этой неделе дел не так много, как на прошлой.",
+      "farsi": "این هفته کار به اندازه هفته گذشته نیست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das wäre gut. Dann bin ich vielleicht fit genug, damit ich nächste Woche meine Küche streichen kann.",
+      "english": "That would be good. Then maybe I’ll be fit enough to paint my kitchen next week.",
+      "russian": "Это было бы хорошо. Тогда, возможно, у меня будет достаточно сил, чтобы покрасить кухню на следующей неделе.",
+      "farsi": "این خوب است. شاید آن وقت برای رنگ کردن آشپزخانه‌ام در هفته آینده آماده باشم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hallo, ich bin Julia Weiß. Ich glaube, ich habe Sie letzte Woche zum ersten Mal hier gesehen.",
+      "english": "Hello, I’m Julia Weiß. I think I saw you here for the first time last week.",
+      "russian": "Здравствуйте, я Юлия Вайс. Я думаю, что видела вас здесь впервые на прошлой неделе.",
+      "farsi": "سلام، من جولیا وایس هستم. فکر می‌کنم شما را اولین بار هفته گذشته اینجا دیدم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sind Sie neu zugezogen?",
+      "english": "Did you just move here?",
+      "russian": "Вы недавно сюда переехали?",
+      "farsi": "آیا شما تازه به اینجا نقل مکان کرده‌اید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, ich bin mit meinem Mann und den Kindern vor vier Wochen in Haus Nummer 35 gezogen.",
+      "english": "Yes, I moved into house number 35 with my husband and children four weeks ago.",
+      "russian": "Да, я переехала в дом номер 35 с мужем и детьми четыре недели назад.",
+      "farsi": "بله، من چهار هفته پیش با شوهرم و بچه‌هایم به خانه شماره ۳۵ نقل مکان کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich heiße Hend Fathallah.",
+      "english": "My name is Hend Fathallah.",
+      "russian": "Меня зовут Хенд Фаталлах.",
+      "farsi": "اسم من هند فتح‌الله است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ach wie schön, haben Sie sich schon etwas eingelebt?",
+      "english": "Oh, how nice! Have you settled in a bit already?",
+      "russian": "О, как хорошо! Вы уже немного обжились?",
+      "farsi": "آه، چه خوب! آیا کمی جا افتاده‌اید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Na ja, die Wohnung ist noch etwas chaotisch.",
+      "english": "Well, the apartment is still a bit chaotic.",
+      "russian": "Ну, квартира всё ещё немного хаотична.",
+      "farsi": "خب، آپارتمان هنوز کمی بهم ریخته است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir hatten noch keine Zeit, alles auszupacken.",
+      "english": "We haven’t had time to unpack everything yet.",
+      "russian": "У нас ещё не было времени распаковать всё.",
+      "farsi": "ما هنوز وقت نکرده‌ایم همه چیز را باز کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber die Nachbarschaft gefällt mir gut, die Leute im Haus sind sehr nett.",
+      "english": "But I like the neighborhood; the people in the building are very nice.",
+      "russian": "Но мне нравится район, люди в доме очень приятные.",
+      "farsi": "اما محله را دوست دارم؛ مردم ساختمان بسیار مهربان هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, ich denke, dass wir hier in der Straße ganz allgemein eine gute Nachbarschaft haben.",
+      "english": "Yes, I think we have a generally good neighborhood here on this street.",
+      "russian": "Да, я думаю, что у нас здесь, на улице, в целом хорошие соседи.",
+      "farsi": "بله، فکر می‌کنم در کل در این خیابان همسایگی خوبی داریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Leute kennen sich und sie helfen sich gegenseitig.",
+      "english": "People know each other and they help each other.",
+      "russian": "Люди знают друг друга и помогают друг другу.",
+      "farsi": "مردم یکدیگر را می‌شناسند و به هم کمک می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich finde auch gut, dass es Musik gibt und dass die Leute tanzen.",
+      "english": "I also like that there is music and that people are dancing.",
+      "russian": "Мне также нравится, что есть музыка и люди танцуют.",
+      "farsi": "همچنین خوشم می‌آید که موسیقی هست و مردم می‌رقصند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, ich auch. Im letzten Jahr hatten wir keine Musik.",
+      "english": "Yes, me too. Last year, we didn't have any music.",
+      "russian": "Да, я тоже. В прошлом году у нас не было музыки.",
+      "farsi": "بله، من هم همینطور. سال گذشته ما هیچ موسیقی‌ای نداشتیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bedaure sehr, dass ich kein Instrument spiele.",
+      "english": "I really regret that I don’t play an instrument.",
+      "russian": "Я очень сожалею, что не играю на музыкальном инструменте.",
+      "farsi": "واقعاً متاسفم که ساز نمی‌نوازم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich spiele ganz gut Gitarre. Vielleicht kann ich ja nächstes Jahr auf dem Nachbarschaftsfest auch etwas spielen.",
+      "english": "I play the guitar quite well. Maybe I could play something at the neighborhood festival next year.",
+      "russian": "Я неплохо играю на гитаре. Может быть, я смогу что-нибудь сыграть на соседском празднике в следующем году.",
+      "farsi": "من گیتار را به خوبی می‌نوازم. شاید بتوانم سال آینده در جشن همسایگی هم چیزی بنوازم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Warum spielen Sie nicht morgen Nachmittag ein Stück auf der Gitarre? Da gibt es eine offene Bühne.",
+      "english": "Why don’t you play a piece on the guitar tomorrow afternoon? There’s an open stage.",
+      "russian": "Почему бы вам не сыграть на гитаре завтра днем? Там будет открытая сцена.",
+      "farsi": "چرا فردا بعدازظهر یک قطعه با گیتار نمی‌نوازید؟ آنجا یک صحنه باز وجود دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Oh, wirklich? Das ist eine gute Idee ...",
+      "english": "Oh, really? That’s a good idea ...",
+      "russian": "О, правда? Это хорошая идея ...",
+      "farsi": "اوه، واقعاً؟ این ایده خوبی است ..."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hallo, du kommst gerade aus dem Urlaub zurück und machst schon Kaffeepause?",
+      "english": "Hi, you just got back from vacation, and you’re already on a coffee break?",
+      "russian": "Привет, ты только что вернулся из отпуска и уже делаешь перерыв на кофе?",
+      "farsi": "سلام، تازه از تعطیلات برگشتی و همین حالا در حال استراحت با قهوه هستی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, fünf Minuten Pause müssen sein. Nach drei Wochen Urlaub bin ich schon wieder voll im Stress.",
+      "english": "Yes, five minutes of break are necessary. After three weeks of vacation, I'm already back in full stress.",
+      "russian": "Да, пять минут перерыва необходимы. После трёх недель отпуска я снова полностью в стрессе.",
+      "farsi": "بله، پنج دقیقه استراحت لازم است. بعد از سه هفته تعطیلات، دوباره کاملاً تحت استرس هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Erzähl mal. Wie war es denn?",
+      "english": "Tell me, how was it?",
+      "russian": "Расскажи, как это было?",
+      "farsi": "تعریف کن، چطور بود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wunderbar. Wir hatten so ein Glück mit dem Wetter.",
+      "english": "Wonderful. We were so lucky with the weather.",
+      "russian": "Прекрасно. Нам так повезло с погодой.",
+      "farsi": "عالی بود. ما خیلی خوش‌شانس بودیم که هوا خوب بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was habt ihr gemacht?",
+      "english": "What did you do?",
+      "russian": "Что вы делали?",
+      "farsi": "چه کار کردید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir waren jeden Tag am Strand und haben im Meer gebadet. Urlaub an der Nordsee ist wirklich schön.",
+      "english": "We were at the beach every day and swam in the sea. Vacationing at the North Sea is really nice.",
+      "russian": "Мы были на пляже каждый день и купались в море. Отдых на Северном море действительно прекрасен.",
+      "farsi": "ما هر روز در ساحل بودیم و در دریا شنا کردیم. تعطیلات در دریای شمال واقعاً زیباست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Leider war ich noch nie am Meer.",
+      "english": "Unfortunately, I have never been to the sea.",
+      "russian": "К сожалению, я никогда не был на море.",
+      "farsi": "متأسفانه، من هرگز دریا را ندیده‌ام."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Du musst da unbedingt mal Urlaub machen. Das lohnt sich!",
+      "english": "You definitely have to take a vacation there. It’s worth it!",
+      "russian": "Тебе обязательно нужно съездить туда в отпуск. Это того стоит!",
+      "farsi": "حتماً باید آنجا تعطیلات بروی. ارزشش را دارد!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ist hier noch frei? Ja, bitte. Nehmen Sie Platz. Vielen Dank.",
+      "english": "Is this seat free? Yes, please. Take a seat. Thank you.",
+      "russian": "Здесь свободно? Да, пожалуйста. Садитесь. Спасибо.",
+      "farsi": "آیا اینجا خالی است؟ بله، بفرمایید. بنشینید. متشکرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sind Sie neu in der Firma? Ich habe Sie hier noch nie gesehen.",
+      "english": "Are you new at the company? I haven’t seen you here before.",
+      "russian": "Вы новый сотрудник в компании? Я вас здесь раньше не видел.",
+      "farsi": "آیا تازه‌وارد شرکت هستید؟ قبلاً شما را اینجا ندیده‌ام."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, ich arbeite erst seit fünf Tagen hier.",
+      "english": "Yes, I’ve only been working here for five days.",
+      "russian": "Да, я работаю здесь всего пять дней.",
+      "farsi": "بله، من فقط پنج روز است که اینجا کار می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In welcher Abteilung sind Sie? Ich arbeite im Lager.",
+      "english": "Which department are you in? I work in the warehouse.",
+      "russian": "В каком отделе вы работаете? Я работаю на складе.",
+      "farsi": "در کدام بخش هستید؟ من در انبار کار می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Gefällt Ihnen die Arbeit?",
+      "english": "Do you like the work?",
+      "russian": "Вам нравится работа?",
+      "farsi": "آیا از کار خوشتان می‌آید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, sehr gut. Auch die Kollegen sind sehr nett. Sie helfen mir immer, wenn ich Fragen habe.",
+      "english": "Yes, very much. The colleagues are also very nice. They always help me when I have questions.",
+      "russian": "Да, очень. Коллеги тоже очень добры. Они всегда помогают мне, когда у меня есть вопросы.",
+      "farsi": "بله، خیلی خوب. همکاران نیز بسیار مهربان هستند. آنها همیشه به من کمک می‌کنند وقتی سؤالی دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, wir haben hier in der Firma wirklich ein gutes Arbeitsklima.",
+      "english": "Yes, we really have a good working environment here in the company.",
+      "russian": "Да, у нас действительно хорошая рабочая атмосфера в компании.",
+      "farsi": "بله، واقعاً اینجا در شرکت محیط کاری خوبی داریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Einen schönen guten Abend, liebe Hörerinnen und Hörer.",
+      "english": "A very good evening, dear listeners.",
+      "russian": "Добрый вечер, уважаемые слушатели.",
+      "farsi": "عصر بخیر، شنوندگان عزیز."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In unserer Reihe \"Das Berufsleben\" wollen wir heute über das Thema \"Kommunikation und Umgangsformen am Arbeitsplatz\" sprechen.",
+      "english": "In our series 'Professional Life', today we want to talk about the topic 'Communication and Etiquette in the Workplace'.",
+      "russian": "В нашем цикле «Профессиональная жизнь» мы сегодня хотим поговорить на тему «Коммуникация и этикет на рабочем месте».",
+      "farsi": "در سری «زندگی حرفه‌ای» امروز می‌خواهیم درباره موضوع «ارتباطات و آداب و رسوم در محیط کار» صحبت کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im Studio begrüße ich als Gast Herrn Pedroza, Experte für Kommunikation.",
+      "english": "In the studio, I welcome Mr. Pedroza as a guest, an expert in communication.",
+      "russian": "В студии я приветствую нашего гостя, господина Педросу, эксперта по коммуникации.",
+      "farsi": "در استودیو به عنوان مهمان، آقای پدروزا، کارشناس ارتباطات را خوشامد می‌گویم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat seine Masterarbeit über das Thema „Höflichkeit und Respekt in Unternehmen\" geschrieben.",
+      "english": "He wrote his master's thesis on the topic 'Politeness and Respect in Companies'.",
+      "russian": "Он написал свою магистерскую диссертацию на тему «Вежливость и уважение в компаниях».",
+      "farsi": "او پایان‌نامه کارشناسی ارشد خود را در مورد موضوع «ادب و احترام در شرکت‌ها» نوشته است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir alle wissen, dass es Regeln gibt, wenn man zu einer Person \"Du\" oder \"Sie\" sagt, aber diese Regeln gelten nicht immer.",
+      "english": "We all know that there are rules for when to use 'Du' or 'Sie' with someone, but these rules don’t always apply.",
+      "russian": "Мы все знаем, что существуют правила для использования «ты» или «вы», но эти правила не всегда применяются.",
+      "farsi": "همه ما می‌دانیم که قوانینی برای گفتن «تو» یا «شما» به کسی وجود دارد، اما این قوانین همیشه صدق نمی‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ist das richtig, Herr Pedroza?",
+      "english": "Is that correct, Mr. Pedroza?",
+      "russian": "Это правильно, господин Педроса?",
+      "farsi": "آیا درست است، آقای پدروزا؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das stimmt. Viele Firmen haben einen sehr lockeren Umgangston und es ist üblich, dass sich alle Mitarbeiterinnen und Mitarbeiter von den Chefs bis zu den Aushilfen duzen.",
+      "english": "That's right. Many companies have a very informal tone, and it's common for everyone, from bosses to assistants, to use 'Du' with each other.",
+      "russian": "Это верно. Во многих компаниях существует очень непринужденный тон общения, и это нормально, когда все, от руководителей до помощников, обращаются друг к другу на «ты».",
+      "farsi": "درست است. بسیاری از شرکت‌ها دارای لحن غیررسمی هستند و این رایج است که همه، از مدیران تا دستیاران، به یکدیگر «تو» بگویند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In anderen Firmen ist die Distanz größer und das allgemeine \"Du\" weniger normal. Die Firmenkulturen können sehr unterschiedlich sein.",
+      "english": "In other companies, the distance is greater, and the general use of 'Du' is less common. Company cultures can vary greatly.",
+      "russian": "В других компаниях дистанция больше, и общее использование «ты» менее распространено. Корпоративные культуры могут сильно различаться.",
+      "farsi": "در شرکت‌های دیگر، فاصله بیشتر است و استفاده از «تو» کمتر رایج است. فرهنگ‌های شرکتی می‌توانند بسیار متفاوت باشند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie ist es mit Geschäftspartnern, also mit Firmen, Kunden oder Lieferanten, mit denen man zusammenarbeitet?",
+      "english": "What about business partners, that is, companies, customers, or suppliers with whom one works?",
+      "russian": "Как насчет деловых партнеров, то есть компаний, клиентов или поставщиков, с которыми работают?",
+      "farsi": "در مورد شرکای تجاری، یعنی شرکت‌ها، مشتریان یا تأمین‌کنندگان که با آنها کار می‌کنید، چه می‌شود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Auch mit anderen Firmen ist das \"Du\" möglich.",
+      "english": "Using 'Du' is also possible with other companies.",
+      "russian": "Обращение на «ты» также возможно с другими компаниями.",
+      "farsi": "استفاده از «تو» با شرکت‌های دیگر نیز ممکن است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber am Anfang von geschäftlichen Kontakten sollte man mit dem \"Sie\" beginnen.",
+      "english": "But at the beginning of business contacts, one should start with 'Sie'.",
+      "russian": "Но в начале деловых контактов следует начинать с «вы».",
+      "farsi": "اما در آغاز تماس‌های تجاری باید با «شما» شروع کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn die Kontakte bleiben und enger werden, ist natürlich auch das \"Du\" möglich.",
+      "english": "If the contacts remain and become closer, then using 'Du' is, of course, also possible.",
+      "russian": "Если контакты остаются и становятся ближе, то использование «ты» также возможно.",
+      "farsi": "اگر تماس‌ها باقی بمانند و نزدیک‌تر شوند، استفاده از «تو» نیز ممکن است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie meinen also, dass man bei Kontakten innerhalb einer Firma zwischen den Mitarbeiterinnen und Mitarbeitern und auch im Kontakt zu Geschäftspartnern immer respektvoll sein muss.",
+      "english": "So you mean that one must always be respectful in contacts within a company between employees and also in contacts with business partners.",
+      "russian": "То есть вы имеете в виду, что всегда нужно быть уважительным в контактах внутри компании между сотрудниками, а также в контактах с деловыми партнерами.",
+      "farsi": "یعنی شما معتقدید که باید همیشه در تماس‌های درون شرکتی بین کارکنان و همچنین در تماس با شرکای تجاری با احترام رفتار کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ist das wichtiger als duzen oder siezen?",
+      "english": "Is that more important than using 'Du' or 'Sie'?",
+      "russian": "Это важнее, чем обращаться на «ты» или «вы»?",
+      "farsi": "آیا این مهم‌تر از گفتن «تو» یا «شما» است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "So ist es. Höflichkeit und Respekt sind immer positiv: Sie sind für das Klima im Betrieb gut und sie machen auch die Kontakte zu Geschäftspartnern leichter.",
+      "english": "That's right. Politeness and respect are always positive: they are good for the company's atmosphere and make contacts with business partners easier.",
+      "russian": "Это так. Вежливость и уважение всегда положительны: они полезны для атмосферы в компании и облегчают контакты с деловыми партнерами.",
+      "farsi": "دقیقاً. ادب و احترام همیشه مثبت هستند: آنها برای جو شرکت خوب هستند و ارتباط با شرکای تجاری را آسان‌تر می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Guten Morgen, liebe Hörerinnen und Hörer.",
+      "english": "Good morning, dear listeners.",
+      "russian": "Доброе утро, уважаемые слушатели.",
+      "farsi": "صبح بخیر، شنوندگان عزیز."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben Schülerinnen und Schüler und Auszubildende gefragt, was für sie bei der Arbeit und im Beruf wichtig ist.",
+      "english": "We asked students and trainees what is important to them at work and in their profession.",
+      "russian": "Мы спросили учеников и стажеров, что для них важно на работе и в профессии.",
+      "farsi": "از دانش‌آموزان و کارآموزان پرسیدیم که چه چیزی در کار و حرفه برای آنها مهم است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hier sind einige Antworten. Das hat Angelina, 17 Jahre, gesagt.",
+      "english": "Here are some answers. This is what Angelina, 17 years old, said.",
+      "russian": "Вот несколько ответов. Это то, что сказала Анжелина, 17 лет.",
+      "farsi": "در اینجا چند پاسخ آمده است. این چیزی است که آنجلینا، ۱۷ ساله، گفت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat gerade ihre Ausbildung zur Bankkauffrau beendet.",
+      "english": "She has just completed her training as a bank clerk.",
+      "russian": "Она только что завершила обучение на банковского служащего.",
+      "farsi": "او به تازگی دوره آموزشی خود به عنوان کارمند بانک را به پایان رسانده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nach der Ausbildung hat mich die Bank übernommen.",
+      "english": "After the training, the bank hired me.",
+      "russian": "После обучения банк нанял меня.",
+      "farsi": "بعد از دوره آموزشی، بانک من را استخدام کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das macht mich sehr froh, denn ich kann weiter mit meinen netten Kolleginnen und Kollegen zusammenarbeiten.",
+      "english": "That makes me very happy because I can continue working with my nice colleagues.",
+      "russian": "Это меня очень радует, потому что я могу продолжать работать с моими хорошими коллегами.",
+      "farsi": "این باعث خوشحالی من است، چون می‌توانم به همکاری با همکاران خوبم ادامه دهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was für mich besonders wichtig ist? Eine gute Arbeitsatmosphäre und ein nettes Team.",
+      "english": "What is especially important to me? A good working atmosphere and a nice team.",
+      "russian": "Что особенно важно для меня? Хорошая рабочая атмосфера и приятный коллектив.",
+      "farsi": "چه چیزی برای من به‌ویژه مهم است؟ یک جو کاری خوب و یک تیم خوب."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber auch das Gehalt spielt eine Rolle und hier bei der Bank verdiene ich schon als Anfängerin nicht schlecht.",
+      "english": "But the salary also matters, and here at the bank, I earn quite well even as a beginner.",
+      "russian": "Но зарплата тоже имеет значение, и здесь в банке я неплохо зарабатываю даже как начинающая.",
+      "farsi": "اما حقوق هم مهم است و در اینجا در بانک، حتی به‌عنوان یک تازه‌کار درآمد نسبتاً خوبی دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mahdi, 16 Jahre geht in die neunte Realschulklasse. Er hat uns erzählt:",
+      "english": "Mahdi, 16 years old, is in the ninth grade at a secondary school. He told us:",
+      "russian": "Махди, 16 лет, учится в девятом классе средней школы. Он рассказал нам:",
+      "farsi": "مهدی، ۱۶ ساله، در کلاس نهم یک مدرسه متوسطه است. او به ما گفت:"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe noch ein Jahr Zeit bis zum Realschulabschluss und im Moment weiß ich noch nicht genau, was ich werden will.",
+      "english": "I still have one year until I complete secondary school, and at the moment, I'm not exactly sure what I want to become.",
+      "russian": "У меня есть еще год до окончания средней школы, и сейчас я не совсем уверен, кем хочу стать.",
+      "farsi": "یک سال دیگر تا پایان مدرسه متوسطه دارم و در حال حاضر دقیقاً نمی‌دانم که می‌خواهم چه کاره شوم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich will auf jeden Fall einen Beruf haben, in dem man nicht so schnell arbeitslos wird.",
+      "english": "I definitely want a job where you don't become unemployed quickly.",
+      "russian": "Я определенно хочу работу, где не так легко стать безработным.",
+      "farsi": "قطعاً می‌خواهم شغلی داشته باشم که به این راحتی بیکار نشوم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Für mich ist Sicherheit wichtig.",
+      "english": "Security is important to me.",
+      "russian": "Для меня важна безопасность.",
+      "farsi": "امنیت برای من مهم است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Lieber verdiene ich etwas weniger, wenn ich weiß, dass ich meine Arbeit nicht so schnell verlieren kann.",
+      "english": "I'd rather earn a little less if I know that I won't lose my job quickly.",
+      "russian": "Я лучше буду зарабатывать немного меньше, если буду знать, что не потеряю свою работу так быстро.",
+      "farsi": "ترجیح می‌دهم کمی کمتر درآمد داشته باشم اگر بدانم که کارم را به این زودی از دست نمی‌دهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Außerdem möchte ich feste Arbeitszeiten, also eine Arbeit, wo ich zum Beispiel regelmäßig jede Woche von Montag bis Freitag von 8.00 bis 16.30 Uhr arbeite.",
+      "english": "I also want fixed working hours, so a job where I work regularly, for example, from Monday to Friday from 8:00 to 16:30 every week.",
+      "russian": "Кроме того, я хочу фиксированный рабочий график, то есть работу, где я буду работать регулярно, например, с понедельника по пятницу с 8:00 до 16:30 каждую неделю.",
+      "farsi": "علاوه بر این، می‌خواهم ساعات کاری ثابتی داشته باشم، یعنی شغلی که مثلاً هر هفته به‌طور منظم از دوشنبه تا جمعه از ۸:۰۰ تا ۱۶:۳۰ کار کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vielleicht werde ich Bürokaufmann.",
+      "english": "Maybe I'll become an office clerk.",
+      "russian": "Может быть, я стану офисным клерком.",
+      "farsi": "شاید کارمند دفتری شوم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das sagte Monique, 18 Jahre alt:",
+      "english": "That's what Monique, 18 years old, said:",
+      "russian": "Это сказала Моник, 18 лет:",
+      "farsi": "این را مونیک، ۱۸ ساله، گفت:"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich lerne jetzt im zweiten Jahr den Beruf Köchin in einem großen Restaurant mit zwei Sternen.",
+      "english": "I'm now in my second year of training as a chef in a large two-star restaurant.",
+      "russian": "Я сейчас на втором году обучения на повара в большом ресторане с двумя звездами.",
+      "farsi": "اکنون در دومین سال آموزش شغل آشپزی در یک رستوران بزرگ دو ستاره هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das macht mir viel Spaß.",
+      "english": "I really enjoy it.",
+      "russian": "Мне это очень нравится.",
+      "farsi": "این برای من بسیار لذت‌بخش است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Natürlich hat man als Köchin sehr unregelmäßige Arbeitszeiten und arbeitet oft am Abend oder am Wochenende, aber das stört mich nicht, denn für mich ist am wichtigsten, dass man als Köchin sehr kreativ sein kann und eine Arbeit ohne Kreativität finde ich langweilig.",
+      "english": "Of course, as a chef, you have very irregular working hours and often work in the evening or on weekends, but that doesn't bother me because the most important thing for me is that you can be very creative as a chef, and I find work without creativity boring.",
+      "russian": "Конечно, у повара очень нерегулярный рабочий график, и часто приходится работать по вечерам или в выходные, но меня это не беспокоит, потому что для меня самое главное — возможность быть креативной, а работу без творчества я нахожу скучной.",
+      "farsi": "البته به‌عنوان یک آشپز ساعات کاری بسیار نامنظمی دارم و اغلب شب‌ها یا آخر هفته‌ها کار می‌کنم، اما این من را اذیت نمی‌کند چون مهم‌ترین چیز برای من این است که به‌عنوان یک آشپز بتوانم بسیار خلاق باشم و کار بدون خلاقیت را کسل‌کننده می‌دانم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir können immer wieder neue Rezepte ausprobieren und experimentieren und es ist eine sehr schöne Erfahrung, wenn uns die Gäste für ein gutes Essen loben.",
+      "english": "We can always try out new recipes and experiment, and it's a very nice experience when guests praise us for good food.",
+      "russian": "Мы всегда можем пробовать новые рецепты и экспериментировать, и это очень приятно, когда гости хвалят нас за хорошую еду.",
+      "farsi": "ما همیشه می‌توانیم دستورالعمل‌های جدید را امتحان کنیم و آزمایش کنیم و تجربه بسیار خوبی است وقتی که مهمان‌ها از غذای خوب ما تعریف می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und Pablo, 23 Jahre, meinte:",
+      "english": "And Pablo, 23 years old, said:",
+      "russian": "А Пабло, 23 года, сказал:",
+      "farsi": "و پابلو، ۲۳ ساله، گفت:"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin als Flüchtling nach Deutschland gekommen und lebe jetzt seit drei Jahren hier.",
+      "english": "I came to Germany as a refugee and have been living here for three years now.",
+      "russian": "Я приехал в Германию как беженец и уже три года живу здесь.",
+      "farsi": "به‌عنوان یک پناهنده به آلمان آمده‌ام و اکنون سه سال است که اینجا زندگی می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nach meinen Deutschkursen und einigen Praktika habe ich vor einem Jahr eine Ausbildung als Altenpfleger angefangen.",
+      "english": "After my German courses and some internships, I started training as a geriatric nurse a year ago.",
+      "russian": "После курсов немецкого и нескольких стажировок я начал обучение на сиделку для пожилых год назад.",
+      "farsi": "بعد از دوره‌های زبان آلمانی و چند دوره کارآموزی، یک سال پیش آموزش به‌عنوان پرستار سالمندان را شروع کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Für mich ist das eine große Chance und ich habe eigentlich keine besonderen Wünsche.",
+      "english": "For me, this is a great opportunity, and I don't really have any special wishes.",
+      "russian": "Для меня это большая возможность, и у меня нет особых желаний.",
+      "farsi": "این برای من یک فرصت بزرگ است و در واقع خواسته خاصی ندارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin vor allem froh, dass ich eine Ausbildung machen kann.",
+      "english": "I'm especially glad that I can undergo training.",
+      "russian": "Я особенно рад, что могу проходить обучение.",
+      "farsi": "من بیشتر خوشحالم که می‌توانم آموزش ببینم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und das heißt auch, dass ich gute Arbeit leisten will, damit mein Chef, aber auch die Kunden mit meiner Arbeit zufrieden sind.",
+      "english": "And that also means that I want to do good work so that my boss, as well as the clients, are satisfied with my work.",
+      "russian": "Это также означает, что я хочу хорошо работать, чтобы мой начальник и клиенты были довольны моей работой.",
+      "farsi": "و این همچنین به این معناست که می‌خواهم کار خوبی انجام دهم تا رئیس و همچنین مشتری‌ها از کار من راضی باشند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe bei den Unterroder Verkehrsbetrieben eine Ausbildung zur Elektrotechnikerin gemacht.",
+      "english": "I completed training as an electronics technician with Unterroder Transportation.",
+      "russian": "Я прошла обучение на электронщика в транспортной компании Unterroder.",
+      "farsi": "من دوره‌ی آموزشی به عنوان تکنسین الکترونیک را در شرکت حمل‌ونقل اونترودر گذراندم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nach der Ausbildung habe ich einen festen Arbeitsvertrag bekommen und arbeite jetzt bei den Verkehrsbetrieben in Vollzeit mit 38 Stunden pro Woche.",
+      "english": "After my training, I received a permanent employment contract and now work full-time with the transportation company, with a 38-hour work week.",
+      "russian": "После обучения я получила постоянный трудовой договор и теперь работаю в транспортной компании на полную ставку с 38-часовой рабочей неделей.",
+      "farsi": "بعد از دوره آموزشی یک قرارداد کاری دائم گرفتم و اکنون به صورت تمام‌وقت با ۳۸ ساعت کار در هفته در شرکت حمل‌ونقل کار می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Meine Kolleginnen und Kollegen und ich warten und reparieren die Straßenbahnen.",
+      "english": "My colleagues and I maintain and repair the trams.",
+      "russian": "Мои коллеги и я занимаемся обслуживанием и ремонтом трамваев.",
+      "farsi": "من و همکارانم از ترامواها نگهداری و آن‌ها را تعمیر می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das ist unsere Hauptaufgabe.",
+      "english": "That is our main task.",
+      "russian": "Это наша основная задача.",
+      "farsi": "این وظیفه اصلی ما است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe regelmäßige Arbeitszeiten von montags bis freitags 7.30 bis 16.00 Uhr, am Freitag machen wir schon etwas früher Feierabend.",
+      "english": "I have regular working hours from Monday to Friday, 7:30 a.m. to 4:00 p.m., and on Fridays we finish a little earlier.",
+      "russian": "У меня регулярный график работы с понедельника по пятницу с 7:30 до 16:00, а в пятницу мы заканчиваем немного раньше.",
+      "farsi": "من ساعات کاری منظمی از دوشنبه تا جمعه، از ۷:۳۰ صبح تا ۱۶:۰۰ دارم و در روزهای جمعه کمی زودتر تعطیل می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das ist ein Unterschied zu vielen Kolleginnen und Kollegen bei den Verkehrsbetrieben, denn die Bus- und Straßenbahnfahrerinnen und -fahrer haben alle Schichtdienst und müssen früh morgens, spät am Abend und auch am Wochenende arbeiten.",
+      "english": "This is different from many colleagues in transportation, as bus and tram drivers all work shifts and have to work early mornings, late evenings, and weekends.",
+      "russian": "Это отличается от графика многих коллег в транспортной компании, так как водители автобусов и трамваев работают посменно и вынуждены работать рано утром, поздно вечером и в выходные.",
+      "farsi": "این متفاوت از بسیاری از همکاران در بخش حمل‌ونقل است، چون رانندگان اتوبوس و تراموا به صورت شیفتی کار می‌کنند و باید صبح زود، شب‌هنگام و آخر هفته‌ها کار کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein Beruf ist Lokführer.",
+      "english": "My profession is a train driver.",
+      "russian": "Моя профессия – машинист поезда.",
+      "farsi": "شغل من لوکوموتیورانی است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe viele Jahre in Festanstellung bei der Nordsüdbahn AG gearbeitet.",
+      "english": "I worked for many years in a permanent position at Nordsüdbahn AG.",
+      "russian": "Я много лет работал на постоянной основе в компании Nordsüdbahn AG.",
+      "farsi": "من سال‌های زیادی به صورت قراردادی دائمی در شرکت Nordsüdbahn AG کار کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Arbeit hat mir gut gefallen.",
+      "english": "I enjoyed the work.",
+      "russian": "Мне нравилась работа.",
+      "farsi": "از کارم لذت می‌بردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Trotzdem habe ich vor zwei Jahren gekündigt und arbeite jetzt freiberuflich.",
+      "english": "Nevertheless, I quit two years ago and now work freelance.",
+      "russian": "Тем не менее, два года назад я уволился и сейчас работаю фрилансером.",
+      "farsi": "با این حال، دو سال پیش استعفا دادم و اکنون به صورت فریلنس کار می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bekomme Aufträge von verschiedenen Transportunternehmen und fahre vor allem Güterzüge.",
+      "english": "I receive orders from various transport companies and mainly drive freight trains.",
+      "russian": "Я получаю заказы от различных транспортных компаний и в основном вожу грузовые поезда.",
+      "farsi": "از شرکت‌های حمل‌ونقل مختلف سفارش می‌گیرم و بیشتر قطارهای باری می‌رانم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Entscheidung war richtig, denn als Freiberufler bin ich flexibler.",
+      "english": "The decision was right, because as a freelancer, I am more flexible.",
+      "russian": "Это было правильное решение, так как я более гибок как фрилансер.",
+      "farsi": "این تصمیم درست بود، چون به عنوان فریلنسر انعطاف‌پذیرتر هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn ich z.B. am Wochenende nicht arbeiten möchte, nehme ich keine Aufträge an.",
+      "english": "If, for example, I don’t want to work on weekends, I don’t take any orders.",
+      "russian": "Если, например, я не хочу работать в выходные, я не беру заказы.",
+      "farsi": "اگر مثلاً نمی‌خواهم آخر هفته کار کنم، سفارش نمی‌پذیرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn ich krank bin und nicht fahren kann, verdiene ich nichts.",
+      "english": "If I’m sick and can’t drive, I don’t earn anything.",
+      "russian": "Если я болен и не могу работать, я ничего не зарабатываю.",
+      "farsi": "اگر بیمار باشم و نتوانم کار کنم، درآمدی ندارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber in den letzten Jahren wurden immer Lokführer gesucht und ich hatte immer sehr viele Aufträge.",
+      "english": "But in recent years, train drivers have always been in demand, and I have always had plenty of orders.",
+      "russian": "Но в последние годы машинисты всегда были востребованы, и у меня всегда было много заказов.",
+      "farsi": "اما در سال‌های اخیر همیشه تقاضا برای لوکوموتیوران‌ها بوده و همیشه سفارش‌های زیادی داشتم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich mache mir also keine Sorgen, obwohl eine freiberufliche Arbeit auch Risiken hat.",
+      "english": "So I’m not worried, although freelance work also has risks.",
+      "russian": "Поэтому я не беспокоюсь, хотя фриланс также имеет свои риски.",
+      "farsi": "بنابراین نگران نیستم، هرچند کار فریلنسری هم خطراتی دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe eine Teilzeitstelle als Bedienung in einem Café am Hauptbahnhof und arbeite 25 Stunden pro Woche.",
+      "english": "I have a part-time position as a server in a café at the main train station, working 25 hours per week.",
+      "russian": "У меня есть работа на полставки как официантка в кафе на главном вокзале, я работаю 25 часов в неделю.",
+      "farsi": "من یک شغل پاره‌وقت به عنوان گارسون در یک کافه در ایستگاه اصلی دارم و ۲۵ ساعت در هفته کار می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Café öffnet jeden Tag um 7.00 Uhr, aber wir Angestellten sind immer schon eine halbe Stunde früher da, um alles vorzubereiten.",
+      "english": "The café opens every day at 7:00 a.m., but we employees are always there half an hour earlier to prepare everything.",
+      "russian": "Кафе открывается каждый день в 7:00 утра, но мы, сотрудники, всегда приходим на полчаса раньше, чтобы всё подготовить.",
+      "farsi": "کافه هر روز ساعت ۷ صبح باز می‌شود، اما ما کارمندان همیشه نیم ساعت زودتر آنجا هستیم تا همه چیز را آماده کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin immer am Montag, Mittwoch und Freitag bis zum frühen Nachmittag da.",
+      "english": "I am always there on Monday, Wednesday, and Friday until early afternoon.",
+      "russian": "Я всегда работаю по понедельникам, средам и пятницам до раннего вечера.",
+      "farsi": "من همیشه در روزهای دوشنبه، چهارشنبه و جمعه تا اوایل بعدازظهر آنجا هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Viele von meinen Kolleginnen und Kollegen arbeiten in Teilzeit.",
+      "english": "Many of my colleagues work part-time.",
+      "russian": "Многие из моих коллег работают на полставки.",
+      "farsi": "بسیاری از همکاران من پاره‌وقت کار می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In den Ferienzeiten und im Sommer, wenn viel los ist, arbeiten bei uns auch viele Studierende als Aushilfen.",
+      "english": "During vacation periods and in the summer, when it’s busy, many students work with us as temporary help.",
+      "russian": "Во время каникул и летом, когда много работы, у нас работают студенты на подработке.",
+      "farsi": "در ایام تعطیلات و تابستان، وقتی شلوغ است، بسیاری از دانشجویان به عنوان نیروی موقت با ما کار می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe viel mit Menschen zu tun. Das gefällt mir.",
+      "english": "I work a lot with people. I like that.",
+      "russian": "У меня много работы с людьми. Мне это нравится.",
+      "farsi": "کار من بیشتر با مردم است و این را دوست دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin vor drei Jahren nach Deutschland gekommen.",
+      "english": "I came to Germany three years ago.",
+      "russian": "Я приехала в Германию три года назад.",
+      "farsi": "سه سال پیش به آلمان آمدم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Obwohl ich in meinem Heimatland eine erfolgreiche Grafikerin war, konnte ich hier in Deutschland keine Stelle in meinem Beruf finden.",
+      "english": "Although I was a successful graphic designer in my home country, I couldn't find a job in my field here in Germany.",
+      "russian": "Хотя я была успешным графическим дизайнером в своей стране, я не смогла найти работу в своей области здесь, в Германии.",
+      "farsi": "با اینکه در کشور خودم یک طراح گرافیک موفق بودم، در آلمان نتوانستم در رشته‌ام کاری پیدا کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Jetzt bin ich Lagerarbeiterin in einer großen Möbelfirma.",
+      "english": "Now I am a warehouse worker at a large furniture company.",
+      "russian": "Сейчас я работаю складским рабочим в крупной мебельной компании.",
+      "farsi": "حالا در یک شرکت بزرگ مبلمان به عنوان کارگر انبار کار می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin unter anderem für die Kontrolle der Warenlieferungen zuständig.",
+      "english": "Among other things, I am responsible for checking the goods deliveries.",
+      "russian": "Среди прочего, я отвечаю за проверку поставок товаров.",
+      "farsi": "از جمله مسئولیت‌های من، بررسی تحویل کالاهاست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn eine Kundin oder ein Kunde etwas kauft, hole ich es aus dem Lager und bringe es zur Warenausgabe.",
+      "english": "When a customer buys something, I retrieve it from the warehouse and bring it to the pick-up point.",
+      "russian": "Когда клиент покупает что-то, я беру это со склада и доставляю в пункт выдачи.",
+      "farsi": "وقتی مشتری چیزی می‌خرد، آن را از انبار می‌آورم و به بخش تحویل کالا می‌برم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich muss viel laufen – jeden Tag gehe ich mehrere Kilometer.",
+      "english": "I have to walk a lot – every day I walk several kilometers.",
+      "russian": "Мне приходится много ходить – каждый день я прохожу несколько километров.",
+      "farsi": "من باید خیلی پیاده‌روی کنم - هر روز چندین کیلومتر راه می‌روم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich arbeite fünf Tage pro Woche in der Frühschicht von 5 bis 13 Uhr oder in der Spätschicht von 11 bis 19 Uhr.",
+      "english": "I work five days a week in the early shift from 5 am to 1 pm or in the late shift from 11 am to 7 pm.",
+      "russian": "Я работаю пять дней в неделю на утренней смене с 5 до 13 часов или на вечерней смене с 11 до 19 часов.",
+      "farsi": "من پنج روز در هفته در شیفت صبح از ساعت ۵ تا ۱۳ یا در شیفت بعدازظهر از ساعت ۱۱ تا ۱۹ کار می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Jede zweite Woche muss ich auch am Samstag in der Firma sein, aber dafür bekomme ich dann an einem anderen Wochentag frei.",
+      "english": "Every other week, I also have to be at the company on Saturday, but I get a day off on another weekday for it.",
+      "russian": "Каждую вторую неделю я должен быть на работе и в субботу, но за это получаю выходной в другой день недели.",
+      "farsi": "هر دو هفته یک بار باید شنبه‌ها هم در شرکت باشم، اما در عوض یک روز دیگر از هفته را مرخصی می‌گیرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich finde meine Arbeitszeiten gut.",
+      "english": "I find my working hours good.",
+      "russian": "Мне нравятся мои рабочие часы.",
+      "farsi": "من ساعات کارم را خوب می‌دانم."
+    }
+  ]
+}

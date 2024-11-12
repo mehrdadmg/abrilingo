@@ -1,0 +1,553 @@
+{
+  "info": {
+    "name": "Verben_Mit_Dativ",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kannst du mir bitte auf die Frage antworten?",
+      "english": "Can you please answer my question?",
+      "russian": "Ты можешь, пожалуйста, ответить на мой вопрос?",
+      "farsi": "می‌توانی لطفاً به سوال من پاسخ دهی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich antworte ihm morgen.",
+      "english": "I will answer him tomorrow.",
+      "russian": "Я отвечу ему завтра.",
+      "farsi": "من فردا به او پاسخ می‌دهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie antwortet dem Kunden schnell.",
+      "english": "She answers the customer quickly.",
+      "russian": "Она быстро отвечает клиенту.",
+      "farsi": "او به مشتری به سرعت پاسخ می‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er antwortet auf die E-Mail.",
+      "english": "He answers the email.",
+      "russian": "Он отвечает на электронное письмо.",
+      "farsi": "او به ایمیل پاسخ می‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sag mir bitte Bescheid, wenn du Zeit hast.",
+      "english": "Please let me know when you have time.",
+      "russian": "Пожалуйста, дай мне знать, когда у тебя будет время.",
+      "farsi": "لطفاً به من بگو وقتی وقت داری."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kannst du ihr Bescheid sagen?",
+      "english": "Can you let her know?",
+      "russian": "Ты можешь ей сказать?",
+      "farsi": "می‌توانی به او بگویی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie sagt ihm Bescheid, dass die Sitzung verschoben wird.",
+      "english": "She informs him that the meeting is postponed.",
+      "russian": "Она сообщает ему, что заседание перенесено.",
+      "farsi": "او به او می‌گوید که جلسه به تعویق افتاده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er sagt seinen Eltern Bescheid, dass er später kommt.",
+      "english": "He informs his parents that he will come later.",
+      "russian": "Он сообщает родителям, что придет позже.",
+      "farsi": "او به والدینش می‌گوید که بعداً می‌آید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich danke dir für die Hilfe.",
+      "english": "I thank you for your help.",
+      "russian": "Я благодарю тебя за помощь.",
+      "farsi": "من از تو برای کمک‌ت سپاسگزارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kannst du ihr dafür danken?",
+      "english": "Can you thank her for that?",
+      "russian": "Ты можешь поблагодарить её за это?",
+      "farsi": "می‌توانی از او برای این موضوع تشکر کنی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie dankt ihm für das Geschenk.",
+      "english": "She thanks him for the gift.",
+      "russian": "Она благодарит его за подарок.",
+      "farsi": "او از او برای هدیه تشکر می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er dankt seinen Freunden für die Einladung.",
+      "english": "He thanks his friends for the invitation.",
+      "russian": "Он благодарит своих друзей за приглашение.",
+      "farsi": "او از دوستانش برای دعوت تشکر می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mir fehlt ein Buch.",
+      "english": "I am missing a book.",
+      "russian": "У меня не хватает книги.",
+      "farsi": "یک کتاب کم دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ihm fehlt das Geld.",
+      "english": "He is missing the money.",
+      "russian": "Ему не хватает денег.",
+      "farsi": "او پول ندارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Stadt fehlt ein neues Schwimmbad.",
+      "english": "The city is missing a new swimming pool.",
+      "russian": "Городу не хватает нового бассейна.",
+      "farsi": "شهر به یک استخر جدید نیاز دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ihr fehlt die Motivation.",
+      "english": "She is missing the motivation.",
+      "russian": "Ей не хватает мотивации.",
+      "farsi": "او انگیزه ندارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mir gefällt das Kleid.",
+      "english": "I like the dress.",
+      "russian": "Мне нравится платье.",
+      "farsi": "من این لباس را دوست دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ihm gefällt der Film.",
+      "english": "He likes the movie.",
+      "russian": "Ему нравится фильм.",
+      "farsi": "او این فیلم را دوست دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Urlaub gefällt ihr sehr gut.",
+      "english": "She really likes the vacation.",
+      "russian": "Ей очень нравится отпуск.",
+      "farsi": "او از تعطیلات بسیار لذت می‌برد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Essen gefällt ihm nicht.",
+      "english": "He doesn't like the food.",
+      "russian": "Ему не нравится еда.",
+      "farsi": "او از غذا خوشش نمی‌آید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Buch gehört mir.",
+      "english": "The book belongs to me.",
+      "russian": "Эта книга принадлежит мне.",
+      "farsi": "این کتاب مال من است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Hund gehört ihm.",
+      "english": "The dog belongs to him.",
+      "russian": "Эта собака принадлежит ему.",
+      "farsi": "این سگ مال او است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Haus gehört der Familie.",
+      "english": "The house belongs to the family.",
+      "russian": "Этот дом принадлежит семье.",
+      "farsi": "این خانه متعلق به خانواده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Tasche gehört ihr nicht.",
+      "english": "The bag does not belong to her.",
+      "russian": "Эта сумка не принадлежит ей.",
+      "farsi": "این کیف مال او نیست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich glaube dir.",
+      "english": "I believe you.",
+      "russian": "Я тебе верю.",
+      "farsi": "من به تو باور دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kannst du ihm glauben?",
+      "english": "Can you believe him?",
+      "russian": "Ты можешь ему верить?",
+      "farsi": "آیا می‌توانی به او باور کنی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie glaubt nicht, dass er lügt.",
+      "english": "She does not believe that he is lying.",
+      "russian": "Она не верит, что он лжет.",
+      "farsi": "او باور ندارد که او دروغ می‌گوید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er glaubt, dass sie recht hat.",
+      "english": "He believes that she is right.",
+      "russian": "Он верит, что она права.",
+      "farsi": "او باور دارد که او حق دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich gratuliere dir zum Geburtstag.",
+      "english": "I congratulate you on your birthday.",
+      "russian": "Я поздравляю тебя с днем рождения.",
+      "farsi": "من تو را به خاطر تولدت تبریک می‌گویم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kannst du ihr gratulieren?",
+      "english": "Can you congratulate her?",
+      "russian": "Ты можешь её поздравить?",
+      "farsi": "آیا می‌توانی او را تبریک بگویی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie gratuliert ihm zum neuen Job.",
+      "english": "She congratulates him on his new job.",
+      "russian": "Она поздравляет его с новой работой.",
+      "farsi": "او او را به خاطر شغل جدیدش تبریک می‌گوید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er gratuliert seinen Eltern zur Hochzeit.",
+      "english": "He congratulates his parents on their wedding.",
+      "russian": "Он поздравляет своих родителей с свадьбой.",
+      "farsi": "او والدینش را به خاطر ازدواجشان تبریک می‌گوید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kannst du mir helfen?",
+      "english": "Can you help me?",
+      "russian": "Ты можешь мне помочь?",
+      "farsi": "آیا می‌توانی به من کمک کنی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich helfe ihr.",
+      "english": "I help her.",
+      "russian": "Я помогаю ей.",
+      "farsi": "من به او کمک می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hilft ihm beim Umzug.",
+      "english": "She helps him with the move.",
+      "russian": "Она помогает ему с переездом.",
+      "farsi": "او به او در جابه‌جایی کمک می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hilft den Kindern beim Lernen.",
+      "english": "He helps the children with their studies.",
+      "russian": "Он помогает детям с учебой.",
+      "farsi": "او به بچه‌ها در یادگیری کمک می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es tut mir leid.",
+      "english": "I'm sorry.",
+      "russian": "Мне жаль.",
+      "farsi": "متاسفم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Tut es dir leid?",
+      "english": "Are you sorry?",
+      "russian": "Тебе жаль?",
+      "farsi": "آیا تو متاسفی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es tut ihr leid, dass sie zu spät kommt.",
+      "english": "She is sorry that she is coming late.",
+      "russian": "Ей жаль, что она опаздывает.",
+      "farsi": "او متاسف است که دیر می‌آید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es tut ihm leid, dass er sie verletzt hat.",
+      "english": "He is sorry that he hurt her.",
+      "russian": "Ему жаль, что он её обидел.",
+      "farsi": "او متاسف است که به او آسیب زده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Diese Schuhe passen mir nicht.",
+      "english": "These shoes don't fit me.",
+      "russian": "Эти туфли мне не подходят.",
+      "farsi": "این کفش‌ها به من نمی‌خورند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Passt dir der Termin?",
+      "english": "Does the appointment suit you?",
+      "russian": "Тебе подходит назначение?",
+      "farsi": "آیا این قرار به تو می‌خورد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Kleid passt ihr sehr gut.",
+      "english": "The dress fits her very well.",
+      "russian": "Платье ей очень хорошо подходит.",
+      "farsi": "این لباس به او بسیار می‌آید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Plan passt uns allen.",
+      "english": "The plan suits us all.",
+      "russian": "План подходит всем нам.",
+      "farsi": "این برنامه برای همه ما مناسب است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Rauchen schadet der Gesundheit.",
+      "english": "Smoking harms health.",
+      "russian": "Курение вредит здоровью.",
+      "farsi": "سیگار کشیدن به سلامتی آسیب می‌زند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Streit schadet unserer Freundschaft.",
+      "english": "The argument harms our friendship.",
+      "russian": "Ссора вредит нашей дружбе.",
+      "farsi": "این مشاجره به دوستی ما آسیب می‌زند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Alkohol schadet dem Körper.",
+      "english": "Alcohol harms the body.",
+      "russian": "Алкоголь вредит организму.",
+      "farsi": "الکل به بدن آسیب می‌زند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Hitze schadet den Pflanzen.",
+      "english": "The heat harms the plants.",
+      "russian": "Жара вредит растениям.",
+      "farsi": "گرما به گیاهان آسیب می‌زند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Kuchen schmeckt gut.",
+      "english": "The cake tastes good.",
+      "russian": "Торт вкусный.",
+      "farsi": "کیك خوشمزه است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Schmeckt dir der Kaffee?",
+      "english": "Does the coffee taste good to you?",
+      "russian": "Кофе тебе нравится?",
+      "farsi": "آیا قهوه به تو خوشمزه است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Essen schmeckt ihr nicht.",
+      "english": "The food does not taste good to her.",
+      "russian": "Еда ей не нравится.",
+      "farsi": "غذا به او خوشمزه نیست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Bier schmeckt ihm sehr gut.",
+      "english": "The beer tastes very good to him.",
+      "russian": "Пиво ему очень нравится.",
+      "farsi": "این آبجو خیلی به او خوشمزه است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich vertraue dir.",
+      "english": "I trust you.",
+      "russian": "Я тебе доверяю.",
+      "farsi": "من به تو اعتماد دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kannst du ihm vertrauen?",
+      "english": "Can you trust him?",
+      "russian": "Ты можешь ему доверять?",
+      "farsi": "آیا می‌توانی به او اعتماد کنی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie vertraut ihrem Freund.",
+      "english": "She trusts her friend.",
+      "russian": "Она доверяет своему другу.",
+      "farsi": "او به دوستش اعتماد دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er vertraut dem Arzt.",
+      "english": "He trusts the doctor.",
+      "russian": "Он доверяет врачу.",
+      "farsi": "او به پزشک اعتماد دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein Kopf tut weh.",
+      "english": "My head hurts.",
+      "russian": "У меня болит голова.",
+      "farsi": "سرم درد می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Tut dir der Arm weh?",
+      "english": "Does your arm hurt?",
+      "russian": "У тебя болит рука?",
+      "farsi": "آیا دستت درد می‌کند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Rücken tut ihr weh.",
+      "english": "Her back hurts.",
+      "russian": "У нее болит спина.",
+      "farsi": "کمرش درد می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Augen tun ihm weh.",
+      "english": "His eyes hurt.",
+      "russian": "У него болят глаза.",
+      "farsi": "چشم‌هایش درد می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kannst du mir zuhören?",
+      "english": "Can you listen to me?",
+      "russian": "Ты можешь меня послушать?",
+      "farsi": "آیا می‌توانی به من گوش کنی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich höre dir zu.",
+      "english": "I am listening to you.",
+      "russian": "Я тебя слушаю.",
+      "farsi": "من به تو گوش می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hört dem Vortrag zu.",
+      "english": "She is listening to the lecture.",
+      "russian": "Она слушает лекцию.",
+      "farsi": "او به سخنرانی گوش می‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hört seinen Freunden zu.",
+      "english": "He listens to his friends.",
+      "russian": "Он слушает своих друзей.",
+      "farsi": "او به دوستانش گوش می‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich stimme dir zu.",
+      "english": "I agree with you.",
+      "russian": "Я с тобой согласен.",
+      "farsi": "من با تو موافقم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Stimmt ihr zu?",
+      "english": "Do you all agree?",
+      "russian": "Вы все согласны?",
+      "farsi": "آیا همه شما موافقید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie stimmt dem Vorschlag zu.",
+      "english": "She agrees to the proposal.",
+      "russian": "Она согласна с предложением.",
+      "farsi": "او با پیشنهاد موافق است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er stimmt dem Politiker nicht zu.",
+      "english": "He does not agree with the politician.",
+      "russian": "Он не согласен с политиком.",
+      "farsi": "او با سیاستمدار موافق نیست."
+    }
+  ]
+}

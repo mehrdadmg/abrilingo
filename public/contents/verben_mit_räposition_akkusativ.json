@@ -1,0 +1,1941 @@
+{
+  "info": {
+    "name": "Verben_mit_Präposition_Akkusativ",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "achten auf + Akkusativ",
+      "Präsens": "Er achtet auf",
+      "Präteritum": "Er achtete auf",
+      "Perfekt": "Er hat auf geachtet",
+      "englishMeaning": "to pay attention to",
+      "englishUsage": "Used to indicate being mindful or attentive to something or someone.",
+      "russianMeaning": "обращать внимание на",
+      "russianUsage": "Используется для обозначения внимательности к чему-либо или кому-либо.",
+      "farsiMeaning": "توجه کردن به",
+      "farsiUsage": "برای اشاره به توجه داشتن یا دقت کردن به چیزی یا کسی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich achte immer auf meine Gesundheit.",
+      "english": "I always pay attention to my health.",
+      "russian": "Я всегда слежу за своим здоровьем.",
+      "farsi": "من همیشه به سلامتی خود توجه می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bitte achte auf den Verkehr!",
+      "english": "Please pay attention to the traffic!",
+      "russian": "Пожалуйста, следите за движением!",
+      "farsi": "لطفاً به ترافیک توجه کن!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Achte darauf, dass du die Tür abschließt.",
+      "english": "Make sure to lock the door.",
+      "russian": "Убедитесь, что вы заперли дверь.",
+      "farsi": "مطمئن شو که در را قفل کرده‌ای."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir müssen auf die Kosten achten.",
+      "english": "We need to pay attention to the costs.",
+      "russian": "Нам нужно следить за расходами.",
+      "farsi": "ما باید به هزینه‌ها توجه کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "sich anmelden für + Akkusativ",
+      "Präsens": "Er meldet sich für an",
+      "Präteritum": "Er meldete sich für an",
+      "Perfekt": "Er hat sich für angemeldet",
+      "englishMeaning": "to sign up for",
+      "englishUsage": "Refers to registering or enrolling for something.",
+      "russianMeaning": "записаться на",
+      "russianUsage": "Означает регистрацию или запись на что-либо.",
+      "farsiMeaning": "ثبت‌نام کردن برای",
+      "farsiUsage": "برای اشاره به ثبت‌نام یا نام‌نویسی برای چیزی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe mich für den Deutschkurs angemeldet.",
+      "english": "I signed up for the German course.",
+      "russian": "Я записался на курс немецкого языка.",
+      "farsi": "من در کلاس آلمانی ثبت‌نام کرده‌ام."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe mich für den Newsletter angemeldet.",
+      "english": "I signed up for the newsletter.",
+      "russian": "Я подписался на новостную рассылку.",
+      "farsi": "من برای خبرنامه ثبت‌نام کرده‌ام."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat sich für einen Sprachkurs in Berlin angemeldet.",
+      "english": "She signed up for a language course in Berlin.",
+      "russian": "Она записалась на языковой курс в Берлине.",
+      "farsi": "او برای یک دوره زبان در برلین ثبت‌نام کرده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man kann sich für den Job auf der Firmenwebsite anmelden.",
+      "english": "You can apply for the job on the company website.",
+      "russian": "Вы можете подать заявку на работу на сайте компании.",
+      "farsi": "می‌توانید برای شغل در وب‌سایت شرکت ثبت‌نام کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "antworten auf + Akkusativ",
+      "Präsens": "Er antwortet auf",
+      "Präteritum": "Er antwortete auf",
+      "Perfekt": "Er hat auf geantwortet",
+      "englishMeaning": "to respond to",
+      "englishUsage": "Describes giving a reply to a question or statement.",
+      "russianMeaning": "ответить на",
+      "russianUsage": "Означает дать ответ на вопрос или заявление.",
+      "farsiMeaning": "پاسخ دادن به",
+      "farsiUsage": "برای توصیف پاسخ دادن به یک سوال یا بیانیه استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich antworte auf deine E-Mail so schnell wie möglich.",
+      "english": "I will reply to your email as soon as possible.",
+      "russian": "Я отвечу на твое письмо как можно скорее.",
+      "farsi": "من به ایمیلت در اسرع وقت پاسخ می‌دهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat mich nicht auf meine Frage geantwortet.",
+      "english": "He did not answer my question.",
+      "russian": "Он не ответил на мой вопрос.",
+      "farsi": "او به سوال من پاسخ نداد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Lehrer hat mich auf meine Frage ausführlich geantwortet.",
+      "english": "The teacher answered my question in detail.",
+      "russian": "Учитель подробно ответил на мой вопрос.",
+      "farsi": "معلم به طور مفصل به سوال من پاسخ داد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie antwortet immer freundlich auf Briefe.",
+      "english": "She always replies kindly to letters.",
+      "russian": "Она всегда дружелюбно отвечает на письма.",
+      "farsi": "او همیشه با مهربانی به نامه‌ها پاسخ می‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "sich ärgern über + Akkusativ",
+      "Präsens": "Er ärgert sich über",
+      "Präteritum": "Er ärgerte sich über",
+      "Perfekt": "Er hat sich über geärgert",
+      "englishMeaning": "to be annoyed about",
+      "englishUsage": "Refers to feeling irritation or anger towards someone or something.",
+      "russianMeaning": "злиться на",
+      "russianUsage": "Означает испытывать раздражение или гнев по отношению к кому-либо или чему-либо.",
+      "farsiMeaning": "عصبانی شدن از",
+      "farsiUsage": "برای اشاره به احساس خشم یا ناراحتی از کسی یا چیزی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich ärgere mich über das schlechte Wetter.",
+      "english": "I am annoyed about the bad weather.",
+      "russian": "Меня раздражает плохая погода.",
+      "farsi": "من از هوای بد ناراحتم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie ärgert sich über ihren Nachbarn.",
+      "english": "She is annoyed with her neighbor.",
+      "russian": "Она злится на своего соседа.",
+      "farsi": "او از دست همسایه‌اش ناراحت است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er ärgert sich darüber, dass er zu spät gekommen ist.",
+      "english": "He is annoyed that he arrived late.",
+      "russian": "Он злится из-за того, что опоздал.",
+      "farsi": "او از اینکه دیر رسیده ناراحت است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir ärgern uns über die hohen Preise.",
+      "english": "We are annoyed about the high prices.",
+      "russian": "Мы злимся из-за высоких цен.",
+      "farsi": "ما از قیمت‌های بالا ناراحتیم."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "aufpassen auf + Akkusativ",
+      "Präsens": "Er passt auf auf",
+      "Präteritum": "Er passte auf auf",
+      "Perfekt": "Er hat auf aufgepasst",
+      "englishMeaning": "to look after",
+      "englishUsage": "Indicates taking care of or watching over someone or something.",
+      "russianMeaning": "присматривать за",
+      "russianUsage": "Означает заботиться или наблюдать за кем-либо или чем-либо.",
+      "farsiMeaning": "مواظبت کردن از",
+      "farsiUsage": "برای اشاره به مراقبت یا نظارت بر کسی یا چیزی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Pass bitte auf meine Tasche auf!",
+      "english": "Please look after my bag!",
+      "russian": "Пожалуйста, присмотри за моей сумкой!",
+      "farsi": "لطفاً مراقب کیف من باش!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie muss auf ihre kleine Schwester aufpassen.",
+      "english": "She has to look after her little sister.",
+      "russian": "Ей нужно присматривать за младшей сестрой.",
+      "farsi": "او باید مراقب خواهر کوچکش باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Achte darauf, dass du nicht fällst!",
+      "english": "Make sure you don’t fall!",
+      "russian": "Следи за тем, чтобы не упасть!",
+      "farsi": "مطمئن شو که نمی‌افتی!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man muss auf sein Geld aufpassen.",
+      "english": "You have to watch your money.",
+      "russian": "Нужно следить за своими деньгами.",
+      "farsi": "باید مراقب پولت باشی."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "ausgeben für + Akkusativ",
+      "Präsens": "Er gibt für aus",
+      "Präteritum": "Er gab für aus",
+      "Perfekt": "Er hat für ausgegeben",
+      "englishMeaning": "to spend on",
+      "englishUsage": "Refers to spending money on something.",
+      "russianMeaning": "тратить на",
+      "russianUsage": "Означает тратить деньги на что-либо.",
+      "farsiMeaning": "خرج کردن برای",
+      "farsiUsage": "برای اشاره به خرج کردن پول برای چیزی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe viel Geld für dieses Buch ausgegeben.",
+      "english": "I spent a lot of money on this book.",
+      "russian": "Я потратил много денег на эту книгу.",
+      "farsi": "برای این کتاب پول زیادی خرج کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie gibt gerne Geld für Kleidung aus.",
+      "english": "She likes to spend money on clothes.",
+      "russian": "Она любит тратить деньги на одежду.",
+      "farsi": "او دوست دارد برای لباس پول خرج کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er gibt jeden Monat einen bestimmten Betrag für Essen aus.",
+      "english": "He spends a certain amount on food every month.",
+      "russian": "Он тратит определенную сумму на еду каждый месяц.",
+      "farsi": "او هر ماه مبلغ مشخصی را برای غذا خرج می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir sollten weniger Geld für unnötige Dinge ausgeben.",
+      "english": "We should spend less money on unnecessary things.",
+      "russian": "Нам следует тратить меньше денег на ненужные вещи.",
+      "farsi": "ما باید کمتر برای چیزهای غیرضروری پول خرج کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "berichten über + Akkusativ",
+      "Präsens": "Er berichtet über",
+      "Präteritum": "Er berichtete über",
+      "Perfekt": "Er hat über berichtet",
+      "englishMeaning": "to report on",
+      "englishUsage": "Describes providing information or news about an event or topic.",
+      "russianMeaning": "сообщать о",
+      "russianUsage": "Означает предоставление информации или новостей о событии или теме.",
+      "farsiMeaning": "گزارش دادن درباره",
+      "farsiUsage": "برای توصیف ارائه اطلاعات یا اخبار در مورد یک رویداد یا موضوع استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Reporter berichtet über das Ereignis.",
+      "english": "The reporter reports on the event.",
+      "russian": "Репортер сообщает о событии.",
+      "farsi": "خبرنگار درباره این رویداد گزارش می‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat mir von seinem Urlaub berichtet.",
+      "english": "He told me about his vacation.",
+      "russian": "Он рассказал мне о своем отпуске.",
+      "farsi": "او درباره تعطیلاتش به من گزارش داد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Zeitung berichtet ausführlich über den Unfall.",
+      "english": "The newspaper reports in detail about the accident.",
+      "russian": "Газета подробно сообщает об аварии.",
+      "farsi": "روزنامه به‌طور مفصل درباره تصادف گزارش می‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie berichtet begeistert von ihrem neuen Job.",
+      "english": "She talks enthusiastically about her new job.",
+      "russian": "Она с энтузиазмом рассказывает о своей новой работе.",
+      "farsi": "او با اشتیاق درباره شغل جدیدش گزارش می‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "sich beschweren über + Akkusativ",
+      "Präsens": "Er beschwert sich über",
+      "Präteritum": "Er beschwerte sich über",
+      "Perfekt": "Er hat sich über beschwert",
+      "englishMeaning": "to complain about",
+      "englishUsage": "Refers to expressing dissatisfaction or discomfort with something.",
+      "russianMeaning": "жаловаться на",
+      "russianUsage": "Означает выражение недовольства или дискомфорта по поводу чего-либо.",
+      "farsiMeaning": "شکایت کردن از",
+      "farsiUsage": "برای اشاره به بیان نارضایتی یا ناراحتی از چیزی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er beschwert sich über den Lärm.",
+      "english": "He complains about the noise.",
+      "russian": "Он жалуется на шум.",
+      "farsi": "او از سر و صدا شکایت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie beschwert sich über den schlechten Service.",
+      "english": "She complains about the poor service.",
+      "russian": "Она жалуется на плохое обслуживание.",
+      "farsi": "او از خدمات ضعیف شکایت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Kunden beschweren sich über die lange Wartezeit.",
+      "english": "The customers complain about the long wait time.",
+      "russian": "Клиенты жалуются на долгое время ожидания.",
+      "farsi": "مشتریان از زمان انتظار طولانی شکایت دارند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich möchte mich über die Qualität des Produkts beschweren.",
+      "english": "I would like to complain about the quality of the product.",
+      "russian": "Я хочу пожаловаться на качество продукта.",
+      "farsi": "من می‌خواهم درباره کیفیت محصول شکایت کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "sich bewerben um/auf + Akkusativ",
+      "Präsens": "Er bewirbt sich um/auf",
+      "Präteritum": "Er bewarb sich um/auf",
+      "Perfekt": "Er hat sich um/auf beworben",
+      "englishMeaning": "to apply for",
+      "englishUsage": "Used to describe submitting an application for a position or opportunity.",
+      "russianMeaning": "подавать заявку на",
+      "russianUsage": "Используется для обозначения подачи заявки на должность или возможность.",
+      "farsiMeaning": "درخواست دادن برای",
+      "farsiUsage": "برای اشاره به ارسال درخواست برای یک موقعیت یا فرصت استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe mich für den Job beworben.",
+      "english": "I applied for the job.",
+      "russian": "Я подал заявление на работу.",
+      "farsi": "من برای شغل درخواست داده‌ام."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat sich um ein Stipendium beworben.",
+      "english": "She applied for a scholarship.",
+      "russian": "Она подала заявку на стипендию.",
+      "farsi": "او برای بورسیه درخواست داده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat sich auf die Stelle als Ingenieur beworben.",
+      "english": "He applied for the position as an engineer.",
+      "russian": "Он подал заявление на должность инженера.",
+      "farsi": "او برای موقعیت شغلی مهندس درخواست داده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir können uns gemeinsam auf das Projekt bewerben.",
+      "english": "We can apply for the project together.",
+      "russian": "Мы можем подать заявку на проект вместе.",
+      "farsi": "ما می‌توانیم به‌صورت مشترک برای پروژه درخواست دهیم."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "bitten um + Akkusativ",
+      "Präsens": "Er bittet um",
+      "Präteritum": "Er bat um",
+      "Perfekt": "Er hat um gebeten",
+      "englishMeaning": "to ask for",
+      "englishUsage": "Refers to requesting or seeking something from someone.",
+      "russianMeaning": "просить о",
+      "russianUsage": "Означает просьбу или просьбу о чем-либо у кого-либо.",
+      "farsiMeaning": "درخواست کردن برای",
+      "farsiUsage": "برای اشاره به درخواست یا خواستن چیزی از کسی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bitte dich um Hilfe.",
+      "english": "I ask you for help.",
+      "russian": "Я прошу тебя о помощи.",
+      "farsi": "من از تو درخواست کمک می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kann ich dich um einen Gefallen bitten?",
+      "english": "Can I ask you for a favor?",
+      "russian": "Могу я попросить тебя об одолжении?",
+      "farsi": "آیا می‌توانم از تو یک لطف بخواهم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat um einen Rat gebeten.",
+      "english": "He asked for advice.",
+      "russian": "Он попросил совета.",
+      "farsi": "او درخواست مشاوره کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat um Verzeihung gebeten.",
+      "english": "She asked for forgiveness.",
+      "russian": "Она попросила прощения.",
+      "farsi": "او طلب بخشش کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "brauchen für + Akkusativ",
+      "Präsens": "Er braucht für",
+      "Präteritum": "Er brauchte für",
+      "Perfekt": "Er hat für gebraucht",
+      "englishMeaning": "to need for",
+      "englishUsage": "Used when expressing the need for something for a specific purpose.",
+      "russianMeaning": "нуждаться в",
+      "russianUsage": "Используется для выражения необходимости чего-либо для конкретной цели.",
+      "farsiMeaning": "نیاز داشتن برای",
+      "farsiUsage": "برای بیان نیاز به چیزی برای هدف خاص استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich brauche Milch für den Kaffee.",
+      "english": "I need milk for the coffee.",
+      "russian": "Мне нужно молоко для кофе.",
+      "farsi": "من برای قهوه شیر نیاز دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir brauchen mehr Zeit für dieses Projekt.",
+      "english": "We need more time for this project.",
+      "russian": "Нам нужно больше времени для этого проекта.",
+      "farsi": "ما برای این پروژه به زمان بیشتری نیاز داریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Du brauchst einen Pass für die Reise.",
+      "english": "You need a passport for the trip.",
+      "russian": "Тебе нужен паспорт для поездки.",
+      "farsi": "تو برای سفر به گذرنامه نیاز داری."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie braucht ein Visum für die Einreise.",
+      "english": "She needs a visa for entry.",
+      "russian": "Ей нужна виза для въезда.",
+      "farsi": "او برای ورود نیاز به ویزا دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "demonstrieren für/gegen + Akkusativ",
+      "Präsens": "Er demonstriert für/gegen",
+      "Präteritum": "Er demonstrierte für/gegen",
+      "Perfekt": "Er hat für/gegen demonstriert",
+      "englishMeaning": "to demonstrate for/against",
+      "englishUsage": "Describes participating in a public demonstration to show support or opposition.",
+      "russianMeaning": "демонстрировать за/против",
+      "russianUsage": "Означает участие в публичной демонстрации в поддержку или против.",
+      "farsiMeaning": "تظاهرات کردن برای/علیه",
+      "farsiUsage": "برای توصیف شرکت در تظاهرات عمومی برای حمایت یا مخالفت استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Studenten demonstrieren für mehr Bildungsgerechtigkeit.",
+      "english": "The students are demonstrating for more educational justice.",
+      "russian": "Студенты демонстрируют за справедливость в образовании.",
+      "farsi": "دانشجویان برای عدالت آموزشی بیشتر تظاهرات می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Menschen demonstrieren gegen den Krieg.",
+      "english": "People are demonstrating against the war.",
+      "russian": "Люди демонстрируют против войны.",
+      "farsi": "مردم علیه جنگ تظاهرات می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Umweltschützer demonstrieren für den Erhalt der Wälder.",
+      "english": "Environmentalists are demonstrating for the preservation of the forests.",
+      "russian": "Экологи демонстрируют за сохранение лесов.",
+      "farsi": "حامیان محیط زیست برای حفظ جنگل‌ها تظاهرات می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Arbeiter demonstrieren gegen die schlechten Arbeitsbedingungen.",
+      "english": "The workers are demonstrating against poor working conditions.",
+      "russian": "Рабочие демонстрируют против плохих условий труда.",
+      "farsi": "کارگران علیه شرایط کاری بد تظاهرات می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "denken an + Akkusativ",
+      "Präsens": "Er denkt an",
+      "Präteritum": "Er dachte an",
+      "Perfekt": "Er hat an gedacht",
+      "englishMeaning": "to think of",
+      "englishUsage": "Used to express thinking about someone or something.",
+      "russianMeaning": "думать о",
+      "russianUsage": "Используется для выражения мыслей о ком-либо или чем-либо.",
+      "farsiMeaning": "فکر کردن به",
+      "farsiUsage": "برای بیان فکر کردن به کسی یا چیزی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich denke oft an meine Familie.",
+      "english": "I often think about my family.",
+      "russian": "Я часто думаю о своей семье.",
+      "farsi": "من اغلب به خانواده‌ام فکر می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was denkst du über die Party morgen?",
+      "english": "What do you think about the party tomorrow?",
+      "russian": "Что ты думаешь о завтрашней вечеринке?",
+      "farsi": "نظرت در مورد مهمانی فردا چیست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er denkt immer an die Zukunft.",
+      "english": "He always thinks about the future.",
+      "russian": "Он всегда думает о будущем.",
+      "farsi": "او همیشه به آینده فکر می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie denkt gerne an ihren Urlaub zurück.",
+      "english": "She likes to think back on her vacation.",
+      "russian": "Ей нравится вспоминать свой отпуск.",
+      "farsi": "او دوست دارد به تعطیلات خود فکر کند."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "diskutieren über + Akkusativ",
+      "Präsens": "Er diskutiert über",
+      "Präteritum": "Er diskutierte über",
+      "Perfekt": "Er hat über diskutiert",
+      "englishMeaning": "to discuss about",
+      "englishUsage": "Refers to having a discussion on a particular topic.",
+      "russianMeaning": "обсуждать о",
+      "russianUsage": "Означает обсуждение на определённую тему.",
+      "farsiMeaning": "بحث کردن درباره",
+      "farsiUsage": "برای اشاره به بحث در مورد یک موضوع خاص استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir diskutieren über Politik.",
+      "english": "We discuss politics.",
+      "russian": "Мы обсуждаем политику.",
+      "farsi": "ما در مورد سیاست بحث می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie diskutieren über das neue Gesetz.",
+      "english": "They are discussing the new law.",
+      "russian": "Они обсуждают новый закон.",
+      "farsi": "آن‌ها در مورد قانون جدید بحث می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Wissenschaftler diskutieren über die Klimaerwärmung.",
+      "english": "The scientists are discussing global warming.",
+      "russian": "Учёные обсуждают глобальное потепление.",
+      "farsi": "دانشمندان در مورد گرمایش جهانی بحث می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir sollten über dieses Problem diskutieren.",
+      "english": "We should discuss this problem.",
+      "russian": "Нам следует обсудить эту проблему.",
+      "farsi": "ما باید در مورد این مشکل بحث کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "sich einsetzen für + Akkusativ",
+      "Präsens": "Er setzt sich für ein",
+      "Präteritum": "Er setzte sich für ein",
+      "Perfekt": "Er hat sich für eingesetzt",
+      "englishMeaning": "to advocate for",
+      "englishUsage": "Describes supporting or fighting for a cause or person.",
+      "russianMeaning": "выступать за",
+      "russianUsage": "Означает поддержку или борьбу за дело или человека.",
+      "farsiMeaning": "تلاش کردن برای",
+      "farsiUsage": "برای توصیف حمایت یا مبارزه برای یک هدف یا شخص استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich setze mich für den Umweltschutz ein.",
+      "english": "I am committed to environmental protection.",
+      "russian": "Я выступаю за защиту окружающей среды.",
+      "farsi": "من برای حفاظت از محیط زیست تلاش می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie setzt sich für Tiere ein.",
+      "english": "She advocates for animals.",
+      "russian": "Она защищает права животных.",
+      "farsi": "او برای حمایت از حیوانات تلاش می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir müssen uns für unsere Rechte einsetzen.",
+      "english": "We have to stand up for our rights.",
+      "russian": "Нам нужно отстаивать свои права.",
+      "farsi": "ما باید برای حقوق خودمان مبارزه کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er setzt sich für eine bessere Zukunft ein.",
+      "english": "He is committed to a better future.",
+      "russian": "Он борется за лучшее будущее.",
+      "farsi": "او برای آینده‌ای بهتر تلاش می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "sich einstellen auf + Akkusativ",
+      "Präsens": "Er stellt sich auf ein",
+      "Präteritum": "Er stellte sich auf ein",
+      "Perfekt": "Er hat sich auf eingestellt",
+      "englishMeaning": "to prepare for",
+      "englishUsage": "Refers to mentally or practically preparing for something.",
+      "russianMeaning": "подготавливаться к",
+      "russianUsage": "Означает моральную или практическую подготовку к чему-либо.",
+      "farsiMeaning": "آماده شدن برای",
+      "farsiUsage": "برای اشاره به آماده شدن ذهنی یا عملی برای چیزی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Stell dich auf eine lange Wartezeit ein.",
+      "english": "Prepare yourself for a long wait.",
+      "russian": "Приготовься к долгому ожиданию.",
+      "farsi": "برای یک انتظار طولانی آماده باش."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir müssen uns auf das schlechte Wetter einstellen.",
+      "english": "We have to prepare for bad weather.",
+      "russian": "Нам нужно подготовиться к плохой погоде.",
+      "farsi": "باید برای هوای بد آماده باشیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie stellt sich schnell auf neue Situationen ein.",
+      "english": "She adapts quickly to new situations.",
+      "russian": "Она быстро адаптируется к новым ситуациям.",
+      "farsi": "او به سرعت با موقعیت‌های جدید سازگار می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir müssen uns auf Veränderungen einstellen.",
+      "english": "We have to adjust to changes.",
+      "russian": "Нам нужно приспособиться к изменениям.",
+      "farsi": "ما باید خود را با تغییرات تطبیق دهیم."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "sich engagieren für + Akkusativ",
+      "Präsens": "Er engagiert sich für",
+      "Präteritum": "Er engagierte sich für",
+      "Perfekt": "Er hat sich für engagiert",
+      "englishMeaning": "to commit to",
+      "englishUsage": "Used to describe involvement or dedication to a cause.",
+      "russianMeaning": "посвятить себя",
+      "russianUsage": "Используется для описания вовлеченности или приверженности делу.",
+      "farsiMeaning": "متعهد شدن به",
+      "farsiUsage": "برای توصیف تعهد یا مشارکت در یک موضوع استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich engagiere mich für einen Verein.",
+      "english": "I am committed to a club.",
+      "russian": "Я участвую в деятельности клуба.",
+      "farsi": "من در یک انجمن فعالیت می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie engagiert sich für Kinder.",
+      "english": "She is committed to children.",
+      "russian": "Она помогает детям.",
+      "farsi": "او برای کودکان فعالیت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er engagiert sich für soziale Projekte.",
+      "english": "He is involved in social projects.",
+      "russian": "Он участвует в социальных проектах.",
+      "farsi": "او در پروژه‌های اجتماعی فعالیت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir sollten uns mehr für unsere Gesellschaft engagieren.",
+      "english": "We should engage more for our society.",
+      "russian": "Нам следует больше участвовать в жизни общества.",
+      "farsi": "ما باید بیشتر برای جامعه خود تلاش کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "sich entscheiden für + Akkusativ",
+      "Präsens": "Er entscheidet sich für",
+      "Präteritum": "Er entschied sich für",
+      "Perfekt": "Er hat sich für entschieden",
+      "englishMeaning": "to decide on",
+      "englishUsage": "Refers to making a decision or choosing something.",
+      "russianMeaning": "принять решение по",
+      "russianUsage": "Означает принятие решения или выбор чего-либо.",
+      "farsiMeaning": "تصمیم گرفتن برای",
+      "farsiUsage": "برای اشاره به تصمیم‌گیری یا انتخاب چیزی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe mich für das blaue Kleid entschieden.",
+      "english": "I decided on the blue dress.",
+      "russian": "Я выбрала синее платье.",
+      "farsi": "من لباس آبی را انتخاب کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat sich für den Urlaub in Italien entschieden.",
+      "english": "He decided on the vacation in Italy.",
+      "russian": "Он выбрал отдых в Италии.",
+      "farsi": "او تعطیلات در ایتالیا را انتخاب کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie muss sich bald für einen Job entscheiden.",
+      "english": "She has to decide on a job soon.",
+      "russian": "Ей нужно скоро выбрать работу.",
+      "farsi": "او باید به زودی شغلی را انتخاب کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir müssen uns für eine Lösung entscheiden.",
+      "english": "We have to decide on a solution.",
+      "russian": "Нам нужно выбрать решение.",
+      "farsi": "ما باید راه حلی را انتخاب کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "sich entschuldigen für + Akkusativ",
+      "Präsens": "Er entschuldigt sich für",
+      "Präteritum": "Er entschuldigte sich für",
+      "Perfekt": "Er hat sich für entschuldigt",
+      "englishMeaning": "to apologize for",
+      "englishUsage": "Used when expressing regret or apology for something.",
+      "russianMeaning": "извиняться за",
+      "russianUsage": "Используется при выражении сожаления или извинений за что-либо.",
+      "farsiMeaning": "عذرخواهی کردن برای",
+      "farsiUsage": "برای بیان پشیمانی یا عذرخواهی برای چیزی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich entschuldige mich für die Verspätung.",
+      "english": "I apologize for the delay.",
+      "russian": "Я извиняюсь за опоздание.",
+      "farsi": "من بابت تأخیر عذرخواهی می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er entschuldigt sich für seine Worte.",
+      "english": "He apologizes for his words.",
+      "russian": "Он извиняется за свои слова.",
+      "farsi": "او بابت حرف‌هایش عذرخواهی می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie entschuldigt sich für ihr Verhalten.",
+      "english": "She apologizes for her behavior.",
+      "russian": "Она извиняется за свое поведение.",
+      "farsi": "او بابت رفتار خود عذرخواهی می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir müssen uns für den Fehler entschuldigen.",
+      "english": "We have to apologize for the mistake.",
+      "russian": "Нам нужно извиниться за ошибку.",
+      "farsi": "ما باید بابت اشتباه عذرخواهی کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "sich erinnern an + Akkusativ",
+      "Präsens": "Er erinnert sich an",
+      "Präteritum": "Er erinnerte sich an",
+      "Perfekt": "Er hat sich an erinnert",
+      "englishMeaning": "to remember",
+      "englishUsage": "Describes the act of recalling something or someone.",
+      "russianMeaning": "вспоминать о",
+      "russianUsage": "Означает акт воспоминания о чем-либо или ком-либо.",
+      "farsiMeaning": "به یاد آوردن",
+      "farsiUsage": "برای توصیف عمل به یاد آوردن چیزی یا کسی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich erinnere mich an meinen ersten Schultag.",
+      "english": "I remember my first day of school.",
+      "russian": "Я помню свой первый день в школе.",
+      "farsi": "من اولین روز مدرسه‌ام را به یاد دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er erinnert sich nicht an deinen Namen.",
+      "english": "He doesn’t remember your name.",
+      "russian": "Он не помнит твоё имя.",
+      "farsi": "او اسمت را به خاطر نمی‌آورد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie erinnert sich gerne an ihre Kindheit.",
+      "english": "She fondly remembers her childhood.",
+      "russian": "Она с удовольствием вспоминает своё детство.",
+      "farsi": "او با علاقه دوران کودکی‌اش را به یاد می‌آورد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kannst du mich bitte daran erinnern, die Milch zu kaufen?",
+      "english": "Can you please remind me to buy the milk?",
+      "russian": "Можешь мне напомнить купить молоко?",
+      "farsi": "می‌توانی لطفاً به من یادآوری کنی که شیر بخرم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "sich freuen auf + Akkusativ",
+      "Präsens": "Er freut sich auf",
+      "Präteritum": "Er freute sich auf",
+      "Perfekt": "Er hat sich auf gefreut",
+      "englishMeaning": "to look forward to",
+      "englishUsage": "Expresses anticipation for something that will happen in the future.",
+      "russianMeaning": "радоваться предстоящему",
+      "russianUsage": "Выражает ожидание чего-то, что произойдет в будущем.",
+      "farsiMeaning": "منتظر بودن برای",
+      "farsiUsage": "برای بیان اشتیاق برای چیزی که در آینده رخ می‌دهد استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich freue mich auf das Wochenende.",
+      "english": "I am looking forward to the weekend.",
+      "russian": "Я с нетерпением жду выходных.",
+      "farsi": "من مشتاق آخر هفته هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie freut sich auf ihren Geburtstag.",
+      "english": "She is looking forward to her birthday.",
+      "russian": "Она с нетерпением ждёт своего дня рождения.",
+      "farsi": "او منتظر تولدش است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er freut sich auf die Reise nach Berlin.",
+      "english": "He is looking forward to the trip to Berlin.",
+      "russian": "Он с нетерпением ждёт поездки в Берлин.",
+      "farsi": "او مشتاق سفر به برلین است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir freuen uns auf die Ferien.",
+      "english": "We are looking forward to the holidays.",
+      "russian": "Мы с нетерпением ждём каникул.",
+      "farsi": "ما مشتاق تعطیلات هستیم."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "sich freuen über + Akkusativ",
+      "Präsens": "Er freut sich über",
+      "Präteritum": "Er freute sich über",
+      "Perfekt": "Er hat sich über gefreut",
+      "englishMeaning": "to be happy about",
+      "englishUsage": "Used to express happiness about something that has already happened.",
+      "russianMeaning": "радоваться о",
+      "russianUsage": "Используется для выражения радости по поводу уже произошедшего.",
+      "farsiMeaning": "خوشحال بودن از",
+      "farsiUsage": "برای بیان خوشحالی از چیزی که قبلاً رخ داده استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich freue mich über dein Geschenk.",
+      "english": "I am happy about your gift.",
+      "russian": "Я рад твоему подарку.",
+      "farsi": "من از هدیه‌ات خوشحالم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie freut sich über die gute Nachricht.",
+      "english": "She is happy about the good news.",
+      "russian": "Она рада хорошей новости.",
+      "farsi": "او از خبر خوب خوشحال است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er freut sich über den Erfolg seines Teams.",
+      "english": "He is happy about his team’s success.",
+      "russian": "Он радуется успеху своей команды.",
+      "farsi": "او از موفقیت تیمش خوشحال است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir freuen uns über deinen Besuch.",
+      "english": "We are happy about your visit.",
+      "russian": "Мы рады твоему визиту.",
+      "farsi": "ما از دیدارت خوشحالیم."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "gehören in + Akkusativ",
+      "Präsens": "Er gehört in",
+      "Präteritum": "Er gehörte in",
+      "Perfekt": "Er hat in gehört",
+      "englishMeaning": "to belong in",
+      "englishUsage": "Indicates that something is appropriate for or should be in a specific place.",
+      "russianMeaning": "принадлежать",
+      "russianUsage": "Указывает, что что-то уместно или должно быть в определённом месте.",
+      "farsiMeaning": "مربوط بودن به",
+      "farsiUsage": "برای اشاره به مناسب بودن چیزی برای جای خاص استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Gabel gehört in den Besteckkasten.",
+      "english": "The fork belongs in the cutlery drawer.",
+      "russian": "Вилка должна лежать в ящике для столовых приборов.",
+      "farsi": "چنگال باید در جعبه کارد و چنگال باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Diese Frage gehört nicht in dieses Thema.",
+      "english": "This question does not belong in this topic.",
+      "russian": "Этот вопрос не относится к этой теме.",
+      "farsi": "این سوال به این موضوع مربوط نمی‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Diese Aufgabe gehört in die nächste Woche.",
+      "english": "This task belongs to next week.",
+      "russian": "Это задание относится к следующей неделе.",
+      "farsi": "این وظیفه به هفته بعد تعلق دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Diese Aufgabe gehört in die Kategorie 'leicht'.",
+      "english": "This task belongs in the 'easy' category.",
+      "russian": "Это задание относится к категории 'легко'.",
+      "farsi": "این وظیفه به دسته‌بندی 'آسان' تعلق دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "gewöhnen an + Akkusativ",
+      "Präsens": "Er gewöhnt sich an",
+      "Präteritum": "Er gewöhnte sich an",
+      "Perfekt": "Er hat sich an gewöhnt",
+      "englishMeaning": "to get used to",
+      "englishUsage": "Refers to becoming accustomed to something.",
+      "russianMeaning": "привыкнуть к",
+      "russianUsage": "Означает привыкание к чему-либо.",
+      "farsiMeaning": "عادت کردن به",
+      "farsiUsage": "برای اشاره به عادت کردن به چیزی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich muss mich noch an das neue Essen gewöhnen.",
+      "english": "I still have to get used to the new food.",
+      "russian": "Мне ещё нужно привыкнуть к новой еде.",
+      "farsi": "من هنوز باید به غذای جدید عادت کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat sich schnell an die neue Arbeit gewöhnt.",
+      "english": "He quickly got used to the new job.",
+      "russian": "Он быстро привык к новой работе.",
+      "farsi": "او به سرعت به کار جدید عادت کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man gewöhnt sich schnell an den Lärm der Stadt.",
+      "english": "One quickly gets used to the noise of the city.",
+      "russian": "К шуму города быстро привыкаешь.",
+      "farsi": "آدم به سرعت به سروصدای شهر عادت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat sich an das kalte Wetter gewöhnt.",
+      "english": "She has gotten used to the cold weather.",
+      "russian": "Она привыкла к холодной погоде.",
+      "farsi": "او به هوای سرد عادت کرده است."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "halten für + Akkusativ",
+      "Präsens": "Er hält für",
+      "Präteritum": "Er hielt für",
+      "Perfekt": "Er hat für gehalten",
+      "englishMeaning": "to consider as",
+      "englishUsage": "Used to express holding a belief or opinion about someone or something.",
+      "russianMeaning": "считать за",
+      "russianUsage": "Используется для выражения мнения или убеждения о ком-либо или чём-либо.",
+      "farsiMeaning": "در نظر گرفتن به عنوان",
+      "farsiUsage": "برای بیان نظر یا باور درباره کسی یا چیزی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich halte ihn für einen guten Freund.",
+      "english": "I consider him a good friend.",
+      "russian": "Я считаю его хорошим другом.",
+      "farsi": "من او را یک دوست خوب می‌دانم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hält das für eine gute Idee.",
+      "english": "She considers that a good idea.",
+      "russian": "Она считает это хорошей идеей.",
+      "farsi": "او این را یک ایده خوب می‌داند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Viele Menschen halten ihn für einen Experten.",
+      "english": "Many people consider him an expert.",
+      "russian": "Многие люди считают его экспертом.",
+      "farsi": "بسیاری از مردم او را یک کارشناس می‌دانند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hält die Situation für ernst.",
+      "english": "He considers the situation serious.",
+      "russian": "Он считает ситуацию серьезной.",
+      "farsi": "او وضعیت را جدی می‌داند."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "hoffen auf + Akkusativ",
+      "Präsens": "Er hofft auf",
+      "Präteritum": "Er hoffte auf",
+      "Perfekt": "Er hat auf gehofft",
+      "englishMeaning": "to hope for",
+      "englishUsage": "Indicates a wish or expectation for something.",
+      "russianMeaning": "надеяться на",
+      "russianUsage": "Означает пожелание или ожидание чего-либо.",
+      "farsiMeaning": "امید داشتن به",
+      "farsiUsage": "برای بیان امید یا انتظار برای چیزی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich hoffe auf schönes Wetter am Wochenende.",
+      "english": "I hope for nice weather on the weekend.",
+      "russian": "Я надеюсь на хорошую погоду в выходные.",
+      "farsi": "من امیدوارم که در آخر هفته هوای خوبی باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hofft auf eine positive Antwort.",
+      "english": "She hopes for a positive response.",
+      "russian": "Она надеется на положительный ответ.",
+      "farsi": "او امیدوار است که پاسخ مثبتی دریافت کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir hoffen auf eine bessere Zukunft.",
+      "english": "We hope for a better future.",
+      "russian": "Мы надеемся на лучшее будущее.",
+      "farsi": "ما امیدواریم که آینده بهتری داشته باشیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hofft auf eine Lösung für das Problem.",
+      "english": "He hopes for a solution to the problem.",
+      "russian": "Он надеется на решение проблемы.",
+      "farsi": "او امیدوار است که برای این مشکل راه حلی پیدا شود."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "impfen gegen + Akkusativ",
+      "Präsens": "Er impft gegen",
+      "Präteritum": "Er impfte gegen",
+      "Perfekt": "Er hat gegen geimpft",
+      "englishMeaning": "to vaccinate against",
+      "englishUsage": "Describes giving someone a vaccine to protect against a disease.",
+      "russianMeaning": "прививать от",
+      "russianUsage": "Означает введение вакцины для защиты от болезни.",
+      "farsiMeaning": "واکسیناسیون در برابر",
+      "farsiUsage": "برای توصیف واکسیناسیون برای محافظت در برابر بیماری استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man muss Kinder gegen Masern impfen.",
+      "english": "Children must be vaccinated against measles.",
+      "russian": "Детей нужно вакцинировать против кори.",
+      "farsi": "باید کودکان را در برابر سرخک واکسینه کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat sich gegen Grippe impfen lassen.",
+      "english": "She has been vaccinated against the flu.",
+      "russian": "Она сделала прививку против гриппа.",
+      "farsi": "او واکسن آنفولانزا را زده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Ärzte empfehlen, sich gegen bestimmte Krankheiten impfen zu lassen.",
+      "english": "Doctors recommend getting vaccinated against certain diseases.",
+      "russian": "Врачи рекомендуют делать прививки против определенных болезней.",
+      "farsi": "پزشکان توصیه می‌کنند که در برابر بیماری‌های خاص واکسینه شوید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Regierung hat eine Impfkampagne gestartet.",
+      "english": "The government has launched a vaccination campaign.",
+      "russian": "Правительство запустило кампанию вакцинации.",
+      "farsi": "دولت یک کمپین واکسیناسیون راه اندازی کرده است."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "sich informieren über + Akkusativ",
+      "Präsens": "Er informiert sich über",
+      "Präteritum": "Er informierte sich über",
+      "Perfekt": "Er hat sich über informiert",
+      "englishMeaning": "to inform oneself about",
+      "englishUsage": "Used to express gaining information or knowledge on a topic.",
+      "russianMeaning": "информировать себя о",
+      "russianUsage": "Используется для выражения получения информации или знаний о чем-либо.",
+      "farsiMeaning": "آگاه شدن از",
+      "farsiUsage": "برای بیان کسب اطلاعات یا آگاهی درباره موضوعی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich informiere mich über die Reise.",
+      "english": "I am getting information about the trip.",
+      "russian": "Я получаю информацию о поездке.",
+      "farsi": "من در حال کسب اطلاعات درباره سفر هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie informiert sich über das neue Produkt.",
+      "english": "She is getting information about the new product.",
+      "russian": "Она получает информацию о новом продукте.",
+      "farsi": "او در حال کسب اطلاعات درباره محصول جدید است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man sollte sich gut über ein Thema informieren, bevor man darüber spricht.",
+      "english": "One should inform oneself well about a topic before discussing it.",
+      "russian": "Нужно хорошо информироваться о теме, прежде чем обсуждать её.",
+      "farsi": "باید قبل از صحبت درباره یک موضوع به خوبی در مورد آن اطلاعات کسب کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er informiert sich täglich über die Nachrichten.",
+      "english": "He informs himself daily about the news.",
+      "russian": "Он ежедневно информируется о новостях.",
+      "farsi": "او هر روز در مورد اخبار اطلاعات کسب می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "sich interessieren für + Akkusativ",
+      "Präsens": "Er interessiert sich für",
+      "Präteritum": "Er interessierte sich für",
+      "Perfekt": "Er hat sich für interessiert",
+      "englishMeaning": "to be interested in",
+      "englishUsage": "Describes having an interest in a particular subject or activity.",
+      "russianMeaning": "интересоваться",
+      "russianUsage": "Описывает интерес к конкретной теме или деятельности.",
+      "farsiMeaning": "علاقه‌مند بودن به",
+      "farsiUsage": "برای توصیف علاقه به موضوع یا فعالیت خاص استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich interessiere mich für Fußball.",
+      "english": "I am interested in football.",
+      "russian": "Я интересуюсь футболом.",
+      "farsi": "من به فوتبال علاقه‌مند هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie interessiert sich für Kunst.",
+      "english": "She is interested in art.",
+      "russian": "Она интересуется искусством.",
+      "farsi": "او به هنر علاقه‌مند است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er interessiert sich für Geschichte.",
+      "english": "He is interested in history.",
+      "russian": "Он интересуется историей.",
+      "farsi": "او به تاریخ علاقه‌مند است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir interessieren uns für nachhaltige Produkte.",
+      "english": "We are interested in sustainable products.",
+      "russian": "Мы интересуемся устойчивыми продуктами.",
+      "farsi": "ما به محصولات پایدار علاقه‌مند هستیم."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "kämpfen für + Akkusativ",
+      "Präsens": "Er kämpft für",
+      "Präteritum": "Er kämpfte für",
+      "Perfekt": "Er hat für gekämpft",
+      "englishMeaning": "to fight for",
+      "englishUsage": "Refers to actively working or struggling for a cause or goal.",
+      "russianMeaning": "бороться за",
+      "russianUsage": "Означает активную работу или борьбу за дело или цель.",
+      "farsiMeaning": "مبارزه کردن برای",
+      "farsiUsage": "برای اشاره به کار یا مبارزه فعالانه برای یک هدف یا آرمان استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie kämpft für ihre Rechte.",
+      "english": "She fights for her rights.",
+      "russian": "Она борется за свои права.",
+      "farsi": "او برای حقوق خود می‌جنگد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir kämpfen für den Frieden.",
+      "english": "We fight for peace.",
+      "russian": "Мы боремся за мир.",
+      "farsi": "ما برای صلح می‌جنگیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Umweltschützer kämpfen für den Erhalt der Natur.",
+      "english": "The environmentalists fight for the preservation of nature.",
+      "russian": "Экологи борются за сохранение природы.",
+      "farsi": "محیط‌زیست‌بانان برای حفظ طبیعت می‌جنگند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er kämpft für seine Träume.",
+      "english": "He fights for his dreams.",
+      "russian": "Он борется за свои мечты.",
+      "farsi": "او برای رویای خود می‌جنگد."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "konzentrieren auf + Akkusativ",
+      "Präsens": "Er konzentriert sich auf",
+      "Präteritum": "Er konzentrierte sich auf",
+      "Perfekt": "Er hat sich auf konzentriert",
+      "englishMeaning": "to concentrate on",
+      "englishUsage": "Describes focusing attention on a specific task or topic.",
+      "russianMeaning": "концентрироваться на",
+      "russianUsage": "Означает сосредоточение внимания на определенной задаче или теме.",
+      "farsiMeaning": "تمرکز کردن بر",
+      "farsiUsage": "برای بیان تمرکز بر روی یک کار یا موضوع خاص استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Konzentriere dich auf deine Arbeit!",
+      "english": "Concentrate on your work!",
+      "russian": "Сосредоточься на своей работе!",
+      "farsi": "به کار خود تمرکز کن!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie konzentriert sich auf die Prüfung.",
+      "english": "She is concentrating on the exam.",
+      "russian": "Она сосредотачивается на экзамене.",
+      "farsi": "او بر روی امتحان تمرکز می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man muss sich auf das Wesentliche konzentrieren.",
+      "english": "One must concentrate on the essentials.",
+      "russian": "Необходимо сосредоточиться на самом важном.",
+      "farsi": "باید بر روی مسائل اساسی تمرکز کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er konzentriert sich auf seine Ziele.",
+      "english": "He is concentrating on his goals.",
+      "russian": "Он сосредотачивается на своих целях.",
+      "farsi": "او بر روی اهدافش تمرکز می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "sich kümmern um + Akkusativ",
+      "Präsens": "Er kümmert sich um",
+      "Präteritum": "Er kümmerte sich um",
+      "Perfekt": "Er hat sich um gekümmert",
+      "englishMeaning": "to take care of",
+      "englishUsage": "Indicates responsibility for someone or something.",
+      "russianMeaning": "заботиться о",
+      "russianUsage": "Означает ответственность за кого-то или что-то.",
+      "farsiMeaning": "مراقبت کردن از",
+      "farsiUsage": "برای بیان مسئولیت نسبت به کسی یا چیزی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie kümmert sich um ihre kranke Mutter.",
+      "english": "She takes care of her sick mother.",
+      "russian": "Она заботится о своей больной матери.",
+      "farsi": "او از مادر بیمار خود مراقبت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er kümmert sich um die Pflanzen.",
+      "english": "He takes care of the plants.",
+      "russian": "Он заботится о растениях.",
+      "farsi": "او از گیاهان مراقبت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man sollte sich um seine Gesundheit kümmern.",
+      "english": "One should take care of one's health.",
+      "russian": "Нужно заботиться о своем здоровье.",
+      "farsi": "باید از سلامتی خود مراقبت کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir müssen uns um die Umwelt kümmern.",
+      "english": "We must take care of the environment.",
+      "russian": "Мы должны заботиться об окружающей среде.",
+      "farsi": "ما باید از محیط زیست مراقبت کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "lachen über + Akkusativ",
+      "Präsens": "Er lacht über",
+      "Präteritum": "Er lachte über",
+      "Perfekt": "Er hat über gelacht",
+      "englishMeaning": "to laugh about",
+      "englishUsage": "Used to express amusement about something.",
+      "russianMeaning": "смеяться над",
+      "russianUsage": "Используется для выражения веселья по поводу чего-то.",
+      "farsiMeaning": "خندیدن به",
+      "farsiUsage": "برای بیان خندیدن به چیزی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir lachen über den lustigen Witz.",
+      "english": "We laugh at the funny joke.",
+      "russian": "Мы смеемся над смешной шуткой.",
+      "farsi": "ما به جوک خنده‌دار می‌خندیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie lachen über den Clown.",
+      "english": "They laugh at the clown.",
+      "russian": "Они смеются над клоуном.",
+      "farsi": "آنها به کلاون می‌خندند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man sollte nicht über andere Menschen lachen.",
+      "english": "One should not laugh at other people.",
+      "russian": "Не следует смеяться над другими людьми.",
+      "farsi": "نباید به دیگران خندید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er lacht über seinen eigenen Fehler.",
+      "english": "He laughs at his own mistake.",
+      "russian": "Он смеется над своей собственной ошибкой.",
+      "farsi": "او به اشتباه خود می‌خندد."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "nachdenken über + Akkusativ",
+      "Präsens": "Er denkt über nach",
+      "Präteritum": "Er dachte über nach",
+      "Perfekt": "Er hat über nachgedacht",
+      "englishMeaning": "to think about",
+      "englishUsage": "Refers to considering or pondering something.",
+      "russianMeaning": "думать о",
+      "russianUsage": "Означает размышление или обдумывание чего-то.",
+      "farsiMeaning": "فکر کردن به",
+      "farsiUsage": "برای اشاره به فکر کردن یا تأمل درباره چیزی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich denke über das Problem nach.",
+      "english": "I am thinking about the problem.",
+      "russian": "Я думаю о проблеме.",
+      "farsi": "من به مشکل فکر می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie denkt über die Zukunft nach.",
+      "english": "She thinks about the future.",
+      "russian": "Она думает о будущем.",
+      "farsi": "او به آینده فکر می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man sollte gut nachdenken, bevor man eine Entscheidung trifft.",
+      "english": "One should think carefully before making a decision.",
+      "russian": "Нужно хорошо обдумать, прежде чем принимать решение.",
+      "farsi": "باید قبل از اتخاذ تصمیم خوب فکر کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er denkt oft über seine Kindheit nach.",
+      "english": "He often thinks about his childhood.",
+      "russian": "Он часто думает о своем детстве.",
+      "farsi": "او اغلب به دوران کودکی‌اش فکر می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "sprechen über + Akkusativ",
+      "Präsens": "Er spricht über",
+      "Präteritum": "Er sprach über",
+      "Perfekt": "Er hat über gesprochen",
+      "englishMeaning": "to talk about",
+      "englishUsage": "Used to indicate discussing a topic.",
+      "russianMeaning": "говорить о",
+      "russianUsage": "Используется для обозначения обсуждения темы.",
+      "farsiMeaning": "صحبت کردن در مورد",
+      "farsiUsage": "برای بیان صحبت کردن در مورد موضوعی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir sprechen über das Wetter.",
+      "english": "We talk about the weather.",
+      "russian": "Мы говорим о погоде.",
+      "farsi": "ما درباره‌ی هوا صحبت می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie sprechen über ihre Pläne.",
+      "english": "They talk about their plans.",
+      "russian": "Они говорят о своих планах.",
+      "farsi": "آنها درباره‌ی برنامه‌هایشان صحبت می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man sollte offen über Probleme sprechen.",
+      "english": "One should talk openly about problems.",
+      "russian": "Нужно открыто говорить о проблемах.",
+      "farsi": "باید به‌طور صریح درباره‌ی مشکلات صحبت کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er spricht fließend Deutsch.",
+      "english": "He speaks German fluently.",
+      "russian": "Он свободно говорит по-немецки.",
+      "farsi": "او به‌طور روان به آلمانی صحبت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "sich streiten über + Akkusativ",
+      "Präsens": "Er streitet sich über",
+      "Präteritum": "Er stritt sich über",
+      "Perfekt": "Er hat sich über gestritten",
+      "englishMeaning": "to argue about",
+      "englishUsage": "Expresses having a disagreement or conflict about something.",
+      "russianMeaning": "спорить о",
+      "russianUsage": "Означает наличие разногласий или конфликта по поводу чего-либо.",
+      "farsiMeaning": "بحث کردن در مورد",
+      "farsiUsage": "برای بیان داشتن اختلاف یا درگیری در مورد چیزی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie streiten sich über Geld.",
+      "english": "They argue about money.",
+      "russian": "Они ссорятся из-за денег.",
+      "farsi": "آنها درباره‌ی پول با هم بحث می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir streiten uns oft über Kleinigkeiten.",
+      "english": "We often argue about trivial matters.",
+      "russian": "Мы часто ссоримся из-за мелочей.",
+      "farsi": "ما اغلب درباره‌ی چیزهای بی‌اهمیت با هم دعوا می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Politiker streiten sich über die neue Politik.",
+      "english": "The politicians argue about the new policy.",
+      "russian": "Политики спорят о новой политике.",
+      "farsi": "سیاستمداران درباره‌ی سیاست جدید با هم دعوا می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man sollte versuchen, Konflikte ohne Streit zu lösen.",
+      "english": "One should try to resolve conflicts without arguing.",
+      "russian": "Следует стараться решать конфликты без ссор.",
+      "farsi": "باید سعی کرد که تعارض‌ها را بدون دعوا حل کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "sich unterhalten über + Akkusativ",
+      "Präsens": "Er unterhält sich über",
+      "Präteritum": "Er unterhielt sich über",
+      "Perfekt": "Er hat sich über unterhalten",
+      "englishMeaning": "to converse about",
+      "englishUsage": "Describes having a discussion about a topic.",
+      "russianMeaning": "разговаривать о",
+      "russianUsage": "Означает обсуждение темы.",
+      "farsiMeaning": "گفتگو کردن درباره",
+      "farsiUsage": "برای بیان گفتگو در مورد موضوعی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir unterhalten uns über den Film.",
+      "english": "We are talking about the movie.",
+      "russian": "Мы обсуждаем фильм.",
+      "farsi": "ما درباره‌ی فیلم صحبت می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie unterhalten sich gerne über Mode.",
+      "english": "They enjoy talking about fashion.",
+      "russian": "Им нравится обсуждать моду.",
+      "farsi": "آنها از صحبت کردن درباره‌ی مد لذت می‌برند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man kann sich über alles Mögliche unterhalten.",
+      "english": "You can talk about all sorts of things.",
+      "russian": "Можно говорить обо всем на свете.",
+      "farsi": "می‌توان درباره‌ی همه چیز صحبت کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er unterhält sich stundenlang am Telefon.",
+      "english": "He talks for hours on the phone.",
+      "russian": "Он разговаривает по телефону часами.",
+      "farsi": "او ساعت‌ها با تلفن صحبت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "sich verlassen auf + Akkusativ",
+      "Präsens": "Er verlässt sich auf",
+      "Präteritum": "Er verließ sich auf",
+      "Perfekt": "Er hat sich auf verlassen",
+      "englishMeaning": "to rely on",
+      "englishUsage": "Used to express dependence or trust in someone or something.",
+      "russianMeaning": "положиться на",
+      "russianUsage": "Означает зависимость или доверие к кому-то или чему-то.",
+      "farsiMeaning": "اعتماد کردن به",
+      "farsiUsage": "برای بیان اعتماد یا وابستگی به کسی یا چیزی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich kann mich auf dich verlassen.",
+      "english": "I can rely on you.",
+      "russian": "Я могу положиться на тебя.",
+      "farsi": "می‌توانم روی تو حساب کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie verlässt sich auf ihren Freund.",
+      "english": "She relies on her friend.",
+      "russian": "Она полагается на своего друга.",
+      "farsi": "او روی دوستش حساب می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man sollte sich nicht immer auf andere verlassen.",
+      "english": "One should not always rely on others.",
+      "russian": "Не следует всегда полагаться на других.",
+      "farsi": "نباید همیشه به دیگران وابسته بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er verlässt sich auf sein Glück.",
+      "english": "He relies on his luck.",
+      "russian": "Он полагается на удачу.",
+      "farsi": "او روی شانسش حساب می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "verschieben auf + Akkusativ",
+      "Präsens": "Er verschiebt auf",
+      "Präteritum": "Er verschob auf",
+      "Perfekt": "Er hat auf verschoben",
+      "englishMeaning": "to postpone to",
+      "englishUsage": "Describes delaying something to a later time.",
+      "russianMeaning": "отложить на",
+      "russianUsage": "Означает отложение чего-либо на более позднее время.",
+      "farsiMeaning": "به تعویق انداختن تا",
+      "farsiUsage": "برای بیان به تعویق انداختن چیزی تا زمان بعد استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir verschieben die Party auf nächstes Wochenende.",
+      "english": "We are postponing the party to next weekend.",
+      "russian": "Мы переносим вечеринку на следующие выходные.",
+      "farsi": "ما مهمانی را به آخر هفته‌ی آینده موکول می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie verschiebt den Termin.",
+      "english": "She is rescheduling the appointment.",
+      "russian": "Она переносит встречу.",
+      "farsi": "او قرار ملاقات را تغییر می‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man sollte Termine nicht leichtfertig verschieben.",
+      "english": "One should not postpone appointments lightly.",
+      "russian": "Не следует легкомысленно переносить встречи.",
+      "farsi": "نباید قرارها را به سادگی تغییر داد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er verschiebt seine Probleme immer wieder auf später.",
+      "english": "He keeps postponing his problems to later.",
+      "russian": "Он постоянно откладывает свои проблемы на потом.",
+      "farsi": "او همیشه مشکلاتش را به بعد موکول می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "verzichten auf + Akkusativ",
+      "Präsens": "Er verzichtet auf",
+      "Präteritum": "Er verzichtete auf",
+      "Perfekt": "Er hat auf verzichtet",
+      "englishMeaning": "to do without",
+      "englishUsage": "Expresses giving up or forgoing something.",
+      "russianMeaning": "отказаться от",
+      "russianUsage": "Означает отказ от чего-либо.",
+      "farsiMeaning": "صرف‌نظر کردن از",
+      "farsiUsage": "برای بیان دست کشیدن یا صرف‌نظر کردن از چیزی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich verzichte auf Süßigkeiten.",
+      "english": "I am giving up sweets.",
+      "russian": "Я отказываюсь от сладостей.",
+      "farsi": "من از شیرینی‌ها صرف‌نظر می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie verzichtet auf Alkohol.",
+      "english": "She is giving up alcohol.",
+      "russian": "Она отказывается от алкоголя.",
+      "farsi": "او از الکل صرف‌نظر می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man sollte manchmal auf etwas verzichten können.",
+      "english": "One should be able to give up something sometimes.",
+      "russian": "Иногда нужно уметь отказываться от чего-то.",
+      "farsi": "گاهی اوقات باید بتوانید از چیزی صرف‌نظر کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er verzichtet auf seinen Urlaub.",
+      "english": "He is giving up his vacation.",
+      "russian": "Он отказывается от своего отпуска.",
+      "farsi": "او از تعطیلاتش صرف‌نظر می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "sich vorbereiten auf + Akkusativ",
+      "Präsens": "Er bereitet sich auf vor",
+      "Präteritum": "Er bereitete sich auf vor",
+      "Perfekt": "Er hat sich auf vorbereitet",
+      "englishMeaning": "to prepare for",
+      "englishUsage": "Describes getting ready for something.",
+      "russianMeaning": "подготовиться к",
+      "russianUsage": "Означает подготовку к чему-либо.",
+      "farsiMeaning": "آماده شدن برای",
+      "farsiUsage": "برای اشاره به آماده شدن برای چیزی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bereite mich auf die Prüfung vor.",
+      "english": "I am preparing for the exam.",
+      "russian": "Я готовлюсь к экзамену.",
+      "farsi": "من برای امتحان آماده می‌شوم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie bereitet sich auf das Vorstellungsgespräch vor.",
+      "english": "She is preparing for the job interview.",
+      "russian": "Она готовится к собеседованию.",
+      "farsi": "او برای مصاحبه شغلی آماده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man sollte sich gut auf eine Reise vorbereiten.",
+      "english": "One should prepare well for a trip.",
+      "russian": "Следует хорошо подготовиться к поездке.",
+      "farsi": "باید به خوبی برای یک سفر آماده شوید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er bereitet sich mental auf die Herausforderung vor.",
+      "english": "He is mentally preparing for the challenge.",
+      "russian": "Он готовится морально к вызову.",
+      "farsi": "او به طور ذهنی برای چالش آماده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "warten auf + Akkusativ",
+      "Präsens": "Er wartet auf",
+      "Präteritum": "Er wartete auf",
+      "Perfekt": "Er hat auf gewartet",
+      "englishMeaning": "to wait for",
+      "englishUsage": "Refers to expecting or waiting for someone or something.",
+      "russianMeaning": "ждать",
+      "russianUsage": "Означает ожидание кого-то или чего-то.",
+      "farsiMeaning": "منتظر بودن",
+      "farsiUsage": "برای اشاره به انتظار کشیدن برای کسی یا چیزی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich warte auf den Bus.",
+      "english": "I am waiting for the bus.",
+      "russian": "Я жду автобус.",
+      "farsi": "من منتظر اتوبوس هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie wartet auf einen Anruf.",
+      "english": "She is waiting for a call.",
+      "russian": "Она ждет звонка.",
+      "farsi": "او منتظر یک تماس است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man muss manchmal lange warten.",
+      "english": "Sometimes you have to wait a long time.",
+      "russian": "Иногда нужно ждать долго.",
+      "farsi": "گاهی اوقات باید مدت طولانی منتظر بمانید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er wartet auf seine Chance.",
+      "english": "He is waiting for his chance.",
+      "russian": "Он ждет своего шанса.",
+      "farsi": "او منتظر فرصت خود است."
+    }
+  ]
+}

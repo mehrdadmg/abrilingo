@@ -1,0 +1,1057 @@
+{
+  "info": {
+    "name": "B1_Fokus_u02",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich heiße Nabil Benzima.",
+      "english": "My name is Nabil Benzima.",
+      "russian": "Меня зовут Набиль Бензима.",
+      "farsi": "نام من نبیل بنزیما است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Als ich zwölf war, kam ich mit meinen Eltern aus Marokko nach Dortmund.",
+      "english": "When I was twelve, I came to Dortmund from Morocco with my parents.",
+      "russian": "Когда мне было двенадцать, я приехал в Дортмунд из Марокко с родителями.",
+      "farsi": "وقتی دوازده ساله بودم، همراه با والدینم از مراکش به دورتموند آمدم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nach meinem Schulabschluss in der 10. Klasse, habe ich eine dreijährige Ausbildung zum Tischler gemacht.",
+      "english": "After finishing 10th grade, I completed a three-year apprenticeship as a carpenter.",
+      "russian": "После окончания 10-го класса я прошел трехлетнее обучение на столяра.",
+      "farsi": "پس از اتمام کلاس دهم، یک دوره سه‌ساله کارآموزی نجاری را به پایان رساندم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich wollte schon immer einen Beruf, in dem ich mit meinen Händen arbeiten kann.",
+      "english": "I always wanted a job where I can work with my hands.",
+      "russian": "Я всегда хотел работу, где могу работать руками.",
+      "farsi": "من همیشه شغلی می‌خواستم که بتوانم با دست‌هایم کار کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nachdem ich die Gesellenprüfung bestanden hatte, habe ich sofort eine Stelle in einer kleinen Möbeltischlerei bekommen.",
+      "english": "After passing the journeyman exam, I immediately got a job at a small furniture carpentry.",
+      "russian": "После сдачи экзамена на подмастерья, я сразу получил работу в небольшой мебельной мастерской.",
+      "farsi": "پس از قبولی در آزمون شاگردی، بلافاصله شغلی در یک کارگاه کوچک مبلمان نجاری پیدا کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dort fühle ich mich sehr wohl.",
+      "english": "I feel very comfortable there.",
+      "russian": "Там я чувствую себя очень комфортно.",
+      "farsi": "در آنجا احساس راحتی زیادی دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hier habe ich einen sicheren Arbeitsplatz.",
+      "english": "Here I have a secure job.",
+      "russian": "Здесь у меня надежная работа.",
+      "farsi": "اینجا شغل امنی دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Tischlerberuf ist mein Traumberuf.",
+      "english": "The carpentry profession is my dream job.",
+      "russian": "Профессия столяра - моя работа мечты.",
+      "farsi": "شغل نجاری شغل رویایی من است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein Name ist Lilian Bundi und ich komme aus Kenia.",
+      "english": "My name is Lilian Bundi, and I am from Kenya.",
+      "russian": "Меня зовут Лилиан Бунди, и я из Кении.",
+      "farsi": "نام من لیلیان بوندی است و من اهل کنیا هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dort habe ich in Mombasa meinen Bachelorabschluss als Ingenieurin gemacht.",
+      "english": "I completed my bachelor's degree in engineering in Mombasa.",
+      "russian": "Там я получила степень бакалавра инженерии в Момбасе.",
+      "farsi": "در مومباسا مدرک کارشناسی خود را در رشته مهندسی دریافت کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nachdem ich nach Deutschland gekommen war, habe ich erst zwei Jahre lang in München an der Volkshochschule Deutsch gelernt und die Prüfung Zertifikat Deutsch B1 gemacht.",
+      "english": "After coming to Germany, I first studied German for two years at the adult education center in Munich and took the German B1 certificate exam.",
+      "russian": "После приезда в Германию я сначала два года изучала немецкий язык в народном университете в Мюнхене и сдала экзамен на сертификат немецкого B1.",
+      "farsi": "پس از آمدن به آلمان، ابتدا به مدت دو سال در مرکز آموزش بزرگسالان در مونیخ آلمانی خواندم و آزمون مدرک آلمانی B1 را گذراندم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nach meinem Unfall konnte ich aber nicht mehr in meinem Beruf arbeiten.",
+      "english": "After my accident, I could no longer work in my profession.",
+      "russian": "После аварии я больше не мог работать по своей профессии.",
+      "farsi": "پس از تصادفم دیگر نتوانستم در حرفه خود کار کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Deshalb habe ich eine Fortbildung zur IT-Fachkraft gemacht.",
+      "english": "Therefore, I took further training to become an IT specialist.",
+      "russian": "Поэтому я прошел переподготовку на специалиста по IT.",
+      "farsi": "بنابراین، یک دوره آموزش تکمیلی برای متخصص IT گذراندم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Heute arbeite ich in einem großen Unternehmen und pflege dort die Webseiten und den Onlineshop.",
+      "english": "Today I work in a large company, maintaining the websites and online shop.",
+      "russian": "Сегодня я работаю в крупной компании, обслуживая веб-сайты и интернет-магазин.",
+      "farsi": "امروز در یک شرکت بزرگ کار می‌کنم و از وبسایت‌ها و فروشگاه آنلاین آنجا مراقبت می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hier habe ich nette Kolleginnen und Kollegen und die Arbeit macht mir Spaß.",
+      "english": "I have nice colleagues here, and I enjoy the work.",
+      "russian": "Здесь у меня хорошие коллеги, и работа мне нравится.",
+      "farsi": "اینجا همکاران خوبی دارم و از کارم لذت می‌برم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin Walid Salam und arbeite seit zwei Jahren als Pflegehilfskraft in einem Altenheim in Wiesbaden.",
+      "english": "I am Walid Salam, and I have been working as a nursing assistant in a nursing home in Wiesbaden for two years.",
+      "russian": "Меня зовут Валид Салам, и я работаю помощником медсестры в доме престарелых в Висбадене уже два года.",
+      "farsi": "من والید سلام هستم و به مدت دو سال به عنوان کمک پرستار در خانه سالمندان در ویسبادن کار کرده‌ام."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wegen der Probleme im Libanon bin ich nach Deutschland gekommen.",
+      "english": "I came to Germany because of the problems in Lebanon.",
+      "russian": "Из-за проблем в Ливане я приехал в Германию.",
+      "farsi": "به دلیل مشکلات در لبنان به آلمان آمدم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nachdem ich Deutsch gelernt hatte, überlegte ich, was ich beruflich machen könnte.",
+      "english": "After learning German, I considered what I could do professionally.",
+      "russian": "После того, как я выучил немецкий, я задумался, чем могу заниматься профессионально.",
+      "farsi": "پس از یادگیری زبان آلمانی، فکر کردم که می‌توانم از نظر حرفه‌ای چه کاری انجام دهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im Libanon hatte ich Jura studiert und als Rechtsanwalt gearbeitet.",
+      "english": "In Lebanon, I studied law and worked as a lawyer.",
+      "russian": "В Ливане я изучал право и работал адвокатом.",
+      "farsi": "در لبنان حقوق خواندم و به عنوان وکیل کار کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Meine Ausbildung wurde hier aber nicht anerkannt.",
+      "english": "However, my qualification was not recognized here.",
+      "russian": "Однако моя квалификация здесь не была признана.",
+      "farsi": "اما مدرکم در اینجا به رسمیت شناخته نشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Deshalb habe ich eine Ausbildung zur Pflegehilfskraft gemacht, weil ich gern mit Menschen arbeite.",
+      "english": "Therefore, I trained as a nursing assistant because I enjoy working with people.",
+      "russian": "Поэтому я прошел обучение на помощника медсестры, так как мне нравится работать с людьми.",
+      "farsi": "بنابراین به عنوان کمک پرستار آموزش دیدم زیرا دوست دارم با مردم کار کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nach der theoretischen und praktischen Prüfung bekam ich gleich mehrere Stellenangebote.",
+      "english": "After the theoretical and practical exams, I immediately received several job offers.",
+      "russian": "После теоретического и практического экзамена я сразу получил несколько предложений о работе.",
+      "farsi": "پس از امتحانات نظری و عملی بلافاصله چندین پیشنهاد شغلی دریافت کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin mit meiner Arbeit sehr zufrieden. Kein Tag ist wie der andere.",
+      "english": "I am very satisfied with my work. No day is like the other.",
+      "russian": "Я очень доволен своей работой. Нет двух одинаковых дней.",
+      "farsi": "من از کارم بسیار راضی هستم. هیچ روزی مثل روز قبل نیست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich heiße Marta Garcia und komme aus Argentinien.",
+      "english": "My name is Marta Garcia, and I am from Argentina.",
+      "russian": "Меня зовут Марта Гарсия, и я из Аргентины.",
+      "farsi": "نام من مارتا گارسیا است و اهل آرژانتین هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nach dem Abitur habe ich in einem Friseursalon gelernt, wie man Haare schneidet.",
+      "english": "After graduating from high school, I learned how to cut hair in a hair salon.",
+      "russian": "После окончания школы я училась стричь волосы в парикмахерской.",
+      "farsi": "پس از فارغ‌التحصیلی از دبیرستان، در یک سالن آرایشگری یاد گرفتم که چگونه موها را کوتاه کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin wegen meines Mannes nach Deutschland gekommen.",
+      "english": "I came to Germany because of my husband.",
+      "russian": "Я приехала в Германию из-за моего мужа.",
+      "farsi": "به خاطر شوهرم به آلمان آمدم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Als Friseurin mit Berufserfahrung habe ich gleich eine Stelle in Freiburg gefunden.",
+      "english": "As a hairdresser with professional experience, I quickly found a job in Freiburg.",
+      "russian": "Как парикмахер с профессиональным опытом я быстро нашла работу в Фрайбурге.",
+      "farsi": "به عنوان یک آرایشگر با تجربه حرفه‌ای، بلافاصله شغلی در فرایبورگ پیدا کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber ich wollte meine eigene Chefin sein.",
+      "english": "But I wanted to be my own boss.",
+      "russian": "Но я хотела быть своей собственной начальницей.",
+      "farsi": "اما می‌خواستم رئیس خودم باشم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Deshalb habe ich vor drei Jahren die Meisterausbildung gemacht.",
+      "english": "Therefore, three years ago, I completed the master training.",
+      "russian": "Поэтому три года назад я прошла обучение на мастера.",
+      "farsi": "به همین دلیل، سه سال پیش دوره آموزش استادکاری را گذراندم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das war ziemlich anstrengend. Es hat sich aber gelohnt.",
+      "english": "It was quite exhausting, but it was worth it.",
+      "russian": "Это было довольно утомительно, но оно того стоило.",
+      "farsi": "این کار نسبتاً خسته‌کننده بود، اما ارزشش را داشت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Seit zwei Jahren habe ich mein eigenes Friseurgeschäft.",
+      "english": "I have owned my own hair salon for two years.",
+      "russian": "У меня уже два года есть собственный салон.",
+      "farsi": "به مدت دو سال است که سالن آرایشگری خودم را دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Anfang war schwer, aber inzwischen habe ich viele Kundinnen und Kunden.",
+      "english": "The beginning was tough, but now I have many clients.",
+      "russian": "Начало было трудным, но теперь у меня много клиентов.",
+      "farsi": "شروع کار سخت بود، اما حالا مشتریان زیادی دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In dem Beruf hat man viel mit Menschen zu tun. Das mag ich.",
+      "english": "In this profession, you work a lot with people. I like that.",
+      "russian": "В этой профессии много работаешь с людьми. Мне это нравится.",
+      "farsi": "در این حرفه خیلی با مردم سر و کار داری. من این را دوست دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Guten Tag, mein Name ist Masud Salim, ich habe um 10 Uhr einen Termin für ein Beratungsgespräch.",
+      "english": "Good day, my name is Masud Salim, I have an appointment for a consultation at 10 o'clock.",
+      "russian": "Здравствуйте, меня зовут Масуд Салим, у меня назначена консультация на 10 часов.",
+      "farsi": "روز بخیر، نام من مسعود سلیم است و ساعت ۱۰ یک وقت مشاوره دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Guten Tag, Herr Salim. Nehmen Sie doch bitte Platz. Was kann ich für Sie tun?",
+      "english": "Good day, Mr. Salim. Please have a seat. How can I help you?",
+      "russian": "Здравствуйте, господин Салим. Пожалуйста, присаживайтесь. Чем я могу вам помочь?",
+      "farsi": "روز بخیر، آقای سلیم. لطفاً بنشینید. چه کمکی می‌توانم به شما بکنم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin anerkannter Asylbewerber und habe den Integrationskurs Deutsch erfolgreich abgeschlossen.",
+      "english": "I am a recognized asylum seeker and have successfully completed the German integration course.",
+      "russian": "Я признанный беженец и успешно прошел курс интеграции по немецкому языку.",
+      "farsi": "من یک پناهجوی به رسمیت شناخته‌شده هستم و دوره ادغام زبان آلمانی را با موفقیت به پایان رسانده‌ام."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich suche seit einigen Monaten eine Stelle.",
+      "english": "I have been looking for a job for several months.",
+      "russian": "Я ищу работу уже несколько месяцев.",
+      "farsi": "چند ماه است که به دنبال کار هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber ich kann keine Arbeit finden.",
+      "english": "But I can't find a job.",
+      "russian": "Но я не могу найти работу.",
+      "farsi": "اما نمی‌توانم کاری پیدا کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Deshalb möchte ich jetzt gern eine Weiterbildung machen, um meine Chancen auf dem Arbeitsmarkt zu verbessern.",
+      "english": "Therefore, I would now like to take further training to improve my chances in the job market.",
+      "russian": "Поэтому я хотел бы пройти дополнительное обучение, чтобы улучшить свои шансы на рынке труда.",
+      "farsi": "بنابراین، حالا می‌خواهم یک دوره آموزشی بگذرانم تا شانس خود را در بازار کار بهبود دهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie haben im Irak die Schule abgeschlossen, aber keine Berufsausbildung gemacht. Richtig?",
+      "english": "You completed school in Iraq but did not do any vocational training, correct?",
+      "russian": "Вы закончили школу в Ираке, но не получили профессионального образования, верно?",
+      "farsi": "شما در عراق مدرسه را تمام کرده‌اید، اما هیچ دوره حرفه‌ای نگذراندید. درست است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, genau. Ich habe nach der Schule ein Jahr im Restaurant von meinem Onkel gearbeitet.",
+      "english": "Yes, exactly. After school, I worked for a year in my uncle's restaurant.",
+      "russian": "Да, точно. После школы я год проработал в ресторане моего дяди.",
+      "farsi": "بله، دقیقاً. پس از مدرسه، یک سال در رستوران عمویم کار کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Deshalb möchte ich mich im Bereich Gastronomie weiterbilden.",
+      "english": "Therefore, I would like to further train in the field of gastronomy.",
+      "russian": "Поэтому я хотел бы продолжить обучение в сфере гастрономии.",
+      "farsi": "بنابراین می‌خواهم در زمینه مهمان‌داری و رستوران‌داری آموزش بیشتری ببینم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Haben Sie sich schon über die verschiedenen Weiterbildungsmöglichkeiten informiert?",
+      "english": "Have you already informed yourself about the different training opportunities?",
+      "russian": "Вы уже узнали о различных возможностях для повышения квалификации?",
+      "farsi": "آیا قبلاً درباره گزینه‌های مختلف آموزش تکمیلی اطلاعات کسب کرده‌اید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, im Internet habe ich mir verschiedene Angebote angeschaut.",
+      "english": "Yes, I have looked at various offers on the internet.",
+      "russian": "Да, я посмотрел разные предложения в интернете.",
+      "farsi": "بله، من پیشنهادات مختلف را در اینترنت بررسی کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe hier ein paar Kurse notiert, die mich interessieren.",
+      "english": "I have noted down a few courses here that interest me.",
+      "russian": "Я записал несколько курсов, которые меня интересуют.",
+      "farsi": "اینجا چند دوره را که برایم جالب است یادداشت کرده‌ام."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Besonders interessant finde ich diesen Kurs hier.",
+      "english": "I find this course here particularly interesting.",
+      "russian": "Этот курс мне кажется особенно интересным.",
+      "farsi": "این دوره خاص برایم بسیار جالب است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ah, ... ein Kurs „Fachmann für Systemgastronomie\".",
+      "english": "Ah, ... a course 'Specialist for System Gastronomy'.",
+      "russian": "Ах, ... курс «Специалист по системной гастрономии».",
+      "farsi": "آه، ... یک دوره «متخصص در سیستم رستوران‌داری»."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie lange dauert denn der Kurs?",
+      "english": "How long does the course last?",
+      "russian": "Как долго длится курс?",
+      "farsi": "این دوره چقدر طول می‌کشد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Kurs dauert drei Monate und findet täglich von 8 bis 16:45 Uhr statt.",
+      "english": "The course lasts three months and takes place daily from 8:00 to 16:45.",
+      "russian": "Курс длится три месяца и проводится ежедневно с 8:00 до 16:45.",
+      "farsi": "دوره سه ماه طول می‌کشد و هر روز از ساعت ۸ تا ۱۶:۴۵ برگزار می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Lehrgangskosten betragen 795 Euro.",
+      "english": "The course fees are 795 euros.",
+      "russian": "Стоимость курса составляет 795 евро.",
+      "farsi": "هزینه دوره ۷۹۵ یورو است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber der Weiterbildungsanbieter akzeptiert Bildungsgutscheine.",
+      "english": "But the training provider accepts educational vouchers.",
+      "russian": "Но поставщик обучения принимает образовательные ваучеры.",
+      "farsi": "اما ارائه‌دهنده دوره آموزشی، کوپن‌های آموزشی را می‌پذیرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sehr gut. Sie können auf jeden Fall einen Bildungsgutschein für die Weiterbildung bekommen.",
+      "english": "Very good. You can definitely get an educational voucher for the training.",
+      "russian": "Очень хорошо. Вы определенно можете получить образовательный ваучер на обучение.",
+      "farsi": "بسیار خوب. شما قطعاً می‌توانید برای دوره آموزشی یک کوپن آموزشی دریافت کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir werden Ihnen auch Ihre Fahrtkosten und sonstige Materialkosten erstatten.",
+      "english": "We will also reimburse your travel expenses and other material costs.",
+      "russian": "Мы также возместим вам транспортные расходы и другие материальные затраты.",
+      "farsi": "ما همچنین هزینه‌های رفت و آمد و سایر هزینه‌های مربوط به مواد را به شما بازپرداخت خواهیم کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das freut mich. Ich kann mich also für den Kurs anmelden?",
+      "english": "I’m glad to hear that. So, I can register for the course?",
+      "russian": "Я рад это слышать. Значит, я могу записаться на курс?",
+      "farsi": "خوشحالم که این را می‌شنوم. یعنی می‌توانم برای دوره ثبت‌نام کنم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja. Wir können gerne noch einen Termin ...",
+      "english": "Yes. We can certainly set up another appointment...",
+      "russian": "Да. Мы можем назначить ещё одну встречу...",
+      "farsi": "بله. ما می‌توانیم قرار ملاقات دیگری تنظیم کنیم..."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich heiße Nedim Baron. Ich komme aus der Türkei und bin 34 Jahre alt.",
+      "english": "My name is Nedim Baron. I am from Turkey and I am 34 years old.",
+      "russian": "Меня зовут Недим Барон. Я из Турции, и мне 34 года.",
+      "farsi": "نام من ندیم بارون است. اهل ترکیه هستم و ۳۴ سال دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Seit 2017 lebe ich in Deutschland.",
+      "english": "I have been living in Germany since 2017.",
+      "russian": "Я живу в Германии с 2017 года.",
+      "farsi": "از سال ۲۰۱۷ در آلمان زندگی می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In meiner Heimat hatte ich eine gute Stelle in einer Autowerkstatt und ich habe gedacht, dass ich auch in Deutschland schnell eine Stelle in dieser Branche finden könnte, weil ich eine qualifizierte Ausbildung im Bereich Fahrzeugbau und mehrere Jahre Berufserfahrung hatte.",
+      "english": "In my home country, I had a good position in an auto repair shop, and I thought that I could quickly find a job in this field in Germany because I had qualified training in vehicle engineering and several years of work experience.",
+      "russian": "На родине у меня была хорошая работа в автосервисе, и я думал, что смогу быстро найти работу в этой области в Германии, так как у меня есть квалифицированное образование в области автомобилестроения и многолетний опыт работы.",
+      "farsi": "در کشور خودم شغل خوبی در یک تعمیرگاه خودرو داشتم و فکر کردم که در آلمان هم می‌توانم سریعاً در این زمینه شغلی پیدا کنم، زیرا آموزش تخصصی در زمینه خودرو و چندین سال تجربه کاری دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Allerdings habe ich am Anfang nur als Helfer in einer Kfz-Werkstatt gearbeitet, weil meine Ausbildung nicht anerkannt war.",
+      "english": "However, at first, I only worked as an assistant in an auto repair shop because my training was not recognized.",
+      "russian": "Однако сначала я работал только помощником в автосервисе, потому что мое образование не было признано.",
+      "farsi": "با این حال، در ابتدا فقط به عنوان دستیار در یک تعمیرگاه خودرو کار می‌کردم، زیرا آموزش من به رسمیت شناخته نشده بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber damit war ich nicht zufrieden, weil ich nur sehr wenig verdient habe.",
+      "english": "But I was not satisfied with that because I earned very little.",
+      "russian": "Но я был этим недоволен, так как зарабатывал очень мало.",
+      "farsi": "اما از این وضعیت راضی نبودم زیرا درآمدم بسیار کم بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein Name ist Leyla Sarhan. Ich bin 29 Jahre alt und bin vor fünf Jahren aus Ägypten nach Deutschland gekommen.",
+      "english": "My name is Leyla Sarhan. I am 29 years old and came to Germany from Egypt five years ago.",
+      "russian": "Меня зовут Лейла Сархан. Мне 29 лет, и я приехала в Германию из Египта пять лет назад.",
+      "farsi": "نام من لیلا سرحان است. ۲۹ سال دارم و پنج سال پیش از مصر به آلمان آمدم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Für mich war es von Anfang an wichtig, die deutsche Sprache zu lernen und ich wollte auch in meinem Beruf als Köchin weiterarbeiten.",
+      "english": "It was important for me from the beginning to learn the German language, and I also wanted to continue working in my profession as a cook.",
+      "russian": "Для меня с самого начала было важно выучить немецкий язык, и я также хотела продолжить работать в своей профессии повара.",
+      "farsi": "برای من از ابتدا یادگیری زبان آلمانی مهم بود و همچنین می‌خواستم در حرفه آشپزی‌ام ادامه دهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Deshalb habe ich nach meiner Ankunft in Deutschland zuerst Deutsch gelernt.",
+      "english": "Therefore, after arriving in Germany, I first learned German.",
+      "russian": "Поэтому, приехав в Германию, я сначала выучила немецкий язык.",
+      "farsi": "به همین دلیل، بعد از آمدن به آلمان، ابتدا زبان آلمانی را یاد گرفتم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vormittags saß ich im Deutschkurs und abends habe ich in einem Restaurant gearbeitet.",
+      "english": "In the mornings, I attended the German course, and in the evenings, I worked in a restaurant.",
+      "russian": "По утрам я посещала курс немецкого языка, а по вечерам работала в ресторане.",
+      "farsi": "صبح‌ها در کلاس آلمانی بودم و شب‌ها در یک رستوران کار می‌کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber ich war nur Kellnerin, weil mir die Anerkennung für meine Zeugnisse aus Ägypten fehlte.",
+      "english": "But I was only a waitress because I lacked recognition for my certificates from Egypt.",
+      "russian": "Но я была только официанткой, потому что мои дипломы из Египта не были признаны.",
+      "farsi": "اما فقط به عنوان پیشخدمت کار می‌کردم چون مدارکم از مصر به رسمیت شناخته نشده بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Guten Tag. Was kann ich für Sie tun?",
+      "english": "Good day. How can I help you?",
+      "russian": "Здравствуйте. Чем я могу вам помочь?",
+      "farsi": "روز بخیر. چه کمکی می‌توانم به شما بکنم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Guten Tag, mein Name ist Ruigin Hu.",
+      "english": "Good day, my name is Ruigin Hu.",
+      "russian": "Здравствуйте, меня зовут Руигин Ху.",
+      "farsi": "روز بخیر، نام من روگین هو است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich komme aus China und lebe seit zehn Monaten in Deutschland.",
+      "english": "I am from China and have been living in Germany for ten months.",
+      "russian": "Я из Китая и живу в Германии уже десять месяцев.",
+      "farsi": "من اهل چین هستم و ده ماه است که در آلمان زندگی می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In meiner Heimat habe ich eine Ausbildung zur Schneiderin gemacht.",
+      "english": "In my home country, I trained as a tailor.",
+      "russian": "На родине я получила образование портного.",
+      "farsi": "در کشورم، من به عنوان خیاط آموزش دیده‌ام."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe gehört, dass ich meinen ausländischen Berufsabschluss anerkennen lassen kann.",
+      "english": "I heard that I can have my foreign professional qualification recognized.",
+      "russian": "Я слышала, что могу признать свой иностранный профессиональный диплом.",
+      "farsi": "شنیده‌ام که می‌توانم مدرک حرفه‌ای خارجی‌ام را به رسمیت بشناسانم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, das ist möglich. Haben Sie die Zeugnisse aus Ihrem Heimatland mitgebracht?",
+      "english": "Yes, that is possible. Did you bring your certificates from your home country?",
+      "russian": "Да, это возможно. Вы привезли документы из своей страны?",
+      "farsi": "بله، این ممکن است. آیا مدارک خود را از کشور مبدا آورده‌اید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, ich habe mein Abschlusszeugnis von der Schule, Zeugnisse von meiner Ausbildung und auch zwei Arbeitszeugnisse.",
+      "english": "Yes, I have my school diploma, certificates from my training, and also two job references.",
+      "russian": "Да, у меня есть школьный диплом, свидетельства о моем обучении и также два трудовых сертификата.",
+      "farsi": "بله، من مدرک پایان دوره مدرسه، مدارک آموزشی‌ام و همچنین دو توصیه‌نامه کاری دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sind sie schon übersetzt?",
+      "english": "Are they already translated?",
+      "russian": "Они уже переведены?",
+      "farsi": "آیا آنها قبلاً ترجمه شده‌اند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, ich habe sie in meiner Heimat übersetzen lassen.",
+      "english": "Yes, I had them translated in my home country.",
+      "russian": "Да, я перевел их в своей стране.",
+      "farsi": "بله، آنها را در کشورم ترجمه کرده‌ام."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Darf ich sie mal sehen?",
+      "english": "May I see them?",
+      "russian": "Могу я их посмотреть?",
+      "farsi": "می‌توانم آنها را ببینم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, natürlich, bitte sehr.",
+      "english": "Yes, of course, here you go.",
+      "russian": "Да, конечно, вот пожалуйста.",
+      "farsi": "بله، البته، بفرمایید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Danke ... das sieht sehr gut aus.",
+      "english": "Thank you ... this looks very good.",
+      "russian": "Спасибо ... это выглядит очень хорошо.",
+      "farsi": "متشکرم ... این خیلی خوب به نظر می‌رسد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich denke, mit diesen Dokumenten können Sie einen Anerkennungsantrag stellen.",
+      "english": "I think you can submit an application for recognition with these documents.",
+      "russian": "Я думаю, что с этими документами вы можете подать заявление на признание.",
+      "farsi": "فکر می‌کنم با این مدارک می‌توانید درخواست به‌رسمیت‌شناسی را ثبت کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Dokumente prüft die Handwerkskammer. Dort sollten Sie einen Termin machen.",
+      "english": "The Chamber of Crafts will review the documents. You should make an appointment there.",
+      "russian": "Документы проверит ремесленная палата. Вам следует записаться на прием там.",
+      "farsi": "اتاق صنعت و حرفه‌ها مدارک را بررسی می‌کند. باید در آنجا یک وقت ملاقات بگیرید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Brauche ich noch andere Dokumente außer den Zeugnissen?",
+      "english": "Do I need any other documents besides the certificates?",
+      "russian": "Мне нужны какие-либо другие документы, кроме свидетельств?",
+      "farsi": "آیا به مدارک دیگری به غیر از گواهینامه‌ها نیاز دارم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, neben dem ausgefüllten Antragsformular müssen Sie auch einen Lebenslauf und eine Kopie Ihres Passes einreichen.",
+      "english": "Yes, besides the completed application form, you must also submit a resume and a copy of your passport.",
+      "russian": "Да, кроме заполненной формы заявки, вам нужно также предоставить резюме и копию вашего паспорта.",
+      "farsi": "بله، علاوه بر فرم درخواست تکمیل‌شده، باید یک رزومه و کپی پاسپورت خود را نیز ارائه دهید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe noch eine Frage: Wie lange dauert es, bis ich die Anerkennung bekomme?",
+      "english": "I have another question: How long does it take until I receive the recognition?",
+      "russian": "У меня ещё вопрос: сколько времени займет, чтобы получить признание?",
+      "farsi": "یک سوال دیگر دارم: چقدر طول می‌کشد تا تاییدیه را دریافت کنم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn Sie alle Unterlagen abgegeben haben, dauert es ungefähr drei Monate, bis Sie den Bescheid über die Gleichwertigkeit Ihrer Abschlüsse bekommen.",
+      "english": "Once you have submitted all the documents, it takes about three months to receive the notification of the equivalence of your qualifications.",
+      "russian": "После того как вы подадите все документы, потребуется примерно три месяца, чтобы получить уведомление о равнозначности ваших квалификаций.",
+      "farsi": "پس از تحویل همه مدارک، حدود سه ماه طول می‌کشد تا اطلاعیه معادل‌سازی مدارک خود را دریافت کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und wie viel kostet das Verfahren?",
+      "english": "And how much does the process cost?",
+      "russian": "И сколько стоит этот процесс?",
+      "farsi": "و هزینه این فرآیند چقدر است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das kann ich Ihnen jetzt nicht genau sagen, da fragen Sie am besten bei der Handwerkskammer nach, aber ich denke, es wird mehr als 100 Euro kosten.",
+      "english": "I can't tell you exactly right now; you should ask the Chamber of Crafts, but I think it will cost more than 100 euros.",
+      "russian": "Сейчас я точно не могу вам сказать, лучше спросите в ремесленной палате, но думаю, это будет стоить больше 100 евро.",
+      "farsi": "الان نمی‌توانم دقیقاً بگویم؛ بهتر است از اتاق صنعت و حرفه‌ها بپرسید، اما فکر می‌کنم بیش از ۱۰۰ یورو هزینه خواهد داشت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Manchmal übernehmen die Jobcenter oder die Agentur für Arbeit die Kosten für das Verfahren.",
+      "english": "Sometimes the job centers or the employment agency cover the costs of the process.",
+      "russian": "Иногда центры занятости или агентство по трудоустройству покрывают расходы на процесс.",
+      "farsi": "گاهی اوقات مرکز کار یا آژانس کاریابی هزینه‌های این فرآیند را تقبل می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vielen Dank für die Informationen.",
+      "english": "Thank you very much for the information.",
+      "russian": "Большое спасибо за информацию.",
+      "farsi": "خیلی ممنون از اطلاعات."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mahmoud, was hast du früher eigentlich beruflich gemacht?",
+      "english": "Mahmoud, what did you actually do professionally before?",
+      "russian": "Махмуд, чем ты раньше занимался профессионально?",
+      "farsi": "محمود، قبلاً شغلت دقیقاً چه بوده؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im Irak war ich in der Baubranche, ich war Bauingenieur.",
+      "english": "In Iraq, I was in the construction industry; I was a civil engineer.",
+      "russian": "В Ираке я работал в строительной отрасли, был инженером-строителем.",
+      "farsi": "در عراق، در صنعت ساخت‌وساز بودم؛ مهندس عمران بودم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Den Beruf habe ich dort gelernt.",
+      "english": "I learned the profession there.",
+      "russian": "Я выучил эту профессию там.",
+      "farsi": "این حرفه را در آنجا یاد گرفتم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie war die Arbeitssuche in Deutschland für dich?",
+      "english": "How was the job search in Germany for you?",
+      "russian": "Как для тебя проходил поиск работы в Германии?",
+      "farsi": "جستجوی کار در آلمان برایت چگونه بود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Schwierig. Mit meiner Ausbildung aus dem Irak konnte ich in Deutschland keine Stelle als Bauingenieur finden, aber ich wollte nicht noch einmal von vorne anfangen und an der Uni studieren.",
+      "english": "Difficult. With my education from Iraq, I couldn't find a job as a civil engineer in Germany, but I didn't want to start over and study at university again.",
+      "russian": "Трудно. С моим образованием из Ирака я не мог найти работу инженером-строителем в Германии, но я не хотел начинать все заново и снова учиться в университете.",
+      "farsi": "سخت بود. با مدرکم از عراق نتوانستم در آلمان به عنوان مهندس عمران کار پیدا کنم، اما نمی‌خواستم دوباره از اول شروع کنم و به دانشگاه بروم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe mich also gefragt: Was will ich? Was kann ich tun?",
+      "english": "So I asked myself: What do I want? What can I do?",
+      "russian": "Итак, я задал себе вопрос: Чего я хочу? Что я могу сделать?",
+      "farsi": "بنابراین از خودم پرسیدم: چه می‌خواهم؟ چه کاری می‌توانم انجام دهم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was machst du heute beruflich?",
+      "english": "What do you do professionally today?",
+      "russian": "Чем ты занимаешься профессионально сейчас?",
+      "farsi": "امروز به صورت حرفه‌ای چه کاری انجام می‌دهی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Heute bin ich Bauarbeiter und arbeite im Straßenbau.",
+      "english": "Today, I am a construction worker, and I work in road construction.",
+      "russian": "Сегодня я работник стройки и работаю в дорожном строительстве.",
+      "farsi": "امروز من کارگر ساختمانی هستم و در ساخت‌وساز جاده کار می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nach meinem Deutschkurs wollte ich schnell arbeiten und Geld verdienen und im Straßenbau waren viele Stellen frei.",
+      "english": "After my German course, I wanted to start working and earning money quickly, and there were many open positions in road construction.",
+      "russian": "После курса немецкого я хотел быстро начать работать и зарабатывать деньги, а в дорожном строительстве было много свободных мест.",
+      "farsi": "بعد از دوره آلمانی‌ام، می‌خواستم سریع کار کنم و پول دربیاورم و در ساخت‌وساز جاده فرصت‌های شغلی زیادی موجود بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was sind deine Pläne für die Zukunft?",
+      "english": "What are your plans for the future?",
+      "russian": "Какие у тебя планы на будущее?",
+      "farsi": "برنامه‌هایت برای آینده چیست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bleibst du beim Straßenbau?",
+      "english": "Are you staying in road construction?",
+      "russian": "Остаешься в дорожном строительстве?",
+      "farsi": "در ساخت‌وساز جاده می‌مانی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, aber ich möchte in dem Beruf weiterkommen.",
+      "english": "Yes, but I want to advance in this profession.",
+      "russian": "Да, но я хочу продвигаться в этой профессии.",
+      "farsi": "بله، اما می‌خواهم در این حرفه پیشرفت کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im Herbst beginne ich eine Weiterbildung zum Straßenbauer.",
+      "english": "In the fall, I will start further training as a road builder.",
+      "russian": "Осенью я начну повышение квалификации в качестве дорожного строителя.",
+      "farsi": "در پاییز یک دوره آموزشی تکمیلی به عنوان راه‌ساز آغاز می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Frau Suljic, ich habe noch ein paar Fragen zu Ihrem Berufsweg.",
+      "english": "Ms. Suljic, I have a few more questions about your career path.",
+      "russian": "Госпожа Сульич, у меня есть еще несколько вопросов о вашем профессиональном пути.",
+      "farsi": "خانم سولیچ، چند سوال دیگر در مورد مسیر شغلی شما دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was machen Sie momentan beruflich in Deutschland?",
+      "english": "What do you currently do professionally in Germany?",
+      "russian": "Чем вы сейчас занимаетесь профессионально в Германии?",
+      "farsi": "در حال حاضر به صورت حرفه‌ای در آلمان چه کاری انجام می‌دهید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin Krankenschwester. Ich arbeite in Teilzeit in einem Krankenhaus.",
+      "english": "I am a nurse. I work part-time in a hospital.",
+      "russian": "Я медсестра. Я работаю на полставки в больнице.",
+      "farsi": "من پرستار هستم. به صورت پاره‌وقت در بیمارستان کار می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Haben Sie diesen Beruf schon in Bosnien gelernt?",
+      "english": "Did you already learn this profession in Bosnia?",
+      "russian": "Вы уже обучались этой профессии в Боснии?",
+      "farsi": "آیا این حرفه را قبلاً در بوسنی یاد گرفته‌اید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, aber meine Ausbildung war hier zunächst nicht anerkannt.",
+      "english": "Yes, but my training was not initially recognized here.",
+      "russian": "Да, но мое обучение здесь сначала не было признано.",
+      "farsi": "بله، اما آموزش من در ابتدا اینجا به رسمیت شناخته نشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe deshalb mehrere Deutschkurse und dann noch einen Pflegekurs gemacht.",
+      "english": "Therefore, I took several German courses and then a nursing course.",
+      "russian": "Поэтому я прошла несколько курсов немецкого языка, а затем курс по уходу.",
+      "farsi": "به همین دلیل چند دوره آلمانی و سپس یک دوره پرستاری گذراندم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Erst danach habe ich die Anerkennung für meine Ausbildung bekommen und dann habe ich auch schnell eine Stelle im Krankenhaus gefunden.",
+      "english": "Only afterward did I receive recognition for my training, and then I quickly found a position in the hospital.",
+      "russian": "Только после этого я получил признание своей квалификации и быстро нашел работу в больнице.",
+      "farsi": "تنها پس از آن مدرکم به رسمیت شناخته شد و سپس سریعاً در بیمارستان شغلی پیدا کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Welche Pläne haben Sie für Ihre berufliche Zukunft?",
+      "english": "What are your plans for your professional future?",
+      "russian": "Какие у вас планы на профессиональное будущее?",
+      "farsi": "چه برنامه‌هایی برای آینده حرفه‌ای‌تان دارید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe im Moment noch keinen Plan.",
+      "english": "I don't have a plan at the moment.",
+      "russian": "На данный момент у меня нет плана.",
+      "farsi": "فعلاً برنامه‌ای ندارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Erst einmal bin ich zufrieden, dass ich wieder in meinem Beruf arbeiten kann.",
+      "english": "For now, I'm just happy to be able to work in my profession again.",
+      "russian": "Сейчас я просто рад, что могу снова работать по своей специальности.",
+      "farsi": "در حال حاضر خوشحالم که دوباره می‌توانم در حرفه‌ام کار کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Welche Arbeit haben Sie zurzeit, Herr Meazza?",
+      "english": "What work are you currently doing, Mr. Meazza?",
+      "russian": "Какой работой вы сейчас занимаетесь, господин Меацца?",
+      "farsi": "آقای مئاتزا، در حال حاضر چه شغلی دارید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich arbeite als Einzelhandelskaufmann in einem großen Fahrradladen.",
+      "english": "I work as a retail salesman in a large bicycle store.",
+      "russian": "Я работаю продавцом в крупном велосипедном магазине.",
+      "farsi": "من به عنوان فروشنده در یک فروشگاه بزرگ دوچرخه کار می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Haben Sie eine Ausbildung gemacht?",
+      "english": "Did you complete any training?",
+      "russian": "Вы проходили какое-то обучение?",
+      "farsi": "آیا دوره آموزشی گذرانده‌اید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, nach der Schule habe ich zunächst einen Ausbildungsplatz zum Automechaniker gefunden und habe dann bei der Firma gearbeitet.",
+      "english": "Yes, after school I first found an apprenticeship as a car mechanic and then worked for the company.",
+      "russian": "Да, после школы я сначала нашел место для обучения автомехаником и потом работал в компании.",
+      "farsi": "بله، بعد از مدرسه ابتدا یک دوره آموزشی به عنوان مکانیک خودرو پیدا کردم و سپس در آن شرکت کار کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Firma ist aber pleite gegangen und ich habe meinen Job verloren.",
+      "english": "But the company went bankrupt, and I lost my job.",
+      "russian": "Но компания обанкротилась, и я потерял работу.",
+      "farsi": "اما شرکت ورشکست شد و من شغلم را از دست دادم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Haben Sie dann sofort wieder einen Job bekommen?",
+      "english": "Did you immediately find another job after that?",
+      "russian": "Вы сразу же нашли другую работу после этого?",
+      "farsi": "آیا بعد از آن بلافاصله شغلی پیدا کردید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nein, ich hatte fast ein Jahr lang nur Gelegenheitsjobs.",
+      "english": "No, I only had temporary jobs for almost a year.",
+      "russian": "Нет, у меня были только временные работы почти целый год.",
+      "farsi": "نه، تقریباً یک سال فقط کارهای موقتی داشتم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Weil ich keine Stelle als Automechaniker mehr finden konnte, habe ich dann eine Ausbildung zum Einzelhandelskaufmann gemacht und danach habe ich die Stelle in dem Fahrradladen gefunden, weil ich auch etwas von Fahrradtechnik verstehe.",
+      "english": "Because I couldn't find a job as a car mechanic anymore, I then trained as a retail salesman and later found a position in the bicycle shop because I also understand bicycle technology.",
+      "russian": "Так как я больше не мог найти работу автомехаником, я прошел обучение на продавца и позже нашел работу в велосипедном магазине, так как разбираюсь в технике велосипедов.",
+      "farsi": "چون دیگر نتوانستم شغلی به عنوان مکانیک خودرو پیدا کنم، به عنوان فروشنده دوره دیدم و بعد از آن شغلی در فروشگاه دوچرخه پیدا کردم چون از تکنولوژی دوچرخه هم سر درمی‌آورم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und wie sehen Ihre beruflichen Pläne aus?",
+      "english": "And what are your career plans?",
+      "russian": "Какие у вас планы на карьеру?",
+      "farsi": "و برنامه‌های شغلی‌تان چیست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich möchte gern ein eigenes Geschäft eröffnen.",
+      "english": "I would like to open my own store.",
+      "russian": "Я хотел бы открыть свой собственный магазин.",
+      "farsi": "دوست دارم کسب و کار خودم را راه بیندازم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dafür würde ich gerne etwas über Existenzgründung und Selbstständigkeit lernen.",
+      "english": "For that, I would like to learn something about starting a business and self-employment.",
+      "russian": "Для этого я хотел бы узнать что-то о создании бизнеса и самозанятости.",
+      "farsi": "برای این منظور دوست دارم چیزی درباره‌ی راه‌اندازی کسب و کار و خوداشتغالی یاد بگیرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich fange bald bei der Industrie- und Handelskammer einen Existenzgründerkurs an.",
+      "english": "I will soon start a start-up course at the Chamber of Industry and Commerce.",
+      "russian": "Скоро я начну курс для предпринимателей в Торгово-промышленной палате.",
+      "farsi": "به زودی یک دوره راه‌اندازی کسب و کار در اتاق بازرگانی و صنایع شروع می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Haben Sie eine Ausbildung gemacht?",
+      "english": "Did you complete any training?",
+      "russian": "Вы проходили какое-то обучение?",
+      "farsi": "آیا دوره آموزشی گذرانده‌اید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, in meinem Heimatland habe ich den Beruf Krankenpfleger gelernt.",
+      "english": "Yes, I trained as a nurse in my home country.",
+      "russian": "Да, я обучался на медбрата в своей стране.",
+      "farsi": "بله، در کشورم حرفه‌ی پرستاری را آموختم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was machen Sie momentan beruflich?",
+      "english": "What are you currently doing professionally?",
+      "russian": "Чем вы сейчас занимаетесь профессионально?",
+      "farsi": "در حال حاضر به صورت حرفه‌ای چه کاری انجام می‌دهید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im Moment bin ich Pizzafahrer.",
+      "english": "At the moment, I am a pizza delivery driver.",
+      "russian": "В данный момент я работаю водителем по доставке пиццы.",
+      "farsi": "در حال حاضر پیک پیتزا هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In welchem Beruf haben Sie in Ihrem Heimatland gearbeitet?",
+      "english": "What profession did you work in your home country?",
+      "russian": "В какой профессии вы работали в своей стране?",
+      "farsi": "در کشور خود در چه حرفه‌ای کار می‌کردید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe als Krankenpfleger gearbeitet.",
+      "english": "I worked as a nurse.",
+      "russian": "Я работал медбратом.",
+      "farsi": "من به عنوان پرستار کار می‌کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Welche beruflichen Pläne haben Sie?",
+      "english": "What are your professional plans?",
+      "russian": "Какие у вас профессиональные планы?",
+      "farsi": "برنامه‌های شغلی شما چیست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich will wieder in meinem alten Beruf arbeiten.",
+      "english": "I want to work in my old profession again.",
+      "russian": "Я хочу снова работать в своей прежней профессии.",
+      "farsi": "می‌خواهم دوباره در حرفه‌ی قبلی‌ام کار کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber ich habe noch keine Anerkennung für meine Ausbildung.",
+      "english": "But I haven't received recognition for my training yet.",
+      "russian": "Но я еще не получил признания своей квалификации.",
+      "farsi": "اما هنوز مدرکم به رسمیت شناخته نشده است."
+    }
+  ]
+}

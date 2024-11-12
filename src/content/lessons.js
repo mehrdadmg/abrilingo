@@ -84,12 +84,28 @@ const alllessons = [
     name: 'Modalverben',
   },
   {
+    file_name: 'verben_mit_räposition_akkusativ.json',
+    name: 'Verben_mit_Präposition_Akkusativ',
+  },
+  {
+    file_name: 'verben_mit_präposition_dativ.json',
+    name: 'Verben_mit_Präposition_Dativ',
+  },
+  {
+    file_name: 'verben_mit_dativ_und_akkusativ.json',
+    name: 'Verben_Mit_Dativ_Und_Akkusativ',
+  },
+  {
+    file_name: 'verben_mit_dativ.json',
+    name: 'Verben_Mit_Dativ',
+  },
+  {
     file_name: 'nützliche_sätze.json',
     name: 'Nützliche_Sätze',
   },
   {
-    file_name: 'alle_konnektoren.json',
-    name: 'Alle_Konnektoren',
+    file_name: 'alle_konjunktionen.json',
+    name: 'Alle_Konjunktionen',
   },
   {
     file_name: 'lokale_präpositionen.json',
@@ -102,6 +118,14 @@ const alllessons = [
   {
     file_name: 'zu_infinitiv.json',
     name: 'Zu_Infinitiv',
+  },
+  {
+    file_name: 'b1_fokus_u01.json',
+    name: 'B1_Fokus_u01',
+  },
+  {
+    file_name: 'b1_fokus_u02.json',
+    name: 'B1_Fokus_u02',
   },
   {
     file_name: 'essen.json',
