@@ -1,0 +1,841 @@
+{
+  "info": {
+    "name": "B1_Fokus_u04",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Guten Tag, mein Name ist Sara Burkin, ich suche Arbeit.",
+      "english": "Good day, my name is Sara Burkin, I am looking for work.",
+      "russian": "Добрый день, меня зовут Сара Буркин, я ищу работу.",
+      "farsi": "روز بخیر، نام من سارا بورکین است، من دنبال کار می‌گردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Haben Sie hier im Café eine Stelle frei?",
+      "english": "Do you have a position available here in the café?",
+      "russian": "У вас есть свободное место здесь в кафе?",
+      "farsi": "آیا در این کافه شغلی آزاد دارید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im Moment noch nicht, jetzt im Februar ist es noch ruhig, wir brauchen nicht so viel Personal.",
+      "english": "Not at the moment, it is still quiet now in February, we don’t need much staff.",
+      "russian": "Сейчас пока нет, в феврале еще тихо, нам не нужно много персонала.",
+      "farsi": "در حال حاضر نه، هنوز فوریه است و آرام است، ما به پرسنل زیادی نیاز نداریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber ab Mitte März wird das sicher anders und besonders in der Hochsaison im Sommer haben wir immer viel Arbeit.",
+      "english": "But from mid-March, it will certainly be different, and especially during the high season in summer, we always have a lot of work.",
+      "russian": "Но с середины марта это точно изменится, и особенно в высокий сезон летом у нас всегда много работы.",
+      "farsi": "اما از اواسط مارس مطمئناً متفاوت خواهد شد و به‌ویژه در فصل پرکار تابستان، همیشه کار زیادی داریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Heißt das, dass eine Bewerbung sinnvoll sein kann?",
+      "english": "Does that mean applying might make sense?",
+      "russian": "Значит ли это, что подача заявления может быть полезной?",
+      "farsi": "آیا این به این معنی است که درخواست شغل می‌تواند مفید باشد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Für die Zeit ab Mitte März auf jeden Fall.",
+      "english": "Definitely for the time from mid-March.",
+      "russian": "Определенно на время с середины марта.",
+      "farsi": "قطعاً برای زمان بعد از اواسط مارس."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dann sind wir immer froh, wenn neue Mitarbeiter kommen.",
+      "english": "We are always happy when new employees join us.",
+      "russian": "Мы всегда рады, когда приходят новые сотрудники.",
+      "farsi": "ما همیشه خوشحال می‌شویم که کارکنان جدید به ما بپیوندند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Schreiben Sie einfach eine Mail an uns.",
+      "english": "Just write us an email.",
+      "russian": "Просто напишите нам электронное письмо.",
+      "farsi": "فقط یک ایمیل به ما بنویسید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Mail muss übrigens nicht formell sein.",
+      "english": "By the way, the email doesn’t have to be formal.",
+      "russian": "Кстати, письмо не обязательно должно быть формальным.",
+      "farsi": "راستی، ایمیل نیازی نیست رسمی باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Schreiben Sie einfach, wo Sie schon gearbeitet haben und Ihre Telefonnummer.",
+      "english": "Just write where you have worked before and your phone number.",
+      "russian": "Просто напишите, где вы уже работали, и ваш номер телефона.",
+      "farsi": "فقط بنویسید کجا کار کرده‌اید و شماره تلفن خود را ذکر کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir melden uns dann.",
+      "english": "We will get back to you.",
+      "russian": "Мы свяжемся с вами.",
+      "farsi": "ما با شما تماس خواهیم گرفت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie ist die E-Mail-Adresse?",
+      "english": "What is the email address?",
+      "russian": "Какой адрес электронной почты?",
+      "farsi": "آدرس ایمیل چیست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Leandro, du suchst doch dringend einen Job.",
+      "english": "Leandro, you are urgently looking for a job.",
+      "russian": "Леандро, ты ведь срочно ищешь работу.",
+      "farsi": "لئاندرو، تو که به‌طور فوری دنبال کار می‌گردی."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe diese Anzeige von einem Kiosk am Bahnhof gesehen.",
+      "english": "I saw this advertisement from a kiosk at the train station.",
+      "russian": "Я видел это объявление от киоска на вокзале.",
+      "farsi": "این آگهی را از یک کیوسک در ایستگاه قطار دیدم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Worum geht es?",
+      "english": "What is it about?",
+      "russian": "О чем это?",
+      "farsi": "موضوع چیست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Inhaber des Kiosks sucht ab sofort Personal für den Abend und das Wochenende.",
+      "english": "The owner of the kiosk is looking for staff for the evening and weekends starting immediately.",
+      "russian": "Владелец киоска ищет персонал на вечер и выходные с немедленным началом работы.",
+      "farsi": "صاحب کیوسک برای عصر و آخر هفته بلافاصله کارکنان نیاز دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hm. Zeig mal. Ja, da steht es: Mitarbeiter*innen gesucht.",
+      "english": "Hm. Show me. Yes, it says here: Staff wanted.",
+      "russian": "Хм. Покажи. Да, здесь написано: требуются сотрудники.",
+      "farsi": "همم. نشان بده. بله، اینجا نوشته شده: به دنبال کارکنان هستیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber die Arbeitszeiten?",
+      "english": "But the working hours?",
+      "russian": "А рабочие часы?",
+      "farsi": "اما ساعت‌های کاری؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Montags bis freitags von 17.00 bis 21.00 Uhr und auch samstags und sonntags am Nachmittag?",
+      "english": "Monday to Friday from 5:00 PM to 9:00 PM and also on Saturdays and Sundays in the afternoon?",
+      "russian": "С понедельника по пятницу с 17:00 до 21:00 и также по субботам и воскресеньям днем?",
+      "farsi": "دوشنبه تا جمعه از ساعت ۵ تا ۹ شب و همچنین شنبه‌ها و یکشنبه‌ها بعدازظهر؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Also ich weiß nicht genau …",
+      "english": "Well, I’m not sure …",
+      "russian": "Ну, я не совсем уверен…",
+      "farsi": "خب، من دقیق نمی‌دانم…"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ganz sicher musst du nicht jedes Wochenende arbeiten und bestimmt hast du auch während der Woche an einigen Tagen frei.",
+      "english": "You definitely don’t have to work every weekend, and you certainly have some days off during the week.",
+      "russian": "Ты точно не должен работать каждые выходные, и наверняка у тебя будут выходные и среди недели.",
+      "farsi": "قطعاً لازم نیست هر آخر هفته کار کنی و حتماً در طول هفته هم چند روز آزاد خواهی داشت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Niemand arbeitet sieben Tage pro Woche ohne Pause!",
+      "english": "Nobody works seven days a week without a break!",
+      "russian": "Никто не работает семь дней в неделю без перерыва!",
+      "farsi": "هیچ‌کس هفت روز هفته بدون استراحت کار نمی‌کند!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das stimmt sicher.",
+      "english": "That’s certainly true.",
+      "russian": "Это, конечно, правда.",
+      "farsi": "این قطعاً درست است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber verdiene ich auch genug?",
+      "english": "But do I earn enough?",
+      "russian": "Но зарабатываю ли я достаточно?",
+      "farsi": "اما آیا به اندازه کافی درآمد خواهم داشت؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich glaube nicht, dass die Bezahlung in dem Kiosk besonders gut ist.",
+      "english": "I don’t think the pay at the kiosk is particularly good.",
+      "russian": "Я не думаю, что оплата в киоске особенно хорошая.",
+      "farsi": "فکر نمی‌کنم حقوق در آن کیوسک خیلی خوب باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Du solltest nicht von Anfang an so skeptisch sein.",
+      "english": "You shouldn’t be so skeptical from the start.",
+      "russian": "Тебе не стоит быть таким скептичным с самого начала.",
+      "farsi": "نباید از همان ابتدا این‌قدر بدبین باشی."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Geh doch einfach mal vorbei und frage nach genaueren Informationen.",
+      "english": "Just drop by and ask for more detailed information.",
+      "russian": "Просто зайди туда и спроси более подробную информацию.",
+      "farsi": "فقط سری بزن و اطلاعات دقیق‌تری بپرس."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, du hast recht. Das mache ich gleich.",
+      "english": "Yes, you’re right. I’ll do that right away.",
+      "russian": "Да, ты прав. Я сделаю это прямо сейчас.",
+      "farsi": "بله، حق با تو است. همین الان این کار را می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Berufsinformationszentren (BiZ) gibt es in allen Agenturen für Arbeit.",
+      "english": "Career Information Centers (BiZ) are available in all Employment Agencies.",
+      "russian": "Центры профессиональной информации (BiZ) есть во всех агентствах по трудоустройству.",
+      "farsi": "مراکز اطلاعات شغلی (BiZ) در تمام آژانس‌های کاریابی وجود دارند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dort können sich Jugendliche und Erwachsene kostenlos u. a. über die Themen „Ausbildung und Studium“, „Arbeit und Beruf“ und „Bewerbung“ informieren.",
+      "english": "There, young people and adults can get free information on topics such as 'training and studies,' 'work and profession,' and 'applications.'",
+      "russian": "Там молодёжь и взрослые могут бесплатно получить информацию по таким темам, как «обучение и учёба», «работа и профессия» и «заявления о приеме на работу».",
+      "farsi": "در آنجا جوانان و بزرگسالان می‌توانند به‌طور رایگان در مورد موضوعاتی مانند «آموزش و تحصیل»، «کار و حرفه» و «درخواست شغلی» اطلاعات کسب کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im BiZ gibt es auch Veranstaltungen und Vorträge – z.B. über Umschulungsmöglichkeiten.",
+      "english": "The BiZ also offers events and lectures, for example, on retraining opportunities.",
+      "russian": "В BiZ также проводятся мероприятия и лекции, например, о возможностях переквалификации.",
+      "farsi": "در BiZ همچنین رویدادها و سخنرانی‌هایی وجود دارد، مثلاً درباره فرصت‌های بازآموزی."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie können auch ohne Termin ins BiZ kommen.",
+      "english": "You can also come to the BiZ without an appointment.",
+      "russian": "Вы также можете прийти в BiZ без предварительной записи.",
+      "farsi": "شما همچنین می‌توانید بدون وقت قبلی به BiZ مراجعه کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In den Leseecken können sich die Besucherinnen und Besucher über Berufe informieren und Zeitungen, Fachzeitschriften und Informationsmappen lesen.",
+      "english": "In the reading corners, visitors can learn about professions and read newspapers, trade journals, and information folders.",
+      "russian": "В читальных уголках посетители могут получить информацию о профессиях и почитать газеты, специализированные журналы и информационные папки.",
+      "farsi": "در گوشه‌های مطالعه، بازدیدکنندگان می‌توانند درباره مشاغل اطلاعات کسب کنند و روزنامه‌ها، مجلات تخصصی و پوشه‌های اطلاعاتی را مطالعه کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es gibt nicht nur Printmedien, sondern auch Internetarbeitsplätze und Computer mit Farbdruckern, damit Sie im Internet recherchieren und nach Stellen oder Umschulungsangeboten suchen können.",
+      "english": "There are not only print media but also internet workstations and computers with color printers so that you can research online and look for job or retraining opportunities.",
+      "russian": "Там есть не только печатные материалы, но и рабочие места с доступом в интернет и компьютеры с цветными принтерами, чтобы вы могли искать информацию в интернете и предложения по работе или переквалификации.",
+      "farsi": "علاوه بر رسانه‌های چاپی، ایستگاه‌های کاری اینترنتی و کامپیوترهایی با چاپگر رنگی نیز وجود دارند تا بتوانید در اینترنت جستجو کرده و به دنبال فرصت‌های شغلی یا بازآموزی بگردید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "An den Computern können Sie Ihre Bewerbung erstellen und bearbeiten.",
+      "english": "At the computers, you can create and edit your application.",
+      "russian": "На компьютерах вы можете создать и отредактировать своё заявление о приеме на работу.",
+      "farsi": "در کامپیوترها می‌توانید درخواست شغلی خود را ایجاد و ویرایش کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bei Fragen helfen Ihnen die Mitarbeitenden an den Infotheken.",
+      "english": "If you have any questions, the staff at the information desks will help you.",
+      "russian": "Если у вас есть вопросы, сотрудники на информационных стойках вам помогут.",
+      "farsi": "در صورت داشتن سوال، کارکنان در بخش‌های اطلاعات به شما کمک خواهند کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn Sie sich beruflich verändern wollen oder müssen, unterstützen wir Sie.",
+      "english": "If you want or need to make a career change, we will support you.",
+      "russian": "Если вы хотите или должны сменить профессию, мы вас поддержим.",
+      "farsi": "اگر می‌خواهید یا باید مسیر شغلی خود را تغییر دهید، ما از شما حمایت خواهیم کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie können einen Termin online, telefonisch, per E-Mail oder persönlich vereinbaren.",
+      "english": "You can schedule an appointment online, by phone, via email, or in person.",
+      "russian": "Вы можете записаться на встречу онлайн, по телефону, по электронной почте или лично.",
+      "farsi": "می‌توانید به‌صورت آنلاین، تلفنی، از طریق ایمیل یا حضوری وقت بگیرید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im Beratungsgespräch sprechen wir mit Ihnen über Ihre Berufswünsche oder helfen Ihnen bei der Stellensuche, bei Bewerbungen und beim Vorstellungsgespräch.",
+      "english": "In the consultation, we will discuss your career goals or help you with job searches, applications, and interviews.",
+      "russian": "На консультации мы обсудим ваши карьерные пожелания или поможем вам с поиском работы, подачей заявлений и собеседованиями.",
+      "farsi": "در جلسه مشاوره در مورد اهداف شغلی شما صحبت می‌کنیم یا به شما در جستجوی شغل، درخواست‌های شغلی و مصاحبه‌ها کمک می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bereiten Sie sich aber bitte auf den ersten Termin gut vor.",
+      "english": "But please prepare well for the first appointment.",
+      "russian": "Но, пожалуйста, хорошо подготовьтесь к первой встрече.",
+      "farsi": "اما لطفاً برای اولین قرار ملاقات به‌خوبی آماده شوید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Überlegen Sie sich: Was für eine Stelle möchte ich haben?",
+      "english": "Think about: What kind of job do I want to have?",
+      "russian": "Подумайте: Какую работу я хочу получить?",
+      "farsi": "فکر کنید: چه نوع شغلی می‌خواهم داشته باشم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was für Qualifikationen habe ich und welche Kenntnisse bringe ich mit?",
+      "english": "What qualifications do I have, and what skills do I bring with me?",
+      "russian": "Какие у меня есть квалификации и какие знания я могу предложить?",
+      "farsi": "چه صلاحیت‌هایی دارم و چه مهارت‌هایی با خود می‌آورم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bitte bringen Sie Ihre Bewerbungsunterlagen, Zeugnisse und andere wichtige Dokumente mit.",
+      "english": "Please bring your application documents, certificates, and other important documents with you.",
+      "russian": "Пожалуйста, принесите ваши документы для подачи заявления, свидетельства и другие важные бумаги.",
+      "farsi": "لطفاً مدارک درخواست شغلی، گواهی‌ها و دیگر اسناد مهم خود را همراه داشته باشید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ausländische Mitbürgerinnen und Mitbürger sollten z.B. ihre Aufenthaltserlaubnis und Arbeitserlaubnis mitbringen.",
+      "english": "Foreign residents should, for example, bring their residence permit and work permit.",
+      "russian": "Иностранным гражданам следует, например, принести вид на жительство и разрешение на работу.",
+      "farsi": "شهروندان خارجی باید مثلاً مجوز اقامت و مجوز کار خود را همراه داشته باشند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Ausbildung dauert drei Jahre.",
+      "english": "The training lasts three years.",
+      "russian": "Обучение длится три года.",
+      "farsi": "دوره آموزشی سه سال طول می‌کشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nach der Ausbildung arbeiten Sie in der Verwaltung von Unternehmen.",
+      "english": "After the training, you work in the administration of companies.",
+      "russian": "После обучения вы работаете в администрации компаний.",
+      "farsi": "پس از دوره آموزشی، شما در مدیریت شرکت‌ها کار می‌کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Betriebe aus fast allen Branchen bieten Beschäftigungsmöglichkeiten und die Aufgaben sind sehr verschieden.",
+      "english": "Businesses from almost all industries offer employment opportunities, and the tasks are very diverse.",
+      "russian": "Предприятия почти всех отраслей предлагают рабочие места, а задачи очень разнообразны.",
+      "farsi": "شرکت‌ها در تقریباً همه صنایع فرصت‌های شغلی ارائه می‌دهند و وظایف بسیار متنوع هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn Sie im Personalbereich arbeiten, sind Sie zum Beispiel für die Anstellung von Personal verantwortlich.",
+      "english": "If you work in human resources, for example, you are responsible for hiring staff.",
+      "russian": "Если вы работаете в области управления персоналом, вы, например, отвечаете за найм сотрудников.",
+      "farsi": "اگر در بخش منابع انسانی کار کنید، به عنوان مثال مسئول استخدام کارکنان هستید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Als Mitarbeiterin/Mitarbeiter im Verkauf berechnen Sie Preise und Angebote und führen Verkaufsgespräche mit Kundinnen und Kunden.",
+      "english": "As a sales employee, you calculate prices and offers and conduct sales talks with customers.",
+      "russian": "Как сотрудник отдела продаж, вы рассчитываете цены и предложения и проводите переговоры с клиентами.",
+      "farsi": "به عنوان کارمند فروش، شما قیمت‌ها و پیشنهادات را محاسبه می‌کنید و با مشتریان مذاکره می‌کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Auch im Bereich Marketing können Sie mit dieser Ausbildung arbeiten.",
+      "english": "You can also work in the field of marketing with this training.",
+      "russian": "С этой подготовкой вы также можете работать в сфере маркетинга.",
+      "farsi": "با این دوره آموزشی می‌توانید در بخش بازاریابی نیز کار کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Um einen Ausbildungsplatz zu bekommen, braucht man mindestens die Mittlere Reife, viele Betriebe stellen aber auch gerne Auszubildende mit Abitur oder Fachabitur ein.",
+      "english": "To get a training position, you need at least a secondary school certificate, but many companies also prefer to hire trainees with a high school diploma or vocational diploma.",
+      "russian": "Чтобы получить место на обучение, требуется как минимум аттестат об окончании средней школы, но многие компании также охотно принимают стажеров с аттестатом о полном среднем образовании или профессиональным дипломом.",
+      "farsi": "برای دریافت موقعیت کارآموزی، حداقل به مدرک دبیرستان نیاز دارید، اما بسیاری از شرکت‌ها همچنین ترجیح می‌دهند کارآموزانی با دیپلم دبیرستان یا دیپلم حرفه‌ای استخدام کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Ausbildung dauert ein Jahr in Vollzeit und maximal vier Jahre in Teilzeit.",
+      "english": "The training lasts one year full-time and up to four years part-time.",
+      "russian": "Обучение длится один год на полный рабочий день и до четырех лет на неполный рабочий день.",
+      "farsi": "دوره آموزشی یک سال به صورت تمام‌وقت و حداکثر چهار سال به صورت پاره‌وقت طول می‌کشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In diesem Beruf kümmern Sie sich um Menschen, die nicht mehr für sich selbst sorgen können.",
+      "english": "In this profession, you take care of people who can no longer care for themselves.",
+      "russian": "В этой профессии вы заботитесь о людях, которые больше не могут заботиться о себе.",
+      "farsi": "در این حرفه، شما از افرادی که دیگر نمی‌توانند از خود مراقبت کنند، مراقبت می‌کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie sind für die Körperpflege verantwortlich und helfen ihnen beim Essen.",
+      "english": "You are responsible for personal care and help them with eating.",
+      "russian": "Вы отвечаете за личную гигиену и помогаете им с едой.",
+      "farsi": "شما مسئول مراقبت‌های شخصی هستید و به آنها در غذا خوردن کمک می‌کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn Sie in einem Pflegeheim arbeiten, organisieren Sie mit Ihrem Team zum Beispiel Freizeitprogramme oder Ausflüge für die Bewohnerinnen und Bewohner.",
+      "english": "If you work in a nursing home, you organize leisure programs or excursions for the residents together with your team.",
+      "russian": "Если вы работаете в доме престарелых, вы организуете программы досуга или экскурсии для жителей вместе со своей командой.",
+      "farsi": "اگر در یک خانه سالمندان کار کنید، همراه با تیم خود برنامه‌های تفریحی یا گردش برای ساکنان ترتیب می‌دهید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wichtig ist, dass Sie die Probleme oder Beschwerden der älteren Menschen gut verstehen, damit Vertrauen entstehen kann.",
+      "english": "It is important that you understand the problems or complaints of older people well, so trust can develop.",
+      "russian": "Важно, чтобы вы хорошо понимали проблемы или жалобы пожилых людей, чтобы могло возникнуть доверие.",
+      "farsi": "مهم است که مشکلات یا شکایات افراد مسن را به خوبی درک کنید تا اعتماد شکل بگیرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In der Regel braucht man den Hauptschulabschluss oder einen ähnlichen Schulabschluss, damit man eine Ausbildung beginnen kann.",
+      "english": "Usually, you need a secondary school diploma or a similar qualification to start training.",
+      "russian": "Как правило, для начала обучения требуется аттестат об окончании средней школы или аналогичный документ.",
+      "farsi": "معمولاً برای شروع آموزش به مدرک دبیرستان یا یک مدرک مشابه نیاز دارید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Ausbildung dauert zwei Jahre.",
+      "english": "The training lasts two years.",
+      "russian": "Обучение длится два года.",
+      "farsi": "دوره آموزشی دو سال طول می‌کشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In diesem Beruf nähen und ändern Sie Kleidung, Sie kürzen zum Beispiel Hosen oder Röcke.",
+      "english": "In this profession, you sew and alter clothing, for example, shortening trousers or skirts.",
+      "russian": "В этой профессии вы шьёте и изменяете одежду, например, укорачиваете брюки или юбки.",
+      "farsi": "در این حرفه، شما لباس‌ها را می‌دوزید و تغییر می‌دهید، مثلاً شلوار یا دامن را کوتاه می‌کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Außerdem passen Sie Heimtextilien wie Gardinen oder Vorhänge nach den Wünschen der Kundinnen und Kunden an, wenn sie zum Beispiel zu lang oder zu breit sind.",
+      "english": "You also adjust home textiles like curtains or drapes to the customers' wishes, for example, if they are too long or too wide.",
+      "russian": "Вы также подгоняете домашний текстиль, такой как шторы или занавески, по пожеланиям клиентов, если они, например, слишком длинные или широкие.",
+      "farsi": "همچنین منسوجات خانگی مانند پرده‌ها را طبق خواسته مشتریان تنظیم می‌کنید، مثلاً اگر بیش از حد بلند یا پهن باشند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Beschäftigungsmöglichkeiten bieten Modehäuser oder auch Änderungs- und Maßschneidereien.",
+      "english": "Employment opportunities are offered by fashion houses or alteration and custom tailoring shops.",
+      "russian": "Возможности трудоустройства предлагают модные дома или ателье по пошиву и переделке одежды.",
+      "farsi": "فرصت‌های شغلی توسط خانه‌های مد یا کارگاه‌های تغییرات و خیاطی سفارشی ارائه می‌شوند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man kann sich mit diesem Beruf auch selbstständig machen.",
+      "english": "You can also become self-employed with this profession.",
+      "russian": "С этой профессией можно также работать самостоятельно.",
+      "farsi": "با این حرفه می‌توانید به صورت مستقل کار کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn Sie sich für diesen Beruf interessieren, brauchen Sie mindestens einen Hauptschulabschluss oder einen vergleichbaren Schulabschluss.",
+      "english": "If you are interested in this profession, you need at least a secondary school diploma or a comparable qualification.",
+      "russian": "Если вы интересуетесь этой профессией, вам нужен как минимум аттестат об окончании средней школы или аналогичный документ.",
+      "farsi": "اگر به این حرفه علاقه دارید، حداقل به یک مدرک دبیرستان یا معادل آن نیاز دارید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sag mal, Fatemeh, du bist doch in einem Jahr mit der Schule fertig.",
+      "english": "Tell me, Fatemeh, you will finish school in a year, right?",
+      "russian": "Скажи, Фатеме, ты же закончишь школу через год, да?",
+      "farsi": "بگو ببینم، فاطمه، تو که یک سال دیگر مدرسه‌ات تمام می‌شود، درست است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Weißt du schon, welchen Beruf du lernen willst?",
+      "english": "Do you already know which profession you want to learn?",
+      "russian": "Ты уже знаешь, какую профессию хочешь освоить?",
+      "farsi": "تا حالا می‌دانی می‌خواهی چه شغلی یاد بگیری؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das weiß ich noch nicht so genau, Cedric.",
+      "english": "I don't know that exactly yet, Cedric.",
+      "russian": "Я ещё не знаю точно, Седрик.",
+      "farsi": "هنوز دقیق نمی‌دانم، سدریک."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin noch in einer Orientierungs-phase.",
+      "english": "I am still in an orientation phase.",
+      "russian": "Я всё ещё в стадии ориентирования.",
+      "farsi": "من هنوز در مرحله تصمیم‌گیری هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber du arbeitest doch in einem Blumengeschäft.",
+      "english": "But you work in a flower shop, don't you?",
+      "russian": "Но ты ведь работаешь в цветочном магазине?",
+      "farsi": "اما تو که در یک گل‌فروشی کار می‌کنی، درست است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das finde ich ziemlich interessant.",
+      "english": "I find that quite interesting.",
+      "russian": "Я нахожу это довольно интересным.",
+      "farsi": "این برایم خیلی جالب است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Eine Arbeit mit Pflanzen könnte mir auch gefallen.",
+      "english": "Working with plants might also appeal to me.",
+      "russian": "Работа с растениями мне тоже может понравиться.",
+      "farsi": "کار کردن با گیاهان می‌تواند برایم جذاب باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, ich mag meine Arbeit sehr.",
+      "english": "Yes, I really like my work.",
+      "russian": "Да, мне очень нравится моя работа.",
+      "farsi": "بله، من کارم را خیلی دوست دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Besonders gefällt mir, dass ich immer kreativ sein kann.",
+      "english": "I especially like that I can always be creative.",
+      "russian": "Особенно мне нравится, что я всегда могу быть креативным.",
+      "farsi": "بیشتر از همه این را دوست دارم که همیشه می‌توانم خلاق باشم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kannst du ein bisschen über deine Arbeit erzählen?",
+      "english": "Can you tell me a little about your work?",
+      "russian": "Можешь немного рассказать о своей работе?",
+      "farsi": "می‌توانی کمی در مورد کارت توضیح بدهی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, gerne. Meine Hauptaufgabe ist der Verkauf von Blumen.",
+      "english": "Yes, of course. My main task is selling flowers.",
+      "russian": "Да, конечно. Моя основная задача – продажа цветов.",
+      "farsi": "بله، حتماً. وظیفه اصلی من فروش گل است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sehr wichtig ist dabei die Beratung der Kunden, wenn sie zum Beispiel einen Blumenstrauß oder einen Brautkranz wünschen, damit das Grün und die Blüten gut zusammenpassen.",
+      "english": "It is very important to advise customers, for example, when they want a bouquet or a bridal wreath, so that the greenery and the flowers match well.",
+      "russian": "Очень важно консультировать клиентов, когда они, например, хотят букет или свадебный венок, чтобы зелень и цветы хорошо сочетались.",
+      "farsi": "مشاوره دادن به مشتریان خیلی مهم است، مثلاً زمانی که یک دسته گل یا تاج عروس می‌خواهند تا برگ‌ها و گل‌ها به خوبی با هم هماهنگ باشند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Außerdem muss ich aufpassen, dass die Waren, die wir verkaufen, immer frisch sind.",
+      "english": "I also have to ensure that the goods we sell are always fresh.",
+      "russian": "Кроме того, я должен следить за тем, чтобы товары, которые мы продаём, всегда были свежими.",
+      "farsi": "علاوه بر این، باید مراقب باشم که کالاهایی که می‌فروشیم همیشه تازه باشند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und wie funktioniert die Ausbildung?",
+      "english": "And how does the training work?",
+      "russian": "А как проходит обучение?",
+      "farsi": "و دوره آموزشی چطور است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Meine Ausbildung zum Floristen hat drei Jahre gedauert.",
+      "english": "My training as a florist took three years.",
+      "russian": "Моё обучение на флориста длилось три года.",
+      "farsi": "دوره آموزشی من به عنوان یک گل‌فروش سه سال طول کشید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In dem Betrieb, wo ich jetzt arbeite, habe ich auch gelernt.",
+      "english": "I also trained at the business where I now work.",
+      "russian": "Я также проходил обучение в том предприятии, где сейчас работаю.",
+      "farsi": "من در همان جایی که الان کار می‌کنم، آموزش هم دیده‌ام."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ein paar Mal in der Woche war ich in der Berufsschule.",
+      "english": "A few times a week, I attended vocational school.",
+      "russian": "Несколько раз в неделю я посещал профессиональное училище.",
+      "farsi": "چند بار در هفته به مدرسه فنی و حرفه‌ای می‌رفتم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In der Ausbildung habe ich viel über Pflanzen und Pflanzenschutz gelernt, aber auch, wie man Farben und verschiedene Pflanzen gut kombiniert.",
+      "english": "During the training, I learned a lot about plants and plant protection, but also how to combine colors and different plants well.",
+      "russian": "На обучении я много узнал о растениях и их защите, а также о том, как хорошо сочетать цвета и разные растения.",
+      "farsi": "در طول دوره آموزشی چیزهای زیادی درباره گیاهان و حفاظت از آن‌ها یاد گرفتم و همچنین اینکه چطور رنگ‌ها و گیاهان مختلف را به خوبی ترکیب کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was war in der Ausbildung für dich besonders spannend?",
+      "english": "What was particularly exciting for you during the training?",
+      "russian": "Что было особенно увлекательным для тебя во время обучения?",
+      "farsi": "چه چیزی در طول دوره آموزشی برایت به‌خصوص هیجان‌انگیز بود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Am meisten Spaß hat es mir gemacht zu lernen, wie man Räume schön und attraktiv dekoriert.",
+      "english": "I enjoyed learning how to decorate rooms beautifully and attractively the most.",
+      "russian": "Больше всего мне понравилось учиться красиво и привлекательно украшать комнаты.",
+      "farsi": "بیشترین لذتم یادگیری نحوه تزئین زیبا و جذاب فضاها بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das war auch nützlich, als ich in meine neue Wohnung gezogen bin und sie eingerichtet habe.",
+      "english": "That was also useful when I moved into my new apartment and furnished it.",
+      "russian": "Это было полезно, когда я переехал в свою новую квартиру и обставлял её.",
+      "farsi": "این برایم مفید بود وقتی به آپارتمان جدیدم نقل مکان کردم و آن را چیدمان کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das klingt ziemlich interessant.",
+      "english": "That sounds quite interesting.",
+      "russian": "Это звучит довольно интересно.",
+      "farsi": "این خیلی جالب به نظر می‌رسد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Meinst du, ich könnte in den Ferien mal bei euch zwei oder drei Tage bei der Arbeit zuschauen?",
+      "english": "Do you think I could watch you work for two or three days during the holidays?",
+      "russian": "Ты думаешь, я могу пару-тройку дней понаблюдать за вашей работой во время каникул?",
+      "farsi": "فکر می‌کنی می‌توانم در تعطیلات دو یا سه روزی کار شما را تماشا کنم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das ist sicher möglich.",
+      "english": "That is certainly possible.",
+      "russian": "Это вполне возможно.",
+      "farsi": "این حتماً ممکن است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich frage mal unseren Chef.",
+      "english": "I’ll ask our boss.",
+      "russian": "Я спрошу нашего начальника.",
+      "farsi": "از رئیسمان می‌پرسم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Du musst dann aber sehr früh morgens aufstehen, denn wir beginnen schon um 7.00 Uhr morgens, das Geschäft für den Tag zu dekorieren.",
+      "english": "But you’ll have to get up very early because we start decorating the shop for the day at 7:00 AM.",
+      "russian": "Но тебе придётся очень рано вставать, потому что мы начинаем украшать магазин к дню уже в 7 утра.",
+      "farsi": "اما باید خیلی زود صبح بیدار شوی چون ما از ساعت ۷ صبح تزئین مغازه برای روز را شروع می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das ist nicht so schlimm für mich.",
+      "english": "That’s not so bad for me.",
+      "russian": "Это не так уж плохо для меня.",
+      "farsi": "این برای من خیلی بد نیست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und vielleicht bekomme ich dann auch Lust auf eine Ausbildung.",
+      "english": "And maybe I’ll even get interested in training.",
+      "russian": "И, возможно, я заинтересуюсь обучением.",
+      "farsi": "و شاید حتی به دوره آموزشی علاقه‌مند شوم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn du dich um einen Ausbildungsplatz bewerben willst, solltest du dich bei verschiedenen Blumengeschäften oder auch Gartencentern bewerben, dann sind deine Chancen, dass du einen Platz bekommst, besser.",
+      "english": "If you want to apply for a training position, you should apply to different flower shops or garden centers, as this increases your chances of getting a spot.",
+      "russian": "Если ты хочешь подать заявку на место обучения, тебе стоит подать в разные цветочные магазины или садовые центры, чтобы увеличить свои шансы.",
+      "farsi": "اگر می‌خواهی برای یک دوره آموزشی درخواست بدهی، بهتر است به چندین گل‌فروشی یا مرکز باغبانی درخواست بدهی، اینطوری شانس اینکه یک جایگاه به دست آوری بیشتر می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Gute Zeugnisse, Fachwissen, Können und Berufserfahrung braucht man immer, wenn man auf Jobsuche ist.",
+      "english": "Good certificates, expertise, skills, and work experience are always needed when looking for a job.",
+      "russian": "Хорошие свидетельства, знания, умения и опыт работы всегда нужны при поиске работы.",
+      "farsi": "گواهی‌های خوب، دانش تخصصی، مهارت‌ها و تجربه کاری همیشه در هنگام جستجوی کار لازم هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Doch das allein genügt in der Regel nicht, um eine Stelle zu bekommen.",
+      "english": "But that alone is usually not enough to get a job.",
+      "russian": "Но этого обычно недостаточно, чтобы получить работу.",
+      "farsi": "اما این به تنهایی معمولاً برای به‌دست‌آوردن یک شغل کافی نیست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "So arbeiten die meisten Mitarbeiterinnen und Mitarbeiter in Firmen nicht alleine in einem abgeschlossenen Büro, sondern in Teams, sodass sie auch teamfähig sein müssen.",
+      "english": "Most employees in companies do not work alone in a closed office but in teams, so they also need to be team players.",
+      "russian": "Большинство сотрудников в компаниях работают не в одиночку в отдельном офисе, а в командах, поэтому они должны уметь работать в коллективе.",
+      "farsi": "بیشتر کارکنان در شرکت‌ها به تنهایی در یک دفتر بسته کار نمی‌کنند بلکه در تیم‌ها، بنابراین باید توانایی کار تیمی داشته باشند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Anstatt also nur auf die fachliche Qualifikation zu setzen, sollten Bewerberinnen und Bewerber auch ihre „Softskills“, also die persönlichen Eigenschaften bei Bewerbungen betonen.",
+      "english": "Instead of relying solely on professional qualifications, applicants should also emphasize their 'soft skills,' i.e., personal qualities, in their applications.",
+      "russian": "Вместо того чтобы полагаться только на профессиональную квалификацию, соискатели должны подчеркивать свои «мягкие навыки», то есть личные качества, в своих заявках.",
+      "farsi": "به‌جای تکیه تنها بر صلاحیت حرفه‌ای، متقاضیان باید در درخواست‌های خود بر مهارت‌های نرم، یعنی ویژگی‌های شخصیتی، تأکید کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Neben Teamfähigkeit sind zum Beispiel Kritik- und Kommunikationsfähigkeit weitere wichtige soziale Kompetenzen.",
+      "english": "In addition to teamwork skills, critical thinking and communication skills are other important social competencies.",
+      "russian": "Помимо умения работать в команде, критическое мышление и коммуникативные навыки являются важными социальными компетенциями.",
+      "farsi": "علاوه بر توانایی کار تیمی، مهارت‌های انتقادی و ارتباطی دیگر مهارت‌های اجتماعی مهم هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Genauso wichtig sind persönliche Stärken wie Fleiß, Motivation und die Fähigkeit, selbstständig zu arbeiten.",
+      "english": "Equally important are personal strengths such as diligence, motivation, and the ability to work independently.",
+      "russian": "Не менее важны личные качества, такие как трудолюбие, мотивация и способность работать самостоятельно.",
+      "farsi": "ویژگی‌های شخصی مانند سخت‌کوشی، انگیزه و توانایی کار مستقل به همان اندازه مهم هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn Sie Ihre Bewerbungsunterlagen zusammenstellen, gilt also:",
+      "english": "When putting together your application documents, the following applies:",
+      "russian": "При составлении документов для заявки применяется следующее:",
+      "farsi": "وقتی مدارک درخواست شغلتان را آماده می‌کنید، این نکته مهم است:"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Anstatt nur an Ihre Zeugnisse und Referenzen zu denken, sollten Sie zusätzlich über Ihre persönlichen Eigenschaften nachdenken, zum Beispiel:",
+      "english": "Instead of thinking only about your certificates and references, you should also consider your personal qualities, for example:",
+      "russian": "Вместо того чтобы думать только о своих сертификатах и рекомендациях, стоит также подумать о своих личных качествах, например:",
+      "farsi": "به‌جای اینکه فقط به گواهی‌ها و مراجع خود فکر کنید، باید به ویژگی‌های شخصیتی خود نیز توجه کنید، برای مثال:"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bin ich kommunikativ oder eher nicht?",
+      "english": "Am I communicative or not?",
+      "russian": "Я коммуникабельный или нет?",
+      "farsi": "آیا من ارتباط‌گیر هستم یا نه؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Arbeite ich gerne mit anderen zusammen, bin ich teamfähig?",
+      "english": "Do I enjoy working with others? Am I a team player?",
+      "russian": "Мне нравится работать с другими? Я умею работать в команде?",
+      "farsi": "آیا دوست دارم با دیگران کار کنم؟ آیا توانایی کار تیمی دارم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man sollte auch interessante Stellenanzeigen nicht zu schnell und flüchtig lesen, sondern auf jedes Wort achten:",
+      "english": "You should not read interesting job advertisements too quickly and superficially but pay attention to every word:",
+      "russian": "Интересные объявления о вакансиях не следует читать слишком быстро и поверхностно, а стоит обращать внимание на каждое слово:",
+      "farsi": "آگهی‌های شغلی جذاب را نباید خیلی سریع و سطحی بخوانید بلکه باید به هر کلمه توجه کنید:"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Meistens beschreiben die Firmen sehr genau, welche fachlichen und auch welche persönlichen Kompetenzen sie von den Bewerbenden erwarten.",
+      "english": "Companies usually describe very precisely what professional and personal competencies they expect from applicants.",
+      "russian": "Компании обычно очень точно описывают, какие профессиональные и личные компетенции они ожидают от соискателей.",
+      "farsi": "شرکت‌ها معمولاً دقیقاً توضیح می‌دهند که چه مهارت‌های حرفه‌ای و شخصی از متقاضیان انتظار دارند."
+    }
+  ]
+}

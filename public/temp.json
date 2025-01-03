@@ -1,0 +1,42 @@
+[
+  {
+    "Präsens": "ich bin, du bist, er/sie/es ist, wir sind, ihr seid, sie sind",
+    "Präteritum": "ich war, du warst, er/sie/es war, wir waren, ihr wart, sie waren"
+  },
+  {
+    "Präsens": "ich darf, du darfst, er/sie/es darf, wir dürfen, ihr dürft, sie dürfen",
+    "Präteritum": "ich durfte, du durftest, er/sie/es durfte, wir durften, ihr durftet, sie durften"
+  },
+  {
+    "Präsens": "ich habe, du hast, er/sie/es hat, wir haben, ihr habt, sie haben",
+    "Präteritum": "ich hatte, du hattest, er/sie/es hatte, wir hatten, ihr hattet, sie hatten"
+  },
+  {
+    "Präsens": "ich kann, du kannst, er/sie/es kann, wir können, ihr könnt, sie können",
+    "Präteritum": "ich konnte, du konntest, er/sie/es konnte, wir konnten, ihr konntet, sie konnten"
+  },
+  {
+    "Präsens": "ich mag, du magst, er/sie/es mag, wir mögen, ihr mögt, sie mögen",
+    "Präteritum": "ich mochte, du mochtest, er/sie/es mochte, wir mochten, ihr mochtet, sie mochten"
+  },
+  {
+    "Präsens": "ich muss, du musst, er/sie/es muss, wir müssen, ihr müsst, sie müssen",
+    "Präteritum": "ich musste, du musstest, er/sie/es musste, wir mussten, ihr musstet, sie mussten"
+  },
+  {
+    "Präsens": "ich soll, du sollst, er/sie/es soll, wir sollen, ihr sollt, sie sollen",
+    "Präteritum": "ich sollte, du solltest, er/sie/es sollte, wir sollten, ihr solltet, sie sollten"
+  },
+  {
+    "Präsens": "ich will, du willst, er/sie/es will, wir wollen, ihr wollt, sie wollen",
+    "Präteritum": "ich wollte, du wolltest, er/sie/es wollte, wir wollten, ihr wolltet, sie wollten"
+  },
+  {
+    "Präsens": "ich lasse, du lässt, er/sie/es lässt, wir lassen, ihr lasst, sie lassen",
+    "Präteritum": "ich ließ, du ließest, er/sie/es ließ, wir ließen, ihr ließt, sie ließen"
+  },
+  {
+    "Präsens": "ich werde, du wirst, er/sie/es wird, wir werden, ihr werdet, sie werden",
+    "Präteritum": "ich wurde, du wurdest, er/sie/es wurde, wir wurden, ihr wurdet, sie wurden"
+  }
+]

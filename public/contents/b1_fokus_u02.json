@@ -528,6 +528,174 @@
     {
       "isSelected": false,
       "type": "sentence",
+      "sentence": "Deshalb hat sich Nedim Baron über Möglichkeiten der beruflichen Weiterbildung informiert.",
+      "english": "Therefore, Nedim Baron looked into opportunities for further professional training.",
+      "russian": "Поэтому Недим Барон узнал о возможностях дальнейшего профессионального обучения.",
+      "farsi": "به همین دلیل، ندیم بارون درباره فرصت‌های آموزش حرفه‌ای بیشتر تحقیق کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sein Problem war, dass er nicht alle Papiere von seiner früheren Arbeit und Ausbildung hatte.",
+      "english": "His problem was that he did not have all the documents from his previous work and training.",
+      "russian": "Его проблема заключалась в том, что у него не было всех документов с его предыдущей работы и обучения.",
+      "farsi": "مشکل او این بود که همه مدارک مربوط به کار و تحصیلات قبلی خود را نداشت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In der Beratungsstelle erfuhr er, dass es in Deutschland ein Gesetz zur Anerkennung ausländischer Berufsabschlüsse gibt.",
+      "english": "At the counseling center, he learned that there is a law in Germany for the recognition of foreign professional qualifications.",
+      "russian": "В консультационном центре он узнал, что в Германии есть закон о признании иностранных профессиональных квалификаций.",
+      "farsi": "در مرکز مشاوره، او متوجه شد که در آلمان قانونی برای تأیید مدارک حرفه‌ای خارجی وجود دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ohne die Hilfe der Handwerkskammer hätte ich den Antrag nicht stellen können.",
+      "english": "Without the help of the Chamber of Crafts, I would not have been able to submit the application.",
+      "russian": "Без помощи ремесленной палаты я не смог бы подать заявление.",
+      "farsi": "بدون کمک اتاق صنایع دستی، نمی‌توانستم درخواست را ارائه دهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie haben mich sehr gut beraten.",
+      "english": "They advised me very well.",
+      "russian": "Они очень хорошо меня проконсультировали.",
+      "farsi": "آن‌ها به من بسیار خوب مشاوره دادند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Handwerkskammer Ulm hat seine türkischen Zeugnisse geprüft.",
+      "english": "The Chamber of Crafts in Ulm reviewed his Turkish certificates.",
+      "russian": "Ремесленная палата в Ульме проверила его турецкие свидетельства.",
+      "farsi": "اتاق صنایع دستی اولم مدارک ترکیه‌ای او را بررسی کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er musste allerdings noch einige Kurse besuchen und eine praktische und theoretische Prüfung machen, ...",
+      "english": "However, he still had to attend some courses and take a practical and theoretical exam, ...",
+      "russian": "Однако ему пришлось пройти несколько курсов и сдать практический и теоретический экзамен, ...",
+      "farsi": "با این حال، او مجبور بود چند دوره را بگذراند و در یک آزمون عملی و تئوری شرکت کند، ..."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "... damit er die volle Anerkennung für seinen türkischen Berufsabschluss bekommen konnte.",
+      "english": "... in order to obtain full recognition for his Turkish professional qualification.",
+      "russian": "... чтобы получить полное признание своей турецкой профессиональной квалификации.",
+      "farsi": "... تا بتواند تأیید کامل مدارک حرفه‌ای ترکیه‌ای خود را دریافت کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Heute arbeitet er als Mechaniker in einer Werkstatt in Ulm.",
+      "english": "Today, he works as a mechanic in a workshop in Ulm.",
+      "russian": "Сегодня он работает механиком в мастерской в Ульме.",
+      "farsi": "امروزه او به‌عنوان مکانیک در یک کارگاه در اولم کار می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Kurse dauerten acht Monate und die Prüfung war richtig schwer.",
+      "english": "The courses lasted eight months, and the exam was really tough.",
+      "russian": "Курсы длились восемь месяцев, и экзамен был действительно сложным.",
+      "farsi": "دوره‌ها هشت ماه طول کشید و آزمون واقعاً سخت بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber es hat sich gelohnt.",
+      "english": "But it was worth it.",
+      "russian": "Но это того стоило.",
+      "farsi": "اما ارزشش را داشت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In einigen Jahren möchte ich auch gerne die Meisterprüfung machen.",
+      "english": "In a few years, I would also like to take the master craftsman exam.",
+      "russian": "Через несколько лет я хотел бы сдать экзамен на мастера.",
+      "farsi": "در چند سال آینده، دوست دارم آزمون استادکاری را هم بگذرانم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Von einer Kollegin wusste Leyla Sarhan, dass ihre Berufschancen steigen, wenn sie ihre Zeugnisse aus Ägypten in Deutschland anerkennen lässt.",
+      "english": "Leyla Sarhan knew from a colleague that her career prospects would improve if she had her certificates from Egypt recognized in Germany.",
+      "russian": "Лейла Сархан знала от коллеги, что её шансы на карьеру улучшатся, если она подтвердит свои сертификаты из Египта в Германии.",
+      "farsi": "لیلا سرحان از یک همکار خود می‌دانست که اگر مدارک خود از مصر را در آلمان تأیید کند، شانس شغلی‌اش افزایش می‌یابد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nach einer Beratung bei der Bundesagentur für Arbeit ließ sie die Zeugnisse übersetzen und gab sie bei der Industrie- und Handelskammer Oberrhein ab.",
+      "english": "After a consultation at the Federal Employment Agency, she had her certificates translated and submitted them to the Upper Rhine Chamber of Industry and Commerce.",
+      "russian": "После консультации в Федеральном агентстве по труду она перевела свои сертификаты и сдала их в Промышленно-торговую палату Верхнего Рейна.",
+      "farsi": "پس از مشاوره با آژانس کاریابی فدرال، او مدارکش را ترجمه کرد و آن‌ها را به اتاق صنعت و بازرگانی راین علیا ارائه داد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Da in ihren Zeugnissen genaue Informationen über die Inhalte ihrer Ausbildung fehlten, musste sie eine sogenannte Qualifikationsanalyse machen.",
+      "english": "Since her certificates lacked detailed information about the content of her training, she had to undergo a so-called qualification analysis.",
+      "russian": "Так как в её сертификатах не было точной информации о содержании её обучения, ей пришлось пройти так называемый анализ квалификации.",
+      "farsi": "چون در مدارک او اطلاعات دقیقی درباره محتوای آموزش‌هایش وجود نداشت، مجبور شد یک تحلیل مهارتی انجام دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das heißt, sie musste ein Menü mit drei Gängen kochen und es gab ein Fachgespräch mit Prüferinnen und Prüfern von der IHK.",
+      "english": "This meant she had to cook a three-course menu and have a professional discussion with examiners from the IHK.",
+      "russian": "Это означало, что ей нужно было приготовить трёхблюдное меню и провести профессиональную беседу с экзаменаторами из IHK.",
+      "farsi": "این یعنی باید یک منوی سه‌گانه بپزد و با بازرس‌های اتاق صنعت و بازرگانی گفت‌وگوی تخصصی داشته باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das war gar nicht so einfach, aber ich habe mich gut vorbereitet.",
+      "english": "That wasn't easy at all, but I prepared well.",
+      "russian": "Это было совсем не просто, но я хорошо подготовилась.",
+      "farsi": "این اصلاً آسان نبود، اما من خوب آماده شدم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe das Menü vorher im Restaurant für meine Kolleginnen und Kollegen gekocht.",
+      "english": "I cooked the menu beforehand in the restaurant for my colleagues.",
+      "russian": "Я заранее приготовила меню в ресторане для своих коллег.",
+      "farsi": "من قبلاً این منو را در رستوران برای همکارانم پختم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vor dem Fachgespräch war ich sehr aufgeregt, aber die Prüferinnen und Prüfer waren sehr freundlich.",
+      "english": "I was very nervous before the professional discussion, but the examiners were very friendly.",
+      "russian": "Перед профессиональной беседой я очень волновалась, но экзаменаторы были очень дружелюбны.",
+      "farsi": "قبل از گفت‌وگوی تخصصی خیلی هیجان‌زده بودم، اما بازرس‌ها خیلی دوستانه رفتار کردند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Jetzt hat sie eine Stelle als Köchin.",
+      "english": "Now she has a position as a chef.",
+      "russian": "Теперь у неё есть должность повара.",
+      "farsi": "حالا او یک شغل به‌عنوان آشپز دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie sagt: \"Ich bin sehr froh, dass ich die Prüfung gemacht habe. Jetzt habe ich eine gute Stelle mit einem guten Gehalt.\"",
+      "english": "She says, \"I am very glad that I took the exam. Now I have a good job with a good salary.\"",
+      "russian": "Она говорит: \"Я очень рада, что сдала экзамен. Теперь у меня хорошая работа с хорошей зарплатой.\"",
+      "farsi": "او می‌گوید: \"خیلی خوشحالم که در آزمون شرکت کردم. حالا یک شغل خوب با حقوق مناسب دارم.\""
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
       "sentence": "Guten Tag. Was kann ich für Sie tun?",
       "english": "Good day. How can I help you?",
       "russian": "Здравствуйте. Чем я могу вам помочь?",
@@ -1052,6 +1220,358 @@
       "english": "But I haven't received recognition for my training yet.",
       "russian": "Но я еще не получил признания своей квалификации.",
       "farsi": "اما هنوز مدرکم به رسمیت شناخته نشده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Busfahrer*in werden in fünf Monaten!",
+      "english": "Become a bus driver in five months!",
+      "russian": "Станьте водителем автобуса за пять месяцев!",
+      "farsi": "در عرض پنج ماه راننده اتوبوس شوید!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Busfahrer*innen werden dringend benötigt.",
+      "english": "Bus drivers are urgently needed.",
+      "russian": "Водители автобусов срочно требуются.",
+      "farsi": "رانندگان اتوبوس به شدت مورد نیاز هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In unserer Umschulung machen Sie den Führerschein Klasse D/DE.",
+      "english": "In our retraining program, you will obtain the Class D/DE driver's license.",
+      "russian": "На наших курсах переподготовки вы получите водительское удостоверение категории D/DE.",
+      "farsi": "در دوره آموزش مجدد ما، گواهینامه رانندگی کلاس D/DE را دریافت می‌کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Umschulung dauert fünf Monate.",
+      "english": "The retraining program lasts five months.",
+      "russian": "Курс переподготовки длится пять месяцев.",
+      "farsi": "دوره آموزش مجدد پنج ماه طول می‌کشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Umschulung kann mit einem Bildungsgutschein von der Agentur für Arbeit zu 100 % gefördert werden.",
+      "english": "The retraining program can be 100% funded with an education voucher from the Employment Agency.",
+      "russian": "Курс переподготовки может быть полностью оплачен с помощью образовательного ваучера от Агентства по трудоустройству.",
+      "farsi": "دوره آموزش مجدد می‌تواند با یک کوپن آموزشی از آژانس کار به طور کامل تأمین مالی شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie müssen mindestens 21 Jahre alt sein und den PKW-Führerschein Klasse B haben.",
+      "english": "You must be at least 21 years old and have a Class B driver's license.",
+      "russian": "Вам должно быть не менее 21 года, и у вас должно быть водительское удостоверение категории B.",
+      "farsi": "شما باید حداقل ۲۱ سال داشته باشید و گواهینامه رانندگی کلاس B داشته باشید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nächster Starttermin: 24.04.2025",
+      "english": "Next start date: 24.04.2025",
+      "russian": "Следующая дата начала: 24.04.2025",
+      "farsi": "تاریخ شروع بعدی: ۲۴.۰۴.۲۰۲۵"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Umschulung zum/zur Berufskraftfahrer*in",
+      "english": "Retraining as a professional truck driver",
+      "russian": "Переобучение на профессионального водителя грузовика",
+      "farsi": "آموزش مجدد برای رانندگی حرفه‌ای کامیون"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Werden Sie Berufskraftfahrer*in und machen Sie den Führerschein Klasse CE.",
+      "english": "Become a professional truck driver and obtain the Class CE driver's license.",
+      "russian": "Станьте профессиональным водителем грузовика и получите водительское удостоверение категории CE.",
+      "farsi": "راننده حرفه‌ای کامیون شوید و گواهینامه کلاس CE را دریافت کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mit diesem Führerschein können Sie alle großen LKWs fahren.",
+      "english": "With this license, you can drive all large trucks.",
+      "russian": "С этим водительским удостоверением вы можете управлять всеми большими грузовиками.",
+      "farsi": "با این گواهینامه می‌توانید تمامی کامیون‌های بزرگ را برانید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Ausbildung dauert ca. sechs Monate und findet in Vollzeit montags bis freitags von 8:00 bis 15:00 Uhr statt.",
+      "english": "The training lasts about six months and takes place full-time from Monday to Friday from 8:00 to 15:00.",
+      "russian": "Обучение длится около шести месяцев и проводится на полный рабочий день с понедельника по пятницу с 8:00 до 15:00.",
+      "farsi": "آموزش حدود شش ماه طول می‌کشد و به صورت تمام‌وقت از دوشنبه تا جمعه از ساعت ۸:۰۰ تا ۱۵:۰۰ برگزار می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Eine Förderung durch die Agentur für Arbeit (Arbeitsamt) ist möglich.",
+      "english": "Funding by the Employment Agency (Job Center) is possible.",
+      "russian": "Финансирование через Агентство по трудоустройству (биржу труда) возможно.",
+      "farsi": "تأمین مالی از سوی آژانس کار (اداره کار) ممکن است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mindestalter: 21 Jahre",
+      "english": "Minimum age: 21 years",
+      "russian": "Минимальный возраст: 21 год",
+      "farsi": "حداقل سن: ۲۱ سال"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Weiterbildung zum/zur Pflegehelfer*in",
+      "english": "Further training as a nursing assistant",
+      "russian": "Дополнительное обучение на помощника по уходу",
+      "farsi": "آموزش تکمیلی برای کمک‌پرستاری"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mit dem Pflegebasiskurs erhalten Sie in zwölf Wochen einen anerkannten Abschluss, um sofort im Pflegeberuf arbeiten zu können.",
+      "english": "With the basic nursing course, you will receive a recognized qualification in twelve weeks to start working in the nursing profession immediately.",
+      "russian": "Пройдя базовый курс по уходу, вы получите признанную квалификацию за двенадцать недель, чтобы сразу начать работать в этой профессии.",
+      "farsi": "با گذراندن دوره پایه پرستاری، در مدت دوازده هفته مدرک معتبری دریافت می‌کنید که به شما امکان می‌دهد فوراً در حرفه پرستاری کار کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Teilnehmer*innen: Arbeitssuchende mit und ohne Schul- oder Berufsabschluss",
+      "english": "Participants: Job seekers with or without a school or professional qualification",
+      "russian": "Участники: Ищущие работу с квалификацией или без нее",
+      "farsi": "شرکت‌کنندگان: جویندگان کار با یا بدون مدرک تحصیلی یا حرفه‌ای"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kursdetails: 12 Wochen inklusive Praktikum, täglich von 8:00–15:00 Uhr, 100 % Kostenübernahme mit Bildungsgutschein",
+      "english": "Course details: 12 weeks including internship, daily from 8:00 to 15:00, 100% cost coverage with an education voucher",
+      "russian": "Детали курса: 12 недель с практикой, ежедневно с 8:00 до 15:00, 100% покрытие расходов при наличии образовательного ваучера",
+      "farsi": "جزئیات دوره: ۱۲ هفته شامل دوره کارآموزی، هر روز از ساعت ۸:۰۰ تا ۱۵:۰۰، ۱۰۰٪ پوشش هزینه‌ها با کوپن آموزشی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Umschulung zum/zur Fachlagerist*in",
+      "english": "Retraining as a warehouse operator",
+      "russian": "Переобучение на складского специалиста",
+      "farsi": "آموزش مجدد برای کارشناس انبارداری"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Fachlagerist*innen werden immer gebraucht.",
+      "english": "Warehouse operators are always needed.",
+      "russian": "Складские специалисты всегда востребованы.",
+      "farsi": "متخصصان انبارداری همیشه مورد نیاز هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Fachlagerist*innen nehmen Waren an und prüfen sie.",
+      "english": "Warehouse operators receive and inspect goods.",
+      "russian": "Складские специалисты принимают и проверяют товары.",
+      "farsi": "متخصصان انبارداری کالاها را دریافت و بازرسی می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie verpacken Waren, die verschickt werden, und beladen die LKWs.",
+      "english": "They pack goods to be shipped and load the trucks.",
+      "russian": "Они упаковывают товары для отправки и загружают грузовики.",
+      "farsi": "آن‌ها کالاهایی که قرار است ارسال شوند را بسته‌بندی می‌کنند و کامیون‌ها را بارگیری می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Voraussetzung: Bildungsgutschein von der Agentur für Arbeit",
+      "english": "Requirement: Education voucher from the Employment Agency",
+      "russian": "Требование: образовательный ваучер от агентства по трудоустройству",
+      "farsi": "پیش‌نیاز: کوپن آموزشی از اداره کار"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dauer: 151 Tage",
+      "english": "Duration: 151 days",
+      "russian": "Продолжительность: 151 день",
+      "farsi": "مدت زمان: ۱۵۱ روز"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Weiterbildung für Pflegefachkräfte zur Pflegeberater*in",
+      "english": "Further training for nursing professionals to become care consultants",
+      "russian": "Повышение квалификации для специалистов по уходу до консультантов по уходу",
+      "farsi": "آموزش تکمیلی برای پرستاران حرفه‌ای به منظور مشاور پرستاری"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Als Pflegeberater*in helfen Sie Menschen, die Pflege brauchen.",
+      "english": "As a care consultant, you help people who need care.",
+      "russian": "Как консультант по уходу вы помогаете людям, которым требуется уход.",
+      "farsi": "به‌عنوان مشاور پرستاری، به افرادی که نیاز به مراقبت دارند کمک می‌کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie unterstützen dabei, passende Pflegeleistungen zu finden.",
+      "english": "You assist in finding suitable care services.",
+      "russian": "Вы помогаете находить подходящие услуги по уходу.",
+      "farsi": "شما در یافتن خدمات مراقبتی مناسب کمک می‌کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Weiterbildung richtet sich an Menschen, die im Gesundheitswesen arbeiten, zum Beispiel als Altenpfleger*innen.",
+      "english": "The training is aimed at people working in healthcare, for example, as geriatric nurses.",
+      "russian": "Повышение квалификации предназначено для людей, работающих в сфере здравоохранения, например, для геронтологов.",
+      "farsi": "این آموزش ویژه افرادی است که در حوزه سلامت کار می‌کنند، مثلاً به‌عنوان پرستاران سالمندان."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ausbildung Gabelstaplerfahrer*in",
+      "english": "Training as a forklift driver",
+      "russian": "Обучение на водителя вилочного погрузчика",
+      "farsi": "آموزش رانندگی لیفتراک"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Als Gabelstaplerfahrer*in transportieren Sie Waren mithilfe von Gabelstaplern.",
+      "english": "As a forklift driver, you transport goods using forklifts.",
+      "russian": "Как водитель вилочного погрузчика вы перевозите товары с помощью погрузчиков.",
+      "farsi": "به‌عنوان راننده لیفتراک، کالاها را با استفاده از لیفتراک حمل می‌کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie arbeiten bei Speditionen und Logistikfirmen in Lagerhallen.",
+      "english": "You work for freight and logistics companies in warehouses.",
+      "russian": "Вы работаете в транспортных и логистических компаниях на складах.",
+      "farsi": "شما در شرکت‌های حمل‌ونقل و لجستیک در انبارها کار می‌کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Ausbildung dauert fünf Tage und besteht aus einem Theorie- und einem Praxisteil.",
+      "english": "The training lasts five days and includes both theoretical and practical components.",
+      "russian": "Обучение длится пять дней и включает теоретическую и практическую части.",
+      "farsi": "این دوره آموزشی پنج روز طول می‌کشد و شامل بخش‌های نظری و عملی است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Beginn: monatlich, Termine auf Anfrage",
+      "english": "Start: monthly, dates on request",
+      "russian": "Начало: ежемесячно, даты по запросу",
+      "farsi": "شروع: ماهانه، تاریخ‌ها به درخواست"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Unsere Fortbildungen können durch die Agentur für Arbeit gefördert werden.",
+      "english": "Our training courses can be funded by the Employment Agency.",
+      "russian": "Наши курсы повышения квалификации могут быть профинансированы агентством по трудоустройству.",
+      "farsi": "دوره‌های آموزشی ما می‌توانند توسط اداره کار تأمین مالی شوند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Immer noch typische Frauen- und Männerberufe?",
+      "english": "Are there still typical jobs for women and men?",
+      "russian": "Все еще существуют типичные профессии для женщин и мужчин?",
+      "farsi": "آیا هنوز شغل‌های معمول برای زنان و مردان وجود دارد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die gute Nachricht ist, dass heute deutlich mehr Frauen als früher einen Beruf ausüben.",
+      "english": "The good news is that today significantly more women work than in the past.",
+      "russian": "Хорошая новость в том, что сегодня значительно больше женщин работают, чем раньше.",
+      "farsi": "خبر خوب این است که امروزه زنان بسیار بیشتری نسبت به گذشته شاغل هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber es gibt noch immer Branchen, in denen fast nur Frauen oder fast nur Männer arbeiten.",
+      "english": "But there are still industries where almost only women or only men work.",
+      "russian": "Но все еще есть отрасли, где работают почти исключительно женщины или мужчины.",
+      "farsi": "اما هنوز هم صنایعی وجود دارند که تقریباً فقط زنان یا فقط مردان در آن‌ها کار می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "So sind in den Erziehungs- und sozialen Berufen mehr als 80 Prozent der Beschäftigten Frauen.",
+      "english": "For example, in education and social professions, more than 80 percent of the employees are women.",
+      "russian": "Например, в образовательной и социальной сферах более 80 процентов сотрудников – женщины.",
+      "farsi": "برای مثال، در مشاغل آموزشی و اجتماعی، بیش از ۸۰ درصد کارکنان زن هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In der Kindertagespflege arbeiten zum Beispiel rund 95 Prozent Frauen.",
+      "english": "For instance, around 95 percent of childcare workers are women.",
+      "russian": "Например, в детских садах около 95 процентов работников – женщины.",
+      "farsi": "برای مثال، حدود ۹۵ درصد از کارکنان مراقبت از کودکان زنان هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Auch in den Gesundheitsberufen wie z.B. in der Pflege sowie im Einzelhandel arbeiten wesentlich mehr Frauen als Männer.",
+      "english": "In health professions, such as nursing, and in retail, significantly more women work than men.",
+      "russian": "Также в медицинских профессиях, таких как уход за больными, и в розничной торговле работают значительно больше женщин, чем мужчин.",
+      "farsi": "همچنین در حرفه‌های مرتبط با سلامت مانند پرستاری و در بخش خرده‌فروشی، تعداد زنان شاغل بسیار بیشتر از مردان است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Auf dem Bau arbeiten allerdings fast nur Männer.",
+      "english": "However, in construction, almost only men work.",
+      "russian": "Однако в строительной отрасли работают почти исключительно мужчины.",
+      "farsi": "اما در بخش ساختمان‌سازی، تقریباً فقط مردان کار می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dort arbeiten weniger als zwei Prozent Frauen.",
+      "english": "There, less than two percent of the workers are women.",
+      "russian": "Там работают менее двух процентов женщин.",
+      "farsi": "در آنجا کمتر از دو درصد از کارکنان زن هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Männer dominieren auch im Handwerk und in der Industrie.",
+      "english": "Men also dominate in crafts and industry.",
+      "russian": "Мужчины также доминируют в ремесленных и промышленных профессиях.",
+      "farsi": "مردان همچنین در حرفه‌های دستی و صنعتی غالب هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In den Handwerksberufen beträgt der Frauenanteil nur etwas mehr als zehn Prozent und in der Automobilbranche beträgt er beispielsweise nur etwa 14 Prozent.",
+      "english": "In craft professions, the proportion of women is only slightly more than ten percent, and in the automotive industry, for example, it is only about 14 percent.",
+      "russian": "В ремесленных профессиях доля женщин составляет чуть более десяти процентов, а в автомобильной отрасли, например, около 14 процентов.",
+      "farsi": "در حرفه‌های دستی، سهم زنان تنها کمی بیش از ده درصد است و در صنعت خودروسازی، برای مثال، حدود ۱۴ درصد است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Bundesregierung möchte das ändern und unterstützt vor allem junge Frauen, die in sogenannten 'Männerberufen' arbeiten möchten.",
+      "english": "The federal government wants to change this and supports especially young women who want to work in so-called 'male professions.'",
+      "russian": "Федеральное правительство хочет изменить это и поддерживает молодых женщин, которые хотят работать в так называемых 'мужских профессиях.'",
+      "farsi": "دولت فدرال می‌خواهد این وضعیت را تغییر دهد و به‌ویژه از زنان جوانی که می‌خواهند در حرفه‌های موسوم به 'مردانه' کار کنند، حمایت می‌کند."
     }
   ]
 }

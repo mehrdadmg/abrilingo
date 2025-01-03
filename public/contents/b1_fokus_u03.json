@@ -1,0 +1,1161 @@
+{
+  "info": {
+    "name": "B1_Fokus_u03",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Letzter Aufruf für die Fluggäste Birol, Dubois und Kobayashi, gebucht auf den Flug AirX 2455 nach Hamburg: Bitte begeben Sie sich umgehend zum Gate C21.",
+      "english": "Final call for passengers Birol, Dubois, and Kobayashi, booked on flight AirX 2455 to Hamburg: Please proceed immediately to gate C21.",
+      "russian": "Последний вызов для пассажиров Бирол, Дюбуаз и Кобаяси, забронировавших рейс AirX 2455 в Гамбург: Пожалуйста, немедленно пройдите к выходу C21.",
+      "farsi": "آخرین فراخوان برای مسافران بی‌رل، دوبوآ و کوبایاشی که در پرواز AirX 2455 به مقصد هامبورگ ثبت‌نام کرده‌اند: لطفاً فوراً به گیت C21 مراجعه کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Liebe Kundinnen und Kunden, haben Sie Lust, Teil unseres Teams zu werden?",
+      "english": "Dear customers, are you interested in becoming part of our team?",
+      "russian": "Уважаемые клиенты, хотите ли вы стать частью нашей команды?",
+      "farsi": "مشتریان عزیز، آیا علاقه دارید که بخشی از تیم ما باشید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir suchen Mitarbeiterinnen und Mitarbeiter für die Kassen, das Auffüllen der Regale sowie Reinigungskräfte für den Abend.",
+      "english": "We are looking for cashiers, shelf stockers, and evening cleaning staff.",
+      "russian": "Мы ищем кассиров, сотрудников для заполнения полок и вечерний уборочный персонал.",
+      "farsi": "ما به دنبال صندوقداران، مسئولان پر کردن قفسه‌ها و نیروهای نظافتچی برای شب هستیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie können bei uns in Vollzeit, Teilzeit oder auf 520-Euro-Basis arbeiten.",
+      "english": "You can work with us full-time, part-time, or on a 520-euro basis.",
+      "russian": "Вы можете работать у нас на полный рабочий день, неполный рабочий день или на основе 520 евро.",
+      "farsi": "شما می‌توانید به صورت تمام‌وقت، نیمه‌وقت یا بر اساس حقوق ۵۲۰ یورو در ماه با ما کار کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Melden Sie sich bei unserem Marktleiter Herrn Kowalski.",
+      "english": "Please contact our store manager, Mr. Kowalski.",
+      "russian": "Обратитесь к нашему управляющему магазина, господину Ковальски.",
+      "farsi": "لطفاً با مدیر فروشگاه ما، آقای کوالسکی تماس بگیرید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sehr geehrte Fahrgäste, bitte beachten Sie: Am fünften und sechsten April halten die Regionalzüge wegen Bauarbeiten nicht zwischen Mannheim und Darmstadt.",
+      "english": "Dear passengers, please note: On April 5th and 6th, regional trains will not stop between Mannheim and Darmstadt due to construction work.",
+      "russian": "Уважаемые пассажиры, обратите внимание: 5 и 6 апреля региональные поезда не будут останавливаться между Мангеймом и Дармштадтом из-за строительных работ.",
+      "farsi": "مسافران گرامی، لطفاً توجه داشته باشید: در روزهای ۵ و ۶ آوریل، قطارهای منطقه‌ای به دلیل کارهای ساختمانی بین مانهایم و دارمشتات توقف نخواهند داشت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ein Schienenersatzverkehr ist eingerichtet.",
+      "english": "A rail replacement service has been arranged.",
+      "russian": "Организован автобусный транспорт на замену поездам.",
+      "farsi": "خدمات جایگزین ریلی (اتوبوس) ترتیب داده شده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Weitere Informationen erhalten Sie auf unserer Webseite ...",
+      "english": "Further information can be found on our website ...",
+      "russian": "Дополнительную информацию вы найдете на нашем сайте ...",
+      "farsi": "اطلاعات بیشتر را می‌توانید در وب‌سایت ما پیدا کنید ..."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vor 30 Jahren haben mein Mann und ich unsere Speditionsfirma gegründet.",
+      "english": "Thirty years ago, my husband and I founded our logistics company.",
+      "russian": "30 лет назад мой муж и я основали нашу транспортную компанию.",
+      "farsi": "سی سال پیش، من و همسرم شرکت حمل‌ونقل خود را تأسیس کردیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben mit zwei Möbeltransportern angefangen.",
+      "english": "We started with two furniture trucks.",
+      "russian": "Мы начали с двух мебельных грузовиков.",
+      "farsi": "ما با دو کامیون حمل اثاثیه شروع کردیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir sind heute eine mittelgroße Spedition mit 70 LKWs und 220 festen Angestellten.",
+      "english": "Today, we are a medium-sized logistics company with 70 trucks and 220 permanent employees.",
+      "russian": "Сегодня мы средняя транспортная компания с 70 грузовиками и 220 постоянными сотрудниками.",
+      "farsi": "امروز ما یک شرکت حمل‌ونقل متوسط با ۷۰ کامیون و ۲۲۰ کارمند دائمی هستیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Zuerst waren wir nur in Deutschland unterwegs, heute transportieren wir Waren durch die gesamte Europäische Union.",
+      "english": "Initially, we operated only in Germany, but today we transport goods throughout the entire European Union.",
+      "russian": "Сначала мы работали только в Германии, а сегодня перевозим товары по всему Европейскому Союзу.",
+      "farsi": "در ابتدا فقط در آلمان فعالیت می‌کردیم، اما امروز کالاها را در سراسر اتحادیه اروپا حمل می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Außerdem bieten wir unseren Kundinnen und Kunden die Möglichkeit, Lagerflächen zu mieten.",
+      "english": "We also offer our customers the option to rent storage space.",
+      "russian": "Кроме того, мы предлагаем нашим клиентам возможность арендовать складские помещения.",
+      "farsi": "علاوه بر این، ما به مشتریان خود امکان اجاره فضای انبار را ارائه می‌دهیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Unser Lager ist ungefähr 4.000 qm groß.",
+      "english": "Our warehouse is approximately 4,000 square meters in size.",
+      "russian": "Наш склад имеет площадь около 4000 квадратных метров.",
+      "farsi": "انبار ما تقریباً ۴۰۰۰ متر مربع وسعت دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Als Geschäftsführerin habe ich viel Verantwortung:",
+      "english": "As a managing director, I have a lot of responsibility:",
+      "russian": "Как управляющий директор, я несу большую ответственность:",
+      "farsi": "به عنوان مدیرعامل، مسئولیت‌های زیادی بر عهده دارم:"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich führe Bewerbungsgespräche, stelle Personal ein und kümmere mich um die Verträge mit Großkunden, wie z.B. Supermarktketten.",
+      "english": "I conduct job interviews, hire staff, and handle contracts with major clients, such as supermarket chains.",
+      "russian": "Я провожу собеседования, нанимаю персонал и занимаюсь контрактами с крупными клиентами, например, с сетями супермаркетов.",
+      "farsi": "من مصاحبه‌های شغلی انجام می‌دهم، پرسنل را استخدام می‌کنم و به قراردادها با مشتریان بزرگ، مانند زنجیره‌های سوپرمارکت، رسیدگی می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Leider mussten wir in den letzten Monaten Aufträge ablehnen, denn wir haben Probleme, Personal zu finden.",
+      "english": "Unfortunately, we had to decline orders in recent months because we have difficulty finding staff.",
+      "russian": "К сожалению, в последние месяцы нам пришлось отказываться от заказов, потому что у нас проблемы с поиском персонала.",
+      "farsi": "متأسفانه، در ماه‌های اخیر مجبور شدیم سفارش‌ها را رد کنیم زیرا در یافتن پرسنل مشکل داریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich muss viele Überstunden machen und mein Mann und ich mussten unseren Urlaub verschieben.",
+      "english": "I have to work a lot of overtime, and my husband and I had to postpone our vacation.",
+      "russian": "Мне приходится много работать сверхурочно, и мой муж и я были вынуждены отложить наш отпуск.",
+      "farsi": "من مجبورم ساعات اضافی زیادی کار کنم و من و همسرم مجبور شدیم تعطیلاتمان را به تعویق بیندازیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Als Disponent organisiere ich den Gütertransport und teile unsere Fahrer und LKWs ein.",
+      "english": "As a dispatcher, I organize freight transport and assign our drivers and trucks.",
+      "russian": "В качестве диспетчера я организую грузовые перевозки и распределяю наших водителей и грузовики.",
+      "farsi": "به عنوان مسئول توزیع، من حمل‌ونقل کالا را سازماندهی می‌کنم و رانندگان و کامیون‌هایمان را تخصیص می‌دهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich arbeite nicht im Hauptsitz unserer Firma in Hamburg, sondern in der Filiale in Bremen.",
+      "english": "I do not work at our company's headquarters in Hamburg but at the branch in Bremen.",
+      "russian": "Я работаю не в головном офисе нашей компании в Гамбурге, а в филиале в Бремене.",
+      "farsi": "من در دفتر مرکزی شرکت‌مان در هامبورگ کار نمی‌کنم، بلکه در شعبه آن در برمن کار می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin für die Spezialtransporte zuständig.",
+      "english": "I am responsible for special transports.",
+      "russian": "Я отвечаю за специальные перевозки.",
+      "farsi": "من مسئول حمل‌ونقل‌های ویژه هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Unsere Firma bietet neben dem üblichen Geschäft mit Umzügen oder Lieferungen für Supermärkte auch Schwertransporte an, für die man eine besondere Genehmigung von den Behörden braucht.",
+      "english": "In addition to the usual business of moving or deliveries for supermarkets, our company also offers heavy transports, which require special authorization from the authorities.",
+      "russian": "Наша компания, помимо обычной деятельности по переездам или поставкам для супермаркетов, также предлагает перевозки тяжеловесных грузов, для которых требуется специальное разрешение от властей.",
+      "farsi": "شرکت ما علاوه بر فعالیت‌های معمولی مثل اسباب‌کشی یا تحویل کالا به سوپرمارکت‌ها، حمل‌ونقل‌های سنگین نیز ارائه می‌دهد که به مجوز ویژه از مراجع نیاز دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Firma hat leider Personalprobleme und deshalb musste ich in den letzten Monaten oft länger arbeiten.",
+      "english": "Unfortunately, the company has personnel problems, so I often had to work longer hours in recent months.",
+      "russian": "К сожалению, у компании проблемы с персоналом, поэтому мне часто приходилось работать дольше в последние месяцы.",
+      "farsi": "متأسفانه شرکت با مشکلات پرسنلی مواجه است، بنابراین در ماه‌های اخیر اغلب مجبور بودم ساعات بیشتری کار کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das hat aber auch einen Vorteil, denn für die Überstunden bekomme ich Freizeitausgleich.",
+      "english": "However, this also has an advantage because I get compensatory time off for the overtime.",
+      "russian": "Но в этом есть и преимущество, так как за сверхурочную работу я получаю компенсацию свободным временем.",
+      "farsi": "اما این یک مزیت هم دارد، زیرا برای ساعات اضافی، زمان استراحت جبرانی دریافت می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Den kann ich nutzen, um mit meiner Freundin im September und Oktober eine längere Reise zu machen.",
+      "english": "I can use that to take a longer trip with my girlfriend in September and October.",
+      "russian": "Я могу использовать это, чтобы отправиться в более длительное путешествие с моей подругой в сентябре и октябре.",
+      "farsi": "می‌توانم از آن استفاده کنم تا در ماه‌های سپتامبر و اکتبر با دوست دخترم یک سفر طولانی‌تر انجام دهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich hatte schon immer vor, große LKWs zu fahren.",
+      "english": "I always intended to drive large trucks.",
+      "russian": "Я всегда хотел водить большие грузовики.",
+      "farsi": "من همیشه قصد داشتم کامیون‌های بزرگ را برانم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Seit zwei Jahren arbeite ich jetzt bei Huning als Fahrer.",
+      "english": "I have been working at Huning as a driver for two years now.",
+      "russian": "Уже два года я работаю водителем в компании Huning.",
+      "farsi": "من اکنون دو سال است که به عنوان راننده در شرکت Huning کار می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Früher habe ich bei einer kleinen Speditionsfirma gearbeitet, die nur zehn Transportfahrzeuge und 25 Mitarbeitende hatte.",
+      "english": "Previously, I worked at a small logistics company that had only ten transport vehicles and 25 employees.",
+      "russian": "Раньше я работал в небольшой транспортной компании, у которой было только десять грузовиков и 25 сотрудников.",
+      "farsi": "قبلاً در یک شرکت کوچک حمل‌ونقل کار می‌کردم که فقط ده خودرو حمل‌ونقل و ۲۵ کارمند داشت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Arbeit dort war langweilig, denn ich habe immer nur in Hamburg und Umgebung Wäsche von Krankenhäusern und Hotels abgeholt und in eine Wäscherei gefahren und die saubere Wäsche zurückgebracht.",
+      "english": "The work there was boring because I only collected laundry from hospitals and hotels in Hamburg and the surrounding area, took it to a laundry facility, and brought the clean laundry back.",
+      "russian": "Работа там была скучной, так как я только забирал белье из больниц и отелей в Гамбурге и его окрестностях, отвозил его в прачечную и привозил обратно чистое белье.",
+      "farsi": "کار در آنجا خسته‌کننده بود زیرا فقط لباس‌های شسته‌شده از بیمارستان‌ها و هتل‌های هامبورگ و اطرافش را جمع‌آوری می‌کردم، به یک خشک‌شویی می‌بردم و لباس‌های تمیز را برمی‌گرداندم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bei der Huning GmbH ist die Arbeit viel interessanter.",
+      "english": "The work at Huning GmbH is much more interesting.",
+      "russian": "Работа в Huning GmbH намного интереснее.",
+      "farsi": "کار در شرکت Huning GmbH بسیار جالب‌تر است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich komme als Fahrer von Schwertransporten in viele europäische Länder.",
+      "english": "As a heavy transport driver, I travel to many European countries.",
+      "russian": "Как водитель тяжеловесных перевозок, я путешествую по многим европейским странам.",
+      "farsi": "به عنوان راننده حمل‌ونقل سنگین، به بسیاری از کشورهای اروپایی سفر می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich muss oft nachts arbeiten, denn die Güter, die wir transportieren, sind sehr lang oder sehr breit.",
+      "english": "I often have to work at night because the goods we transport are very long or very wide.",
+      "russian": "Мне часто приходится работать ночью, так как грузы, которые мы перевозим, очень длинные или очень широкие.",
+      "farsi": "اغلب باید شب‌ها کار کنم زیرا کالاهایی که حمل می‌کنیم بسیار بلند یا بسیار پهن هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn man sie am Tag transportiert, behindern sie den Verkehr.",
+      "english": "If they are transported during the day, they obstruct traffic.",
+      "russian": "Если их перевозить днем, они мешают движению.",
+      "farsi": "اگر این کالاها در روز جابجا شوند، باعث اختلال در ترافیک می‌شوند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bekomme neben meinem normalen Gehalt auch Nachtzuschläge.",
+      "english": "In addition to my regular salary, I also receive night shift bonuses.",
+      "russian": "Помимо моей обычной зарплаты, я также получаю надбавки за ночные смены.",
+      "farsi": "علاوه بر حقوق معمولم، پاداش‌های شب‌کاری نیز دریافت می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Jessica, wir müssen noch über unsere Urlaubszeiten sprechen.",
+      "english": "Jessica, we still need to talk about our vacation times.",
+      "russian": "Джессика, нам еще нужно обсудить наши отпуска.",
+      "farsi": "جسیکا، ما هنوز باید درباره زمان تعطیلاتمان صحبت کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die anderen Kollegen haben jetzt ihren Plan festgelegt, so dass sie mit ihren Kindern wegfahren können.",
+      "english": "The other colleagues have now finalized their plans so they can go away with their children.",
+      "russian": "Остальные коллеги уже утвердили свои планы, чтобы они могли поехать с детьми.",
+      "farsi": "بقیه همکاران برنامه‌هایشان را مشخص کرده‌اند تا بتوانند با فرزندانشان به سفر بروند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "OK, dann kommen also wir zwei Kinderlose an die Reihe.",
+      "english": "OK, so it's our turn, the two of us without children.",
+      "russian": "Хорошо, теперь наша очередь, нас двоих без детей.",
+      "farsi": "خب، حالا نوبت ما دو نفر بدون فرزند است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Welche Möglichkeiten haben wir?",
+      "english": "What options do we have?",
+      "russian": "Какие у нас варианты?",
+      "farsi": "چه گزینه‌هایی داریم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Eigentlich ziemlich viele.",
+      "english": "Actually, quite a few.",
+      "russian": "На самом деле, довольно много.",
+      "farsi": "در واقع، گزینه‌های زیادی داریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nur Mitte August können wir keinen Urlaub nehmen, da sind Ivan und Anna gleichzeitig weg.",
+      "english": "We can't take any vacation in mid-August because Ivan and Anna are away at the same time.",
+      "russian": "Только в середине августа мы не можем брать отпуск, так как Иван и Анна будут отсутствовать одновременно.",
+      "farsi": "فقط در اواسط آگوست نمی‌توانیم مرخصی بگیریم چون ایوان و آنا همزمان نیستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "OK, das ist für mich kein Problem.",
+      "english": "OK, that's not a problem for me.",
+      "russian": "Хорошо, это не проблема для меня.",
+      "farsi": "خب، این برای من مشکلی نیست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich möchte gern Anfang Juli zwei Wochen Urlaub haben, im August kann ich keinen Urlaub nehmen, weil ich eine Fortbildung habe.",
+      "english": "I'd like to take two weeks off in early July; I can't take any vacation in August because I have training.",
+      "russian": "Я хочу взять двухнедельный отпуск в начале июля; в августе я не могу брать отпуск, так как у меня повышение квалификации.",
+      "farsi": "من می‌خواهم اوایل ژوئیه دو هفته مرخصی بگیرم؛ در آگوست نمی‌توانم مرخصی بگیرم چون دوره آموزشی دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Anfang Juli? Da möchte ich auch Urlaub machen.",
+      "english": "Early July? I'd like to take a vacation then too.",
+      "russian": "Начало июля? Я тоже хотел бы взять отпуск тогда.",
+      "farsi": "اوایل ژوئیه؟ من هم دوست دارم آن زمان مرخصی بگیرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber das ist doch kein Problem, dann sind doch die anderen drei noch da.",
+      "english": "But that's not a problem; the other three will still be here.",
+      "russian": "Но это же не проблема, остальные трое всё равно будут здесь.",
+      "farsi": "اما این مشکلی نیست؛ سه نفر دیگر هنوز اینجا هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, aber ich finde, einer von uns beiden sollte immer hier sein.",
+      "english": "Yes, but I think one of us should always be here.",
+      "russian": "Да, но я считаю, что один из нас всегда должен быть здесь.",
+      "farsi": "بله، اما من فکر می‌کنم یکی از ما همیشه باید اینجا باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Denk doch mal daran, wie oft zum Beispiel die Kinder von Ivan oder Anna krank sind und sie zu Hause bleiben müssen.",
+      "english": "Just think about how often Ivan's or Anna's children are sick, and they have to stay home.",
+      "russian": "Подумай, как часто, например, дети Ивана или Анны болеют, и им приходится оставаться дома.",
+      "farsi": "فکر کن که چقدر پیش می‌آید که بچه‌های ایوان یا آنا بیمار می‌شوند و آنها مجبورند در خانه بمانند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dann ist es immer besser, wenn einer von uns da ist, um die Arbeit der anderen zu übernehmen.",
+      "english": "It's always better if one of us is here to take over the others' work.",
+      "russian": "Тогда всегда лучше, если один из нас здесь, чтобы взять на себя работу других.",
+      "farsi": "همیشه بهتر است که یکی از ما اینجا باشد تا کار دیگران را انجام دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das stimmt. Da hast du recht.",
+      "english": "That's true. You're right.",
+      "russian": "Это правда. Ты прав.",
+      "farsi": "درسته. حق با توست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dann mach du von Anfang bis Mitte Juli Urlaub, denn deine Fortbildung ist ja wichtig.",
+      "english": "Then you take your vacation from early to mid-July, because your training is important.",
+      "russian": "Тогда бери отпуск с начала до середины июля, ведь твое обучение важно.",
+      "farsi": "پس تو از اوایل تا اواسط ژوئیه مرخصی بگیر، چون دوره آموزشی تو مهم است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich mache dann danach drei Wochen Urlaub.",
+      "english": "I'll take three weeks off after that.",
+      "russian": "А я возьму трехнедельный отпуск после этого.",
+      "farsi": "من هم بعد از آن سه هفته مرخصی می‌گیرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Prima, vielen Dank, Simon.",
+      "english": "Great, thanks a lot, Simon.",
+      "russian": "Отлично, большое спасибо, Саймон.",
+      "farsi": "عالی، خیلی ممنون، سایمون."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nächstes Jahr darfst du zuerst deine Urlaubszeiten aussuchen.",
+      "english": "Next year, you can choose your vacation times first.",
+      "russian": "В следующем году ты можешь выбрать свои отпуска первым.",
+      "farsi": "سال آینده، تو می‌توانی ابتدا زمان تعطیلاتت را انتخاب کنی."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sag mal, wann willst du eigentlich Urlaub machen?",
+      "english": "Tell me, when do you actually want to take vacation?",
+      "russian": "Скажи, когда ты вообще хочешь взять отпуск?",
+      "farsi": "بگو، وقتی تعطیلات می‌خواهی بگیری، چه زمانی است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich möchte gerne Anfang August Urlaub haben und dann insgesamt drei Wochen.",
+      "english": "I would like to take vacation at the beginning of August and then for a total of three weeks.",
+      "russian": "Я бы хотел взять отпуск в начале августа и затем на три недели.",
+      "farsi": "من دوست دارم اوایل آگوست تعطیلات بگیرم و در مجموع سه هفته مرخصی داشته باشم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich hätte auch gern Anfang August Urlaub, aber nur zwei Wochen.",
+      "english": "I would also like vacation at the beginning of August, but only for two weeks.",
+      "russian": "Я тоже хотел бы отпуск в начале августа, но только на две недели.",
+      "farsi": "من هم دوست دارم اوایل آگوست تعطیلات بگیرم، اما فقط برای دو هفته."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ana Das ist eher schlecht.",
+      "english": "Ana: That's rather bad.",
+      "russian": "Ана: Это довольно плохо.",
+      "farsi": "آنا: این کمی بد است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Einer von euch sollte wegen des IT-Systems immer hier sein, denn ihr kennt euch am besten damit aus.",
+      "english": "One of you should always be here because of the IT system, as you know it best.",
+      "russian": "Один из вас должен всегда быть здесь из-за IT-системы, так как вы лучше всех в ней разбираетесь.",
+      "farsi": "یکی از شما باید همیشه اینجا باشد به خاطر سیستم IT، چون شما بهتر از همه با آن آشنا هستید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Du hast recht. Ich kann auch anders Urlaub nehmen.",
+      "english": "You're right. I can also take vacation at a different time.",
+      "russian": "Ты прав. Я могу взять отпуск в другое время.",
+      "farsi": "حق با توست. من می‌توانم در زمان دیگری تعطیلات بگیرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich schlage vor, dass ich zuerst zwei Wochen Urlaub im Monat Juli nehme und dann kann Ivan im August in Urlaub fahren.",
+      "english": "I suggest that I first take two weeks of vacation in July, and then Ivan can go on vacation in August.",
+      "russian": "Я предлагаю, чтобы я сначала взял два недели отпуска в июле, а затем Иван мог бы поехать в отпуск в августе.",
+      "farsi": "پیشنهاد می‌کنم که من ابتدا دو هفته تعطیلات در ماه ژوئیه بگیرم و سپس ایوان می‌تواند در آگوست به تعطیلات برود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, das ist gut. Vielen Dank, Aneta.",
+      "english": "Yes, that's good. Thank you, Aneta.",
+      "russian": "Да, это хорошо. Спасибо, Анета.",
+      "farsi": "بله، خوب است. خیلی ممنون، آنتا."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und was ist mit dir, Ana?",
+      "english": "And what about you, Ana?",
+      "russian": "А что насчет тебя, Ана?",
+      "farsi": "و برای تو چطور، آنا؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ana Für mich ist eine Urlaubszeit Ende August ideal und dann brauche ich drei Wochen Urlaub.",
+      "english": "Ana: For me, a vacation at the end of August is ideal, and then I need three weeks of vacation.",
+      "russian": "Ана: Для меня отпуск в конце августа идеален, и мне нужно три недели отпуска.",
+      "farsi": "آنا: برای من تعطیلات در پایان آگوست ایده‌آل است و سپس به سه هفته تعطیلات نیاز دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ivan und ich sind also für einige Zeit gleichzeitig weg.",
+      "english": "So Ivan and I will be away at the same time for a while.",
+      "russian": "Иван и я будем отсутствовать одновременно какое-то время.",
+      "farsi": "پس ایوان و من برای مدتی همزمان غایب خواهیم بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ist das ein Problem?",
+      "english": "Is that a problem?",
+      "russian": "Это проблема?",
+      "farsi": "آیا این مشکل است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich weiß nicht genau.",
+      "english": "I'm not sure.",
+      "russian": "Я не уверен.",
+      "farsi": "دقیقاً نمی‌دانم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das bedeutet ja, dass Simon und Jessica in dieser Zeit auf keinen Fall Urlaub nehmen können, es müssen immer mindestens drei Personen in der Abteilung sein.",
+      "english": "That means Simon and Jessica cannot take vacation during that time, there always have to be at least three people in the department.",
+      "russian": "Это значит, что Саймон и Джессика не могут взять отпуск в это время, в отделе всегда должно быть минимум три человека.",
+      "farsi": "این بدین معناست که سایمون و جسیکا در این زمان نمی‌توانند تعطیلات بگیرند، همیشه باید حداقل سه نفر در بخش باشند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir könnten sie noch einmal fragen. Was meint ihr?",
+      "english": "We could ask them again. What do you think?",
+      "russian": "Мы могли бы снова спросить их. Что вы думаете?",
+      "farsi": "ما می‌توانیم دوباره از آنها بپرسیم. نظر شما چیست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich glaube, das ist nicht nötig.",
+      "english": "I don't think that's necessary.",
+      "russian": "Я думаю, что это не нужно.",
+      "farsi": "فکر نمی‌کنم این لازم باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin sicher, dass sie mit unserem Urlaubsplan einverstanden sind.",
+      "english": "I'm sure they will agree with our vacation plan.",
+      "russian": "Я уверен, что они согласны с нашим отпускным планом.",
+      "farsi": "من مطمئن هستم که آنها با برنامه تعطیلات ما موافق هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie haben ganz klar gesagt, dass wir zuerst über den Urlaub sprechen sollten, weil wir Kinder haben und uns immer an den Schulferien orientieren müssen.",
+      "english": "They clearly said that we should first talk about vacation because we have children and always have to align with school holidays.",
+      "russian": "Они четко сказали, что мы должны сначала поговорить об отпуске, потому что у нас есть дети, и мы всегда должны ориентироваться на школьные каникулы.",
+      "farsi": "آنها به وضوح گفتند که ما باید ابتدا درباره تعطیلات صحبت کنیم چون بچه داریم و همیشه باید با تعطیلات مدارس هماهنگ شویم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das ist wirklich nett von ihnen.",
+      "english": "That's really kind of them.",
+      "russian": "Это действительно мило с их стороны.",
+      "farsi": "این واقعاً از طرف آنها مهربانانه است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich denke, wir sollten ihnen die freie Auswahl geben, wenn sie außerhalb der Sommerferien Urlaub nehmen möchten.",
+      "english": "I think we should give them the freedom to choose if they want to take vacation outside of the summer holidays.",
+      "russian": "Я думаю, мы должны дать им свободу выбора, если они хотят взять отпуск в другое время, кроме летних каникул.",
+      "farsi": "فکر می‌کنم باید به آنها آزادی انتخاب بدهیم، اگر بخواهند خارج از تعطیلات تابستانی مرخصی بگیرند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, das ist eine gute Idee.",
+      "english": "Yes, that's a good idea.",
+      "russian": "Да, это хорошая идея.",
+      "farsi": "بله، این ایده خوبی است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich möchte gerne Anfang August Urlaub haben und dann insgesamt drei Wochen.",
+      "english": "I would like to take vacation at the beginning of August and then for a total of three weeks.",
+      "russian": "Я бы хотел взять отпуск в начале августа и на три недели в общей сложности.",
+      "farsi": "من دوست دارم اوایل آگوست مرخصی بگیرم و در مجموع سه هفته باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich hätte auch gern Anfang August Urlaub, aber nur zwei Wochen.",
+      "english": "I would also like vacation at the beginning of August, but only for two weeks.",
+      "russian": "Я бы тоже хотел отпуск в начале августа, но только на две недели.",
+      "farsi": "من هم دوست دارم اوایل آگوست مرخصی بگیرم، اما فقط برای دو هفته."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das ist eher schlecht.",
+      "english": "That's rather bad.",
+      "russian": "Это скорее плохо.",
+      "farsi": "این بیشتر بد است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Einer von euch sollte wegen des IT-Systems immer hier sein, denn ihr kennt euch am besten damit aus.",
+      "english": "One of you should always be here because of the IT system, as you know it best.",
+      "russian": "Кто-то из вас всегда должен быть здесь из-за IT-системы, так как вы лучше всего в этом разбираетесь.",
+      "farsi": "یکی از شما باید همیشه به خاطر سیستم آی‌تی اینجا باشد، چون شما بهتر از همه آن را می‌شناسید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Du hast recht.",
+      "english": "You're right.",
+      "russian": "Ты прав.",
+      "farsi": "تو حق داری."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich kann auch anders Urlaub nehmen.",
+      "english": "I can also take vacation at a different time.",
+      "russian": "Я могу взять отпуск в другое время.",
+      "farsi": "من می‌توانم در زمان دیگری مرخصی بگیرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich schlage vor, dass ich zuerst zwei Wochen Urlaub im Monat Juli nehme und dann kann Ivan im August in Urlaub fahren.",
+      "english": "I suggest that I first take two weeks of vacation in July, and then Ivan can go on vacation in August.",
+      "russian": "Я предлагаю, чтобы я сначала взял двухнедельный отпуск в июле, а потом Иван мог бы уйти в отпуск в августе.",
+      "farsi": "من پیشنهاد می‌کنم که ابتدا من در ماه جولای دو هفته مرخصی بگیرم و سپس ایوان در آگوست به مرخصی برود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, das ist gut. Vielen Dank, Aneta.",
+      "english": "Yes, that's good. Thank you, Aneta.",
+      "russian": "Да, это хорошо. Спасибо, Анета.",
+      "farsi": "بله، این خوب است. متشکرم، آنتا."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und was ist mit dir, Ana?",
+      "english": "And what about you, Ana?",
+      "russian": "А что с тобой, Ана?",
+      "farsi": "و تو چی، آنا؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Für mich ist eine Urlaubszeit Ende August ideal und dann brauche ich drei Wochen Urlaub.",
+      "english": "For me, a vacation at the end of August is ideal, and then I need three weeks of vacation.",
+      "russian": "Для меня идеально взять отпуск в конце августа, тогда мне нужно три недели.",
+      "farsi": "برای من، تعطیلات در پایان آگوست ایده‌آل است و سپس من به سه هفته مرخصی نیاز دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ivan und ich sind also für einige Zeit gleichzeitig weg.",
+      "english": "So Ivan and I will be away at the same time for a while.",
+      "russian": "Значит, Иван и я будем отсутствовать одновременно на некоторое время.",
+      "farsi": "پس من و ایوان برای مدتی همزمان مرخصی خواهیم بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ist das ein Problem?",
+      "english": "Is that a problem?",
+      "russian": "Это проблема?",
+      "farsi": "آیا این مشکلی است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich weiß nicht genau.",
+      "english": "I'm not sure.",
+      "russian": "Я точно не знаю.",
+      "farsi": "من مطمئن نیستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das bedeutet ja, dass Simon und Jessica während dieser Zeit auf keinen Fall Urlaub nehmen können, es müssen immer mindestens drei Personen in der Abteilung sein.",
+      "english": "That means Simon and Jessica cannot take vacation during this time, as there must always be at least three people in the department.",
+      "russian": "Это значит, что Симон и Джессика не могут взять отпуск в это время, так как в отделе всегда должно быть как минимум три человека.",
+      "farsi": "این به این معناست که سیمون و جسیکا نمی‌توانند در این مدت مرخصی بگیرند، زیرا همیشه باید حداقل سه نفر در بخش حضور داشته باشند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir könnten sie noch einmal fragen. Was meint ihr?",
+      "english": "We could ask them again. What do you think?",
+      "russian": "Мы могли бы спросить их еще раз. Что вы думаете?",
+      "farsi": "ما می‌توانیم دوباره از آنها بپرسیم. نظر شما چیست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich glaube, das ist nicht nötig.",
+      "english": "I don't think that's necessary.",
+      "russian": "Я думаю, это не обязательно.",
+      "farsi": "فکر نمی‌کنم این لازم باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin sicher, dass sie mit unserem Urlaubsplan einverstanden sind.",
+      "english": "I'm sure they will agree with our vacation plan.",
+      "russian": "Я уверен, что они согласятся с нашим планом отпусков.",
+      "farsi": "من مطمئنم که آنها با برنامه مرخصی ما موافق خواهند بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie haben ganz klar gesagt, dass wir zuerst über den Urlaub sprechen sollten, weil wir Kinder haben und uns immer an den Schulferien orientieren müssen.",
+      "english": "They clearly said that we should first talk about vacation because we have children and always have to align with school holidays.",
+      "russian": "Они четко сказали, что мы должны сначала обсудить отпуск, так как у нас есть дети и мы всегда должны учитывать школьные каникулы.",
+      "farsi": "آنها به وضوح گفتند که ما باید ابتدا درباره مرخصی صحبت کنیم، زیرا ما بچه داریم و همیشه باید با تعطیلات مدرسه هماهنگ شویم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das ist wirklich nett von ihnen.",
+      "english": "That's really kind of them.",
+      "russian": "Это действительно мило с их стороны.",
+      "farsi": "این واقعاً لطف آنهاست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich denke, wir sollten ihnen die freie Auswahl geben, wenn sie außerhalb der Sommerferien Urlaub nehmen möchten.",
+      "english": "I think we should give them the freedom to choose if they want to take vacation outside of the summer holidays.",
+      "russian": "Я думаю, мы должны дать им свободу выбора, если они хотят взять отпуск вне летних каникул.",
+      "farsi": "فکر می‌کنم ما باید به آنها آزادی انتخاب بدهیم اگر بخواهند خارج از تعطیلات تابستانی مرخصی بگیرند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, das ist eine gute Idee.",
+      "english": "Yes, that's a good idea.",
+      "russian": "Да, это хорошая идея.",
+      "farsi": "بله، این ایده خوبی است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Liebe Hörerinnen und Hörer, es ist jetzt 7.30 Uhr und viele von Ihnen sind sicher auf dem Weg zur Arbeit oder gehen gleich los.",
+      "english": "Dear listeners, it is now 7:30 a.m., and many of you are surely on your way to work or about to leave.",
+      "russian": "Дорогие слушатели, сейчас 7:30 утра, и многие из вас, вероятно, уже идут на работу или собираются выйти.",
+      "farsi": "شنوندگان عزیز، اکنون ساعت ۷:۳۰ صبح است و بسیاری از شما احتمالاً در راه کار هستید یا آماده رفتن."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Am Bahnhof Emmendingen steht mein Kollege Urs Weimar.",
+      "english": "At Emmendingen station is my colleague Urs Weimar.",
+      "russian": "На вокзале Эммединген мой коллега Урс Ваймар.",
+      "farsi": "در ایستگاه امندنینگن، همکارم اورس وایمار قرار دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er macht eine Reportage über die Wege zur Arbeit in Baden-Württemberg.",
+      "english": "He is doing a report on the ways to work in Baden-Württemberg.",
+      "russian": "Он делает репортаж о путях на работу в Баден-Вюртемберге.",
+      "farsi": "او گزارشی درباره راه‌های رسیدن به محل کار در بادن-وورتمبرگ تهیه می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Urs, hörst du mich?",
+      "english": "Urs, can you hear me?",
+      "russian": "Урс, ты меня слышишь?",
+      "farsi": "اورس، صدای من را می‌شنوی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, Janina, ich höre dich.",
+      "english": "Yes, Janina, I can hear you.",
+      "russian": "Да, Янина, я тебя слышу.",
+      "farsi": "بله، جانینا، صدایت را می‌شنوم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Guten Morgen, liebe Hörerinnen und Hörer.",
+      "english": "Good morning, dear listeners.",
+      "russian": "Доброе утро, дорогие слушатели.",
+      "farsi": "صبح بخیر، شنوندگان عزیز."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In Deutschland hat es noch nie so viele Pendlerinnen und Pendler gegeben wie heute.",
+      "english": "There have never been as many commuters in Germany as there are today.",
+      "russian": "В Германии никогда не было так много людей, ездящих на работу, как сегодня.",
+      "farsi": "در آلمان هرگز به این اندازه مسافران رفت‌وآمدی وجود نداشته که امروز وجود دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "2024 sind in Deutschland fast 60 Prozent aller Arbeitnehmer*innen zum Job gependelt.",
+      "english": "In 2024, almost 60 percent of all employees in Germany commuted to work.",
+      "russian": "В 2024 году почти 60 процентов всех работников в Германии ездили на работу.",
+      "farsi": "در سال ۲۰۲۴، تقریباً ۶۰ درصد از تمام کارکنان در آلمان به محل کار رفت‌وآمد می‌کردند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das heißt: Weit mehr als jeder zweite Arbeitnehmer arbeitet nicht in seinem Wohnort, sondern muss für seine Arbeit in einen anderen Ort fahren.",
+      "english": "That means: Far more than every second employee does not work in their place of residence but has to travel to another place for work.",
+      "russian": "Это значит, что значительно больше половины работников не работают в своем месте жительства, а вынуждены ездить в другое место для работы.",
+      "farsi": "یعنی: بیش از نیمی از کارکنان در محل سکونت خود کار نمی‌کنند و باید برای کار به جای دیگری سفر کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Viele Arbeitnehmerinnen und Arbeitnehmer brauchen so zwei oder mehr Stunden für den Weg zur Arbeit oder von der Arbeit nach Hause.",
+      "english": "Many employees spend two or more hours commuting to work or returning home.",
+      "russian": "Многие работники тратят два или более часа на дорогу до работы или обратно домой.",
+      "farsi": "بسیاری از کارکنان دو ساعت یا بیشتر برای رفتن به کار یا برگشت به خانه زمان می‌گذارند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie benutzen das Auto oder öffentliche Verkehrsmittel wie die Bahn.",
+      "english": "They use cars or public transportation such as trains.",
+      "russian": "Они используют автомобили или общественный транспорт, например, поезда.",
+      "farsi": "آنها از خودروها یا وسایل حمل‌ونقل عمومی مانند قطار استفاده می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vom Bahnhof Emmendingen fahren jeden Tag viele Leute zur Arbeit nach Freiburg oder nach Offenburg.",
+      "english": "From Emmendingen station, many people travel to work in Freiburg or Offenburg every day.",
+      "russian": "С вокзала Эммединген каждый день многие люди ездят на работу в Фрайбург или Оффенбург.",
+      "farsi": "از ایستگاه امندنینگن هر روز افراد زیادی به فرایبورگ یا افنبرگ برای کار سفر می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Neben mir steht jetzt Marika Kashia.",
+      "english": "Standing next to me now is Marika Kashia.",
+      "russian": "Рядом со мной сейчас стоит Марика Кашия.",
+      "farsi": "کنار من اکنون ماریکا کاشیا ایستاده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Frau Kashia, wohin fahren Sie?",
+      "english": "Mrs. Kashia, where are you going?",
+      "russian": "Фрау Кашия, куда вы едете?",
+      "farsi": "خانم کاشیا، به کجا می‌روید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nach Freiburg.",
+      "english": "To Freiburg.",
+      "russian": "В Фрайбург.",
+      "farsi": "به فرایبورگ."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich arbeite dort in der Uniklinik.",
+      "english": "I work there at the university hospital.",
+      "russian": "Я работаю там в университетской клинике.",
+      "farsi": "من آنجا در بیمارستان دانشگاهی کار می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Fahren Sie jedem Tag mit dem Zug?",
+      "english": "Do you take the train every day?",
+      "russian": "Вы ездите на поезде каждый день?",
+      "farsi": "آیا هر روز با قطار سفر می‌کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich nehme am liebsten den Zug nach Freiburg.",
+      "english": "I prefer taking the train to Freiburg.",
+      "russian": "Я предпочитаю ездить в Фрайбург на поезде.",
+      "farsi": "من ترجیح می‌دهم با قطار به فرایبورگ بروم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Züge haben manchmal Verspätung, trotzdem bin ich mit dem Zug auch bei Verspätungen meistens schneller in Freiburg als mit dem Auto.",
+      "english": "The trains are sometimes delayed, but even with delays, I usually get to Freiburg faster by train than by car.",
+      "russian": "Поезда иногда опаздывают, но даже с задержками я обычно быстрее добираюсь до Фрайбурга на поезде, чем на машине.",
+      "farsi": "قطارها گاهی تأخیر دارند، اما حتی با تأخیر، معمولاً با قطار سریع‌تر از ماشین به فرایبورگ می‌رسم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Außerdem bezahlt mein Arbeitgeber, also die Uniklinik, 50 % des Preises für die Karte.",
+      "english": "Moreover, my employer, the university hospital, pays 50% of the cost of the ticket.",
+      "russian": "Кроме того, мой работодатель, то есть университетская клиника, оплачивает 50% стоимости билета.",
+      "farsi": "علاوه بر این، کارفرمای من، یعنی بیمارستان دانشگاهی، ۵۰٪ از هزینه بلیط را پرداخت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie kommen Sie zum Bahnhof?",
+      "english": "How do you get to the train station?",
+      "russian": "Как вы добираетесь до вокзала?",
+      "farsi": "چگونه به ایستگاه قطار می‌رسید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein Mann bringt mich mit dem Auto zum Bahnhof hier in Emmendingen, er fährt dann weiter mit dem Auto zu seiner Arbeit.",
+      "english": "My husband drives me to the train station here in Emmendingen, then he continues to his work by car.",
+      "russian": "Мой муж отвозит меня на машине до вокзала здесь, в Эммедингене, а затем едет на работу на машине.",
+      "farsi": "شوهرم من را با ماشین به ایستگاه قطار اینجا در امندنینگن می‌برد، سپس با ماشین به محل کارش می‌رود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In Freiburg fahre ich dann noch vier Stationen mit der Straßenbahn zur Klinik.",
+      "english": "In Freiburg, I then take the tram for four more stops to the clinic.",
+      "russian": "В Фрайбурге я затем еду на трамвае ещё четыре остановки до клиники.",
+      "farsi": "در فرایبورگ، سپس چهار ایستگاه با تراموا به سمت کلینیک می‌روم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vielen Dank, Frau Kashia.",
+      "english": "Thank you very much, Mrs. Kashia.",
+      "russian": "Большое спасибо, фрау Кашия.",
+      "farsi": "خیلی ممنون، خانم کاشیا."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Entschuldigen Sie, darf ich Sie auch fragen, wohin Sie fahren?",
+      "english": "Excuse me, may I also ask where you are going?",
+      "russian": "Извините, могу я также спросить, куда вы едете?",
+      "farsi": "ببخشید، می‌توانم بپرسم شما به کجا می‌روید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber gerne.",
+      "english": "Of course.",
+      "russian": "С удовольствием.",
+      "farsi": "با کمال میل."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vielleicht sagen Sie uns zuerst Ihren Namen.",
+      "english": "Perhaps you could tell us your name first.",
+      "russian": "Может быть, сначала скажете нам своё имя?",
+      "farsi": "شاید اول نام خود را به ما بگویید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich heiße Lucie Rey, ich fahre nach Basel.",
+      "english": "My name is Lucie Rey, I am going to Basel.",
+      "russian": "Меня зовут Люси Рей, я еду в Базель.",
+      "farsi": "من لوسی ری هستم، به بازل می‌روم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich will dort eine Freundin besuchen.",
+      "english": "I want to visit a friend there.",
+      "russian": "Я хочу навестить там подругу.",
+      "farsi": "می‌خواهم آنجا به دیدار دوستی بروم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie sind also nicht auf dem Weg zur Arbeit?",
+      "english": "So, you are not on your way to work?",
+      "russian": "Итак, вы не по пути на работу?",
+      "farsi": "پس، شما در مسیر کار نیستید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nein, ich arbeite hier in Emmendingen.",
+      "english": "No, I work here in Emmendingen.",
+      "russian": "Нет, я работаю здесь, в Эммендингене.",
+      "farsi": "نه، من اینجا در امندینگن کار می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich wohne nicht weit von meinem Arbeitsplatz entfernt.",
+      "english": "I live not far from my workplace.",
+      "russian": "Я живу недалеко от своего места работы.",
+      "farsi": "من از محل کارم دور نیستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich fahre nur fünf Minuten mit dem Fahrrad zur Arbeit.",
+      "english": "I only take five minutes by bike to get to work.",
+      "russian": "Мне нужно всего пять минут на велосипеде, чтобы доехать до работы.",
+      "farsi": "فقط پنج دقیقه با دوچرخه به محل کارم می‌روم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich möchte auch gerne etwas zu dem Thema sagen.",
+      "english": "I would also like to say something about the topic.",
+      "russian": "Я тоже хотел бы что-то сказать на эту тему.",
+      "farsi": "من هم می‌خواهم چیزی درباره این موضوع بگویم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja gerne, Sie sind Herr …?",
+      "english": "Yes, of course, you are Mr. ...?",
+      "russian": "Да, конечно, вы господин ...?",
+      "farsi": "بله، البته، شما آقای ... هستید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Also, ich fahre jeden Tag mit dem Zug zur Arbeit nach Freiburg, aber ich mache das nicht gerne.",
+      "english": "So, I take the train to work in Freiburg every day, but I don't like it.",
+      "russian": "Итак, я каждый день езжу на работу во Фрайбург на поезде, но мне это не нравится.",
+      "farsi": "خب، من هر روز با قطار به فرایبورگ می‌روم، اما این را دوست ندارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Züge haben oft Verspätung, sie sind sehr voll, im Sommer funktioniert die Klimaanlage oft nicht.",
+      "english": "The trains are often delayed, they are very crowded, and in summer, the air conditioning often doesn't work.",
+      "russian": "Поезда часто опаздывают, они очень переполнены, а летом кондиционер часто не работает.",
+      "farsi": "قطارها اغلب تأخیر دارند، بسیار شلوغ هستند و در تابستان سیستم تهویه هوا اغلب کار نمی‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Auto ist aber leider keine Alternative.",
+      "english": "But unfortunately, the car is not an alternative.",
+      "russian": "Но, к сожалению, машина не является альтернативой.",
+      "farsi": "اما متأسفانه، ماشین جایگزین مناسبی نیست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es ist teurer als die Bahn, es gibt oft Stau und man findet nie einen Parkplatz.",
+      "english": "It is more expensive than the train, there are often traffic jams, and you can never find a parking spot.",
+      "russian": "Это дороже, чем поезд, часто бывают пробки, и никогда не найти парковку.",
+      "farsi": "این از قطار گران‌تر است، اغلب ترافیک وجود دارد و هرگز نمی‌توان جای پارک پیدا کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Warum ziehen Sie nicht einfach nach Freiburg?",
+      "english": "Why don't you just move to Freiburg?",
+      "russian": "Почему вы просто не переедете во Фрайбург?",
+      "farsi": "چرا به سادگی به فرایبورگ نقل مکان نمی‌کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das möchte ich gerne, aber es ist sehr schwer, in Freiburg eine Wohnung zu finden, die ich bezahlen kann.",
+      "english": "I would like to, but it is very difficult to find an apartment in Freiburg that I can afford.",
+      "russian": "Я бы хотел, но найти квартиру во Фрайбурге, которую я могу себе позволить, очень сложно.",
+      "farsi": "من دوست دارم، اما یافتن آپارتمانی در فرایبورگ که توان پرداختش را داشته باشم، بسیار سخت است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im Sommer, wenn das Wetter schön ist und es nicht regnet, fahre ich manchmal mit dem Motorrad.",
+      "english": "In summer, when the weather is nice and it doesn't rain, I sometimes take the motorcycle.",
+      "russian": "Летом, когда погода хорошая и нет дождя, я иногда езжу на мотоцикле.",
+      "farsi": "در تابستان، زمانی که هوا خوب است و باران نمی‌بارد، گاهی با موتور سیکلت می‌روم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vielen Dank für diese klaren Worte.",
+      "english": "Thank you very much for these clear words.",
+      "russian": "Большое спасибо за эти ясные слова.",
+      "farsi": "خیلی ممنون بابت این صحبت‌های واضح."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Liebe Hörerinnen und Hörer, vielleicht wollen Sie auch wissen, wie ich zur Arbeit komme.",
+      "english": "Dear listeners, perhaps you also want to know how I get to work.",
+      "russian": "Дорогие слушатели, возможно, вы тоже хотите узнать, как я добираюсь до работы.",
+      "farsi": "شنوندگان عزیز، شاید بخواهید بدانید که من چگونه به محل کار می‌روم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein Arbeitsplatz ist eigentlich in Stuttgart und da fahre ich mit der U-Bahn zur Arbeit.",
+      "english": "My workplace is actually in Stuttgart, and I take the subway to work there.",
+      "russian": "Мое рабочее место на самом деле в Штутгарте, и я езжу туда на метро.",
+      "farsi": "محل کار من در واقع در اشتوتگارت است و من با مترو به محل کار می‌روم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber ich bin nicht so oft in meinem Büro.",
+      "english": "But I am not in my office very often.",
+      "russian": "Но я не так часто бываю в своем офисе.",
+      "farsi": "اما من زیاد در دفترم حضور ندارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Für Reportagen wie diese über Wege zur Arbeit benutze ich das Auto und bin oft mehrere Tage unterwegs.",
+      "english": "For reports like this one about ways to work, I use the car and am often on the road for several days.",
+      "russian": "Для таких репортажей, как этот, о путях на работу я использую машину и часто бываю в дороге несколько дней.",
+      "farsi": "برای گزارش‌هایی مانند این درباره مسیرهای کاری، از ماشین استفاده می‌کنم و اغلب برای چندین روز در سفر هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das war's für dieses Mal, liebe Hörerinnen und Hörer.",
+      "english": "That's it for this time, dear listeners.",
+      "russian": "На этом все на этот раз, дорогие слушатели.",
+      "farsi": "این بود برای این بار، شنوندگان عزیز."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es grüßt Sie Urs Weimar.",
+      "english": "Best regards, Urs Weimar.",
+      "russian": "С наилучшими пожеланиями, Урс Веймар.",
+      "farsi": "با احترام، اورس وایمار."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und nun zurück ins Studio.",
+      "english": "And now back to the studio.",
+      "russian": "А теперь обратно в студию.",
+      "farsi": "و حالا بازگشت به استودیو."
+    }
+  ]
+}

@@ -1,0 +1,1793 @@
+{
+  "info": {
+    "name": "B1_Sprechen_Teil_1",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich heiße Anna. Mein Name ist Anna.",
+      "english": "My name is Anna. My name is Anna.",
+      "russian": "Меня зовут Анна. Меня зовут Анна.",
+      "farsi": "اسم من آنا است. اسم من آنا است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin 25 Jahre alt.",
+      "english": "I am 25 years old.",
+      "russian": "Мне 25 лет.",
+      "farsi": "من ۲۵ سال دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich komme aus der Ukraine, einem Land im Osten von Europa.",
+      "english": "I come from Ukraine, a country in Eastern Europe.",
+      "russian": "Я из Украины, страны в Восточной Европе.",
+      "farsi": "من از اوکراین، کشوری در شرق اروپا، هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin verheiratet.",
+      "english": "I am married.",
+      "russian": "Я замужем.",
+      "farsi": "من متاهل هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin ledig.",
+      "english": "I am single.",
+      "russian": "Я не замужем.",
+      "farsi": "من مجرد هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe zwei Kinder.",
+      "english": "I have two children.",
+      "russian": "У меня двое детей.",
+      "farsi": "من دو فرزند دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich arbeite als Lehrerin.",
+      "english": "I work as a teacher.",
+      "russian": "Я работаю учителем.",
+      "farsi": "من به عنوان معلم کار می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin Studentin.",
+      "english": "I am a student.",
+      "russian": "Я студентка.",
+      "farsi": "من دانشجو هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In meiner Freizeit lese ich gern.",
+      "english": "In my free time, I like to read.",
+      "russian": "В свободное время я люблю читать.",
+      "farsi": "در وقت آزاد خودم، دوست دارم کتاب بخوانم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich höre gern Musik.",
+      "english": "I like to listen to music.",
+      "russian": "Я люблю слушать музыку.",
+      "farsi": "من دوست دارم موسیقی گوش بدهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein Hobby ist Sport.",
+      "english": "My hobby is sports.",
+      "russian": "Мое хобби — спорт.",
+      "farsi": "سرگرمی من ورزش است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich spiele gern Fußball.",
+      "english": "I like to play football.",
+      "russian": "Я люблю играть в футбол.",
+      "farsi": "من فوتبال بازی کردن را دوست دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich interessiere mich für Kunst.",
+      "english": "I am interested in art.",
+      "russian": "Я интересуюсь искусством.",
+      "farsi": "من به هنر علاقه‌مند هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Meine Familie ist sehr wichtig für mich.",
+      "english": "My family is very important to me.",
+      "russian": "Моя семья очень важна для меня.",
+      "farsi": "خانواده‌ام برای من بسیار مهم است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich spreche Deutsch und Englisch.",
+      "english": "I speak German and English.",
+      "russian": "Я говорю на немецком и английском.",
+      "farsi": "من آلمانی و انگلیسی صحبت می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich lerne Deutsch seit einem Jahr.",
+      "english": "I have been learning German for a year.",
+      "russian": "Я учу немецкий язык уже год.",
+      "farsi": "من یک سال است که آلمانی یاد می‌گیرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Deutsch ist meine zweite Fremdsprache.",
+      "english": "German is my second foreign language.",
+      "russian": "Немецкий — мой второй иностранный язык.",
+      "farsi": "آلمانی زبان خارجی دوم من است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich besuche einen Sprachkurs.",
+      "english": "I attend a language course.",
+      "russian": "Я посещаю языковой курс.",
+      "farsi": "من در یک کلاس زبان شرکت می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein Ziel ist es, Deutsch fließend zu sprechen.",
+      "english": "My goal is to speak German fluently.",
+      "russian": "Моя цель — свободно говорить на немецком.",
+      "farsi": "هدف من این است که روان آلمانی صحبت کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe schon B1 bestanden.",
+      "english": "I have already passed B1.",
+      "russian": "Я уже сдал уровень B1.",
+      "farsi": "من قبلاً سطح B1 را گذرانده‌ام."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich möchte in Deutschland studieren.",
+      "english": "I want to study in Germany.",
+      "russian": "Я хочу учиться в Германии.",
+      "farsi": "من می‌خواهم در آلمان تحصیل کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich möchte in Deutschland arbeiten.",
+      "english": "I want to work in Germany.",
+      "russian": "Я хочу работать в Германии.",
+      "farsi": "من می‌خواهم در آلمان کار کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich reise gern.",
+      "english": "I like to travel.",
+      "russian": "Я люблю путешествовать.",
+      "farsi": "من دوست دارم سفر کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe schon viele Länder besucht.",
+      "english": "I have already visited many countries.",
+      "russian": "Я уже посетил много стран.",
+      "farsi": "من قبلاً به کشورهای زیادی سفر کرده‌ام."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein Lieblingsland ist Italien.",
+      "english": "My favorite country is Italy.",
+      "russian": "Моя любимая страна — Италия.",
+      "farsi": "کشور مورد علاقه من ایتالیا است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich mag deutsches Essen.",
+      "english": "I like German food.",
+      "russian": "Мне нравится немецкая еда.",
+      "farsi": "من غذای آلمانی را دوست دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein Lieblingsessen ist Pizza.",
+      "english": "My favorite food is pizza.",
+      "russian": "Моя любимая еда — пицца.",
+      "farsi": "غذای مورد علاقه من پیتزا است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich trinke gern Tee.",
+      "english": "I like to drink tea.",
+      "russian": "Я люблю пить чай.",
+      "farsi": "من دوست دارم چای بنوشم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe einen Hund.",
+      "english": "I have a dog.",
+      "russian": "У меня есть собака.",
+      "farsi": "من یک سگ دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein Haustier heißt Max.",
+      "english": "My pet's name is Max.",
+      "russian": "Моего питомца зовут Макс.",
+      "farsi": "اسم حیوان خانگی من مکس است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich wohne in einer kleinen Wohnung.",
+      "english": "I live in a small apartment.",
+      "russian": "Я живу в маленькой квартире.",
+      "farsi": "من در یک آپارتمان کوچک زندگی می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein Haus ist groß und modern.",
+      "english": "My house is large and modern.",
+      "russian": "Мой дом большой и современный.",
+      "farsi": "خانه من بزرگ و مدرن است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich fahre jeden Tag mit dem Bus zur Arbeit.",
+      "english": "I take the bus to work every day.",
+      "russian": "Я езжу на работу каждый день на автобусе.",
+      "farsi": "من هر روز با اتوبوس به سر کار می‌روم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich mag das Wetter in Deutschland.",
+      "english": "I like the weather in Germany.",
+      "russian": "Мне нравится погода в Германии.",
+      "farsi": "من از هوای آلمان خوشم می‌آید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Meine Lieblingsjahreszeit ist der Sommer.",
+      "english": "My favorite season is summer.",
+      "russian": "Мое любимое время года — лето.",
+      "farsi": "فصل مورد علاقه من تابستان است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich mag Schnee und Winter.",
+      "english": "I like snow and winter.",
+      "russian": "Мне нравятся снег и зима.",
+      "farsi": "من برف و زمستان را دوست دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich gehe oft ins Kino.",
+      "english": "I often go to the cinema.",
+      "russian": "Я часто хожу в кино.",
+      "farsi": "من اغلب به سینما می‌روم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich liebe deutsche Filme.",
+      "english": "I love German movies.",
+      "russian": "Я люблю немецкие фильмы.",
+      "farsi": "من فیلم‌های آلمانی را دوست دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Meine Lieblingsmusik ist klassische Musik.",
+      "english": "My favorite music is classical music.",
+      "russian": "Моя любимая музыка — классическая музыка.",
+      "farsi": "موسیقی مورد علاقه من موسیقی کلاسیک است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich lese gern Romane.",
+      "english": "I like reading novels.",
+      "russian": "Я люблю читать романы.",
+      "farsi": "من از خواندن رمان لذت می‌برم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein Lieblingsbuch ist Der kleine Prinz.",
+      "english": "My favorite book is The Little Prince.",
+      "russian": "Моя любимая книга — Маленький принц.",
+      "farsi": "کتاب مورد علاقه من شازده کوچولو است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich esse gern Kuchen.",
+      "english": "I like eating cake.",
+      "russian": "Я люблю есть торт.",
+      "farsi": "من از خوردن کیک لذت می‌برم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe viele Freunde.",
+      "english": "I have many friends.",
+      "russian": "У меня много друзей.",
+      "farsi": "من دوستان زیادی دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Meine beste Freundin heißt Anna.",
+      "english": "My best friend's name is Anna.",
+      "russian": "Мою лучшую подругу зовут Анна.",
+      "farsi": "اسم بهترین دوست من آنا است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich möchte in Zukunft glücklich sein.",
+      "english": "I want to be happy in the future.",
+      "russian": "Я хочу быть счастливым в будущем.",
+      "farsi": "من می‌خواهم در آینده خوشحال باشم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin in der Ukraine geboren.",
+      "english": "I was born in Ukraine.",
+      "russian": "Я родился в Украине.",
+      "farsi": "من در اوکراین به دنیا آمده‌ام."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe eine große Familie.",
+      "english": "I have a big family.",
+      "russian": "У меня большая семья.",
+      "farsi": "من خانواده بزرگی دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Meine Eltern sind sehr nett.",
+      "english": "My parents are very nice.",
+      "russian": "Мои родители очень хорошие.",
+      "farsi": "والدین من خیلی مهربان هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe einen Bruder und eine Schwester.",
+      "english": "I have a brother and a sister.",
+      "russian": "У меня есть брат и сестра.",
+      "farsi": "من یک برادر و یک خواهر دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein Bruder ist älter als ich.",
+      "english": "My brother is older than me.",
+      "russian": "Мой брат старше меня.",
+      "farsi": "برادرم از من بزرگتر است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Meine Schwester ist jünger als ich.",
+      "english": "My sister is younger than me.",
+      "russian": "Моя сестра младше меня.",
+      "farsi": "خواهرم از من کوچکتر است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich lebe schon lange in meiner Stadt.",
+      "english": "I have lived in my city for a long time.",
+      "russian": "Я живу в своем городе уже долгое время.",
+      "farsi": "من مدت زیادی است که در شهرم زندگی می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Meine Wohnung ist im dritten Stock.",
+      "english": "My apartment is on the third floor.",
+      "russian": "Моя квартира на третьем этаже.",
+      "farsi": "آپارتمان من در طبقه سوم است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich liebe es, neue Leute kennenzulernen.",
+      "english": "I love meeting new people.",
+      "russian": "Я люблю знакомиться с новыми людьми.",
+      "farsi": "من عاشق آشنا شدن با افراد جدید هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich möchte meine Sprachkenntnisse verbessern.",
+      "english": "I want to improve my language skills.",
+      "russian": "Я хочу улучшить свои языковые навыки.",
+      "farsi": "من می‌خواهم مهارت‌های زبانی‌ام را بهبود دهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein Traumberuf ist Lehrer.",
+      "english": "My dream job is to be a teacher.",
+      "russian": "Моя работа мечты — быть учителем.",
+      "farsi": "شغل رؤیایی من این است که معلم باشم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich plane bald zu reisen.",
+      "english": "I plan to travel soon.",
+      "russian": "Я планирую скоро путешествовать.",
+      "farsi": "من برنامه دارم به زودی سفر کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich finde Deutschland sehr interessant.",
+      "english": "I find Germany very interesting.",
+      "russian": "Я нахожу Германию очень интересной.",
+      "farsi": "من آلمان را بسیار جالب می‌دانم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich mag es, verschiedene Kulturen zu entdecken.",
+      "english": "I like discovering different cultures.",
+      "russian": "Мне нравится открывать разные культуры.",
+      "farsi": "من از کشف فرهنگ‌های مختلف لذت می‌برم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe viele Freunde aus verschiedenen Ländern.",
+      "english": "I have many friends from different countries.",
+      "russian": "У меня много друзей из разных стран.",
+      "farsi": "من دوستان زیادی از کشورهای مختلف دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein Lieblingsfach in der Schule war Mathematik.",
+      "english": "My favorite subject in school was mathematics.",
+      "russian": "Моим любимым предметом в школе была математика.",
+      "farsi": "درس مورد علاقه من در مدرسه ریاضیات بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe viele Freunde aus verschiedenen Ländern.",
+      "english": "I have many friends from different countries.",
+      "russian": "У меня много друзей из разных стран.",
+      "farsi": "من دوستان زیادی از کشورهای مختلف دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich liebe es, draußen zu sein.",
+      "english": "I love being outside.",
+      "russian": "Я люблю быть на улице.",
+      "farsi": "من عاشق بیرون بودن هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Am Wochenende gehe ich gern spazieren.",
+      "english": "I like going for walks on weekends.",
+      "russian": "По выходным я люблю гулять.",
+      "farsi": "من دوست دارم آخر هفته‌ها پیاده‌روی کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich gehe oft joggen.",
+      "english": "I often go jogging.",
+      "russian": "Я часто бегаю.",
+      "farsi": "من اغلب می‌دوم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sport ist ein wichtiger Teil meines Lebens.",
+      "english": "Sport is an important part of my life.",
+      "russian": "Спорт — важная часть моей жизни.",
+      "farsi": "ورزش بخش مهمی از زندگی من است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich möchte eine neue Sprache lernen.",
+      "english": "I want to learn a new language.",
+      "russian": "Я хочу выучить новый язык.",
+      "farsi": "من می‌خواهم یک زبان جدید یاد بگیرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich finde die deutsche Kultur faszinierend.",
+      "english": "I find German culture fascinating.",
+      "russian": "Я нахожу немецкую культуру увлекательной.",
+      "farsi": "من فرهنگ آلمانی را جذاب می‌دانم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich träume davon, ein Haus zu bauen.",
+      "english": "I dream of building a house.",
+      "russian": "Я мечтаю построить дом.",
+      "farsi": "من رؤیای ساختن یک خانه را دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Meine Lieblingsfarbe ist blau.",
+      "english": "My favorite color is blue.",
+      "russian": "Мой любимый цвет — синий.",
+      "farsi": "رنگ مورد علاقه من آبی است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich liebe Tiere und die Natur.",
+      "english": "I love animals and nature.",
+      "russian": "Я люблю животных и природу.",
+      "farsi": "من عاشق حیوانات و طبیعت هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich koche gern für meine Familie.",
+      "english": "I enjoy cooking for my family.",
+      "russian": "Я люблю готовить для своей семьи.",
+      "farsi": "من از آشپزی برای خانواده‌ام لذت می‌برم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein Lieblingsgericht ist Spaghetti.",
+      "english": "My favorite dish is spaghetti.",
+      "russian": "Моё любимое блюдо — спагетти.",
+      "farsi": "غذای مورد علاقه من اسپاگتی است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich backe gern Kuchen.",
+      "english": "I like baking cakes.",
+      "russian": "Мне нравится печь пироги.",
+      "farsi": "من دوست دارم کیک بپزم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe einen kleinen Garten.",
+      "english": "I have a small garden.",
+      "russian": "У меня есть маленький сад.",
+      "farsi": "من یک باغ کوچک دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich pflanze Blumen und Gemüse.",
+      "english": "I plant flowers and vegetables.",
+      "russian": "Я сажаю цветы и овощи.",
+      "farsi": "من گل و سبزیجات می‌کارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich mag den Frühling, weil alles blüht.",
+      "english": "I like spring because everything blooms.",
+      "russian": "Мне нравится весна, потому что всё цветёт.",
+      "farsi": "من بهار را دوست دارم چون همه چیز شکوفا می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im Herbst sammle ich gern Pilze.",
+      "english": "In autumn, I like collecting mushrooms.",
+      "russian": "Осенью я люблю собирать грибы.",
+      "farsi": "من در پاییز دوست دارم قارچ جمع کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich interessiere mich für Technik.",
+      "english": "I am interested in technology.",
+      "russian": "Меня интересует техника.",
+      "farsi": "من به فناوری علاقه‌مندم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich heiße Anna, weil meine Eltern diesen Namen mochten.",
+      "english": "My name is Anna because my parents liked this name.",
+      "russian": "Меня зовут Анна, потому что моим родителям нравилось это имя.",
+      "farsi": "اسم من آنا است چون والدینم این نام را دوست داشتند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich komme aus der Ukraine, einem Land im Osten von Europa.",
+      "english": "I come from Ukraine, a country in Eastern Europe.",
+      "russian": "Я из Украины, страны в Восточной Европе.",
+      "farsi": "من از اوکراین، کشوری در شرق اروپا، هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich studiere Informatik, weil ich mich für Technologie interessiere.",
+      "english": "I study computer science because I am interested in technology.",
+      "russian": "Я изучаю информатику, потому что меня интересуют технологии.",
+      "farsi": "من علوم کامپیوتر می‌خوانم چون به فناوری علاقه دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Meine Familie lebt in Kiew, einer großen Stadt.",
+      "english": "My family lives in Kyiv, a big city.",
+      "russian": "Моя семья живет в Киеве, большом городе.",
+      "farsi": "خانواده من در کیف، یک شهر بزرگ، زندگی می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich spreche Deutsch, weil ich in Deutschland arbeiten möchte.",
+      "english": "I speak German because I want to work in Germany.",
+      "russian": "Я говорю по-немецки, потому что хочу работать в Германии.",
+      "farsi": "من آلمانی صحبت می‌کنم چون می‌خواهم در آلمان کار کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Als Kind habe ich gerne Fußball gespielt.",
+      "english": "As a child, I liked playing football.",
+      "russian": "В детстве я любил играть в футбол.",
+      "farsi": "در کودکی، فوتبال بازی کردن را دوست داشتم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich arbeite in einem Büro, das sich in der Innenstadt befindet.",
+      "english": "I work in an office that is located in the city center.",
+      "russian": "Я работаю в офисе, который находится в центре города.",
+      "farsi": "من در یک دفتر که در مرکز شهر واقع شده است کار می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich mag Musik, weil sie mich entspannt.",
+      "english": "I like music because it relaxes me.",
+      "russian": "Мне нравится музыка, потому что она меня расслабляет.",
+      "farsi": "من موسیقی را دوست دارم چون مرا آرام می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin 25 Jahre alt, weil ich 1999 geboren wurde.",
+      "english": "I am 25 years old because I was born in 1999.",
+      "russian": "Мне 25 лет, потому что я родился в 1999 году.",
+      "farsi": "من ۲۵ ساله هستم چون در سال ۱۹۹۹ به دنیا آمده‌ام."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe viele Freunde, mit denen ich oft spreche.",
+      "english": "I have many friends with whom I often talk.",
+      "russian": "У меня много друзей, с которыми я часто общаюсь.",
+      "farsi": "من دوستان زیادی دارم که اغلب با آنها صحبت می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich wohne in einer Wohnung, die sehr gemütlich ist.",
+      "english": "I live in an apartment that is very cozy.",
+      "russian": "Я живу в квартире, которая очень уютная.",
+      "farsi": "من در یک آپارتمان که بسیار دنج است زندگی می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Als ich klein war, hatte ich einen Hund.",
+      "english": "When I was little, I had a dog.",
+      "russian": "Когда я был маленьким, у меня была собака.",
+      "farsi": "وقتی کوچک بودم، یک سگ داشتم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich gehe gerne ins Kino, weil ich Filme liebe.",
+      "english": "I like going to the cinema because I love movies.",
+      "russian": "Я люблю ходить в кино, потому что люблю фильмы.",
+      "farsi": "من دوست دارم به سینما بروم چون فیلم‌ها را دوست دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich lerne Deutsch, weil ich in Deutschland studieren möchte.",
+      "english": "I am learning German because I want to study in Germany.",
+      "russian": "Я учу немецкий, потому что хочу учиться в Германии.",
+      "farsi": "من آلمانی یاد می‌گیرم چون می‌خواهم در آلمان تحصیل کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe einen Bruder, der in Paris lebt.",
+      "english": "I have a brother who lives in Paris.",
+      "russian": "У меня есть брат, который живет в Париже.",
+      "farsi": "من یک برادر دارم که در پاریس زندگی می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Meine Mutter ist Lehrerin, weil sie Kindern gerne hilft.",
+      "english": "My mother is a teacher because she likes helping children.",
+      "russian": "Моя мама учительница, потому что она любит помогать детям.",
+      "farsi": "مادرم معلم است چون دوست دارد به کودکان کمک کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe gestern meine Freunde getroffen, die aus verschiedenen Ländern kommen.",
+      "english": "Yesterday, I met my friends who come from different countries.",
+      "russian": "Вчера я встретил друзей, которые приехали из разных стран.",
+      "farsi": "دیروز با دوستانم ملاقات کردم که از کشورهای مختلف آمده‌اند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich fahre oft Fahrrad, weil es umweltfreundlich ist.",
+      "english": "I often ride a bike because it is environmentally friendly.",
+      "russian": "Я часто езжу на велосипеде, потому что это экологично.",
+      "farsi": "من اغلب دوچرخه‌سواری می‌کنم چون برای محیط‌زیست مفید است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich liebe es, zu reisen, weil ich neue Kulturen kennenlernen möchte.",
+      "english": "I love traveling because I want to get to know new cultures.",
+      "russian": "Я люблю путешествовать, потому что хочу узнавать новые культуры.",
+      "farsi": "من عاشق سفر هستم چون می‌خواهم فرهنگ‌های جدید را بشناسم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe ein Buch, das mir sehr gefällt.",
+      "english": "I have a book that I really like.",
+      "russian": "У меня есть книга, которая мне очень нравится.",
+      "farsi": "من کتابی دارم که خیلی دوستش دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich arbeite in einem Restaurant, das sehr gut bewertet wird.",
+      "english": "I work in a restaurant that is highly rated.",
+      "russian": "Я работаю в ресторане, который имеет высокий рейтинг.",
+      "farsi": "من در رستورانی کار می‌کنم که بسیار خوب ارزیابی شده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich mag die Natur, weil sie mir hilft, mich zu entspannen.",
+      "english": "I like nature because it helps me relax.",
+      "russian": "Я люблю природу, потому что она помогает мне расслабиться.",
+      "farsi": "من طبیعت را دوست دارم چون به من کمک می‌کند آرامش پیدا کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Als ich in Berlin war, habe ich viele Sehenswürdigkeiten besucht.",
+      "english": "When I was in Berlin, I visited many sights.",
+      "russian": "Когда я был в Берлине, я посетил много достопримечательностей.",
+      "farsi": "وقتی در برلین بودم، بسیاری از جاذبه‌های دیدنی را دیدم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich studiere Medizin, weil ich Menschen helfen möchte.",
+      "english": "I study medicine because I want to help people.",
+      "russian": "Я изучаю медицину, потому что хочу помогать людям.",
+      "farsi": "من پزشکی می‌خوانم چون می‌خواهم به مردم کمک کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe einen Laptop, der sehr schnell ist.",
+      "english": "I have a laptop that is very fast.",
+      "russian": "У меня есть ноутбук, который очень быстрый.",
+      "farsi": "من لپ‌تاپی دارم که بسیار سریع است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich wohne in einer Stadt, die viele Parks hat.",
+      "english": "I live in a city that has many parks.",
+      "russian": "Я живу в городе, в котором много парков.",
+      "farsi": "من در شهری زندگی می‌کنم که پارک‌های زیادی دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich gehe jeden Tag joggen, weil es mir hilft, fit zu bleiben.",
+      "english": "I go jogging every day because it helps me stay fit.",
+      "russian": "Я бегаю каждый день, потому что это помогает мне оставаться в форме.",
+      "farsi": "من هر روز می‌دوم چون به من کمک می‌کند که تناسب اندام داشته باشم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe eine Schwester, die in London lebt.",
+      "english": "I have a sister who lives in London.",
+      "russian": "У меня есть сестра, которая живет в Лондоне.",
+      "farsi": "من خواهری دارم که در لندن زندگی می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich fahre mit dem Zug zur Arbeit, weil es schneller ist.",
+      "english": "I take the train to work because it is faster.",
+      "russian": "Я езжу на работу на поезде, потому что это быстрее.",
+      "farsi": "من با قطار به محل کار می‌روم چون سریع‌تر است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich esse viel Obst, weil es gesund ist.",
+      "english": "I eat a lot of fruit because it is healthy.",
+      "russian": "Я ем много фруктов, потому что это полезно.",
+      "farsi": "من میوه زیادی می‌خورم چون سالم است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe einen Onkel, dessen Haus sehr groß ist.",
+      "english": "I have an uncle whose house is very large.",
+      "russian": "У меня есть дядя, чей дом очень большой.",
+      "farsi": "من عمو/دایی‌ای دارم که خانه‌اش خیلی بزرگ است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich trinke Kaffee, weil es mir hilft, wach zu bleiben.",
+      "english": "I drink coffee because it helps me stay awake.",
+      "russian": "Я пью кофе, потому что это помогает мне не уснуть.",
+      "farsi": "من قهوه می‌نوشم چون به من کمک می‌کند بیدار بمانم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin im Sommer in den Bergen, wo ich wandere.",
+      "english": "In the summer, I am in the mountains where I hike.",
+      "russian": "Летом я в горах, где я хожу в походы.",
+      "farsi": "در تابستان من در کوه‌ها هستم و پیاده‌روی می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich lese Bücher, die mich inspirieren.",
+      "english": "I read books that inspire me.",
+      "russian": "Я читаю книги, которые меня вдохновляют.",
+      "farsi": "من کتاب‌هایی می‌خوانم که به من الهام می‌بخشند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Als ich in Rom war, habe ich das Kolosseum gesehen.",
+      "english": "When I was in Rome, I saw the Colosseum.",
+      "russian": "Когда я был в Риме, я видел Колизей.",
+      "farsi": "وقتی در رم بودم، کولوسئوم را دیدم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich reise gerne, weil ich neue Orte entdecken möchte.",
+      "english": "I like traveling because I want to discover new places.",
+      "russian": "Я люблю путешествовать, потому что хочу открывать новые места.",
+      "farsi": "من عاشق سفر هستم چون می‌خواهم مکان‌های جدید را کشف کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe einen Stift, der sehr praktisch ist.",
+      "english": "I have a pen that is very practical.",
+      "russian": "У меня есть ручка, которая очень удобна.",
+      "farsi": "من یک خودکار دارم که بسیار کاربردی است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich spiele Gitarre, weil ich Musik liebe.",
+      "english": "I play guitar because I love music.",
+      "russian": "Я играю на гитаре, потому что люблю музыку.",
+      "farsi": "من گیتار می‌زنم چون عاشق موسیقی هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich wohne in einer ruhigen Gegend, die von viel Grün umgeben ist.",
+      "english": "I live in a quiet area surrounded by greenery.",
+      "russian": "Я живу в тихом районе, окруженном зеленью.",
+      "farsi": "من در منطقه‌ای آرام زندگی می‌کنم که با فضای سبز زیادی احاطه شده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich treffe oft meine Freunde, weil wir zusammen viel Spaß haben.",
+      "english": "I often meet my friends because we have a lot of fun together.",
+      "russian": "Я часто встречаюсь с друзьями, потому что нам весело вместе.",
+      "farsi": "من اغلب با دوستانم ملاقات می‌کنم چون با هم خیلی خوش می‌گذرانیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich koche gerne, weil es mir Spaß macht, neue Rezepte auszuprobieren.",
+      "english": "I like cooking because I enjoy trying out new recipes.",
+      "russian": "Я люблю готовить, потому что мне нравится пробовать новые рецепты.",
+      "farsi": "من آشپزی را دوست دارم چون از امتحان کردن دستورپخت‌های جدید لذت می‌برم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich gehe regelmäßig ins Fitnessstudio, weil ich stärker werden möchte.",
+      "english": "I go to the gym regularly because I want to get stronger.",
+      "russian": "Я регулярно хожу в тренажерный зал, потому что хочу стать сильнее.",
+      "farsi": "من به طور منظم به باشگاه می‌روم چون می‌خواهم قوی‌تر شوم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe viele Hobbys, die mich glücklich machen.",
+      "english": "I have many hobbies that make me happy.",
+      "russian": "У меня много хобби, которые делают меня счастливым.",
+      "farsi": "من سرگرمی‌های زیادی دارم که مرا خوشحال می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe einen Hund, der sehr aktiv ist.",
+      "english": "I have a dog that is very active.",
+      "russian": "У меня есть собака, которая очень активная.",
+      "farsi": "من سگی دارم که بسیار پرجنب‌وجوش است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich reise oft, weil es mir hilft, den Alltag zu vergessen.",
+      "english": "I travel often because it helps me forget everyday life.",
+      "russian": "Я часто путешествую, потому что это помогает мне забыть повседневную жизнь.",
+      "farsi": "من اغلب سفر می‌کنم چون به من کمک می‌کند روزمرگی را فراموش کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe eine Freundin, die mich immer unterstützt.",
+      "english": "I have a friend who always supports me.",
+      "russian": "У меня есть подруга, которая всегда меня поддерживает.",
+      "farsi": "من دوستی دارم که همیشه از من حمایت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich lerne neue Sprachen, weil ich gerne mit Leuten aus verschiedenen Ländern spreche.",
+      "english": "I learn new languages because I like talking to people from different countries.",
+      "russian": "Я учу новые языки, потому что мне нравится разговаривать с людьми из разных стран.",
+      "farsi": "من زبان‌های جدید یاد می‌گیرم چون دوست دارم با افراد از کشورهای مختلف صحبت کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich mache regelmäßig Fotos, die ich später in meinem Album anschaue.",
+      "english": "I regularly take photos that I later look at in my album.",
+      "russian": "Я регулярно делаю фотографии, которые потом просматриваю в своем альбоме.",
+      "farsi": "من به طور منظم عکس‌هایی می‌گیرم که بعداً در آلبومم نگاه می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich baue gern Dinge selbst.",
+      "english": "I like building things myself.",
+      "russian": "Мне нравится строить вещи своими руками.",
+      "farsi": "من دوست دارم چیزها را خودم بسازم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich höre oft Podcasts.",
+      "english": "I often listen to podcasts.",
+      "russian": "Я часто слушаю подкасты.",
+      "farsi": "من اغلب به پادکست‌ها گوش می‌دهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich lerne Deutsch, weil ich in Deutschland studieren möchte.",
+      "english": "I am learning German because I want to study in Germany.",
+      "russian": "Я учу немецкий, потому что хочу учиться в Германии.",
+      "farsi": "من آلمانی یاد می‌گیرم چون می‌خواهم در آلمان تحصیل کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich lese gerne Nachrichten.",
+      "english": "I like reading the news.",
+      "russian": "Мне нравится читать новости.",
+      "farsi": "من دوست دارم اخبار بخوانم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Meine Freunde beschreiben mich als hilfsbereit.",
+      "english": "My friends describe me as helpful.",
+      "russian": "Мои друзья описывают меня как отзывчивого.",
+      "farsi": "دوستانم مرا به عنوان فردی کمک‌کننده توصیف می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin kreativ und arbeite gern mit meinen Händen.",
+      "english": "I am creative and like working with my hands.",
+      "russian": "Я креативен и люблю работать руками.",
+      "farsi": "من خلاق هستم و دوست دارم با دستانم کار کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich sammle Postkarten aus verschiedenen Ländern.",
+      "english": "I collect postcards from different countries.",
+      "russian": "Я коллекционирую открытки из разных стран.",
+      "farsi": "من کارت‌پستال‌هایی از کشورهای مختلف جمع‌آوری می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich reise oft mit dem Zug.",
+      "english": "I often travel by train.",
+      "russian": "Я часто путешествую на поезде.",
+      "farsi": "من اغلب با قطار سفر می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich liebe es, neue Gerichte auszuprobieren.",
+      "english": "I love trying new dishes.",
+      "russian": "Я люблю пробовать новые блюда.",
+      "farsi": "من عاشق امتحان کردن غذاهای جدید هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich träume davon, einmal die Welt zu sehen.",
+      "english": "I dream of seeing the world one day.",
+      "russian": "Я мечтаю однажды увидеть мир.",
+      "farsi": "من آرزو دارم روزی جهان را ببینم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Meine Freunde sind für mich wie eine zweite Familie.",
+      "english": "My friends are like a second family to me.",
+      "russian": "Мои друзья для меня как вторая семья.",
+      "farsi": "دوستانم برای من مثل خانواده دوم هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin ein positiver Mensch.",
+      "english": "I am a positive person.",
+      "russian": "Я позитивный человек.",
+      "farsi": "من فرد مثبتی هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein größter Wunsch ist Gesundheit für meine Familie.",
+      "english": "My greatest wish is health for my family.",
+      "russian": "Мое самое большое желание — здоровье для моей семьи.",
+      "farsi": "بزرگترین آرزوی من سلامتی برای خانواده‌ام است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich liebe es, morgens Kaffee zu trinken.",
+      "english": "I love drinking coffee in the morning.",
+      "russian": "Я люблю пить кофе по утрам.",
+      "farsi": "من عاشق نوشیدن قهوه در صبح هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich interessiere mich für Fotografie.",
+      "english": "I am interested in photography.",
+      "russian": "Я интересуюсь фотографией.",
+      "farsi": "من به عکاسی علاقه دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich möchte später in einem anderen Land leben.",
+      "english": "I want to live in another country later.",
+      "russian": "Я хочу позже жить в другой стране.",
+      "farsi": "من می‌خواهم در آینده در یک کشور دیگر زندگی کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich genieße einen ruhigen Abend zu Hause.",
+      "english": "I enjoy a quiet evening at home.",
+      "russian": "Я наслаждаюсь тихим вечером дома.",
+      "farsi": "من از یک شب آرام در خانه لذت می‌برم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein Ziel ist es, ein glückliches Leben zu führen.",
+      "english": "My goal is to lead a happy life.",
+      "russian": "Моя цель — вести счастливую жизнь.",
+      "farsi": "هدف من این است که یک زندگی شاد داشته باشم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich lerne Deutsch, weil ich in Deutschland arbeiten möchte.",
+      "english": "I am learning German because I want to work in Germany.",
+      "russian": "Я учу немецкий, потому что хочу работать в Германии.",
+      "farsi": "من آلمانی یاد می‌گیرم زیرا می‌خواهم در آلمان کار کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich gehe jeden Tag ins Fitnessstudio, weil ich fit bleiben möchte.",
+      "english": "I go to the gym every day because I want to stay fit.",
+      "russian": "Я хожу в спортзал каждый день, потому что хочу оставаться в форме.",
+      "farsi": "من هر روز به باشگاه می‌روم زیرا می‌خواهم تناسب اندامم را حفظ کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe den Bus verpasst, deshalb bin ich zu spät gekommen.",
+      "english": "I missed the bus, that's why I was late.",
+      "russian": "Я пропустил автобус, поэтому опоздал.",
+      "farsi": "من اتوبوس را از دست دادم، به همین دلیل دیر کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es war sehr kalt, deshalb habe ich eine Jacke angezogen.",
+      "english": "It was very cold, that's why I put on a jacket.",
+      "russian": "Было очень холодно, поэтому я надел куртку.",
+      "farsi": "هوا خیلی سرد بود، به همین دلیل ژاکتی پوشیدم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Als ich ein Kind war, habe ich gerne Fußball gespielt.",
+      "english": "When I was a child, I liked playing soccer.",
+      "russian": "Когда я был ребенком, я любил играть в футбол.",
+      "farsi": "وقتی بچه بودم، دوست داشتم فوتبال بازی کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Als wir in Berlin waren, haben wir das Brandenburger Tor besucht.",
+      "english": "When we were in Berlin, we visited the Brandenburg Gate.",
+      "russian": "Когда мы были в Берлине, мы посетили Бранденбургские ворота.",
+      "farsi": "وقتی در برلین بودیم، از دروازه براندنبورگ دیدن کردیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin glücklich, weil ich meine Prüfung bestanden habe.",
+      "english": "I am happy because I passed my exam.",
+      "russian": "Я счастлив, потому что сдал экзамен.",
+      "farsi": "من خوشحالم زیرا امتحانم را قبول شدم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe viel gelernt, deshalb war die Prüfung einfach.",
+      "english": "I studied a lot, that's why the exam was easy.",
+      "russian": "Я много учился, поэтому экзамен был легким.",
+      "farsi": "من خیلی درس خواندم، به همین دلیل امتحان آسان بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Als ich gestern nach Hause kam, war es schon dunkel.",
+      "english": "When I came home yesterday, it was already dark.",
+      "russian": "Когда я вчера пришел домой, уже было темно.",
+      "farsi": "وقتی دیروز به خانه آمدم، هوا دیگر تاریک شده بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich mag Pizza, weil sie lecker und einfach zu machen ist.",
+      "english": "I like pizza because it is delicious and easy to make.",
+      "russian": "Я люблю пиццу, потому что она вкусная и простая в приготовлении.",
+      "farsi": "من پیتزا را دوست دارم زیرا خوشمزه و آسان برای تهیه است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich gehe oft spazieren, weil es entspannend ist.",
+      "english": "I often go for walks because it is relaxing.",
+      "russian": "Я часто гуляю, потому что это расслабляет.",
+      "farsi": "من اغلب پیاده‌روی می‌کنم زیرا آرامش‌بخش است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bleibe zu Hause, wenn es regnet.",
+      "english": "I stay at home when it rains.",
+      "russian": "Я остаюсь дома, когда идет дождь.",
+      "farsi": "من وقتی باران می‌بارد در خانه می‌مانم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn ich Zeit habe, lese ich ein Buch.",
+      "english": "When I have time, I read a book.",
+      "russian": "Когда у меня есть время, я читаю книгу.",
+      "farsi": "وقتی وقت دارم، کتاب می‌خوانم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Als ich in der Schule war, hatte ich viele Freunde.",
+      "english": "When I was in school, I had many friends.",
+      "russian": "Когда я был в школе, у меня было много друзей.",
+      "farsi": "وقتی در مدرسه بودم، دوستان زیادی داشتم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe den Zug verpasst, deshalb musste ich ein Taxi nehmen.",
+      "english": "I missed the train, so I had to take a taxi.",
+      "russian": "Я пропустил поезд, поэтому мне пришлось взять такси.",
+      "farsi": "من قطار را از دست دادم، بنابراین مجبور شدم تاکسی بگیرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich kann nicht kommen, weil ich krank bin.",
+      "english": "I can't come because I'm sick.",
+      "russian": "Я не могу прийти, потому что я болею.",
+      "farsi": "من نمی‌توانم بیایم، چون بیمار هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn die Sonne scheint, gehen wir ins Schwimmbad.",
+      "english": "When the sun shines, we go to the swimming pool.",
+      "russian": "Когда светит солнце, мы идем в бассейн.",
+      "farsi": "وقتی خورشید می‌تابد، به استخر می‌رویم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich mache Sport, weil es gut für die Gesundheit ist.",
+      "english": "I do sports because it's good for health.",
+      "russian": "Я занимаюсь спортом, потому что это полезно для здоровья.",
+      "farsi": "من ورزش می‌کنم، زیرا برای سلامتی مفید است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe die Hausaufgaben nicht gemacht, weil ich keine Zeit hatte.",
+      "english": "I didn't do the homework because I didn't have time.",
+      "russian": "Я не сделал домашнее задание, потому что у меня не было времени.",
+      "farsi": "من تکالیفم را انجام ندادم، چون وقت نداشتم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Als wir im Urlaub waren, haben wir viele Fotos gemacht.",
+      "english": "When we were on vacation, we took many photos.",
+      "russian": "Когда мы были в отпуске, мы сделали много фотографий.",
+      "farsi": "وقتی در تعطیلات بودیم، عکس‌های زیادی گرفتیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn ich Hunger habe, koche ich etwas.",
+      "english": "When I am hungry, I cook something.",
+      "russian": "Когда я голоден, я готовлю что-нибудь.",
+      "farsi": "وقتی گرسنه هستم، چیزی می‌پزم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich lerne jeden Tag, damit ich die Prüfung bestehe.",
+      "english": "I study every day so that I pass the exam.",
+      "russian": "Я учусь каждый день, чтобы сдать экзамен.",
+      "farsi": "من هر روز درس می‌خوانم تا امتحانم را قبول شوم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich nehme den Regenschirm mit, weil es regnen könnte.",
+      "english": "I take the umbrella with me because it might rain.",
+      "russian": "Я беру с собой зонт, потому что может пойти дождь.",
+      "farsi": "چتر را با خودم می‌برم، چون ممکن است باران ببارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe viel gearbeitet, deshalb bin ich müde.",
+      "english": "I worked a lot, that's why I am tired.",
+      "russian": "Я много работал, поэтому я устал.",
+      "farsi": "من خیلی کار کردم، به همین دلیل خسته هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn ich Geld spare, kann ich mir ein Auto kaufen.",
+      "english": "If I save money, I can buy a car.",
+      "russian": "Если я буду экономить деньги, я смогу купить машину.",
+      "farsi": "اگر پول پس‌انداز کنم، می‌توانم یک ماشین بخرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe das Fenster geschlossen, weil es draußen kalt war.",
+      "english": "I closed the window because it was cold outside.",
+      "russian": "Я закрыл окно, потому что на улице было холодно.",
+      "farsi": "من پنجره را بستم، چون بیرون هوا سرد بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bleibe zu Hause, weil ich mich ausruhen möchte.",
+      "english": "I stay at home because I want to rest.",
+      "russian": "Я остаюсь дома, потому что хочу отдохнуть.",
+      "farsi": "من در خانه می‌مانم، چون می‌خواهم استراحت کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Als ich in den Bergen war, habe ich viele Tiere gesehen.",
+      "english": "When I was in the mountains, I saw many animals.",
+      "russian": "Когда я был в горах, я видел много животных.",
+      "farsi": "وقتی در کوه‌ها بودم، حیوانات زیادی دیدم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn ich die Prüfung bestehe, werde ich feiern.",
+      "english": "If I pass the exam, I will celebrate.",
+      "russian": "Если я сдам экзамен, я буду праздновать.",
+      "farsi": "اگر امتحانم را قبول شوم، جشن خواهم گرفت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich lese die Zeitung, um mich zu informieren.",
+      "english": "I read the newspaper to stay informed.",
+      "russian": "Я читаю газету, чтобы быть в курсе событий.",
+      "farsi": "من روزنامه می‌خوانم تا مطلع باشم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin spät aufgestanden, deshalb habe ich das Frühstück verpasst.",
+      "english": "I got up late, so I missed breakfast.",
+      "russian": "Я встал поздно, поэтому пропустил завтрак.",
+      "farsi": "من دیر بیدار شدم، بنابراین صبحانه را از دست دادم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Als ich klein war, hatte ich einen Hund.",
+      "english": "When I was little, I had a dog.",
+      "russian": "Когда я был маленьким, у меня была собака.",
+      "farsi": "وقتی کوچک بودم، یک سگ داشتم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn ich Urlaub habe, reise ich gerne.",
+      "english": "When I have vacation, I like to travel.",
+      "russian": "Когда у меня отпуск, я люблю путешествовать.",
+      "farsi": "وقتی تعطیلات دارم، دوست دارم سفر کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich gehe schlafen, weil ich morgen früh aufstehen muss.",
+      "english": "I go to bed because I have to get up early tomorrow.",
+      "russian": "Я ложусь спать, потому что завтра мне нужно рано вставать.",
+      "farsi": "من به رختخواب می‌روم چون فردا باید زود بیدار شوم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn ich mich entspannen möchte, höre ich Musik.",
+      "english": "When I want to relax, I listen to music.",
+      "russian": "Когда я хочу расслабиться, я слушаю музыку.",
+      "farsi": "وقتی می‌خواهم استراحت کنم، به موسیقی گوش می‌دهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich trinke Kaffee, um wach zu bleiben.",
+      "english": "I drink coffee to stay awake.",
+      "russian": "Я пью кофе, чтобы не заснуть.",
+      "farsi": "من قهوه می‌نوشم تا بیدار بمانم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Als ich in Paris war, habe ich den Eiffelturm gesehen.",
+      "english": "When I was in Paris, I saw the Eiffel Tower.",
+      "russian": "Когда я был в Париже, я видел Эйфелеву башню.",
+      "farsi": "وقتی در پاریس بودم، برج ایفل را دیدم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich fahre mit dem Fahrrad zur Arbeit, weil es umweltfreundlich ist.",
+      "english": "I bike to work because it is environmentally friendly.",
+      "russian": "Я езжу на работу на велосипеде, потому что это экологично.",
+      "farsi": "من با دوچرخه به محل کار می‌روم چون برای محیط زیست مفید است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn ich frei habe, treffe ich mich mit Freunden.",
+      "english": "When I am free, I meet with friends.",
+      "russian": "Когда у меня есть свободное время, я встречаюсь с друзьями.",
+      "farsi": "وقتی آزاد هستم، با دوستانم ملاقات می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich mache eine Liste, damit ich nicht vergesse.",
+      "english": "I make a list so that I don't forget.",
+      "russian": "Я составляю список, чтобы ничего не забыть.",
+      "farsi": "من یک لیست می‌نویسم تا چیزی را فراموش نکنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe viel gelesen, bevor ich die Prüfung geschrieben habe.",
+      "english": "I read a lot before I took the exam.",
+      "russian": "Я много читал перед тем, как сдать экзамен.",
+      "farsi": "من قبل از امتحان خیلی مطالعه کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich nehme ein Buch mit, weil ich lange im Zug sitzen muss.",
+      "english": "I bring a book because I have to sit in the train for a long time.",
+      "russian": "Я беру с собой книгу, потому что мне нужно долго ехать в поезде.",
+      "farsi": "من یک کتاب با خودم می‌برم چون باید مدت طولانی در قطار بنشینم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn ich müde bin, mache ich eine Pause.",
+      "english": "When I am tired, I take a break.",
+      "russian": "Когда я устал, я делаю перерыв.",
+      "farsi": "وقتی خسته هستم، استراحت می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bleibe länger im Büro, weil ich das Projekt fertigstellen muss.",
+      "english": "I stay longer in the office because I have to finish the project.",
+      "russian": "Я остаюсь дольше в офисе, потому что мне нужно закончить проект.",
+      "farsi": "من مدت بیشتری در دفتر می‌مانم چون باید پروژه را تکمیل کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich esse Obst, weil es gesund ist.",
+      "english": "I eat fruit because it is healthy.",
+      "russian": "Я ем фрукты, потому что это полезно.",
+      "farsi": "من میوه می‌خورم چون سالم است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Als ich gestern im Park war, habe ich einen alten Freund getroffen.",
+      "english": "When I was in the park yesterday, I met an old friend.",
+      "russian": "Когда я вчера был в парке, я встретил старого друга.",
+      "farsi": "وقتی دیروز در پارک بودم، یک دوست قدیمی را ملاقات کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich trinke Wasser, damit ich mich besser fühle.",
+      "english": "I drink water so that I feel better.",
+      "russian": "Я пью воду, чтобы чувствовать себя лучше.",
+      "farsi": "من آب می‌نوشم تا احساس بهتری داشته باشم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich wohne in einem Haus, das sehr alt ist.",
+      "english": "I live in a house that is very old.",
+      "russian": "Я живу в доме, который очень старый.",
+      "farsi": "من در خانه‌ای زندگی می‌کنم که بسیار قدیمی است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe eine Schwester, die in Berlin studiert.",
+      "english": "I have a sister who studies in Berlin.",
+      "russian": "У меня есть сестра, которая учится в Берлине.",
+      "farsi": "من یک خواهر دارم که در برلین تحصیل می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich arbeite in einer Firma, die internationale Projekte durchführt.",
+      "english": "I work in a company that carries out international projects.",
+      "russian": "Я работаю в компании, которая реализует международные проекты.",
+      "farsi": "من در شرکتی کار می‌کنم که پروژه‌های بین‌المللی انجام می‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe eine Katze, die sehr freundlich ist.",
+      "english": "I have a cat that is very friendly.",
+      "russian": "У меня есть кошка, которая очень дружелюбная.",
+      "farsi": "من یک گربه دارم که بسیار مهربان است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich besuche eine Schule, die auf Sprachen spezialisiert ist.",
+      "english": "I attend a school that specializes in languages.",
+      "russian": "Я посещаю школу, которая специализируется на языках.",
+      "farsi": "من در مدرسه‌ای که در زبان‌ها تخصص دارد، تحصیل می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich wohne in einer Stadt, die viele Sehenswürdigkeiten hat.",
+      "english": "I live in a city that has many sights.",
+      "russian": "Я живу в городе, который имеет много достопримечательностей.",
+      "farsi": "من در شهری زندگی می‌کنم که جاذبه‌های زیادی دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich lese ein Buch, das von einem berühmten Autor geschrieben wurde.",
+      "english": "I am reading a book that was written by a famous author.",
+      "russian": "Я читаю книгу, которую написал известный автор.",
+      "farsi": "من کتابی می‌خوانم که توسط نویسنده‌ای معروف نوشته شده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe einen Freund, mit dem ich oft telefoniere.",
+      "english": "I have a friend with whom I often talk on the phone.",
+      "russian": "У меня есть друг, с которым я часто разговариваю по телефону.",
+      "farsi": "من دوستی دارم که با او اغلب تلفنی صحبت می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich wohne in einer Wohnung, die sehr hell und modern ist.",
+      "english": "I live in an apartment that is very bright and modern.",
+      "russian": "Я живу в квартире, которая очень светлая и современная.",
+      "farsi": "من در آپارتمانی زندگی می‌کنم که بسیار روشن و مدرن است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe einen Bruder, der noch zur Schule geht.",
+      "english": "I have a brother who still goes to school.",
+      "russian": "У меня есть брат, который все еще ходит в школу.",
+      "farsi": "من برادری دارم که هنوز به مدرسه می‌رود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich besuche ein Museum, das sehr interessant ist.",
+      "english": "I am visiting a museum that is very interesting.",
+      "russian": "Я посещаю музей, который очень интересный.",
+      "farsi": "من از موزه‌ای بازدید می‌کنم که بسیار جالب است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe einen Freund, mit dem ich Sport treibe.",
+      "english": "I have a friend with whom I play sports.",
+      "russian": "У меня есть друг, с которым я занимаюсь спортом.",
+      "farsi": "من دوستی دارم که با او ورزش می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich höre Musik, die mich entspannt.",
+      "english": "I listen to music that relaxes me.",
+      "russian": "Я слушаю музыку, которая меня расслабляет.",
+      "farsi": "من موسیقی‌ای گوش می‌دهم که مرا آرام می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe eine Tante, die in Frankreich lebt.",
+      "english": "I have an aunt who lives in France.",
+      "russian": "У меня есть тетя, которая живет во Франции.",
+      "farsi": "من خاله‌ای دارم که در فرانسه زندگی می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich mag einen Film, der sehr spannend ist.",
+      "english": "I like a movie that is very exciting.",
+      "russian": "Мне нравится фильм, который очень захватывающий.",
+      "farsi": "من فیلمی را دوست دارم که بسیار هیجان‌انگیز است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe einen Freund, dem ich oft Briefe schreibe.",
+      "english": "I have a friend to whom I often write letters.",
+      "russian": "У меня есть друг, которому я часто пишу письма.",
+      "farsi": "من دوستی دارم که اغلب به او نامه می‌نویسم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich wohne in einem Land, das viele Traditionen hat.",
+      "english": "I live in a country that has many traditions.",
+      "russian": "Я живу в стране, которая имеет много традиций.",
+      "farsi": "من در کشوری زندگی می‌کنم که سنت‌های زیادی دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich benutze ein Handy, das sehr praktisch ist.",
+      "english": "I use a phone that is very practical.",
+      "russian": "Я использую телефон, который очень удобный.",
+      "farsi": "من از گوشی‌ای استفاده می‌کنم که بسیار کاربردی است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich kenne eine Familie, deren Kinder sehr nett sind.",
+      "english": "I know a family whose children are very nice.",
+      "russian": "Я знаю семью, чьи дети очень милые.",
+      "farsi": "من خانواده‌ای را می‌شناسم که فرزندانشان بسیار مهربان هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe eine Freundin, die sehr talentiert ist.",
+      "english": "I have a friend who is very talented.",
+      "russian": "У меня есть подруга, которая очень талантливая.",
+      "farsi": "من دوستی دارم که بسیار بااستعداد است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich besuche eine Universität, die im Zentrum der Stadt liegt.",
+      "english": "I attend a university that is located in the city center.",
+      "russian": "Я учусь в университете, который находится в центре города.",
+      "farsi": "من در دانشگاهی تحصیل می‌کنم که در مرکز شهر قرار دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das ist meine Freundin, deren Eltern Ärzte sind.",
+      "english": "This is my friend whose parents are doctors.",
+      "russian": "Это моя подруга, чьи родители врачи.",
+      "farsi": "این دوست من است که والدینش پزشک هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich spiele ein Instrument, das sehr schwer zu lernen ist.",
+      "english": "I play an instrument that is very hard to learn.",
+      "russian": "Я играю на инструменте, который очень сложно освоить.",
+      "farsi": "من سازی می‌نوازم که یادگیری آن بسیار سخت است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich wohne in einem Dorf, das von Bergen umgeben ist.",
+      "english": "I live in a village that is surrounded by mountains.",
+      "russian": "Я живу в деревне, окруженной горами.",
+      "farsi": "من در روستایی زندگی می‌کنم که توسط کوه‌ها احاطه شده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe eine Lampe, die mein Zimmer erhellt.",
+      "english": "I have a lamp that lights up my room.",
+      "russian": "У меня есть лампа, которая освещает мою комнату.",
+      "farsi": "من چراغی دارم که اتاقم را روشن می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich gehe in eine Bibliothek, in der es viele Bücher gibt.",
+      "english": "I go to a library where there are many books.",
+      "russian": "Я хожу в библиотеку, где есть много книг.",
+      "farsi": "من به کتابخانه‌ای می‌روم که کتاب‌های زیادی دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich esse in einem Restaurant, das italienische Küche anbietet.",
+      "english": "I eat in a restaurant that offers Italian cuisine.",
+      "russian": "Я ем в ресторане, который предлагает итальянскую кухню.",
+      "farsi": "من در رستورانی غذا می‌خورم که غذای ایتالیایی ارائه می‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich mache Urlaub in einem Hotel, das direkt am Strand liegt.",
+      "english": "I am on vacation in a hotel that is right on the beach.",
+      "russian": "Я отдыхаю в отеле, который находится прямо на пляже.",
+      "farsi": "من در هتلی که درست در کنار ساحل است تعطیلات می‌گذرانم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe einen Freund, der in Österreich wohnt.",
+      "english": "I have a friend who lives in Austria.",
+      "russian": "У меня есть друг, который живет в Австрии.",
+      "farsi": "من دوستی دارم که در اتریش زندگی می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe einen Nachbarn, dessen Hund immer bellt.",
+      "english": "I have a neighbor whose dog always barks.",
+      "russian": "У меня есть сосед, чья собака всегда лает.",
+      "farsi": "من همسایه‌ای دارم که سگش همیشه پارس می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich wohne in einer Stadt, die viele Parks hat.",
+      "english": "I live in a city that has many parks.",
+      "russian": "Я живу в городе, где много парков.",
+      "farsi": "من در شهری زندگی می‌کنم که پارک‌های زیادی دارد."
+    }
+  ]
+}

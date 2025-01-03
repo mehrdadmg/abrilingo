@@ -1,0 +1,809 @@
+{
+  "info": {
+    "name": "B1_Sprechen_Teil_2",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Auf dem Bild sehe ich ...",
+      "english": "In the picture, I see ...",
+      "russian": "На картинке я вижу ...",
+      "farsi": "در تصویر من می‌بینم ..."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Auf dem Foto kann man ... erkennen",
+      "english": "In the photo, one can recognize ...",
+      "russian": "На фотографии можно увидеть ...",
+      "farsi": "در عکس می‌توان ... را تشخیص داد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im Vordergrund befindet sich ...",
+      "english": "In the foreground, there is ...",
+      "russian": "На переднем плане находится ...",
+      "farsi": "در پیش‌زمینه ... وجود دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im Hintergrund sieht man ...",
+      "english": "In the background, you can see ...",
+      "russian": "На заднем плане можно увидеть ...",
+      "farsi": "در پس‌زمینه می‌توان ... را دید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Links auf dem Bild ist ...",
+      "english": "On the left of the picture, there is ...",
+      "russian": "Слева на картинке находится ...",
+      "farsi": "در سمت چپ تصویر ... وجود دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Rechts auf dem Foto erkennt man ...",
+      "english": "On the right of the photo, one can see ...",
+      "russian": "Справа на фотографии можно увидеть ...",
+      "farsi": "در سمت راست عکس می‌توان ... را تشخیص داد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In der Mitte des Bildes ist ...",
+      "english": "In the middle of the picture, there is ...",
+      "russian": "В центре картинки находится ...",
+      "farsi": "در وسط تصویر ... وجود دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Szene spielt sich drinnen ab ...",
+      "english": "The scene takes place indoors ...",
+      "russian": "Сцена происходит внутри ...",
+      "farsi": "صحنه در داخل اتفاق می‌افتد ..."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Szene findet draußen statt.",
+      "english": "The scene takes place outdoors.",
+      "russian": "Сцена происходит на улице.",
+      "farsi": "صحنه در فضای باز اتفاق می‌افتد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Bild zeigt einen sonnigen Tag.",
+      "english": "The picture shows a sunny day.",
+      "russian": "Картинка изображает солнечный день.",
+      "farsi": "تصویر یک روز آفتابی را نشان می‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Foto wurde wahrscheinlich im Sommer gemacht.",
+      "english": "The photo was probably taken in the summer.",
+      "russian": "Фотография, вероятно, сделана летом.",
+      "farsi": "عکس احتمالاً در تابستان گرفته شده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man sieht viele Menschen.",
+      "english": "You can see many people.",
+      "russian": "Можно увидеть много людей.",
+      "farsi": "می‌توان افراد زیادی را دید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es handelt sich um ein Familienfoto.",
+      "english": "This is a family photo.",
+      "russian": "Это семейная фотография.",
+      "farsi": "این یک عکس خانوادگی است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Bild wirkt sehr lebendig.",
+      "english": "The picture appears very lively.",
+      "russian": "Картинка выглядит очень оживлённой.",
+      "farsi": "تصویر بسیار زنده به نظر می‌رسد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Atmosphäre ist freundlich.",
+      "english": "The atmosphere is friendly.",
+      "russian": "Атмосфера дружелюбная.",
+      "farsi": "فضا دوستانه است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Farben sind hell und fröhlich.",
+      "english": "The colors are bright and cheerful.",
+      "russian": "Цвета яркие и радостные.",
+      "farsi": "رنگ‌ها روشن و شاد هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im Bild sieht man eine Gruppe von Freunden.",
+      "english": "In the picture, you can see a group of friends.",
+      "russian": "На картинке можно увидеть группу друзей.",
+      "farsi": "در تصویر می‌توان یک گروه از دوستان را دید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Personen auf dem Foto lachen.",
+      "english": "The people in the photo are laughing.",
+      "russian": "Люди на фотографии смеются.",
+      "farsi": "افراد در عکس در حال خندیدن هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Wetter sieht angenehm aus.",
+      "english": "The weather looks pleasant.",
+      "russian": "Погода выглядит приятной.",
+      "farsi": "هوا دلپذیر به نظر می‌رسد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man kann einen Park erkennen.",
+      "english": "You can recognize a park.",
+      "russian": "Можно узнать парк.",
+      "farsi": "می‌توان یک پارک را تشخیص داد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Auf dem Foto ist eine Stadt zu sehen.",
+      "english": "A city can be seen in the photo.",
+      "russian": "На фотографии виден город.",
+      "farsi": "در عکس یک شهر دیده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Person trägt eine blaue Jacke.",
+      "english": "The person is wearing a blue jacket.",
+      "russian": "Человек носит синюю куртку.",
+      "farsi": "شخص یک کاپشن آبی پوشیده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Menschen scheinen glücklich zu sein.",
+      "english": "The people seem to be happy.",
+      "russian": "Люди, кажется, счастливы.",
+      "farsi": "افراد به نظر می‌رسد خوشحال هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im Hintergrund gibt es viele Bäume.",
+      "english": "There are many trees in the background.",
+      "russian": "На заднем плане много деревьев.",
+      "farsi": "در پس‌زمینه درختان زیادی وجود دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Bild könnte in Deutschland aufgenommen sein.",
+      "english": "The picture might have been taken in Germany.",
+      "russian": "Картинка могла быть сделана в Германии.",
+      "farsi": "تصویر ممکن است در آلمان گرفته شده باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Frau hat lange, blonde Haare.",
+      "english": "The woman has long, blonde hair.",
+      "russian": "У женщины длинные светлые волосы.",
+      "farsi": "زن موهای بلند و بلوند دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Mann trägt einen Hut.",
+      "english": "The man is wearing a hat.",
+      "russian": "Мужчина носит шляпу.",
+      "farsi": "مرد یک کلاه به سر دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Kinder spielen auf der Wiese.",
+      "english": "The children are playing on the meadow.",
+      "russian": "Дети играют на лугу.",
+      "farsi": "کودکان در چمنزار بازی می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man sieht ein Haus im Hintergrund.",
+      "english": "You can see a house in the background.",
+      "russian": "На заднем плане видно дом.",
+      "farsi": "در پس‌زمینه یک خانه دیده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Foto vermittelt ein Gefühl von Ruhe.",
+      "english": "The photo conveys a feeling of calm.",
+      "russian": "Фотография передаёт чувство спокойствия.",
+      "farsi": "عکس حس آرامش را منتقل می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es ist ein Fest, vielleicht eine Hochzeit.",
+      "english": "It's a celebration, maybe a wedding.",
+      "russian": "Это праздник, возможно, свадьба.",
+      "farsi": "این یک جشن است، شاید یک عروسی."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Menschen sitzen am Tisch.",
+      "english": "The people are sitting at the table.",
+      "russian": "Люди сидят за столом.",
+      "farsi": "افراد سر میز نشسته‌اند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man erkennt ein schönes Landschaftsbild.",
+      "english": "You can recognize a beautiful landscape.",
+      "russian": "Можно увидеть красивый пейзаж.",
+      "farsi": "می‌توان یک منظره زیبا را دید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im Bild sieht man Berge im Hintergrund.",
+      "english": "In the picture, you can see mountains in the background.",
+      "russian": "На картинке видно горы на заднем плане.",
+      "farsi": "در تصویر کوه‌ها در پس‌زمینه دیده می‌شوند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Auf dem Foto gibt es einen Strand.",
+      "english": "There is a beach in the photo.",
+      "russian": "На фотографии есть пляж.",
+      "farsi": "در عکس یک ساحل وجود دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es sieht nach einem Ausflug aus.",
+      "english": "It looks like a trip.",
+      "russian": "Это похоже на поездку.",
+      "farsi": "به نظر می‌رسد یک گردش باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Bild zeigt eine ruhige Straße.",
+      "english": "The picture shows a quiet street.",
+      "russian": "На картинке изображена тихая улица.",
+      "farsi": "تصویر یک خیابان آرام را نشان می‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im Bild sieht man ein Cafe.",
+      "english": "In the picture, you can see a cafe.",
+      "russian": "На картинке видно кафе.",
+      "farsi": "در تصویر یک کافه دیده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Bild zeigt eine glückliche Familie.",
+      "english": "The picture shows a happy family.",
+      "russian": "На картинке изображена счастливая семья.",
+      "farsi": "تصویر یک خانواده خوشحال را نشان می‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Menschen sehen beschäftigt aus.",
+      "english": "The people look busy.",
+      "russian": "Люди выглядят занятыми.",
+      "farsi": "افراد مشغول به نظر می‌رسند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man erkennt ein schönes Kleid.",
+      "english": "You can recognize a beautiful dress.",
+      "russian": "Можно увидеть красивое платье.",
+      "farsi": "یک لباس زیبا دیده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es scheint Abend zu sein.",
+      "english": "It seems to be evening.",
+      "russian": "Кажется, это вечер.",
+      "farsi": "به نظر می‌رسد عصر باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im Bild gibt es ein Fahrrad.",
+      "english": "There is a bicycle in the picture.",
+      "russian": "На картинке есть велосипед.",
+      "farsi": "در تصویر یک دوچرخه وجود دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Auf dem Foto kann man einen Hund sehen.",
+      "english": "You can see a dog in the photo.",
+      "russian": "На фотографии можно увидеть собаку.",
+      "farsi": "در عکس یک سگ دیده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Menschen sitzen auf einer Bank.",
+      "english": "The people are sitting on a bench.",
+      "russian": "Люди сидят на скамейке.",
+      "farsi": "افراد روی نیمکت نشسته‌اند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es könnte in einem Museum sein.",
+      "english": "It could be in a museum.",
+      "russian": "Это могло бы быть в музее.",
+      "farsi": "ممکن است در یک موزه باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Bild wirkt sehr romantisch.",
+      "english": "The picture looks very romantic.",
+      "russian": "Картинка выглядит очень романтично.",
+      "farsi": "تصویر بسیار رمانتیک به نظر می‌رسد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Wetter sieht regnerisch aus.",
+      "english": "The weather looks rainy.",
+      "russian": "Погода выглядит дождливой.",
+      "farsi": "هوا بارانی به نظر می‌رسد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Farben des Fotos sind eher dunkel.",
+      "english": "The colors of the photo are rather dark.",
+      "russian": "Цвета на фотографии довольно тёмные.",
+      "farsi": "رنگ‌های عکس نسبتاً تیره هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Szene könnte in einem kleinen Dorf sein.",
+      "english": "The scene could be in a small village.",
+      "russian": "Сцена могла бы быть в маленькой деревне.",
+      "farsi": "صحنه می‌تواند در یک روستای کوچک باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es handelt sich um ein Urlaubsfoto.",
+      "english": "It is a vacation photo.",
+      "russian": "Это фото с отпуска.",
+      "farsi": "این یک عکس تعطیلاتی است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Auf dem Bild sieht man eine Menschenmenge.",
+      "english": "In the picture, you can see a crowd of people.",
+      "russian": "На картинке видна толпа людей.",
+      "farsi": "در تصویر یک جمعیت دیده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Personen auf dem Foto sind gut gekleidet.",
+      "english": "The people in the photo are well-dressed.",
+      "russian": "Люди на фотографии хорошо одеты.",
+      "farsi": "افراد در عکس خوش‌لباس هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Wetter ist sonnig und warm.",
+      "english": "The weather is sunny and warm.",
+      "russian": "Погода солнечная и тёплая.",
+      "farsi": "هوا آفتابی و گرم است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man erkennt einen schönen Sonnenuntergang.",
+      "english": "You can see a beautiful sunset.",
+      "russian": "Можно увидеть красивый закат.",
+      "farsi": "یک غروب زیبا دیده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Szene spielt sich an einem Strand ab.",
+      "english": "The scene takes place on a beach.",
+      "russian": "Сцена происходит на пляже.",
+      "farsi": "صحنه در یک ساحل اتفاق می‌افتد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im Hintergrund sieht man eine Brücke.",
+      "english": "In the background, you can see a bridge.",
+      "russian": "На заднем плане виден мост.",
+      "farsi": "در پس‌زمینه یک پل دیده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es ist ein Winterbild mit viel Schnee.",
+      "english": "It is a winter picture with a lot of snow.",
+      "russian": "Это зимняя картинка с большим количеством снега.",
+      "farsi": "این یک تصویر زمستانی با برف زیاد است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Menschen auf dem Foto machen ein Picknick.",
+      "english": "The people in the photo are having a picnic.",
+      "russian": "Люди на фотографии устраивают пикник.",
+      "farsi": "افراد در عکس یک پیک‌نیک دارند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im Vordergrund sieht man ein Kind mit einem Ball.",
+      "english": "In the foreground, you can see a child with a ball.",
+      "russian": "На переднем плане видно ребёнка с мячом.",
+      "farsi": "در پیش‌زمینه یک کودک با توپ دیده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Person schaut in die Kamera und lächelt.",
+      "english": "The person is looking at the camera and smiling.",
+      "russian": "Человек смотрит в камеру и улыбается.",
+      "farsi": "فرد به دوربین نگاه می‌کند و لبخند می‌زند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Auf dem Bild gibt es viele Blumen.",
+      "english": "There are many flowers in the picture.",
+      "russian": "На картинке много цветов.",
+      "farsi": "در تصویر گل‌های زیادی وجود دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man sieht einen Hund, der spielt.",
+      "english": "You can see a dog playing.",
+      "russian": "Можно увидеть собаку, которая играет.",
+      "farsi": "یک سگ در حال بازی دیده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Personen scheinen etwas zu feiern.",
+      "english": "The people seem to be celebrating something.",
+      "russian": "Люди, кажется, что-то празднуют.",
+      "farsi": "به نظر می‌رسد افراد در حال جشن گرفتن چیزی هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Foto zeigt eine große Stadt mit hohen Gebäuden.",
+      "english": "The photo shows a big city with tall buildings.",
+      "russian": "На фотографии изображён большой город с высокими зданиями.",
+      "farsi": "عکس یک شهر بزرگ با ساختمان‌های بلند را نشان می‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es gibt Wolken am Himmel.",
+      "english": "There are clouds in the sky.",
+      "russian": "На небе есть облака.",
+      "farsi": "ابرهایی در آسمان وجود دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Szene ist sehr bunt und lebendig.",
+      "english": "The scene is very colorful and lively.",
+      "russian": "Сцена очень яркая и оживлённая.",
+      "farsi": "صحنه بسیار رنگارنگ و زنده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man erkennt ein Auto im Hintergrund.",
+      "english": "You can see a car in the background.",
+      "russian": "На заднем плане виден автомобиль.",
+      "farsi": "در پس‌زمینه یک ماشین دیده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Menschen trinken Kaffee und unterhalten sich.",
+      "english": "The people are drinking coffee and talking.",
+      "russian": "Люди пьют кофе и разговаривают.",
+      "farsi": "افراد قهوه می‌نوشند و صحبت می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es könnte sich um einen Markt handeln.",
+      "english": "It could be a market.",
+      "russian": "Это может быть рынок.",
+      "farsi": "این ممکن است یک بازار باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im Bild sieht man einen See oder Fluss.",
+      "english": "You can see a lake or river in the picture.",
+      "russian": "На картинке виден озеро или река.",
+      "farsi": "در تصویر یک دریاچه یا رودخانه دیده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Personen tragen warme Kleidung.",
+      "english": "The people are wearing warm clothes.",
+      "russian": "Люди одеты в тёплую одежду.",
+      "farsi": "افراد لباس‌های گرم پوشیده‌اند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es sieht aus wie ein Garten.",
+      "english": "It looks like a garden.",
+      "russian": "Это похоже на сад.",
+      "farsi": "به نظر می‌رسد یک باغ است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man erkennt einen alten Mann mit einem Hut.",
+      "english": "You can see an old man with a hat.",
+      "russian": "Видно пожилого мужчину в шляпе.",
+      "farsi": "یک مرد مسن با یک کلاه دیده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Foto zeigt ein Hochzeitspaar.",
+      "english": "The photo shows a wedding couple.",
+      "russian": "На фотографии изображена свадебная пара.",
+      "farsi": "عکس یک زوج عروس و داماد را نشان می‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im Bild sieht man ein schönes altes Gebäude.",
+      "english": "You can see a beautiful old building in the picture.",
+      "russian": "На картинке видно красивое старинное здание.",
+      "farsi": "در تصویر یک ساختمان قدیمی زیبا دیده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Szene spielt sich wahrscheinlich im Frühling ab.",
+      "english": "The scene probably takes place in spring.",
+      "russian": "Сцена, вероятно, происходит весной.",
+      "farsi": "صحنه احتمالاً در بهار اتفاق می‌افتد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Menschen halten Gläser in der Hand.",
+      "english": "The people are holding glasses in their hands.",
+      "russian": "Люди держат в руках бокалы.",
+      "farsi": "افراد لیوان‌هایی در دست دارند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Foto vermittelt eine warme Stimmung.",
+      "english": "The photo conveys a warm atmosphere.",
+      "russian": "Фотография передаёт тёплую атмосферу.",
+      "farsi": "عکس یک حس گرم و دلنشین را منتقل می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man sieht Kinder, die im Wasser spielen.",
+      "english": "You can see children playing in the water.",
+      "russian": "Видно детей, которые играют в воде.",
+      "farsi": "کودکانی دیده می‌شوند که در آب بازی می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Foto zeigt eine Straße mit vielen Autos.",
+      "english": "The photo shows a street with many cars.",
+      "russian": "На фотографии изображена улица с множеством автомобилей.",
+      "farsi": "عکس خیابانی با ماشین‌های زیاد را نشان می‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im Hintergrund gibt es Berge mit Schnee.",
+      "english": "There are snowy mountains in the background.",
+      "russian": "На заднем плане видны горы со снегом.",
+      "farsi": "در پس‌زمینه کوه‌های پوشیده از برف وجود دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es sieht aus wie eine Sportveranstaltung.",
+      "english": "It looks like a sports event.",
+      "russian": "Это похоже на спортивное мероприятие.",
+      "farsi": "به نظر می‌رسد یک رویداد ورزشی باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man erkennt ein Flugzeug am Himmel.",
+      "english": "You can see a plane in the sky.",
+      "russian": "На небе видно самолёт.",
+      "farsi": "یک هواپیما در آسمان دیده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Menschen scheinen sich zu entspannen.",
+      "english": "The people seem to be relaxing.",
+      "russian": "Люди, кажется, отдыхают.",
+      "farsi": "به نظر می‌رسد افراد در حال استراحت هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Auf dem Bild gibt es einen großen Baum.",
+      "english": "There is a big tree in the picture.",
+      "russian": "На картинке видно большое дерево.",
+      "farsi": "در تصویر یک درخت بزرگ وجود دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Foto wurde wahrscheinlich in einem Restaurant gemacht.",
+      "english": "The photo was probably taken in a restaurant.",
+      "russian": "Фотография, вероятно, сделана в ресторане.",
+      "farsi": "عکس احتمالاً در یک رستوران گرفته شده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man sieht ein Paar, das tanzt.",
+      "english": "You can see a couple dancing.",
+      "russian": "Видно пару, которая танцует.",
+      "farsi": "یک زوج دیده می‌شود که در حال رقص هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Bild wirkt nostalgisch.",
+      "english": "The picture seems nostalgic.",
+      "russian": "Картина кажется ностальгической.",
+      "farsi": "تصویر حالت نوستالژیکی دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Personen tragen elegante Kleidung.",
+      "english": "The people are wearing elegant clothes.",
+      "russian": "Люди одеты в элегантную одежду.",
+      "farsi": "افراد لباس‌های شیک پوشیده‌اند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es gibt viele Wolken am Himmel.",
+      "english": "There are many clouds in the sky.",
+      "russian": "На небе много облаков.",
+      "farsi": "ابرهای زیادی در آسمان وجود دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Szene spielt sich auf einem Feld ab.",
+      "english": "The scene takes place in a field.",
+      "russian": "Сцена разворачивается на поле.",
+      "farsi": "صحنه در یک مزرعه اتفاق می‌افتد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man erkennt ein Boot auf dem Wasser.",
+      "english": "You can see a boat on the water.",
+      "russian": "На воде видна лодка.",
+      "farsi": "یک قایق روی آب دیده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Menschen machen Fotos.",
+      "english": "The people are taking photos.",
+      "russian": "Люди делают фотографии.",
+      "farsi": "افراد در حال عکس گرفتن هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Foto zeigt eine Szene aus dem Alltag.",
+      "english": "The photo shows a scene from everyday life.",
+      "russian": "На фотографии изображена сцена из повседневной жизни.",
+      "farsi": "عکس یک صحنه از زندگی روزمره را نشان می‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im Vordergrund gibt es einen Tisch mit Essen.",
+      "english": "In the foreground, there is a table with food.",
+      "russian": "На переднем плане стол с едой.",
+      "farsi": "در پیش‌زمینه یک میز با غذا وجود دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Menschen scheinen sich zu unterhalten.",
+      "english": "The people seem to be talking.",
+      "russian": "Люди, кажется, разговаривают.",
+      "farsi": "به نظر می‌رسد افراد در حال صحبت کردن هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Bild könnte während einer Reise aufgenommen sein.",
+      "english": "The picture might have been taken during a trip.",
+      "russian": "Фотография могла быть сделана во время поездки.",
+      "farsi": "عکس ممکن است در طول یک سفر گرفته شده باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man sieht eine Katze auf dem Bild.",
+      "english": "You can see a cat in the picture.",
+      "russian": "На картинке видна кошка.",
+      "farsi": "یک گربه در تصویر دیده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Personen auf dem Bild sind jung.",
+      "english": "The people in the picture are young.",
+      "russian": "Люди на фотографии молоды.",
+      "farsi": "افراد در تصویر جوان هستند."
+    }
+  ]
+}

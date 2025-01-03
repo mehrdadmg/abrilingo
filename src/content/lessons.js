@@ -36,8 +36,12 @@ const noSentenceSelected = {
 
 const alllessons = [
   {
-    file_name: 'quiz_1.json',
-    name: 'Quiz_1',
+    file_name: 'b1_sprechen_teil_1.json',
+    name: 'B1_Sprechen_Teil_1',
+  },
+  {
+    file_name: 'b1_sprechen_teil_2.json',
+    name: 'B1_Sprechen_Teil_2',
   },
   {
     file_name: 'a1_unregelmäßige_verben.json',
@@ -70,6 +74,10 @@ const alllessons = [
   {
     file_name: 'a2_regelmäßige_verben_sentence.json',
     name: 'A2_Regelmäßige_Verben_Sentence',
+  },
+  {
+    file_name: 'fokus_b1_verben.json',
+    name: 'Fokus_B1_Verben',
   },
   /* {
     file_name: 'verben_01.json',
@@ -126,6 +134,18 @@ const alllessons = [
   {
     file_name: 'b1_fokus_u02.json',
     name: 'B1_Fokus_u02',
+  },
+  {
+    file_name: 'b1_fokus_u03.json',
+    name: 'B1_Fokus_u03',
+  },
+  {
+    file_name: 'b1_fokus_u04.json',
+    name: 'B1_Fokus_u04',
+  },
+  {
+    file_name: 'im_supermarkt.json',
+    name: 'Im_Supermarkt',
   },
   {
     file_name: 'essen.json',
@@ -318,6 +338,10 @@ const alllessons = [
   {
     file_name: 'frontend_100_200.json',
     name: 'Frontend_100_200',
+  },
+  {
+    file_name: 'quiz_1.json',
+    name: 'Quiz_1',
   },
 ];
 const allLanguagesTranslate = ['english', 'russian', 'farsi'];

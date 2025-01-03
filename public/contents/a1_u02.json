@@ -8,66 +8,122 @@
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Willkommen in unserer Sendung ‘Leute in Deutschland’.",
-      "english": "Welcome to our show 'People in Germany'.",
-      "russian": "Добро пожаловать в нашу программу 'Люди в Германии'.",
-      "farsi": "به برنامه ما 'مردم در آلمان' خوش آمدید."
+      "sentence": "Leben Sie schon lange in Deutschland?",
+      "english": "Have you been living in Germany for a long time?",
+      "russian": "Вы давно живёте в Германии?",
+      "farsi": "آیا مدت زیادی است که در آلمان زندگی می‌کنید؟"
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Herr und Frau Monti, leben Sie schon lange in Deutschland?",
-      "english": "Mr. and Mrs. Monti, have you been living in Germany for a long time?",
-      "russian": "Господин и госпожа Монти, вы уже давно живёте в Германии?",
-      "farsi": "آقای و خانم مونتی، آیا مدت زیادی است که در آلمان زندگی می‌کنید؟"
+      "sentence": "Sind Sie neu hier?",
+      "english": "Are you new here?",
+      "russian": "Вы здесь новенький?",
+      "farsi": "آیا شما تازه وارد اینجا هستید؟"
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Oder sind Sie neu hier?",
-      "english": "Or are you new here?",
-      "russian": "Или вы новенькие здесь?",
-      "farsi": "یا تازه وارد هستید؟"
+      "sentence": "Wir leben schon lange in Deutschland.",
+      "english": "We have been living in Germany for a long time.",
+      "russian": "Мы давно живём в Германии.",
+      "farsi": "ما مدت زیادی است که در آلمان زندگی می‌کنیم."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Nein, nein, wir leben schon lange in Deutschland, wir sind schon zwanzig Jahre hier.",
-      "english": "No, no, we have been living in Germany for a long time, we have been here for twenty years.",
-      "russian": "Нет, нет, мы уже давно живём в Германии, мы здесь уже двадцать лет.",
-      "farsi": "نه، نه، ما مدت زیادی است که در آلمان زندگی می‌کنیم، ما بیست سال است که اینجا هستیم."
+      "sentence": "Wir sind schon 12 Jahre hier.",
+      "english": "We have been here for 12 years already.",
+      "russian": "Мы здесь уже 12 лет.",
+      "farsi": "ما ۱۲ سال است که اینجا هستیم."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Ich arbeite bei Siemens hier in München.",
-      "english": "I work at Siemens here in Munich.",
-      "russian": "Я работаю в Siemens здесь, в Мюнхене.",
-      "farsi": "من در زیمنس اینجا در مونیخ کار می‌کنم."
+      "sentence": "Wo arbeiten Sie?",
+      "english": "Where do you work?",
+      "russian": "Где вы работаете?",
+      "farsi": "کجا کار می‌کنید؟"
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Meine Frau ist Sekretärin in einer Sprachschule.",
-      "english": "My wife is a secretary at a language school.",
-      "russian": "Моя жена - секретарь в языковой школе.",
-      "farsi": "همسرم منشی یک مدرسه زبان است."
+      "sentence": "Ich arbeite bei Bosch hier in Stuttgart.",
+      "english": "I work at Bosch here in Stuttgart.",
+      "russian": "Я работаю в Bosch здесь, в Штутгарте.",
+      "farsi": "من در شرکت بوش اینجا در اشتوتگارت کار می‌کنم."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Woher kommen Sie?",
-      "english": "Where are you from?",
-      "russian": "Откуда вы?",
-      "farsi": "اهل کجا هستید؟"
+      "sentence": "Ich kenne Bosch nicht.",
+      "english": "I don't know Bosch.",
+      "russian": "Я не знаю Bosch.",
+      "farsi": "من شرکت بوش را نمی‌شناسم."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Ich komme aus Italien und meine Frau kommt aus Polen.",
-      "english": "I come from Italy and my wife comes from Poland.",
-      "russian": "Я из Италии, а моя жена из Польши.",
-      "farsi": "من اهل ایتالیا هستم و همسرم اهل لهستان است."
+      "sentence": "Ich lebe in Salzwedel und suche eine Arbeit.",
+      "english": "I live in Salzwedel and am looking for a job.",
+      "russian": "Я живу в Зальцведеле и ищу работу.",
+      "farsi": "من در سالزودل زندگی می‌کنم و دنبال کار می‌گردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wo arbeitet deine Frau?",
+      "english": "Where does your wife work?",
+      "russian": "Где работает твоя жена?",
+      "farsi": "همسر شما کجا کار می‌کند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Meine Frau ist Sekretärin in der Sprachschule.",
+      "english": "My wife is a secretary at the language school.",
+      "russian": "Моя жена работает секретарём в языковой школе.",
+      "farsi": "همسر من منشی در مدرسه زبان است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie arbeitet als Sekretärin in der Sprachschule.",
+      "english": "She works as a secretary at the language school.",
+      "russian": "Она работает секретарём в языковой школе.",
+      "farsi": "او به عنوان منشی در مدرسه زبان کار می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Woher kommt deine Frau?",
+      "english": "Where is your wife from?",
+      "russian": "Откуда твоя жена?",
+      "farsi": "همسر شما اهل کجاست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Meine Frau kommt aus der Ukraine.",
+      "english": "My wife is from Ukraine.",
+      "russian": "Моя жена из Украины.",
+      "farsi": "همسر من اهل اوکراین است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein Bruder lebt und arbeitet in Frankfurt.",
+      "english": "My brother lives and works in Frankfurt.",
+      "russian": "Мой брат живёт и работает во Франкфурте.",
+      "farsi": "برادر من در فرانکفورت زندگی و کار می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er spricht Deutsch und Englisch.",
+      "english": "He speaks German and English.",
+      "russian": "Он говорит на немецком и английском.",
+      "farsi": "او آلمانی و انگلیسی صحبت می‌کند."
     },
     {
       "isSelected": false,
@@ -75,224 +131,215 @@
       "sentence": "Welche Sprachen sprechen Sie?",
       "english": "Which languages do you speak?",
       "russian": "На каких языках вы говорите?",
-      "farsi": "چه زبان‌هایی صحبت می‌کنید؟"
+      "farsi": "به چه زبان‌هایی صحبت می‌کنید؟"
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Wir sprechen Italienisch, Polnisch, natürlich Deutsch und ein bisschen Spanisch.",
-      "english": "We speak Italian, Polish, of course German, and a little Spanish.",
-      "russian": "Мы говорим на итальянском, польском, конечно, на немецком и немного на испанском.",
-      "farsi": "ما ایتالیایی، لهستانی، البته آلمانی و کمی اسپانیایی صحبت می‌کنیم."
+      "sentence": "Meine Muttersprache ist Persisch aber ich spreche Russisch, Englisch und ein bisschen Deutsch.",
+      "english": "My native language is Persian, but I speak Russian, English, and a little German.",
+      "russian": "Мой родной язык — персидский, но я говорю на русском, английском и немного на немецком.",
+      "farsi": "زبان مادری من فارسی است، اما به روسی، انگلیسی و کمی آلمانی صحبت می‌کنم."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Und jetzt lernen wir Englisch.",
-      "english": "And now we are learning English.",
-      "russian": "И сейчас мы учим английский.",
-      "farsi": "و حالا در حال یادگیری انگلیسی هستیم."
+      "sentence": "Jetzt lerne ich Deutsch.",
+      "english": "Now I am learning German.",
+      "russian": "Сейчас я учу немецкий.",
+      "farsi": "اکنون من در حال یادگیری آلمانی هستم."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Hallo, Marie, hast du die Handynummer von Paul?",
-      "english": "Hello, Marie, do you have Paul's cell phone number?",
-      "russian": "Привет, Мари, у тебя есть номер мобильного Пола?",
-      "farsi": "سلام، ماری، شماره موبایل پل را داری؟"
+      "sentence": "Hast du die Handynummer von Marina?",
+      "english": "Do you have Marina's mobile number?",
+      "russian": "У тебя есть номер мобильного телефона Марины?",
+      "farsi": "آیا شماره موبایل مارینا را داری؟"
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Ja, die Nummer ist 0177 - 25 35 53.",
-      "english": "Yes, the number is 0177 - 25 35 53.",
-      "russian": "Да, номер 0177 - 25 35 53.",
-      "farsi": "بله، شماره ۰۱۷۷ - ۲۵ ۳۵ ۵۳ است."
+      "sentence": "Ja, die Nummer ist 0162… .",
+      "english": "Yes, the number is 0162… .",
+      "russian": "Да, номер — 0162… .",
+      "farsi": "بله، شماره ۰۱۶۲… است."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Haben Sie die Telefonnummer von Herrn Weiß?",
-      "english": "Do you have Mr. Weiß's phone number?",
-      "russian": "У вас есть номер телефона господина Вайс?",
-      "farsi": "آیا شماره تلفن آقای وایس را دارید؟"
+      "sentence": "Haben Sie die Telefonnummer von Herrn Meyer?",
+      "english": "Do you have Mr. Meyer's phone number?",
+      "russian": "У вас есть номер телефона господина Майера?",
+      "farsi": "آیا شماره تلفن آقای مایر را دارید؟"
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Nein, die Telefonnummer habe ich nicht, ich habe die Handynummer: 0174689731.",
-      "english": "No, I don't have the phone number, I have the cell phone number: 0174689731.",
-      "russian": "Нет, у меня нет номера телефона, у меня есть номер мобильного: 0174689731.",
-      "farsi": "نه، شماره تلفن را ندارم، شماره موبایل را دارم: ۰۱۷۴۶۸۹۷۳۱."
+      "sentence": "Nein, die Telefonnummer habe ich nicht.",
+      "english": "No, I don't have the phone number.",
+      "russian": "Нет, у меня нет этого номера телефона.",
+      "farsi": "نه، من این شماره تلفن را ندارم."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Wie ist die Handynummer von Frau Tanner?",
-      "english": "What is Mrs. Tanner's cell phone number?",
-      "russian": "Какой номер мобильного у госпожи Таннер?",
-      "farsi": "شماره موبایل خانم تنر چیست؟"
+      "sentence": "Ich habe die Handynummer: 0162...",
+      "english": "I have the mobile number: 0162…",
+      "russian": "У меня есть номер мобильного: 0162…",
+      "farsi": "من شماره موبایل را دارم: ۰۱۶۲…"
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Frau Tanner hat kein Handy. Ach so.",
-      "english": "Mrs. Tanner doesn't have a cell phone. Oh, I see.",
-      "russian": "У госпожи Таннер нет мобильного телефона. Понятно.",
-      "farsi": "خانم تنر موبایل ندارد. آها، فهمیدم."
+      "sentence": "Wie ist die Handynummer von Frau Wagner?",
+      "english": "What is Mrs. Wagner's mobile number?",
+      "russian": "Какой номер мобильного телефона у госпожи Вагнер?",
+      "farsi": "شماره موبایل خانم واگنر چیست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Frau Wagner hat kein Handy.",
+      "english": "Mrs. Wagner doesn't have a mobile phone.",
+      "russian": "У госпожи Вагнер нет мобильного телефона.",
+      "farsi": "خانم واگنر موبایل ندارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ach so.",
+      "english": "Oh, I see.",
+      "russian": "Ах вот как.",
+      "farsi": "آهان، فهمیدم."
     },
     {
       "isSelected": false,
       "type": "sentence",
       "sentence": "Entschuldigung, haben Sie die Nummer von der Sprachschule?",
-      "english": "Excuse me, do you have the number for the language school?",
+      "english": "Excuse me, do you have the language school's number?",
       "russian": "Извините, у вас есть номер языковой школы?",
       "farsi": "ببخشید، آیا شماره مدرسه زبان را دارید؟"
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Ja, die Nummer ist 0711 - 38 38 33.",
-      "english": "Yes, the number is 0711 - 38 38 33.",
-      "russian": "Да, номер 0711 - 38 38 33.",
-      "farsi": "بله، شماره ۰۷۱۱ - ۳۸ ۳۸ ۳۳ است."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Ja, genau.",
-      "english": "Yes, exactly.",
-      "russian": "Да, точно.",
-      "farsi": "بله، دقیقاً."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Vielen Dank.",
-      "english": "Thank you very much.",
-      "russian": "Большое спасибо.",
-      "farsi": "بسیار متشکرم."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Birthe hat jetzt ein Telefon!",
-      "english": "Birthe has a phone now!",
-      "russian": "Бирте теперь есть телефон!",
-      "farsi": "برته اکنون یک تلفن دارد!"
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Und wie ist die Nummer?",
-      "english": "And what is the number?",
-      "russian": "А какой номер?",
-      "farsi": "و شماره چیست؟"
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Die Vorwahl ist 02552.",
-      "english": "The area code is 02552.",
-      "russian": "Код города 02552.",
-      "farsi": "کد منطقه ۰۲۵۵۲ است."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Ja, und die Nummer?",
-      "english": "Yes, and the number?",
-      "russian": "Да, а номер?",
-      "farsi": "بله، و شماره؟"
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Die Nummer ist zwei, null, drei, eins, zwei, zwei.",
-      "english": "The number is two, zero, three, one, two, two.",
-      "russian": "Номер два, ноль, три, один, два, два.",
-      "farsi": "شماره دو، صفر، سه، یک، دو، دو است."
+      "sentence": "Ja, die Nummer ist 0523 - 1203486.",
+      "english": "Yes, the number is 0523 - 1203486.",
+      "russian": "Да, номер — 0523 - 1203486.",
+      "farsi": "بله، شماره ۰۵۲۳ - ۱۲۰۳۴۸۶ است."
     },
     {
       "isSelected": false,
       "type": "sentence",
       "sentence": "Wie ist Ihre Adresse?",
       "english": "What is your address?",
-      "russian": "Какой ваш адрес?",
+      "russian": "Какой у вас адрес?",
       "farsi": "آدرس شما چیست؟"
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Wie ist Ihre Handynummer?",
-      "english": "What is your cell phone number?",
-      "russian": "Какой ваш номер мобильного?",
-      "farsi": "شماره موبایل شما چیست؟"
+      "sentence": "Meine Adresse ist Kleinestraße, 40.",
+      "english": "My address is Kleinestraße, 40.",
+      "russian": "Мой адрес — Kleinestraße, 40.",
+      "farsi": "آدرس من Kleinestraße, ۴۰ است."
     },
     {
       "isSelected": false,
       "type": "sentence",
       "sentence": "Wie ist Ihre E-Mail-Adresse?",
       "english": "What is your email address?",
-      "russian": "Какой ваш адрес электронной почты?",
-
+      "russian": "Какой у вас адрес электронной почты?",
       "farsi": "آدرس ایمیل شما چیست؟"
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Welche Sprachen sprechen Sie?",
-      "english": "Which languages do you speak?",
-      "russian": "На каких языках вы говорите?",
-      "farsi": "چه زبان‌هایی صحبت می‌کنید؟"
+      "sentence": "Meine E-Mail-Adresse ist m.mayer@gmail.com.",
+      "english": "My email address is m.mayer@gmail.com.",
+      "russian": "Мой адрес электронной почты — m.mayer@gmail.com.",
+      "farsi": "آدرس ایمیل من m.mayer@gmail.com است."
     },
     {
       "isSelected": false,
       "type": "sentence",
       "sentence": "Was ist Ihre Muttersprache?",
-      "english": "What is your native language?",
+      "english": "What is your mother tongue?",
       "russian": "Какой ваш родной язык?",
       "farsi": "زبان مادری شما چیست؟"
     },
     {
       "isSelected": false,
       "type": "sentence",
+      "sentence": "Was ist deine Muttersprache?",
+      "english": "What is your mother tongue?",
+      "russian": "Какой твой родной язык?",
+      "farsi": "زبان مادری تو چیست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Meine Muttersprache ist Ukrainisch.",
+      "english": "My mother tongue is Ukrainian.",
+      "russian": "Мой родной язык — украинский.",
+      "farsi": "زبان مادری من اوکراینی است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
       "sentence": "Was ist Ihre Nationalität?",
       "english": "What is your nationality?",
-      "russian": "Какая у вас национальность?",
+      "russian": "Какое у вас гражданство?",
       "farsi": "ملیت شما چیست؟"
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Wie heißt das auf Deutsch?",
-      "english": "What is that called in German?",
-      "russian": "Как это называется на немецком?",
-      "farsi": "این به آلمانی چه نام دارد؟"
+      "sentence": "Was ist deine Nationalität?",
+      "english": "What is your nationality?",
+      "russian": "Какое у тебя гражданство?",
+      "farsi": "ملیت تو چیست؟"
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Wie schreibt man das?",
-      "english": "How do you spell that?",
-      "russian": "Как это пишется?",
-      "farsi": "این چگونه نوشته می‌شود؟"
+      "sentence": "Meine Nationalität ist Iraner.",
+      "english": "My nationality is Iranian.",
+      "russian": "Моё гражданство — иранское.",
+      "farsi": "ملیت من ایرانی است."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Wie ist der Artikel?",
-      "english": "What is the article?",
-      "russian": "Какой артикль?",
-      "farsi": "حرف تعریف چیست؟"
+      "sentence": "Meine Nationalität ist Ukrainisch.",
+      "english": "My nationality is Ukrainian.",
+      "russian": "Моё гражданство — украинское.",
+      "farsi": "ملیت من اوکراینی است."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Wie ist der Plural?",
-      "english": "What is the plural?",
-      "russian": "Какое множественное число?",
-      "farsi": "جمع چیست؟"
+      "sentence": "Wie alt sind Sie?",
+      "english": "How old are you?",
+      "russian": "Сколько вам лет?",
+      "farsi": "شما چند سال دارید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie alt bist du?",
+      "english": "How old are you?",
+      "russian": "Сколько тебе лет?",
+      "farsi": "تو چند سال داری؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin 38 Jahre alt.",
+      "english": "I am 38 years old.",
+      "russian": "Мне 38 лет.",
+      "farsi": "من ۳۸ ساله هستم."
     }
   ]
 }

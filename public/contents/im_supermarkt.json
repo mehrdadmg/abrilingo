@@ -1,0 +1,3169 @@
+{
+  "info": {
+    "name": "Im_Supermarkt",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich möchte 1 Kilogramm Äpfel kaufen.",
+      "english": "I want to buy 1 kilogram of apples.",
+      "russian": "Я хочу купить 1 килограмм яблок.",
+      "farsi": "من می‌خواهم ۱ کیلوگرم سیب بخرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich brauche 1 Kilogramm Äpfel.",
+      "english": "I need 1 kilogram of apples.",
+      "russian": "Мне нужен 1 килограмм яблок.",
+      "farsi": "من به ۱ کیلوگرم سیب نیاز دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich hätte gerne eine Flasche Wasser.",
+      "english": "I would like a bottle of water.",
+      "russian": "Я хотел бы бутылку воды.",
+      "farsi": "من یک بطری آب می‌خواهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wo finde ich die Milchprodukte?",
+      "english": "Where can I find the dairy products?",
+      "russian": "Где я могу найти молочные продукты?",
+      "farsi": "محصولات لبنی را کجا می‌توانم پیدا کنم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wo finde ich die Milch?",
+      "english": "Where can I find the milk?",
+      "russian": "Где я могу найти молоко?",
+      "farsi": "شیر را کجا می‌توانم پیدا کنم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Haben Sie Bio-Gemüse?",
+      "english": "Do you have organic vegetables?",
+      "russian": "У вас есть органические овощи?",
+      "farsi": "آیا سبزیجات ارگانیک دارید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Haben Sie frisches Brot?",
+      "english": "Do you have fresh bread?",
+      "russian": "У вас есть свежий хлеб?",
+      "farsi": "آیا نان تازه دارید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ist dieses Brot frisch?",
+      "english": "Is this bread fresh?",
+      "russian": "Этот хлеб свежий?",
+      "farsi": "آیا این نان تازه است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können Sie mir helfen?",
+      "english": "Can you help me?",
+      "russian": "Вы можете мне помочь?",
+      "farsi": "می‌توانید به من کمک کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Gibt es heute Angebote?",
+      "english": "Are there any offers today?",
+      "russian": "Есть ли сегодня акции?",
+      "farsi": "آیا امروز تخفیف‌هایی وجود دارد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ist das im Angebot?",
+      "english": "Is this on sale?",
+      "russian": "Это на распродаже?",
+      "farsi": "آیا این تخفیف دارد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wo ist der Einkaufswagen?",
+      "english": "Where is the shopping cart?",
+      "russian": "Где находится тележка для покупок?",
+      "farsi": "چرخ خرید کجاست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wo sind die Eier?",
+      "english": "Where are the eggs?",
+      "russian": "Где яйца?",
+      "farsi": "تخم‌مرغ‌ها کجا هستند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich suche nach Butter.",
+      "english": "I'm looking for butter.",
+      "russian": "Я ищу масло.",
+      "farsi": "من به دنبال کره هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie viel kostet das?",
+      "english": "How much does it cost?",
+      "russian": "Сколько это стоит?",
+      "farsi": "این چقدر قیمت دارد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was kostet ein Kilogramm Bananen?",
+      "english": "How much does a kilogram of bananas cost?",
+      "russian": "Сколько стоит килограмм бананов?",
+      "farsi": "یک کیلوگرم موز چقدر قیمت دارد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ist der Preis pro Kilogramm?",
+      "english": "Is the price per kilogram?",
+      "russian": "Цена за килограмм?",
+      "farsi": "آیا قیمت به ازای هر کیلوگرم است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ist der Preis pro Kilogramm oder pro Stück?",
+      "english": "Is the price per kilogram or per piece?",
+      "russian": "Цена за килограмм или за штуку?",
+      "farsi": "آیا قیمت به ازای هر کیلوگرم است یا به ازای هر عدد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Haben Sie etwas Günstigeres?",
+      "english": "Do you have something cheaper?",
+      "russian": "У вас есть что-нибудь дешевле?",
+      "farsi": "آیا چیزی ارزان‌تر دارید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sind die Tomaten frisch?",
+      "english": "Are the tomatoes fresh?",
+      "russian": "Помидоры свежие?",
+      "farsi": "آیا گوجه‌فرنگی‌ها تازه هستند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich möchte reife Bananen.",
+      "english": "I want ripe bananas.",
+      "russian": "Я хочу спелые бананы.",
+      "farsi": "من موزهای رسیده می‌خواهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ist das Fleisch bio?",
+      "english": "Is the meat organic?",
+      "russian": "Это мясо органическое?",
+      "farsi": "آیا این گوشت ارگانیک است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Gibt es laktosefreie Milch?",
+      "english": "Is there lactose-free milk?",
+      "russian": "Есть ли безлактозное молоко?",
+      "farsi": "آیا شیر بدون لاکتوز موجود است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Diese Orangen sehen gut aus.",
+      "english": "These oranges look good.",
+      "russian": "Эти апельсины выглядят хорошо.",
+      "farsi": "این پرتقال‌ها خوب به نظر می‌رسند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich möchte bezahlen.",
+      "english": "I want to pay.",
+      "russian": "Я хочу заплатить.",
+      "farsi": "می‌خواهم پرداخت کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kann ich mit Karte bezahlen?",
+      "english": "Can I pay by card?",
+      "russian": "Могу ли я оплатить картой?",
+      "farsi": "آیا می‌توانم با کارت پرداخت کنم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kann ich das bar bezahlen?",
+      "english": "Can I pay for it in cash?",
+      "russian": "Могу я заплатить наличными?",
+      "farsi": "آیا می‌توانم این را نقدی پرداخت کنم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hier ist mein Geld.",
+      "english": "Here is my money.",
+      "russian": "Вот мои деньги.",
+      "farsi": "اینجا پول من است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie viel macht das insgesamt?",
+      "english": "How much is that in total?",
+      "russian": "Сколько это в общей сложности?",
+      "farsi": "مجموعاً چقدر می‌شود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Brauchen Sie eine Tüte?",
+      "english": "Do you need a bag?",
+      "russian": "Вам нужен пакет?",
+      "farsi": "آیا کیسه نیاز دارید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ist das Angebot noch gültig?",
+      "english": "Is the offer still valid?",
+      "russian": "Предложение всё ещё действительно?",
+      "farsi": "آیا این پیشنهاد هنوز معتبر است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Haben Sie Wechselgeld?",
+      "english": "Do you have change?",
+      "russian": "У вас есть сдача?",
+      "farsi": "آیا پول خرد دارید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ist das ein Sonderangebot?",
+      "english": "Is this a special offer?",
+      "russian": "Это специальное предложение?",
+      "farsi": "آیا این یک پیشنهاد ویژه است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe das falsche Produkt bekommen.",
+      "english": "I got the wrong product.",
+      "russian": "Я получил не тот продукт.",
+      "farsi": "من محصول اشتباهی را دریافت کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kann ich einen Rabatt bekommen?",
+      "english": "Can I get a discount?",
+      "russian": "Могу я получить скидку?",
+      "farsi": "آیا می‌توانم تخفیف بگیرم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich suche...",
+      "english": "I am looking for...",
+      "russian": "Я ищу...",
+      "farsi": "من به دنبال ... هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kann ich das bitte ansehen?",
+      "english": "Can I take a look at this, please?",
+      "russian": "Могу я посмотреть на это, пожалуйста?",
+      "farsi": "آیا می‌توانم لطفاً به این نگاه کنم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich nehme...",
+      "english": "I'll take...",
+      "russian": "Я возьму...",
+      "farsi": "من می‌گیرم ..."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das ist alles.",
+      "english": "That's all.",
+      "russian": "Это всё.",
+      "farsi": "همین است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hier haben Sie.",
+      "english": "Here you go.",
+      "russian": "Вот, пожалуйста.",
+      "farsi": "بفرمایید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnte ich bitte einen Bon haben?",
+      "english": "Could I have a receipt, please?",
+      "russian": "Могу я получить чек, пожалуйста?",
+      "farsi": "آیا می‌توانم لطفاً یک رسید داشته باشم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was darf es denn sein?",
+      "english": "What would you like?",
+      "russian": "Что бы вы хотели?",
+      "farsi": "چه چیزی می‌خواهید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das ist sehr beliebt.",
+      "english": "This is very popular.",
+      "russian": "Это очень популярно.",
+      "farsi": "این بسیار محبوب است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das macht zusammen…",
+      "english": "That makes a total of...",
+      "russian": "Это всего...",
+      "farsi": "جمعاً می‌شود ..."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Möchten Sie bar oder mit Karte bezahlen?",
+      "english": "Would you like to pay in cash or by card?",
+      "russian": "Вы хотите заплатить наличными или картой?",
+      "farsi": "آیا می‌خواهید نقدی پرداخت کنید یا با کارت؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vielen Dank für Ihren Einkauf!",
+      "english": "Thank you for your purchase!",
+      "russian": "Спасибо за вашу покупку!",
+      "farsi": "از خرید شما متشکرم!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kommen Sie gerne wieder!",
+      "english": "Feel free to come again!",
+      "russian": "Заходите ещё!",
+      "farsi": "باز هم بفرمایید!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Haben Sie das in einer anderen Größe?",
+      "english": "Do you have this in another size?",
+      "russian": "У вас есть это в другом размере?",
+      "farsi": "آیا این را در اندازه دیگری دارید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das ist nicht der richtige Preis.",
+      "english": "This is not the correct price.",
+      "russian": "Это неправильная цена.",
+      "farsi": "این قیمت صحیح نیست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können Sie das wiegen?",
+      "english": "Can you weigh this?",
+      "russian": "Можете взвесить это?",
+      "farsi": "آیا می‌توانید این را وزن کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Entschuldigung, wo sind die Kassen?",
+      "english": "Excuse me, where are the checkouts?",
+      "russian": "Извините, где кассы?",
+      "farsi": "ببخشید، صندوق‌ها کجا هستند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe meine Einkaufsliste vergessen.",
+      "english": "I forgot my shopping list.",
+      "russian": "Я забыл свой список покупок.",
+      "farsi": "لیست خرید خود را فراموش کرده‌ام."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wo ist der Obstbereich?",
+      "english": "Where is the fruit section?",
+      "russian": "Где отдел с фруктами?",
+      "farsi": "بخش میوه کجاست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kann ich das an der Kasse bezahlen?",
+      "english": "Can I pay for this at the checkout?",
+      "russian": "Могу я оплатить это на кассе?",
+      "farsi": "آیا می‌توانم این را در صندوق پرداخت کنم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Gibt es hier Parkplätze?",
+      "english": "Are there parking spaces here?",
+      "russian": "Здесь есть парковочные места?",
+      "farsi": "آیا اینجا پارکینگ وجود دارد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können Sie mir eine Tüte geben?",
+      "english": "Can you give me a bag?",
+      "russian": "Можете дать мне пакет?",
+      "farsi": "آیا می‌توانید یک کیسه به من بدهید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wo kann ich die Tiefkühlprodukte finden?",
+      "english": "Where can I find the frozen products?",
+      "russian": "Где я могу найти замороженные продукты?",
+      "farsi": "محصولات یخ‌زده را کجا می‌توانم پیدا کنم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich brauche ein Stück Käse.",
+      "english": "I need a piece of cheese.",
+      "russian": "Мне нужен кусок сыра.",
+      "farsi": "من یک تکه پنیر نیاز دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Haben Sie Vollkornbrot?",
+      "english": "Do you have whole-grain bread?",
+      "russian": "У вас есть цельнозерновой хлеб?",
+      "farsi": "آیا نان سبوس‌دار دارید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich suche nach einer großen Flasche Wasser.",
+      "english": "I am looking for a large bottle of water.",
+      "russian": "Я ищу большую бутылку воды.",
+      "farsi": "من به دنبال یک بطری بزرگ آب هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Gibt es hier auch Marmelade?",
+      "english": "Do you also have jam here?",
+      "russian": "У вас здесь есть варенье?",
+      "farsi": "آیا اینجا مربا هم دارید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich hätte gerne 200 Gramm Schinken.",
+      "english": "I would like 200 grams of ham.",
+      "russian": "Я хотел бы 200 граммов ветчины.",
+      "farsi": "من ۲۰۰ گرم ژامبون می‌خواهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das ist teuer!",
+      "english": "That is expensive!",
+      "russian": "Это дорого!",
+      "farsi": "این گران است!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das ist ein gutes Angebot.",
+      "english": "That is a good offer.",
+      "russian": "Это хорошее предложение.",
+      "farsi": "این پیشنهاد خوبی است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich mag diese Marke.",
+      "english": "I like this brand.",
+      "russian": "Мне нравится этот бренд.",
+      "farsi": "من این برند را دوست دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Qualität ist sehr gut.",
+      "english": "The quality is very good.",
+      "russian": "Качество очень хорошее.",
+      "farsi": "کیفیت بسیار خوب است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich komme immer hierher.",
+      "english": "I always come here.",
+      "russian": "Я всегда прихожу сюда.",
+      "farsi": "من همیشه به اینجا می‌آیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vielen Dank für Ihre Hilfe.",
+      "english": "Thank you very much for your help.",
+      "russian": "Большое спасибо за вашу помощь.",
+      "farsi": "خیلی ممنون از کمک شما."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das war alles.",
+      "english": "That was all.",
+      "russian": "Это было всё.",
+      "farsi": "همین بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich wünsche Ihnen einen schönen Tag!",
+      "english": "I wish you a nice day!",
+      "russian": "Желаю вам хорошего дня!",
+      "farsi": "روز خوبی را برای شما آرزو می‌کنم!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bis zum nächsten Mal.",
+      "english": "Until next time.",
+      "russian": "До следующего раза.",
+      "farsi": "تا دفعه بعد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Auf Wiedersehen!",
+      "english": "Goodbye!",
+      "russian": "До свидания!",
+      "farsi": "خداحافظ!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Guten Tag, ich möchte das bezahlen.",
+      "english": "Good day, I would like to pay for this.",
+      "russian": "Добрый день, я хотел бы оплатить это.",
+      "farsi": "روز بخیر، می‌خواهم این را پرداخت کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie viel kostet das insgesamt?",
+      "english": "How much does it cost in total?",
+      "russian": "Сколько это стоит всего?",
+      "farsi": "این در مجموع چقدر هزینه دارد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kann ich mit Kreditkarte bezahlen?",
+      "english": "Can I pay with a credit card?",
+      "russian": "Могу я оплатить кредитной картой?",
+      "farsi": "آیا می‌توانم با کارت اعتباری پرداخت کنم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Haben Sie Wechselgeld?",
+      "english": "Do you have change?",
+      "russian": "У вас есть сдача?",
+      "farsi": "آیا شما پول خرد دارید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wo kann ich Geld wechseln?",
+      "english": "Where can I exchange money?",
+      "russian": "Где я могу обменять деньги?",
+      "farsi": "کجا می‌توانم پول را عوض کنم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Gibt es einen Rabatt?",
+      "english": "Is there a discount?",
+      "russian": "Есть ли скидка?",
+      "farsi": "آیا تخفیفی وجود دارد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Akzeptieren Sie Bargeld?",
+      "english": "Do you accept cash?",
+      "russian": "Вы принимаете наличные?",
+      "farsi": "آیا پول نقد قبول می‌کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kann ich eine Quittung bekommen?",
+      "english": "Can I get a receipt?",
+      "russian": "Могу я получить квитанцию?",
+      "farsi": "آیا می‌توانم رسید دریافت کنم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ist das alles?",
+      "english": "Is that all?",
+      "russian": "Это всё?",
+      "farsi": "آیا این همه چیز است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Haben Sie eine Kundenkarte?",
+      "english": "Do you have a customer card?",
+      "russian": "У вас есть карта клиента?",
+      "farsi": "آیا کارت مشتری دارید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Möchten Sie eine Tüte?",
+      "english": "Would you like a bag?",
+      "russian": "Хотите пакет?",
+      "farsi": "آیا یک کیسه می‌خواهید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das macht zusammen...",
+      "english": "The total is...",
+      "russian": "Итого...",
+      "farsi": "جمعاً می‌شود..."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hier ist Ihr Wechselgeld.",
+      "english": "Here is your change.",
+      "russian": "Вот ваша сдача.",
+      "farsi": "این پول خرد شماست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Möchten Sie die Ware als Geschenk verpackt haben?",
+      "english": "Would you like the item to be gift-wrapped?",
+      "russian": "Хотите, чтобы товар был упакован как подарок?",
+      "farsi": "آیا می‌خواهید کالا به عنوان هدیه بسته‌بندی شود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Haben Sie kleinere Scheine?",
+      "english": "Do you have smaller bills?",
+      "russian": "У вас есть купюры поменьше?",
+      "farsi": "آیا اسکناس‌های کوچکتر دارید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kann ich das umtauschen?",
+      "english": "Can I exchange this?",
+      "russian": "Могу я это обменять?",
+      "farsi": "آیا می‌توانم این را تعویض کنم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wo finde ich...?",
+      "english": "Where can I find...?",
+      "russian": "Где я могу найти...?",
+      "farsi": "کجا می‌توانم ... را پیدا کنم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ist das im Angebot?",
+      "english": "Is this on sale?",
+      "russian": "Это на распродаже?",
+      "farsi": "آیا این تخفیف خورده است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Haben Sie das in einer anderen Größe?",
+      "english": "Do you have this in another size?",
+      "russian": "У вас есть это в другом размере?",
+      "farsi": "آیا این را در اندازه دیگری دارید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kann ich das zurückgeben?",
+      "english": "Can I return this?",
+      "russian": "Могу я это вернуть?",
+      "farsi": "آیا می‌توانم این را پس بدهم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wann schließt der Laden?",
+      "english": "When does the store close?",
+      "russian": "Когда закрывается магазин?",
+      "farsi": "فروشگاه چه زمانی تعطیل می‌شود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Haben Sie eine Garantie darauf?",
+      "english": "Do you have a warranty on this?",
+      "russian": "У вас есть гарантия на это?",
+      "farsi": "آیا برای این ضمانت دارید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kann ich das anprobieren?",
+      "english": "Can I try this on?",
+      "russian": "Могу я это примерить?",
+      "farsi": "آیا می‌توانم این را امتحان کنم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wo ist die Umkleidekabine?",
+      "english": "Where is the fitting room?",
+      "russian": "Где примерочная?",
+      "farsi": "اتاق پرو کجاست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Haben Sie noch mehr davon im Lager?",
+      "english": "Do you have more of this in stock?",
+      "russian": "У вас есть ещё такие на складе?",
+      "farsi": "آیا از این مدل بیشتر در انبار دارید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kann ich das reservieren lassen?",
+      "english": "Can I reserve this?",
+      "russian": "Могу я это зарезервировать?",
+      "farsi": "آیا می‌توانم این را رزرو کنم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nehmen Sie auch ausländische Währungen an?",
+      "english": "Do you also accept foreign currencies?",
+      "russian": "Вы принимаете иностранную валюту?",
+      "farsi": "آیا ارزهای خارجی را نیز قبول می‌کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wo ist der nächste Geldautomat?",
+      "english": "Where is the nearest ATM?",
+      "russian": "Где ближайший банкомат?",
+      "farsi": "نزدیک‌ترین خودپرداز کجاست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kann ich einen Gutschein kaufen?",
+      "english": "Can I buy a gift voucher?",
+      "russian": "Могу я купить подарочный сертификат?",
+      "farsi": "آیا می‌توانم یک کارت هدیه بخرم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Haben Sie eine Geschenkverpackung?",
+      "english": "Do you have gift wrapping?",
+      "russian": "У вас есть подарочная упаковка?",
+      "farsi": "آیا بسته‌بندی هدیه دارید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ist das reduziert?",
+      "english": "Is this discounted?",
+      "russian": "Это со скидкой?",
+      "farsi": "آیا این تخفیف خورده است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kann ich das später abholen?",
+      "english": "Can I pick this up later?",
+      "russian": "Могу я забрать это позже?",
+      "farsi": "آیا می‌توانم این را بعداً تحویل بگیرم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Haben Sie eine Kundenkarte?",
+      "english": "Do you have a customer card?",
+      "russian": "У вас есть карта клиента?",
+      "farsi": "آیا کارت مشتری دارید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wo finde ich die Toiletten?",
+      "english": "Where can I find the restrooms?",
+      "russian": "Где я могу найти туалет?",
+      "farsi": "توالت‌ها کجا هستند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kann ich eine Rechnung bekommen?",
+      "english": "Can I get an invoice?",
+      "russian": "Могу я получить счёт?",
+      "farsi": "آیا می‌توانم یک فاکتور دریافت کنم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Haben Sie Briefmarken?",
+      "english": "Do you have stamps?",
+      "russian": "У вас есть марки?",
+      "farsi": "آیا تمبر دارید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wo kann ich Zigaretten kaufen?",
+      "english": "Where can I buy cigarettes?",
+      "russian": "Где я могу купить сигареты?",
+      "farsi": "کجا می‌توانم سیگار بخرم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Haben Sie Tageszeitungen?",
+      "english": "Do you have daily newspapers?",
+      "russian": "У вас есть ежедневные газеты?",
+      "farsi": "آیا روزنامه‌های روزانه دارید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Verkaufen Sie Fahrkarten?",
+      "english": "Do you sell tickets?",
+      "russian": "Вы продаёте билеты?",
+      "farsi": "آیا بلیط می‌فروشید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wo finde ich Getränke?",
+      "english": "Where can I find drinks?",
+      "russian": "Где я могу найти напитки?",
+      "farsi": "نوشیدنی‌ها کجا هستند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Haben Sie Telefonkarten?",
+      "english": "Do you have phone cards?",
+      "russian": "У вас есть телефонные карты?",
+      "farsi": "آیا کارت تلفن دارید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kann ich hier Lotto spielen?",
+      "english": "Can I play the lottery here?",
+      "russian": "Могу я сыграть в лотерею здесь?",
+      "farsi": "آیا می‌توانم اینجا بلیط لاتاری بخرم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wo sind die Süßigkeiten?",
+      "english": "Where are the sweets?",
+      "russian": "Где находятся сладости?",
+      "farsi": "شیرینی‌ها کجا هستند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Haben Sie frische Backwaren?",
+      "english": "Do you have fresh baked goods?",
+      "russian": "У вас есть свежая выпечка?",
+      "farsi": "آیا نان‌های تازه دارید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Verkaufen Sie auch Eis?",
+      "english": "Do you also sell ice cream?",
+      "russian": "Вы также продаёте мороженое?",
+      "farsi": "آیا بستنی هم می‌فروشید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wo finde ich Zeitschriften?",
+      "english": "Where can I find magazines?",
+      "russian": "Где я могу найти журналы?",
+      "farsi": "مجله‌ها کجا هستند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Haben Sie Feuerzeuge?",
+      "english": "Do you have lighters?",
+      "russian": "У вас есть зажигалки?",
+      "farsi": "آیا فندک دارید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kann ich hier Geld überweisen?",
+      "english": "Can I transfer money here?",
+      "russian": "Могу ли я перевести деньги здесь?",
+      "farsi": "آیا می‌توانم اینجا پول انتقال دهم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Haben Sie Prepaid-Karten für Handys?",
+      "english": "Do you have prepaid cards for mobile phones?",
+      "russian": "У вас есть предоплаченные карты для телефонов?",
+      "farsi": "آیا کارت‌های شارژ برای موبایل دارید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wo finde ich Snacks und Chips?",
+      "english": "Where can I find snacks and chips?",
+      "russian": "Где я могу найти закуски и чипсы?",
+      "farsi": "خوراکی‌ها و چیپس‌ها کجا هستند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich möchte das gerne umtauschen.",
+      "english": "I would like to exchange this.",
+      "russian": "Я хотел бы обменять это.",
+      "farsi": "می‌خواهم این را تعویض کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kann ich das umtauschen?",
+      "english": "Can I exchange this?",
+      "russian": "Могу я обменять это?",
+      "farsi": "آیا می‌توانم این را تعویض کنم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich hätte gerne eine andere Größe.",
+      "english": "I would like a different size.",
+      "russian": "Я хотел бы другой размер.",
+      "farsi": "یک سایز دیگر می‌خواهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das passt mir nicht.",
+      "english": "This doesn't fit me.",
+      "russian": "Это мне не подходит.",
+      "farsi": "این برای من مناسب نیست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Farbe gefällt mir nicht.",
+      "english": "I don't like the color.",
+      "russian": "Мне не нравится цвет.",
+      "farsi": "رنگ آن را دوست ندارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Artikel ist beschädigt.",
+      "english": "The item is damaged.",
+      "russian": "Этот товар повреждён.",
+      "farsi": "این کالا آسیب دیده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich möchte das zurückgeben.",
+      "english": "I would like to return this.",
+      "russian": "Я хотел бы вернуть это.",
+      "farsi": "می‌خواهم این را پس بدهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kann ich das zurückgeben?",
+      "english": "Can I return this?",
+      "russian": "Могу я вернуть это?",
+      "farsi": "آیا می‌توانم این را پس بدهم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich würde gerne diesen Artikel zurückgeben.",
+      "english": "I would like to return this item.",
+      "russian": "Я хотел бы вернуть этот товар.",
+      "farsi": "می‌خواهم این کالا را پس بدهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Produkt entspricht nicht meinen Erwartungen.",
+      "english": "The product does not meet my expectations.",
+      "russian": "Продукт не соответствует моим ожиданиям.",
+      "farsi": "این محصول با انتظارات من مطابقت ندارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Artikel ist defekt.",
+      "english": "The item is defective.",
+      "russian": "Этот товар неисправен.",
+      "farsi": "این کالا خراب است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Größe passt nicht.",
+      "english": "The size does not fit.",
+      "russian": "Размер не подходит.",
+      "farsi": "اندازه مناسب نیست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe den Artikel noch nicht benutzt.",
+      "english": "I have not used the item yet.",
+      "russian": "Я ещё не использовал этот товар.",
+      "farsi": "من هنوز از این کالا استفاده نکرده‌ام."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kann ich mein Geld zurückbekommen?",
+      "english": "Can I get my money back?",
+      "russian": "Могу я получить свои деньги обратно?",
+      "farsi": "آیا می‌توانم پولم را پس بگیرم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich wünsche Ihnen einen schönen Tag!",
+      "english": "I wish you a nice day!",
+      "russian": "Желаю вам хорошего дня!",
+      "farsi": "روز خوبی برای شما آرزو دارم!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Gemüse, (kein Plural)",
+      "english": "vegetable",
+      "russian": "овощ",
+      "farsi": "سبزیجات"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Obst, (kein Plural)",
+      "english": "fruit",
+      "russian": "фрукты",
+      "farsi": "میوه"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Fleisch, (kein Plural)",
+      "english": "meat",
+      "russian": "мясо",
+      "farsi": "گوشت"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Fisch, die Fische",
+      "english": "fish",
+      "russian": "рыба",
+      "farsi": "ماهی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Milchprodukte, (kein Plural)",
+      "english": "dairy products",
+      "russian": "молочные продукты",
+      "farsi": "محصولات لبنی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Brot, die Brote",
+      "english": "bread",
+      "russian": "хлеб",
+      "farsi": "نان"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Getränke, -",
+      "english": "drinks",
+      "russian": "напитки",
+      "farsi": "نوشیدنی‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Tiefkühlprodukte, -",
+      "english": "frozen products",
+      "russian": "замороженные продукты",
+      "farsi": "محصولات منجمد"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Konserve, die Konserven",
+      "english": "canned food",
+      "russian": "консервированная еда",
+      "farsi": "کنسرو"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Süßigkeit, die Süßigkeiten",
+      "english": "sweet",
+      "russian": "сладость",
+      "farsi": "شیرینی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Ei, die Eier",
+      "english": "egg",
+      "russian": "яйцо",
+      "farsi": "تخم‌مرغ"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Butter, (kein Plural)",
+      "english": "butter",
+      "russian": "масло",
+      "farsi": "کره"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Käse, (kein Plural)",
+      "english": "cheese",
+      "russian": "сыр",
+      "farsi": "پنیر"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Joghurt, die Joghurts",
+      "english": "yogurt",
+      "russian": "йогурт",
+      "farsi": "ماست"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Milch, (kein Plural)",
+      "english": "milk",
+      "russian": "молоко",
+      "farsi": "شیر"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Einkaufswagen, die Einkaufswagen",
+      "english": "shopping cart",
+      "russian": "тележка для покупок",
+      "farsi": "چرخ خرید"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Einkaufskorb, die Einkaufskörbe",
+      "english": "shopping basket",
+      "russian": "корзина для покупок",
+      "farsi": "سبد خرید"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Kasse, die Kassen",
+      "english": "cash register",
+      "russian": "касса",
+      "farsi": "صندوق"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Kassenbon, die Kassenbons",
+      "english": "receipt",
+      "russian": "чек",
+      "farsi": "فاکتور"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Regal, die Regale",
+      "english": "shelf",
+      "russian": "полка",
+      "farsi": "قفسه"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Preis, die Preise",
+      "english": "price",
+      "russian": "цена",
+      "farsi": "قیمت"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Angebot, die Angebote",
+      "english": "offer",
+      "russian": "предложение",
+      "farsi": "پیشنهاد"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Kilogramm (kg), die Kilogramme",
+      "english": "kilogram",
+      "russian": "килограмм",
+      "farsi": "کیلوگرم"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Gramm (g), die Gramme",
+      "english": "gram",
+      "russian": "грамм",
+      "farsi": "گرم"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "frisch",
+      "english": "fresh",
+      "russian": "свежий",
+      "farsi": "تازه"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "billig",
+      "english": "cheap",
+      "russian": "дешевый",
+      "farsi": "ارزان"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "teuer",
+      "english": "expensive",
+      "russian": "дорогой",
+      "farsi": "گران"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "voll",
+      "english": "full",
+      "russian": "полный",
+      "farsi": "پر"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "leer",
+      "english": "empty",
+      "russian": "пустой",
+      "farsi": "خالی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Apfel, die Äpfel",
+      "english": "apple",
+      "russian": "яблоко",
+      "farsi": "سیب"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Banane, die Bananen",
+      "english": "banana",
+      "russian": "банан",
+      "farsi": "موز"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Orange, die Orangen",
+      "english": "orange",
+      "russian": "апельсин",
+      "farsi": "پرتقال"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Mandarine, die Mandarinen",
+      "english": "mandarin",
+      "russian": "мандарин",
+      "farsi": "مندالین"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Birne, die Birnen",
+      "english": "pear",
+      "russian": "груша",
+      "farsi": "گلابی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Traube, die Trauben",
+      "english": "grape",
+      "russian": "виноград",
+      "farsi": "انگور"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Ananas, die Ananasse",
+      "english": "pineapple",
+      "russian": "ананас",
+      "farsi": "آناناس"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Kiwi, die Kiwis",
+      "english": "kiwi",
+      "russian": "киви",
+      "farsi": "کیوی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Zitrone, die Zitronen",
+      "english": "lemon",
+      "russian": "лимон",
+      "farsi": "لیمو"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Limette, die Limetten",
+      "english": "lime",
+      "russian": "лайм",
+      "farsi": "لیمو ترش"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Mango, die Mangos",
+      "english": "mango",
+      "russian": "манго",
+      "farsi": "مانگو"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Erdbeere, die Erdbeeren",
+      "english": "strawberry",
+      "russian": "клубника",
+      "farsi": "توت فرنگی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Himbeere, die Himbeeren",
+      "english": "raspberry",
+      "russian": "малина",
+      "farsi": "تمشک"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Blaubeere, die Blaubeeren",
+      "english": "blueberry",
+      "russian": "черника",
+      "farsi": "بلوبری"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Johannisbeere, die Johannisbeeren",
+      "english": "currant",
+      "russian": "смородина",
+      "farsi": "کارامل"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Brombeere, die Brombeeren",
+      "english": "blackberry",
+      "russian": "ежевика",
+      "farsi": "توت سیاه"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Preiselbeere, die Preiselbeeren",
+      "english": "lingonberry",
+      "russian": "клюква",
+      "farsi": "زغال اخته"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Cranberry, die Cranberries",
+      "english": "cranberry",
+      "russian": "клюква",
+      "farsi": "کرن بری"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Papaya, die Papayas",
+      "english": "papaya",
+      "russian": "папайя",
+      "farsi": "پاپایا"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Guave, die Guaven",
+      "english": "guava",
+      "russian": "гуава",
+      "farsi": "گواوا"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Maracuja, die Maracujas",
+      "english": "passion fruit",
+      "russian": "маракуйя",
+      "farsi": "پاشن فروت"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Kaktusfeige, die Kaktusfeigen",
+      "english": "prickly pear",
+      "russian": "опунция",
+      "farsi": "انجیر هندی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Dattel, die Datteln",
+      "english": "date",
+      "russian": "финик",
+      "farsi": "خرما"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Kokosnuss, die Kokosnüsse",
+      "english": "coconut",
+      "russian": "кокос",
+      "farsi": "نارگیل"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Feige, die Feigen",
+      "english": "fig",
+      "russian": "инжир",
+      "farsi": "انجیر"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Rosine, die Rosinen",
+      "english": "raisin",
+      "russian": "изюм",
+      "farsi": "کشمش"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Haselnuss, die Haselnüsse",
+      "english": "hazelnut",
+      "russian": "лесной орех",
+      "farsi": "فندق"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Walnuss, die Walnüsse",
+      "english": "walnut",
+      "russian": "грецкий орех",
+      "farsi": "گردو"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Mandel, die Mandeln",
+      "english": "almond",
+      "russian": "миндаль",
+      "farsi": "بادام"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Wassermelone, die Wassermelonen",
+      "english": "watermelon",
+      "russian": "арбуз",
+      "farsi": "هندوانه"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Honigmelone, die Honigmelonen",
+      "english": "honeydew melon",
+      "russian": "медовая дыня",
+      "farsi": "هندوانه عسلی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Cantaloupe, die Cantaloupen",
+      "english": "cantaloupe",
+      "russian": "канталупа",
+      "farsi": "کنتالوپ"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Kirsche, die Kirschen",
+      "english": "cherry",
+      "russian": "вишня",
+      "farsi": "گیلاس"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Pflaume, die Pflaumen",
+      "english": "plum",
+      "russian": "слива",
+      "farsi": "آلو"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Aprikose, die Aprikosen",
+      "english": "apricot",
+      "russian": "абрикос",
+      "farsi": "زردآلو"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Pfirsich, die Pfirsiche",
+      "english": "peach",
+      "russian": "персик",
+      "farsi": "هلو"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Grapefruit, die Grapefruits",
+      "english": "grapefruit",
+      "russian": "грейпфрут",
+      "farsi": "گریپ فروت"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Nektarine, die Nektarinen",
+      "english": "nectarine",
+      "russian": "нектарин",
+      "farsi": "نکتارین"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Granatapfel, die Granatäpfel",
+      "english": "pomegranate",
+      "russian": "гранат",
+      "farsi": "انار"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Litschi, die Litschis",
+      "english": "lychee",
+      "russian": "личи",
+      "farsi": "لیچی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Quitte, die Quitten",
+      "english": "quince",
+      "russian": " айва",
+      "farsi": "سفرجل"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Salat, die Salate",
+      "english": "salad",
+      "russian": "салат",
+      "farsi": "سالاد"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Spinat, (kein Plural)",
+      "english": "spinach",
+      "russian": "шпинат",
+      "farsi": "اسفناج"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Kohl, die Kohle",
+      "english": "cabbage",
+      "russian": "капуста",
+      "farsi": "کلم"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Grünkohl, (kein Plural)",
+      "english": "kale",
+      "russian": "кале",
+      "farsi": "کلم پیچ سبز"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Wirsing, (kein Plural)",
+      "english": "savoy cabbage",
+      "russian": "капуста савой",
+      "farsi": "کلم پیچ"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Mangold, (kein Plural)",
+      "english": "chard",
+      "russian": "мангольд",
+      "farsi": "چارد"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Karotte / die Möhre, die Karotten / die Möhren",
+      "english": "carrot",
+      "russian": "морковь",
+      "farsi": "هویج"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Kartoffel, die Kartoffeln",
+      "english": "potato",
+      "russian": "картофель",
+      "farsi": "سیب‌زمینی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Rübe, die Rüben",
+      "english": "turnip",
+      "russian": "репа",
+      "farsi": "شلغم"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Zuckerrübe, die Zuckerrüben",
+      "english": "sugar beet",
+      "russian": "свекла",
+      "farsi": "چغندر قند"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Pastinake, die Pastinaken",
+      "english": "parsnip",
+      "russian": "пастернак",
+      "farsi": "کرفس زمینی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Rettich, die Rettiche",
+      "english": "radish",
+      "russian": "редька",
+      "farsi": "بادنجان"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Rote Bete, die Roten Beten",
+      "english": "beetroot",
+      "russian": "свекла",
+      "farsi": "چغندر"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Zwiebel, die Zwiebeln",
+      "english": "onion",
+      "russian": "лук",
+      "farsi": "پیاز"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Knoblauch, (kein Plural)",
+      "english": "garlic",
+      "russian": "чеснок",
+      "farsi": "سیر"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Lauch, (kein Plural)",
+      "english": "leek",
+      "russian": "порей",
+      "farsi": "تره"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Schalotte, die Schalotten",
+      "english": "shallot",
+      "russian": "шалот",
+      "farsi": "پیازچه"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Blumenkohl, die Blumenkohle",
+      "english": "cauliflower",
+      "russian": "цветная капуста",
+      "farsi": "گل‌کلم"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Brokkoli, (kein Plural)",
+      "english": "broccoli",
+      "russian": "брокколи",
+      "farsi": "بروکلی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Artischocke, die Artischocken",
+      "english": "artichoke",
+      "russian": "артишок",
+      "farsi": "آرتیشو"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Tomate, die Tomaten",
+      "english": "tomato",
+      "russian": "помидор",
+      "farsi": "گوجه فرنگی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Gurke, die Gurken",
+      "english": "cucumber",
+      "russian": "огурец",
+      "farsi": "خیار"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Paprika, die Paprikas",
+      "english": "pepper",
+      "russian": "перец",
+      "farsi": "فلفل"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Zucchini, die Zucchinis",
+      "english": "zucchini",
+      "russian": "цуккини",
+      "farsi": "کدو سبز"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Kürbis, die Kürbisse",
+      "english": "pumpkin",
+      "russian": "тыква",
+      "farsi": "کدو حلوایی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Aubergine, die Auberginen",
+      "english": "eggplant",
+      "russian": "баклажан",
+      "farsi": "بادمجان"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Okra, die Okras",
+      "english": "okra",
+      "russian": "окра",
+      "farsi": "بامیه"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Erbse, die Erbsen",
+      "english": "pea",
+      "russian": "горох",
+      "farsi": "نخود فرنگی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Bohne, die Bohnen",
+      "english": "bean",
+      "russian": "фасоль",
+      "farsi": "لوبیا"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Linse, die Linsen",
+      "english": "lentil",
+      "russian": "чечевица",
+      "farsi": "عدس"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Sellerie, (kein Plural)",
+      "english": "celery",
+      "russian": "сельдерей",
+      "farsi": "کرفس"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Spargel, (kein Plural)",
+      "english": "asparagus",
+      "russian": "спаржа",
+      "farsi": "مارچوبه"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Rhabarber, (kein Plural)",
+      "english": "rhubarb",
+      "russian": "репа",
+      "farsi": "روبارب"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Avocado, die Avocados",
+      "english": "avocado",
+      "russian": "авокадо",
+      "farsi": "آووکادو"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Olive, die Oliven",
+      "english": "olive",
+      "russian": "олива",
+      "farsi": "زیتون"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Peperoni, die Peperonis",
+      "english": "pepper",
+      "russian": "перец",
+      "farsi": "فلفل"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Champignon, die Champignons",
+      "english": "mushroom",
+      "russian": "шампиньон",
+      "farsi": "قارچ"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Shiitake, die Shiitakepilze",
+      "english": "shiitake mushroom",
+      "russian": "грибы шиитаке",
+      "farsi": "قارچ شیتاکه"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Mais, (kein Plural)",
+      "english": "corn",
+      "russian": "кукуруза",
+      "farsi": "ذرت"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Alge, die Algen",
+      "english": "algae",
+      "russian": "водоросли",
+      "farsi": "جلبک"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Rindfleisch, (kein Plural)",
+      "english": "beef",
+      "russian": "говядина",
+      "farsi": "گوشت گاو"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Kalbfleisch, (kein Plural)",
+      "english": "veal",
+      "russian": "телятина",
+      "farsi": "گوشت گوساله"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Lammfleisch, (kein Plural)",
+      "english": "lamb",
+      "russian": "баранина",
+      "farsi": "گوشت بره"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Schweinefleisch, (kein Plural)",
+      "english": "pork",
+      "russian": "свинина",
+      "farsi": "گوشت خوک"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Hammelfleisch, (kein Plural)",
+      "english": "mutton",
+      "russian": "овчина",
+      "farsi": "گوشت گوسفند"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Wildfleisch, (kein Plural)",
+      "english": "game meat",
+      "russian": "мясо дичи",
+      "farsi": "گوشت شکار"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Hackfleisch, (kein Plural)",
+      "english": "mince",
+      "russian": "фарш",
+      "farsi": "گوشت چرخ کرده"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Hähnchen, die Hähnchen",
+      "english": "chicken",
+      "russian": "курица",
+      "farsi": "مرغ"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Hühnchen, die Hühnchen",
+      "english": "chicken",
+      "russian": "курица",
+      "farsi": "مرغ"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Pute, die Puten",
+      "english": "turkey",
+      "russian": "индейка",
+      "farsi": " بوقلمون"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Putenfleisch, (kein Plural)",
+      "english": "turkey meat",
+      "russian": "мясо индейки",
+      "farsi": "گوشت بوقلمون"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Ente, die Enten",
+      "english": "duck",
+      "russian": "утка",
+      "farsi": "اردک"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Entenfleisch, (kein Plural)",
+      "english": "duck meat",
+      "russian": "мясо утки",
+      "farsi": "گوشت اردک"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Gans, die Gänse",
+      "english": "goose",
+      "russian": "гусь",
+      "farsi": " غاز"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Wurst, die Würste",
+      "english": "sausage",
+      "russian": "колбаса",
+      "farsi": "سوسیس"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Bratwurst, die Bratwürste",
+      "english": "fried sausage",
+      "russian": "жареная колбаса",
+      "farsi": "سوسیس سرخ شده"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Bockwurst, die Bockwürste",
+      "english": "Bockwurst",
+      "russian": "квартальная колбаса",
+      "farsi": "سوسیس بوک"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Speck, (kein Plural)",
+      "english": "bacon",
+      "russian": "бекон",
+      "farsi": "بیکن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Schinken, die Schinken",
+      "english": "ham",
+      "russian": "ветчина",
+      "farsi": "ژامبون"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Rinderfilet, die Rinderfilets",
+      "english": "beef fillet",
+      "russian": "филе говядины",
+      "farsi": "فیله گوساله"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Rindersteak, die Rindersteaks",
+      "english": "beef steak",
+      "russian": "стейк из говядины",
+      "farsi": "استیک گوشت گاو"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Rinderhackfleisch, (kein Plural)",
+      "english": "ground beef",
+      "russian": "фарш из говядины",
+      "farsi": "گوشت چرخ کرده گاو"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Rinderbraten, die Rinderbraten",
+      "english": "beef roast",
+      "russian": "ростбиф",
+      "farsi": "گوشت بره بریان"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Rindfleisch, (kein Plural)",
+      "english": "beef",
+      "russian": "говядина",
+      "farsi": "گوشت گاو"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Rinderhüfte, die Rinderhüften",
+      "english": "beef rump",
+      "russian": "говяжья бедренная часть",
+      "farsi": "ران گوشت گاو"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Rinderbrust, die Rinderbrüste",
+      "english": "beef brisket",
+      "russian": "грудка говядины",
+      "farsi": "سینه گوشت گاو"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Schweinefilet, die Schweinefilets",
+      "english": "pork fillet",
+      "russian": "филе свинины",
+      "farsi": "فیله خوک"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Schweinefleisch, (kein Plural)",
+      "english": "pork",
+      "russian": "свинина",
+      "farsi": "گوشت خوک"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Schweinebraten, die Schweinebraten",
+      "english": "pork roast",
+      "russian": "жареная свинина",
+      "farsi": "گوشت خوک بریان"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Schweinehaxe, die Schweinehaxen",
+      "english": "pork knuckle",
+      "russian": "свиная рулька",
+      "farsi": "پاچه خوک"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Schweinekotelett, die Schweinekoteletts",
+      "english": "pork chop",
+      "russian": "свиная котлета",
+      "farsi": "کاتلت خوک"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Schweinehackfleisch, (kein Plural)",
+      "english": "ground pork",
+      "russian": "фарш из свинины",
+      "farsi": "گوشت چرخ کرده خوک"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Schweineschulter, die Schweineschultern",
+      "english": "pork shoulder",
+      "russian": "свиная шея",
+      "farsi": "شانه خوک"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Lammfilet, die Lammfilets",
+      "english": "lamb fillet",
+      "russian": "филе баранины",
+      "farsi": "فیله بره"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Lammkotelett, die Lammkoteletts",
+      "english": "lamb chop",
+      "russian": "котлета из баранины",
+      "farsi": "کاتلت بره"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Lammfleisch, (kein Plural)",
+      "english": "lamb",
+      "russian": "баранина",
+      "farsi": "گوشت بره"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Lammkeule, die Lammkeulen",
+      "english": "lamb leg",
+      "russian": "баранья нога",
+      "farsi": "ران بره"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Lammhals, die Lammhälse",
+      "english": "lamb neck",
+      "russian": "шея баранины",
+      "farsi": "گردن بره"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Lammbraten, die Lammbraten",
+      "english": "lamb roast",
+      "russian": "жареная баранина",
+      "farsi": "گوشت بره بریان"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Hähnchenbrustfilet, die Hähnchenbrustfilets",
+      "english": "chicken breast fillet",
+      "russian": "филе куриного филе",
+      "farsi": "فیله سینه مرغ"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Hähnchenkeule, die Hähnchenkeulen",
+      "english": "chicken drumstick",
+      "russian": "куриная ножка",
+      "farsi": "پا مرغ"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Hähnchenfleisch, (kein Plural)",
+      "english": "chicken meat",
+      "russian": "куриное мясо",
+      "farsi": "گوشت مرغ"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Hühnerbrust, die Hühnerbrüste",
+      "english": "chicken breast",
+      "russian": "куриная грудка",
+      "farsi": "سینه مرغ"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Hühnchen, die Hühnchen",
+      "english": "chicken",
+      "russian": "курица",
+      "farsi": "مرغ"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Putenbrust, die Putenbrüste",
+      "english": "turkey breast",
+      "russian": "грудка индейки",
+      "farsi": "سینه بوقلمون"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Putenkeule, die Putenkeulen",
+      "english": "turkey leg",
+      "russian": "нога индейки",
+      "farsi": "پای بوقلمون"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Putenfleisch , (kein Plural)",
+      "english": "turkey meat",
+      "russian": "мясо индейки",
+      "farsi": "گوشت بوقلمون"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Brot, die Brote",
+      "english": "bread",
+      "russian": "хлеб",
+      "farsi": "نان"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Weißbrot, die Weißbrote",
+      "english": "white bread",
+      "russian": "белый хлеб",
+      "farsi": "نان سفید"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Schwarzbrot, die Schwarzbrote",
+      "english": "dark bread",
+      "russian": "черный хлеб",
+      "farsi": "نان تیره"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Roggenbrot, die Roggenbrote",
+      "english": "rye bread",
+      "russian": "рождественный хлеб",
+      "farsi": "نان چاودار"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Vollkornbrot, die Vollkornbrote",
+      "english": "whole grain bread",
+      "russian": "цельнозерновой хлеб",
+      "farsi": "نان سبوس دار"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Mischbrot, die Mischbrote",
+      "english": "mixed bread",
+      "russian": "смешанный хлеб",
+      "farsi": "نان مخلوط"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Mehrkornbrot, die Mehrkornbrote",
+      "english": "multigrain bread",
+      "russian": "многозерновой хлеб",
+      "farsi": "نان چند غله"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Brötchen, die Brötchen",
+      "english": "bread roll",
+      "russian": "булочка",
+      "farsi": "نان گرد"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Semmel, die Semmeln",
+      "english": "bread roll",
+      "russian": "булочка",
+      "farsi": "نان گرد"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Brezel, die Brezeln",
+      "english": "pretzel",
+      "russian": "прецель",
+      "farsi": "پرتزل"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Croissant, die Croissants",
+      "english": "croissant",
+      "russian": "круассан",
+      "farsi": "کرواسان"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Baguette, die Baguettes",
+      "english": "baguette",
+      "russian": "багет",
+      "farsi": "باگت"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Ciabatta, die Ciabattas",
+      "english": "ciabatta",
+      "russian": "чиабатта",
+      "farsi": "چاباتا"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Knäckebrot, die Knäckebrote",
+      "english": "crispbread",
+      "russian": "хрустящий хлеб",
+      "farsi": "نان خشک"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Pumpernickel, (kein Plural)",
+      "english": "pumpernickel",
+      "russian": "пумперникель",
+      "farsi": "پامپرنیکل"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Fladenbrot, die Fladenbrote",
+      "english": "flatbread",
+      "russian": "плоский хлеб",
+      "farsi": "نان فطیر"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Zwiebelbrot, die Zwiebelbrote",
+      "english": "onion bread",
+      "russian": "луковый хлеб",
+      "farsi": "نان پیاز"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Kürbiskernbrot, die Kürbiskernbrote",
+      "english": "pumpkin seed bread",
+      "russian": "хлеб с тыквенными семечками",
+      "farsi": "نان تخمه کدو"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Rosinenbrot, die Rosinenbrote",
+      "english": "raisin bread",
+      "russian": "изюмный хлеб",
+      "farsi": "نان کشمش"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Hefezopf, die Hefezöpfe",
+      "english": "yeast braid",
+      "russian": "дрожжевой плетеный хлеб",
+      "farsi": "نان پیچیده مخمر"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Milchbrötchen, die Milchbrötchen",
+      "english": "milk roll",
+      "russian": "молочная булочка",
+      "farsi": "نان شیر"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Stollen, die Stollen",
+      "english": "stollen",
+      "russian": "штоллен",
+      "farsi": "استولن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Berliner, die Berliner",
+      "english": "jelly doughnut",
+      "russian": "берлинер (пончик с джемом)",
+      "farsi": "برلینر (دونات ژله ای)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Wasser, (kein Plural)",
+      "english": "water",
+      "russian": "вода",
+      "farsi": "آب"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Mineralwasser, (kein Plural)",
+      "english": "mineral water",
+      "russian": "минеральная вода",
+      "farsi": "آب معدنی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Saft, die Säfte",
+      "english": "juice",
+      "russian": "сок",
+      "farsi": "آب میوه"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Apfelsaft, die Apfelsäfte",
+      "english": "apple juice",
+      "russian": "яблочный сок",
+      "farsi": "آب سیب"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Orangensaft, die Orangensäfte",
+      "english": "orange juice",
+      "russian": "апельсиновый сок",
+      "farsi": "آب پرتقال"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Traubensaft, die Traubensäfte",
+      "english": "grape juice",
+      "russian": "виноградный сок",
+      "farsi": "آب انگور"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Kirschsaft, die Kirschsäfte",
+      "english": "cherry juice",
+      "russian": "вишневый сок",
+      "farsi": "آب آلبالو"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Tomatensaft, die Tomatensäfte",
+      "english": "tomato juice",
+      "russian": "томатный сок",
+      "farsi": "آب گوجه فرنگی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Limonade, die Limonaden",
+      "english": "lemonade",
+      "russian": "лимонад",
+      "farsi": "لیموناد"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Cola, die Colas",
+      "english": "cola",
+      "russian": "кола",
+      "farsi": "کولا"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Fanta, die Fanta",
+      "english": "fanta",
+      "russian": "фанта",
+      "farsi": "فانتا"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Eistee, die Eistees",
+      "english": "iced tea",
+      "russian": "холодный чай",
+      "farsi": "چای یخ"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Kakao, die Kakaos",
+      "english": "cocoa",
+      "russian": "какао",
+      "farsi": "کاکائو"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Kaffee, (kein Plural)",
+      "english": "coffee",
+      "russian": "кофе",
+      "farsi": "قهوه"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Espresso, (kein Plural)",
+      "english": "espresso",
+      "russian": "эспрессо",
+      "farsi": "اسپرسو"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Cappuccino, (kein Plural)",
+      "english": "cappuccino",
+      "russian": "капучино",
+      "farsi": "کاپوچینو"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Latte Macchiato, (kein Plural)",
+      "english": "latte macchiato",
+      "russian": "латте маккиато",
+      "farsi": "لاته ماکیاتو"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die heiße Schokolade, die heißen Schokoladen",
+      "english": "hot chocolate",
+      "russian": "горячий шоколад",
+      "farsi": "شکلات داغ"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Fruchtsaft, die Fruchtsäfte",
+      "english": "fruit juice",
+      "russian": "фруктовый сок",
+      "farsi": "آب میوه"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Limonade, die Limonaden",
+      "english": "lemonade",
+      "russian": "лимонад",
+      "farsi": "لیموناد"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Smoothie, die Smoothies",
+      "english": "smoothie",
+      "russian": "смузи",
+      "farsi": "اسموتی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Shake, die Shakes",
+      "english": "shake",
+      "russian": "шейк",
+      "farsi": "شیک"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Bier, die Biere",
+      "english": "beer",
+      "russian": "пиво",
+      "farsi": "آب جو"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Wein, die Weine",
+      "english": "wine",
+      "russian": "вино",
+      "farsi": "شراب"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Rotwein, die Rotweine",
+      "english": "red wine",
+      "russian": "красное вино",
+      "farsi": "شراب قرمز"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Weißwein, die Weißweine",
+      "english": "white wine",
+      "russian": "белое вино",
+      "farsi": "شراب سفید"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Sekt, die Sekte",
+      "english": "sparkling wine",
+      "russian": "игристое вино",
+      "farsi": "شراب گازدار"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Champagner, die Champagner",
+      "english": "champagne",
+      "russian": "шампанское",
+      "farsi": "شامپاین"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Likör, die Liköre",
+      "english": "liqueur",
+      "russian": "ликер",
+      "farsi": "مشروبات الکلی شیرین"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Cocktail, die Cocktails",
+      "english": "cocktail",
+      "russian": "коктейль",
+      "farsi": "کوکتل"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Whiskey, die Whiskeys",
+      "english": "whiskey",
+      "russian": "виски",
+      "farsi": "ویسکی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Vodka, (kein Plural)",
+      "english": "vodka",
+      "russian": "водка",
+      "farsi": "وودکا"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Tequila, (kein Plural)",
+      "english": "tequila",
+      "russian": "текіла",
+      "farsi": "تکیلا"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Rum, (kein Plural)",
+      "english": "rum",
+      "russian": "ром",
+      "farsi": "رام"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Brandy, (kein Plural)",
+      "english": "brandy",
+      "russian": "бренди",
+      "farsi": "برندی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Ingwertee, die Ingwertees",
+      "english": "ginger tea",
+      "russian": "имбирный чай",
+      "farsi": "چای زنجبیل"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Kräutertee, die Kräutertees",
+      "english": "herbal tea",
+      "russian": "травяной чай",
+      "farsi": "چای گیاهی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Früchtetee, die Früchtetees",
+      "english": "fruit tea",
+      "russian": "фруктовый чай",
+      "farsi": "چای میوه‌ای"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Pfefferminztee, die Pfefferminztees",
+      "english": "peppermint tea",
+      "russian": "мятный чай",
+      "farsi": "چای نعناع"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Mate-Tee, (kein Plural)",
+      "english": "mate tea",
+      "russian": "мате",
+      "farsi": "چای ماتé"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Keks, die Kekse",
+      "english": "cookie",
+      "russian": "печенье",
+      "farsi": "کیک"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Plätzchen, die Plätzchen",
+      "english": "small cookie",
+      "russian": "песочное печенье",
+      "farsi": "کوکی کوچک"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Biscuit, die Biscuits",
+      "english": "biscuit",
+      "russian": "песочное печенье",
+      "farsi": "بسکویت"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Zwieback, die Zwiebacke",
+      "english": "rusks",
+      "russian": "сухарики",
+      "farsi": "خشک‌برش"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Croissant, die Croissants",
+      "english": "croissant",
+      "russian": "круассан",
+      "farsi": "کرواسان"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Shortbread, die Shortbreads",
+      "english": "shortbread",
+      "russian": "песочное печенье",
+      "farsi": "شورتبرد"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Waffel, die Waffeln",
+      "english": "waffle",
+      "russian": "вафля",
+      "farsi": "وافل"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Muffin, die Muffins",
+      "english": "muffin",
+      "russian": "маффин",
+      "farsi": "مافین"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Brownie, die Brownies",
+      "english": "brownie",
+      "russian": "брауни",
+      "farsi": "براونی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Kuchen, die Kuchen",
+      "english": "cake",
+      "russian": "пирог",
+      "farsi": "کیک"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Torte, die Torten",
+      "english": "layer cake",
+      "russian": "торт",
+      "farsi": "کیک لایه‌ای"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Sahnetorte, die Sahnetorten",
+      "english": "cream cake",
+      "russian": "кремовый торт",
+      "farsi": "کیک خامه‌ای"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Biskuitrolle, die Biskuitrollen",
+      "english": "biscuit roll",
+      "russian": "бисквитный рулет",
+      "farsi": "رول بیسکویت"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Donut, die Donuts",
+      "english": "donut",
+      "russian": "пончики",
+      "farsi": "دونات"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Berliner, die Berliner",
+      "english": "Berliner doughnut",
+      "russian": "берлинский пончик",
+      "farsi": "برلینر"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Apfelstrudel, die Apfelstrudel",
+      "english": "apple strudel",
+      "russian": "яблочный штрудель",
+      "farsi": "استرودل سیب"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Pfannkuchen, die Pfannkuchen",
+      "english": "pancake",
+      "russian": "блин",
+      "farsi": "پنکیک"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Käsekuchen, die Käsekuchen",
+      "english": "cheesecake",
+      "russian": "чизкейк",
+      "farsi": "چیزکیک"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Streuselkuchen, die Streuselkuchen",
+      "english": "crumb cake",
+      "russian": "крошечный пирог",
+      "farsi": "کیک پر از خرما"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Nusstorte, die Nusstorten",
+      "english": "nut cake",
+      "russian": "ореховый торт",
+      "farsi": "کیک گردویی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Praline, die Pralinen",
+      "english": "praline",
+      "russian": "пралина",
+      "farsi": "شکلات کاکائویی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Schokoladenriegel, die Schokoladenriegel",
+      "english": "chocolate bar",
+      "russian": "шоколадный батончик",
+      "farsi": "شکلات میله‌ای"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Schokoladenkeks, die Schokoladenkekse",
+      "english": "chocolate cookie",
+      "russian": "шоколадное печенье",
+      "farsi": "کیک شکلاتی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Schokoladenkuchen, die Schokoladenkuchen",
+      "english": "chocolate cake",
+      "russian": "шоколадный торт",
+      "farsi": "کیک شکلاتی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Trüffel, die Trüffel",
+      "english": "truffle",
+      "russian": "трюфель",
+      "farsi": "ترفیل"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Marmelade, die Marmeladen",
+      "english": "jam",
+      "russian": "джем",
+      "farsi": "مربا"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Gelee, die Gelees",
+      "english": "jelly",
+      "russian": "желатин",
+      "farsi": "ژله"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Konfitüre, die Konfitüren",
+      "english": "preserve",
+      "russian": "конфитюр",
+      "farsi": "کنفیتور"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Fruchtgummis, die Fruchtgummis",
+      "english": "fruit gums",
+      "russian": "фруктовые жевательные конфеты",
+      "farsi": "آب نبات میوه‌ای"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Obstkuchen, die Obstkuchen",
+      "english": "fruit cake",
+      "russian": "фруктовый торт",
+      "farsi": "کیک میوه‌ای"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Nougat, (kein Plural)",
+      "english": "nougat",
+      "russian": "нуга",
+      "farsi": "نوگات"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Marzipan, (kein Plural)",
+      "english": "marzipan",
+      "russian": "марципан",
+      "farsi": "مارزیپان"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Zuckerstange, die Zuckerstangen",
+      "english": "candy cane",
+      "russian": "сахарная палочка",
+      "farsi": "چوب شکری"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Baklava, (kein Plural)",
+      "english": "baklava",
+      "russian": "баклава",
+      "farsi": "باقلوا"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Zuckerkuss, die Zuckerküsse",
+      "english": "sugar kiss",
+      "russian": "сахарный поцелуй",
+      "farsi": "بوسه شیرین"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Lebkuchen, (kein Plural)",
+      "english": "gingerbread",
+      "russian": "пряники",
+      "farsi": "زنجفیل کیک"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Dominosteine, die Dominosteine",
+      "english": "domino stones",
+      "russian": "домино",
+      "farsi": "سنگ‌های دومینو"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Stollen, die Stollen",
+      "english": "stollen",
+      "russian": "штоллен",
+      "farsi": "شطلن"
+    }
+  ]
+}
