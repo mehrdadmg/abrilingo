@@ -1,6 +1,9 @@
+/* Gap at the bottom of the lesson list */
 .chose_lesson .gap {
   height: 50px;
 }
+
+/* Header styling */
 .chose_lesson .header {
   height: 5vh;
   display: flex;
@@ -9,6 +12,7 @@
   margin-bottom: 20px;
 }
 
+/* Back button styling */
 .chose_lesson .back-button {
   background: none;
   border: none;
@@ -16,12 +20,28 @@
   cursor: pointer;
 }
 
+/* Wrapper for the lesson units */
 .chose_lesson .wrapper_unit {
   margin-top: 20px;
   text-align: left;
 }
 
+/* General styling for lesson input units */
 .chose_lesson .input_unit {
+  position: relative;
+  padding: 15px;
+  display: block;
+  line-height: 35px;
+  border-bottom: none;
+}
+
+/* Styling for the first input unit */
+.chose_lesson .input_unit.first_input {
+  border-bottom: none;
+}
+
+/* Styling for level_0 input units */
+.chose_lesson .input_unit.level_0 {
   position: relative;
   padding: 15px;
   display: block;
@@ -30,16 +50,19 @@
   border-bottom: none;
 }
 
-.chose_lesson .input_unit.first_input {
+/* Styling for the first level_0 input unit */
+.chose_lesson .input_unit.first_input.level_0 {
   border-radius: 10px 10px 0 0;
   border-bottom: none;
 }
 
-.chose_lesson .input_unit.last_input {
+/* Styling for the last level_0 input unit */
+.chose_lesson .input_unit.last_input.level_0 {
   border: solid 2px black;
   border-radius: 0 0 10px 10px;
 }
 
+/* Styling for the unit name */
 .chose_lesson .unit_name {
   background: none;
   border: none;
@@ -48,6 +71,7 @@
   padding: 10px 0px;
 }
 
+/* Review status styling */
 .chose_lesson .review-status {
   height: 5vh;
   margin-bottom: 0px;
@@ -56,6 +80,7 @@
   color: #888;
 }
 
+/* Card styling */
 .chose_lesson .card {
   min-height: 85%;
   position: relative;
@@ -65,6 +90,7 @@
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
+/* Action button styling */
 .chose_lesson .action_to_lesson {
   background-color: white;
   border: none;
@@ -75,6 +101,7 @@
   transform: translateY(-50%);
 }
 
+/* SVG icon styling for action button */
 .chose_lesson .action_to_lesson svg {
   width: 25px;
   height: 25px;
