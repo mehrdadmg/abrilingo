@@ -836,6 +836,286 @@
       "english": "Companies usually describe very precisely what professional and personal competencies they expect from applicants.",
       "russian": "Компании обычно очень точно описывают, какие профессиональные и личные компетенции они ожидают от соискателей.",
       "farsi": "شرکت‌ها معمولاً دقیقاً توضیح می‌دهند که چه مهارت‌های حرفه‌ای و شخصی از متقاضیان انتظار دارند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Guten Tag, herzlich willkommen im BiZ.",
+      "english": "Good day, welcome to the BiZ.",
+      "russian": "Добрый день, добро пожаловать в BiZ.",
+      "farsi": "روز بخیر، به BiZ خوش آمدید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Guten Tag. Mein Name ist Aziz El Khalfi.",
+      "english": "Good day. My name is Aziz El Khalfi.",
+      "russian": "Добрый день. Меня зовут Азиз Эль Халфи.",
+      "farsi": "روز بخیر. اسم من عزیز ال خلفی است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich suche Informationen über Ausbildungen im Bereich IT.",
+      "english": "I am looking for information about training in the IT field.",
+      "russian": "Я ищу информацию об обучении в области ИТ.",
+      "farsi": "من به دنبال اطلاعاتی درباره آموزش در حوزه آی‌تی هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mitarbeiterin: Ich helfe Ihnen gern.",
+      "english": "Employee: I am happy to help you.",
+      "russian": "Сотрудница: Я с радостью вам помогу.",
+      "farsi": "کارمند: با کمال میل به شما کمک می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Themeninsel „Ausbildung und Beruf“ ist hier.",
+      "english": "The topic area 'Training and Career' is here.",
+      "russian": "Тематика «Обучение и профессия» находится здесь.",
+      "farsi": "موضوع «آموزش و حرفه» اینجاست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In den Regalen finden Sie alle Informationen, die Sie brauchen.",
+      "english": "On the shelves, you will find all the information you need.",
+      "russian": "На полках вы найдете всю необходимую информацию.",
+      "farsi": "روی قفسه‌ها تمام اطلاعات مورد نیازتان را پیدا می‌کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Themeninsel? Das verstehe ich nicht. Was bedeutet das?",
+      "english": "Topic area? I don't understand that. What does it mean?",
+      "russian": "Тематика? Я этого не понимаю. Что это значит?",
+      "farsi": "موضوع؟ من این را نمی‌فهمم. منظور چیست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das BiZ ist nach Themen eingeteilt: „Arbeit und Beruf“, „Ausbildung und Studium“ und „Bewerbung“.",
+      "english": "The BiZ is divided into topics: 'Work and Career,' 'Training and Studies,' and 'Application.'",
+      "russian": "BiZ разделен по темам: «Работа и профессия», «Обучение и учеба» и «Заявления на работу».",
+      "farsi": "BiZ به موضوعات تقسیم شده است: «کار و حرفه»، «آموزش و تحصیل» و «درخواست شغل»."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Diese Bereiche nennen wir Themeninseln.",
+      "english": "We call these areas topic areas.",
+      "russian": "Мы называем эти области тематическими островками.",
+      "farsi": "ما این بخش‌ها را مناطق موضوعی می‌نامیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich verstehe. Vielen Dank.",
+      "english": "I understand. Thank you very much.",
+      "russian": "Я понимаю. Большое спасибо.",
+      "farsi": "متوجه شدم. خیلی ممنون."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kann ich auch die Computer benutzen, um im Internet zu recherchieren?",
+      "english": "Can I also use the computers to do research on the internet?",
+      "russian": "Могу ли я также пользоваться компьютерами для поиска информации в интернете?",
+      "farsi": "آیا می‌توانم از کامپیوترها برای جستجو در اینترنت استفاده کنم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Selbstverständlich dürfen Sie das.",
+      "english": "Of course, you may do that.",
+      "russian": "Конечно, вы можете это сделать.",
+      "farsi": "البته که می‌توانید این کار را انجام دهید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vielen Dank. Wenn ich Fragen habe, komme ich noch einmal zu Ihnen.",
+      "english": "Thank you very much. If I have any questions, I will come back to you.",
+      "russian": "Большое спасибо. Если у меня будут вопросы, я снова к вам подойду.",
+      "farsi": "خیلی ممنون. اگر سوالی داشته باشم، دوباره به شما مراجعه می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sag mal John, am Wochenende ist in den Messehallen die Jobmesse.",
+      "english": "Say, John, the job fair is in the exhibition halls this weekend.",
+      "russian": "Слушай, Джон, на выходных в выставочных залах будет ярмарка вакансий.",
+      "farsi": "بگو جان، آخر هفته در سالن‌های نمایشگاه نمایشگاه شغلی برپا است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich möchte gerne dahin gehen. Kommst du mit?",
+      "english": "I would like to go there. Will you come with me?",
+      "russian": "Я бы хотел туда пойти. Ты пойдёшь со мной?",
+      "farsi": "می‌خواهم به آنجا بروم. با من می‌آیی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich weiß nicht genau.",
+      "english": "I'm not sure.",
+      "russian": "Я не уверен.",
+      "farsi": "دقیقاً نمی‌دانم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe doch schon letztes Jahr mit meiner Ausbildung zum Heizungstechniker begonnen.",
+      "english": "I already started my training as a heating technician last year.",
+      "russian": "Я уже начал своё обучение на техника по отоплению в прошлом году.",
+      "farsi": "من سال گذشته دوره آموزشی خود به عنوان تکنسین گرمایش را شروع کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich denke, du solltest mitkommen.",
+      "english": "I think you should come along.",
+      "russian": "Я думаю, тебе стоит пойти со мной.",
+      "farsi": "فکر می‌کنم باید همراه بیایی."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich will mehr über Berufe erfahren, die ich nach meinem Schulabschluss lernen kann.",
+      "english": "I want to learn more about professions I can pursue after graduating school.",
+      "russian": "Я хочу больше узнать о профессиях, которые могу освоить после окончания школы.",
+      "farsi": "می‌خواهم بیشتر درباره حرفه‌هایی که می‌توانم پس از پایان تحصیل یاد بگیرم بدانم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und du sagst immer, dass dir die Ausbildung gefällt, aber dass du nicht sicher bist, ob der Beruf wirklich Zukunft hat, wenn man an die vielen schnellen technischen Veränderungen denkt.",
+      "english": "And you always say that you like the training, but you're not sure if the profession really has a future, considering the many rapid technological changes.",
+      "russian": "И ты всегда говоришь, что тебе нравится обучение, но ты не уверен, есть ли у профессии будущее, учитывая многие быстрые технологические изменения.",
+      "farsi": "و همیشه می‌گویی که از آموزش لذت می‌بری، اما مطمئن نیستی که این حرفه با توجه به تغییرات سریع فناوری آینده‌ای دارد یا نه."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vielleicht hast du recht.",
+      "english": "Maybe you are right.",
+      "russian": "Может быть, ты прав.",
+      "farsi": "شاید حق با تو باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe aber nur am Samstag Zeit.",
+      "english": "But I only have time on Saturday.",
+      "russian": "Но у меня есть время только в субботу.",
+      "farsi": "اما فقط روز شنبه وقت دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "An dem Tag will ich auch gehen.",
+      "english": "I want to go on that day too.",
+      "russian": "Я тоже хочу пойти в этот день.",
+      "farsi": "من هم می‌خواهم در آن روز بروم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es gibt auch Vorträge über verschiedene Themen.",
+      "english": "There are also lectures on various topics.",
+      "russian": "Там также будут лекции на разные темы.",
+      "farsi": "سخنرانی‌هایی درباره موضوعات مختلف هم وجود دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was gibt es denn?",
+      "english": "What is there?",
+      "russian": "Что там есть?",
+      "farsi": "چه چیزهایی هست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hier habe ich das Programm.",
+      "english": "Here, I have the program.",
+      "russian": "Вот, у меня есть программа.",
+      "farsi": "اینجا برنامه را دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nicht alle sind für uns relevant.",
+      "english": "Not all of them are relevant to us.",
+      "russian": "Не все из них актуальны для нас.",
+      "farsi": "همه برای ما مرتبط نیستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, das Thema Selbstständigkeit ist für mich zum Beispiel weniger wichtig.",
+      "english": "Yes, the topic of self-employment is, for example, less important to me.",
+      "russian": "Да, тема самозанятости, например, для меня менее важна.",
+      "farsi": "بله، موضوع خوداشتغالی برای من کمتر مهم است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und für dich sicher auch.",
+      "english": "And probably for you too.",
+      "russian": "И, наверное, для тебя тоже.",
+      "farsi": "و احتمالاً برای تو هم همینطور است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "So ist es. Es gibt auch zwei Vorträge über Kündigungen.",
+      "english": "That's right. There are also two lectures about dismissals.",
+      "russian": "Это так. Также есть две лекции об увольнениях.",
+      "farsi": "درست است. همچنین دو سخنرانی درباره اخراج وجود دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Auch die müssen wir nicht besuchen.",
+      "english": "We don't need to attend those either.",
+      "russian": "Эти мы тоже не должны посещать.",
+      "farsi": "آن‌ها را هم لازم نیست شرکت کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber es gibt einen Vortrag mit dem Titel: „Welche Berufe sind besonders gefragt?“",
+      "english": "But there is a lecture titled: 'Which professions are in high demand?'",
+      "russian": "Но есть лекция под названием: «Какие профессии особенно востребованы?»",
+      "farsi": "اما یک سخنرانی با عنوان: «کدام حرفه‌ها بسیار مورد تقاضا هستند؟» وجود دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Über das Thema wollte ich schon immer mehr wissen.",
+      "english": "I’ve always wanted to know more about that topic.",
+      "russian": "Я всегда хотел больше узнать об этой теме.",
+      "farsi": "من همیشه می‌خواستم درباره این موضوع بیشتر بدانم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, das finde ich auch interessant.",
+      "english": "Yes, I also find that interesting.",
+      "russian": "Да, я тоже нахожу это интересным.",
+      "farsi": "بله، من هم آن را جالب می‌دانم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vielleicht kann ich da auch fragen, wie gefragt Heizungstechniker jetzt sind und welche Zukunft der Beruf hat.",
+      "english": "Maybe I can also ask there how in-demand heating technicians are now and what the future of the profession looks like.",
+      "russian": "Может быть, я смогу там спросить, насколько сейчас востребованы отопительные техники и какое будущее у этой профессии.",
+      "farsi": "شاید بتوانم آنجا بپرسم که تکنسین‌های گرمایشی چقدر تقاضا دارند و آینده این حرفه چگونه است."
     }
   ]
 }
