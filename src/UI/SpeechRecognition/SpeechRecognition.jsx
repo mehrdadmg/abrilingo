@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { useSpeechRecognition } from 'react-speech-kit';
-import PlayText from '../../components/PlayText/PlayText';
+// import PlayText from '../../components/PlayText/PlayText';
+import TextToSpeech from '../../components/TextToSpeech/TextToSpeech';
 
 import { IoMicCircleSharp } from 'react-icons/io5';
 import { IoStopCircleSharp } from 'react-icons/io5';
@@ -45,7 +46,8 @@ const SpeechRecognition = (props) => {
       {viewAnswer && (
         <div className="answerContainer">
           <p className="answer">{props.text}</p>
-          <PlayText text={props.text} rate={props.rate} pitch={props.pitch} voice={props.voice} />
+          {/* <PlayText text={props.text} rate={props.rate} pitch={props.pitch} voice={props.voice} /> */}
+          <TextToSpeech text={props.text} rate={props.rate} pitch={props.pitch} voice={props.voice} />
         </div>
       )}
     </div>

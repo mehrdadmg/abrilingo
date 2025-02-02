@@ -11,7 +11,9 @@ import {
   setPitch,
 } from '../../api/handleLocalStorage';
 import { allLanguagesTranslate } from '../../content/lessons';
-import PlayText from '../../components/PlayText/PlayText';
+// import PlayText from '../../components/PlayText/PlayText';
+import TextToSpeech from '../../components/TextToSpeech/TextToSpeech';
+
 import { GrPrevious } from 'react-icons/gr';
 
 import './Setting.css';
@@ -70,7 +72,13 @@ const Setting = (props) => {
           <h2 className="setting_titel">Select Voice</h2>
           <h3 className="voice_test">
             Play test voice
-            <PlayText
+            {/* <PlayText
+              text="Wir haben viele neue Freunde gefunden."
+              voice={voice}
+              rate={selectedRate}
+              pitch={selectepitch}
+            /> */}
+            <TextToSpeech
               text="Wir haben viele neue Freunde gefunden."
               voice={voice}
               rate={selectedRate}

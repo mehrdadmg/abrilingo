@@ -174,6 +174,12 @@ const alllessons = [
         file_name: 'b1_fokus_u04.json',
         name: 'B1_Fokus_u04',
       },
+      {
+        id: '305',
+        level: 1,
+        file_name: 'b1_fokus_u05.json',
+        name: 'B1_Fokus_u05',
+      },
     ],
   },
   {

@@ -1,0 +1,22 @@
+.container-controls-button {
+  position: absolute;
+  bottom: 2px;
+  left: 10px;
+  padding: 7px 9px;
+}
+
+.container-controls-button .control-button {
+  margin-right: 30px;
+  background-color: rgb(255, 255, 255);
+  color: white;
+  border: none;
+  border-radius: 50%;
+  font-size: 26px;
+  cursor: pointer;
+}
+
+.container-controls-button .control-button svg {
+  margin-bottom: -3px;
+  margin-right: -3px;
+  color: rgb(30, 135, 255);
+}
