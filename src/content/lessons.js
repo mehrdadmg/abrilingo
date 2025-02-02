@@ -180,6 +180,12 @@ const alllessons = [
         file_name: 'b1_fokus_u05.json',
         name: 'B1_Fokus_u05',
       },
+      {
+        id: '306',
+        level: 1,
+        file_name: 'b1_fokus_u06.json',
+        name: 'B1_Fokus_u06',
+      },
     ],
   },
   {
