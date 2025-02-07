@@ -189,6 +189,49 @@ const alllessons = [
     ],
   },
   {
+    id: '900',
+    name: 'Wortliste',
+    level: 0,
+    children: [
+      {
+        id: '901',
+        level: 1,
+        file_name: 'a1_wortliste_01.json',
+        name: 'A1_Wortliste_01',
+      },
+      {
+        id: '902',
+        level: 1,
+        file_name: 'a1_wortliste_02.json',
+        name: 'A1_Wortliste_02',
+      },
+      {
+        id: '903',
+        level: 1,
+        file_name: 'a1_wortliste_03.json',
+        name: 'A1_Wortliste_03',
+      },
+      {
+        id: '904',
+        level: 1,
+        file_name: 'a1_wortliste_04.json',
+        name: 'A1_Wortliste_04',
+      },
+      {
+        id: '905',
+        level: 1,
+        file_name: 'a1_wortliste_05.json',
+        name: 'A1_Wortliste_05',
+      },
+      {
+        id: '906',
+        level: 1,
+        file_name: 'a1_wortliste_06.json',
+        name: 'A1_Wortliste_06',
+      },
+    ],
+  },
+  {
     id: '400',
     name: 'Gespräch',
     level: 0,

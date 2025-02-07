@@ -1,0 +1,1985 @@
+{
+  "info": {
+    "name": "A1_Wortliste_01",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "ab",
+      "english": "from, as of",
+      "russian": "от, начиная с",
+      "farsi": "از، از آن زمان"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ab morgen muss ich arbeiten.",
+      "english": "I have to work from tomorrow.",
+      "russian": "С завтрашнего дня мне нужно работать.",
+      "farsi": "از فردا باید کار کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "aber",
+      "english": "but",
+      "russian": "но",
+      "farsi": "اما"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin oft im Büro, aber nur für wenige Stunden.",
+      "english": "I am often in the office, but only for a few hours.",
+      "russian": "Я часто бываю в офисе, но только на несколько часов.",
+      "farsi": "من اغلب در دفتر هستم، اما فقط برای چند ساعت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "abfahren",
+      "english": "leave, depart",
+      "russian": "уезжать, отправляться",
+      "farsi": "رفتن، حرکت کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir fahren um zwölf Uhr ab.",
+      "english": "We leave at twelve o'clock.",
+      "russian": "Мы уезжаем в двенадцать часов.",
+      "farsi": "ما ساعت دوازده حرکت می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Abfahrt",
+      "english": "departure",
+      "russian": "отправление",
+      "farsi": "حرکت، عزیمت"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vor der Abfahrt rufe ich an.",
+      "english": "I will call before departure.",
+      "russian": "Я позвоню перед отправлением.",
+      "farsi": "قبل از حرکت تماس می‌گیرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "abgeben",
+      "english": "submit, hand over",
+      "russian": "сдать, передать",
+      "farsi": "تحویل دادن، ارائه کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich muss meine Schlüssel abgeben.",
+      "english": "I have to hand in my keys.",
+      "russian": "Мне нужно сдать свои ключи.",
+      "farsi": "باید کلیدهایم را تحویل دهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "abholen",
+      "english": "pick up",
+      "russian": "забрать",
+      "farsi": "برداشتن، تحویل گرفتن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wann kann ich den Schrank bei dir abholen?",
+      "english": "When can I pick up the cabinet from you?",
+      "russian": "Когда я могу забрать у тебя шкаф?",
+      "farsi": "چه زمانی می‌توانم کابینت را از تو بگیرم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir müssen noch meinen Bruder abholen.",
+      "english": "We still have to pick up my brother.",
+      "russian": "Нам нужно ещё забрать моего брата.",
+      "farsi": "ما هنوز باید برادرم را برداریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Absender",
+      "english": "sender",
+      "russian": "отправитель",
+      "farsi": "فرستنده"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Da ist ein Brief für dich ohne Absender.",
+      "english": "There is a letter for you without a sender.",
+      "russian": "Там письмо для тебя без отправителя.",
+      "farsi": "نامه‌ای برایت هست که فرستنده ندارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Achtung",
+      "english": "Attention, warning",
+      "russian": "Внимание",
+      "farsi": "توجه، هشدار"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Achtung! Das dürfen Sie nicht tun.",
+      "english": "Attention! You must not do that.",
+      "russian": "Внимание! Вы не должны это делать.",
+      "farsi": "توجه! نباید این کار را انجام دهید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Adresse, -n",
+      "english": "address",
+      "russian": "адрес",
+      "farsi": "آدرس"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können Sie mir seine Adresse sagen?",
+      "english": "Can you tell me his address?",
+      "russian": "Вы можете сказать мне его адрес?",
+      "farsi": "می‌توانید آدرس او را به من بگویید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "all-",
+      "english": "all",
+      "russian": "всё, все",
+      "farsi": "همه"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Alles Gute!",
+      "english": "All the best!",
+      "russian": "Всего хорошего!",
+      "farsi": "بهترین آرزوها!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das ist alles.",
+      "english": "That's all.",
+      "russian": "Это всё.",
+      "farsi": "این تمام است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sind alle da?",
+      "english": "Is everyone here?",
+      "russian": "Все здесь?",
+      "farsi": "آیا همه اینجا هستند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Alle Freunde kommen.",
+      "english": "All the friends are coming.",
+      "russian": "Все друзья приходят.",
+      "farsi": "همه دوستان می‌آیند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hast du alles?",
+      "english": "Do you have everything?",
+      "russian": "У тебя всё есть?",
+      "farsi": "آیا همه‌چیز را داری؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "allein",
+      "english": "alone",
+      "russian": "один, в одиночку",
+      "farsi": "تنها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er kommt allein.",
+      "english": "He is coming alone.",
+      "russian": "Он приходит один.",
+      "farsi": "او تنها می‌آید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "also",
+      "english": "so, therefore",
+      "russian": "итак, значит",
+      "farsi": "بنابراین"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Also, es ist so: ...",
+      "english": "So, it's like this: ...",
+      "russian": "Итак, дело обстоит так: ...",
+      "farsi": "خب، موضوع این است: ..."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat Zeit, also muss er uns helfen.",
+      "english": "He has time, so he must help us.",
+      "russian": "У него есть время, значит, он должен нам помочь.",
+      "farsi": "او وقت دارد، پس باید به ما کمک کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "alt",
+      "english": "old",
+      "russian": "старый",
+      "farsi": "قدیمی، پیر"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie alt sind Sie?",
+      "english": "How old are you?",
+      "russian": "Сколько вам лет?",
+      "farsi": "چند سال دارید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie sehen aber nicht so alt aus.",
+      "english": "But you don’t look that old.",
+      "russian": "Но вы не выглядите так старо.",
+      "farsi": "اما شما اینقدر پیر به نظر نمی‌رسید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein Auto ist schon sehr alt.",
+      "english": "My car is already very old.",
+      "russian": "Моя машина уже очень старая.",
+      "farsi": "ماشین من خیلی قدیمی است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir wohnen in einem sehr alten Haus.",
+      "english": "We live in a very old house.",
+      "russian": "Мы живём в очень старом доме.",
+      "farsi": "ما در یک خانه خیلی قدیمی زندگی می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Köln ist eine alte Stadt.",
+      "english": "Cologne is an old city.",
+      "russian": "Кёльн — старый город.",
+      "farsi": "کلن یک شهر قدیمی است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Alter",
+      "english": "age",
+      "russian": "возраст",
+      "farsi": "سن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Alter: 26 Jahre.",
+      "english": "Age: 26 years.",
+      "russian": "Возраст: 26 лет.",
+      "farsi": "سن: ۲۶ سال."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "an",
+      "english": "at, on",
+      "russian": "на, у",
+      "farsi": "در، کنار"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Fahren Sie an der nächsten Straße nach rechts.",
+      "english": "Turn right at the next street.",
+      "russian": "Поверните направо на следующей улице.",
+      "farsi": "در خیابان بعدی به راست بپیچید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir treffen uns am Bahnhof.",
+      "english": "We’ll meet at the train station.",
+      "russian": "Мы встречаемся на вокзале.",
+      "farsi": "ما در ایستگاه قطار ملاقات می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Am nächsten Montag geht es leider nicht.",
+      "english": "Unfortunately, next Monday doesn’t work.",
+      "russian": "К сожалению, в следующий понедельник не получится.",
+      "farsi": "متأسفانه دوشنبه آینده ممکن نیست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "anbieten",
+      "english": "to offer",
+      "russian": "предлагать",
+      "farsi": "پیشنهاد دادن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was darf ich dir anbieten?",
+      "english": "What can I offer you?",
+      "russian": "Что я могу тебе предложить?",
+      "farsi": "چه چیزی می‌توانم به تو پیشنهاد کنم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Angebot, -e",
+      "english": "offer",
+      "russian": "предложение",
+      "farsi": "پیشنهاد"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Heute sind Sportschuhe im Angebot.",
+      "english": "Today, sports shoes are on offer.",
+      "russian": "Сегодня спортивная обувь в продаже по акции.",
+      "farsi": "امروز کفش‌های ورزشی در حراج هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "ander-",
+      "english": "other",
+      "russian": "другой",
+      "farsi": "دیگر"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Willst du diese Jacke? – Nein, ich möchte die andere.",
+      "english": "Do you want this jacket? – No, I want the other one.",
+      "russian": "Ты хочешь эту куртку? – Нет, я хочу другую.",
+      "farsi": "این ژاکت را می‌خواهی؟ – نه، آن یکی را می‌خواهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "anfangen",
+      "english": "to begin, to start",
+      "russian": "начинать",
+      "farsi": "شروع کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hier fängt die Bahnhofstraße an.",
+      "english": "The Bahnhofstraße starts here.",
+      "russian": "Здесь начинается Bahnhofstraße.",
+      "farsi": "خیابان Bahnhofstraße از اینجا شروع می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Unterricht fängt gleich an.",
+      "english": "The class is about to start.",
+      "russian": "Занятие вот-вот начнется.",
+      "farsi": "کلاس به زودی شروع می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Anfang",
+      "english": "the beginning",
+      "russian": "начало",
+      "farsi": "آغاز، شروع"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie wohnt am Anfang der Straße.",
+      "english": "She lives at the beginning of the street.",
+      "russian": "Она живет в начале улицы.",
+      "farsi": "او در ابتدای خیابان زندگی می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir machen Anfang Juli Urlaub.",
+      "english": "We’re going on vacation at the beginning of July.",
+      "russian": "Мы уезжаем в отпуск в начале июля.",
+      "farsi": "ما اوایل جولای به تعطیلات می‌رویم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "anklicken",
+      "english": "to click on",
+      "russian": "кликнуть",
+      "farsi": "کلیک کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Da musst du dieses Wort anklicken.",
+      "english": "You need to click on this word there.",
+      "russian": "Тебе нужно кликнуть на это слово там.",
+      "farsi": "باید روی این کلمه کلیک کنی."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "ankommen",
+      "english": "to arrive",
+      "russian": "прибывать",
+      "farsi": "رسیدن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wann kommt dieser Zug in Hamburg an?",
+      "english": "When does this train arrive in Hamburg?",
+      "russian": "Когда этот поезд прибудет в Гамбург?",
+      "farsi": "این قطار چه زمانی به هامبورگ می‌رسد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Ankunft",
+      "english": "the arrival",
+      "russian": "прибытие",
+      "farsi": "ورود"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Auf diesem Plan steht nur die Ankunft(-szeit) der Züge.",
+      "english": "This schedule only shows the arrival time of trains.",
+      "russian": "На этом плане указано только время прибытия поездов.",
+      "farsi": "در این برنامه فقط زمان ورود قطارها مشخص شده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "ankreuzen",
+      "english": "to check, to mark with a cross",
+      "russian": "отмечать крестиком",
+      "farsi": "علامت زدن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Auf dem Formular müssen Sie an mehreren Stellen etwas ankreuzen.",
+      "english": "On the form, you must check several boxes.",
+      "russian": "В форме вам нужно отметить несколько пунктов крестиком.",
+      "farsi": "در فرم باید چند قسمت را علامت بزنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "anmachen",
+      "english": "to turn on",
+      "russian": "включать",
+      "farsi": "روشن کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mach bitte das Licht an!",
+      "english": "Please turn on the light!",
+      "russian": "Пожалуйста, включи свет!",
+      "farsi": "لطفاً چراغ را روشن کن!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "(sich) anmelden",
+      "english": "to register, to sign up",
+      "russian": "регистрироваться",
+      "farsi": "ثبت‌نام کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wo kann ich mich anmelden?",
+      "english": "Where can I register?",
+      "russian": "Где я могу зарегистрироваться?",
+      "farsi": "کجا می‌توانم ثبت‌نام کنم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Anmeldung",
+      "english": "the registration",
+      "russian": "регистрация",
+      "farsi": "ثبت‌نام"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Eine Anmeldung für diesen Kurs ist nicht mehr möglich.",
+      "english": "Registration for this course is no longer possible.",
+      "russian": "Регистрация на этот курс больше невозможна.",
+      "farsi": "ثبت‌نام برای این دوره دیگر امکان‌پذیر نیست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Anrede",
+      "english": "the salutation",
+      "russian": "обращение",
+      "farsi": "عنوان خطاب"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Schreiben Sie auch eine Anrede und einen Gruß.",
+      "english": "Also write a salutation and a greeting.",
+      "russian": "Напишите также обращение и приветствие.",
+      "farsi": "یک عنوان خطاب و سلام نیز بنویسید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "anrufen",
+      "english": "to call (on the phone)",
+      "russian": "звонить по телефону",
+      "farsi": "تماس گرفتن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kann man Sie anrufen?",
+      "english": "Can one call you?",
+      "russian": "Можно вам позвонить?",
+      "farsi": "آیا می‌توان با شما تماس گرفت؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Peter ruft kurz seine Freundin an.",
+      "english": "Peter quickly calls his girlfriend.",
+      "russian": "Петер быстро звонит своей девушке.",
+      "farsi": "پیتر سریع به دوست‌دخترش زنگ می‌زند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Anruf, -e",
+      "english": "the call, calls",
+      "russian": "звонок, звонки",
+      "farsi": "تماس، تماس‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie bekommt viele Anrufe auf ihrem Handy.",
+      "english": "She receives many calls on her mobile phone.",
+      "russian": "Она получает много звонков на свой мобильный телефон.",
+      "farsi": "او تماس‌های زیادی روی تلفن همراهش دریافت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Anrufbeantworter",
+      "english": "the answering machine",
+      "russian": "автоответчик",
+      "farsi": "پیغام‌گیر تلفن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir sind im Moment nicht da. Sprechen Sie bitte auf den Anrufbeantworter.",
+      "english": "We are not here at the moment. Please leave a message on the answering machine.",
+      "russian": "Мы сейчас не дома. Пожалуйста, оставьте сообщение на автоответчике.",
+      "farsi": "در حال حاضر اینجا نیستیم. لطفاً روی پیغام‌گیر پیام بگذارید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Ansage, -n",
+      "english": "the announcement",
+      "russian": "объявление",
+      "farsi": "اعلامیه"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hören Sie die Ansagen.",
+      "english": "Listen to the announcements.",
+      "russian": "Послушайте объявления.",
+      "farsi": "به اعلامیه‌ها گوش کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Anschluss",
+      "english": "the connection",
+      "russian": "соединение, пересадка",
+      "farsi": "اتصال، ارتباط"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In Mannheim haben Sie Anschluss nach Saarbrücken.",
+      "english": "In Mannheim, you have a connection to Saarbrücken.",
+      "russian": "В Мангейме у вас пересадка на Саарбрюккен.",
+      "farsi": "در مانهایم، اتصال به زاربروکن دارید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ist das die Anmeldung für einen Telefonanschluss?",
+      "english": "Is this the registration for a phone connection?",
+      "russian": "Это регистрация телефонного соединения?",
+      "farsi": "آیا این ثبت‌نام برای اتصال تلفن است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "an sein",
+      "english": "to be on",
+      "russian": "быть включённым",
+      "farsi": "روشن بودن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Heute Nacht war das Licht an.",
+      "english": "The light was on last night.",
+      "russian": "Прошлой ночью свет был включён.",
+      "farsi": "دیشب چراغ روشن بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "antworten",
+      "english": "to answer, to reply",
+      "russian": "отвечать",
+      "farsi": "پاسخ دادن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er antwortet nicht.",
+      "english": "He doesn't answer.",
+      "russian": "Он не отвечает.",
+      "farsi": "او پاسخ نمی‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Antwort, -en",
+      "english": "the answer, answers",
+      "russian": "ответ, ответы",
+      "farsi": "پاسخ، پاسخ‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er gibt leider keine Antwort.",
+      "english": "Unfortunately, he doesn't give an answer.",
+      "russian": "К сожалению, он не даёт ответа.",
+      "farsi": "متأسفانه او پاسخی نمی‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Anzeige, -n",
+      "english": "the advertisement",
+      "russian": "объявление",
+      "farsi": "آگهی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe Ihre Anzeige in der Zeitung gelesen.",
+      "english": "I read your advertisement in the newspaper.",
+      "russian": "Я прочитал ваше объявление в газете.",
+      "farsi": "آگهی شما را در روزنامه خواندم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "(sich) anziehen",
+      "english": "to get dressed",
+      "russian": "одеваться",
+      "farsi": "لباس پوشیدن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich muss mich noch anziehen.",
+      "english": "I still need to get dressed.",
+      "russian": "Мне ещё нужно одеться.",
+      "farsi": "من هنوز باید لباس بپوشم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Apartment, -s",
+      "english": "the apartment",
+      "russian": "квартира",
+      "farsi": "آپارتمان"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben ein Apartment gemietet.",
+      "english": "We rented an apartment.",
+      "russian": "Мы сняли квартиру.",
+      "farsi": "ما یک آپارتمان اجاره کردیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Apfel, -Ä",
+      "english": "the apple",
+      "russian": "яблоко",
+      "farsi": "سیب"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ein Pfund Äpfel bitte.",
+      "english": "A pound of apples, please.",
+      "russian": "Фунт яблок, пожалуйста.",
+      "farsi": "یک پوند سیب لطفاً."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Appetit",
+      "english": "the appetite",
+      "russian": "аппетит",
+      "farsi": "اشتها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Guten Appetit!",
+      "english": "Enjoy your meal!",
+      "russian": "Приятного аппетита!",
+      "farsi": "نوش جان!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "arbeiten",
+      "english": "to work",
+      "russian": "работать",
+      "farsi": "کار کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wo arbeiten Sie?",
+      "english": "Where do you work?",
+      "russian": "Где вы работаете?",
+      "farsi": "کجا کار می‌کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Arbeit, -en",
+      "english": "the work, job",
+      "russian": "работа",
+      "farsi": "کار"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein Bruder sucht Arbeit.",
+      "english": "My brother is looking for work.",
+      "russian": "Мой брат ищет работу.",
+      "farsi": "برادرم به دنبال کار می‌گردد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "arbeitslos",
+      "english": "unemployed",
+      "russian": "безработный",
+      "farsi": "بیکار"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es gibt bei uns viele Leute, die schon lange arbeitslos sind.",
+      "english": "There are many people here who have been unemployed for a long time.",
+      "russian": "У нас много людей, которые долгое время без работы.",
+      "farsi": "اینجا افراد زیادی هستند که مدت‌هاست بیکارند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Arbeitsplatz, -ä, e",
+      "english": "the workplace",
+      "russian": "рабочее место",
+      "farsi": "محل کار"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "An meinem Arbeitsplatz fehlt ein Drucker.",
+      "english": "There is no printer at my workplace.",
+      "russian": "На моем рабочем месте нет принтера.",
+      "farsi": "در محل کار من چاپگری وجود ندارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Arm, -e",
+      "english": "the arm",
+      "russian": "рука (от плеча до кисти)",
+      "farsi": "بازو"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein Arm tut weh.",
+      "english": "My arm hurts.",
+      "russian": "Моя рука болит.",
+      "farsi": "بازوی من درد می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Arzt, -Ä, e",
+      "english": "the doctor (male)",
+      "russian": "врач (мужчина)",
+      "farsi": "پزشک (مرد)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Morgen habe ich einen Termin bei meiner Ärztin.",
+      "english": "I have an appointment with my doctor tomorrow.",
+      "russian": "Завтра у меня встреча с моей врачом.",
+      "farsi": "فردا با پزشکم قرار ملاقات دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "auch",
+      "english": "also, too",
+      "russian": "тоже, также",
+      "farsi": "همچنین"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin auch Spanier.",
+      "english": "I am also Spanish.",
+      "russian": "Я тоже испанец.",
+      "farsi": "من هم اسپانیایی هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "auf",
+      "english": "on, at",
+      "russian": "на",
+      "farsi": "روی، در"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Kinder spielen auf der Straße.",
+      "english": "The children are playing on the street.",
+      "russian": "Дети играют на улице.",
+      "farsi": "بچه‌ها در خیابان بازی می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Auf Wiedersehen.",
+      "english": "Goodbye.",
+      "russian": "До свидания.",
+      "farsi": "خداحافظ."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie heißt das auf Deutsch?",
+      "english": "What is this called in German?",
+      "russian": "Как это называется по-немецки?",
+      "farsi": "این به آلمانی چه نام دارد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Aufgabe, -n",
+      "english": "the task, assignment",
+      "russian": "задание, задача",
+      "farsi": "وظیفه، تکلیف"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das ist eine schwere Aufgabe.",
+      "english": "This is a difficult task.",
+      "russian": "Это трудное задание.",
+      "farsi": "این یک وظیفه سخت است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "aufhören",
+      "english": "to stop, to end",
+      "russian": "прекращать, заканчивать",
+      "farsi": "متوقف کردن، پایان دادن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Kurs hört in einer Woche auf.",
+      "english": "The course ends in one week.",
+      "russian": "Курс заканчивается через неделю.",
+      "farsi": "دوره در یک هفته به پایان می‌رسد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hier hört die Bahnhofstraße auf.",
+      "english": "The Bahnhofstraße ends here.",
+      "russian": "Здесь заканчивается Bahnhofstraße.",
+      "farsi": "خیابان Bahnhofstraße اینجا به پایان می‌رسد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "auf sein",
+      "english": "to be open",
+      "russian": "быть открытым",
+      "farsi": "باز بودن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Du brauchst den Schlüssel nicht. Die Wohnung ist auf.",
+      "english": "You don’t need the key. The apartment is open.",
+      "russian": "Тебе не нужен ключ. Квартира открыта.",
+      "farsi": "کلید لازم نیست. آپارتمان باز است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "aufstehen",
+      "english": "to get up",
+      "russian": "вставать",
+      "farsi": "بلند شدن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich muss immer um vier Uhr aufstehen.",
+      "english": "I always have to get up at four o'clock.",
+      "russian": "Мне всегда приходится вставать в четыре утра.",
+      "farsi": "من همیشه باید ساعت چهار صبح بیدار شوم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Soll ich aufstehen?",
+      "english": "Should I get up?",
+      "russian": "Мне встать?",
+      "farsi": "باید بلند شوم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Aufzug, -ü, e",
+      "english": "the elevator",
+      "russian": "лифт",
+      "farsi": "آسانسور"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In diesem Haus gibt es keinen Aufzug.",
+      "english": "There is no elevator in this building.",
+      "russian": "В этом доме нет лифта.",
+      "farsi": "در این ساختمان آسانسور وجود ندارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Auge, -n",
+      "english": "the eye",
+      "russian": "глаз",
+      "farsi": "چشم"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat blaue Augen.",
+      "english": "He has blue eyes.",
+      "russian": "У него голубые глаза.",
+      "farsi": "او چشم‌های آبی دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "aus",
+      "english": "from, out of",
+      "russian": "из, от",
+      "farsi": "از"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er kommt aus Brasilien.",
+      "english": "He is from Brazil.",
+      "russian": "Он из Бразилии.",
+      "farsi": "او اهل برزیل است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Ausflug",
+      "english": "the trip, excursion",
+      "russian": "поездка, экскурсия",
+      "farsi": "گردش، سفر"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Morgen machen wir einen Ausflug nach Heidelberg.",
+      "english": "Tomorrow we are taking a trip to Heidelberg.",
+      "russian": "Завтра мы поедем в Хайдельберг.",
+      "farsi": "فردا به هایدلبرگ سفر می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "ausfüllen",
+      "english": "to fill out",
+      "russian": "заполнять",
+      "farsi": "پر کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Füllen Sie bitte dieses Formular aus.",
+      "english": "Please fill out this form.",
+      "russian": "Пожалуйста, заполните эту форму.",
+      "farsi": "لطفا این فرم را پر کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Ausgang",
+      "english": "the exit",
+      "russian": "выход",
+      "farsi": "خروج"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wo ist der Ausgang?",
+      "english": "Where is the exit?",
+      "russian": "Где выход?",
+      "farsi": "خروج کجاست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Auskunft, -ü, e",
+      "english": "the information",
+      "russian": "информация",
+      "farsi": "اطلاعات"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können Sie mir eine Auskunft geben?",
+      "english": "Can you give me some information?",
+      "russian": "Можете ли вы дать мне информацию?",
+      "farsi": "آیا می‌توانید اطلاعاتی به من بدهید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Ausland",
+      "english": "the abroad",
+      "russian": "за границей",
+      "farsi": "خارج از کشور"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Fahren Sie ins Ausland?",
+      "english": "Are you going abroad?",
+      "russian": "Вы едете за границу?",
+      "farsi": "آیا شما به خارج از کشور می‌روید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Ausländer, -",
+      "english": "the foreigner",
+      "russian": "иностранец",
+      "farsi": "بیگانه"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sind Sie Ausländerin?",
+      "english": "Are you a foreigner?",
+      "russian": "Вы иностранка?",
+      "farsi": "آیا شما بیگانه هستید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "ausländisch",
+      "english": "foreign",
+      "russian": "иностранный",
+      "farsi": "بیگانه"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Leider habe ich nur ausländisches Geld.",
+      "english": "Unfortunately, I only have foreign money.",
+      "russian": "К сожалению, у меня только иностранные деньги.",
+      "farsi": "متاسفانه من فقط پول بیگانه دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "ausmachen",
+      "english": "to turn off",
+      "russian": "выключать",
+      "farsi": "خاموش کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mach bitte das Licht aus!",
+      "english": "Please turn off the light!",
+      "russian": "Пожалуйста, выключите свет!",
+      "farsi": "لطفا چراغ را خاموش کن!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Aussage, -n",
+      "english": "the statement",
+      "russian": "заявление",
+      "farsi": "بیانیه"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ist die Aussage richtig oder falsch?",
+      "english": "Is the statement correct or incorrect?",
+      "russian": "Это утверждение правильно или неправильно?",
+      "farsi": "آیا این بیانیه درست است یا غلط؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "aussehen",
+      "english": "to look, to appear",
+      "russian": "выглядеть",
+      "farsi": "به نظر رسیدن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das sieht schön aus.",
+      "english": "It looks nice.",
+      "russian": "Это выглядит красиво.",
+      "farsi": "این خوب به نظر می‌رسد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "aus sein",
+      "english": "to be off, to be over",
+      "russian": "быть выключенным, закончиться",
+      "farsi": "خاموش بودن، تمام شدن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Licht ist aus.",
+      "english": "The light is off.",
+      "russian": "Свет выключен.",
+      "farsi": "چراغ خاموش است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Schule ist aus.",
+      "english": "School is over.",
+      "russian": "Школа закончилась.",
+      "farsi": "مدرسه تمام شده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "aussteigen",
+      "english": "to get off",
+      "russian": "высаживаться",
+      "farsi": "پیاده شدن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wo muss ich aussteigen?",
+      "english": "Where do I need to get off?",
+      "russian": "Где мне нужно выйти?",
+      "farsi": "کجا باید پیاده شوم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Ausweis",
+      "english": "the ID card",
+      "russian": "удостоверение личности",
+      "farsi": "کارت شناسایی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hier ist mein Ausweis.",
+      "english": "Here is my ID card.",
+      "russian": "Вот мое удостоверение личности.",
+      "farsi": "اینجا کارت شناسایی من است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "(sich) ausziehen",
+      "english": "to undress",
+      "russian": "раздеваться",
+      "farsi": "لباس درآوردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Zieh die Schuhe aus, bitte!",
+      "english": "Please take off your shoes!",
+      "russian": "Пожалуйста, снимите обувь!",
+      "farsi": "لطفا کفش‌های خود را در بیاورید!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Auto, -s",
+      "english": "the car",
+      "russian": "автомобиль",
+      "farsi": "ماشین"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er kommt mit dem Auto.",
+      "english": "He is coming by car.",
+      "russian": "Он едет на машине.",
+      "farsi": "او با ماشین می‌آید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Autobahn, -en",
+      "english": "the highway",
+      "russian": "автострада",
+      "farsi": "اتوبان"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wo geht‘s hier bitte zur Autobahn?",
+      "english": "Where is the highway here, please?",
+      "russian": "Где здесь автострада, пожалуйста?",
+      "farsi": "لطفا بزرگراه اینجا کجاست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Automat",
+      "english": "the vending machine",
+      "russian": "автомат",
+      "farsi": "دستگاه خودکار"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Fahrkarten gibt es nur am Automaten.",
+      "english": "The tickets are only available at the vending machine.",
+      "russian": "Билеты есть только в автомате.",
+      "farsi": "بلیط‌ها فقط در دستگاه خودکار موجود هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "automatisch",
+      "english": "automatic",
+      "russian": "автоматический",
+      "farsi": "خودکار"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Du musst nichts machen. Das geht automatisch.",
+      "english": "You don't have to do anything. It works automatically.",
+      "russian": "Тебе не нужно ничего делать. Это работает автоматически.",
+      "farsi": "تو نیازی به کاری ندارید. این به طور خودکار انجام می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Baby",
+      "english": "the baby",
+      "russian": "младенец",
+      "farsi": "بچه"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein Kind ist noch ein Baby.",
+      "english": "My child is still a baby.",
+      "russian": "Мой ребенок еще младенец.",
+      "farsi": "فرزند من هنوز یک نوزاد است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Bäckerei",
+      "english": "the bakery",
+      "russian": "пекарня",
+      "farsi": "نانوايی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich geh mal schnell zur Bäckerei.",
+      "english": "I'll quickly go to the bakery.",
+      "russian": "Я быстро схожу в пекарню.",
+      "farsi": "من سریع به نانوایی می‌روم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Bad",
+      "english": "the bathroom",
+      "russian": "ванная",
+      "farsi": "حمام"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben kein großes Bad.",
+      "english": "We don't have a big bathroom.",
+      "russian": "У нас нет большой ванной.",
+      "farsi": "ما حمام بزرگی نداریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "baden",
+      "english": "to bathe",
+      "russian": "купаться",
+      "farsi": "حمام کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bade nicht so gern, ich dusche lieber.",
+      "english": "I don't like to bathe much, I prefer to shower.",
+      "russian": "Я не люблю купаться, я предпочитаю принимать душ.",
+      "farsi": "من زیاد حمام نکردن را دوست ندارم، ترجیح می‌دهم دوش بگیرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Bahn",
+      "english": "the train",
+      "russian": "поезд",
+      "farsi": "قطار"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir fahren lieber mit der Bahn.",
+      "english": "We prefer to travel by train.",
+      "russian": "Мы предпочитаем ездить на поезде.",
+      "farsi": "ما ترجیح می‌دهیم با قطار سفر کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich nehme die nächste Bahn.",
+      "english": "I'll take the next train.",
+      "russian": "Я поеду на следующем поезде.",
+      "farsi": "من قطار بعدی را می‌گیرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Bahnhof",
+      "english": "the train station",
+      "russian": "вокзал",
+      "farsi": "ایستگاه قطار"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Komme ich hier zum Bahnhof?",
+      "english": "Can I get to the train station from here?",
+      "russian": "Можно ли добраться до вокзала отсюда?",
+      "farsi": "آیا می‌توانم از اینجا به ایستگاه قطار بروم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Bahnsteig",
+      "english": "the platform",
+      "russian": "платформа",
+      "farsi": "پلتفرم"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Auf welchem Bahnsteig fährt der Zug?",
+      "english": "On which platform does the train leave?",
+      "russian": "На какой платформе отправляется поезд?",
+      "farsi": "قطار از کدام پلتفرم حرکت می‌کند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "bald",
+      "english": "soon",
+      "russian": "скоро",
+      "farsi": "به زودی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich komme bald.",
+      "english": "I will come soon.",
+      "russian": "Я скоро приду.",
+      "farsi": "من به زودی می‌آیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Balkon",
+      "english": "the balcony",
+      "russian": "балкон",
+      "farsi": "بالکن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Wohnung hat auch einen kleinen Balkon.",
+      "english": "The apartment also has a small balcony.",
+      "russian": "В квартире также есть маленький балкон.",
+      "farsi": "این آپارتمان همچنین یک بالکن کوچک دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Banane, -n",
+      "english": "the banana",
+      "russian": "банан",
+      "farsi": "موز"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Drei Bananen, bitte!",
+      "english": "Three bananas, please!",
+      "russian": "Три банана, пожалуйста!",
+      "farsi": "سه عدد موز لطفاً!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Bank",
+      "english": "the bank",
+      "russian": "банк",
+      "farsi": "بانک"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Bank schließt schon um vier Uhr.",
+      "english": "The bank closes at four o'clock.",
+      "russian": "Банк закрывается уже в четыре часа.",
+      "farsi": "بانک ساعت چهار بسته می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er sitzt im Park auf einer Bank und liest.",
+      "english": "He is sitting on a bench in the park and reading.",
+      "russian": "Он сидит на скамейке в парке и читает.",
+      "farsi": "او روی یک نیمکت در پارک نشسته و مطالعه می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "bar",
+      "english": "in cash",
+      "russian": "наличными",
+      "farsi": "نقدی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Muss ich bar zahlen oder geht’s auch mit Karte?",
+      "english": "Do I have to pay in cash or can I pay with a card?",
+      "russian": "Мне нужно заплатить наличными или можно расплатиться картой?",
+      "farsi": "آیا باید نقدی پرداخت کنم یا با کارت هم می‌شود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Bauch",
+      "english": "the stomach",
+      "russian": "живот",
+      "farsi": "شکم"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Seit gestern tut mir der Bauch weh.",
+      "english": "My stomach has been hurting since yesterday.",
+      "russian": "С тех пор как вчера у меня болит живот.",
+      "farsi": "از دیروز شکمم درد می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Baum, -ä, e",
+      "english": "the tree",
+      "russian": "дерево",
+      "farsi": "درخت"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vorsicht, fahr nicht an den Baum!",
+      "english": "Careful, don't drive into the tree!",
+      "russian": "Осторожно, не врежься в дерево!",
+      "farsi": "مراقب باش، به درخت نزن!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Beamte, -n",
+      "english": "the official",
+      "russian": "чиновник",
+      "farsi": "کارمند دولتی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Fragen Sie die Beamtin an Schalter acht!",
+      "english": "Ask the official at counter eight!",
+      "russian": "Спросите чиновницу на стойке номер восемь!",
+      "farsi": "از کارمند خانم در باجه هشت بپرسید!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "bedeuten",
+      "english": "to mean",
+      "russian": "означать",
+      "farsi": "معنی دادن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was bedeutet das Wort?",
+      "english": "What does the word mean?",
+      "russian": "Что означает это слово?",
+      "farsi": "این کلمه چه معنی می‌دهد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "beginnen",
+      "english": "to begin",
+      "russian": "начинать",
+      "farsi": "شروع کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Spiel beginnt um 15.30 Uhr.",
+      "english": "The game starts at 3:30 PM.",
+      "russian": "Игра начинается в 15:30.",
+      "farsi": "بازی ساعت ۳:۳۰ بعدازظهر شروع می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "bei",
+      "english": "near, at, with",
+      "russian": "у, возле, при",
+      "farsi": "در کنار، در"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Offenbach liegt bei Frankfurt.",
+      "english": "Offenbach is near Frankfurt.",
+      "russian": "Оффенбах находится рядом с Франкфуртом.",
+      "farsi": "آفنباخ در نزدیکی فرانکفورت است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich wohne bei meinen Eltern.",
+      "english": "I live with my parents.",
+      "russian": "Я живу с родителями.",
+      "farsi": "من با والدینم زندگی می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bei uns regnet es heute.",
+      "english": "It's raining here today.",
+      "russian": "Сегодня у нас дождь.",
+      "farsi": "امروز اینجا باران می‌بارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er arbeitet bei der Polizei.",
+      "english": "He works with the police.",
+      "russian": "Он работает в полиции.",
+      "farsi": "او در پلیس کار می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "beide",
+      "english": "both",
+      "russian": "оба",
+      "farsi": "هردو"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Beide Eltern arbeiten.",
+      "english": "Both parents work.",
+      "russian": "Оба родителя работают.",
+      "farsi": "هر دو والدین کار می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Bein, -e",
+      "english": "the leg",
+      "russian": "нога",
+      "farsi": "پا"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein rechtes Bein tut weh.",
+      "english": "My right leg hurts.",
+      "russian": "Моя правая нога болит.",
+      "farsi": "پای راستم درد می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Beispiel, -e",
+      "english": "the example",
+      "russian": "пример",
+      "farsi": "مثال"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kannst du mir ein Beispiel sagen?",
+      "english": "Can you give me an example?",
+      "russian": "Можешь привести мне пример?",
+      "farsi": "می‌توانی یک مثال به من بگویی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "zum Beispiel/z. B.",
+      "english": "for example",
+      "russian": "например",
+      "farsi": "برای مثال"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Viele meiner Verwandten, z. B. meine beiden Brüder, arbeiten auch hier.",
+      "english": "Many of my relatives, for example, my two brothers, also work here.",
+      "russian": "Многие из моих родственников, например, мои два брата, тоже работают здесь.",
+      "farsi": "بسیاری از بستگانم، برای مثال، دو برادرم، نیز اینجا کار می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "bekannt",
+      "english": "known, famous",
+      "russian": "известный",
+      "farsi": "مشهور"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Picasso ist sehr bekannt.",
+      "english": "Picasso is very famous.",
+      "russian": "Пикассо очень известен.",
+      "farsi": "پیکاسو بسیار مشهور است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der/die Bekannte, -n",
+      "english": "the acquaintance",
+      "russian": "знакомый/знакомая",
+      "farsi": "آشنا"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ein Bekannter von mir heißt Klaus.",
+      "english": "An acquaintance of mine is called Klaus.",
+      "russian": "Один мой знакомый зовут Клаус.",
+      "farsi": "یکی از آشنایان من کلاوس نام دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "bekommen",
+      "english": "to get, receive",
+      "russian": "получать",
+      "farsi": "دریافت کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Haben Sie meinen Brief bekommen?",
+      "english": "Did you receive my letter?",
+      "russian": "Вы получили мое письмо?",
+      "farsi": "آیا نامه من را دریافت کرده‌اید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was bekommen Sie?",
+      "english": "What do you receive?",
+      "russian": "Что вы получаете?",
+      "farsi": "چه چیزی دریافت می‌کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dieses Medikament bekommen Sie in der Apotheke.",
+      "english": "You can get this medication at the pharmacy.",
+      "russian": "Это лекарство вы получите в аптеке.",
+      "farsi": "این دارو را می‌توانید از داروخانه بگیرید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "benutzen",
+      "english": "to use",
+      "russian": "использовать",
+      "farsi": "استفاده کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Aufzüge bitte nicht benutzen!",
+      "english": "Please do not use the elevators!",
+      "russian": "Пожалуйста, не используйте лифты!",
+      "farsi": "لطفا از آسانسورها استفاده نکنید!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Beruf, -e",
+      "english": "the profession, occupation",
+      "russian": "профессия",
+      "farsi": "شغل"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was sind Sie von Beruf?",
+      "english": "What is your profession?",
+      "russian": "Какая у вас профессия?",
+      "farsi": "شغل شما چیست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was ist Ihr Beruf?",
+      "english": "What is your occupation?",
+      "russian": "Какая ваша профессия?",
+      "farsi": "شغل شما چیست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "besetzt",
+      "english": "occupied, engaged",
+      "russian": "занято",
+      "farsi": "مشغول"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Nummer ist immer besetzt.",
+      "english": "The line is always busy.",
+      "russian": "Номер всегда занят.",
+      "farsi": "شماره همیشه مشغول است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Platz ist besetzt.",
+      "english": "The seat is occupied.",
+      "russian": "Место занято.",
+      "farsi": "صندلی مشغول است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "besichtigen",
+      "english": "to visit, to view",
+      "russian": "осматривать",
+      "farsi": "بازدید کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich möchte gern den Dom besichtigen.",
+      "english": "I would like to visit the cathedral.",
+      "russian": "Я хотел бы осмотреть собор.",
+      "farsi": "من می‌خواهم از کلیسای جامع بازدید کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "besser",
+      "english": "better",
+      "russian": "лучше",
+      "farsi": "بهتر"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es geht mir schon besser.",
+      "english": "I am feeling better already.",
+      "russian": "Мне уже лучше.",
+      "farsi": "الان حالم بهتر است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "best-",
+      "english": "until",
+      "russian": "до",
+      "farsi": "تا"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Am besten treffen wir uns morgen.",
+      "english": "It’s best if we meet tomorrow.",
+      "russian": "Лучше всего встретиться завтра.",
+      "farsi": "بهترین کار این است که فردا همدیگر را ملاقات کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "bestellen",
+      "english": "to order",
+      "russian": "заказывать",
+      "farsi": "سفارش دادن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir möchten bestellen, bitte.",
+      "english": "We would like to order, please.",
+      "russian": "Мы хотим заказать, пожалуйста.",
+      "farsi": "ما می‌خواهیم سفارش بدهیم، لطفا."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dieses Buch haben wir nicht – sollen wir es für Sie bestellen?",
+      "english": "We don’t have this book – should we order it for you?",
+      "russian": "У нас нет этой книги – можем ли мы заказать ее для вас?",
+      "farsi": "ما این کتاب را نداریم – آیا باید آن را برای شما سفارش دهیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "besuchen",
+      "english": "to visit",
+      "russian": "посещать",
+      "farsi": "بازدید کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Darf ich dich besuchen?",
+      "english": "May I visit you?",
+      "russian": "Могу я тебя посетить?",
+      "farsi": "آیا می‌توانم شما را ملاقات کنم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Bett, -en",
+      "english": "the bed",
+      "russian": "кровать",
+      "farsi": "تخت خواب"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir brauchen noch ein Kinderbett.",
+      "english": "We still need a crib.",
+      "russian": "Нам все еще нужна детская кроватка.",
+      "farsi": "ما هنوز به یک تخت کودک نیاز داریم."
+    }
+  ]
+}
