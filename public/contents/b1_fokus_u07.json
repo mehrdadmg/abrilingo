@@ -1,0 +1,1225 @@
+{
+  "info": {
+    "name": "B1_Fokus_u07",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Frau Sohr, was ist wichtig am ersten Arbeitstag, worauf muss die Firma achten?",
+      "english": "Mrs. Sohr, what is important on the first day of work, what should the company pay attention to?",
+      "russian": "Госпожа Зор, что важно в первый рабочий день, на что компания должна обратить внимание?",
+      "farsi": "خانم زهر، در اولین روز کاری چه چیزی مهم است، شرکت باید به چه چیزی توجه کند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Für den ersten Arbeitstag gibt es keine allgemeinen Regeln und für neue Mitarbeiter ist er je nach Firma sehr unterschiedlich.",
+      "english": "For the first day of work, there are no general rules and for new employees it is very different depending on the company.",
+      "russian": "Для первого рабочего дня нет общих правил, и для новых сотрудников он очень отличается в зависимости от компании.",
+      "farsi": "برای اولین روز کاری هیچ قانون کلی وجود ندارد و برای کارمندان جدید بسته به شرکت بسیار متفاوت است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man muss auch den Unterschied zwischen kleinen Firmen mit wenigen Mitarbeitern und großen Firmen mit sehr vielen Mitarbeitern berücksichtigen.",
+      "english": "One must also take into account the difference between small companies with few employees and large companies with very many employees.",
+      "russian": "Нужно также учитывать разницу между маленькими компаниями с небольшим количеством сотрудников и крупными компаниями с очень большим количеством сотрудников.",
+      "farsi": "همچنین باید تفاوت بین شرکت‌های کوچک با تعداد کمی کارمند و شرکت‌های بزرگ با تعداد بسیار زیاد کارمند را در نظر گرفت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In kleinen Firmen ist der erste Arbeitstag von neuen Mitarbeitern oft weniger geregelt als in großen Firmen.",
+      "english": "In small companies, the first day of work for new employees is often less regulated than in large companies.",
+      "russian": "В маленьких компаниях первый рабочий день новых сотрудников часто менее регулируется, чем в крупных компаниях.",
+      "farsi": "در شرکت‌های کوچک، اولین روز کاری کارمندان جدید اغلب کمتر از شرکت‌های بزرگ تنظیم می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Trotzdem gibt es einige Dinge, die in allen Firmen gelten sollten.",
+      "english": "Nevertheless, there are some things that should apply in all companies.",
+      "russian": "Тем не менее, есть некоторые вещи, которые должны применяться во всех компаниях.",
+      "farsi": "با این وجود، مواردی وجود دارد که باید در همه شرکت‌ها اعمال شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können Sie uns das genauer erklären?",
+      "english": "Can you explain that to us in more detail?",
+      "russian": "Можете ли вы объяснить это нам более подробно?",
+      "farsi": "آیا می‌توانید آن را به طور دقیق‌تر برای ما توضیح دهید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Gerne. Wichtig ist zuerst, dass ein Mitarbeiter des Unternehmens oder der oder die Vorgesetzte den neuen Mitarbeiter empfängt und ihn begrüßt.",
+      "english": "Certainly. It is important first that an employee of the company or the supervisor receives the new employee and greets him.",
+      "russian": "Конечно. Важно сначала, чтобы сотрудник компании или руководитель принял нового сотрудника и поприветствовал его.",
+      "farsi": "حتما. ابتدا مهم است که یک کارمند شرکت یا سرپرست، کارمند جدید را دریافت کند و به او خوشامد بگوید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dann sollte der neue Mitarbeiter einen festen Ansprechpartner bekommen, an den er sich mit Fragen wenden kann.",
+      "english": "Then the new employee should get a permanent contact person to whom he can turn with questions.",
+      "russian": "Затем новый сотрудник должен получить постоянное контактное лицо, к которому он может обращаться с вопросами.",
+      "farsi": "سپس کارمند جدید باید یک شخص تماس دائمی داشته باشد که بتواند با سوالات خود به او مراجعه کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und das ist alles?",
+      "english": "And that's all?",
+      "russian": "И это все?",
+      "farsi": "و این همه است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nein, der neue Mitarbeiter sollte auch allgemeine Informationen über die Hausordnung oder die Dienstvorschriften bekommen.",
+      "english": "No, the new employee should also receive general information about the house rules or the service regulations.",
+      "russian": "Нет, новый сотрудник должен также получить общую информацию о правилах внутреннего распорядка или служебных инструкциях.",
+      "farsi": "نه، کارمند جدید باید اطلاعات کلی در مورد قوانین خانه یا مقررات خدمات نیز دریافت کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was ist noch wichtig?",
+      "english": "What else is important?",
+      "russian": "Что еще важно?",
+      "farsi": "دیگر چه چیزی مهم است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Alle Unterlagen, die die Firma von dem neuen Mitarbeiter braucht, werden eingesammelt und an die Personalabteilung weitergegeben.",
+      "english": "All the documents that the company needs from the new employee are collected and passed on to the human resources department.",
+      "russian": "Все документы, которые компания требует от нового сотрудника, собираются и передаются в отдел кадров.",
+      "farsi": "همه مدارکی که شرکت از کارمند جدید نیاز دارد، جمع‌آوری شده و به بخش پرسنل تحویل داده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Anschließend erhält der Mitarbeiter einen Schlüssel und einen Mitarbeiterausweis und seine Dienstkleidung.",
+      "english": "The employee then receives a key and an employee ID card and his work clothes.",
+      "russian": "Затем сотрудник получает ключ, удостоверение сотрудника и свою рабочую одежду.",
+      "farsi": "سپس کارمند یک کلید و یک کارت شناسایی کارمند و لباس کار خود را دریافت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Außerdem brauchen neue Mitarbeiter Orientierung.",
+      "english": "New employees also need orientation.",
+      "russian": "Кроме того, новые сотрудники нуждаются в ориентации.",
+      "farsi": "علاوه بر این، کارمندان جدید به راهنمایی نیاز دارند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Orientierung? Was meinen Sie damit?",
+      "english": "Orientation? What do you mean by that?",
+      "russian": "Ориентация? Что вы имеете в виду?",
+      "farsi": "راهنمایی؟ منظور شما چیست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Vorgesetzte oder Kollegen sollten eine Führung durch die Firma machen und neuen Mitarbeitern z. B. zeigen, wo die Kantine und die Teeküche sind.",
+      "english": "The supervisor or colleagues should give a tour of the company and show new employees, for example, where the canteen and the kitchenette are.",
+      "russian": "Руководитель или коллеги должны провести экскурсию по компании и показать новым сотрудникам, например, где находится столовая и чайная комната.",
+      "farsi": "سرپرست یا همکاران باید یک تور در شرکت داشته باشند و به کارمندان جدید، برای مثال، نشان دهند که غذاخوری و آشپزخانه کوچک کجا هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Außerdem ist es wichtig, dass neue Mitarbeiter die Regeln für die Arbeitszeit kennenlernen, also z.B. wann die Kernarbeitszeit zeit ist, wo alle Mitarbeiter an ihrem Arbeitsplatz sein müssen, und wann die Gleitzeit beginnt und aufhört.",
+      "english": "Furthermore, it is important that new employees get to know the rules for working hours, i.e. when core working time is, where all employees must be at their workplace, and when flextime begins and ends.",
+      "russian": "Кроме того, важно, чтобы новые сотрудники ознакомились с правилами рабочего времени, то есть, например, когда наступает основное рабочее время, где все сотрудники должны находиться на своих рабочих местах, и когда начинается и заканчивается гибкое рабочее время.",
+      "farsi": "علاوه بر این، مهم است که کارمندان جدید قوانین ساعات کاری را بشناسند، یعنی برای مثال، چه زمانی ساعت کاری اصلی است، کجا همه کارمندان باید در محل کار خود باشند، و چه زمانی ساعت کاری شناور شروع و تمام می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Außerdem sollten sie die Regeln für Pausen kennenlernen.",
+      "english": "They should also get to know the rules for breaks.",
+      "russian": "Кроме того, они должны ознакомиться с правилами перерывов.",
+      "farsi": "همچنین باید قوانین مربوط به استراحت‌ها را بشناسند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und der Arbeitsplatz?",
+      "english": "And the workplace?",
+      "russian": "А рабочее место?",
+      "farsi": "و محل کار؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Danach zeigt der Vorgesetzte in der Abteilung dem neuen Mitarbeiter seinen Arbeitsplatz erklärt ihm zum Beispiel in einer Fabrik die Geräte und Maschinen.",
+      "english": "After that, the supervisor in the department shows the new employee his workplace and explains to him, for example, the equipment and machines in a factory.",
+      "russian": "После этого руководитель отдела показывает новому сотруднику его рабочее место и объясняет ему, например, оборудование и машины на заводе.",
+      "farsi": "پس از آن، سرپرست در بخش، محل کار کارمند جدید را به او نشان می‌دهد و برای مثال، تجهیزات و ماشین‌آلات را در یک کارخانه برای او توضیح می‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Vorgesetzte stellt dann dem neuen Mitarbeiter auch die Arbeitskollegen vor.",
+      "english": "The supervisor then introduces the new employee to his colleagues.",
+      "russian": "Затем руководитель представляет нового сотрудника его коллегам.",
+      "farsi": "سپس سرپرست، کارمند جدید را به همکارانش معرفی می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und wann geht es dann richtig los mit der Arbeit?",
+      "english": "And when does it really start with the work?",
+      "russian": "И когда же тогда действительно начинается работа?",
+      "farsi": "و چه زمانی کار واقعا شروع می‌شود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In der Regel werden neue Mitarbeiter eingearbeitet, d. h. sie müssen Routine bekommen, damit sie ihre Aufgaben gut erledigen können.",
+      "english": "As a rule, new employees are trained, i.e. they need to get routine so that they can do their tasks well.",
+      "russian": "Как правило, новые сотрудники проходят обучение, то есть они должны получить опыт, чтобы они могли хорошо выполнять свои задачи.",
+      "farsi": "به طور معمول، کارمندان جدید آموزش می‌بینند، یعنی باید تجربه کسب کنند تا بتوانند وظایف خود را به خوبی انجام دهند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Schon am ersten Tag sollten sie eine leichte Aufgabe bekommen, die sie lösen müssen.",
+      "english": "On the first day, they should already get a light task that they have to solve.",
+      "russian": "Уже в первый день они должны получить легкое задание, которое они должны решить.",
+      "farsi": "در همان روز اول باید یک وظیفه سبک به آنها داده شود که باید آن را حل کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn sie Hilfe brauchen, können sie dann die Kollegen oder den Ansprechpartner fragen.",
+      "english": "If they need help, they can then ask their colleagues or the contact person.",
+      "russian": "Если им нужна помощь, они могут обратиться к своим коллегам или к контактному лицу.",
+      "farsi": "اگر به کمک نیاز دارند، می‌توانند از همکاران یا شخص تماس خود بپرسند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sehr geehrte Frau Marin, als Leiter des Personalbüros möchte ich Sie im Namen der Geschäftsleitung und des Betriebsrates ganz herzlich in unserer Firma begrüßen.",
+      "english": "Dear Mrs. Marin, as head of the personnel office, I would like to welcome you very warmly to our company on behalf of the management and the works council.",
+      "russian": "Уважаемая госпожа Марин, как руководитель отдела кадров, я хотел бы от имени руководства и производственного совета сердечно поприветствовать вас в нашей компании.",
+      "farsi": "خانم مارین عزیز، به عنوان رئیس دفتر پرسنل، می‌خواهم از طرف مدیریت و شورای کارخانه، به گرمی ورود شما را به شرکت خود تبریک بگویم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ihr Einsatzort ist die Marketingabteilung.",
+      "english": "Your place of work is the marketing department.",
+      "russian": "Ваше место работы - отдел маркетинга.",
+      "farsi": "محل کار شما بخش بازاریابی است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ihr direkter Vorgesetzter ist der Abteilungsleiter Herr Hanselhaus, den Sie bereits beim Vorstellungsgespräch am 12. Juli und bei Ihrem Besuch unseres Unternehmens am 12. August kennengelernt haben.",
+      "english": "Your direct supervisor is the department head, Mr. Hanselhaus, whom you already met at the job interview on July 12th and during your visit to our company on August 12th.",
+      "russian": "Ваш непосредственный руководитель - начальник отдела господин Ханзельхаус, с которым вы уже познакомились на собеседовании 12 июля и во время вашего посещения нашей компании 12 августа.",
+      "farsi": "سرپرست مستقیم شما رئیس بخش، آقای هانزلهاوس است که قبلاً در مصاحبه شغلی در 12 جولای و در بازدید شما از شرکت ما در 12 آگوست با او آشنا شده‌اید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bitte melden Sie sich am 01.09.24 um 8.00 Uhr am Empfang in Gebäude A.",
+      "english": "Please report to reception in building A on 01.09.24 at 8:00 a.m.",
+      "russian": "Пожалуйста, зарегистрируйтесь на стойке регистрации в здании A 01.09.24 в 8:00 утра.",
+      "farsi": "لطفاً در تاریخ 01.09.24 ساعت 8:00 صبح به پذیرش در ساختمان A مراجعه کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Herr Hanselhaus wird Sie dort abholen.",
+      "english": "Mr. Hanselhaus will pick you up there.",
+      "russian": "Господин Ханзельхаус заберет вас там.",
+      "farsi": "آقای هانزلهاوس شما را از آنجا خواهد گرفت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nach einem Rundgang durch die Firma mit Herrn Hanselhaus lernen Sie dann alle Kolleginnen und Kollegen der Marketingabteilung kennen.",
+      "english": "After a tour of the company with Mr. Hanselhaus, you will then get to know all the colleagues in the marketing department.",
+      "russian": "После экскурсии по компании с господином Ханзельхаусом вы познакомитесь со всеми коллегами в отделе маркетинга.",
+      "farsi": "پس از یک تور در شرکت با آقای هانزلهاوس، شما سپس با همه همکاران در بخش بازاریابی آشنا خواهید شد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bitte geben Sie im Laufe des Tages auch Ihre Unterlagen (Steueridentifikationsnummer, Sozialversicher­ungsausweis, Mitgliedsbescheinigung Ihrer Krankenkasse) im Personalbüro ab.",
+      "english": "During the day, please also submit your documents (tax identification number, social security card, membership certificate from your health insurance) to the personnel office.",
+      "russian": "В течение дня, пожалуйста, также предоставьте свои документы (налоговый идентификационный номер, карту социального страхования, свидетельство о членстве в вашей медицинской страховой компании) в отдел кадров.",
+      "farsi": "لطفاً در طول روز مدارک خود (شماره شناسایی مالیاتی، کارت بیمه اجتماعی، گواهی عضویت از بیمه درمانی خود) را نیز به دفتر پرسنل تحویل دهید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bei uns erhalten Sie dann auch Ihren Mitarbeiterausweis und unsere Willkommensmappe mit allen wichtigen Informationen über das Unternehmen Matzon.",
+      "english": "You will then also receive your employee ID card and our welcome folder with all the important information about the company Matzon.",
+      "russian": "Затем вы также получите свое удостоверение сотрудника и нашу папку приветствия со всей важной информацией о компании Matzon.",
+      "farsi": "سپس کارت شناسایی کارمند خود و پوشه خوشامدگویی ما را با تمام اطلاعات مهم در مورد شرکت ماتزون نیز دریافت خواهید کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Frau Neumann. Können Sie mir kurz helfen?",
+      "english": "Mrs. Neumann. Can you help me briefly?",
+      "russian": "Госпожа Нойманн. Вы можете мне помочь?",
+      "farsi": "خانم نویمان. می‌توانید کمی به من کمک کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, gerne, was gibt es?",
+      "english": "Yes, gladly, what is it?",
+      "russian": "Да, конечно, что случилось?",
+      "farsi": "بله، خوشحال می‌شوم، چی شده؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dieser Kopierer ist neu für mich, können Sie mir erklären, wie er funktioniert?",
+      "english": "This copier is new to me, can you explain how it works?",
+      "russian": "Этот копир для меня новый, вы можете объяснить, как он работает?",
+      "farsi": "این دستگاه کپی برای من جدید است، می‌توانید توضیح دهید که چگونه کار می‌کند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Natürlich. Ich zeige Ihnen gerne, wie er bedient wird. Sehen Sie, hier ist der Startknopf, wenn er gedrückt wird, leuchtet das Display auf.",
+      "english": "Of course. I'd be happy to show you how to use it. See, here is the start button, when it is pressed, the display lights up.",
+      "russian": "Конечно. Я с удовольствием покажу вам, как им пользоваться. Видите, здесь кнопка запуска, при ее нажатии дисплей загорается.",
+      "farsi": "البته. من خوشحال می‌شوم به شما نشان دهم که چگونه از آن استفاده کنید. ببینید، اینجا دکمه شروع است، وقتی آن را فشار می‌دهید، صفحه نمایش روشن می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Jetzt geben Sie Ihre Codenummer ein.",
+      "english": "Now enter your code number.",
+      "russian": "Теперь введите свой номер кода.",
+      "farsi": "حالا شماره کد خود را وارد کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Schon gemacht!",
+      "english": "Already done!",
+      "russian": "Уже сделано!",
+      "farsi": "قبلا انجام شده!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "So, und nun können Sie alle weiteren Informationen auf dem Display lesen.",
+      "english": "So, and now you can read all further information on the display.",
+      "russian": "Итак, теперь вы можете прочитать всю дополнительную информацию на дисплее.",
+      "farsi": "خب، و حالا می‌توانید تمام اطلاعات بیشتر را روی صفحه نمایش بخوانید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dann ist ja alles ganz einfach!",
+      "english": "Then everything is quite simple!",
+      "russian": "Тогда все совсем просто!",
+      "farsi": "پس همه چیز خیلی ساده است!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, es ist nicht kompliziert.",
+      "english": "Yes, it is not complicated.",
+      "russian": "Да, это не сложно.",
+      "farsi": "بله، پیچیده نیست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Allerdings kopiert das Gerät nur sehr langsam und manchmal gibt es Papierstau.",
+      "english": "However, the device copies only very slowly and sometimes there is a paper jam.",
+      "russian": "Однако устройство копирует очень медленно, и иногда застревает бумага.",
+      "farsi": "با این حال، دستگاه فقط خیلی آهسته کپی می‌کند و گاهی اوقات گیر کردن کاغذ وجود دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn das passiert, rufen Sie mich einfach!",
+      "english": "If that happens, just call me!",
+      "russian": "Если это произойдет, просто позвоните мне!",
+      "farsi": "اگر این اتفاق افتاد، فقط با من تماس بگیرید!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das mache ich. Vielen Dank, Frau Neumann.",
+      "english": "I will. Thank you very much, Mrs. Neumann.",
+      "russian": "Я сделаю это. Большое спасибо, фрау Нойманн.",
+      "farsi": "این کار را خواهم کرد. خیلی ممنون، خانم نویمان."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Frau Neumann, jetzt brauche ich noch einmal Ihre Hilfe.",
+      "english": "Mrs. Neumann, now I need your help again.",
+      "russian": "Фрау Нойманн, теперь мне снова нужна ваша помощь.",
+      "farsi": "خانم نویمان، حالا دوباره به کمک شما نیاز دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Einen Moment, ich muss hier noch etwas fertig machen.",
+      "english": "Just a moment, I have to finish something here.",
+      "russian": "Минутку, мне нужно здесь кое-что закончить.",
+      "farsi": "یک لحظه، من باید اینجا چیزی را تمام کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "So, wo ist das Problem?",
+      "english": "So, where is the problem?",
+      "russian": "Итак, в чем проблема?",
+      "farsi": "خب، مشکل کجاست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Drucker hat jetzt einen Papierstau.",
+      "english": "The printer now has a paper jam.",
+      "russian": "У принтера сейчас застряла бумага.",
+      "farsi": "چاپگر الان گیر کردن کاغذ دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Okay; hier auf dem Display wird angezeigt, wo der Papierstau ist.",
+      "english": "Okay; here on the display it shows where the paper jam is.",
+      "russian": "Хорошо; здесь на дисплее показано, где застряла бумага.",
+      "farsi": "باشه؛ اینجا روی صفحه نمایش نشان داده می‌شود که گیر کردن کاغذ کجاست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Jetzt öffnen Sie diese Klappe und entfernen das Papier.",
+      "english": "Now open this flap and remove the paper.",
+      "russian": "Теперь откройте этот люк и извлеките бумагу.",
+      "farsi": "حالا این درب را باز کنید و کاغذ را بردارید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kann ich Ihnen helfen?",
+      "english": "Can I help you?",
+      "russian": "Могу я вам помочь?",
+      "farsi": "می‌توانم به شما کمک کنم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, gerne. Wo finde ich das Sekretariat?",
+      "english": "Yes, gladly. Where can I find the secretariat?",
+      "russian": "Да, конечно. Где я могу найти секретариат?",
+      "farsi": "بله، خوشحال می‌شوم. کجا می‌توانم دفتر секретаریت را پیدا کنم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Sekretariat ist im ersten Obergeschoss.",
+      "english": "The secretariat is on the first floor.",
+      "russian": "Секретариат находится на первом этаже.",
+      "farsi": "دفتر секретаریت در طبقه اول است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie können die Treppe benutzen.",
+      "english": "You can use the stairs.",
+      "russian": "Вы можете воспользоваться лестницей.",
+      "farsi": "شما می‌توانید از پله‌ها استفاده کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Gehen Sie geradeaus den Gang entlang.",
+      "english": "Go straight down the hall.",
+      "russian": "Идите прямо по коридору.",
+      "farsi": "مستقیم راهرو را پایین بروید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Treppe ist neben der Kantine.",
+      "english": "The stairs are next to the canteen.",
+      "russian": "Лестница рядом со столовой.",
+      "farsi": "پله‌ها کنار غذاخوری هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im ersten Obergeschoss gehen Sie links.",
+      "english": "On the first floor, turn left.",
+      "russian": "На первом этаже поверните налево.",
+      "farsi": "در طبقه اول، به چپ بپیچید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Sekretariat finden sie neben der Geschäftsleitung.",
+      "english": "You will find the secretariat next to the management.",
+      "russian": "Вы найдете секретариат рядом с руководством.",
+      "farsi": "شما دفتر секретаریت را کنار مدیریت پیدا خواهید کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vielen Dank.",
+      "english": "Thank you very much.",
+      "russian": "Большое спасибо.",
+      "farsi": "خیلی ممنون."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Guten Morgen, Leute.",
+      "english": "Good morning, everyone.",
+      "russian": "Доброе утро, ребята.",
+      "farsi": "صبح بخیر، بچه‌ها."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Guten Morgen, Chef.",
+      "english": "Good morning, boss.",
+      "russian": "Доброе утро, шеф.",
+      "farsi": "صبح بخیر، رئیس."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Gestern war es etwas hektisch, und ich hatte keine Zeit, unseren neuen Kollegen vorzustellen.",
+      "english": "Yesterday it was a bit hectic, and I didn't have time to introduce our new colleague.",
+      "russian": "Вчера было немного суетливо, и у меня не было времени представить нашего нового коллегу.",
+      "farsi": "دیروز کمی شلوغ بود و من وقت نداشتم همکار جدیدمان را معرفی کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das ist Mustafa Aziz.",
+      "english": "This is Mustafa Aziz.",
+      "russian": "Это Мустафа Азиз.",
+      "farsi": "این مصطفی عزیز است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er ist gelernter Glaser wie Rolf und Hans und wird uns ab jetzt unterstützen.",
+      "english": "He is a trained glazier like Rolf and Hans and will support us from now on.",
+      "russian": "Он квалифицированный стекольщик, как Рольф и Ханс, и теперь будет поддерживать нас.",
+      "farsi": "او مانند رولف و هانس یک شیشه‌گر ماهر است و از حالا به ما کمک خواهد کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin Rolf Tinker. Freut mich.",
+      "english": "I'm Rolf Tinker. Nice to meet you.",
+      "russian": "Я Рольф Тинкер. Рад встрече.",
+      "farsi": "من رولف تینکر هستم. از آشنایی شما خوشوقتم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und ich heiße Tamara Netrokawa.",
+      "english": "And my name is Tamara Netrokawa.",
+      "russian": "А меня зовут Тамара Нетрокава.",
+      "farsi": "و اسم من تامارا نتروکاوا است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin Susanne Kreis. Ich bin hier die Sekretärin.",
+      "english": "I'm Susanne Kreis. I'm the secretary here.",
+      "russian": "Я Сюзанна Крейс. Я здесь секретарь.",
+      "farsi": "من سوزانne کرایس هستم. من اینجا منشی هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin Hans Moser. Ich muss auch gleich gehen, denn ich fahre nach Siegburg.",
+      "english": "I'm Hans Moser. I have to leave right away, because I'm driving to Siegburg.",
+      "russian": "Я Ганс Мозер. Я должен сразу же уйти, потому что я еду в Зигбург.",
+      "farsi": "من هانس موزر هستم. من هم باید فورا بروم، زیرا من به زیگبورگ می‌روم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dort wurden auf einer Baustelle falsche Fenster geliefert und ich muss die Sache jetzt in Ordnung bringen.",
+      "english": "There, on a construction site, wrong windows were delivered and I have to fix the matter now.",
+      "russian": "Там, на стройке, были доставлены неправильные окна, и я должен сейчас все исправить.",
+      "farsi": "در آنجا، در یک محل ساخت و ساز، پنجره‌های اشتباه تحویل داده شده است و من باید اکنون این موضوع را درست کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Um acht Uhr habe ich einen Termin mit dem Architekten.",
+      "english": "At eight o'clock I have an appointment with the architect.",
+      "russian": "В восемь часов у меня встреча с архитектором.",
+      "farsi": "ساعت هشت من یک قرار ملاقات با معمار دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es freut mich, Sie alle kennenzulernen.",
+      "english": "It's a pleasure to meet you all.",
+      "russian": "Рад познакомиться со всеми вами.",
+      "farsi": "از آشنایی با همه شما خوشحال شدم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Heute gibt es viel zu tun. Deshalb müssen wir den Tagesablauf noch einmal genau besprechen.",
+      "english": "Today there is a lot to do. Therefore, we must discuss the daily routine again in detail.",
+      "russian": "Сегодня много дел. Поэтому мы должны еще раз подробно обсудить распорядок дня.",
+      "farsi": "امروز کارهای زیادی برای انجام دادن وجود دارد. بنابراین، ما باید دوباره برنامه روزانه را به طور دقیق بررسی کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben heute mehrere Termine.",
+      "english": "We have several appointments today.",
+      "russian": "Сегодня у нас несколько встреч.",
+      "farsi": "امروز ما چندین قرار ملاقات داریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Um 8.15 Uhr sollen wir bei Frau Sendlinger die neuen Fenster einbauen.",
+      "english": "At 8:15 we are supposed to install the new windows at Mrs. Sendlinger's.",
+      "russian": "В 8:15 мы должны установить новые окна у фрау Зендлингер.",
+      "farsi": "ساعت 8:15 قرار است پنجره‌های جدید را در خانه خانم سندلینگر نصب کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie wartet schon seit drei Wochen.",
+      "english": "She has been waiting for three weeks already.",
+      "russian": "Она ждет уже три недели.",
+      "farsi": "او از قبل سه هفته منتظر بوده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Tamara und Rolf, könnt ihr das machen?",
+      "english": "Tamara and Rolf, can you do that?",
+      "russian": "Тамара и Рольф, вы можете это сделать?",
+      "farsi": "تامارا و رولف، می‌توانید این کار را انجام دهید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kein Problem, das können wir machen.",
+      "english": "No problem, we can do that.",
+      "russian": "Без проблем, мы можем это сделать.",
+      "farsi": "مشکلی نیست، ما می‌توانیم این کار را انجام دهیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Tamara ist ja schon im dritten Ausbildungsjahr und das schaffen wir auf jeden Fall zu zweit.",
+      "english": "Tamara is already in her third year of training and we can definitely manage that together.",
+      "russian": "Тамара уже на третьем году обучения, и мы обязательно справимся вдвоем.",
+      "farsi": "تامارا که در حال حاضر در سال سوم کارآموزی است و ما قطعا می‌توانیم آن را با هم انجام دهیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Prima, dann kommt danach die Stadtverwaltung.",
+      "english": "Great, then the city administration comes after that.",
+      "russian": "Отлично, тогда после этого идет городская администрация.",
+      "farsi": "عالی، پس از آن اداره شهر می‌آید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dort müssen wir Fenster reparieren.",
+      "english": "There we have to repair windows.",
+      "russian": "Там мы должны отремонтировать окна.",
+      "farsi": "در آنجا باید پنجره‌ها را تعمیر کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das mache ich zusammen mit Mustafa. - Okay.",
+      "english": "I'll do that together with Mustafa. - Okay.",
+      "russian": "Я сделаю это вместе с Мустафой. - Хорошо.",
+      "farsi": "من این کار را با مصطفی انجام خواهم داد. - بسیار خب."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Tamara und Rolf, wenn ihr bei Frau Sendlinger fertig seid, kommt doch bitte in die Stadtverwaltung und helft uns.",
+      "english": "Tamara and Rolf, when you are finished with Mrs. Sendlinger, please come to the city administration and help us.",
+      "russian": "Тамара и Рольф, когда вы закончите у фрау Зендлингер, пожалуйста, приходите в городскую администрацию и помогите нам.",
+      "farsi": "تامارا و رولف، وقتی کارتان با خانم سندلینگر تمام شد، لطفا به اداره شهر بیایید و به ما کمک کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sicher seid ihr bis halb zwölf Uhr bei Frau Sendlinger fertig und könnt dann bis 12.00 Uhr bei der Stadtverwaltung sein.",
+      "english": "Surely you will be finished with Mrs. Sendlinger by half past eleven and can then be at the city administration by 12:00.",
+      "russian": "Конечно, вы закончите у фрау Зендлингер к половине двенадцатого и сможете быть в городской администрации к 12:00.",
+      "farsi": "مطمئناً تا ساعت یازده و نیم کارتان با خانم سندلینگر تمام می‌شود و می‌توانید تا ساعت ۱۲:۰۰ در اداره شهر باشید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich glaube, vor 13.00 Uhr können wir nicht kommen.",
+      "english": "I think we can't come before 1:00 PM.",
+      "russian": "Я думаю, мы не сможем прийти раньше 13:00.",
+      "farsi": "فکر می‌کنم نمی‌توانیم قبل از ساعت ۱۳:۰۰ بیاییم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nach dem Termin bei Frau Sendlinger müssen wir noch Silikon im Baumarkt holen.",
+      "english": "After the appointment with Mrs. Sendlinger, we still have to get silicone at the hardware store.",
+      "russian": "После встречи у фрау Зендлингер нам еще нужно купить силикон в хозяйственном магазине.",
+      "farsi": "بعد از قرار ملاقات با خانم سندلینگر، هنوز باید سیلیکون را از فروشگاه لوازم ساختمانی بگیریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das schaffen wir sicher nicht vor 12.00 Uhr.",
+      "english": "We certainly won't manage that before 12:00.",
+      "russian": "Мы, конечно, не успеем это сделать до 12:00.",
+      "farsi": "مطمئناً قبل از ساعت ۱۲:۰۰ نمی‌توانیم این کار را انجام دهیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Okay, dann kommt nach der Mittagspause um halb zwei in die Stadtverwaltung.",
+      "english": "Okay, then come to the city administration after the lunch break at half past one.",
+      "russian": "Хорошо, тогда приходите в городскую администрацию после обеденного перерыва в половине второго.",
+      "farsi": "بسیار خب، پس از استراحت ناهار ساعت یک و نیم به اداره شهر بیایید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Also, dann an die Arbeit.",
+      "english": "So, let's get to work.",
+      "russian": "Итак, за работу.",
+      "farsi": "خب، پس بریم سر کار."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vorher habe ich noch etwas.",
+      "english": "Before that, I have something else.",
+      "russian": "Прежде чем, у меня есть еще кое-что.",
+      "farsi": "قبل از آن، چیز دیگری دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Marion, kannst du bei der Firma Steinbrink anrufen?",
+      "english": "Marion, can you call the Steinbrink company?",
+      "russian": "Марион, ты можешь позвонить в компанию Штайнбринк?",
+      "farsi": "ماریون، می‌توانی به شرکت اشتاینبرینک زنگ بزنی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie brauchen ein Angebot für ein Bauprojekt im Stadtzentrum.",
+      "english": "They need an offer for a construction project in the city center.",
+      "russian": "Им нужно предложение на строительный проект в центре города.",
+      "farsi": "آنها برای یک پروژه ساختمانی در مرکز شهر به یک پیشنهاد نیاز دارند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, in Ordnung.",
+      "english": "Yes, okay.",
+      "russian": "Да, хорошо.",
+      "farsi": "بله، بسیار خب."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Seit einem Jahr arbeite ich bei der Firma Fensterbau Heincke.",
+      "english": "I have been working at the Fensterbau Heincke company for a year.",
+      "russian": "Я работаю в компании Fensterbau Heincke уже год.",
+      "farsi": "من یک سال است که در شرکت Fensterbau Heincke کار می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Firma ist klein, wir sind inklusive Chef und Chefin nur acht Personen.",
+      "english": "The company is small, we are only eight people including the boss and the female boss.",
+      "russian": "Компания маленькая, нас всего восемь человек, включая босса и босса-женщину.",
+      "farsi": "شرکت کوچک است، ما فقط هشت نفر از جمله رئیس و رئیس زن هستیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein erster Arbeitstag war ziemlich chaotisch.",
+      "english": "My first day at work was quite chaotic.",
+      "russian": "Мой первый рабочий день был довольно хаотичным.",
+      "farsi": "اولین روز کاری من کاملا آشفته بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich kam um 7.00 Uhr in der Firma an, aber alle waren überrascht.",
+      "english": "I arrived at the company at 7:00 a.m., but everyone was surprised.",
+      "russian": "Я пришел в компанию в 7:00 утра, но все были удивлены.",
+      "farsi": "من ساعت 7 صبح به شرکت رسیدم، اما همه غافلگیر شدند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie dachten, ich würde einen Tag später kommen.",
+      "english": "They thought I would come a day later.",
+      "russian": "Они думали, что я приду днем позже.",
+      "farsi": "آنها فکر می‌کردند که من یک روز دیرتر خواهم آمد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Meine Chefin hat mir dann nur kurz gezeigt, wo ich meine Arbeitskleidung finde, und dann bin ich mit dem Chef und anderen Mitarbeitern zu einer Baustelle gefahren.",
+      "english": "My boss then only briefly showed me where I could find my work clothes, and then I drove with the boss and other employees to a construction site.",
+      "russian": "Моя начальница затем лишь коротко показала мне, где я могу найти свою рабочую одежду, и затем я поехал с шефом и другими сотрудниками на стройку.",
+      "farsi": "رئیس من سپس فقط به طور خلاصه به من نشان داد که کجا می‌توانم لباس کارم را پیدا کنم، و سپس من با رئیس و دیگر کارمندان به یک محل ساخت و ساز رفتم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Während der Fahrt wurde nicht viel geredet, die Stimmung war ziemlich angespannt, denn es hatte auf der Baustelle wohl einige Probleme gegeben.",
+      "english": "During the drive, not much was said, the atmosphere was quite tense, because there had probably been some problems at the construction site.",
+      "russian": "Во время поездки не много разговаривали, атмосфера была довольно напряженной, потому что на стройке, вероятно, были некоторые проблемы.",
+      "farsi": "در طول رانندگی، زیاد صحبت نمی‌شد، جو کاملا متشنج بود، زیرا احتمالا در محل ساخت و ساز مشکلاتی وجود داشت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "An diesem ersten Tag konnte ich noch nicht viel machen, obwohl es eigentlich viel Arbeit gab.",
+      "english": "On this first day, I couldn't do much yet, although there was actually a lot of work.",
+      "russian": "В этот первый день я еще не мог многого сделать, хотя на самом деле было много работы.",
+      "farsi": "در این روز اول، من هنوز نمی‌توانستم کار زیادی انجام دهم، اگرچه در واقع کار زیادی وجود داشت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Niemand hatte Zeit, mir die Aufgaben zu erklären.",
+      "english": "Nobody had time to explain the tasks to me.",
+      "russian": "Ни у кого не было времени объяснять мне задачи.",
+      "farsi": "هیچ کس وقت نداشت که وظایف را برای من توضیح دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Erst in den nächsten Tagen wurde ich richtig eingearbeitet.",
+      "english": "Only in the next few days was I properly trained.",
+      "russian": "Только в следующие несколько дней меня должным образом обучили.",
+      "farsi": "فقط در چند روز آینده من به درستی آموزش دیدم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Jetzt fühle ich mich in dem kleinen Team richtig wohl, denn wir verstehen uns alle gut.",
+      "english": "Now I feel really comfortable in the small team, because we all get along well.",
+      "russian": "Теперь я чувствую себя действительно комфортно в маленькой команде, потому что мы все хорошо ладим.",
+      "farsi": "حالا من در تیم کوچک واقعا احساس راحتی می‌کنم، زیرا همه ما با هم خوب کنار می‌آییم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vor einem Jahr habe ich am 2. Mai in einer Elektrofirma als Produktionshelferin angefangen.",
+      "english": "A year ago, on May 2nd, I started as a production assistant in an electrical company.",
+      "russian": "Год назад, 2 мая, я начала работать помощником по производству в электротехнической компании.",
+      "farsi": "یک سال پیش، در 2 می، من به عنوان یک دستیار تولید در یک شرکت برق شروع به کار کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich war nicht die einzige neue Mitarbeiterin an diesem Tag.",
+      "english": "I was not the only new employee on this day.",
+      "russian": "Я была не единственным новым сотрудником в этот день.",
+      "farsi": "من تنها کارمند جدید در این روز نبودم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Außer mir warteten am Morgen noch 19 andere Kolleginnen und Kollegen am Werkstor, dann holte uns der Schichtmeister ab.",
+      "english": "Besides me, 19 other colleagues were waiting at the factory gate in the morning, then the foreman picked us up.",
+      "russian": "Кроме меня, утром у заводских ворот ждали еще 19 других коллег, затем мастер смены забрал нас.",
+      "farsi": "به جز من، 19 همکار دیگر نیز صبح در دروازه کارخانه منتظر بودند، سپس سرکارگر ما را برداشت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Zuerst waren wir in der Personalabteilung, um unsere Unterlagen abzugeben, außerdem wurden Fotos für die Mitarbeiterausweise gemacht und wir haben Schlüssel für unsere Spinde erhalten.",
+      "english": "First, we were in the personnel department to submit our documents, photos were also taken for the employee ID cards and we received keys for our lockers.",
+      "russian": "Сначала мы были в отделе кадров, чтобы сдать наши документы, кроме того, были сделаны фотографии для удостоверений сотрудников, и мы получили ключи от наших шкафчиков.",
+      "farsi": "ابتدا ما در بخش پرسنل بودیم تا مدارک خود را تحویل دهیم، عکس‌هایی نیز برای کارت‌های شناسایی کارمندان گرفته شد و ما کلیدهایی برای کمدهای خود دریافت کردیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In den Umkleideräumen haben wir dann unsere Arbeitskleidung bekommen und danach zeigte uns der Schichtmeister unsere Arbeitsplätze und hat uns die wichtigsten Arbeitsprozesse erklärt.",
+      "english": "In the changing rooms we then received our work clothes and then the foreman showed us our workplaces and explained the most important work processes to us.",
+      "russian": "В раздевалках мы затем получили нашу рабочую одежду, и после этого мастер смены показал нам наши рабочие места и объяснил нам самые важные рабочие процессы.",
+      "farsi": "در اتاق‌های رختکن، سپس لباس کار خود را دریافت کردیم و پس از آن سرکارگر محل‌های کار ما را به ما نشان داد و مهم‌ترین فرآیندهای کاری را برای ما توضیح داد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Damit begann die Einarbeitung.",
+      "english": "This marked the beginning of the training.",
+      "russian": "С этого началось обучение.",
+      "farsi": "با این کار، آموزش آغاز شد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In den ersten Wochen haben uns langjährige Angestellte erklärt, was wir machen müssen und wie die Maschinen bedient werden.",
+      "english": "In the first few weeks, long-term employees explained to us what we had to do and how the machines are operated.",
+      "russian": "В первые несколько недель долгосрочные сотрудники объясняли нам, что мы должны делать и как работают машины.",
+      "farsi": "در هفته‌های اول، کارمندان قدیمی به ما توضیح دادند که چه کاری باید انجام دهیم و چگونه ماشین‌ها کار می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Außerdem hatten wir an zwei Tagen einen Kurs über Sicherheit am Arbeitsplatz.",
+      "english": "We also had a course on workplace safety for two days.",
+      "russian": "Кроме того, у нас было два дня курс по безопасности на рабочем месте.",
+      "farsi": "علاوه بر این، ما دو روز یک دوره در مورد ایمنی در محل کار داشتیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Guten Tag, mein Name ist Sergej Smirnow.",
+      "english": "Good day, my name is Sergej Smirnow.",
+      "russian": "Добрый день, меня зовут Сергей Смирнов.",
+      "farsi": "روز بخیر، اسم من سرگئی اسمیرنوف است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Heute ist mein erster Arbeitstag.",
+      "english": "Today is my first day of work.",
+      "russian": "Сегодня мой первый рабочий день.",
+      "farsi": "امروز اولین روز کاری من است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich soll mich hier am Empfang melden.",
+      "english": "I am supposed to report here at the reception.",
+      "russian": "Я должен зарегистрироваться здесь на reception.",
+      "farsi": "قرار است اینجا در پذیرش خودم را معرفی کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Herzlich willkommen, Herr Smirnow.",
+      "english": "Welcome, Mr. Smirnow.",
+      "russian": "Добро пожаловать, господин Смирнов.",
+      "farsi": "خوش آمدید، آقای اسمیرنوف."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In welcher Abteilung arbeiten Sie?",
+      "english": "In which department do you work?",
+      "russian": "В каком отделе вы работаете?",
+      "farsi": "در کدام بخش کار می‌کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich arbeite in der Einkaufsabteilung.",
+      "english": "I work in the purchasing department.",
+      "russian": "Я работаю в отделе закупок.",
+      "farsi": "من در بخش خرید کار می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dann rufe ich jetzt die Abteilungsleiterin Frau Delitsch an.",
+      "english": "Then I'll call the department head, Mrs. Delitsch, now.",
+      "russian": "Тогда я сейчас позвоню начальнице отдела, фрау Делитч.",
+      "farsi": "پس من الان با رئیس بخش، خانم دلیتش، تماس خواهم گرفت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie holt Sie hier ab.",
+      "english": "She will pick you up here.",
+      "russian": "Она заберет вас здесь.",
+      "farsi": "او شما را از اینجا خواهد گرفت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vielen Dank.",
+      "english": "Thank you very much.",
+      "russian": "Большое спасибо.",
+      "farsi": "خیلی ممنون."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "So, das ist Ihr Mitarbeiterausweis.",
+      "english": "So, this is your employee ID card.",
+      "russian": "Итак, это ваше удостоверение сотрудника.",
+      "farsi": "خب، این کارت شناسایی کارمند شماست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Herzlich willkommen in unserer Firma.",
+      "english": "Welcome to our company.",
+      "russian": "Добро пожаловать в нашу компанию.",
+      "farsi": "به شرکت ما خوش آمدید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vielen Dank. Bekomme ich auch Büroschlüssel?",
+      "english": "Thank you very much. Will I also get office keys?",
+      "russian": "Большое спасибо. Я также получу ключи от офиса?",
+      "farsi": "خیلی ممنون. آیا کلیدهای دفتر را هم می‌گیرم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, aber wir müssen erst neue Schlüssel beim Schlüsseldienst machen lassen.",
+      "english": "Yes, but we first have to have new keys made at the key service.",
+      "russian": "Да, но сначала мы должны заказать новые ключи в службе изготовления ключей.",
+      "farsi": "بله، اما ابتدا باید کلیدهای جدید را از کلیدسازی بگیریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Übermorgen können Sie die Schlüssel abholen.",
+      "english": "You can pick up the keys the day after tomorrow.",
+      "russian": "Послезавтра вы можете забрать ключи.",
+      "farsi": "شما می‌توانید کلیدها را پس فردا بگیرید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In Ordnung.",
+      "english": "Alright.",
+      "russian": "Хорошо.",
+      "farsi": "بسیار خب."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Meine lieben Kollegen und Kolleginnen.",
+      "english": "My dear colleagues.",
+      "russian": "Мои дорогие коллеги.",
+      "farsi": "همکاران عزیز من."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Zu Beginn unserer Sitzung möchte ich Ihnen Frau Marini vorstellen.",
+      "english": "At the beginning of our meeting, I would like to introduce Mrs. Marini to you.",
+      "russian": "В начале нашего заседания я хотел бы представить вам фрау Марини.",
+      "farsi": "در ابتدای جلسه می‌خواهم خانم مارینی را به شما معرفی کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Guten Tag, ich freue mich, dass ich jetzt in Ihrem Team mitarbeiten kann.",
+      "english": "Good day, I am happy that I can now work with your team.",
+      "russian": "Добрый день, я рад, что теперь могу работать с вашей командой.",
+      "farsi": "روز بخیر، خوشحال می‌شوم که اکنون می‌توانم با تیم شما همکاری کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Frau Marini wird drei Monate bei uns bleiben.",
+      "english": "Mrs. Marini will stay with us for three months.",
+      "russian": "Фрау Марини останется с нами на три месяца.",
+      "farsi": "خانم مارینی سه ماه نزد ما خواهد ماند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie will lernen, wie wir hier arbeiten.",
+      "english": "She wants to learn how we work here.",
+      "russian": "Она хочет узнать, как мы здесь работаем.",
+      "farsi": "او می‌خواهد یاد بگیرد که چگونه ما اینجا کار می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie macht in unserer Firma eine Ausbildung.",
+      "english": "She is doing an apprenticeship in our company.",
+      "russian": "Она проходит обучение в нашей компании.",
+      "farsi": "او در شرکت ما کارآموزی می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können Sie mir bitte kurz helfen?",
+      "english": "Can you please help me briefly?",
+      "russian": "Не могли бы вы мне помочь ненадолго?",
+      "farsi": "لطفا می‌توانید کمی به من کمک کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Einen Moment, bitte. Ich komme gleich… So, was gibt es denn?",
+      "english": "Just a moment, please. I'll be right there… So, what's the matter?",
+      "russian": "Минутку, пожалуйста. Я сейчас подойду… Итак, что случилось?",
+      "farsi": "یک لحظه لطفا. من الان می‌آیم… خب، مشکل چیست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Kopierer zeigt „Patrone wechseln“ an. Wie mache ich das?",
+      "english": "The copier says \"Change cartridge\". How do I do that?",
+      "russian": "На копире написано «Замените картридж». Как это сделать?",
+      "farsi": "دستگاه کپی می‌گوید «کارتریج را عوض کنید». چگونه این کار را انجام دهم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Öffnen Sie die Klappe vorne am Drucker.",
+      "english": "Open the flap at the front of the printer.",
+      "russian": "Откройте крышку спереди принтера.",
+      "farsi": "درب جلویی چاپگر را باز کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das habe ich gemacht.",
+      "english": "I've done that.",
+      "russian": "Я сделал это.",
+      "farsi": "این کار را انجام داده‌ام."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Jetzt können Sie die alte Patrone herausnehmen und die neue einsetzen.",
+      "english": "Now you can take out the old cartridge and insert the new one.",
+      "russian": "Теперь вы можете вынуть старый картридж и вставить новый.",
+      "farsi": "حالا می‌توانید کارتریج قدیمی را بیرون بیاورید و کارتریج جدید را وارد کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das ist ja einfach. Und was mache ich jetzt mit der alten Patrone?",
+      "english": "That's easy. And what do I do with the old cartridge now?",
+      "russian": "Это же просто. И что теперь делать со старым картриджем?",
+      "farsi": "این که آسان است. و حالا با کارتریج قدیمی چه کار کنم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die bringen wir zum Recyclinghof.",
+      "english": "We take it to the recycling center.",
+      "russian": "Мы отнесем его в центр утилизации.",
+      "farsi": "آن را به مرکز بازیافت می‌بریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Stimmt, die darf ja nicht in den normalen Müll.",
+      "english": "That's right, it shouldn't go in the regular trash.",
+      "russian": "Точно, его нельзя выбрасывать в обычный мусор.",
+      "farsi": "درسته، نباید اون رو تو سطل زباله معمولی انداخت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich danke Ihnen für die Hilfe.",
+      "english": "Thank you for your help.",
+      "russian": "Спасибо вам за помощь.",
+      "farsi": "از شما برای کمک ممنونم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Gern geschehen.",
+      "english": "You're welcome.",
+      "russian": "Не за что.",
+      "farsi": "خواهش می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kannst du heute in der Heidestraße 5 zwei Fenster austauschen?",
+      "english": "Can you replace two windows in Heidestrasse 5 today?",
+      "russian": "Можешь сегодня заменить два окна на Хайдештрассе 5?",
+      "farsi": "امروز می‌توانی دو پنجره را در هایدشتراسه ۵ عوض کنی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich denke, das klappt. Ich nehme Jessica mit.",
+      "english": "I think that will work. I'll take Jessica with me.",
+      "russian": "Думаю, получится. Я возьму Джессику с собой.",
+      "farsi": "فکر می‌کنم درست باشه. من جسیکا رو با خودم می‌برم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ihr solltet bis 11 Uhr fertig sein.",
+      "english": "You should be finished by 11 o'clock.",
+      "russian": "Вы должны закончить к 11 часам.",
+      "farsi": "شما باید تا ساعت 11 تمام کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich glaube, das schaffen wir nicht. Wir haben doch um 9.00 Uhr einen Termin am Rennplatz.",
+      "english": "I don't think we can do that. We have an appointment at the racetrack at 9:00.",
+      "russian": "Не думаю, что мы сможем это сделать. У нас же в 9:00 встреча на ипподроме.",
+      "farsi": "فکر نمی‌کنم بتونیم این کار رو انجام بدیم. ما ساعت ۹:۰۰ قرار ملاقات در میدان مسابقه داریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ach ja, richtig, das habe ich vergessen. Könnt ihr es bis 13.00 Uhr schaffen?",
+      "english": "Oh yes, that's right, I forgot. Can you manage it by 1:00 PM?",
+      "russian": "Ах да, точно, я забыл. Вы сможете это сделать к 13:00?",
+      "farsi": "آهان، درسته، یادم رفت. می‌تونید تا ساعت ۱۳:۰۰ انجامش بدید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, das kann klappen.",
+      "english": "Yes, that might work.",
+      "russian": "Да, это может получиться.",
+      "farsi": "بله، ممکنه درست باشه."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ok, dann rufe ich in der Heidestraße an und sage, dass ihr gegen 13.00 Uhr kommt.",
+      "english": "Okay, then I'll call Heidestrasse and say that you'll be there around 1:00 PM.",
+      "russian": "Хорошо, тогда я позвоню на Хайдештрассе и скажу, что вы приедете около 13:00.",
+      "farsi": "باشه، پس من به هایدشتراسه زنگ می‌زنم و می‌گویم که شما حدود ساعت ۱۳:۰۰ می‌آیید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, in Ordnung. Dann machen wir vorher Mittagspause.",
+      "english": "Yes, that's fine. Then we'll take a lunch break beforehand.",
+      "russian": "Да, хорошо. Тогда мы перед этим сделаем перерыв на обед.",
+      "farsi": "بله، بسیار خب. پس قبل از آن استراحت ناهار می‌کنیم."
+    }
+  ]
+}
