@@ -1419,7 +1419,7 @@
       "sentence": "Ich bade nicht so gern, ich dusche lieber.",
       "english": "I don't like to bathe much, I prefer to shower.",
       "russian": "Я не люблю купаться, я предпочитаю принимать душ.",
-      "farsi": "من زیاد حمام نکردن را دوست ندارم، ترجیح می‌دهم دوش بگیرم."
+      "farsi": "من زیاد حمام کردن را دوست ندارم، ترجیح می‌دهم دوش بگیرم."
     },
     {
       "isSelected": false,
@@ -1913,9 +1913,9 @@
       "isSelected": false,
       "type": "sentence",
       "sentence": "best-",
-      "english": "until",
-      "russian": "до",
-      "farsi": "تا"
+      "english": "best",
+      "russian": "лучший",
+      "farsi": "بهترین"
     },
     {
       "isSelected": false,

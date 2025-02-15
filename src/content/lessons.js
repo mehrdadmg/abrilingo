@@ -282,8 +282,20 @@ const alllessons = [
       {
         id: '502',
         level: 1,
-        file_name: 'lokale_präpositionen.json',
-        name: 'Lokale_Präpositionen',
+        file_name: 'lokale_präpositionen_mit_akk.json',
+        name: 'Lokale_Präpositionen_Mit_Akk.',
+      },
+      {
+        id: '505',
+        level: 1,
+        file_name: 'lokale_präpositionen_mit_dat.json',
+        name: 'Lokale_Präpositionen_Mit_Dat.',
+      },
+      {
+        id: '506',
+        level: 1,
+        file_name: 'lokale_präpositionen_mit_dat_akk.json',
+        name: 'Lokale_Präpositionen_Mit_Dat._Akk.',
       },
       {
         id: '503',

@@ -1,0 +1,729 @@
+{
+  "info": {
+    "name": "Lokale_Präpositionen_Mit_Akk.",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Gehen wir bis zum Park?",
+      "english": "Shall we go as far as the park?",
+      "russian": "Пойдем до парка?",
+      "farsi": "تا پارک برویم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Bus fährt bis zur Endstation.",
+      "english": "The bus goes to the final stop.",
+      "russian": "Автобус едет до конечной остановки.",
+      "farsi": "اتوبوس تا ایستگاه آخر می‌رود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich laufe bis zur Brücke.",
+      "english": "I walk as far as the bridge.",
+      "russian": "Я иду до моста.",
+      "farsi": "تا پل پیاده می‌روم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bis wohin geht dieser Weg?",
+      "english": "Where does this path lead to?",
+      "russian": "Куда ведет эта дорога?",
+      "farsi": "این مسیر تا کجا ادامه دارد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Fahren Sie bis zur nächsten Ampel.",
+      "english": "Drive to the next traffic light.",
+      "russian": "Езжайте до следующего светофора.",
+      "farsi": "تا چراغ بعدی برانید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir gehen bis zum Ende der Straße.",
+      "english": "We walk to the end of the street.",
+      "russian": "Мы идем до конца улицы.",
+      "farsi": "تا انتهای خیابان می‌رویم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bis hierher ist alles in Ordnung.",
+      "english": "Everything is fine up to here.",
+      "russian": "До сих пор всё в порядке.",
+      "farsi": "تا اینجا همه چیز مرتب است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kannst du mich bis zur Haltestelle bringen?",
+      "english": "Can you take me to the bus stop?",
+      "russian": "Можешь отвезти меня до остановки?",
+      "farsi": "می‌توانی مرا تا ایستگاه ببری؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Zug fährt bis Berlin.",
+      "english": "The train goes to Berlin.",
+      "russian": "Поезд едет до Берлина.",
+      "farsi": "قطار تا برلین می‌رود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bis zum See sind es noch 2 Kilometer.",
+      "english": "It is still 2 kilometers to the lake.",
+      "russian": "До озера еще 2 километра.",
+      "farsi": "تا دریاچه هنوز ۲ کیلومتر فاصله است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Laufen wir bis zum Supermarkt?",
+      "english": "Shall we walk to the supermarket?",
+      "russian": "Пойдем до супермаркета?",
+      "farsi": "تا سوپرمارکت پیاده برویم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bis zur Grenze sind es noch 50 Kilometer.",
+      "english": "It is still 50 kilometers to the border.",
+      "russian": "До границы еще 50 километров.",
+      "farsi": "تا مرز هنوز ۵۰ کیلومتر فاصله است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich begleite dich bis zur Tür.",
+      "english": "I will accompany you to the door.",
+      "russian": "Я провожу тебя до двери.",
+      "farsi": "تو را تا در همراهی می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bis zum Berg ist es nicht weit.",
+      "english": "It is not far to the mountain.",
+      "russian": "До горы недалеко.",
+      "farsi": "تا کوه زیاد دور نیست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Fährst du bis zum Flughafen?",
+      "english": "Are you driving to the airport?",
+      "russian": "Ты едешь до аэропорта?",
+      "farsi": "تا فرودگاه می‌رانی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir gehen durch den Park.",
+      "english": "We walk through the park.",
+      "russian": "Мы идем через парк.",
+      "farsi": "ما از میان پارک عبور می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Zug fährt durch den Tunnel.",
+      "english": "The train goes through the tunnel.",
+      "russian": "Поезд едет через туннель.",
+      "farsi": "قطار از تونل عبور می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie läuft durch die Straße.",
+      "english": "She walks through the street.",
+      "russian": "Она идет по улице.",
+      "farsi": "او از خیابان عبور می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Wasser fließt durch das Rohr.",
+      "english": "The water flows through the pipe.",
+      "russian": "Вода течет через трубу.",
+      "farsi": "آب از لوله عبور می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er sieht durch das Fenster.",
+      "english": "He looks through the window.",
+      "russian": "Он смотрит через окно.",
+      "farsi": "او از پنجره نگاه می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Kinder rennen durch den Garten.",
+      "english": "The children run through the garden.",
+      "russian": "Дети бегают по саду.",
+      "farsi": "بچه‌ها از میان باغ می‌دوند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Vogel fliegt durch die Luft.",
+      "english": "The bird flies through the air.",
+      "russian": "Птица летит по воздуху.",
+      "farsi": "پرنده از هوا عبور می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir fahren durch die Stadt.",
+      "english": "We drive through the city.",
+      "russian": "Мы едем через город.",
+      "farsi": "ما از میان شهر رانندگی می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Sonne scheint durch die Wolken.",
+      "english": "The sun shines through the clouds.",
+      "russian": "Солнце светит сквозь облака.",
+      "farsi": "خورشید از میان ابرها می‌درخشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er geht durch die Tür.",
+      "english": "He walks through the door.",
+      "russian": "Он проходит через дверь.",
+      "farsi": "او از در عبور می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Nachricht verbreitet sich durch das Internet.",
+      "english": "The news spreads through the internet.",
+      "russian": "Новости распространяются через интернет.",
+      "farsi": "خبر از طریق اینترنت پخش می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie liest das Buch durch die Nacht.",
+      "english": "She reads the book through the night.",
+      "russian": "Она читает книгу всю ночь.",
+      "farsi": "او کتاب را در طول شب می‌خواند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Ball rollt durch das Tor.",
+      "english": "The ball rolls through the goal.",
+      "russian": "Мяч катится через ворота.",
+      "farsi": "توپ از دروازه عبور می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir wandern durch den Wald.",
+      "english": "We hike through the forest.",
+      "russian": "Мы гуляем по лесу.",
+      "farsi": "ما از میان جنگل پیاده‌روی می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Wind weht durch die Bäume.",
+      "english": "The wind blows through the trees.",
+      "russian": "Ветер дует сквозь деревья.",
+      "farsi": "باد از میان درختان می‌وزد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich kaufe ein Geschenk für meinen Bruder.",
+      "english": "I am buying a gift for my brother.",
+      "russian": "Я покупаю подарок для своего брата.",
+      "farsi": "من برای برادرم یک هدیه می‌خرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie sucht ein Buch für ihren Deutschkurs.",
+      "english": "She is looking for a book for her German course.",
+      "russian": "Она ищет книгу для своего курса немецкого языка.",
+      "farsi": "او دنبال کتابی برای کلاس آلمانی‌اش می‌گردد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir brauchen Blumen für die Feier.",
+      "english": "We need flowers for the celebration.",
+      "russian": "Нам нужны цветы для праздника.",
+      "farsi": "ما برای جشن به گل نیاز داریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er kocht das Abendessen für seine Familie.",
+      "english": "He is cooking dinner for his family.",
+      "russian": "Он готовит ужин для своей семьи.",
+      "farsi": "او برای خانواده‌اش شام می‌پزد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe eine Überraschung für dich.",
+      "english": "I have a surprise for you.",
+      "russian": "У меня есть сюрприз для тебя.",
+      "farsi": "من یک سورپریز برای تو دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das ist ein Stuhl für den Garten.",
+      "english": "This is a chair for the garden.",
+      "russian": "Это стул для сада.",
+      "farsi": "این یک صندلی برای باغ است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie reserviert einen Tisch für zwei Personen.",
+      "english": "She is reserving a table for two people.",
+      "russian": "Она бронирует столик на двоих.",
+      "farsi": "او یک میز برای دو نفر رزرو می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir kaufen Tickets für das Konzert.",
+      "english": "We are buying tickets for the concert.",
+      "russian": "Мы покупаем билеты на концерт.",
+      "farsi": "ما بلیت‌های کنسرت را می‌خریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er schreibt eine E-Mail für seinen Chef.",
+      "english": "He is writing an email for his boss.",
+      "russian": "Он пишет письмо для своего начальника.",
+      "farsi": "او برای رئیس‌ش یک ایمیل می‌نویسد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich mache die Hausaufgaben für meinen Freund.",
+      "english": "I am doing the homework for my friend.",
+      "russian": "Я делаю домашнее задание для своего друга.",
+      "farsi": "من تکالیف دوستم را انجام می‌دهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das ist das beste Geschenk für meine Mutter.",
+      "english": "This is the best gift for my mother.",
+      "russian": "Это лучший подарок для моей мамы.",
+      "farsi": "این بهترین هدیه برای مادرم است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie backt einen Kuchen für die Geburtstagsparty.",
+      "english": "She is baking a cake for the birthday party.",
+      "russian": "Она печет торт для дня рождения.",
+      "farsi": "او برای جشن تولد کیک می‌پزد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir suchen ein Hotel für das Wochenende.",
+      "english": "We are looking for a hotel for the weekend.",
+      "russian": "Мы ищем отель на выходные.",
+      "farsi": "ما دنبال هتلی برای آخر هفته می‌گردیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er kauft eine neue Jacke für den Winter.",
+      "english": "He is buying a new jacket for the winter.",
+      "russian": "Он покупает новую куртку на зиму.",
+      "farsi": "او برای زمستان یک ژاکت جدید می‌خرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich hole Medikamente für meine Großmutter.",
+      "english": "I am getting medicine for my grandmother.",
+      "russian": "Я беру лекарства для своей бабушки.",
+      "farsi": "من برای مادربزرگم دارو می‌گیرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich gehe ohne einen Regenschirm aus dem Haus.",
+      "english": "I am leaving the house without an umbrella.",
+      "russian": "Я выхожу из дома без зонта.",
+      "farsi": "من بدون چتر از خانه بیرون می‌روم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er fährt ohne einen Führerschein Auto.",
+      "english": "He is driving a car without a driver's license.",
+      "russian": "Он водит машину без водительских прав.",
+      "farsi": "او بدون گواهینامه رانندگی می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie isst ohne einen Löffel die Suppe.",
+      "english": "She is eating the soup without a spoon.",
+      "russian": "Она ест суп без ложки.",
+      "farsi": "او سوپ را بدون قاشق می‌خورد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir machen ohne einen Plan Urlaub.",
+      "english": "We are going on vacation without a plan.",
+      "russian": "Мы едем в отпуск без плана.",
+      "farsi": "ما بدون برنامه به تعطیلات می‌رویم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ihr kauft ohne eine Einkaufstasche ein.",
+      "english": "You are shopping without a shopping bag.",
+      "russian": "Вы покупаете без сумки для покупок.",
+      "farsi": "شما بدون کیسه خرید خرید می‌کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Kinder spielen ohne einen Ball im Garten.",
+      "english": "The children are playing in the garden without a ball.",
+      "russian": "Дети играют в саду без мяча.",
+      "farsi": "بچه‌ها بدون توپ در باغ بازی می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich schreibe ohne einen Stift die Hausaufgaben.",
+      "english": "I am writing the homework without a pen.",
+      "russian": "Я пишу домашнее задание без ручки.",
+      "farsi": "من تکالیف را بدون خودکار می‌نویسم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er verlässt das Haus ohne einen Schlüssel.",
+      "english": "He is leaving the house without a key.",
+      "russian": "Он выходит из дома без ключа.",
+      "farsi": "او بدون کلید خانه را ترک می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie trinkt ohne einen Strohhalm den Saft.",
+      "english": "She is drinking the juice without a straw.",
+      "russian": "Она пьет сок без соломинки.",
+      "farsi": "او آبمیوه را بدون نی می‌نوشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir reisen ohne einen Koffer.",
+      "english": "We are traveling without a suitcase.",
+      "russian": "Мы путешествуем без чемодана.",
+      "farsi": "ما بدون چمدان سفر می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ihr geht ohne eine Jacke nach draußen.",
+      "english": "You are going outside without a jacket.",
+      "russian": "Вы выходите на улицу без куртки.",
+      "farsi": "شما بدون ژاکت بیرون می‌روید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Schüler arbeiten ohne ein Wörterbuch.",
+      "english": "The students are working without a dictionary.",
+      "russian": "Ученики работают без словаря.",
+      "farsi": "دانش‌آموزان بدون فرهنگ لغت کار می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich backe ohne eine Schürze den Kuchen.",
+      "english": "I am baking the cake without an apron.",
+      "russian": "Я пеку торт без фартука.",
+      "farsi": "من کیک را بدون پیش‌بند می‌پزم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er spricht ohne einen Akzent Deutsch.",
+      "english": "He speaks German without an accent.",
+      "russian": "Он говорит по-немецки без акцента.",
+      "farsi": "او بدون لهجه آلمانی صحبت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie tanzt ohne einen Partner auf der Party.",
+      "english": "She is dancing without a partner at the party.",
+      "russian": "Она танцует без партнера на вечеринке.",
+      "farsi": "او بدون همراه در مهمانی می‌رقصد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich laufe gegen den Baum.",
+      "english": "I run into the tree.",
+      "russian": "Я бегу в дерево.",
+      "farsi": "من به درخت برخورد می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat etwas gegen den Vorschlag.",
+      "english": "She has something against the proposal.",
+      "russian": "Она против этого предложения.",
+      "farsi": "او چیزی علیه این پیشنهاد دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir spielen gegen die andere Mannschaft.",
+      "english": "We are playing against the other team.",
+      "russian": "Мы играем против другой команды.",
+      "farsi": "ما علیه تیم دیگر بازی می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat eine Allergie gegen Nüsse.",
+      "english": "He has an allergy to nuts.",
+      "russian": "У него аллергия на орехи.",
+      "farsi": "او به آجیل حساسیت دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Auto fährt gegen die Wand.",
+      "english": "The car drives into the wall.",
+      "russian": "Машина врезается в стену.",
+      "farsi": "ماشین به دیوار برخورد می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie kämpft gegen die Ungerechtigkeit.",
+      "english": "She is fighting against injustice.",
+      "russian": "Она борется против несправедливости.",
+      "farsi": "او علیه بی‌عدالتی مبارزه می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin gegen diese Idee.",
+      "english": "I am against this idea.",
+      "russian": "Я против этой идеи.",
+      "farsi": "من مخالف این ایده هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Ball prallt gegen das Tor.",
+      "english": "The ball bounces off the goal.",
+      "russian": "Мяч отскакивает от ворот.",
+      "farsi": "توپ از دروازه برمی‌گردد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat eine Impfung gegen Grippe bekommen.",
+      "english": "He got a flu vaccination.",
+      "russian": "Он получил прививку от гриппа.",
+      "farsi": "او واکسن آنفولانزا زده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie lehnt sich gegen die Tür.",
+      "english": "She leans against the door.",
+      "russian": "Она опирается на дверь.",
+      "farsi": "او به در تکیه می‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben nichts gegen deinen Plan.",
+      "english": "We have nothing against your plan.",
+      "russian": "Мы ничего не имеем против твоего плана.",
+      "farsi": "ما مخالف برنامه‌ات نیستیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Medikament hilft gegen die Schmerzen.",
+      "english": "The medicine helps against the pain.",
+      "russian": "Лекарство помогает от боли.",
+      "farsi": "دارو علیه درد کمک می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat eine Abneigung gegen laute Musik.",
+      "english": "He has an aversion to loud music.",
+      "russian": "Он не любит громкую музыку.",
+      "farsi": "او از موسیقی بلند بدش می‌آید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Wellen schlagen gegen das Ufer.",
+      "english": "The waves are crashing against the shore.",
+      "russian": "Волны бьются о берег.",
+      "farsi": "امواج به ساحل برخورد می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat eine Versicherung gegen Diebstahl abgeschlossen.",
+      "english": "She has taken out insurance against theft.",
+      "russian": "Она оформила страховку от кражи.",
+      "farsi": "او بیمه‌ای علیه دزدی گرفته است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir gehen um den Park spazieren.",
+      "english": "We are walking around the park.",
+      "russian": "Мы гуляем вокруг парка.",
+      "farsi": "ما دور پارک قدم می‌زنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Kinder laufen um das Haus herum.",
+      "english": "The children are running around the house.",
+      "russian": "Дети бегают вокруг дома.",
+      "farsi": "بچه‌ها دور خانه می‌دوند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Hund läuft um den Baum.",
+      "english": "The dog is running around the tree.",
+      "russian": "Собака бегает вокруг дерева.",
+      "farsi": "سگ دور درخت می‌دود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat eine Kette um den Hals.",
+      "english": "She has a chain around her neck.",
+      "russian": "У нее цепочка на шее.",
+      "farsi": "او یک زنجیر دور گردنش دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Zaun steht um den Garten.",
+      "english": "The fence stands around the garden.",
+      "russian": "Забор стоит вокруг сада.",
+      "farsi": "حصار دور باغ قرار دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Erde dreht sich um die Sonne.",
+      "english": "The Earth revolves around the Sun.",
+      "russian": "Земля вращается вокруг Солнца.",
+      "farsi": "زمین به دور خورشید می‌چرخد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat seinen Arm um sie gelegt.",
+      "english": "He put his arm around her.",
+      "russian": "Он обнял ее.",
+      "farsi": "او دستش را دور او انداخت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Touristen gehen um die Altstadt.",
+      "english": "The tourists are walking around the old town.",
+      "russian": "Туристы гуляют по старому городу.",
+      "farsi": "توریست‌ها دور شهر قدیمی قدم می‌زنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Auto fährt um die Ecke.",
+      "english": "The car is driving around the corner.",
+      "russian": "Машина едет за угол.",
+      "farsi": "ماشین دور گوشه می‌رود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Vögel fliegen um das Haus.",
+      "english": "The birds are flying around the house.",
+      "russian": "Птицы летают вокруг дома.",
+      "farsi": "پرندگان دور خانه پرواز می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie tanzen um das Feuer.",
+      "english": "They are dancing around the fire.",
+      "russian": "Они танцуют вокруг костра.",
+      "farsi": "آن‌ها دور آتش می‌رقصند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Ring passt um ihren Finger.",
+      "english": "The ring fits around her finger.",
+      "russian": "Кольцо подходит на ее палец.",
+      "farsi": "حلقه دور انگشتش جا می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Schlange windet sich um den Ast.",
+      "english": "The snake is winding around the branch.",
+      "russian": "Змея обвивается вокруг ветки.",
+      "farsi": "مار دور شاخه می‌پیچد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Kinder sitzen um den Tisch.",
+      "english": "The children are sitting around the table.",
+      "russian": "Дети сидят вокруг стола.",
+      "farsi": "بچه‌ها دور میز نشسته‌اند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Weg führt um den See.",
+      "english": "The path leads around the lake.",
+      "russian": "Дорога ведет вокруг озера.",
+      "farsi": "مسیر دور دریاچه می‌گذرد."
+    }
+  ]
+}

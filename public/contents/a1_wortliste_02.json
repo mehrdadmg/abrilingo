@@ -342,6 +342,96 @@
       "farsi": "نامه"
     },
     {
+      "german": "Haben Sie einen Brief für mich?",
+      "english": "Do you have a letter for me?",
+      "russian": "У вас есть письмо для меня?",
+      "farsi": "آیا شما نامه‌ای برای من دارید؟"
+    },
+    {
+      "german": "die Briefmarke, -n",
+      "english": "the stamp",
+      "russian": "почтовая марка",
+      "farsi": "تمبر"
+    },
+    {
+      "german": "Kaufst du bitte Briefmarken bei der Post.",
+      "english": "Will you please buy stamps at the post office.",
+      "russian": "Купи, пожалуйста, марки на почте.",
+      "farsi": "لطفاً تمبر از اداره پست بخر."
+    },
+    {
+      "german": "bringen",
+      "english": "to bring",
+      "russian": "приносить",
+      "farsi": "آوردن"
+    },
+    {
+      "german": "Bringen Sie mir bitte noch einen Kaffee!",
+      "english": "Please bring me another coffee!",
+      "russian": "Принесите мне, пожалуйста, еще один кофе!",
+      "farsi": "لطفاً یک قهوه دیگر برای من بیاورید!"
+    },
+    {
+      "german": "Wir müssen ihn zum Arzt bringen.",
+      "english": "We have to take him to the doctor.",
+      "russian": "Мы должны отвести его к врачу.",
+      "farsi": "ما باید او را نزد پزشک ببریم."
+    },
+    {
+      "german": "das Brot, -e",
+      "english": "the bread",
+      "russian": "хлеб",
+      "farsi": "نان"
+    },
+    {
+      "german": "Haben Sie auch Weißbrot?",
+      "english": "Do you also have white bread?",
+      "russian": "У вас есть также белый хлеб?",
+      "farsi": "آیا نان سفید هم دارید؟"
+    },
+    {
+      "german": "Nimm noch ein paar Brote für die Fahrt mit.",
+      "english": "Take a few more loaves of bread with you for the trip.",
+      "russian": "Возьми еще несколько хлебов с собой в поездку.",
+      "farsi": "چند نان دیگر برای سفر با خودت بردار."
+    },
+    {
+      "german": "das Brötchen, –",
+      "english": "the roll",
+      "russian": "булочка",
+      "farsi": "نان رول"
+    },
+    {
+      "german": "Möchtest du Brötchen zum Frühstück?",
+      "english": "Would you like rolls for breakfast?",
+      "russian": "Хочешь булочки на завтрак?",
+      "farsi": "برای صبحانه نان رول می‌خواهی؟"
+    },
+    {
+      "german": "der Bruder, -ü",
+      "english": "the brother",
+      "russian": "брат",
+      "farsi": "برادر"
+    },
+    {
+      "german": "Sein Bruder arbeitet auch hier.",
+      "english": "His brother also works here.",
+      "russian": "Его брат тоже работает здесь.",
+      "farsi": "برادرش هم اینجا کار می‌کند."
+    },
+    {
+      "german": "das Buch, -ü, er",
+      "english": "the book",
+      "russian": "книга",
+      "farsi": "کتاب"
+    },
+    {
+      "german": "Gute Bücher sind oft sehr teuer.",
+      "english": "Good books are often very expensive.",
+      "russian": "Хорошие книги часто очень дорогие.",
+      "farsi": "کتاب‌های خوب اغلب خیلی گران هستند."
+    },
+    {
       "isSelected": false,
       "type": "sentence",
       "sentence": "In diesem Wörterbuch finden Sie mehr als 20.000 Wörter.",

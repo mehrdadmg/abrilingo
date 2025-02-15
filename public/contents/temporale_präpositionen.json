@@ -8,538 +8,1034 @@
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Um 7 Uhr stehe ich auf.",
-      "english": "At 7 o'clock I get up.",
-      "russian": "В 7 часов я встаю.",
-      "farsi": "ساعت 7 بیدار می‌شوم."
+      "sentence": "In einer Stunde bin ich fertig.",
+      "english": "I will be ready in an hour.",
+      "russian": "Я буду готов через час.",
+      "farsi": "من تا یک ساعت دیگر آماده می‌شوم."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Um Mitternacht schlafe ich ein.",
-      "english": "At midnight I fall asleep.",
-      "russian": "В полночь я засыпаю.",
-      "farsi": "نیمه‌شب می‌خوابم."
+      "sentence": "Im Sommer fahren wir in den Urlaub.",
+      "english": "In the summer, we go on vacation.",
+      "russian": "Летом мы едем в отпуск.",
+      "farsi": "تابستان‌ها به تعطیلات می‌رویم."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Um 14 Uhr beginnt die Besprechung.",
-      "english": "At 2 PM the meeting begins.",
-      "russian": "В 14 часов начинается совещание.",
-      "farsi": "ساعت 2 بعدازظهر جلسه شروع می‌شود."
+      "sentence": "In zwei Wochen habe ich Prüfungen.",
+      "english": "In two weeks, I have exams.",
+      "russian": "Через две недели у меня экзамены.",
+      "farsi": "دو هفته دیگر امتحانات دارم."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Um 20 Uhr sehe ich fern.",
-      "english": "At 8 PM I watch TV.",
-      "russian": "В 20 часов я смотрю телевизор.",
-      "farsi": "ساعت 8 شب تلویزیون تماشا می‌کنم."
+      "sentence": "Im Januar schneit es oft.",
+      "english": "In January, it often snows.",
+      "russian": "В январе часто идет снег.",
+      "farsi": "ژانویه‌ها اغلب برف می‌بارد."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Um 22 Uhr gehe ich ins Bett.",
-      "english": "At 10 PM I go to bed.",
-      "russian": "В 22 часа я ложусь спать.",
-      "farsi": "ساعت 10 شب به رختخواب می‌روم."
+      "sentence": "In der Nacht schlafe ich.",
+      "english": "At night, I sleep.",
+      "russian": "Ночью я сплю.",
+      "farsi": "شب‌ها می‌خوابم."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Um 9 Uhr beginnt der Unterricht.",
-      "english": "At 9 o'clock the class begins.",
-      "russian": "В 9 часов начинаются занятия.",
-      "farsi": "ساعت 9 کلاس شروع می‌شود."
+      "sentence": "Im Jahr 2020 war die Pandemie.",
+      "english": "In the year 2020, there was a pandemic.",
+      "russian": "В 2020 году была пандемия.",
+      "farsi": "در سال 2020 همه‌گیری رخ داد."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Um 16 Uhr gehe ich ins Fitnessstudio.",
-      "english": "At 4 PM I go to the gym.",
-      "russian": "В 16 часов я иду в спортзал.",
-      "farsi": "ساعت 4 عصر به باشگاه می‌روم."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Am Montag habe ich ein Meeting.",
-      "english": "On Monday I have a meeting.",
-      "russian": "В понедельник у меня встреча.",
-      "farsi": "در روز دوشنبه یک جلسه دارم."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Am Wochenende besuche ich meine Eltern.",
-      "english": "On the weekend I visit my parents.",
-      "russian": "На выходных я навещаю своих родителей.",
-      "farsi": "آخر هفته‌ها به والدینم سر می‌زنم."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Am 1. Januar feiern wir Neujahr.",
-      "english": "On January 1st we celebrate New Year.",
-      "russian": "1 января мы празднуем Новый год.",
-      "farsi": "در 1 ژانویه سال نو را جشن می‌گیریم."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Am Morgen lese ich die Zeitung.",
-      "english": "In the morning I read the newspaper.",
-      "russian": "Утром я читаю газету.",
-      "farsi": "صبح روزنامه می‌خوانم."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Am Abend esse ich mit meiner Familie.",
-      "english": "In the evening I have dinner with my family.",
-      "russian": "Вечером я ужинаю с семьей.",
-      "farsi": "شب‌ها با خانواده‌ام غذا می‌خورم."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Am Dienstag treffe ich meine Freunde.",
-      "english": "On Tuesday I meet my friends.",
-      "russian": "Во вторник я встречаюсь с друзьями.",
-      "farsi": "در روز سه‌شنبه با دوستانم ملاقات می‌کنم."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Am Donnerstag habe ich frei.",
-      "english": "On Thursday I have the day off.",
-      "russian": "В четверг у меня выходной.",
-      "farsi": "در روز پنج‌شنبه مرخصی دارم."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Ab morgen werde ich mehr Sport treiben.",
-      "english": "From tomorrow I will do more sports.",
-      "russian": "С завтрашнего дня я буду больше заниматься спортом.",
-      "farsi": "از فردا بیشتر ورزش خواهم کرد."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Ab nächster Woche arbeite ich weniger Stunden.",
-      "english": "From next week I will work fewer hours.",
-      "russian": "Со следующей недели я буду работать меньше часов.",
-      "farsi": "از هفته آینده کمتر کار خواهم کرد."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Ab 1. Juni bin ich im Urlaub.",
-      "english": "From June 1st I will be on vacation.",
-      "russian": "С 1 июня я буду в отпуске.",
-      "farsi": "از اول ژوئن در تعطیلات خواهم بود."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Ab Montag beginnt mein neuer Job.",
-      "english": "From Monday my new job starts.",
-      "russian": "С понедельника начинается моя новая работа.",
-      "farsi": "از روز دوشنبه شغل جدیدم شروع می‌شود."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Ab sofort esse ich gesünder.",
-      "english": "From now on I will eat healthier.",
-      "russian": "С этого момента я буду питаться здоровее.",
-      "farsi": "از حالا به بعد سالم‌تر غذا می‌خورم."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Ab nächstem Jahr studiere ich im Ausland.",
-      "english": "From next year I will study abroad.",
-      "russian": "Со следующего года я буду учиться за границей.",
-      "farsi": "از سال آینده در خارج از کشور تحصیل خواهم کرد."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Ab übermorgen besuche ich einen Sprachkurs.",
-      "english": "From the day after tomorrow I will attend a language course.",
-      "russian": "Послезавтра я начну посещать языковой курс.",
-      "farsi": "از پس‌فردا به کلاس زبان می‌روم."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Ab Januar mache ich eine Diät.",
-      "english": "From January I will be on a diet.",
-      "russian": "С января я буду на диете.",
-      "farsi": "از ماه ژانویه رژیم می‌گیرم."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Im Januar ist es sehr kalt.",
-      "english": "In January it is very cold.",
-      "russian": "В январе очень холодно.",
-      "farsi": "در ژانویه هوا بسیار سرد است."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Im Sommer gehe ich oft schwimmen.",
-      "english": "In the summer I often go swimming.",
-      "russian": "Летом я часто хожу плавать.",
-      "farsi": "در تابستان اغلب به شنا می‌روم."
+      "sentence": "In fünf Minuten beginnt der Film.",
+      "english": "The movie starts in five minutes.",
+      "russian": "Фильм начнется через пять минут.",
+      "farsi": "فیلم پنج دقیقه دیگر شروع می‌شود."
     },
     {
       "isSelected": false,
       "type": "sentence",
       "sentence": "Im Herbst fallen die Blätter.",
-      "english": "In the autumn the leaves fall.",
-      "russian": "Осенью опадают листья.",
-      "farsi": "در پاییز برگ‌ها می‌ریزند."
+      "english": "In autumn, the leaves fall.",
+      "russian": "Осенью листья опадают.",
+      "farsi": "پاییز‌ها برگ‌ها می‌ریزند."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Im Winter fahren wir in den Skiurlaub.",
-      "english": "In the winter we go on a skiing holiday.",
-      "russian": "Зимой мы едем на лыжный отдых.",
-      "farsi": "در زمستان به تعطیلات اسکی می‌رویم."
+      "sentence": "In der Zukunft wird alles besser.",
+      "english": "In the future, everything will be better.",
+      "russian": "В будущем всё будет лучше.",
+      "farsi": "در آینده همه چیز بهتر خواهد شد."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Im Frühling blühen die Blumen.",
-      "english": "In the spring the flowers bloom.",
-      "russian": "Весной цветы цветут.",
-      "farsi": "در بهار گل‌ها شکوفه می‌دهند."
+      "sentence": "Im August ist es sehr heiß.",
+      "english": "In August, it is very hot.",
+      "russian": "В августе очень жарко.",
+      "farsi": "اوت‌ها هوا بسیار گرم است."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Im nächsten Jahr werde ich ein Haus kaufen.",
-      "english": "Next year I will buy a house.",
-      "russian": "В следующем году я куплю дом.",
-      "farsi": "سال آینده خانه‌ای خواهم خرید."
+      "sentence": "In einer Woche habe ich Geburtstag.",
+      "english": "In a week, it is my birthday.",
+      "russian": "Через неделю у меня день рождения.",
+      "farsi": "یک هفته دیگر تولد من است."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Im August haben wir Ferien.",
-      "english": "In August we have a vacation.",
-      "russian": "В августе у нас отпуск.",
-      "farsi": "در ماه اوت تعطیلات داریم."
+      "sentence": "Im Winter trage ich einen Mantel.",
+      "english": "In winter, I wear a coat.",
+      "russian": "Зимой я ношу пальто.",
+      "farsi": "زمستان‌ها کت می‌پوشم."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Im Mai heiratet meine Schwester.",
-      "english": "In May my sister is getting married.",
-      "russian": "В мае моя сестра выходит замуж.",
-      "farsi": "در ماه مه خواهرم ازدواج می‌کند."
+      "sentence": "In zehn Jahren bin ich reich.",
+      "english": "In ten years, I will be rich.",
+      "russian": "Через десять лет я буду богатым.",
+      "farsi": "ده سال دیگر ثروتمند خواهم بود."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Im November hat mein Bruder Geburtstag.",
-      "english": "In November my brother has a birthday.",
-      "russian": "В ноябре у моего брата день рождения.",
-      "farsi": "در ماه نوامبر تولد برادرم است."
+      "sentence": "Im Mai blühen die Blumen.",
+      "english": "In May, the flowers bloom.",
+      "russian": "В мае цветут цветы.",
+      "farsi": "مه‌ها گل‌ها شکوفا می‌شوند."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Von Montag bis Freitag arbeite ich.",
-      "english": "From Monday to Friday I work.",
-      "russian": "С понедельника по пятницу я работаю.",
-      "farsi": "از دوشنبه تا جمعه کار می‌کنم."
+      "sentence": "In der Zwischenzeit können wir warten.",
+      "english": "In the meantime, we can wait.",
+      "russian": "Тем временем мы можем подождать.",
+      "farsi": "در این فاصله می‌توانیم منتظر بمانیم."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Von 9 bis 17 Uhr bin ich im Büro.",
-      "english": "From 9 to 5 I am in the office.",
-      "russian": "С 9 до 17 часов я в офисе.",
-      "farsi": "از 9 تا 5 در دفتر هستم."
+      "sentence": "Am Montag gehe ich zur Arbeit.",
+      "english": "On Monday, I go to work.",
+      "russian": "В понедельник я иду на работу.",
+      "farsi": "دوشنبه‌ها سر کار می‌روم."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Von Juni bis August sind Sommerferien.",
-      "english": "From June to August is summer vacation.",
-      "russian": "С июня по август - летние каникулы.",
-      "farsi": "از ژوئن تا اوت تعطیلات تابستانی است."
+      "sentence": "Am Wochenende besuche ich meine Familie.",
+      "english": "On the weekend, I visit my family.",
+      "russian": "На выходных я навещаю свою семью.",
+      "farsi": "آخر هفته‌ها خانواده‌ام را ملاقات می‌کنم."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Von morgens bis abends bin ich beschäftigt.",
-      "english": "From morning till evening I am busy.",
-      "russian": "С утра до вечера я занят.",
-      "farsi": "از صبح تا شب مشغولم."
+      "sentence": "Am Morgen trinke ich immer Kaffee.",
+      "english": "In the morning, I always drink coffee.",
+      "russian": "Утром я всегда пью кофе.",
+      "farsi": "صبح‌ها همیشه قهوه می‌نوشم."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Von Februar bis April ist es oft regnerisch.",
-      "english": "From February to April it is often rainy.",
-      "russian": "С февраля по апрель часто идет дождь.",
-      "farsi": "از فوریه تا آوریل اغلب بارانی است."
+      "sentence": "Am Abend schauen wir einen Film.",
+      "english": "In the evening, we watch a movie.",
+      "russian": "Вечером мы смотрим фильм.",
+      "farsi": "عصر‌ها فیلم تماشا می‌کنیم."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Von Mai bis September ist es warm.",
-      "english": "From May to September it is warm.",
-      "russian": "С мая по сентябрь тепло.",
-      "farsi": "از ماه مه تا سپتامبر هوا گرم است."
+      "sentence": "Am 1. Januar feiern wir Neujahr.",
+      "english": "On January 1st, we celebrate New Year.",
+      "russian": "1 января мы празднуем Новый год.",
+      "farsi": "اول ژانویه سال نو را جشن می‌گیریم."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Von 8 bis 10 Uhr habe ich Unterricht.",
-      "english": "From 8 to 10 I have classes.",
-      "russian": "С 8 до 10 часов у меня занятия.",
-      "farsi": "از 8 تا 10 کلاس دارم."
+      "sentence": "Am Freitag habe ich frei.",
+      "english": "On Friday, I have the day off.",
+      "russian": "В пятницу у меня выходной.",
+      "farsi": "جمعه‌ها مرخصی دارم."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Von heute bis morgen bleibt das Geschäft geschlossen.",
-      "english": "From today till tomorrow the shop remains closed.",
-      "russian": "С сегодняшнего дня до завтра магазин остается закрытым.",
-      "farsi": "از امروز تا فردا مغازه تعطیل است."
+      "sentence": "Am Nachmittag spiele ich Fußball.",
+      "english": "In the afternoon, I play football.",
+      "russian": "Днем я играю в футбол.",
+      "farsi": "بعدازظهر‌ها فوتبال بازی می‌کنم."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Um 7 Uhr stehe ich auf und gehe ab 8 Uhr zur Arbeit.",
-      "english": "At 7 o'clock I get up and from 8 o'clock I go to work.",
-      "russian": "В 7 часов я встаю, а с 8 часов иду на работу.",
-      "farsi": "ساعت 7 بلند می‌شوم و از ساعت 8 به سر کار می‌روم."
+      "sentence": "Am Geburtstag bekomme ich Geschenke.",
+      "english": "On my birthday, I receive gifts.",
+      "russian": "В день рождения я получаю подарки.",
+      "farsi": "در روز تولدم هدیه می‌گیرم."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Im Sommer gehe ich oft schwimmen, besonders am Wochenende.",
-      "english": "In the summer I often go swimming, especially on weekends.",
-      "russian": "Летом я часто хожу плавать, особенно по выходным.",
-      "farsi": "در تابستان اغلب به شنا می‌روم، به خصوص آخر هفته‌ها."
+      "sentence": "Am Sonntag schlafe ich lange.",
+      "english": "On Sunday, I sleep late.",
+      "russian": "В воскресенье я долго сплю.",
+      "farsi": "یکشنبه‌ها دیر می‌خوابم."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Von Montag bis Freitag arbeite ich und am Samstag mache ich einen Ausflug.",
-      "english": "From Monday to Friday I work and on Saturday I go on a trip.",
-      "russian": "С понедельника по пятницу я работаю, а в субботу еду в поездку.",
-      "farsi": "از دوشنبه تا جمعه کار می‌کنم و روز شنبه به سفر می‌روم."
+      "sentence": "Am Valentinstag schenke ich Blumen.",
+      "english": "On Valentine's Day, I give flowers.",
+      "russian": "В День святого Валентина я дарю цветы.",
+      "farsi": "در روز ولنتاین گل هدیه می‌دهم."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Ab dem 1. Januar mache ich eine Diät und gehe um 19 Uhr spazieren.",
-      "english": "From January 1st I will be on a diet and go for a walk at 7 PM.",
-      "russian": "С 1 января я буду на диете и гулять в 19 часов.",
-      "farsi": "از اول ژانویه رژیم می‌گیرم و ساعت 7 شب پیاده‌روی می‌روم."
+      "sentence": "Am ersten Tag war ich sehr aufgeregt.",
+      "english": "On the first day, I was very excited.",
+      "russian": "В первый день я был очень взволнован.",
+      "farsi": "در روز اول خیلی هیجان‌زده بودم."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Ab nächstem Jahr studiere ich im Ausland und im Sommer besuche ich meine Familie.",
-      "english": "From next year I will study abroad and in the summer I will visit my family.",
-      "russian": "Со следующего года я буду учиться за границей, а летом навещать свою семью.",
-      "farsi": "از سال آینده در خارج از کشور تحصیل خواهم کرد و تابستان به خانواده‌ام سر خواهم زد."
+      "sentence": "Am Ende des Monats muss ich die Rechnung bezahlen.",
+      "english": "At the end of the month, I have to pay the bill.",
+      "russian": "В конце месяца я должен оплатить счет.",
+      "farsi": "در پایان ماه باید قبض را پرداخت کنم."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Im Frühling blühen die Blumen, besonders im April und Mai.",
-      "english": "In spring the flowers bloom, especially in April and May.",
-      "russian": "Весной цветы цветут, особенно в апреле и мае.",
-      "farsi": "در بهار گل‌ها شکوفه می‌دهند، به خصوص در آوریل و مه."
+      "sentence": "Am Anfang des Jahres habe ich viele Vorsätze.",
+      "english": "At the beginning of the year, I have many resolutions.",
+      "russian": "В начале года у меня много планов.",
+      "farsi": "در ابتدای سال تصمیم‌های زیادی دارم."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Ab Montag beginnt mein neuer Job, der von 9 bis 17 Uhr dauert.",
-      "english": "From Monday my new job starts, which lasts from 9 to 5.",
-      "russian": "С понедельника начинается моя новая работа, которая длится с 9 до 17 часов.",
-      "farsi": "از دوشنبه کار جدیدم شروع می‌شود که از 9 تا 5 طول می‌کشد."
+      "sentence": "Am Mittag esse ich zu Hause.",
+      "english": "At noon, I eat at home.",
+      "russian": "В полдень я ем дома.",
+      "farsi": "ظهر‌ها در خانه غذا می‌خورم."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Im Januar ist es sehr kalt, besonders von morgens bis abends.",
-      "english": "In January it is very cold, especially from morning till evening.",
-      "russian": "В январе очень холодно, особенно с утра до вечера.",
-      "farsi": "در ژانویه هوا بسیار سرد است، به خصوص از صبح تا شب."
+      "sentence": "Am letzten Tag machen wir eine Party.",
+      "english": "On the last day, we throw a party.",
+      "russian": "В последний день мы устраиваем вечеринку.",
+      "farsi": "در آخرین روز جشن می‌گیریم."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Von Mai bis September ist es warm, sodass ich oft im Sommer schwimmen gehe.",
-      "english": "From May to September it is warm, so I often go swimming in the summer.",
-      "russian": "С мая по сентябрь тепло, так что я часто хожу плавать летом.",
-      "farsi": "از ماه مه تا سپتامبر هوا گرم است، بنابراین اغلب در تابستان شنا می‌کنم."
+      "sentence": "Der Zug fährt um 8 Uhr ab.",
+      "english": "The train departs at 8 o'clock.",
+      "russian": "Поезд отправляется в 8 часов.",
+      "farsi": "قطار ساعت ۸ حرکت می‌کند."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Ab morgen, jeden Tag von fünf bis acht Uhr werde ich joggen.",
-      "english": "From tomorrow, every day from five to eight o'clock I will jog.",
-      "russian": "С завтрашнего дня, каждый день с пяти до восьми часов я буду бегать.",
-      "farsi": "از فردا، هر روز از ساعت پنج تا هشت صبح دویدن خواهم کرد."
+      "sentence": "Wir treffen uns um 15 Uhr.",
+      "english": "We are meeting at 3 PM.",
+      "russian": "Мы встречаемся в 15 часов.",
+      "farsi": "ما ساعت ۱۵ همدیگر را ملاقات می‌کنیم."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Morgen von Mittag bis Abend werde ich lernen.",
-      "english": "Tomorrow from noon to evening I will study.",
-      "russian": "Завтра с полудня до вечера я буду учиться.",
-      "farsi": "فردا از ظهر تا شب درس خواهم خواند."
+      "sentence": "Das Geschäft öffnet um 9 Uhr morgens.",
+      "english": "The store opens at 9 AM.",
+      "russian": "Магазин открывается в 9 утра.",
+      "farsi": "فروشگاه ساعت ۹ صبح باز می‌شود."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Am Montag, von 9 bis 11 Uhr, habe ich ein Meeting.",
-      "english": "On Monday, from 9 to 11 o'clock, I have a meeting.",
-      "russian": "В понедельник, с 9 до 11 часов, у меня встреча.",
-      "farsi": "دوشنبه از ساعت 9 تا 11 جلسه دارم."
+      "sentence": "Der Film beginnt um 19:30 Uhr.",
+      "english": "The movie starts at 7:30 PM.",
+      "russian": "Фильм начинается в 19:30.",
+      "farsi": "فیلم ساعت ۱۹:۳۰ شروع می‌شود."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Ab nächster Woche, von Montag bis Freitag, werde ich früher aufstehen.",
-      "english": "From next week, from Monday to Friday, I will get up earlier.",
-      "russian": "Со следующей недели, с понедельника по пятницу, я буду вставать раньше.",
-      "farsi": "از هفته آینده، از دوشنبه تا جمعه، زودتر بیدار خواهم شد."
+      "sentence": "Ich bin um 7 Uhr aufgestanden.",
+      "english": "I got up at 7 o'clock.",
+      "russian": "Я встал в 7 часов.",
+      "farsi": "من ساعت ۷ بیدار شدم."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Morgen von früh bis spät werde ich an meinem Projekt arbeiten.",
-      "english": "Tomorrow from early until late I will work on my project.",
-      "russian": "Завтра с раннего утра до позднего вечера я буду работать над своим проектом.",
-      "farsi": "فردا از صبح زود تا دیر وقت روی پروژه‌ام کار خواهم کرد."
+      "sentence": "Das Meeting ist um 10 Uhr.",
+      "english": "The meeting is at 10 o'clock.",
+      "russian": "Совещание в 10 часов.",
+      "farsi": "جلسه ساعت ۱۰ است."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Im Herbst, besonders im Oktober und November, genieße ich die kühle Luft.",
-      "english": "In autumn, especially in October and November, I enjoy the cool air.",
-      "russian": "Осенью, особенно в октябре и ноябре, я наслаждаюсь прохладным воздухом.",
-      "farsi": "در پاییز، به خصوص در اکتبر و نوامبر، از هوای خنک لذت می‌برم."
+      "sentence": "Um Mitternacht schlafe ich schon.",
+      "english": "By midnight, I am already asleep.",
+      "russian": "К полуночи я уже сплю.",
+      "farsi": "تا نیمه‌شب من خوابیده‌ام."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Ab dem 1. Juli werde ich jeden Tag von 6 bis 8 Uhr schwimmen.",
-      "english": "From July 1st I will swim every day from 6 to 8 o'clock.",
-      "russian": "С 1 июля я буду плавать каждый день с 6 до 8 часов.",
-      "farsi": "از اول ژوئیه هر روز از ساعت 6 تا 8 شنا خواهم کرد."
+      "sentence": "Der Bus kommt um 14 Uhr an.",
+      "english": "The bus arrives at 2 PM.",
+      "russian": "Автобус прибывает в 14 часов.",
+      "farsi": "اتوبوس ساعت ۱۴ می‌رسد."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Im Dezember, von Weihnachten bis Neujahr, mache ich Urlaub.",
-      "english": "In December, from Christmas to New Year, I go on vacation.",
-      "russian": "В декабре, с Рождества до Нового года, я в отпуске.",
-      "farsi": "در دسامبر، از کریسمس تا سال نو، به تعطیلات می‌روم."
+      "sentence": "Um 12 Uhr gibt es Mittagessen.",
+      "english": "At 12 o'clock, there is lunch.",
+      "russian": "В 12 часов обед.",
+      "farsi": "ساعت ۱۲ ناهار سرو می‌شود."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Vor dem Frühstück lese ich die Zeitung.",
-      "english": "Before breakfast, I read the newspaper.",
-      "russian": "Перед завтраком я читаю газету.",
-      "farsi": "قبل از صبحانه روزنامه می‌خوانم."
+      "sentence": "Sie hat um 18 Uhr Feierabend gemacht.",
+      "english": "She finished work at 6 PM.",
+      "russian": "Она закончила работу в 18 часов.",
+      "farsi": "او ساعت ۱۸ کارش را تمام کرد."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Vor der Arbeit gehe ich joggen.",
-      "english": "Before work, I go jogging.",
-      "russian": "Перед работой я бегаю.",
-      "farsi": "قبل از کار دویدن می‌روم."
+      "sentence": "Um 20 Uhr beginnt die Party.",
+      "english": "The party starts at 8 PM.",
+      "russian": "Вечеринка начинается в 20 часов.",
+      "farsi": "مهمانی ساعت ۲۰ شروع می‌شود."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Vor dem Schlafengehen trinke ich einen Tee.",
-      "english": "Before going to bed, I drink a tea.",
-      "russian": "Перед сном я пью чай.",
-      "farsi": "قبل از خواب چای می‌نوشم."
+      "sentence": "Ich gehe um 22 Uhr ins Bett.",
+      "english": "I go to bed at 10 PM.",
+      "russian": "Я ложусь спать в 22 часа.",
+      "farsi": "من ساعت ۲۲ به رختخواب می‌روم."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Vor dem Abendessen mache ich meine Hausaufgaben.",
-      "english": "Before dinner, I do my homework.",
-      "russian": "Перед ужином я делаю домашнее задание.",
-      "farsi": "قبل از شام تکالیفم را انجام می‌دهم."
+      "sentence": "Der Zug kommt um 17:45 Uhr an.",
+      "english": "The train arrives at 5:45 PM.",
+      "russian": "Поезд прибывает в 17:45.",
+      "farsi": "قطار ساعت ۱۷:۴۵ می‌رسد."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Vor der Besprechung bereite ich meine Notizen vor.",
-      "english": "Before the meeting, I prepare my notes.",
-      "russian": "Перед встречей я готовлю свои заметки.",
-      "farsi": "قبل از جلسه یادداشت‌هایم را آماده می‌کنم."
+      "sentence": "Um 6 Uhr morgens geht die Sonne auf.",
+      "english": "At 6 AM, the sun rises.",
+      "russian": "В 6 утра восходит солнце.",
+      "farsi": "ساعت ۶ صبح خورشید طلوع می‌کند."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Vor dem Wochenende kaufe ich ein.",
-      "english": "Before the weekend, I go shopping.",
-      "russian": "Перед выходными я иду за покупками.",
-      "farsi": "قبل از آخر هفته خرید می‌روم."
+      "sentence": "Der Unterricht beginnt um 8 Uhr.",
+      "english": "The class starts at 8 o'clock.",
+      "russian": "Урок начинается в 8 часов.",
+      "farsi": "کلاس ساعت ۸ شروع می‌شود."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Vor dem Urlaub packe ich meinen Koffer.",
-      "english": "Before the vacation, I pack my suitcase.",
-      "russian": "Перед отпуском я упаковываю чемодан.",
-      "farsi": "قبل از تعطیلات چمدانم را بسته‌بندی می‌کنم."
+      "sentence": "Ich arbeite bis 18 Uhr.",
+      "english": "I work until 6 PM.",
+      "russian": "Я работаю до 18 часов.",
+      "farsi": "من تا ساعت ۱۸ کار می‌کنم."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Vor dem Konzert treffe ich meine Freunde.",
-      "english": "Before the concert, I meet my friends.",
-      "russian": "Перед концертом я встречаюсь с друзьями.",
-      "farsi": "قبل از کنسرت با دوستانم ملاقات می‌کنم."
+      "sentence": "Bis wann bleibt ihr hier?",
+      "english": "Until when are you staying here?",
+      "russian": "До какого времени вы остаетесь здесь?",
+      "farsi": "تا چه زمانی اینجا می‌مانید؟"
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Vor dem Spiel wärmen sich die Spieler auf.",
-      "english": "Before the game, the players warm up.",
-      "russian": "Перед игрой игроки разогреваются.",
-      "farsi": "قبل از بازی بازیکنان گرم می‌شوند."
+      "sentence": "Wir warten bis morgen.",
+      "english": "We are waiting until tomorrow.",
+      "russian": "Мы ждем до завтра.",
+      "farsi": "ما تا فردا صبر می‌کنیم."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Nach dem Frühstück putze ich meine Zähne.",
-      "english": "After breakfast, I brush my teeth.",
-      "russian": "После завтрака я чищу зубы.",
-      "farsi": "بعد از صبحانه دندان‌هایم را مسواک می‌زنم."
+      "sentence": "Der Laden ist bis 20 Uhr geöffnet.",
+      "english": "The store is open until 8 PM.",
+      "russian": "Магазин открыт до 20 часов.",
+      "farsi": "فروشگاه تا ساعت ۲۰ باز است."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Nach der Arbeit entspanne ich mich.",
-      "english": "After work, I relax.",
-      "russian": "После работы я расслабляюсь.",
+      "sentence": "Bis nächste Woche!",
+      "english": "See you next week!",
+      "russian": "До следующей недели!",
+      "farsi": "تا هفته‌ی بعد!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich kann bis Freitag bleiben.",
+      "english": "I can stay until Friday.",
+      "russian": "Я могу остаться до пятницы.",
+      "farsi": "من می‌توانم تا جمعه بمانم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bis wann musst du lernen?",
+      "english": "Until when do you have to study?",
+      "russian": "До какого времени тебе нужно учиться?",
+      "farsi": "تا چه زمانی باید درس بخوانی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er schläft bis Mittag.",
+      "english": "He sleeps until noon.",
+      "russian": "Он спит до полудня.",
+      "farsi": "او تا ظهر می‌خوابد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bis bald!",
+      "english": "See you soon!",
+      "russian": "До скорого!",
+      "farsi": "به زودی می‌بینمت!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben bis Ende des Monats Zeit.",
+      "english": "We have time until the end of the month.",
+      "russian": "У нас есть время до конца месяца.",
+      "farsi": "ما تا پایان ماه وقت داریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bis dahin muss alles fertig sein.",
+      "english": "Everything must be ready by then.",
+      "russian": "К тому времени всё должно быть готово.",
+      "farsi": "تا آن زمان همه چیز باید آماده باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bleibe bis zum Abend.",
+      "english": "I am staying until the evening.",
+      "russian": "Я остаюсь до вечера.",
+      "farsi": "من تا عصر می‌مانم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bis wann dauert der Film?",
+      "english": "Until when does the movie last?",
+      "russian": "До какого времени идет фильм?",
+      "farsi": "فیلم تا چه زمانی طول می‌کشد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie arbeitet bis spät in die Nacht.",
+      "english": "She works until late at night.",
+      "russian": "Она работает до поздней ночи.",
+      "farsi": "او تا دیروقت شب کار می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bis gleich!",
+      "english": "See you in a bit!",
+      "russian": "До скорой встречи!",
+      "farsi": "تا همین الان!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Supermarkt ist von 8 Uhr bis 20 Uhr geöffnet.",
+      "english": "The supermarket is open from 8 AM to 8 PM.",
+      "russian": "Супермаркет открыт с 8 утра до 8 вечера.",
+      "farsi": "فروشگاه از ساعت ۸ صبح تا ۸ شب باز است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich arbeite von Montag bis Freitag.",
+      "english": "I work from Monday to Friday.",
+      "russian": "Я работаю с понедельника по пятницу.",
+      "farsi": "من از دوشنبه تا جمعه کار می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Schule dauert von 8 Uhr bis 13 Uhr.",
+      "english": "School lasts from 8 AM to 1 PM.",
+      "russian": "Школа длится с 8 утра до 13 часов.",
+      "farsi": "مدرسه از ساعت ۸ صبح تا ۱۳ طول می‌کشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir bleiben von Juli bis August im Urlaub.",
+      "english": "We are on vacation from July to August.",
+      "russian": "Мы в отпуске с июля по август.",
+      "farsi": "ما از ژوئیه تا اوت در تعطیلات هستیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Kurs geht von September bis Dezember.",
+      "english": "The course runs from September to December.",
+      "russian": "Курс длится с сентября по декабрь.",
+      "farsi": "دوره از سپتامبر تا دسامبر ادامه دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich schlafe von 22 Uhr bis 6 Uhr.",
+      "english": "I sleep from 10 PM to 6 AM.",
+      "russian": "Я сплю с 22 часов до 6 утра.",
+      "farsi": "من از ساعت ۲۲ تا ۶ صبح می‌خوابم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Konzert dauert von 19 Uhr bis 22 Uhr.",
+      "english": "The concert lasts from 7 PM to 10 PM.",
+      "russian": "Концерт длится с 19 до 22 часов.",
+      "farsi": "کنسرت از ساعت ۱۹ تا ۲۲ طول می‌کشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Ausstellung ist von Mai bis Oktober geöffnet.",
+      "english": "The exhibition is open from May to October.",
+      "russian": "Выставка открыта с мая по октябрь.",
+      "farsi": "نمایشگاه از مه تا اکتبر باز است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich lerne von 14 Uhr bis 16 Uhr Deutsch.",
+      "english": "I study German from 2 PM to 4 PM.",
+      "russian": "Я учу немецкий с 14 до 16 часов.",
+      "farsi": "من از ساعت ۱۴ تا ۱۶ آلمانی یاد می‌گیرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Bahn fährt von 6 Uhr morgens bis Mitternacht.",
+      "english": "The train runs from 6 AM to midnight.",
+      "russian": "Поезд ходит с 6 утра до полуночи.",
+      "farsi": "قطار از ساعت ۶ صبح تا نیمه‌شب حرکت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Party geht von 20 Uhr bis 2 Uhr nachts.",
+      "english": "The party goes from 8 PM to 2 AM.",
+      "russian": "Вечеринка длится с 20 часов до 2 ночи.",
+      "farsi": "مهمانی از ساعت ۲۰ تا ۲ بامداد ادامه دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin von 10 Uhr bis 12 Uhr im Meeting.",
+      "english": "I am in a meeting from 10 AM to 12 PM.",
+      "russian": "Я на встрече с 10 до 12 часов.",
+      "farsi": "من از ساعت ۱۰ تا ۱۲ در جلسه هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Bibliothek ist von 9 Uhr bis 18 Uhr geöffnet.",
+      "english": "The library is open from 9 AM to 6 PM.",
+      "russian": "Библиотека открыта с 9 утра до 18 часов.",
+      "farsi": "کتابخانه از ساعت ۹ صبح تا ۱۸ باز است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Film läuft von 15 Uhr bis 17 Uhr.",
+      "english": "The movie runs from 3 PM to 5 PM.",
+      "russian": "Фильм идет с 15 до 17 часов.",
+      "farsi": "فیلم از ساعت ۱۵ تا ۱۷ نمایش داده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin von 8 Uhr bis 16 Uhr in der Arbeit.",
+      "english": "I am at work from 8 AM to 4 PM.",
+      "russian": "Я на работе с 8 утра до 16 часов.",
+      "farsi": "من از ساعت ۸ صبح تا ۱۶ سر کار هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ab morgen habe ich Urlaub.",
+      "english": "Starting tomorrow, I am on vacation.",
+      "russian": "С завтрашнего дня у меня отпуск.",
+      "farsi": "از فردا تعطیلاتم شروع می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ab nächster Woche beginnt der neue Kurs.",
+      "english": "Starting next week, the new course begins.",
+      "russian": "С следующей недели начинается новый курс.",
+      "farsi": "از هفته‌ی آینده دوره جدید شروع می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ab 18 Uhr bin ich zu Hause.",
+      "english": "From 6 PM onwards, I am at home.",
+      "russian": "С 18 часов я дома.",
+      "farsi": "از ساعت ۱۸ به بعد در خانه هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ab September wird es kälter.",
+      "english": "Starting in September, it gets colder.",
+      "russian": "С сентября становится холоднее.",
+      "farsi": "از سپتامبر هوا سردتر می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ab jetzt mache ich mehr Sport.",
+      "english": "From now on, I will do more sports.",
+      "russian": "Сейчас я буду больше заниматься спортом.",
+      "farsi": "از الان به بعد بیشتر ورزش می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ab dem 1. Januar gelten die neuen Regeln.",
+      "english": "Starting January 1st, the new rules apply.",
+      "russian": "С 1 января действуют новые правила.",
+      "farsi": "از اول ژانویه قوانین جدید اعمال می‌شوند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ab Mittwoch habe ich Zeit.",
+      "english": "Starting Wednesday, I have time.",
+      "russian": "С среды у меня будет время.",
+      "farsi": "از چهارشنبه وقت دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ab dem Alter von 18 Jahren darf man wählen.",
+      "english": "Starting at the age of 18, you are allowed to vote.",
+      "russian": "С 18 лет можно голосовать.",
+      "farsi": "از سن ۱۸ سالگی می‌توانید رأی دهید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ab sofort ist der Parkplatz geschlossen.",
+      "english": "The parking lot is closed from now on.",
+      "russian": "Парковка закрыта с этого момента.",
+      "farsi": "از همین الان پارکینگ بسته است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ab nächstem Jahr studiere ich in Berlin.",
+      "english": "Starting next year, I will study in Berlin.",
+      "russian": "С следующего года я буду учиться в Берлине.",
+      "farsi": "از سال آینده در برلین درس می‌خوانم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ab dem Moment war alles anders.",
+      "english": "From that moment on, everything was different.",
+      "russian": "С того момента всё изменилось.",
+      "farsi": "از آن لحظه به بعد همه چیز متفاوت بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ab heute Abend gibt es kein Internet.",
+      "english": "Starting tonight, there is no internet.",
+      "russian": "С сегодняшнего вечера интернета не будет.",
+      "farsi": "از امشب اینترنت قطع است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ab dem dritten Lebensjahr gehen Kinder in den Kindergarten.",
+      "english": "Starting at the age of three, children go to kindergarten.",
+      "russian": "С трех лет дети ходят в детский сад.",
+      "farsi": "از سن سه سالگی کودکان به مهدکودک می‌روند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ab nächstem Monat spare ich mehr Geld.",
+      "english": "Starting next month, I will save more money.",
+      "russian": "С следующего месяца я буду больше экономить.",
+      "farsi": "از ماه آینده پول بیشتری پس‌انداز می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ab dieser Woche arbeite ich weniger.",
+      "english": "Starting this week, I will work less.",
+      "russian": "С этой недели я буду меньше работать.",
+      "farsi": "از این هفته کمتر کار می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Zwischen Montag und Mittwoch habe ich viel zu tun.",
+      "english": "Between Monday and Wednesday, I have a lot to do.",
+      "russian": "Между понедельником и средой у меня много дел.",
+      "farsi": "بین دوشنبه و چهارشنبه کارهای زیادی دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Meeting findet zwischen 10 und 12 Uhr statt.",
+      "english": "The meeting takes place between 10 and 12 o'clock.",
+      "russian": "Совещание проходит между 10 и 12 часами.",
+      "farsi": "جلسه بین ساعت ۱۰ تا ۱۲ برگزار می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Zwischen Weihnachten und Neujahr bleiben wir zu Hause.",
+      "english": "Between Christmas and New Year, we stay at home.",
+      "russian": "Между Рождеством и Новым годом мы остаемся дома.",
+      "farsi": "بین کریسمس و سال نو در خانه می‌مانیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Pause ist zwischen der ersten und der zweiten Stunde.",
+      "english": "The break is between the first and second hour.",
+      "russian": "Перерыв между первым и вторым часом.",
+      "farsi": "زنگ تفریح بین ساعت اول و دوم است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Zwischen dem 15. und dem 20. Mai fahre ich in den Urlaub.",
+      "english": "Between the 15th and 20th of May, I am going on vacation.",
+      "russian": "Между 15 и 20 мая я уезжаю в отпуск.",
+      "farsi": "بین ۱۵ تا ۲۰ مه به تعطیلات می‌روم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Geschäfte sind zwischen 13 und 15 Uhr geschlossen.",
+      "english": "The shops are closed between 1 and 3 PM.",
+      "russian": "Магазины закрыты между 13 и 15 часами.",
+      "farsi": "فروشگاه‌ها بین ساعت ۱۳ تا ۱۵ بسته هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Zwischen dem Frühstück und dem Mittagessen gehe ich spazieren.",
+      "english": "Between breakfast and lunch, I go for a walk.",
+      "russian": "Между завтраком и обедом я гуляю.",
+      "farsi": "بین صبحانه و ناهار پیاده‌روی می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Zug fährt zwischen 18 und 19 Uhr ab.",
+      "english": "The train departs between 6 and 7 PM.",
+      "russian": "Поезд отправляется между 18 и 19 часами.",
+      "farsi": "قطار بین ساعت ۱۸ تا ۱۹ حرکت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Zwischen dem 1. Januar und dem 31. Dezember liegt ein ganzes Jahr.",
+      "english": "Between January 1st and December 31st lies an entire year.",
+      "russian": "Между 1 января и 31 декабря проходит целый год.",
+      "farsi": "بین اول ژانویه و ۳۱ دسامبر یک سال کامل قرار دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Prüfung dauert zwischen zwei und drei Stunden.",
+      "english": "The exam lasts between two and three hours.",
+      "russian": "Экзамен длится от двух до трех часов.",
+      "farsi": "امتحان بین دو تا سه ساعت طول می‌کشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Zwischen dem Abendessen und dem Schlafengehen lese ich ein Buch.",
+      "english": "Between dinner and bedtime, I read a book.",
+      "russian": "Между ужином и сном я читаю книгу.",
+      "farsi": "بین شام و خواب کتاب می‌خوانم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Blumen blühen zwischen April und Juni.",
+      "english": "The flowers bloom between April and June.",
+      "russian": "Цветы цветут между апрелем и июнем.",
+      "farsi": "گل‌ها بین آوریل و ژوئن شکوفا می‌شوند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Zwischen dem Beginn und dem Ende des Films gab es eine Pause.",
+      "english": "Between the beginning and the end of the movie, there was a break.",
+      "russian": "Между началом и концом фильма был перерыв.",
+      "farsi": "بین شروع و پایان فیلم یک وقفه وجود داشت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Sonne scheint zwischen den Wolken.",
+      "english": "The sun shines between the clouds.",
+      "russian": "Солнце светит между облаками.",
+      "farsi": "خورشید بین ابرها می‌درخشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Zwischen dem 18. und dem 25. Lebensjahr macht man viele Erfahrungen.",
+      "english": "Between the ages of 18 and 25, you gain a lot of experiences.",
+      "russian": "Между 18 и 25 годами вы получаете много опыта.",
+      "farsi": "بین سنین ۱۸ تا ۲۵ سالگی تجربیات زیادی کسب می‌کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vor einer Stunde bin ich aufgestanden.",
+      "english": "I got up an hour ago.",
+      "russian": "Я встал час назад.",
+      "farsi": "یک ساعت پیش از خواب بیدار شدم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vor dem Essen wasche ich mir die Hände.",
+      "english": "Before eating, I wash my hands.",
+      "russian": "Перед едой я мою руки.",
+      "farsi": "قبل از غذا دست‌هایم را می‌شویم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vor drei Tagen habe ich ihn gesehen.",
+      "english": "I saw him three days ago.",
+      "russian": "Я видел его три дня назад.",
+      "farsi": "سه روز پیش او را دیدم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vor dem Unterricht trinke ich einen Kaffee.",
+      "english": "Before class, I drink a coffee.",
+      "russian": "Перед уроком я пью кофе.",
+      "farsi": "قبل از کلاس یک قهوه می‌نوشم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vor dem Schlafengehen lese ich ein Buch.",
+      "english": "Before going to bed, I read a book.",
+      "russian": "Перед сном я читаю книгу.",
+      "farsi": "قبل از خواب کتاب می‌خوانم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vor einer Woche war ich im Kino.",
+      "english": "A week ago, I was at the cinema.",
+      "russian": "Неделю назад я был в кино.",
+      "farsi": "یک هفته پیش به سینما رفتم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vor dem Regen sind wir nach Hause gegangen.",
+      "english": "Before the rain, we went home.",
+      "russian": "Перед дождем мы пошли домой.",
+      "farsi": "قبل از باران به خانه رفتیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vor dem Meeting bereite ich alles vor.",
+      "english": "Before the meeting, I prepare everything.",
+      "russian": "Перед встречей я всё готовлю.",
+      "farsi": "قبل از جلسه همه چیز را آماده می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vor dem Urlaub muss ich noch packen.",
+      "english": "Before the vacation, I still have to pack.",
+      "russian": "Перед отпуском мне нужно собрать вещи.",
+      "farsi": "قبل از تعطیلات باید چمدانم را ببندم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vor dem Abendessen spiele ich mit den Kindern.",
+      "english": "Before dinner, I play with the children.",
+      "russian": "Перед ужином я играю с детьми.",
+      "farsi": "قبل از شام با بچه‌ها بازی می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vor dem Konzert haben wir uns getroffen.",
+      "english": "Before the concert, we met.",
+      "russian": "Перед концертом мы встретились.",
+      "farsi": "قبل از کنسرت همدیگر را ملاقات کردیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vor dem Wochenende mache ich immer sauber.",
+      "english": "Before the weekend, I always clean.",
+      "russian": "Перед выходными я всегда убираю.",
+      "farsi": "قبل از آخر هفته همیشه تمیز می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vor dem Winter kaufe ich neue Kleidung.",
+      "english": "Before winter, I buy new clothes.",
+      "russian": "Перед зимой я покупаю новую одежду.",
+      "farsi": "قبل از زمستان لباس‌های جدید می‌خرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vor dem Geburtstag backe ich einen Kuchen.",
+      "english": "Before the birthday, I bake a cake.",
+      "russian": "Перед днем рождения я пеку торт.",
+      "farsi": "قبل از تولد کیک می‌پزم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vor dem Sonnenuntergang gehen wir spazieren.",
+      "english": "Before sunset, we go for a walk.",
+      "russian": "Перед закатом мы гуляем.",
+      "farsi": "قبل از غروب آفتاب پیاده‌روی می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nach dem Essen gehen wir spazieren.",
+      "english": "After eating, we go for a walk.",
+      "russian": "После еды мы идем гулять.",
+      "farsi": "بعد از غذا پیاده‌روی می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nach der Schule treffe ich meine Freunde.",
+      "english": "After school, I meet my friends.",
+      "russian": "После школы я встречаюсь с друзьями.",
+      "farsi": "بعد از مدرسه دوستانم را ملاقات می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nach dem Unterricht lerne ich Deutsch.",
+      "english": "After class, I study German.",
+      "russian": "После урока я учу немецкий.",
+      "farsi": "بعد از کلاس آلمانی یاد می‌گیرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nach dem Meeting haben wir Zeit für Kaffee.",
+      "english": "After the meeting, we have time for coffee.",
+      "russian": "После встречи у нас есть время на кофе.",
+      "farsi": "بعد از جلسه وقت برای قهوه داریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nach dem Film gehen wir ins Restaurant.",
+      "english": "After the movie, we go to the restaurant.",
+      "russian": "После фильма мы идем в ресторан.",
+      "farsi": "بعد از فیلم به رستوران می‌رویم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nach der Arbeit ruhe ich mich aus.",
+      "english": "After work, I rest.",
+      "russian": "После работы я отдыхаю.",
       "farsi": "بعد از کار استراحت می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nach dem Wochenende beginnt der Alltag wieder.",
+      "english": "After the weekend, the routine starts again.",
+      "russian": "После выходных снова начинаются будни.",
+      "farsi": "بعد از آخر هفته روال عادی دوباره شروع می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nach dem Regen scheint die Sonne.",
+      "english": "After the rain, the sun shines.",
+      "russian": "После дождя светит солнце.",
+      "farsi": "بعد از باران خورشید می‌درخشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nach dem Urlaub fühle ich mich erholt.",
+      "english": "After the vacation, I feel refreshed.",
+      "russian": "После отпуска я чувствую себя отдохнувшим.",
+      "farsi": "بعد از تعطیلات احساس سرزندگی می‌کنم."
     },
     {
       "isSelected": false,
@@ -552,442 +1048,162 @@
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Nach dem Unterricht gehe ich nach Hause.",
-      "english": "After class, I go home.",
-      "russian": "После занятий я иду домой.",
-      "farsi": "بعد از کلاس به خانه می‌روم."
+      "sentence": "Nach dem Konzert gehen wir nach Hause.",
+      "english": "After the concert, we go home.",
+      "russian": "После концерта мы идем домой.",
+      "farsi": "بعد از کنسرت به خانه می‌رویم."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Nach dem Konzert gehen wir tanzen.",
-      "english": "After the concert, we go dancing.",
-      "russian": "После концерта мы идем танцевать.",
-      "farsi": "بعد از کنسرت به رقص می‌رویم."
+      "sentence": "Nach dem Abendessen lese ich ein Buch.",
+      "english": "After dinner, I read a book.",
+      "russian": "После ужина я читаю книгу.",
+      "farsi": "بعد از شام کتاب می‌خوانم."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Nach der Besprechung schreibe ich ein Protokoll.",
-      "english": "After the meeting, I write a report.",
-      "russian": "После встречи я пишу отчет.",
-      "farsi": "بعد از جلسه یک گزارش می‌نویسم."
+      "sentence": "Nach der Pause geht der Unterricht weiter.",
+      "english": "After the break, the class continues.",
+      "russian": "После перерыва урок продолжается.",
+      "farsi": "بعد از زنگ تفریح کلاس ادامه می‌یابد."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Nach dem Film sprechen wir darüber.",
-      "english": "After the movie, we talk about it.",
-      "russian": "После фильма мы говорим об этом.",
-      "farsi": "بعد از فیلم در مورد آن صحبت می‌کنیم."
+      "sentence": "Nach dem Schlafen bin ich frisch.",
+      "english": "After sleeping, I feel refreshed.",
+      "russian": "После сна я чувствую себя свежим.",
+      "farsi": "بعد از خواب احساس سرزندگی می‌کنم."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "In einer Stunde beginnt das Meeting.",
-      "english": "The meeting starts in an hour.",
-      "russian": "Встреча начнется через час.",
-      "farsi": "جلسه در یک ساعت دیگر شروع می‌شود."
+      "sentence": "Nach dem Frühstück putze ich meine Zähne.",
+      "english": "After breakfast, I brush my teeth.",
+      "russian": "После завтрака я чищу зубы.",
+      "farsi": "بعد از صبحانه دندان‌هایم را مسواک می‌زنم."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "In zwei Tagen fahre ich in den Urlaub.",
-      "english": "In two days, I am going on vacation.",
-      "russian": "Через два дня я поеду в отпуск.",
-      "farsi": "در دو روز دیگر به تعطیلات می‌روم."
+      "sentence": "Seit einem Jahr lerne ich Deutsch.",
+      "english": "I have been learning German for a year.",
+      "russian": "Я учу немецкий уже год.",
+      "farsi": "یک سال است که آلمانی یاد می‌گیرم."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "In einer Woche haben wir Prüfungen.",
-      "english": "In a week, we have exams.",
-      "russian": "Через неделю у нас экзамены.",
-      "farsi": "در یک هفته دیگر امتحان داریم."
+      "sentence": "Seit gestern regnet es.",
+      "english": "It has been raining since yesterday.",
+      "russian": "С вчерашнего дня идет дождь.",
+      "farsi": "از دیروز باران می‌بارد."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "In einem Monat feiern wir Weihnachten.",
-      "english": "In a month, we will celebrate Christmas.",
-      "russian": "Через месяц мы будем отмечать Рождество.",
-      "farsi": "در یک ماه دیگر کریسمس را جشن می‌گیریم."
+      "sentence": "Seit einer Woche ist er krank.",
+      "english": "He has been sick for a week.",
+      "russian": "Он болеет уже неделю.",
+      "farsi": "یک هفته است که او مریض است."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "In fünf Minuten bin ich bereit.",
-      "english": "I will be ready in five minutes.",
-      "russian": "Я буду готов через пять минут.",
-      "farsi": "در پنج دقیقه دیگر آماده خواهم بود."
+      "sentence": "Seit drei Tagen habe ich ihn nicht gesehen.",
+      "english": "I haven't seen him for three days.",
+      "russian": "Я не видел его уже три дня.",
+      "farsi": "سه روز است که او را ندیده‌ام."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "In einem Jahr ziehe ich um.",
-      "english": "In a year, I am moving.",
-      "russian": "Через год я перееду.",
-      "farsi": "در یک سال دیگر نقل مکان می‌کنم."
+      "sentence": "Seit meiner Kindheit spiele ich Fußball.",
+      "english": "I have been playing football since my childhood.",
+      "russian": "Я играю в футбол с детства.",
+      "farsi": "از کودکی فوتبال بازی می‌کنم."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "In der Nacht träume ich viel.",
-      "english": "At night, I dream a lot.",
-      "russian": "Ночью я много сню.",
-      "farsi": "در شب زیاد خواب می‌بینم."
+      "sentence": "Seit letztem Montag arbeite ich hier.",
+      "english": "I have been working here since last Monday.",
+      "russian": "Я работаю здесь с прошлого понедельника.",
+      "farsi": "از دوشنبه‌ی گذشته اینجا کار می‌کنم."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "In drei Stunden kommt der Zug an.",
-      "english": "In three hours, the train arrives.",
-      "russian": "Через три часа поезд прибудет.",
-      "farsi": "در سه ساعت دیگر قطار می‌رسد."
+      "sentence": "Seit fünf Minuten warte ich auf dich.",
+      "english": "I have been waiting for you for five minutes.",
+      "russian": "Я жду тебя уже пять минут.",
+      "farsi": "پنج دقیقه است که منتظر تو هستم."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "In zehn Jahren hoffe ich, ein Haus zu besitzen.",
-      "english": "In ten years, I hope to own a house.",
-      "russian": "Через десять лет я надеюсь владеть домом.",
-      "farsi": "در ده سال دیگر امیدوارم یک خانه داشته باشم."
+      "sentence": "Seit dem Unfall kann er nicht mehr laufen.",
+      "english": "Since the accident, he can no longer walk.",
+      "russian": "После аварии он больше не может ходить.",
+      "farsi": "از زمان تصادف دیگر نمی‌تواند راه برود."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "In einer halben Stunde beginnt die Show.",
-      "english": "The show starts in half an hour.",
-      "russian": "Шоу начнется через полчаса.",
-      "farsi": "نمایش در نیم ساعت دیگر شروع می‌شود."
+      "sentence": "Seit zwei Stunden schläft das Baby.",
+      "english": "The baby has been sleeping for two hours.",
+      "russian": "Ребенок спит уже два часа.",
+      "farsi": "دو ساعت است که بچه خوابیده است."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Ich habe für eine Woche Urlaub genommen.",
-      "english": "I have taken a week off.",
-      "russian": "Я взял неделю отпуска.",
-      "farsi": "من یک هفته مرخصی گرفته‌ام."
+      "sentence": "Seit ihrer Hochzeit sind sie glücklich.",
+      "english": "They have been happy since their wedding.",
+      "russian": "Они счастливы с момента свадьбы.",
+      "farsi": "از زمان عروسی‌شان خوشحال هستند."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Der Kuchen muss für eine Stunde im Ofen bleiben.",
-      "english": "The cake has to stay in the oven for an hour.",
-      "russian": "Пирог должен оставаться в духовке на час.",
-      "farsi": "کیک باید برای یک ساعت در فر بماند."
+      "sentence": "Seit dem Winter trägt sie einen Schal.",
+      "english": "She has been wearing a scarf since winter.",
+      "russian": "С зимы она носит шарф.",
+      "farsi": "از زمستان شال می‌پوشد."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Ich bleibe für ein Jahr im Ausland.",
-      "english": "I am staying abroad for a year.",
-      "russian": "Я остаюсь за границей на год.",
-      "farsi": "من برای یک سال در خارج از کشور می‌مانم."
+      "sentence": "Seit einer Stunde klingelt das Telefon.",
+      "english": "The phone has been ringing for an hour.",
+      "russian": "Телефон звонит уже час.",
+      "farsi": "یک ساعت است که تلفن زنگ می‌زند."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Für zwei Tage sind wir in Berlin.",
-      "english": "We are in Berlin for two days.",
-      "russian": "Мы находимся в Берлине на два дня.",
-      "farsi": "ما برای دو روز در برلین هستیم."
+      "sentence": "Seit dem Anfang des Jahres spare ich Geld.",
+      "english": "I have been saving money since the beginning of the year.",
+      "russian": "Я коплю деньги с начала года.",
+      "farsi": "از ابتدای سال پول پس‌انداز می‌کنم."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Sie arbeitet für drei Monate in dieser Firma.",
-      "english": "She works at this company for three months.",
-      "russian": "Она работает в этой компании три месяца.",
-      "farsi": "او برای سه ماه در این شرکت کار می‌کند."
+      "sentence": "Seit vielen Jahren wohnen sie in Berlin.",
+      "english": "They have been living in Berlin for many years.",
+      "russian": "Они живут в Берлине много лет.",
+      "farsi": "سال‌هاست که در برلین زندگی می‌کنند."
     },
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Für eine Woche besuche ich meine Familie.",
-      "english": "I am visiting my family for a week.",
-      "russian": "Я посещаю свою семью на неделю.",
-      "farsi": "من برای یک هفته به خانواده‌ام سر می‌زنم."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Für eine Stunde habe ich keinen Empfang.",
-      "english": "I have no reception for an hour.",
-      "russian": "У меня нет связи на час.",
-      "farsi": "من برای یک ساعت هیچ ارتباطی ندارم."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Wir bleiben für die ganze Nacht wach.",
-      "english": "We stay awake for the whole night.",
-      "russian": "Мы не спим всю ночь.",
-      "farsi": "ما برای تمام شب بیدار می‌مانیم."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Er ist für eine Woche krankgeschrieben.",
-      "english": "He is on sick leave for a week.",
-      "russian": "Он на больничном на неделю.",
-      "farsi": "او برای یک هفته مرخصی پزشکی دارد."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Für fünf Minuten gehe ich nach draußen.",
-      "english": "I am going outside for five minutes.",
-      "russian": "Я иду на улицу на пять минут.",
-      "farsi": "من برای پنج دقیقه به بیرون می‌روم."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Seit zwei Jahren lerne ich Deutsch.",
-      "english": "I have been learning German for two years.",
-      "russian": "Я учу немецкий язык уже два года.",
-      "farsi": "من دو سال است که آلمانی یاد می‌گیرم."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Seit dem Unfall hat er Schmerzen.",
-      "english": "He has been in pain since the accident.",
-      "russian": "С тех пор как произошел несчастный случай, у него боли.",
-      "farsi": "از زمان تصادف او درد دارد."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Seit einem Monat arbeite ich in dieser Firma.",
-      "english": "I have been working at this company for a month.",
-      "russian": "Я работаю в этой компании уже месяц.",
-      "farsi": "من یک ماه است که در این شرکت کار می‌کنم."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Seit meiner Kindheit spiele ich Klavier.",
-      "english": "I have been playing the piano since my childhood.",
-      "russian": "Я играю на пианино с детства.",
-      "farsi": "من از دوران کودکی پیانو می‌زنم."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Seit einer Woche bin ich krank.",
-      "english": "I have been sick for a week.",
-      "russian": "Я болею уже неделю.",
-      "farsi": "من یک هفته است که بیمار هستم."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Seit letztem Jahr studiert sie Medizin.",
-      "english": "She has been studying medicine since last year.",
-      "russian": "Она учится на медицинском факультете с прошлого года.",
-      "farsi": "او از سال گذشته پزشکی می‌خواند."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Seit dem ersten Januar habe ich nicht geraucht.",
-      "english": "I have not smoked since January first.",
-      "russian": "Я не курю с первого января.",
-      "farsi": "من از اول ژانویه سیگار نکشیده‌ام."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Seit dem Morgen regnet es.",
-      "english": "It has been raining since the morning.",
-      "russian": "С утра идет дождь.",
-      "farsi": "از صبح باران می‌بارد."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Seit Beginn des Jahres hat er viel gearbeitet.",
-      "english": "He has worked a lot since the beginning of the year.",
-      "russian": "С начала года он много работал.",
-      "farsi": "از ابتدای سال خیلی کار کرده است."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Zwischen 9 und 10 Uhr habe ich Zeit.",
-      "english": "I am free between 9 and 10 o'clock.",
-      "russian": "Я свободен между 9 и 10 часами.",
-      "farsi": "من بین ساعت 9 و 10 وقت دارم."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Zwischen Montag und Mittwoch habe ich Urlaub.",
-      "english": "I am on vacation between Monday and Wednesday.",
-      "russian": "У меня отпуск с понедельника по среду.",
-      "farsi": "من بین دوشنبه و چهارشنبه تعطیلات دارم."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Zwischen den Terminen habe ich eine Pause.",
-      "english": "I have a break between appointments.",
-      "russian": "У меня перерыв между встречами.",
-      "farsi": "بین قرارها یک استراحت دارم."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Zwischen den Feiertagen arbeiten wir nicht.",
-      "english": "We do not work between the holidays.",
-      "russian": "Мы не работаем между праздниками.",
-      "farsi": "ما بین تعطیلات کار نمی‌کنیم."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Zwischen den Pausen lese ich ein Buch.",
-      "english": "I read a book between breaks.",
-      "russian": "Я читаю книгу между перерывами.",
-      "farsi": "بین استراحت‌ها کتاب می‌خوانم."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Zwischen zwei und vier Uhr sind die Geschäfte geschlossen.",
-      "english": "The shops are closed between two and four o'clock.",
-      "russian": "Магазины закрыты между двумя и четырьмя часами.",
-      "farsi": "مغازه‌ها بین ساعت دو تا چهار بسته هستند."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Zwischen Mai und Juli wächst der Garten am besten.",
-      "english": "The garden grows best between May and July.",
-      "russian": "Сад растет лучше всего между маем и июлем.",
-      "farsi": "باغ بین ماه می و جولای بهترین رشد را دارد."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Über das Wochenende fahre ich in die Berge.",
-      "english": "I am going to the mountains over the weekend.",
-      "russian": "На выходные я еду в горы.",
-      "farsi": "آخر هفته به کوه‌ها می‌روم."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Über den Sommer bleibe ich hier.",
-      "english": "I am staying here over the summer.",
-      "russian": "Я остаюсь здесь на все лето.",
-      "farsi": "در طول تابستان اینجا می‌مانم."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Über die Feiertage besuchen wir unsere Familie.",
-      "english": "We visit our family over the holidays.",
-      "russian": "Мы навещаем нашу семью на праздники.",
-      "farsi": "در طول تعطیلات به دیدن خانواده‌مان می‌رویم."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Über die Jahre habe ich viel gelernt.",
-      "english": "I have learned a lot over the years.",
-      "russian": "За эти годы я много узнал.",
-      "farsi": "در طول سال‌ها چیزهای زیادی یاد گرفته‌ام."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Über die Wintermonate ist es ruhig hier.",
-      "english": "It is quiet here over the winter months.",
-      "russian": "Зимой здесь тихо.",
-      "farsi": "در طول ماه‌های زمستان اینجا آرام است."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Über die Ferien bleibe ich bei meinen Großeltern.",
-      "english": "I am staying with my grandparents over the holidays.",
-      "russian": "На каникулах я останусь у бабушки и дедушки.",
-      "farsi": "در طول تعطیلات با پدربزرگ و مادربزرگم می‌مانم."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Von morgen an werde ich mehr Sport treiben.",
-      "english": "From tomorrow on, I will exercise more.",
-      "russian": "С завтрашнего дня я буду больше заниматься спортом.",
-      "farsi": "از فردا بیشتر ورزش خواهم کرد."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Von heute an esse ich weniger Zucker.",
-      "english": "From today on, I will eat less sugar.",
-      "russian": "С сегодняшнего дня я буду есть меньше сахара.",
-      "farsi": "از امروز کمتر شکر خواهم خورد."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Von nächster Woche an arbeite ich weniger Stunden.",
-      "english": "From next week on, I will work fewer hours.",
-      "russian": "Со следующей недели я буду работать меньше часов.",
-      "farsi": "از هفته آینده کمتر کار خواهم کرد."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Von Montag an werde ich jeden Tag laufen.",
-      "english": "From Monday on, I will run every day.",
-      "russian": "С понедельника я буду бегать каждый день.",
-      "farsi": "از دوشنبه هر روز خواهم دوید."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Von nun an werde ich pünktlich sein.",
-      "english": "From now on, I will be punctual.",
-      "russian": "С этого момента я буду пунктуален.",
-      "farsi": "از این به بعد وقت‌شناس خواهم بود."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Von Anfang August an habe ich Urlaub.",
-      "english": "From the beginning of August on, I will be on vacation.",
-      "russian": "С начала августа я буду в отпуске.",
-      "farsi": "از ابتدای آگوست تعطیلات خواهم بود."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Von nächstem Jahr an gehe ich in die Universität.",
-      "english": "From next year on, I will attend university.",
-      "russian": "Со следующего года я буду учиться в университете.",
-      "farsi": "از سال آینده به دانشگاه خواهم رفت."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Von Herbst an wird es kälter.",
-      "english": "From autumn on, it will get colder.",
-      "russian": "С осени станет холоднее.",
-      "farsi": "از پاییز هوا سردتر خواهد شد."
-    },
-    {
-      "isSelected": false,
-      "type": "sentence",
-      "sentence": "Von heute Abend an werde ich weniger fernsehen.",
-      "english": "From tonight on, I will watch less TV.",
-      "russian": "С сегодняшнего вечера я буду меньше смотреть телевизор.",
-      "farsi": "از امشب کمتر تلویزیون خواهم دید."
+      "sentence": "Seit dem Unterricht bin ich müde.",
+      "english": "I have been tired since the class.",
+      "russian": "Я устал с момента урока.",
+      "farsi": "از زمان کلاس خسته‌ام."
     }
   ]
 }

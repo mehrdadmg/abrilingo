@@ -1,0 +1,1417 @@
+{
+  "info": {
+    "name": "Lokale_Präpositionen_Mit_Dat.",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ab hier darf man nicht parken.",
+      "english": "From here, parking is not allowed.",
+      "russian": "Отсюда парковка запрещена.",
+      "farsi": "از اینجا به بعد پارک کردن ممنوع است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ab dieser Stelle ist der Weg steil.",
+      "english": "From this point, the path is steep.",
+      "russian": "С этого места путь становится крутым.",
+      "farsi": "از این نقطه به بعد مسیر شیب دار می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ab Berlin fahren wir mit dem Zug.",
+      "english": "From Berlin onwards, we travel by train.",
+      "russian": "С Берлина мы едем на поезде.",
+      "farsi": "از برلین به بعد با قطار سفر می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ab dem Bahnhof ist es nicht weit zum Hotel.",
+      "english": "From the station, it is not far to the hotel.",
+      "russian": "От вокзала до отеля недалеко.",
+      "farsi": "از ایستگاه تا هتل زیاد دور نیست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ab dieser Kreuzung geht es nach rechts.",
+      "english": "From this intersection, you go to the right.",
+      "russian": "С этого перекрестка нужно повернуть направо.",
+      "farsi": "از این تقاطع به بعد به سمت راست می‌روید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ab dem See wird die Landschaft schöner.",
+      "english": "From the lake onwards, the landscape becomes more beautiful.",
+      "russian": "С озера пейзаж становится красивее.",
+      "farsi": "از دریاچه به بعد منظره زیباتر می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ab dem zweiten Stock gibt es keine Aufzüge mehr.",
+      "english": "From the second floor onwards, there are no more elevators.",
+      "russian": "Со второго этажа лифтов больше нет.",
+      "farsi": "از طبقه دوم به بعد آسانسور وجود ندارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ab diesem Haus beginnt die neue Straße.",
+      "english": "From this house onwards, the new road begins.",
+      "russian": "С этого дома начинается новая дорога.",
+      "farsi": "از این خانه به بعد جاده جدید شروع می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ab der Grenze gelten andere Gesetze.",
+      "english": "From the border onwards, different laws apply.",
+      "russian": "С границы действуют другие законы.",
+      "farsi": "از مرز به بعد قوانین دیگری اعمال می‌شوند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ab dem Park kann man den Turm sehen.",
+      "english": "From the park onwards, you can see the tower.",
+      "russian": "С парка видно башню.",
+      "farsi": "از پارک به بعد می‌توان برج را دید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ab diesem Dorf wird die Straße enger.",
+      "english": "From this village onwards, the road becomes narrower.",
+      "russian": "С этой деревни дорога становится уже.",
+      "farsi": "از این روستا به بعد جاده باریک‌تر می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ab dem Fluss ist das Gebiet unbewohnt.",
+      "english": "From the river onwards, the area is uninhabited.",
+      "russian": "С реки территория становится необитаемой.",
+      "farsi": "از رودخانه به بعد منطقه خالی از سکنه است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ab der Brücke beginnt der Wald.",
+      "english": "From the bridge onwards, the forest begins.",
+      "russian": "С моста начинается лес.",
+      "farsi": "از پل به بعد جنگل شروع می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ab diesem Schild darf man nicht überholen.",
+      "english": "From this sign onwards, overtaking is not allowed.",
+      "russian": "С этого знака обгон запрещен.",
+      "farsi": "از این تابلو به بعد سبقت گرفتن ممنوع است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ab dem Zentrum wird die Stadt ruhiger.",
+      "english": "From the city center onwards, the city becomes quieter.",
+      "russian": "С центра города становится тише.",
+      "farsi": "از مرکز شهر به بعد شهر آرام‌تر می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich fahre von Berlin bis München.",
+      "english": "I am traveling from Berlin to Munich.",
+      "russian": "Я еду из Берлина в Мюнхен.",
+      "farsi": "من از برلین تا مونیخ سفر می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Weg führt von der Schule bis zum Park.",
+      "english": "The path leads from the school to the park.",
+      "russian": "Дорога ведет от школы до парка.",
+      "farsi": "مسیر از مدرسه تا پارک ادامه دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir laufen von der Bushaltestelle bis zum Bahnhof.",
+      "english": "We are walking from the bus stop to the train station.",
+      "russian": "Мы идем от автобусной остановки до вокзала.",
+      "farsi": "ما از ایستگاه اتوبوس تا ایستگاه قطار پیاده می‌رویم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Straße geht von der Kirche bis zum Marktplatz.",
+      "english": "The road goes from the church to the market square.",
+      "russian": "Дорога идет от церкви до рыночной площади.",
+      "farsi": "جاده از کلیسا تا میدان بازار ادامه دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Zug fährt von Hamburg bis Köln.",
+      "english": "The train travels from Hamburg to Cologne.",
+      "russian": "Поезд едет из Гамбурга в Кёльн.",
+      "farsi": "قطار از هامبورگ تا کلن می‌رود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich fliege von Frankfurt bis Istanbul.",
+      "english": "I am flying from Frankfurt to Istanbul.",
+      "russian": "Я лечу из Франкфурта в Стамбул.",
+      "farsi": "من از فرانکفورت تا استانبول پرواز می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Wanderung geht von der Hütte bis zum Gipfel.",
+      "english": "The hike goes from the hut to the summit.",
+      "russian": "Поход идет от хижины до вершины.",
+      "farsi": "پیاده‌روی از کلبه تا قله ادامه دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Autobahn verläuft von Dresden bis Leipzig.",
+      "english": "The highway runs from Dresden to Leipzig.",
+      "russian": "Автострада идет из Дрездена в Лейпциг.",
+      "farsi": "اتوبان از درسدن تا لایپزیگ ادامه دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich fahre mit dem Fahrrad von meinem Haus bis zum See.",
+      "english": "I am cycling from my house to the lake.",
+      "russian": "Я еду на велосипеде от своего дома до озера.",
+      "farsi": "من از خانه‌ام تا دریاچه دوچرخه سواری می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Fluss fließt von den Bergen bis zum Meer.",
+      "english": "The river flows from the mountains to the sea.",
+      "russian": "Река течет от гор до моря.",
+      "farsi": "رودخانه از کوه‌ها تا دریا جریان دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Buslinie geht von der Innenstadt bis zum Flughafen.",
+      "english": "The bus line goes from the city center to the airport.",
+      "russian": "Автобусная линия идет из центра города до аэропорта.",
+      "farsi": "خط اتوبوس از مرکز شهر تا فرودگاه ادامه دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir segeln von der Küste bis zur Insel.",
+      "english": "We are sailing from the coast to the island.",
+      "russian": "Мы плывем от берега до острова.",
+      "farsi": "ما از ساحل تا جزیره قایق‌سواری می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Straße führt von der Brücke bis zum Wald.",
+      "english": "The road leads from the bridge to the forest.",
+      "russian": "Дорога ведет от моста до леса.",
+      "farsi": "جاده از پل تا جنگل ادامه دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich gehe von der Arbeit bis nach Hause zu Fuß.",
+      "english": "I am walking from work to home.",
+      "russian": "Я иду пешком с работы до дома.",
+      "farsi": "من از محل کار تا خانه پیاده می‌روم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Tour geht von der Altstadt bis zum Schloss.",
+      "english": "The tour goes from the old town to the castle.",
+      "russian": "Экскурсия идет от старого города до замка.",
+      "farsi": "تور از شهر قدیمی تا قلعه ادامه دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe alles dabei, außer meinen Schlüssel.",
+      "english": "I have everything with me, except for my key.",
+      "russian": "У меня всё с собой, кроме ключа.",
+      "farsi": "من همه چیز را همراه دارم، به جز کلیدم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Alle waren pünktlich, außer dem Lehrer.",
+      "english": "Everyone was on time, except for the teacher.",
+      "russian": "Все были вовремя, кроме учителя.",
+      "farsi": "همه سر وقت بودند، به جز معلم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie mag alle Früchte, außer Äpfel.",
+      "english": "She likes all fruits, except for apples.",
+      "russian": "Она любит все фрукты, кроме яблок.",
+      "farsi": "او همه میوه‌ها را دوست دارد، به جز سیب."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben alle Bücher gelesen, außer dem neuen Roman.",
+      "english": "We have read all the books, except for the new novel.",
+      "russian": "Мы прочитали все книги, кроме нового романа.",
+      "farsi": "ما همه کتاب‌ها را خوانده‌ایم، به جز رمان جدید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er kennt alle Wege, außer den zum Bahnhof.",
+      "english": "He knows all the routes, except for the one to the train station.",
+      "russian": "Он знает все пути, кроме дороги до вокзала.",
+      "farsi": "او همه مسیرها را می‌شناسد، به جز مسیر ایستگاه قطار."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Alle Gäste sind da, außer der Familie Müller.",
+      "english": "All the guests are here, except for the Müller family.",
+      "russian": "Все гости здесь, кроме семьи Мюллер.",
+      "farsi": "همه مهمان‌ها اینجا هستند، به جز خانواده مولر."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe alle Zutaten, außer dem Salz.",
+      "english": "I have all the ingredients, except for the salt.",
+      "russian": "У меня есть все ингредиенты, кроме соли.",
+      "farsi": "من همه مواد را دارم، به جز نمک."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Alle Kinder spielen draußen, außer dem kleinen Max.",
+      "english": "All the children are playing outside, except for little Max.",
+      "russian": "Все дети играют на улице, кроме маленького Макса.",
+      "farsi": "همه بچه‌ها بیرون بازی می‌کنند، به جز مکس کوچولو."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat alle Farben gemocht, außer dem Blau.",
+      "english": "She liked all the colors, except for blue.",
+      "russian": "Ей нравились все цвета, кроме синего.",
+      "farsi": "او همه رنگ‌ها را دوست داشت، به جز آبی."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben alle Filme gesehen, außer dem Horrorfilm.",
+      "english": "We have seen all the movies, except for the horror movie.",
+      "russian": "Мы посмотрели все фильмы, кроме фильма ужасов.",
+      "farsi": "ما همه فیلم‌ها را دیده‌ایم، به جز فیلم ترسناک."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Alle Schüler haben die Hausaufgaben gemacht, außer dem neuen Schüler.",
+      "english": "All the students did their homework, except for the new student.",
+      "russian": "Все ученики сделали домашнее задание, кроме нового ученика.",
+      "farsi": "همه دانش‌آموزان تکالیفشان را انجام دادند، به جز دانش‌آموز جدید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe alle Geschenke, außer dem für meine Schwester.",
+      "english": "I have all the gifts, except for the one for my sister.",
+      "russian": "У меня есть все подарки, кроме подарка для моей сестры.",
+      "farsi": "من همه هدیه‌ها را دارم، به جز هدیه خواهرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Alle Läden sind geöffnet, außer dem Bäcker.",
+      "english": "All the shops are open, except for the bakery.",
+      "russian": "Все магазины открыты, кроме пекарни.",
+      "farsi": "همه مغازه‌ها باز هستند، به جز نانوایی."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat alle Sprachen gelernt, außer dem Chinesischen.",
+      "english": "She has learned all the languages, except for Chinese.",
+      "russian": "Она выучила все языки, кроме китайского.",
+      "farsi": "او همه زبان‌ها را یاد گرفته است، به جز چینی."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben alle Städte besucht, außer der Hauptstadt.",
+      "english": "We have visited all the cities, except for the capital.",
+      "russian": "Мы посетили все города, кроме столицы.",
+      "farsi": "ما همه شهرها را دیده‌ایم، به جز پایتخت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich gehe zu meiner Freundin.",
+      "english": "I am going to my girlfriend's place.",
+      "russian": "Я иду к своей подруге.",
+      "farsi": "من به خانه دوست دخترم می‌روم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir fahren zu den Großeltern.",
+      "english": "We are driving to our grandparents' place.",
+      "russian": "Мы едем к бабушке и дедушке.",
+      "farsi": "ما به خانه پدربزرگ و مادربزرگ می‌رویم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er läuft schnell zum Supermarkt.",
+      "english": "He is walking quickly to the supermarket.",
+      "russian": "Он быстро идет в супермаркет.",
+      "farsi": "او سریع به سوپرمارکت می‌رود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie bringt das Buch zur Bibliothek.",
+      "english": "She is taking the book to the library.",
+      "russian": "Она несет книгу в библиотеку.",
+      "farsi": "او کتاب را به کتابخانه می‌برد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kommst du morgen zu mir?",
+      "english": "Are you coming to my place tomorrow?",
+      "russian": "Ты завтра придешь ко мне?",
+      "farsi": "فردا به خانه من می‌آیی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Kinder gehen zu ihrem Lehrer.",
+      "english": "The children are going to their teacher.",
+      "russian": "Дети идут к своему учителю.",
+      "farsi": "بچه‌ها به سراغ معلمشان می‌روند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich schenke Blumen zu meiner Mutter.",
+      "english": "I am giving flowers to my mother.",
+      "russian": "Я дарю цветы своей маме.",
+      "farsi": "من به مادرم گل هدیه می‌دهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir müssen zu diesem Meeting gehen.",
+      "english": "We have to go to this meeting.",
+      "russian": "Мы должны пойти на эту встречу.",
+      "farsi": "ما باید به این جلسه برویم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er zeigt den Weg zum Bahnhof.",
+      "english": "He is showing the way to the train station.",
+      "russian": "Он показывает дорогу до вокзала.",
+      "farsi": "او مسیر ایستگاه قطار را نشان می‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat eine Frage zur Professorin.",
+      "english": "She has a question for the professor.",
+      "russian": "У нее есть вопрос к профессору.",
+      "farsi": "او سوالی برای پروفسور دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin gern zu Hause.",
+      "english": "I like being at home.",
+      "russian": "Мне нравится быть дома.",
+      "farsi": "من دوست دارم در خانه باشم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir gehen zu einem Konzert.",
+      "english": "We are going to a concert.",
+      "russian": "Мы идем на концерт.",
+      "farsi": "ما به کنسرت می‌رویم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er fährt mit dem Fahrrad zur Arbeit.",
+      "english": "He is cycling to work.",
+      "russian": "Он едет на работу на велосипеде.",
+      "farsi": "او با دوچرخه به سر کار می‌رود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie lädt uns zu ihrer Party ein.",
+      "english": "She is inviting us to her party.",
+      "russian": "Она приглашает нас на свою вечеринку.",
+      "farsi": "او ما را به مهمانی‌اش دعوت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin immer nett zu meinen Kollegen.",
+      "english": "I am always nice to my colleagues.",
+      "russian": "Я всегда добр к своим коллегам.",
+      "farsi": "من همیشه به همکارانم مهربان هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich fahre nach Berlin.",
+      "english": "I am traveling to Berlin.",
+      "russian": "Я еду в Берлин.",
+      "farsi": "من به برلین سفر می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir fliegen nach Spanien.",
+      "english": "We are flying to Spain.",
+      "russian": "Мы летим в Испанию.",
+      "farsi": "ما به اسپانیا پرواز می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er geht nach Hause.",
+      "english": "He is going home.",
+      "russian": "Он идет домой.",
+      "farsi": "او به خانه می‌رود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie reist nach Italien.",
+      "english": "She is traveling to Italy.",
+      "russian": "Она едет в Италию.",
+      "farsi": "او به ایتالیا سفر می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kommst du nach der Party mit?",
+      "english": "Are you coming along after the party?",
+      "russian": "Ты пойдешь с нами после вечеринки?",
+      "farsi": "بعد از مهمانی با ما می‌آیی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Zug fährt nach München.",
+      "english": "The train is going to Munich.",
+      "russian": "Поезд едет в Мюнхен.",
+      "farsi": "قطار به مونیخ می‌رود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir gehen nach dem Park.",
+      "english": "We are going to the park.",
+      "russian": "Мы идем в парк.",
+      "farsi": "ما به پارک می‌رویم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie läuft nach rechts.",
+      "english": "She is walking to the right.",
+      "russian": "Она идет направо.",
+      "farsi": "او به سمت راست می‌رود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Bus fährt nach Frankfurt.",
+      "english": "The bus is going to Frankfurt.",
+      "russian": "Автобус едет во Франкфурт.",
+      "farsi": "اتوبوس به فرانکفورت می‌رود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich schicke das Paket nach Österreich.",
+      "english": "I am sending the package to Austria.",
+      "russian": "Я отправляю посылку в Австрию.",
+      "farsi": "من بسته را به اتریش می‌فرستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er fährt nach dem Bahnhof.",
+      "english": "He is going to the train station.",
+      "russian": "Он едет на вокзал.",
+      "farsi": "او به ایستگاه قطار می‌رود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir gehen nach dem Supermarkt.",
+      "english": "We are going to the supermarket.",
+      "russian": "Мы идем в супермаркет.",
+      "farsi": "ما به سوپرمارکت می‌رویم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie fliegt nach Amerika.",
+      "english": "She is flying to America.",
+      "russian": "Она летит в Америку.",
+      "farsi": "او به آمریکا پرواز می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Weg führt nach links.",
+      "english": "The path leads to the left.",
+      "russian": "Дорога ведет налево.",
+      "farsi": "مسیر به سمت چپ می‌رود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich gehe nach der Apotheke.",
+      "english": "I am going to the pharmacy.",
+      "russian": "Я иду в аптеку.",
+      "farsi": "من به داروخانه می‌روم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin bei meinem Freund.",
+      "english": "I am at my friend's place.",
+      "russian": "Я у своего друга.",
+      "farsi": "من پیش دوستم هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Buch liegt bei der Lampe.",
+      "english": "The book is by the lamp.",
+      "russian": "Книга лежит у лампы.",
+      "farsi": "کتاب کنار چراغ است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir treffen uns bei der Bushaltestelle.",
+      "english": "We are meeting at the bus stop.",
+      "russian": "Мы встречаемся у автобусной остановки.",
+      "farsi": "ما در ایستگاه اتوبوس همدیگر را ملاقات می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie arbeitet bei einer großen Firma.",
+      "english": "She works at a big company.",
+      "russian": "Она работает в большой компании.",
+      "farsi": "او در یک شرکت بزرگ کار می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er wohnt bei seinen Eltern.",
+      "english": "He lives with his parents.",
+      "russian": "Он живет у своих родителей.",
+      "farsi": "او پیش والدینش زندگی می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Kinder spielen bei der Schule.",
+      "english": "The children are playing near the school.",
+      "russian": "Дети играют у школы.",
+      "farsi": "بچه‌ها نزدیک مدرسه بازی می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Schlüssel ist bei der Tür.",
+      "english": "The key is by the door.",
+      "russian": "Ключ у двери.",
+      "farsi": "کلید کنار در است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich war gestern bei meinem Arzt.",
+      "english": "I was at my doctor's yesterday.",
+      "russian": "Вчера я был у своего врача.",
+      "farsi": "دیروز پیش دکترم بودم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Konzert findet bei der Kirche statt.",
+      "english": "The concert is taking place near the church.",
+      "russian": "Концерт проходит у церкви.",
+      "farsi": "کنسرت نزدیک کلیسا برگزار می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat ihren Regenschirm bei der Garderobe vergessen.",
+      "english": "She forgot her umbrella at the cloakroom.",
+      "russian": "Она забыла свой зонт в гардеробе.",
+      "farsi": "او چترش را در رختکن فراموش کرده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir essen heute bei meiner Schwester.",
+      "english": "We are eating at my sister's place today.",
+      "russian": "Сегодня мы едим у моей сестры.",
+      "farsi": "امروز پیش خواهرم غذا می‌خوریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Hund schläft bei seinem Herrchen.",
+      "english": "The dog is sleeping by its owner.",
+      "russian": "Собака спит у своего хозяина.",
+      "farsi": "سگ کنار صاحبش خوابیده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Tasche steht bei dem Tisch.",
+      "english": "The bag is by the table.",
+      "russian": "Сумка стоит у стола.",
+      "farsi": "کیف کنار میز است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat bei seinem Kollegen angerufen.",
+      "english": "He called his colleague.",
+      "russian": "Он позвонил своему коллеге.",
+      "farsi": "او به همکارش زنگ زد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Blumen sind bei dem Fenster.",
+      "english": "The flowers are by the window.",
+      "russian": "Цветы у окна.",
+      "farsi": "گل‌ها کنار پنجره هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Buch liegt von dem Tisch.",
+      "english": "The book is lying off the table.",
+      "russian": "Книга лежит со стола.",
+      "farsi": "کتاب از روی میز افتاده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Ball rollt von der Treppe.",
+      "english": "The ball is rolling down the stairs.",
+      "russian": "Мяч катится с лестницы.",
+      "farsi": "توپ از پله‌ها می‌غلتد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Katze springt von dem Dach.",
+      "english": "The cat is jumping off the roof.",
+      "russian": "Кошка прыгает с крыши.",
+      "farsi": "گربه از پشت بام می‌پرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Kind läuft von der Schule nach Hause.",
+      "english": "The child is running home from school.",
+      "russian": "Ребенок бежит домой из школы.",
+      "farsi": "بچه از مدرسه به خانه می‌دود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Zug fährt von dem Bahnhof ab.",
+      "english": "The train is departing from the station.",
+      "russian": "Поезд отправляется со станции.",
+      "farsi": "قطار از ایستگاه حرکت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Blumen fallen von dem Balkon.",
+      "english": "The flowers are falling from the balcony.",
+      "russian": "Цветы падают с балкона.",
+      "farsi": "گل‌ها از بالکن می‌افتند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Mann kommt von der Arbeit.",
+      "english": "The man is coming from work.",
+      "russian": "Мужчина возвращается с работы.",
+      "farsi": "مرد از سر کار می‌آید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Vögel fliegen von dem Baum.",
+      "english": "The birds are flying from the tree.",
+      "russian": "Птицы улетают с дерева.",
+      "farsi": "پرندگان از درخت پرواز می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Auto parkt von der Straße weg.",
+      "english": "The car is parking away from the street.",
+      "russian": "Машина паркуется в стороне от улицы.",
+      "farsi": "ماشین از خیابان دور پارک می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Schüler gehen von der Klasse in die Pause.",
+      "english": "The students are going from class to break.",
+      "russian": "Ученики идут из класса на перемену.",
+      "farsi": "دانش‌آموزان از کلاس به زنگ تفریح می‌روند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Frau holt die Post von dem Briefkasten.",
+      "english": "The woman is getting the mail from the mailbox.",
+      "russian": "Женщина забирает почту из почтового ящика.",
+      "farsi": "زن نامه‌ها را از صندوق پستی برمی‌دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Junge wirft den Müll von dem Fenster.",
+      "english": "The boy is throwing the trash out of the window.",
+      "russian": "Мальчик выбрасывает мусор из окна.",
+      "farsi": "پسر زباله را از پنجره بیرون می‌اندازد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Äpfel fallen von dem Ast.",
+      "english": "The apples are falling from the branch.",
+      "russian": "Яблоки падают с ветки.",
+      "farsi": "سیب‌ها از شاخه می‌افتند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Bus fährt von der Haltestelle los.",
+      "english": "The bus is leaving from the bus stop.",
+      "russian": "Автобус отправляется от остановки.",
+      "farsi": "اتوبوس از ایستگاه حرکت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Kinder rennen von dem Spielplatz nach Hause.",
+      "english": "The children are running home from the playground.",
+      "russian": "Дети бегут домой с детской площадки.",
+      "farsi": "بچه‌ها از زمین بازی به خانه می‌دوند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Rauch steigt von dem Schornstein auf.",
+      "english": "The smoke is rising from the chimney.",
+      "russian": "Дым поднимается из трубы.",
+      "farsi": "دود از دودکش بلند می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Sonne scheint von dem Himmel.",
+      "english": "The sun is shining from the sky.",
+      "russian": "Солнце светит с неба.",
+      "farsi": "خورشید از آسمان می‌درخشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Schnee rutscht von dem Dach.",
+      "english": "The snow is sliding off the roof.",
+      "russian": "Снег сползает с крыши.",
+      "farsi": "برف از پشت بام می‌لغزد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Gäste kommen von der Party zurück.",
+      "english": "The guests are coming back from the party.",
+      "russian": "Гости возвращаются с вечеринки.",
+      "farsi": "مهمان‌ها از مهمانی برمی‌گردند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Wind weht von dem Meer.",
+      "english": "The wind is blowing from the sea.",
+      "russian": "Ветер дует с моря.",
+      "farsi": "باد از دریا می‌وزد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Lampe hängt von der Decke.",
+      "english": "The lamp is hanging from the ceiling.",
+      "russian": "Лампа висит с потолка.",
+      "farsi": "چراغ از سقف آویزان است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Brief fällt von dem Regal.",
+      "english": "The letter is falling from the shelf.",
+      "russian": "Письмо падает с полки.",
+      "farsi": "نامه از قفسه می‌افتد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Touristen starten ihre Reise von dem Hotel.",
+      "english": "The tourists are starting their journey from the hotel.",
+      "russian": "Туристы начинают свое путешествие из отеля.",
+      "farsi": "توریست‌ها سفرشان را از هتل شروع می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich komme aus der Küche.",
+      "english": "I am coming from the kitchen.",
+      "russian": "Я иду из кухни.",
+      "farsi": "من از آشپزخانه می‌آیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Buch fällt aus dem Regal.",
+      "english": "The book is falling from the shelf.",
+      "russian": "Книга падает с полки.",
+      "farsi": "کتاب از قفسه می‌افتد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie holt die Teller aus dem Schrank.",
+      "english": "She is taking the plates from the cupboard.",
+      "russian": "Она достает тарелки из шкафа.",
+      "farsi": "او ظرف‌ها را از کابینت برمی‌دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er springt aus dem Bett.",
+      "english": "He is jumping out of bed.",
+      "russian": "Он вскакивает с кровати.",
+      "farsi": "او از تخت بیرون می‌پرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir gehen aus dem Haus.",
+      "english": "We are leaving the house.",
+      "russian": "Мы выходим из дома.",
+      "farsi": "ما از خانه بیرون می‌رویم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Hund läuft aus dem Garten.",
+      "english": "The dog is running out of the garden.",
+      "russian": "Собака бежит из сада.",
+      "farsi": "سگ از باغ بیرون می‌دود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Kinder kommen aus der Schule.",
+      "english": "The children are coming from school.",
+      "russian": "Дети идут из школы.",
+      "farsi": "بچه‌ها از مدرسه می‌آیند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Zug fährt aus dem Bahnhof.",
+      "english": "The train is leaving the station.",
+      "russian": "Поезд отправляется со станции.",
+      "farsi": "قطار از ایستگاه خارج می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Ball rollt aus dem Zimmer.",
+      "english": "The ball is rolling out of the room.",
+      "russian": "Мяч выкатывается из комнаты.",
+      "farsi": "توپ از اتاق بیرون می‌غلتد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Frau tritt aus dem Laden.",
+      "english": "The woman is stepping out of the shop.",
+      "russian": "Женщина выходит из магазина.",
+      "farsi": "زن از مغازه بیرون می‌آید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Mann steigt aus dem Auto.",
+      "english": "The man is getting out of the car.",
+      "russian": "Мужчина выходит из машины.",
+      "farsi": "مرد از ماشین پیاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Schüler kommen aus der Klasse.",
+      "english": "The students are coming out of the classroom.",
+      "russian": "Ученики выходят из класса.",
+      "farsi": "دانش‌آموزان از کلاس بیرون می‌آیند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Milch wird aus dem Kühlschrank genommen.",
+      "english": "The milk is being taken from the fridge.",
+      "russian": "Молоко достают из холодильника.",
+      "farsi": "شیر از یخچال برداشته می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Frau kommt aus der Apotheke.",
+      "english": "The woman is coming from the pharmacy.",
+      "russian": "Женщина выходит из аптеки.",
+      "farsi": "زن از داروخانه می‌آید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Brief fällt aus dem Umschlag.",
+      "english": "The letter is falling out of the envelope.",
+      "russian": "Письмо выпадает из конверта.",
+      "farsi": "نامه از پاکت می‌افتد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Musik kommt aus dem Radio.",
+      "english": "The music is coming from the radio.",
+      "russian": "Музыка играет из радио.",
+      "farsi": "موسیقی از رادیو پخش می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Rauch steigt aus dem Schornstein.",
+      "english": "The smoke is rising from the chimney.",
+      "russian": "Дым поднимается из трубы.",
+      "farsi": "دود از دودکش بلند می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Suppe wird aus der Schüssel gegessen.",
+      "english": "The soup is being eaten from the bowl.",
+      "russian": "Суп едят из миски.",
+      "farsi": "سوپ از کاسه خورده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Flüssigkeit tropft aus der Flasche.",
+      "english": "The liquid is dripping from the bottle.",
+      "russian": "Жидкость капает из бутылки.",
+      "farsi": "مایع از بطری چکه می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich gehe mit meinem Freund ins Kino.",
+      "english": "I am going to the cinema with my friend.",
+      "russian": "Я иду в кино с другом.",
+      "farsi": "من با دوستم به سینما می‌روم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie spricht mit ihrer Mutter am Telefon.",
+      "english": "She is talking to her mother on the phone.",
+      "russian": "Она разговаривает с мамой по телефону.",
+      "farsi": "او با مادرش تلفنی صحبت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er fährt mit dem Bus zur Arbeit.",
+      "english": "He is going to work by bus.",
+      "russian": "Он едет на работу на автобусе.",
+      "farsi": "او با اتوبوس به سر کار می‌رود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ihr spielt mit den Kindern im Garten.",
+      "english": "You are playing with the children in the garden.",
+      "russian": "Вы играете с детьми в саду.",
+      "farsi": "شما با بچه‌ها در باغ بازی می‌کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie arbeitet mit ihrem Kollegen an dem Projekt.",
+      "english": "She is working on the project with her colleague.",
+      "russian": "Она работает над проектом с коллегой.",
+      "farsi": "او با همکارش روی پروژه کار می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er reist mit seiner Familie in den Urlaub.",
+      "english": "He is traveling on vacation with his family.",
+      "russian": "Он едет в отпуск с семьей.",
+      "farsi": "او با خانواده‌اش به تعطیلات می‌رود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir diskutieren mit dem Lehrer über das Thema.",
+      "english": "We are discussing the topic with the teacher.",
+      "russian": "Мы обсуждаем тему с учителем.",
+      "farsi": "ما با معلم درباره موضوع بحث می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich treffe mich mit meiner Freundin im Café.",
+      "english": "I am meeting my girlfriend at the café.",
+      "russian": "Я встречаюсь с подругой в кафе.",
+      "farsi": "من با دوست دخترم در کافه ملاقات می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir machen mit den Nachbarn ein Grillfest.",
+      "english": "We are having a barbecue with the neighbors.",
+      "russian": "Мы устраиваем барбекю с соседями.",
+      "farsi": "ما با همسایه‌ها یک جشن کباب برگزار می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ihr fahrt mit dem Fahrrad zur Schule.",
+      "english": "You are cycling to school.",
+      "russian": "Вы едете в школу на велосипеде.",
+      "farsi": "شما با دوچرخه به مدرسه می‌روید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin mit meinem Chef im Meeting.",
+      "english": "I am in a meeting with my boss.",
+      "russian": "Я на встрече с моим начальником.",
+      "farsi": "من با رئیسم در جلسه هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er teilt mit seinem Bruder das Zimmer.",
+      "english": "He shares the room with his brother.",
+      "russian": "Он делит комнату с братом.",
+      "farsi": "او اتاق را با برادرش تقسیم می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ihr sprecht mit dem Arzt über die Behandlung.",
+      "english": "You are talking to the doctor about the treatment.",
+      "russian": "Вы говорите с врачом о лечении.",
+      "farsi": "شما با دکتر درباره درمان صحبت می‌کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ihr arbeitet mit dem Team an der Präsentation.",
+      "english": "You are working with the team on the presentation.",
+      "russian": "Вы работаете с командой над презентацией.",
+      "farsi": "شما با تیم روی ارائه کار می‌کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Seit dem Haus kommt ein lautes Geräusch.",
+      "english": "A loud noise is coming from the house.",
+      "russian": "Из дома доносится громкий звук.",
+      "farsi": "از خانه صدای بلندی می‌آید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Seit dem Berg weht ein starker Wind.",
+      "english": "A strong wind is blowing from the mountain.",
+      "russian": "С горы дует сильный ветер.",
+      "farsi": "از کوه باد شدیدی می‌وزد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Seit dem Fluss riecht es nach Fisch.",
+      "english": "There is a smell of fish coming from the river.",
+      "russian": "От реки пахнет рыбой.",
+      "farsi": "از رودخانه بوی ماهی می‌آید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Seit der Straße hört man Musik.",
+      "english": "Music can be heard from the street.",
+      "russian": "С улицы доносится музыка.",
+      "farsi": "از خیابان موسیقی شنیده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Seit dem Park sieht man viele Vögel.",
+      "english": "Many birds can be seen from the park.",
+      "russian": "Из парка видно много птиц.",
+      "farsi": "از پارک پرندگان زیادی دیده می‌شوند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Seit dem Fenster kommt Licht herein.",
+      "english": "Light is coming in through the window.",
+      "russian": "Свет проникает через окно.",
+      "farsi": "از پنجره نور داخل می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Seit dem Meer hört man das Rauschen der Wellen.",
+      "english": "The sound of the waves can be heard from the sea.",
+      "russian": "С моря доносится шум волн.",
+      "farsi": "از دریا صدای موج‌ها شنیده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Seit dem Garten duftet es nach Blumen.",
+      "english": "There is a scent of flowers coming from the garden.",
+      "russian": "Из сада доносится аромат цветов.",
+      "farsi": "از باغ بوی گل می‌آید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Seit dem Dorf sieht man den Wald.",
+      "english": "The forest can be seen from the village.",
+      "russian": "Из деревни виден лес.",
+      "farsi": "از روستا جنگل دیده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Seit dem Hügel kann man die Stadt sehen.",
+      "english": "The city can be seen from the hill.",
+      "russian": "С холма виден город.",
+      "farsi": "از تپه می‌توان شهر را دید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Seit dem Bahnhof hört man Züge.",
+      "english": "Trains can be heard from the station.",
+      "russian": "С вокзала слышны поезда.",
+      "farsi": "از ایستگاه صدای قطارها شنیده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Seit dem Markt riecht es nach Obst.",
+      "english": "There is a smell of fruit coming from the market.",
+      "russian": "С рынка пахнет фруктами.",
+      "farsi": "از بازار بوی میوه می‌آید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Seit dem See weht eine kühle Brise.",
+      "english": "A cool breeze is blowing from the lake.",
+      "russian": "С озера дует прохладный ветерок.",
+      "farsi": "از دریاچه نسیم خنکی می‌وزد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Seit dem Gebäude kommt ein seltsamer Lärm.",
+      "english": "A strange noise is coming from the building.",
+      "russian": "Из здания доносится странный шум.",
+      "farsi": "از ساختمان صدای عجیبی می‌آید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Seit dem Horizont sieht man die Sonne aufgehen.",
+      "english": "The sun can be seen rising from the horizon.",
+      "russian": "С горизонта видно восход солнца.",
+      "farsi": "از افق می‌توان طلوع خورشید را دید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Café liegt gegenüber dem Park.",
+      "english": "The café is located opposite the park.",
+      "russian": "Кафе находится напротив парка.",
+      "farsi": "کافه روبروی پارک قرار دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich sitze im Zug gegenüber einer freundlichen Dame.",
+      "english": "I am sitting on the train opposite a friendly lady.",
+      "russian": "Я сижу в поезде напротив дружелюбной дамы.",
+      "farsi": "من در قطار روبروی یک خانم مهربان نشسته‌ام."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Unsere Wohnung befindet sich gegenüber dem Supermarkt.",
+      "english": "Our apartment is located opposite the supermarket.",
+      "russian": "Наша квартира находится напротив супермаркета.",
+      "farsi": "آپارتمان ما روبروی سوپرمارکت قرار دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Briefkasten steht direkt gegenüber der Kirche.",
+      "english": "The mailbox is directly opposite the church.",
+      "russian": "Почтовый ящик стоит прямо напротив церкви.",
+      "farsi": "صندوق پست دقیقا روبروی کلیسا قرار دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im Kino saßen wir gegenüber einem sehr lauten Paar.",
+      "english": "In the cinema, we sat opposite a very loud couple.",
+      "russian": "В кинотеатре мы сидели напротив очень шумной пары.",
+      "farsi": "در سینما ما روبروی یک زوج بسیار پر سر و صدا نشسته بودیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Museum liegt gegenüber dem Bahnhof.",
+      "english": "The museum is located opposite the train station.",
+      "russian": "Музей находится напротив вокзала.",
+      "farsi": "موزه روبروی ایستگاه قطار قرار دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat ihren Schreibtisch gegenüber dem Fenster gestellt.",
+      "english": "She placed her desk opposite the window.",
+      "russian": "Она поставила свой стол напротив окна.",
+      "farsi": "او میز خود را روبروی پنجره قرار داده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Spielplatz ist gegenüber der Schule.",
+      "english": "The playground is opposite the school.",
+      "russian": "Детская площадка находится напротив школы.",
+      "farsi": "زمین بازی روبروی مدرسه قرار دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im Restaurant saßen wir gegenüber einem bekannten Schauspieler.",
+      "english": "In the restaurant, we sat opposite a famous actor.",
+      "russian": "В ресторане мы сидели напротив известного актера.",
+      "farsi": "در رستوران ما روبروی یک بازیگر معروف نشسته بودیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Hotel liegt gegenüber einem schönen See.",
+      "english": "The hotel is located opposite a beautiful lake.",
+      "russian": "Отель находится напротив красивого озера.",
+      "farsi": "هتل روبروی یک دریاچه زیبا قرار دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er parkte sein Auto gegenüber dem Rathaus.",
+      "english": "He parked his car opposite the town hall.",
+      "russian": "Он припарковал свою машину напротив ратуши.",
+      "farsi": "او ماشین خود را روبروی شهرداری پارک کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Bushaltestelle ist gegenüber dem Krankenhaus.",
+      "english": "The bus stop is opposite the hospital.",
+      "russian": "Автобусная остановка находится напротив больницы.",
+      "farsi": "ایستگاه اتوبوس روبروی بیمارستان قرار دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im Flugzeug saß ich gegenüber einem älteren Herrn.",
+      "english": "On the plane, I sat opposite an elderly gentleman.",
+      "russian": "В самолете я сидел напротив пожилого мужчины.",
+      "farsi": "در هواپیما من روبروی یک آقای مسن نشسته بودم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das neue Geschäft eröffnet gegenüber dem alten Kino.",
+      "english": "The new shop is opening opposite the old cinema.",
+      "russian": "Новый магазин открывается напротив старого кинотеатра.",
+      "farsi": "فروشگاه جدید روبروی سینمای قدیمی افتتاح می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Apotheke befindet sich gegenüber der Bäckerei.",
+      "english": "The pharmacy is located opposite the bakery.",
+      "russian": "Аптека находится напротив пекарни.",
+      "farsi": "داروخانه روبروی نانوایی قرار دارد."
+    }
+  ]
+}
