@@ -143,6 +143,12 @@ const alllessons = [
         file_name: 'verben_mit_dativ.json',
         name: 'Verben_Mit_Dativ',
       },
+      {
+        id: '215',
+        level: 1,
+        file_name: 'verben_mit_präposition_fokus_b1.json',
+        name: 'Verben_Mit_Präposition_Fokus_B1',
+      },
     ],
   },
   {

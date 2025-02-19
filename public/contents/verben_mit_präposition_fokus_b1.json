@@ -1,0 +1,1625 @@
+{
+  "info": {
+    "name": "Verben_Mit_Präposition_Fokus_B1",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "ändern an",
+      "english": "to change something about",
+      "russian": "изменить что-то в",
+      "farsi": "چیزی را در ... تغییر دادن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "An dieser Situation kann man etwas ändern.",
+      "english": "Something can be changed about this situation.",
+      "russian": "В этой ситуации можно что-то изменить.",
+      "farsi": "در این وضعیت می‌توان چیزی را تغییر داد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "denken an",
+      "english": "to think of/about",
+      "russian": "думать о",
+      "farsi": "به ... فکر کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich denke oft an meine Zukunft.",
+      "english": "I often think about my future.",
+      "russian": "Я часто думаю о своем будущем.",
+      "farsi": "من اغلب به آینده‌ام فکر می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "sich erinnern an",
+      "english": "to remember",
+      "russian": "помнить",
+      "farsi": "به یاد آوردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Franziska kann sich nicht an den Vertrag erinnern.",
+      "english": "Franziska can't remember the contract.",
+      "russian": "Франциска не может вспомнить контракт.",
+      "farsi": "فرانزیسکا نمی‌تواند قرارداد را به یاد بیاورد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "sich gewöhnen an",
+      "english": "to get used to",
+      "russian": "привыкнуть к",
+      "farsi": "به ... عادت کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe mich an das Essen in der Kantine gewöhnt.",
+      "english": "I've gotten used to the food in the cafeteria.",
+      "russian": "Я привык к еде в столовой.",
+      "farsi": "من به غذای سلف سرویس عادت کرده‌ام."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "glauben an",
+      "english": "to believe in",
+      "russian": "верить в",
+      "farsi": "به ... باور داشتن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Chef glaubt an meine Fähigkeiten.",
+      "english": "The boss believes in my abilities.",
+      "russian": "Шеф верит в мои способности.",
+      "farsi": "رئیس به توانایی‌های من باور دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "es liegt an",
+      "english": "it's due to",
+      "russian": "это из-за",
+      "farsi": "این به خاطر ... است"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es liegt am Betriebsklima, dass ich gekündigt habe.",
+      "english": "It's due to the working environment that I quit.",
+      "russian": "Я уволился из-за рабочей атмосферы.",
+      "farsi": "این به خاطر فضای کاری بود که من استعفا دادم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "teilnehmen an",
+      "english": "to participate in",
+      "russian": "принимать участие в",
+      "farsi": "در ... شرکت کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich nehme an dem Projekt teil.",
+      "english": "I'm participating in the project.",
+      "russian": "Я участвую в проекте.",
+      "farsi": "من در پروژه شرکت می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "achten auf",
+      "english": "to pay attention to",
+      "russian": "обращать внимание на",
+      "farsi": "به ... توجه کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sebastian achtet sehr auf sein Aussehen.",
+      "english": "Sebastian pays close attention to his appearance.",
+      "russian": "Себастьян очень следит за своей внешностью.",
+      "farsi": "سباستین خیلی به ظاهرش توجه می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "ankommen auf",
+      "english": "to depend on",
+      "russian": "зависеть от",
+      "farsi": "بستگی به ... داشتن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das kommt darauf an.",
+      "english": "That depends.",
+      "russian": "Это зависит.",
+      "farsi": "این بستگی دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "antworten auf",
+      "english": "to answer",
+      "russian": "отвечать на",
+      "farsi": "به ... پاسخ دادن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Antworte bitte auf meine Frage.",
+      "english": "Please answer my question.",
+      "russian": "Пожалуйста, ответь на мой вопрос.",
+      "farsi": "لطفاً به سؤال من پاسخ دهید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "aufpassen auf",
+      "english": "to watch out for / to pay attention to",
+      "russian": "следить за",
+      "farsi": "مواظب ... بودن / به ... توجه کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Du musst besser auf deinen Kalender aufpassen.",
+      "english": "You need to pay better attention to your calendar.",
+      "russian": "Тебе нужно лучше следить за своим календарем.",
+      "farsi": "باید بیشتر به تقویم خودت توجه کنی."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "sich freuen auf",
+      "english": "to look forward to",
+      "russian": "ждать с нетерпением",
+      "farsi": "مشتاقانه منتظر ... بودن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir freuen uns auf die Ferien.",
+      "english": "We're looking forward to the holidays.",
+      "russian": "Мы с нетерпением ждем праздников.",
+      "farsi": "ما مشتاقانه منتظر تعطیلات هستیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "hoffen auf",
+      "english": "to hope for",
+      "russian": "надеяться на",
+      "farsi": "به ... امیدوار بودن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir hoffen auf einen schönen Sommer.",
+      "english": "We're hoping for a nice summer.",
+      "russian": "Мы надеемся на хорошее лето.",
+      "farsi": "ما به یک تابستان خوب امیدواریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "kommen auf",
+      "english": "to come up with",
+      "russian": "придумать",
+      "farsi": "به ذهن ... رسیدن / مطرح کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie bist du auf diesen Vorschlag gekommen?",
+      "english": "How did you come up with this suggestion?",
+      "russian": "Как ты пришел к этому предложению?",
+      "farsi": "چطور این پیشنهاد به ذهنت رسید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "sich konzentrieren auf",
+      "english": "to concentrate on",
+      "russian": "сосредоточиться на",
+      "farsi": "روی ... تمرکز کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich will mich ganz auf den Termin konzentrieren.",
+      "english": "I want to fully concentrate on the appointment.",
+      "russian": "Я хочу полностью сосредоточиться на встрече.",
+      "farsi": "می‌خواهم کاملا روی قرار ملاقات تمرکز کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "reagieren auf",
+      "english": "to react to",
+      "russian": "реагировать на",
+      "farsi": "به ... واکنش نشان دادن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir müssen schnell auf seine Frage reagieren.",
+      "english": "We need to react quickly to his question.",
+      "russian": "Мы должны быстро отреагировать на его вопрос.",
+      "farsi": "باید سریع به سؤال او واکنش نشان دهیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "sich verlassen auf",
+      "english": "to rely on",
+      "russian": "полагаться на",
+      "farsi": "به ... اعتماد کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Du kannst dich auf mich verlassen.",
+      "english": "You can rely on me.",
+      "russian": "Ты можешь на меня положиться.",
+      "farsi": "تو می‌توانی به من اعتماد کنی."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "verzichten auf",
+      "english": "to do without / to go without",
+      "russian": "отказаться от",
+      "farsi": "از ... صرف نظر کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Viele Menschen würden für die Umwelt auf etwas verzichten.",
+      "english": "Many people would go without something for the sake of the environment.",
+      "russian": "Многие люди отказались бы от чего-то ради окружающей среды.",
+      "farsi": "بسیاری از مردم برای محیط زیست از چیزی صرف نظر می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "sich vorbereiten auf",
+      "english": "to prepare for",
+      "russian": "готовиться к",
+      "farsi": "برای ... آماده شدن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir müssen uns auf den Test vorbereiten.",
+      "english": "We need to prepare for the test.",
+      "russian": "Мы должны подготовиться к тесту.",
+      "farsi": "ما باید برای امتحان آماده شویم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "warten auf",
+      "english": "to wait for",
+      "russian": "ждать",
+      "farsi": "منتظر ... بودن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Fabian wartet auf seinen Praktikanten.",
+      "english": "Fabian is waiting for his intern.",
+      "russian": "Фабиан ждет своего стажера.",
+      "farsi": "فابیان منتظر کارآموز خود است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "wirken auf",
+      "english": "to seem / to appear",
+      "russian": "казаться",
+      "farsi": "به نظر رسیدن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er wirkt auf mich sympathisch und kompetent.",
+      "english": "He seems sympathetic and competent to me.",
+      "russian": "Он кажется мне симпатичным и компетентным.",
+      "farsi": "او برای من دلسوز و توانا به نظر می‌رسد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "bestehen aus",
+      "english": "to consist of",
+      "russian": "состоять из",
+      "farsi": "تشکیل شده از"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Eine Bewerbung besteht aus einem Anschreiben, einem Lebenslauf und Zeugnissen.",
+      "english": "An application consists of a cover letter, a resume, and certificates.",
+      "russian": "Заявление состоит из сопроводительного письма, резюме и свидетельств.",
+      "farsi": "یک درخواست شامل یک نامه پوششی، یک رزومه و گواهی‌ها است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "ersetzen durch",
+      "english": "to replace with / by",
+      "russian": "заменить на / чем",
+      "farsi": "جایگزین کردن با / توسط"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir müssen den Computer durch einen Laptop ersetzen.",
+      "english": "We need to replace the computer with a laptop.",
+      "russian": "Мы должны заменить компьютер на ноутбук.",
+      "farsi": "باید کامپیوتر را با یک لپ تاپ جایگزین کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "ausgeben für",
+      "english": "to spend (money) on",
+      "russian": "тратить (деньги) на",
+      "farsi": "خرج کردن (پول) برای"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich gebe viel Geld für Kosmetik aus.",
+      "english": "I spend a lot of money on cosmetics.",
+      "russian": "Я трачу много денег на косметику.",
+      "farsi": "من پول زیادی را صرف لوازم آرایشی می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "sich einsetzen für",
+      "english": "to stand up for / to advocate for",
+      "russian": "выступать за",
+      "farsi": "از ... دفاع کردن / برای ... تلاش کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Manche Jugendliche setzen sich aktiv für andere ein.",
+      "english": "Some young people actively stand up for others.",
+      "russian": "Некоторые молодые люди активно выступают за других.",
+      "farsi": "برخی از جوانان فعالانه از دیگران دفاع می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "sich engagieren für",
+      "english": "to be committed to / to be involved in",
+      "russian": "заниматься / участвовать в",
+      "farsi": "به ... متعهد بودن / در ... شرکت کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich engagiere mich für das Jugendtheater in unserer Stadt.",
+      "english": "I am involved in the youth theater in our city.",
+      "russian": "Я занимаюсь в молодежном театре в нашем городе.",
+      "farsi": "من در تئاتر جوانان در شهر ما شرکت می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "sich entscheiden für",
+      "english": "to decide on / to choose",
+      "russian": "решить(ся) на / выбрать",
+      "farsi": "تصمیم گرفتن برای / انتخاب کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat sich für den billigeren Rock entschieden.",
+      "english": "She decided on the cheaper skirt.",
+      "russian": "Она выбрала более дешевую юбку.",
+      "farsi": "او دامن ارزان‌تر را انتخاب کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "sich entschuldigen für",
+      "english": "to apologize for",
+      "russian": "извиниться за",
+      "farsi": "برای ... عذرخواهی کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich entschuldige mich für diesen Fehler.",
+      "english": "I apologize for this mistake.",
+      "russian": "Я извиняюсь за эту ошибку.",
+      "farsi": "من برای این اشتباه عذرخواهی می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "halten für",
+      "english": "to consider something to be",
+      "russian": "считать что-то чем-то",
+      "farsi": "چیزی را ... در نظر گرفتن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "89 % halten den Klimawandel für ein wichtiges Thema.",
+      "english": "89% consider climate change to be an important issue.",
+      "russian": "89% считают изменение климата важной проблемой.",
+      "farsi": "89% تغییرات آب و هوا را یک موضوع مهم می‌دانند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "sich interessieren für",
+      "english": "to be interested in",
+      "russian": "интересоваться",
+      "farsi": "به ... علاقه داشتن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Junge Menschen interessieren sich sehr für Musik.",
+      "english": "Young people are very interested in music.",
+      "russian": "Молодые люди очень интересуются музыкой.",
+      "farsi": "جوانان به موسیقی علاقه زیادی دارند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "kämpfen für",
+      "english": "to fight for",
+      "russian": "бороться за",
+      "farsi": "برای ... جنگیدن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Seitdem kämpft sie für die Anerkennung ihres Schulabschlusses.",
+      "english": "Since then, she has been fighting for the recognition of her school diploma.",
+      "russian": "С тех пор она борется за признание своего школьного диплома.",
+      "farsi": "از آن زمان، او برای به رسمیت شناختن مدرک تحصیلی خود می‌جنگد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "stimmen für",
+      "english": "to vote for",
+      "russian": "голосовать за",
+      "farsi": "به ... رای دادن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Viele stimmten für den neuen Plan.",
+      "english": "Many voted for the new plan.",
+      "russian": "Многие голосовали за новый план.",
+      "farsi": "بسیاری به طرح جدید رای دادند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "tun für",
+      "english": "to do for",
+      "russian": "делать для",
+      "farsi": "برای ... انجام دادن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Interesse, selbst etwas für den Klimaschutz zu tun, ist groß.",
+      "english": "The interest in doing something for climate protection oneself is great.",
+      "russian": "Интерес к тому, чтобы самим что-то сделать для защиты климата, велик.",
+      "farsi": "علاقه به انجام کاری برای حفاظت از آب و هوا زیاد است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "sich durchsetzen gegen",
+      "english": "to prevail against / to assert oneself against",
+      "russian": "противостоять / настоять на своем",
+      "farsi": "در برابر ... پیروز شدن / خود را در برابر ... مطرح کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Du musst dich gegen deine Schwester durchsetzen.",
+      "english": "You have to assert yourself against your sister.",
+      "russian": "Ты должна настоять на своем против своей сестры.",
+      "farsi": "باید در برابر خواهرت خودت را مطرح کنی."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "kämpfen gegen",
+      "english": "to fight against",
+      "russian": "бороться против",
+      "farsi": "بر علیه ... جنگیدن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir müssen gegen Rassismus und Intoleranz kämpfen.",
+      "english": "We must oppose racism and intolerance.",
+      "russian": "Мы должны бороться против расизма и нетерпимости.",
+      "farsi": "ما باید علیه نژادپرستی و عدم تحمل بجنگیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "protestieren gegen",
+      "english": "to protest against",
+      "russian": "протестовать против",
+      "farsi": "اعتراض کردن علیه"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "10000 Schüler protestierten gegen die Schulpolitik der Regierung.",
+      "english": "10,000 students protested against the government's school policy.",
+      "russian": "10 000 учеников протестовали против школьной политики правительства.",
+      "farsi": "10000 دانش آموز علیه سیاست مدرسه دولت اعتراض کردند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "stimmen gegen",
+      "english": "to vote against",
+      "russian": "голосовать против",
+      "farsi": "رای دادن علیه"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Einige stimmten gegen den Plan.",
+      "english": "Some voted against the plan.",
+      "russian": "Некоторые голосовали против плана.",
+      "farsi": "برخی علیه طرح رای دادند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "tun gegen",
+      "english": "to do something about",
+      "russian": "что-то сделать с",
+      "farsi": "کاری در مورد ... انجام دادن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Du solltest etwas gegen deine Erkältung tun.",
+      "english": "You should do something about your cold.",
+      "russian": "Тебе следует что-нибудь сделать со своей простудой.",
+      "farsi": "شما باید کاری در مورد سرماخوردگی خود انجام دهید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "investieren in",
+      "english": "to invest in",
+      "russian": "инвестировать в",
+      "farsi": "سرمایه گذاری در"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Staat sollte mehr in Elektroautos investieren.",
+      "english": "The state should invest more in electric cars.",
+      "russian": "Государство должно больше инвестировать в электромобили.",
+      "farsi": "دولت باید بیشتر در خودروهای برقی سرمایه گذاری کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "anfangen mit",
+      "english": "to start with",
+      "russian": "начинать с",
+      "farsi": "شروع کردن با"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wann fängst du mit der Arbeit an?",
+      "english": "When do you start work?",
+      "russian": "Когда ты начинаешь работать?",
+      "farsi": "چه زمانی کار را شروع می‌کنی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "aufhören mit",
+      "english": "to stop with",
+      "russian": "прекратить с",
+      "farsi": "متوقف کردن با"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hör endlich mit dem Gejammer auf!",
+      "english": "Stop whining already!",
+      "russian": "Прекрати уже ныть!",
+      "farsi": "بالاخره ناله کردن را متوقف کن!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "beginnen mit",
+      "english": "to begin with",
+      "russian": "начинать с",
+      "farsi": "شروع کردن با"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wann beginnst du mit deiner Arbeit?",
+      "english": "When do you start your work?",
+      "russian": "Когда ты начинаешь свою работу?",
+      "farsi": "چه زمانی کار خود را شروع می‌کنی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "sich beschäftigen mit",
+      "english": "to occupy oneself with / to deal with",
+      "russian": "заниматься чем-либо",
+      "farsi": "خود را با چیزی مشغول کردن / سر و کار داشتن با"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Philosophie beschäftigt sich mit der Frage nach dem „Warum“.",
+      "english": "Philosophy deals with the question of \"Why\".",
+      "russian": "Философия занимается вопросом «Почему».",
+      "farsi": "فلسفه با سؤال «چرا» سر و کار دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "besprechen mit",
+      "english": "to discuss with",
+      "russian": "обсуждать с",
+      "farsi": "با ... بحث کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Georg bespricht das Problem mit seiner Vorgesetzten.",
+      "english": "Georg discusses the problem with his supervisor.",
+      "russian": "Георг обсуждает проблему со своим руководителем.",
+      "farsi": "جورج مشکل را با سرپرست خود در میان می‌گذارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "führen mit",
+      "english": "to conduct (an interview, a conversation) with",
+      "russian": "проводить (интервью, разговор) с",
+      "farsi": "انجام دادن (مصاحبه، مکالمه) با"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben ein Interview mit einem Lehrer geführt.",
+      "english": "We conducted an interview with a teacher.",
+      "russian": "Мы провели интервью с учителем.",
+      "farsi": "ما یک مصاحبه با یک معلم انجام دادیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "mischen mit",
+      "english": "to mix with",
+      "russian": "смешивать с",
+      "farsi": "مخلوط کردن با"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man mischt Mehl und Backpulver mit Eiern und Zucker.",
+      "english": "You mix flour and baking powder with eggs and sugar.",
+      "russian": "Смешивают муку и разрыхлитель с яйцами и сахаром.",
+      "farsi": "آرد و بکینگ پودر را با تخم مرغ و شکر مخلوط می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "rechnen mit",
+      "english": "to count on / to expect",
+      "russian": "рассчитывать на / ожидать",
+      "farsi": "روی ... حساب کردن / انتظار داشتن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe schon nicht mehr mit dir gerechnet.",
+      "english": "I wasn't counting on you anymore.",
+      "russian": "Я уже не рассчитывал на тебя.",
+      "farsi": "من دیگر روی تو حساب نمی‌کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "schimpfen mit",
+      "english": "to scold",
+      "russian": "ругать",
+      "farsi": "سرزنش کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bitte schimpf nicht mit mir! Ich kann nichts dafür!",
+      "english": "Please don't scold me! I can't help it!",
+      "russian": "Пожалуйста, не ругай меня! Я ничего не могу поделать!",
+      "farsi": "لطفاً مرا سرزنش نکن! من نمی‌توانم کاری انجام دهم!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "sprechen mit",
+      "english": "to speak with / to talk to",
+      "russian": "говорить с",
+      "farsi": "با ... صحبت کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Beschäftigen sprechen mit dem Betriebsrat.",
+      "english": "The employees are speaking with the works council.",
+      "russian": "Работники говорят с производственным советом.",
+      "farsi": "کارمندان با شورای کار صحبت می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "sich streiten mit",
+      "english": "to argue with",
+      "russian": "спорить с",
+      "farsi": "با ... بحث کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er streitet sich oft mit ihr.",
+      "english": "He often argues with her.",
+      "russian": "Он часто спорит с ней.",
+      "farsi": "او اغلب با او بحث می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "telefonieren mit",
+      "english": "to talk on the phone with",
+      "russian": "говорить по телефону с",
+      "farsi": "با ... تلفنی صحبت کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Fred telefoniert oft mit Marina.",
+      "english": "Fred often talks to Marina on the phone.",
+      "russian": "Фред часто говорит по телефону с Мариной.",
+      "farsi": "فرد اغلب با مارینا تلفنی صحبت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "sich treffen mit",
+      "english": "to meet with",
+      "russian": "встречаться с",
+      "farsi": "با ... ملاقات کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Heute treffen wir uns mit guten Freunden.",
+      "english": "Today we're meeting with good friends.",
+      "russian": "Сегодня мы встречаемся с хорошими друзьями.",
+      "farsi": "امروز با دوستان خوب ملاقات می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "verbinden mit",
+      "english": "to connect with",
+      "russian": "соединить с",
+      "farsi": "با ... وصل کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können Sie mich bitte mit dem Sekretariat verbinden?",
+      "english": "Could you please connect me with the secretariat?",
+      "russian": "Не могли бы вы соединить меня с секретариатом?",
+      "farsi": "لطفاً می‌توانید من را به دفتر منشی وصل کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "vergleichen mit",
+      "english": "to compare with",
+      "russian": "сравнивать с",
+      "farsi": "با ... مقایسه کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vergleiche dein Land mit Deutschland.",
+      "english": "Compare your country with Germany.",
+      "russian": "Сравни свою страну с Германией.",
+      "farsi": "کشور خود را با آلمان مقایسه کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "sich verstehen mit",
+      "english": "to get along with",
+      "russian": "ладить с",
+      "farsi": "با ... کنار آمدن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie versteht sich gut mit ihm.",
+      "english": "She gets along well with him.",
+      "russian": "Она хорошо ладит с ним.",
+      "farsi": "او با او به خوبی کنار می‌آید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "zusammenarbeiten mit",
+      "english": "to collaborate with / to work together with",
+      "russian": "сотрудничать с",
+      "farsi": "با ... همکاری کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Philipp Lahms arbeitet mit Jugendprojekten zusammen.",
+      "english": "Philipp Lahm works with youth projects.",
+      "russian": "Филипп Лам сотрудничает с молодежными проектами.",
+      "farsi": "فیلیپ لام با پروژه‌های جوانان همکاری می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "fragen nach",
+      "english": "to ask about",
+      "russian": "спрашивать о",
+      "farsi": "در مورد ... پرسیدن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Yvonne hat mich nach meinen Plänen für die Zukunft gefragt.",
+      "english": "Yvonne asked me about my plans for the future.",
+      "russian": "Ивонна спросила меня о моих планах на будущее.",
+      "farsi": "ایوان در مورد برنامه‌های من برای آینده پرسید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "riechen nach",
+      "english": "to smell like",
+      "russian": "пахнуть как",
+      "farsi": "بوی ... دادن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hier riecht es nach deinem Parfüm.",
+      "english": "It smells like your perfume here.",
+      "russian": "Здесь пахнет твоими духами.",
+      "farsi": "اینجا بوی عطر تو می‌آید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "rufen nach",
+      "english": "to call for",
+      "russian": "звать",
+      "farsi": "صدا زدن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er rief nach dem Kellner, aber der kam nicht.",
+      "english": "He called for the waiter, but he didn't come.",
+      "russian": "Он позвал официанта, но тот не пришел.",
+      "farsi": "او گارسون را صدا زد، اما او نیامد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "schmecken nach",
+      "english": "to taste like",
+      "russian": "иметь вкус",
+      "farsi": "مزه ... دادن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dieses Eis schmeckt nach Apfel.",
+      "english": "This ice cream tastes like apple.",
+      "russian": "Это мороженое со вкусом яблока.",
+      "farsi": "این بستنی مزه سیب می‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "sehen nach",
+      "english": "to check on / to look after",
+      "russian": "присмотреть за",
+      "farsi": "به ... نگاه کردن / مراقبت کردن از"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich sehe mal schnell nach dem Kuchen im Ofen.",
+      "english": "I'll quickly check on the cake in the oven.",
+      "russian": "Я быстро посмотрю за пирогом в духовке.",
+      "farsi": "من سریع به کیک در فر نگاه می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "sich ärgern über",
+      "english": "to be annoyed about",
+      "russian": "злиться из-за",
+      "farsi": "از ... عصبانی بودن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich ärgere mich über intolerante Menschen.",
+      "english": "I'm annoyed by intolerant people.",
+      "russian": "Я злюсь на нетерпимых людей.",
+      "farsi": "من از افراد متعصب عصبانی هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "berichten über",
+      "english": "to report on",
+      "russian": "сообщать о",
+      "farsi": "در مورد ... گزارش دادن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Polizist berichtet über den Unfall.",
+      "english": "The policeman reports on the accident.",
+      "russian": "Полицейский сообщает о происшествии.",
+      "farsi": "پلیس در مورد حادثه گزارش می‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "sich beschweren über",
+      "english": "to complain about",
+      "russian": "жаловаться на",
+      "farsi": "از ... شکایت کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er beschwerte sich über seine Note in Musik.",
+      "english": "He complained about his grade in music.",
+      "russian": "Он жаловался на свою оценку по музыке.",
+      "farsi": "او از نمره خود در موسیقی شکایت کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "diskutieren über",
+      "english": "to discuss",
+      "russian": "обсуждать",
+      "farsi": "در مورد ... بحث کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie diskutieren immer über dasselbe Problem.",
+      "english": "They always discuss the same problem.",
+      "russian": "Они всегда обсуждают одну и ту же проблему.",
+      "farsi": "آنها همیشه در مورد یک مشکل مشابه بحث می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "sich freuen über",
+      "english": "to be happy about",
+      "russian": "радоваться",
+      "farsi": "از ... خوشحال بودن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Fredo freut sich über jeden Sieg vom 1. FC Köln.",
+      "english": "Fredo is happy about every victory of 1. FC Köln.",
+      "russian": "Фредо рад каждой победе 1. ФК Кёльн.",
+      "farsi": "فردو از هر پیروزی 1. اف سی کلن خوشحال می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "sich informieren über",
+      "english": "to find out about / to get information about",
+      "russian": "узнавать о",
+      "farsi": "در مورد ... اطلاعات کسب کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich lese Zeitung, um mich über die Politik zu informieren.",
+      "english": "I read the newspaper to get information about politics.",
+      "russian": "Я читаю газету, чтобы узнавать о политике.",
+      "farsi": "من روزنامه می‌خوانم تا در مورد سیاست اطلاعات کسب کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "lächeln über",
+      "english": "to smile at / about",
+      "russian": "улыбаться над",
+      "farsi": "به ... لبخند زدن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie kann so schön lächeln und fröhlich sein.",
+      "english": "She can smile so beautifully and be happy.",
+      "russian": "Она может так красиво улыбаться и быть счастливой.",
+      "farsi": "او می‌تواند خیلی زیبا لبخند بزند و شاد باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "lachen über",
+      "english": "to laugh at / about",
+      "russian": "смеяться над",
+      "farsi": "به ... خندیدن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Leute lachen über den Witz.",
+      "english": "People are laughing at the joke.",
+      "russian": "Люди смеются над шуткой.",
+      "farsi": "مردم به شوخی می‌خندند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "nachdenken über",
+      "english": "to think about / to reflect on",
+      "russian": "думать о / размышлять над",
+      "farsi": "در مورد ... فکر کردن / در مورد ... اندیشیدن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe lange über den Vorschlag nachgedacht.",
+      "english": "I've been thinking about the proposal for a long time.",
+      "russian": "Я долго думал над этим предложением.",
+      "farsi": "من مدت زیادی در مورد این پیشنهاد فکر کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "sich bewerben um",
+      "english": "to apply for",
+      "russian": "подавать заявление на",
+      "farsi": "برای ... درخواست دادن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe mich um einen neuen Job beworben.",
+      "english": "I've applied for a new job.",
+      "russian": "Я подал заявление на новую работу.",
+      "farsi": "من برای یک شغل جدید درخواست داده‌ام."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "bitten um",
+      "english": "to ask for",
+      "russian": "просить о",
+      "farsi": "از ... درخواست کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sophie bittet ihre Freundin um einen Tipp.",
+      "english": "Sophie asks her friend for a tip.",
+      "russian": "Софи просит свою подругу о совете.",
+      "farsi": "سوفی از دوستش در مورد یک نکته می‌پرسد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "es geht um",
+      "english": "it's about",
+      "russian": "речь идет о",
+      "farsi": "موضوع در مورد ... است"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In diesem Buch geht es um einen bekannten Mann.",
+      "english": "This book is about a famous man.",
+      "russian": "Эта книга о знаменитом человеке.",
+      "farsi": "این کتاب در مورد یک مرد معروف است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "sich kümmern um",
+      "english": "to take care of",
+      "russian": "заботиться о",
+      "farsi": "مراقب ... بودن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hasan hat sich um die Kundinnen gekümmert.",
+      "english": "Hasan took care of the customers.",
+      "russian": "Хасан позаботился о клиентах.",
+      "farsi": "حسن از مشتریان مراقبت کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "leiden unter",
+      "english": "to suffer from",
+      "russian": "страдать от",
+      "farsi": "از ... رنج بردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Unter dem hohen Energieverbrauch leidet auch die Umwelt.",
+      "english": "The environment also suffers from high energy consumption.",
+      "russian": "От высокого потребления энергии страдает и окружающая среда.",
+      "farsi": "محیط زیست نیز از مصرف بالای انرژی رنج می‌برد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "sich erholen von",
+      "english": "to recover from",
+      "russian": "восстановиться после",
+      "farsi": "از ... بهبود یافتن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat sich gut von dem Unfall erholt.",
+      "english": "She has recovered well from the accident.",
+      "russian": "Она хорошо восстановилась после аварии.",
+      "farsi": "او به خوبی از حادثه بهبود یافته است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "erzählen von",
+      "english": "to tell about",
+      "russian": "рассказывать о",
+      "farsi": "در مورد ... تعریف کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Eine Wissenschaftlerin hat mir von ihrem Beruf erzählt.",
+      "english": "A scientist told me about her job.",
+      "russian": "Ученый рассказал мне о своей работе.",
+      "farsi": "یک دانشمند در مورد شغلش به من گفت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "halten von",
+      "english": "to think of / to have an opinion about",
+      "russian": "думать о / иметь мнение о",
+      "farsi": "در مورد ... فکر کردن / نظری در مورد ... داشتن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Schreib mir, was du von der Idee hältst.",
+      "english": "Write me what you think of the idea.",
+      "russian": "Напиши мне, что ты думаешь об этой идее.",
+      "farsi": "به من بنویس که در مورد این ایده چه فکری می‌کنی."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "hören von",
+      "english": "to hear about",
+      "russian": "слышать о",
+      "farsi": "در مورد ... شنیدن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe schon viel von Ihnen gehört.",
+      "english": "I've heard a lot about you.",
+      "russian": "Я уже много слышал о вас.",
+      "farsi": "من قبلاً چیزهای زیادی در مورد شما شنیده‌ام."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "reden von",
+      "english": "to talk about",
+      "russian": "говорить о",
+      "farsi": "در مورد ... صحبت کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Alle reden nur noch von diesem Film.",
+      "english": "Everyone is talking about this movie.",
+      "russian": "Все говорят только об этом фильме.",
+      "farsi": "همه فقط در مورد این فیلم صحبت می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "träumen von",
+      "english": "to dream of",
+      "russian": "мечтать о",
+      "farsi": "در مورد ... خواب دیدن / آرزو داشتن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich träume von der Zukunft.",
+      "english": "I dream of the future.",
+      "russian": "Я мечтаю о будущем.",
+      "farsi": "من در مورد آینده خواب می‌بینم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "sich trennen von",
+      "english": "to separate from / to break up with",
+      "russian": "расстаться с",
+      "farsi": "از ... جدا شدن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Du solltest dich von ihm trennen.",
+      "english": "You should break up with him.",
+      "russian": "Тебе следует расстаться с ним.",
+      "farsi": "تو باید از او جدا شوی."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "sich unterscheiden von",
+      "english": "to differ from",
+      "russian": "отличаться от",
+      "farsi": "با ... متفاوت بودن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er unterscheidet sich stark von seinem Vater.",
+      "english": "He is very different from his father.",
+      "russian": "Он сильно отличается от своего отца.",
+      "farsi": "او خیلی با پدرش متفاوت است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "sich verabschieden von",
+      "english": "to say goodbye to",
+      "russian": "прощаться с",
+      "farsi": "با ... خداحافظی کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "So, jetzt muss ich mich von dir verabschieden.",
+      "english": "Well, now I have to say goodbye to you.",
+      "russian": "Итак, теперь я должен попрощаться с тобой.",
+      "farsi": "خب، حالا باید از تو خداحافظی کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "wissen von",
+      "english": "to know about",
+      "russian": "знать о",
+      "farsi": "در مورد ... دانستن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Weißt du schon von unserem Plan?",
+      "english": "Do you already know about our plan?",
+      "russian": "Ты уже знаешь о нашем плане?",
+      "farsi": "آیا از قبل در مورد طرح ما می‌دانید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "sich fürchten vor",
+      "english": "to be afraid of",
+      "russian": "бояться",
+      "farsi": "از ... ترسیدن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Viele Menschen fürchten sich vor dem Bewerbungsprozess.",
+      "english": "Many people are afraid of the application process.",
+      "russian": "Многие люди боятся процесса подачи заявок.",
+      "farsi": "بسیاری از مردم از روند درخواست می‌ترسند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "schützen vor",
+      "english": "to protect from",
+      "russian": "защищать от",
+      "farsi": "از ... محافظت کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Diese Jacke schützt vor Regen.",
+      "english": "This jacket protects from rain.",
+      "russian": "Эта куртка защищает от дождя.",
+      "farsi": "این ژاکت از باران محافظت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "warnen vor",
+      "english": "to warn about",
+      "russian": "предупреждать о",
+      "farsi": "در مورد ... هشدار دادن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich warne dich vor Susi. Sie ist total sauer auf dich.",
+      "english": "I'm warning you about Susi. She's really mad at you.",
+      "russian": "Я предупреждаю тебя о Сьюзи. Она очень зла на тебя.",
+      "farsi": "من در مورد سوزی به تو هشدار می‌دهم. او خیلی از تو عصبانی است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "reden über",
+      "english": "to talk about",
+      "russian": "говорить о",
+      "farsi": "در مورد ... صحبت کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich will nicht immer nur über die Arbeit reden.",
+      "english": "I don't want to always just talk about work.",
+      "russian": "Я не хочу всегда говорить только о работе.",
+      "farsi": "من نمی‌خواهم همیشه فقط در مورد کار صحبت کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "schimpfen über",
+      "english": "to complain about / to rant about",
+      "russian": "ругать / жаловаться на",
+      "farsi": "از ... شکایت کردن / در مورد ... بدگویی کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie schimpfte über ihren anstrengenden Kollegen.",
+      "english": "She complained about her exhausting colleague.",
+      "russian": "Она жаловалась на своего утомительного коллегу.",
+      "farsi": "او از همکار خسته کننده خود شکایت کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "sprechen über",
+      "english": "to talk about / to speak about",
+      "russian": "говорить о",
+      "farsi": "در مورد ... صحبت کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich spreche fast nie über Politik.",
+      "english": "I almost never talk about politics.",
+      "russian": "Я почти никогда не говорю о политике.",
+      "farsi": "من تقریباً هرگز در مورد سیاست صحبت نمی‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "streiten über",
+      "english": "to argue about",
+      "russian": "спорить о",
+      "farsi": "در مورد ... بحث کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir streiten oft über Kleinigkeiten.",
+      "english": "We often argue about small things.",
+      "russian": "Мы часто спорим из-за мелочей.",
+      "farsi": "ما اغلب بر سر چیزهای کوچک بحث می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "einladen zu",
+      "english": "to invite to",
+      "russian": "приглашать на",
+      "farsi": "به ... دعوت کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Präsident hat 1000 Journalisten zum Pressefest eingeladen.",
+      "english": "The president invited 1000 journalists to the press festival.",
+      "russian": "Президент пригласил 1000 журналистов на фестиваль прессы.",
+      "farsi": "رئیس جمهور 1000 روزنامه نگار را به جشنواره مطبوعات دعوت کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "sich entwickeln zu",
+      "english": "to develop into",
+      "russian": "развиваться в",
+      "farsi": "به ... تبدیل شدن / توسعه یافتن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat sich zu einem guten Mitarbeiter entwickelt.",
+      "english": "He has developed into a good employee.",
+      "russian": "Он превратился в хорошего сотрудника.",
+      "farsi": "او به یک کارمند خوب تبدیل شده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "führen zu",
+      "english": "to lead to",
+      "russian": "приводить к",
+      "farsi": "منجر به ... شدن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Diese Diskussion führt zu keinem Ergebnis.",
+      "english": "This discussion is leading to no result.",
+      "russian": "Этот спор не приводит ни к какому результату.",
+      "farsi": "این بحث به هیچ نتیجه‌ای نمی‌رسد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "gehören zu",
+      "english": "to belong to",
+      "russian": "принадлежать к",
+      "farsi": "متعلق به ... بودن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Gehörst du auch zu dieser Abteilung?",
+      "english": "Do you also belong to this department?",
+      "russian": "Ты тоже принадлежишь к этому отделу?",
+      "farsi": "آیا شما هم متعلق به این بخش هستید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "gratulieren zu",
+      "english": "to congratulate on",
+      "russian": "поздравлять с",
+      "farsi": "به خاطر ... تبریک گفتن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich gratuliere dir zum Geburtstag.",
+      "english": "I congratulate you on your birthday.",
+      "russian": "Я поздравляю тебя с днем рождения.",
+      "farsi": "من تولدت را به تو تبریک می‌گویم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "kommen zu",
+      "english": "to result in / to lead to",
+      "russian": "приводить к / привести к",
+      "farsi": "منجر به ... شدن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wegen des Nebels kam es zu vielen Unfällen.",
+      "english": "Because of the fog, it resulted in many accidents.",
+      "russian": "Из-за тумана произошло много аварий.",
+      "farsi": "به دلیل مه، منجر به تصادفات زیادی شد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "meinen zu",
+      "english": "to have an opinion about",
+      "russian": "думать о",
+      "farsi": "در مورد ... نظر داشتن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was meinst du zu meinem Vorschlag?",
+      "english": "What do you think of my suggestion?",
+      "russian": "Что ты думаешь о моем предложении?",
+      "farsi": "نظرت در مورد پیشنهاد من چیست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "passen zu",
+      "english": "to fit with / to suit",
+      "russian": "подходить к / соответствовать",
+      "farsi": "با ... مطابقت داشتن / مناسب بودن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Welche Fähigkeiten von dir passen zu diesem Beruf?",
+      "english": "Which of your skills are suited to this job?",
+      "russian": "Какие из ваших навыков подходят для этой работы?",
+      "farsi": "کدام یک از مهارت‌های شما با این شغل مطابقت دارد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "wählen zu",
+      "english": "to elect as",
+      "russian": "избрать в качестве",
+      "farsi": "به عنوان ... انتخاب کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Michaela wurde gestern zum Betriebsratsmitglied gewählt.",
+      "english": "Michaela was elected as a member of the works council yesterday.",
+      "russian": "Михаэла была избрана членом производственного совета вчера.",
+      "farsi": "میکائلا دیروز به عنوان عضو شورای کار انتخاب شد."
+    }
+  ]
+}
