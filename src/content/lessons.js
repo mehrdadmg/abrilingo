@@ -122,7 +122,7 @@ const alllessons = [
       {
         id: '211',
         level: 1,
-        file_name: 'verben_mit_räposition_akkusativ.json',
+        file_name: 'verben_mit_präposition_akkusativ.json',
         name: 'Verben_mit_Präposition_Akkusativ',
       },
       {
