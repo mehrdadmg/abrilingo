@@ -71,7 +71,9 @@
   margin-bottom: 10px;
 }
 
-.setting .wrapper_selected-voices button {
+.setting .wrapper_selected-voices .container-controls-button {
+  position: static;
+
   margin-left: 20px;
   background-color: white;
   border: none;

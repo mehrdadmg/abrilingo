@@ -1,6 +1,5 @@
 import { useSelector } from 'react-redux';
 
-// import PlayText from '../../components/PlayText/PlayText';
 import TextToSpeech from '../../components/TextToSpeech/TextToSpeech';
 import SelectedSentenceButton from '../../components/SelectedSentenceButton/SelectedSentenceButton';
 
@@ -101,7 +100,6 @@ const SentenceContainer = (props) => {
         {Text}
       </p>
       {!(activeTab && contentLength === 0) && props.hasPlayBtn && (
-        //<PlayText text={text} rate={props.rate} pitch={props.pitch} voice={props.voice} />
         <TextToSpeech text={text} rate={props.rate} pitch={props.pitch} voice={props.voice} />
       )}
     </div>

@@ -3,7 +3,6 @@ import { useDispatch, useSelector } from 'react-redux';
 import { chooseLesson, handleSentenceNo, handleContentsLength } from '../../redux/actionCreator';
 
 import { useEffect, useRef } from 'react';
-import { useSpeechSynthesis } from 'react-speech-kit';
 
 import { GrPrevious } from 'react-icons/gr';
 
@@ -16,7 +15,7 @@ import {
   getLearnSentenceNo,
   getPracticeSentenceNo,
   getVoiceURI,
-  setVoiceURI,
+  // setVoiceURI,
   getRate,
   getPitch,
 } from '../../api/handleLocalStorage';
@@ -39,10 +38,7 @@ const LearningSentences = (props) => {
 
   const rateRef = useRef();
   const pitchRef = useRef();
-  const voiceRef = useRef();
-  const voiceURIRef = useRef();
-
-  const { voices } = useSpeechSynthesis();
+  //const voiceURIRef = useRef();
 
   let lesson = getlesson();
   if (!lesson) {
@@ -67,33 +63,21 @@ const LearningSentences = (props) => {
       dispatch(chooseLesson(startLesson));
     }
   };
+  let voiceURI = getVoiceURI();
+
+  let voice = speechSynthesis.getVoices().find((v) => v.voiceURI === voiceURI);
 
   useEffect(() => {
     rateRef.current = getRate();
     pitchRef.current = getPitch();
-    voiceURIRef.current = getVoiceURI();
+    //voiceURIRef.current = getVoiceURI();
+
     (async () => {
       try {
         await loadeContent();
       } catch (error) {}
     })();
   }, []);
-
-  useEffect(() => {
-    (() => {
-      try {
-        voiceRef.current =
-          voices.find((v) => v.voiceURI === voiceURIRef.current) ||
-          voices.findLast((v) => v.lang === 'de-DE' || v.lang === 'de_DE');
-        voiceRef.current && setVoiceURI(voiceRef.current.voiceURI);
-      } catch (error) {
-        console.log(error);
-        //setIsError(true);
-      } finally {
-        //setIsLoading(false);
-      }
-    })();
-  }, [voices]);
 
   if (dataLesson.info.name === lesson) {
     return (
@@ -125,7 +109,7 @@ const LearningSentences = (props) => {
                 translatTo={translatTo}
                 rate={rateRef.current}
                 pitch={pitchRef.current}
-                voice={voiceRef.current}
+                voice={voice}
               />
               <BottomActions />
             </div>

@@ -1,5 +1,4 @@
-import { useState } from 'react';
-import { useSpeechSynthesis } from 'react-speech-kit';
+import { useState, useEffect } from 'react';
 import {
   getLang,
   setLang,
@@ -11,11 +10,8 @@ import {
   setPitch,
 } from '../../api/handleLocalStorage';
 import { allLanguagesTranslate } from '../../content/lessons';
-// import PlayText from '../../components/PlayText/PlayText';
 import TextToSpeech from '../../components/TextToSpeech/TextToSpeech';
-
 import { GrPrevious } from 'react-icons/gr';
-
 import './Setting.css';
 
 const Setting = (props) => {
@@ -24,15 +20,32 @@ const Setting = (props) => {
     lang = allLanguagesTranslate[1];
     setLang(lang);
   }
+  const [voices, setVoices] = useState([]);
 
   let voiceURI = getVoiceURI();
-  const { voices } = useSpeechSynthesis();
-  let voice = voices.find((v) => v.voiceURI === voiceURI);
+
+  const getGermanVoices = () => {
+    const availableVoices = speechSynthesis.getVoices().filter((v) => v.lang === 'de-DE' || v.lang === 'de_DE'); //    (voice) => voice.lang.startsWith('de')
+    setVoices(availableVoices);
+  };
+
+  let voice = speechSynthesis.getVoices().find((v) => v.voiceURI === voiceURI);
 
   const [activeVoiceURI, setActiveVoiceURI] = useState(voiceURI);
   const [selectedRate, setSelectedRate] = useState(() => getRate()); // New state for rate
   const [selectepitch, setSelectedPitch] = useState(() => getPitch()); // New state for pitch
   const [activeLang, setActiveLang] = useState(lang);
+
+  useEffect(() => {
+    getGermanVoices();
+
+    // Ensure that sounds are loaded in the browser
+    speechSynthesis.onvoiceschanged = getGermanVoices;
+
+    return () => {
+      speechSynthesis.onvoiceschanged = null;
+    };
+  }, []);
 
   return (
     <div className="setting">
@@ -72,12 +85,6 @@ const Setting = (props) => {
           <h2 className="setting_titel">Select Voice</h2>
           <h3 className="voice_test">
             Play test voice
-            {/* <PlayText
-              text="Wir haben viele neue Freunde gefunden."
-              voice={voice}
-              rate={selectedRate}
-              pitch={selectepitch}
-            /> */}
             <TextToSpeech
               text="Wir haben viele neue Freunde gefunden."
               voice={voice}
