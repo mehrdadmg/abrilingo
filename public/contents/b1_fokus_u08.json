@@ -1336,10 +1336,10 @@
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Möbelhaus Kramer Herzlich willkommen beim Möbelhaus Kramer.",
-      "english": "Furniture store Kramer: Warm welcome to the furniture store Kramer.",
-      "russian": "Мебельный магазин Крамер: Добро пожаловать в мебельный магазин Крамер.",
-      "farsi": "فروشگاه مبلمان کرامر: خوش‌آمدید به فروشگاه مبلمان کرامر."
+      "sentence": "Herzlich willkommen beim Möbelhaus Kramer.",
+      "english": "Warm welcome to the furniture store Kramer.",
+      "russian": "Добро пожаловать в мебельный магазин Крамер.",
+      "farsi": "خوش‌آمدید به فروشگاه مبلمان کرامر."
     },
     {
       "isSelected": false,
@@ -1368,10 +1368,10 @@
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Ulrike Onken Guten Tag, hier ist Ulrike Onken von der Firma Forst GmbH.",
-      "english": "Ulrike Onken: Good day, this is Ulrike Onken from Forst GmbH.",
-      "russian": "Ульрике Онкен: Добрый день, это Ульрике Онкен из компании Forst GmbH.",
-      "farsi": "اولریکه اونکن: روز بخیر، این اولریکه اونکن از شرکت فورست گمب‌اچ است."
+      "sentence": "Guten Tag, hier ist Ulrike Onken von der Firma Forst GmbH.",
+      "english": "Good day, this is Ulrike Onken from Forst GmbH.",
+      "russian": "Добрый день, это Ульрике Онкен из компании Forst GmbH.",
+      "farsi": "روز بخیر، این اولریکه اونکن از شرکت فورست گمب‌اچ است."
     },
     {
       "isSelected": false,
