@@ -256,10 +256,18 @@
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Könntest du mir einen Gefallen tun? Ruf bitte den Chef an und sag ihm, dass wir noch circa 5000 Ziegel für das Haus brauchen.",
-      "english": "Could you do me a favor? Please call the boss and tell him that we still need about 5000 bricks for the house.",
-      "russian": "Можешь сделать мне одолжение? Позвони начальнику и скажи ему, что нам нужно еще около 5000 кирпичей для дома.",
-      "farsi": "می‌توانی لطفی به من بکنی؟ لطفاً به رئیس زنگ بزن و بهش بگو که ما هنوز حدود ۵۰۰۰ آجر برای خانه نیاز داریم."
+      "sentence": "Könntest du mir einen Gefallen tun?",
+      "english": "Could you do me a favor?",
+      "russian": "Можешь сделать мне одолжение?",
+      "farsi": "می‌توانی لطفی به من بکنی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ruf bitte den Chef an und sag ihm, dass wir noch circa 5000 Ziegel für das Haus brauchen.",
+      "english": "Please call the boss and tell him that we still need about 5000 bricks for the house.",
+      "russian": "Позвони начальнику и скажи ему, что нам нужно еще около 5000 кирпичей для дома.",
+      "farsi": "لطفاً به رئیس زنگ بزن و بهش بگو که ما هنوز حدود ۵۰۰۰ آجر برای خانه نیاز داریم."
     },
     {
       "isSelected": false,

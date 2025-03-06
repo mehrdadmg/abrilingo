@@ -1,0 +1,1257 @@
+{
+  "info": {
+    "name": "B1_Fokus_u09",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Frau Hornbach, Sie sind Versicherungsexpertin und Gutachterin f\u00fcr Arbeitsunf\u00e4lle.",
+      "english": "Ms. Hornbach, you are an insurance expert and assessor for work accidents.",
+      "russian": "Госпожа Хорнбах, вы эксперт по страхованию и оценщик производственных несчастных случаев.",
+      "farsi": "خانم هورنباخ، شما کارشناس بیمه و ارزیاب حوادث کاری هستید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Welche Berufe haben besonders hohe Risiken?",
+      "english": "Which professions have particularly high risks?",
+      "russian": "Какие профессии особенно опасны?",
+      "farsi": "کدام مشاغل خطرات بیشتری دارند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es gibt in jedem Beruf Risiken, die manchmal h\u00f6her sind und manchmal nicht so hoch.",
+      "english": "There are risks in every profession, sometimes higher and sometimes not so high.",
+      "russian": "В каждой профессии есть риски, иногда высокие, а иногда не очень.",
+      "farsi": "در هر شغلی خطراتی وجود دارد، گاهی بیشتر و گاهی کمتر."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "So ist zum Beispiel eine Arbeit im B\u00fcro nicht so risikoreich wie ein Job auf dem Bau, aber auch im B\u00fcro kann es Unf\u00e4lle geben.",
+      "english": "For example, working in an office is not as risky as a job on a construction site, but accidents can also happen in the office.",
+      "russian": "Например, работа в офисе не так рискованна, как работа на стройке, но и в офисе могут происходить несчастные случаи.",
+      "farsi": "مثلاً، کار در دفتر به اندازه‌ی یک شغل در ساختمان‌سازی خطرناک نیست، اما در دفتر نیز ممکن است حوادثی رخ دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Zum Beispiel k\u00f6nnen B\u00fcromitarbeiter \u00fcber Computerkabel, die am Boden liegen, stolpern und sich verletzen.",
+      "english": "For example, office workers can trip over computer cables lying on the floor and injure themselves.",
+      "russian": "Например, офисные сотрудники могут споткнуться о компьютерные кабели, лежащие на полу, и получить травму.",
+      "farsi": "مثلاً، کارکنان اداری ممکن است روی کابل‌های کامپیوتر که روی زمین قرار دارند، بلغزند و آسیب ببینند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das passiert aber sicher nicht so oft, oder?",
+      "english": "But that surely doesn't happen very often, does it?",
+      "russian": "Но это ведь случается не так часто, правда?",
+      "farsi": "اما این اتفاق خیلی زیاد نمی‌افتد، درست است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nein, aber es passiert.",
+      "english": "No, but it happens.",
+      "russian": "Нет, но это случается.",
+      "farsi": "نه، اما اتفاق می‌افتد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ein hohes Unfallrisiko haben zum Beispiel Dachdecker.",
+      "english": "For example, roofers have a high risk of accidents.",
+      "russian": "Например, у кровельщиков высокий риск несчастных случаев.",
+      "farsi": "مثلاً، سقف‌سازان خطر بالایی برای حوادث دارند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es reicht oft schon ein falscher Schritt und man stürzt vom Dach, so dass man sich verletzt und oft lange Zeit oder gar nicht mehr arbeiten kann.",
+      "english": "Often, just one wrong step is enough, and you fall from the roof, getting injured and sometimes being unable to work for a long time or even ever again.",
+      "russian": "Часто достаточно одного неверного шага, и человек падает с крыши, получая травмы и иногда не может работать долгое время или вовсе никогда.",
+      "farsi": "اغلب، تنها یک قدم اشتباه کافی است و فرد از سقف سقوط می‌کند، آسیب می‌بیند و ممکن است برای مدت طولانی یا حتی هرگز قادر به کار نباشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ein anderes Beispiel für gefährliche Berufe sind Gleisbauer, also Personen, die an den Eisenbahngleisen arbeiten.",
+      "english": "Another example of dangerous professions is track workers, meaning people who work on railway tracks.",
+      "russian": "Другой пример опасных профессий — это путейцы, то есть люди, работающие на железнодорожных путях.",
+      "farsi": "مثال دیگری از مشاغل خطرناک کارگران خطوط راه‌آهن هستند، یعنی افرادی که روی ریل‌های راه‌آهن کار می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie arbeiten mit sehr schweren Metallteilen, die ihnen zum Beispiel auf die Füße fallen können und das größte Risiko ist natürlich, dass sie von einem vorbeifahrenden Zug erfasst werden können.",
+      "english": "They work with very heavy metal parts that can, for example, fall on their feet, and the greatest risk is, of course, that they could be hit by a passing train.",
+      "russian": "Они работают с очень тяжелыми металлическими деталями, которые, например, могут упасть им на ноги, а самый большой риск, конечно, в том, что их может сбить проходящий поезд.",
+      "farsi": "آن‌ها با قطعات فلزی بسیار سنگینی کار می‌کنند که ممکن است، برای مثال، روی پایشان بیفتد و البته بزرگ‌ترین خطر این است که ممکن است توسط یک قطار در حال عبور برخورد کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Welche Risiken gibt es in anderen Berufen?",
+      "english": "What risks exist in other professions?",
+      "russian": "Какие риски существуют в других профессиях?",
+      "farsi": "چه خطراتی در مشاغل دیگر وجود دارد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Auch Mitarbeiter in der Gastronomie haben Unfallrisiken.",
+      "english": "Employees in the hospitality industry also face accident risks.",
+      "russian": "Сотрудники в сфере общественного питания также подвержены рискам несчастных случаев.",
+      "farsi": "کارمندان صنعت مهمان‌داری نیز با خطرات حوادث مواجه هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es kommt zum Beispiel oft vor, dass sich Kellner oder Kellnerinnen an Glasscherben schneiden, wenn sie ausrutschen und mit einem Tablett voller Getränke hinfallen.",
+      "english": "For example, it often happens that waiters or waitresses cut themselves on broken glass when they slip and fall with a tray full of drinks.",
+      "russian": "Например, часто случается, что официанты или официантки режутся осколками стекла, когда они поскальзываются и падают с подносом, полным напитков.",
+      "farsi": "برای مثال، اغلب اتفاق می‌افتد که پیشخدمت‌ها هنگام لغزیدن و افتادن با سینی پر از نوشیدنی، خود را با تکه‌های شیشه ببرند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es gibt tatsächlich viele Risiken bei der Arbeit, an die man oft gar nicht denkt.",
+      "english": "There are actually many risks at work that people often don't even think about.",
+      "russian": "На самом деле, существует множество рисков на рабочем месте, о которых люди часто даже не задумываются.",
+      "farsi": "در واقع، خطرات زیادی در محل کار وجود دارد که مردم اغلب به آن‌ها فکر نمی‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, das ist auch der Grund, warum es Regeln und Gesetze für den Arbeitsschutz und Sicherheitshinweise in den Firmen gibt, die alle Mitarbeiter beachten müssen.",
+      "english": "Yes, that is also the reason why there are regulations and laws for occupational safety and security instructions in companies that all employees must follow.",
+      "russian": "Да, именно поэтому существуют правила и законы по охране труда и инструкции по безопасности на предприятиях, которые все сотрудники должны соблюдать.",
+      "farsi": "بله، این همان دلیلی است که چرا قوانین و مقرراتی برای ایمنی کار و دستورالعمل‌های ایمنی در شرکت‌ها وجود دارد که همه کارمندان باید رعایت کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin die Chefin hier im Betrieb, da muss ich natürlich wissen, welche möglichen Gefahren es für meine Mitarbeiterinnen und Mitarbeiter am Arbeitsplatz gibt, und sie darüber informieren und sie schützen.",
+      "english": "I am the boss here in the company, so I naturally need to know what possible dangers exist for my employees at the workplace, inform them about them, and protect them.",
+      "russian": "Я начальница здесь на предприятии, поэтому, конечно, я должна знать, какие возможные опасности существуют для моих сотрудников на рабочем месте, информировать их об этом и защищать их.",
+      "farsi": "من رئیس این شرکت هستم، بنابراین طبیعتاً باید بدانم که چه خطرات احتمالی در محل کار برای کارکنانم وجود دارد، آن‌ها را مطلع کنم و از آن‌ها محافظت کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Meinen Mitarbeitenden muss ich auch Arbeitskleidung kostenlos zur Verfügung stellen.",
+      "english": "I must also provide my employees with work clothing free of charge.",
+      "russian": "Я также должна предоставлять своим сотрудникам рабочую одежду бесплатно.",
+      "farsi": "من همچنین باید لباس کار را به صورت رایگان در اختیار کارکنانم قرار دهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wichtig ist auch, dass es im Betrieb Flucht- und Rettungspläne gibt.",
+      "english": "It is also important that there are evacuation and rescue plans in the company.",
+      "russian": "Важно также, чтобы на предприятии были планы эвакуации и спасения.",
+      "farsi": "همچنین مهم است که در شرکت برنامه‌های تخلیه و نجات وجود داشته باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dafür bin ich auch verantwortlich.",
+      "english": "I am also responsible for that.",
+      "russian": "Я также за это отвечаю.",
+      "farsi": "من نیز مسئول این موضوع هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es gibt viele Gesetze für Arbeits- und Gesundheitsschutz, die wir beachten müssen.",
+      "english": "There are many laws for occupational and health safety that we must follow.",
+      "russian": "Существует множество законов по охране труда и здоровья, которые мы должны соблюдать.",
+      "farsi": "قوانین زیادی برای ایمنی کار و سلامت وجود دارد که ما باید رعایت کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Zum Beispiel das Arbeitsschutzgesetz und das Gesundheitsschutzgesetz.",
+      "english": "For example, the Occupational Safety Act and the Health Protection Act.",
+      "russian": "Например, закон о охране труда и закон о защите здоровья.",
+      "farsi": "برای مثال، قانون حفاظت از کار و قانون حفاظت از سلامت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin bei uns Brandschutzhelfer.",
+      "english": "I am the fire safety assistant in our company.",
+      "russian": "Я у нас помощник по пожарной безопасности.",
+      "farsi": "من در شرکت ما مسئول ایمنی آتش‌سوزی هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn es Feueralarm gibt, muss ich kontrollieren, dass alle Kolleginnen und Kollegen das Gebäude verlassen und die Fenster geschlossen sind.",
+      "english": "If there is a fire alarm, I have to check that all colleagues leave the building and that the windows are closed.",
+      "russian": "Если срабатывает пожарная тревога, я должен проверить, что все коллеги покинули здание и что окна закрыты.",
+      "farsi": "اگر آژیر آتش‌سوزی به صدا درآید، باید بررسی کنم که همه همکاران ساختمان را ترک کرده‌اند و پنجره‌ها بسته‌اند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Außerdem ist es meine Verantwortung, dass alle zum Sammelplatz gehen.",
+      "english": "It is also my responsibility to ensure that everyone goes to the assembly point.",
+      "russian": "Кроме того, я отвечаю за то, чтобы все пошли к месту сбора.",
+      "farsi": "همچنین، وظیفه من است که اطمینان حاصل کنم همه به محل تجمع می‌روند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Als Brandschutzhelfer muss ich auch immer wieder Fortbildungen besuchen und meinen Kolleginnen und Kollegen die Regeln für den Brandschutz erklären.",
+      "english": "As a fire safety assistant, I must regularly attend training sessions and explain the fire safety rules to my colleagues.",
+      "russian": "Как помощник по пожарной безопасности, я должен регулярно проходить обучение и объяснять коллегам правила пожарной безопасности.",
+      "farsi": "به عنوان مسئول ایمنی آتش‌سوزی، باید به طور مرتب در دوره‌های آموزشی شرکت کنم و قوانین ایمنی آتش را به همکارانم توضیح دهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es gibt regelmäßig Probealarm, um zu sehen, ob alles klappt.",
+      "english": "There are regular fire drills to see if everything works.",
+      "russian": "Регулярно проводятся учебные тревоги, чтобы проверить, всё ли работает.",
+      "farsi": "به طور منظم آژیرهای آزمایشی برگزار می‌شود تا ببینیم همه چیز درست کار می‌کند یا نه."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin neu hier im Betrieb.",
+      "english": "I am new here in the company.",
+      "russian": "Я новенький в этой компании.",
+      "farsi": "من تازه‌وارد این شرکت هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Gestern habe ich die Sicherheitsbestimmungen bekommen.",
+      "english": "Yesterday, I received the safety regulations.",
+      "russian": "Вчера я получил правила техники безопасности.",
+      "farsi": "دیروز من مقررات ایمنی را دریافت کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Darin steht, welche Sicherheitsvorschriften ich beachten muss und welche Arbeitskleidung ich tragen muss.",
+      "english": "It states which safety regulations I must follow and which work clothing I must wear.",
+      "russian": "Там указано, какие правила безопасности я должен соблюдать и какую рабочую одежду я должен носить.",
+      "farsi": "در آن نوشته شده است که چه مقررات ایمنی را باید رعایت کنم و چه لباس کاری را باید بپوشم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Heute erklärt mir der Meister die Arbeitsgeräte und Maschinen und ich nehme an einem Sicherheitstraining teil.",
+      "english": "Today, the supervisor is explaining the work equipment and machines to me, and I am participating in a safety training session.",
+      "russian": "Сегодня мастер объясняет мне рабочее оборудование и машины, и я принимаю участие в обучении по технике безопасности.",
+      "farsi": "امروز، سرپرست دستگاه‌ها و تجهیزات کاری را به من توضیح می‌دهد و من در یک دوره آموزشی ایمنی شرکت می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Danach muss ich unterschreiben, dass ich an dem Training teilgenommen habe.",
+      "english": "After that, I have to sign that I attended the training.",
+      "russian": "После этого я должен подписать, что прошел обучение.",
+      "farsi": "بعد از آن باید امضا کنم که در دوره آموزشی شرکت کرده‌ام."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin schwanger.",
+      "english": "I am pregnant.",
+      "russian": "Я беременна.",
+      "farsi": "من باردار هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Meinem Arbeitgeber muss ich die Schwangerschaft mitteilen, damit er meine Gesundheit am Arbeitsplatz schützen kann.",
+      "english": "I must inform my employer about the pregnancy so that he can protect my health in the workplace.",
+      "russian": "Я должна сообщить своему работодателю о беременности, чтобы он мог защитить мое здоровье на рабочем месте.",
+      "farsi": "باید به کارفرمایم درباره بارداری اطلاع دهم تا بتواند از سلامت من در محل کار محافظت کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich darf keine körperlich schweren Arbeiten mehr machen und mit gefährlichen Stoffen darf ich auch nicht mehr arbeiten.",
+      "english": "I am no longer allowed to do physically demanding work or work with hazardous substances.",
+      "russian": "Мне больше нельзя выполнять тяжелую физическую работу и работать с опасными веществами.",
+      "farsi": "دیگر مجاز به انجام کارهای سنگین فیزیکی نیستم و همچنین نباید با مواد خطرناک کار کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sechs Wochen vor der Geburt meines Kindes muss ich nicht mehr in der Firma arbeiten, ich darf aber arbeiten, wenn ich das möchte.",
+      "english": "Six weeks before the birth of my child, I no longer have to work at the company, but I may work if I want to.",
+      "russian": "За шесть недель до рождения моего ребенка я не обязана работать в компании, но могу работать, если захочу.",
+      "farsi": "شش هفته قبل از تولد فرزندم، مجبور نیستم در شرکت کار کنم، اما اگر بخواهم، می‌توانم کار کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nach der Entbindung darf ich acht Wochen nicht arbeiten.",
+      "english": "After giving birth, I am not allowed to work for eight weeks.",
+      "russian": "После родов мне нельзя работать восемь недель.",
+      "farsi": "پس از زایمان، به مدت هشت هفته اجازه کار ندارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mitarbeiterportrait: Sicherheitsexperte Ioannis Sikelianos",
+      "english": "Employee portrait: Safety expert Ioannis Sikelianos",
+      "russian": "Портрет сотрудника: эксперт по безопасности Иоаннис Сикелианос",
+      "farsi": "پروفایل کارمند: کارشناس ایمنی، یوانیس سیکلیانوس"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich mache regelmäßige Rundgänge durch die Firma und kontrolliere zum Beispiel, ob gegen die Sicherheitsvorschriften verstoßen wird.",
+      "english": "I regularly patrol the company and check, for example, if safety regulations are being violated.",
+      "russian": "Я регулярно обхожу компанию и проверяю, например, нарушаются ли правила безопасности.",
+      "farsi": "من به طور منظم در شرکت گشت می‌زنم و بررسی می‌کنم که آیا مقررات ایمنی نقض می‌شوند یا نه."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es ist wichtig, dass die Mitarbeitenden gefahrlos arbeiten.",
+      "english": "It is important that employees work safely.",
+      "russian": "Важно, чтобы сотрудники работали без риска.",
+      "farsi": "مهم است که کارکنان در شرایط ایمن کار کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es gibt natürlich immer ein Risiko, aber man kann viel tun, um Unfälle zu vermeiden.",
+      "english": "There is always a risk, of course, but a lot can be done to prevent accidents.",
+      "russian": "Конечно, всегда есть риск, но можно многое сделать, чтобы избежать несчастных случаев.",
+      "farsi": "البته همیشه یک خطر وجود دارد، اما می‌توان اقدامات زیادی برای جلوگیری از حوادث انجام داد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben z.B. an vielen Arbeitsplätzen Sicherheitskleidung und Sicherheitsausrüstung für die Mitarbeitenden.",
+      "english": "For example, we have safety clothing and safety equipment for employees at many workplaces.",
+      "russian": "Например, у нас есть защитная одежда и оборудование для сотрудников на многих рабочих местах.",
+      "farsi": "برای مثال، در بسیاری از محل‌های کار، لباس ایمنی و تجهیزات ایمنی برای کارکنان داریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich kontrolliere regelmäßig die Alarmsysteme und ich bin Ansprechpartner, wenn sich Mitarbeitende an ihrem Arbeitsplatz unsicher fühlen oder Gefahren erkennen.",
+      "english": "I regularly check the alarm systems and I am the contact person if employees feel unsafe at their workplace or recognize dangers.",
+      "russian": "Я регулярно проверяю системы сигнализации и являюсь контактным лицом, если сотрудники чувствуют себя неуверенно на рабочем месте или замечают опасности.",
+      "farsi": "من به طور منظم سیستم‌های هشدار را بررسی می‌کنم و در صورتی که کارکنان در محل کار خود احساس ناامنی کنند یا خطراتی را شناسایی کنند، مسئول پاسخگویی هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Manchmal beklagen sich die Angestellten, dass die Sicherheitskleidung etwas unpraktisch ist, weil man sich schlechter bewegen kann.",
+      "english": "Sometimes employees complain that the safety clothing is somewhat impractical because it restricts movement.",
+      "russian": "Иногда сотрудники жалуются, что защитная одежда неудобна, потому что она ограничивает движение.",
+      "farsi": "گاهی اوقات کارکنان شکایت می‌کنند که لباس ایمنی کمی دست و پا گیر است زیرا حرکت را محدود می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber die Sicherheit muss immer an erster Stelle stehen.",
+      "english": "But safety must always come first.",
+      "russian": "Но безопасность всегда должна быть на первом месте.",
+      "farsi": "اما ایمنی همیشه باید در اولویت باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn es trotzdem einmal einen Unfall gibt, prüft die Unfallversicherung, ob wir alle Sicherheitsvorschriften eingehalten haben.",
+      "english": "If an accident does happen, the accident insurance checks whether we have followed all safety regulations.",
+      "russian": "Если все же случается несчастный случай, страховая компания проверяет, соблюдали ли мы все правила безопасности.",
+      "farsi": "اگر با این حال حادثه‌ای رخ دهد، بیمه حوادث بررسی می‌کند که آیا ما تمام مقررات ایمنی را رعایت کرده‌ایم یا نه."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich muss diese Arbeitsunfälle genau dokumentieren.",
+      "english": "I have to document these workplace accidents precisely.",
+      "russian": "Я должен тщательно документировать эти несчастные случаи на рабочем месте.",
+      "farsi": "من باید این حوادث کاری را به‌طور دقیق ثبت کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nur wenn wir hier alles richtig gemacht haben, ist eine problemlose und schnelle Auszahlung der Versicherungsgelder möglich.",
+      "english": "Only if we have done everything correctly here, a smooth and quick payout of the insurance money is possible.",
+      "russian": "Только если мы сделали все правильно, возможна беспроблемная и быстрая выплата страховых денег.",
+      "farsi": "فقط در صورتی که همه چیز را به درستی انجام داده باشیم، پرداخت سریع و بدون مشکل بیمه ممکن خواهد بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich arbeite auch mit der Betriebsärztin zusammen, wenn es um Gesundheitsgefahren am Arbeitsplatz geht.",
+      "english": "I also work with the company doctor when it comes to health hazards in the workplace.",
+      "russian": "Я также сотрудничаю с корпоративным врачом, когда речь идет об угрозах здоровью на рабочем месте.",
+      "farsi": "من همچنین با پزشک شرکت همکاری می‌کنم، زمانی که بحث خطرات بهداشتی در محل کار مطرح باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn die Firma neue Produktionsmethoden einführt, machen wir gemeinsam Vorschläge zum Gesundheitsschutz.",
+      "english": "When the company introduces new production methods, we jointly make suggestions for health protection.",
+      "russian": "Когда компания внедряет новые методы производства, мы совместно разрабатываем предложения по охране здоровья.",
+      "farsi": "وقتی شرکت روش‌های تولید جدیدی را معرفی می‌کند، ما با هم پیشنهادهایی برای حفاظت از سلامت ارائه می‌دهیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Notrufzentrale Feuerwehr und Rettungsdienst Hamburg, Notrufzentrale, guten Tag.",
+      "english": "Emergency call center Fire Department and Rescue Service Hamburg, emergency call center, good day.",
+      "russian": "Экстренная служба пожарной охраны и спасательной службы Гамбурга, экстренная служба, добрый день.",
+      "farsi": "مرکز تماس اضطراری آتش‌نشانی و خدمات نجات هامبورگ، مرکز تماس اضطراری، روز بخیر."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hier ist ein Unfall passiert, kommen Sie bitte schnell.",
+      "english": "An accident has happened here, please come quickly.",
+      "russian": "Здесь произошел несчастный случай, пожалуйста, приезжайте быстро.",
+      "farsi": "اینجا یک تصادف رخ داده است، لطفاً سریع بیایید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was ist die genaue Adresse vom Unfallort?",
+      "english": "What is the exact address of the accident site?",
+      "russian": "Какой точный адрес места происшествия?",
+      "farsi": "آدرس دقیق محل حادثه چیست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Opitzstraße 34, Halle 4, bei der Firma Schäfer.",
+      "english": "Opitzstraße 34, Hall 4, at the Schäfer company.",
+      "russian": "Opitzstraße 34, зал 4, на фирме Шефер.",
+      "farsi": "خیابان اوپیتز 34، سالن 4، در شرکت شفر."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie lauten Ihr Name und Ihre Rückrufnummer?",
+      "english": "What is your name and your callback number?",
+      "russian": "Как ваше имя и номер для обратного звонка?",
+      "farsi": "نام و شماره تماس شما چیست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Andreas Müller, und die Telefonnummer ist die 0162/2082148.",
+      "english": "Andreas Müller, and the phone number is 0162/2082148.",
+      "russian": "Андреас Мюллер, а номер телефона 0162/2082148.",
+      "farsi": "آندریاس مولر است، و شماره تلفن 0162/2082148 است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Beschreiben Sie mir bitte genau, was passiert ist.",
+      "english": "Please describe exactly what happened.",
+      "russian": "Пожалуйста, опишите точно, что произошло.",
+      "farsi": "لطفاً دقیقاً توصیف کنید که چه اتفاقی افتاده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Meine Kollegin hat sich an einer Maschine verletzt.",
+      "english": "My colleague has injured herself on a machine.",
+      "russian": "Моя коллега травмировалась на машине.",
+      "farsi": "همکارم در حین کار با دستگاه آسیب دیده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie blutet am Arm und hat starke Schmerzen.",
+      "english": "She is bleeding from her arm and is in severe pain.",
+      "russian": "Она кровоточит с руки и испытывает сильную боль.",
+      "farsi": "او از دستش خونریزی می‌کند و درد شدیدی دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Kollegen kümmern sich um sie.",
+      "english": "The colleagues are taking care of her.",
+      "russian": "Коллеги заботятся о ней.",
+      "farsi": "همکاران در حال مراقبت از او هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber wir wissen nicht, was wir machen sollen.",
+      "english": "But we don't know what we should do.",
+      "russian": "Но мы не знаем, что нам делать.",
+      "farsi": "اما ما نمی‌دانیم باید چه کار کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir schicken Ihnen einen Rettungswagen.",
+      "english": "We will send you an ambulance.",
+      "russian": "Мы отправим вам скорую помощь.",
+      "farsi": "ما یک آمبولانس برای شما می‌فرستیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Warten Sie bitte am Firmeneingang, damit Sie den Rettungskräften den Weg zeigen können.",
+      "english": "Please wait at the company entrance so you can show the rescue team the way.",
+      "russian": "Пожалуйста, подождите у входа в компанию, чтобы вы могли показать путь спасателям.",
+      "farsi": "لطفاً در ورودی شرکت منتظر بمانید تا بتوانید مسیر را به تیم نجات نشان دهید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir sind in zehn Minuten bei Ihnen.",
+      "english": "We will be with you in ten minutes.",
+      "russian": "Мы будем у вас через десять минут.",
+      "farsi": "ما در ده دقیقه نزد شما خواهیم بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Arbeitsunfall auf Baustelle",
+      "english": "Work accident on construction site",
+      "russian": "Несчастный случай на строительном участке",
+      "farsi": "حادثه کاری در محل ساخت‌وساز"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Am 14.12.2024 um 11.45 Uhr ereignete sich auf der Baustelle in der Hamburger Straße 20 in Unterrode ein Arbeitsunfall.",
+      "english": "On 14.12.2024 at 11:45 AM, a work accident occurred at the construction site at Hamburger Straße 20 in Unterrode.",
+      "russian": "14.12.2024 в 11:45 на строительном участке по адресу Hamburger Straße 20 в Унтерроде произошел несчастный случай.",
+      "farsi": "در تاریخ 14.12.2024 ساعت 11:45 یک حادثه کاری در محل ساخت‌وساز واقع در خیابان هامبورگر 20 در آنترووده رخ داد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Malergeselle Joseph Conrad stürzte beim Tapezieren von der Leiter und verletzte sich am Rücken.",
+      "english": "The painter's assistant Joseph Conrad fell from the ladder while wallpapering and injured his back.",
+      "russian": "Помощник маляра Джозеф Конрад упал с лестницы во время оклейки обоями и травмировал спину.",
+      "farsi": "کارآموز نقاشی، جوزف کُنراد، هنگام کاغذ دیواری از نردبان افتاد و از ناحیه کمر آسیب دید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hatte außerdem starke Schmerzen im linken Arm.",
+      "english": "He also had severe pain in his left arm.",
+      "russian": "Кроме того, у него была сильная боль в левой руке.",
+      "farsi": "علاوه بر این، درد شدیدی در بازوی چپ خود داشت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Kollegin Elfriede Jelinek leistete Erste Hilfe.",
+      "english": "The colleague Elfriede Jelinek administered first aid.",
+      "russian": "Коллега Эльфрида Елинека оказала первую помощь.",
+      "farsi": "همکار، الفریدی یلینک، کمک‌های اولیه را ارائه داد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Kollege Arno Schmidt alarmierte sofort den Rettungsdienst, Herr Conrad wurde ins Zentralkrankenhaus gebracht.",
+      "english": "Colleague Arno Schmidt immediately alerted the emergency services, Mr. Conrad was taken to the central hospital.",
+      "russian": "Коллега Арно Шмидт сразу вызвал скорую помощь, мистер Конрад был доставлен в центральную больницу.",
+      "farsi": "همکار آرنوشمیت بلافاصله خدمات اضطراری را مطلع کرد، آقای کُنراد به بیمارستان مرکزی منتقل شد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Auch die Architektin Doris Lessing hat den Unfall gesehen.",
+      "english": "The architect Doris Lessing also saw the accident.",
+      "russian": "Архитектор Дорис Лессинг также увидела несчастный случай.",
+      "farsi": "معمار دوریس لسینگ نیز حادثه را مشاهده کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Warum Arbeitskleidung oder Uniformen?",
+      "english": "Why work clothing or uniforms?",
+      "russian": "Зачем рабочая одежда или униформа?",
+      "farsi": "چرا لباس کار یا یونیفرم‌ها؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es gibt verschiedene Formen von Arbeitskleidung: Es gibt Sicherheitskleidung, um die Mitarbeitenden in einer Firma vor Gefahren zu schützen.",
+      "english": "There are different types of work clothing: There is safety clothing to protect employees in a company from hazards.",
+      "russian": "Существует несколько типов рабочей одежды: существует защитная одежда, чтобы защитить сотрудников компании от опасностей.",
+      "farsi": "انواع مختلفی از لباس کار وجود دارد: لباس‌های ایمنی برای محافظت از کارکنان شرکت در برابر خطرات."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "So ist zum Beispiel in Betrieben, in denen Autos lackiert werden, der Atemschutz für die Mitarbeitenden besonders wichtig.",
+      "english": "For example, in businesses where cars are painted, respiratory protection is especially important for employees.",
+      "russian": "Так, например, в предприятиях, где красят автомобили, защита органов дыхания особенно важна для сотрудников.",
+      "farsi": "به عنوان مثال، در کارخانه‌هایی که خودروها را رنگ‌آمیزی می‌کنند، حفاظت تنفسی برای کارکنان اهمیت ویژه‌ای دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Deshalb tragen sie auch Atemschutzmasken.",
+      "english": "That is why they also wear respirators.",
+      "russian": "Поэтому они также носят респираторы.",
+      "farsi": "بنابراین، آنها همچنین از ماسک‌های تنفسی استفاده می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es gibt aber auch Kleidung, um die Produkte zu schützen, z. B. die Overalls in der Produktion von Mikrochips, die keinen Staub vertragen.",
+      "english": "There is also clothing to protect the products, e.g. overalls in the production of microchips, which cannot tolerate dust.",
+      "russian": "Есть также одежда для защиты продуктов, например, комбинезоны в производстве микрочипов, которые не переносят пыль.",
+      "farsi": "همچنین لباس‌هایی وجود دارند برای حفاظت از محصولات، مانند اورال‌ها در تولید میکروچیپ‌ها که گرد و غبار را تحمل نمی‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es gibt dann Arbeitskleidung, um die Mitarbeitenden, die Produkte und die Kundschaft zu schützen, wie z. B. Mützen und weiße Kleidung für Köchinnen und Köche.",
+      "english": "There is then work clothing to protect the employees, the products, and the customers, such as hats and white clothing for chefs.",
+      "russian": "Затем существует рабочая одежда для защиты сотрудников, продуктов и клиентов, например, шляпы и белая одежда для поваров.",
+      "farsi": "سپس لباس کار وجود دارد برای محافظت از کارکنان، محصولات و مشتریان، مانند کلاه‌ها و لباس‌های سفید برای آشپزان."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Mützen sichern die Hygiene bei der Arbeit, die weiße Kleidung kann man gut reinigen.",
+      "english": "The hats ensure hygiene at work, the white clothing can be easily cleaned.",
+      "russian": "Шляпы обеспечивают гигиену на рабочем месте, белую одежду можно легко очистить.",
+      "farsi": "کلاه‌ها به بهداشت در محل کار کمک می‌کنند، لباس‌های سفید به راحتی قابل شستشو هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Uniformen haben verschiedene Funktionen: Sie dienen als Orientierung, um die richtigen Ansprechpartnerinnen oder -partner zu finden: Mitarbeitende in Supermärkten oder Einsatzkräfte auf der Straße.",
+      "english": "Uniforms have different functions: they serve as orientation to find the right contacts: employees in supermarkets or emergency services on the street.",
+      "russian": "Униформы выполняют различные функции: они служат ориентиром для поиска нужных контактных лиц: сотрудники супермаркетов или службы экстренной помощи на улице.",
+      "farsi": "یونیفرم‌ها عملکردهای مختلفی دارند: آنها به عنوان راهنما برای پیدا کردن افراد مناسب برای ارتباط عمل می‌کنند: کارکنان در سوپرمارکت‌ها یا نیروهای امدادی در خیابان."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Zugleich signalisieren solche Uniformen Kompetenz und machen es den Angestellten leichter, sich mit dem Unternehmen, bei dem sie arbeiten, zu identifizieren.",
+      "english": "At the same time, such uniforms signal competence and make it easier for employees to identify with the company they work for.",
+      "russian": "В то же время такие униформы сигнализируют о компетентности и облегчают сотрудникам идентификацию с компанией, в которой они работают.",
+      "farsi": "در عین حال، چنین یونیفرم‌هایی نشان‌دهنده‌ی صلاحیت هستند و شناسایی خود با شرکتی که در آن کار می‌کنند را برای کارکنان آسان‌تر می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "über Unfallrisiken am Arbeitsplatz sprechen",
+      "english": "Talking about accident risks in the workplace",
+      "russian": "Говорить об опасностях на рабочем месте",
+      "farsi": "صحبت در مورد خطرات حادثه در محل کار"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Für Bauarbeiter auf der Straße ist der Autoverkehr ein Risiko.",
+      "english": "For construction workers on the street, traffic is a risk.",
+      "russian": "Для строителей на улице движение транспорта является риском.",
+      "farsi": "برای کارگران ساختمانی در خیابان، ترافیک یک خطر است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im Büro kann man über herumliegende Kabel stolpern.",
+      "english": "In the office, one can trip over cables lying around.",
+      "russian": "В офисе можно споткнуться о валяющиеся провода.",
+      "farsi": "در دفتر، ممکن است بر روی کابل‌های پراکنده زمین بخورید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Eine Produktionshelferin kann versehentlich in eine laufende Maschine fassen.",
+      "english": "A production assistant could accidentally reach into a running machine.",
+      "russian": "Помощник на производстве может случайно дотронуться до работающей машины.",
+      "farsi": "یک دستیار تولید ممکن است به طور تصادفی به دستگاه در حال کار دست بزند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "über Sicherheitszeichen sprechen",
+      "english": "Talking about safety signs",
+      "russian": "Говорить о знаках безопасности",
+      "farsi": "صحبت در مورد علائم ایمنی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Rettungszeichen sind quadratisch und haben die Farben Grün und Weiß.",
+      "english": "Rescue signs are square and have green and white colors.",
+      "russian": "Знаки спасения квадратные и имеют зеленый и белый цвета.",
+      "farsi": "علائم نجات مربع شکل هستند و رنگ‌های سبز و سفید دارند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Brandschutzzeichen sind rot-weiß.",
+      "english": "Fire protection signs are red and white.",
+      "russian": "Знаки противопожарной безопасности красные и белые.",
+      "farsi": "علائم حفاظت از حریق قرمز و سفید هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "über Sicherheitsmaßnahmen in Unternehmen sprechen",
+      "english": "Talking about safety measures in companies",
+      "russian": "Говорить о мерах безопасности в компаниях",
+      "farsi": "صحبت در مورد تدابیر ایمنی در شرکت‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Arbeitgebenden müssen den Arbeitnehmenden die Maschinen und Geräte erklären.",
+      "english": "Employers must explain the machines and equipment to the employees.",
+      "russian": "Работодатели должны объяснить работникам машины и оборудование.",
+      "farsi": "کارفرمایان باید ماشین‌آلات و تجهیزات را به کارکنان توضیح دهند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Unternehmen haben die Pflicht, ihre Angestellten vor Gefahren zu schützen.",
+      "english": "Companies have the duty to protect their employees from hazards.",
+      "russian": "Компания обязана защищать своих сотрудников от опасностей.",
+      "farsi": "شرکت‌ها موظفند از کارکنان خود در برابر خطرات محافظت کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In Unternehmen muss es Fluchtwege geben.",
+      "english": "Companies must have escape routes.",
+      "russian": "В компаниях должны быть пути эвакуации.",
+      "farsi": "در شرکت‌ها باید مسیرهای فرار وجود داشته باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "einen Unfall melden",
+      "english": "Report an accident",
+      "russian": "Сообщить о несчастном случае",
+      "farsi": "گزارش یک حادثه"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wo ist es passiert?",
+      "english": "Where did it happen?",
+      "russian": "Где это произошло?",
+      "farsi": "کجا این اتفاق افتاده است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wer meldet den Unfall?",
+      "english": "Who is reporting the accident?",
+      "russian": "Кто сообщает о несчастном случае?",
+      "farsi": "چه کسی حادثه را گزارش می‌دهد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was ist passiert?",
+      "english": "What happened?",
+      "russian": "Что произошло?",
+      "farsi": "چه اتفاقی افتاده است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Welche Art von Verletzung?",
+      "english": "What type of injury?",
+      "russian": "Какой тип травмы?",
+      "farsi": "چه نوع زخمی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In der Steinstraße 7 ist ein Unfall passiert.",
+      "english": "An accident happened at Steinstraße 7.",
+      "russian": "Несчастный случай произошел на улице Steinstraße 7.",
+      "farsi": "یک حادثه در خیابان اشتاین‌اشتراسه 7 اتفاق افتاده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein Name ist …",
+      "english": "My name is …",
+      "russian": "Меня зовут …",
+      "farsi": "نام من … است"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ein Kollege ist von einer Leiter gefallen.",
+      "english": "A colleague fell from a ladder.",
+      "russian": "Коллега упал с лестницы.",
+      "farsi": "یک همکار از نردبان افتاده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat große Schmerzen im linken Bein.",
+      "english": "He has severe pain in his left leg.",
+      "russian": "У него сильная боль в левой ноге.",
+      "farsi": "او درد شدیدی در پای چپ خود دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "über Arbeitskleidung sprechen",
+      "english": "Talking about work clothing",
+      "russian": "Говорить о рабочей одежде",
+      "farsi": "صحبت در مورد لباس کار"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sicherheitsschuhe brauchen zum Beispiel Feuerwehrleute.",
+      "english": "For example, firefighters need safety shoes.",
+      "russian": "Например, пожарным нужны защитные ботинки.",
+      "farsi": "برای مثال، آتش‌نشان‌ها به کفش‌های ایمنی نیاز دارند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Auf Baustellen sorgen Helme für Sicherheit.",
+      "english": "Helmets ensure safety on construction sites.",
+      "russian": "На строительных площадках каски обеспечивают безопасность.",
+      "farsi": "کلاه‌ ایمنی در محل‌های ساخت و ساز ایمنی را تضمین می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In Hotels müssen die Angestellten Servicekleidung tragen.",
+      "english": "In hotels, employees must wear service clothing.",
+      "russian": "В отелях сотрудники должны носить служебную одежду.",
+      "farsi": "در هتل‌ها، کارکنان باید لباس خدماتی بپوشند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Meine Cousine hat eine Ausbildung zur Restaurantfachfrau gemacht und arbeitet zurzeit als Kellnerin in einem 2-Sterne Restaurant.",
+      "english": "My cousin trained as a restaurant specialist and is currently working as a waitress in a 2-star restaurant.",
+      "russian": "Моя кузина прошла обучение по специальности ресторанного обслуживания и в настоящее время работает официанткой в двухзвездочном ресторане.",
+      "farsi": "دختر عموی من دوره‌ای برای متخصص رستوران گذرانده و هم‌اکنون به عنوان پیشخدمت در یک رستوران دو ستاره کار می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat mir viele interessante Dinge über ihre Ausbildung und ihren Berufsalltag erzählt.",
+      "english": "She told me many interesting things about her training and her daily work life.",
+      "russian": "Она рассказала мне много интересных вещей о своем обучении и повседневной работе.",
+      "farsi": "او به من چیزهای جالبی درباره آموزش و روزمرگی شغلی‌اش گفته است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Ausbildung ist sehr abwechslungsreich.",
+      "english": "The training is very varied.",
+      "russian": "Обучение очень разнообразное.",
+      "farsi": "آموزش بسیار متنوع است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man lernt, wie man Tische dekoriert, welche Getränke zu einem Menü passen, wie man Essen und Getränke richtig serviert und wie man größere Veranstaltungen plant.",
+      "english": "You learn how to decorate tables, which drinks go with a menu, how to serve food and drinks correctly, and how to plan larger events.",
+      "russian": "Учите, как декорировать столы, какие напитки подходят к меню, как правильно подавать еду и напитки и как планировать крупные мероприятия.",
+      "farsi": "شما یاد می‌گیرید چگونه میزها را تزئین کنید، کدام نوشیدنی‌ها با یک منو هماهنگ هستند، چگونه غذا و نوشیدنی‌ها را درست سرو کنید و چگونه رویدادهای بزرگ را برنامه‌ریزی کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die unregelmäßigen Arbeitszeiten am Abend und am Wochenende findet sie anstrengend.",
+      "english": "She finds the irregular working hours in the evening and on weekends exhausting.",
+      "russian": "Она находит нерегулярные рабочие часы вечером и на выходных утомительными.",
+      "farsi": "او ساعات کاری نامنظم در شب و آخر هفته‌ها را خسته‌کننده می‌داند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber mit ihren Kenntnissen hat sie viele Möglichkeiten.",
+      "english": "But with her knowledge, she has many opportunities.",
+      "russian": "Но благодаря своим знаниям у нее есть множество возможностей.",
+      "farsi": "اما با دانش‌های خود، او فرصت‌های زیادی دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie hat ein gutes Angebot von einer Eventagentur bekommen und wird bald ihre Stelle wechseln, um in Zukunft große Feste wie Hochzeiten zu organisieren.",
+      "english": "She received a good offer from an event agency and will soon change her position to organize large events like weddings in the future.",
+      "russian": "Она получила хорошее предложение от агентства по организации мероприятий и вскоре сменит должность, чтобы в будущем организовывать большие мероприятия, такие как свадьбы.",
+      "farsi": "او یک پیشنهاد خوب از یک آژانس رویداد دریافت کرده و به زودی شغل خود را تغییر خواهد داد تا در آینده جشن‌های بزرگی مانند عروسی‌ها را سازماندهی کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe im September auch eine Ausbildung in der Gastronomie begonnen, denn durch meine Cousine weiß ich, dass so eine Ausbildung viele Möglichkeiten bietet.",
+      "english": "I also started training in gastronomy in September, because through my cousin, I know that such training offers many opportunities.",
+      "russian": "Я также начал обучение в гастрономии в сентябре, потому что через свою кузину я знаю, что такое обучение предоставляет множество возможностей.",
+      "farsi": "من هم در سپتامبر یک دوره آموزشی در صنعت رستوران‌داری شروع کرده‌ام، زیرا از طریق دختر عموی خود می‌دانم که چنین آموزشی فرصت‌های زیادی را فراهم می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein Nachbar ist gelernter Straßenbauer.",
+      "english": "My neighbor is a trained road builder.",
+      "russian": "Мой сосед - обученный дорожный строитель.",
+      "farsi": "همسایه‌ام یک سازنده راه ماهر است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Ausbildung dauert drei Jahre.",
+      "english": "The training lasts three years.",
+      "russian": "Обучение длится три года.",
+      "farsi": "دوره آموزش سه سال طول می‌کشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Zuerst hat er mehrere Jahre draußen auf den Straßen gearbeitet.",
+      "english": "First, he worked for several years outdoors on the streets.",
+      "russian": "Сначала он несколько лет работал на улице.",
+      "farsi": "اولاً او چند سال در بیرون و در خیابان‌ها کار کرده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Daneben hat er viele Weiterbildungskurse besucht und Zusatzqualifikationen gemacht, so dass er vor drei Jahren einen Job in der Stadtverwaltung von Unterrode bekommen hat.",
+      "english": "In addition, he attended many further training courses and obtained additional qualifications, so that three years ago, he got a job in the city administration of Unterrode.",
+      "russian": "Кроме того, он посещал множество курсов повышения квалификации и получил дополнительные квалификации, так что три года назад он устроился на работу в городскую администрацию Унтерроде.",
+      "farsi": "علاوه بر این، او دوره‌های زیادی برای آموزش‌های تکمیلی گذراند و مدارک اضافی گرفت، به طوری که سه سال پیش شغلی در اداره شهری Unterrode پیدا کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Jetzt ist er für die Planung und Überwachung von Baustellen zuständig.",
+      "english": "Now he is responsible for planning and overseeing construction sites.",
+      "russian": "Теперь он отвечает за планирование и контроль за строительными площадками.",
+      "farsi": "اکنون او مسئول برنامه‌ریزی و نظارت بر پروژه‌های ساخت و ساز است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich finde, er hat seinen Berufsweg gut geplant und das möchte ich auch.",
+      "english": "I think he has planned his career path well, and I want to do the same.",
+      "russian": "Я считаю, что он хорошо спланировал свою карьеру, и я тоже хочу так сделать.",
+      "farsi": "من فکر می‌کنم او مسیر شغلی خود را به خوبی برنامه‌ریزی کرده است و من هم می‌خواهم همین کار را انجام دهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich arbeite seit sechs Monaten als Produktionshelfer in einer Fabrik.",
+      "english": "I have been working as a production assistant in a factory for six months.",
+      "russian": "Я работаю помощником на производстве в фабрике уже шесть месяцев.",
+      "farsi": "من شش ماه است که به عنوان دستیار تولید در یک کارخانه کار می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein Arbeitgeber bietet viele Fortbildungsmöglichkeiten.",
+      "english": "My employer offers many opportunities for further training.",
+      "russian": "Мой работодатель предлагает множество возможностей для дальнейшего обучения.",
+      "farsi": "کارفرمای من فرصت‌های زیادی برای آموزش‌های تکمیلی فراهم می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich denke, dass ich beruflich weiterkommen kann, wenn ich an einigen Fortbildungen teilnehme und vielleicht auch noch Abendkurse an einer beruflichen Schule mache.",
+      "english": "I think I can advance in my career if I participate in some training courses and maybe also take evening classes at a vocational school.",
+      "russian": "Я думаю, что смогу продвинуться по карьерной лестнице, если буду участвовать в некоторых курсах повышения квалификации и, возможно, посещать вечерние курсы в профессиональной школе.",
+      "farsi": "فکر می‌کنم که اگر در برخی دوره‌های آموزشی شرکت کنم و شاید همچنین در کلاس‌های شبانه یک مدرسه فنی شرکت کنم، می‌توانم در حرفه‌ام پیشرفت کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Notrufzentrale Feuerwehr und Rettungsdienst Stuttgart, Notrufzentrale, guten Tag.",
+      "english": "Emergency call center, fire department and ambulance service Stuttgart, emergency call center, good day.",
+      "russian": "Экстренная служба, пожарная и скорая помощь Штутгарта, экстренная служба, добрый день.",
+      "farsi": "مرکز تماس اضطراری، آتش‌نشانی و خدمات اورژانس اشتوتگارت، مرکز تماس اضطراری، روز بخیر."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ioannis Sikelianos Guten Tag, Sikelianos.",
+      "english": "Ioannis Sikelianos, Good day, Sikelianos.",
+      "russian": "Иоаннис Сикелианос, Добрый день, Сикелианос.",
+      "farsi": "ایوآنیس سیکلیانوس، روز بخیر، سیکلیانوس."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hier in der Firma Lasotek ist ein Unfall passiert.",
+      "english": "An accident happened here at the company Lasotek.",
+      "russian": "Здесь, в компании Lasotek, произошел несчастный случай.",
+      "farsi": "اینجا در شرکت Lasotek یک حادثه رخ داده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir brauchen Hilfe.",
+      "english": "We need help.",
+      "russian": "Нам нужна помощь.",
+      "farsi": "ما به کمک نیاز داریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wo genau ist der Unfallort?",
+      "english": "Where exactly is the accident location?",
+      "russian": "Где именно произошло происшествие?",
+      "farsi": "محل دقیق حادثه کجا است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In der Lasotek Maschinenbau AG in der Hauptstraße 52.",
+      "english": "At Lasotek Mechanical Engineering AG, Hauptstraße 52.",
+      "russian": "В компании Lasotek Maschinenbau AG на Hauptstraße 52.",
+      "farsi": "در شرکت Lasotek Maschinenbau AG در خیابان اصلی 52."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bitte erklären Sie genau, was passiert ist.",
+      "english": "Please explain exactly what happened.",
+      "russian": "Пожалуйста, объясните, что именно произошло.",
+      "farsi": "لطفاً دقیقاً توضیح دهید که چه اتفاقی افتاده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im Lager sind zwei Gabelstapler zusammengestoßen.",
+      "english": "In the warehouse, two forklifts collided.",
+      "russian": "На складе столкнулись два погрузчика.",
+      "farsi": "در انبار دو لیفتراک به هم برخورد کرده‌اند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die beiden Fahrer sind verletzt.",
+      "english": "Both drivers are injured.",
+      "russian": "Оба водителя получили травмы.",
+      "farsi": "هر دو راننده مجروح شده‌اند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sind sie verletzt?",
+      "english": "How are they injured?",
+      "russian": "Как они были травмированы?",
+      "farsi": "چطور زخمی شده‌اند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ein Mitarbeiter hat Verletzungen am Kopf, der andere Mitarbeiter ist an den Armen und am linken Bein verletzt.",
+      "english": "One employee has injuries to the head, the other employee is injured on the arms and the left leg.",
+      "russian": "Один сотрудник получил травмы головы, другой сотрудник травмирован на руках и левой ноге.",
+      "farsi": "یک کارمند زخمی‌هایی در سر دارد، دیگری در دست‌ها و پای چپ زخمی شده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Okay.",
+      "english": "Okay.",
+      "russian": "Окей.",
+      "farsi": "باشه."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie lauten Ihr Name und Ihre Rückrufnummer?",
+      "english": "What is your name and your callback number?",
+      "russian": "Как ваше имя и номер для обратного звонка?",
+      "farsi": "نام شما و شماره تماس شما چیست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ioannis Sikelianos. 0162/2082148.",
+      "english": "Ioannis Sikelianos. 0162/2082148.",
+      "russian": "Иоаннис Сикелианос. 0162/2082148.",
+      "farsi": "ایوآنیس سیکلیانوس. 0162/2082148."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir schicken sofort einen Rettungswagen.",
+      "english": "We are sending an ambulance immediately.",
+      "russian": "Мы немедленно отправляем скорую помощь.",
+      "farsi": "ما بلافاصله یک آمبولانس می‌فرستیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir brauchen etwa zehn Minuten, bis wir bei Ihnen sind.",
+      "english": "We need about ten minutes until we are with you.",
+      "russian": "Нам нужно около десяти минут, чтобы добраться до вас.",
+      "farsi": "ما حدود ده دقیقه زمان نیاز داریم تا به شما برسیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Warten Sie am Firmeneingang, damit Sie dem Notarzt den Weg zum Unfallort zeigen können.",
+      "english": "Wait at the company entrance so that you can show the emergency doctor the way to the accident site.",
+      "russian": "Подождите у входа в компанию, чтобы вы могли показать врачу скорой помощи путь к месту происшествия.",
+      "farsi": "لطفاً در ورودی شرکت منتظر بمانید تا بتوانید مسیر را به پزشک اورژانس نشان دهید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ioannis Sikelianos Alles klar.",
+      "english": "Ioannis Sikelianos, understood.",
+      "russian": "Иоаннис Сикелианос, понял.",
+      "farsi": "ایوآنیس سیکلیانوس، متوجه شدم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hast du jetzt alle Daten für das Protokoll zusammen?",
+      "english": "Do you have all the data for the report now?",
+      "russian": "У тебя теперь все данные для протокола?",
+      "farsi": "آیا حالا تمام داده‌ها برای گزارش جمع‌آوری شده است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, du kannst sie in das Protokoll eintragen.",
+      "english": "Yes, you can enter them into the report.",
+      "russian": "Да, ты можешь внести их в отчет.",
+      "farsi": "بله، می‌توانی آنها را در گزارش وارد کنی."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Verletzte heißt Marciana Muhenje.",
+      "english": "The injured person is named Marciana Muhenje.",
+      "russian": "Пострадавшую зовут Марсиана Мухенже.",
+      "farsi": "زخمی شده مارسیانا موهنج است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Unfall ist im Restaurant „Sonne“ in der Freiburger Straße in Vörstetten passiert.",
+      "english": "The accident happened at the restaurant 'Sonne' on Freiburger Straße in Vörstetten.",
+      "russian": "Несчастный случай произошел в ресторане 'Sonne' на улице Фрайбургер в Вёрстеттене.",
+      "farsi": "حادثه در رستوران «سانه» در خیابان فریبورگر در ورستتن رخ داده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was ist genau passiert?",
+      "english": "What exactly happened?",
+      "russian": "Что именно произошло?",
+      "farsi": "دقیقاً چه اتفاقی افتاده است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Frau Muhenje arbeitet dort als Kellnerin.",
+      "english": "Ms. Muhenje works there as a waitress.",
+      "russian": "Госпожа Мухенже работает там официанткой.",
+      "farsi": "خانم موهنج در آنجا به عنوان پیشخدمت کار می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie ist mit einem Tablett mit Gläsern ausgerutscht, die Gläser sind kaputt gegangen, sie hat sich an beiden Händen geschnitten.",
+      "english": "She slipped with a tray of glasses, the glasses broke, and she cut both of her hands.",
+      "russian": "Она поскользнулась с подносом с бокалами, бокалы разбились, и она порезала обе руки.",
+      "farsi": "او با یک سینی که حاوی لیوان بود لغزید، لیوان‌ها شکستند و او دستانش را برید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was hat man dann gemacht?",
+      "english": "What was done then?",
+      "russian": "Что было сделано затем?",
+      "farsi": "بعد از آن چه کار کردند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ein Gast, der Arzt war, hat Erste Hilfe geleistet und hat sie danach zum Notarzt gefahren.",
+      "english": "A guest, who was a doctor, provided first aid and then drove her to the emergency doctor.",
+      "russian": "Гость, который был врачом, оказал первую помощь и затем отвез ее к врачу скорой помощи.",
+      "farsi": "یک مهمان که پزشک بود، کمک‌های اولیه را ارائه داد و سپس او را به پزشک اورژانس برد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Arzt ist sicher einer der Zeugen des Unfalls, wie ist sein Name?",
+      "english": "The doctor is certainly one of the witnesses of the accident, what is his name?",
+      "russian": "Этот врач, вероятно, один из свидетелей происшествия, как его зовут?",
+      "farsi": "پزشک قطعاً یکی از شاهدان حادثه است، نام او چیست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er heißt Hannes Fechner.",
+      "english": "His name is Hannes Fechner.",
+      "russian": "Его зовут Ханнес Фехнер.",
+      "farsi": "نام او هانس فخنر است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Außerdem kannst du Frau Deborah Freitas, eine Kollegin von Frau Muhenje, als Zeugin notieren.",
+      "english": "You can also note Ms. Deborah Freitas, a colleague of Ms. Muhenje, as a witness.",
+      "russian": "Вы также можете записать госпожу Дебору Фрейтас, коллегу госпожи Мухенже, как свидетельницу.",
+      "farsi": "علاوه بر این، می‌توانی خانم دبرا فریتاس، یکی از همکاران خانم موهنج، را به عنوان شاهد ثبت کنی."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Deborah Freitas?",
+      "english": "Deborah Freitas?",
+      "russian": "Дебора Фрейтас?",
+      "farsi": "دبرا فریتاس؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kannst du das bitte buchstabieren?",
+      "english": "Can you please spell that?",
+      "russian": "Можешь это, пожалуйста, по буквам?",
+      "farsi": "آیا می‌توانی لطفاً آن را هجی کنی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, Moment. D - E - B - O - R - A - H und dann F - R - E - I - T - A - S.",
+      "english": "Yes, one moment. D - E - B - O - R - A - H and then F - R - E - I - T - A - S.",
+      "russian": "Да, подожди секунду. D - E - B - O - R - A - H, а затем F - R - E - I - T - A - S.",
+      "farsi": "بله، لحظه‌ای صبر کن. D - E - B - O - R - A - H و بعد F - R - E - I - T - A - S."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Okay, dann muss ich nur noch wissen, wann der Unfall passiert ist.",
+      "english": "Okay, then I just need to know when the accident happened.",
+      "russian": "Хорошо, теперь мне нужно только узнать, когда произошел несчастный случай.",
+      "farsi": "باشه، حالا فقط باید بدانم حادثه چه زمانی رخ داده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das war am sechsten Juli 2024 um ca. 12:20 Uhr.",
+      "english": "It was on the 6th of July 2024 at around 12:20 PM.",
+      "russian": "Это было 6 июля 2024 года около 12:20.",
+      "farsi": "این حادثه در تاریخ ششم ژوئیه 2024 حدود ساعت 12:20 رخ داده است."
+    }
+  ]
+}

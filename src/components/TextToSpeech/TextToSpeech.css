@@ -7,6 +7,7 @@
 
 .container-controls-button .control-button {
   margin-right: 30px;
+  padding: 5px;
   background-color: rgb(255, 255, 255);
   color: white;
   border: none;
