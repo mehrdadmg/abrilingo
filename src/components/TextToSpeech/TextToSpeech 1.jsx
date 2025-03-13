@@ -1,5 +1,5 @@
-import React, { useState, useRef, useEffect } from 'react';
-import { FaCirclePlay, FaCircleStop, FaCirclePause /* , FaForward */ } from 'react-icons/fa6';
+import React, { useState, useRef } from 'react';
+import { FaCirclePlay, FaCircleStop, FaCirclePause, FaForward } from 'react-icons/fa6';
 import './TextToSpeech.css';
 
 const TextToSpeech = (props) => {
@@ -8,28 +8,9 @@ const TextToSpeech = (props) => {
   const [isPaused, setIsPaused] = useState(false);
   //const [rate, setRate] = useState(1);
   //const [pitch, setPitch] = useState(1);
-
-  /////////
-  // const synthRef = useRef(window.speechSynthesis);
-  const synthRef = useRef(null);
-  const [isSpeechSupported, setIsSpeechSupported] = useState(false);
-  ////////
+  const synthRef = useRef(window.speechSynthesis);
   const utteranceRef = useRef(null);
 
-  useEffect(() => {
-    // Check if speech synthesis is supported
-    if (typeof window !== 'undefined' && window.speechSynthesis) {
-      synthRef.current = window.speechSynthesis;
-      setIsSpeechSupported(true);
-
-      // iOS requires speech synthesis to be initialized on user interaction
-      if (/(iPhone|iPod|iPad)/i.test(navigator.userAgent)) {
-        const utterance = new SpeechSynthesisUtterance('');
-        synthRef.current.speak(utterance);
-        synthRef.current.cancel();
-      }
-    }
-  }, []);
   /*   
   const handlePlay = () => {
     if (isPlaying && isPaused) {
@@ -59,48 +40,42 @@ const TextToSpeech = (props) => {
  */
 
   const handlePlay = () => {
-    if (!isSpeechSupported) return;
-
     if (isPlaying && isPaused) {
+      // Resume if paused
       synthRef.current.resume();
       setIsPaused(false);
-      return;
-    }
-
-    if (synthRef.current.speaking) {
-      synthRef.current.cancel();
-    }
-
-    const chunks = props.text.split('\u200B');
-
-    // For iOS, we need to chain the utterances
-    let utterances = chunks.map((chunk, index) => {
-      const utterance = new SpeechSynthesisUtterance(chunk.trim());
-      utterance.rate = props.rate;
-      utterance.pitch = props.pitch;
-      utterance.voice = props.voice;
-      utterance.lang = 'de-DE';
-
-      if (index < chunks.length - 1) {
-        utterance.onend = () => {
-          setTimeout(() => {
-            if (!isPaused) {
-              synthRef.current.speak(utterances[index + 1]);
-            }
-          }, 1000);
-        };
-      } else {
-        utterance.onend = () => {
-          setIsPlaying(false);
-        };
+    } else {
+      // Start new speech
+      if (synthRef.current.speaking) {
+        synthRef.current.cancel(); // Stop any ongoing speech
       }
 
-      return utterance;
-    });
+      // تقسیم متن به قطعات کوچک
+      const chunks = props.text.split('\u200B');
 
-    setIsPlaying(true);
-    synthRef.current.speak(utterances[0]);
-    utteranceRef.current = utterances[0];
+      chunks.forEach((chunk, index) => {
+        setTimeout(() => {
+          //console.log(index, '  : ', chunk);
+          const utterance = new SpeechSynthesisUtterance(chunk.trim());
+          utterance.rate = props.rate;
+          utterance.pitch = props.pitch;
+          utterance.voice = props.voice;
+          utterance.lang = 'de-DE';
+          utterance.onend = () => {
+            // وقتی خواندن متن به پایان می‌رسد
+            if (index === chunks.length - 1) {
+              setIsPlaying(false); // تمام قطعات تمام شده‌اند
+            }
+          };
+
+          // خواندن قطعه
+          synthRef.current.speak(utterance);
+          utteranceRef.current = utterance;
+
+          setIsPlaying(true);
+        }, 1000); // فاصله زمانی بین هر قطعه
+      });
+    }
   };
 
   const handlePause = () => {
@@ -117,7 +92,7 @@ const TextToSpeech = (props) => {
       setIsPaused(false);
     }
   };
-  /* 
+
   const handlePlaySentences = (sentences) => {
     let index = 0;
 
@@ -147,7 +122,7 @@ const TextToSpeech = (props) => {
     setIsPlaying(true);
     speakNextSentence();
   };
- */
+
   return (
     <div className="container-controls-button">
       {/* <button onClick={handlePlaySentences} className="control-button" disabled={isPlaying && !isPaused}>

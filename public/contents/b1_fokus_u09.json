@@ -304,10 +304,10 @@
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Mitarbeiterportrait: Sicherheitsexperte Ioannis Sikelianos",
-      "english": "Employee portrait: Safety expert Ioannis Sikelianos",
-      "russian": "Портрет сотрудника: эксперт по безопасности Иоаннис Сикелианос",
-      "farsi": "پروفایل کارمند: کارشناس ایمنی، یوانیس سیکلیانوس"
+      "sentence": "Sicherheitsexperte Ioannis Sikelianos",
+      "english": "Safety expert Ioannis Sikelianos",
+      "russian": "эксперт по безопасности Иоаннис Сикелианос",
+      "farsi": "کارشناس ایمنی، یوانیس سیکلیانوس"
     },
     {
       "isSelected": false,
@@ -984,10 +984,10 @@
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Ioannis Sikelianos Guten Tag, Sikelianos.",
-      "english": "Ioannis Sikelianos, Good day, Sikelianos.",
-      "russian": "Иоаннис Сикелианос, Добрый день, Сикелианос.",
-      "farsi": "ایوآنیس سیکلیانوس، روز بخیر، سیکلیانوس."
+      "sentence": "Guten Tag, Sikelianos.",
+      "english": "Good day, Sikelianos.",
+      "russian": "Добрый день, Сикелианос.",
+      "farsi": "روز بخیر، سیکلیانوس."
     },
     {
       "isSelected": false,
@@ -1080,10 +1080,10 @@
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Ioannis Sikelianos. 0162/2082148.",
-      "english": "Ioannis Sikelianos. 0162/2082148.",
-      "russian": "Иоаннис Сикелианос. 0162/2082148.",
-      "farsi": "ایوآنیس سیکلیانوس. 0162/2082148."
+      "sentence": "0162/2082148.",
+      "english": "0162/2082148.",
+      "russian": "0162/2082148.",
+      "farsi": "0162/2082148."
     },
     {
       "isSelected": false,
@@ -1112,10 +1112,10 @@
     {
       "isSelected": false,
       "type": "sentence",
-      "sentence": "Ioannis Sikelianos Alles klar.",
-      "english": "Ioannis Sikelianos, understood.",
-      "russian": "Иоаннис Сикелианос, понял.",
-      "farsi": "ایوآنیس سیکلیانوس، متوجه شدم."
+      "sentence": "Alles klar.",
+      "english": "understood.",
+      "russian": "понял.",
+      "farsi": "متوجه شدم."
     },
     {
       "isSelected": false,

@@ -217,6 +217,12 @@ const alllessons = [
         name: 'B1_Fokus_u09',
       },
       {
+        id: '311',
+        level: 1,
+        file_name: 'b1_fokus_u10.json',
+        name: 'B1_Fokus_u10',
+      },
+      {
         id: '309',
         level: 1,
         file_name: 'verben_mit_präposition_fokus_b1.json',

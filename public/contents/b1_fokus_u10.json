@@ -1,0 +1,1361 @@
+{
+  "info": {
+    "name": "B1_Fokus_u10",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich war fest angestellt in einer kleinen Designagentur.",
+      "english": "I was permanently employed in a small design agency.",
+      "russian": "Я был штатным сотрудником в небольшом дизайнерском агентстве.",
+      "farsi": "من به صورت دائمی در یک آژانس طراحی کوچک استخدام شده بودم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich wollte aber meine eigene Chefin sein und so arbeiten, wie ich es will.",
+      "english": "But I wanted to be my own boss and work the way I want.",
+      "russian": "Но я хотел быть сам себе начальником и работать так, как мне хочется.",
+      "farsi": "اما من می‌خواستم رئیس خودم باشم و به شیوه‌ای که دوست دارم کار کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Deshalb habe ich mich selbstständig gemacht.",
+      "english": "That's why I became self-employed.",
+      "russian": "Поэтому я стал самозанятым.",
+      "farsi": "به همین دلیل من خوداشتغال شدم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich betreibe zusammen mit meinem Bruder einen Dönerimbiss in der Innenstadt.",
+      "english": "I run a döner snack bar in the city center together with my brother.",
+      "russian": "Я вместе с братом управляю киоском с дёнером в центре города.",
+      "farsi": "من همراه با برادرم یک اغذیه‌فروشی دونر در مرکز شهر اداره می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Reich wird man damit nicht, denn die Konkurrenz ist groß.",
+      "english": "You don’t get rich with it because the competition is strong.",
+      "russian": "На этом не разбогатеешь, потому что конкуренция большая.",
+      "farsi": "با این کار ثروتمند نمی‌شوی، زیرا رقابت زیاد است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber wir haben viele Stammgäste.",
+      "english": "But we have many regular customers.",
+      "russian": "Но у нас много постоянных клиентов.",
+      "farsi": "اما ما مشتریان ثابت زیادی داریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nachdem ich die Meisterprüfung gemacht hatte, habe ich einen Betrieb für Heizung und Sanitär gegründet.",
+      "english": "After I passed the master craftsman exam, I started a heating and plumbing business.",
+      "russian": "После того как я сдал экзамен на мастера, я основал компанию по отоплению и сантехнике.",
+      "farsi": "پس از اینکه آزمون استادی را گذراندم، یک شرکت تأسیسات گرمایشی و بهداشتی تأسیس کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die ersten Jahre waren schwer.",
+      "english": "The first years were tough.",
+      "russian": "Первые годы были тяжелыми.",
+      "farsi": "سال‌های اول سخت بودند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber heute läuft das Geschäft gut.",
+      "english": "But today the business is going well.",
+      "russian": "Но сегодня бизнес идет хорошо.",
+      "farsi": "اما امروز کسب‌وکار خوب پیش می‌رود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Viele Angestellte träumen von der Selbstständigkeit.",
+      "english": "Many employees dream of self-employment.",
+      "russian": "Многие сотрудники мечтают о самозанятости.",
+      "farsi": "بسیاری از کارمندان رویای خوداشتغالی دارند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Endlich frei sein, keine Chefin und keinen Chef mehr haben.",
+      "english": "Finally being free, having no boss anymore.",
+      "russian": "Наконец-то быть свободным, больше не иметь начальника.",
+      "farsi": "بالاخره آزاد بودن، بدون رئیس و مدیر."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber es gibt auch Risiken.",
+      "english": "But there are also risks.",
+      "russian": "Но есть и риски.",
+      "farsi": "اما خطراتی هم وجود دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Deshalb möchten manche Selbstständige lieber wieder in einer Firma als Angestellte arbeiten.",
+      "english": "That's why some self-employed people would rather work in a company as employees again.",
+      "russian": "Поэтому некоторые самозанятые предпочли бы снова работать в компании в качестве сотрудников.",
+      "farsi": "به همین دلیل برخی از خوداشتغالان ترجیح می‌دهند دوباره در یک شرکت به عنوان کارمند کار کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Unsere Reporterin hat mit den Selbstständigen Daniel, Salma und Arda gesprochen.",
+      "english": "Our reporter spoke with the self-employed Daniel, Salma, and Arda.",
+      "russian": "Наш репортер поговорил с самозанятыми Даниэлем, Сальмой и Ардой.",
+      "farsi": "خبرنگار ما با خوداشتغالان دانیل، سالما و آردا صحبت کرده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hallo, ich bin Daniel Asseg.",
+      "english": "Hello, I am Daniel Asseg.",
+      "russian": "Привет, я Даниэль Ассег.",
+      "farsi": "سلام، من دانیل آسگ هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nachdem ich mehrere Jahre als Angestellter gearbeitet hatte, gründete ich einen kleinen Betrieb für Heizung und Sanitär mithilfe eines Kredits von meiner Bank.",
+      "english": "After working as an employee for several years, I started a small heating and plumbing business with the help of a loan from my bank.",
+      "russian": "После нескольких лет работы в качестве сотрудника я основал небольшую компанию по отоплению и сантехнике с помощью кредита от моего банка.",
+      "farsi": "پس از چندین سال کار به عنوان کارمند، با کمک وامی از بانک خود یک شرکت کوچک تأسیسات گرمایشی و بهداشتی تأسیس کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Für mich hat Selbstständigkeit viele Vorteile.",
+      "english": "For me, self-employment has many advantages.",
+      "russian": "Для меня самозанятость имеет много преимуществ.",
+      "farsi": "برای من، خوداشتغالی مزایای زیادی دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn man fest angestellt ist, muss man tun, was der Chef sagt.",
+      "english": "If you are permanently employed, you have to do what the boss says.",
+      "russian": "Если ты официально трудоустроен, ты должен делать то, что говорит начальник.",
+      "farsi": "اگر کارمند رسمی باشید، باید آنچه رئیس می‌گوید انجام دهید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Jetzt bin ich unabhängig und kann alles selbst entscheiden.",
+      "english": "Now I am independent and can make all decisions myself.",
+      "russian": "Теперь я независим и могу сам принимать все решения.",
+      "farsi": "حالا من مستقل هستم و می‌توانم همه تصمیمات را خودم بگیرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das gefällt mir.",
+      "english": "I like that.",
+      "russian": "Мне это нравится.",
+      "farsi": "این را دوست دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich wollte schon immer mein eigener Chef sein.",
+      "english": "I always wanted to be my own boss.",
+      "russian": "Я всегда хотел быть сам себе начальником.",
+      "farsi": "من همیشه می‌خواستم رئیس خودم باشم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Anfang war schwer, aber es hat sich gelohnt.",
+      "english": "The beginning was tough, but it was worth it.",
+      "russian": "Начало было трудным, но оно того стоило.",
+      "farsi": "شروع سخت بود، اما ارزشش را داشت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin unabhängig und kann mir die Arbeit selbst einteilen.",
+      "english": "I am independent and can organize my work myself.",
+      "russian": "Я независим и могу сам планировать свою работу.",
+      "farsi": "من مستقل هستم و می‌توانم کارم را خودم برنامه‌ریزی کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und das Beste – ich verdiene jetzt als Selbstständiger mehr Geld, als ich früher als Angestellter verdient habe.",
+      "english": "And the best part – I now earn more money as a self-employed person than I did as an employee.",
+      "russian": "И самое лучшее – сейчас я зарабатываю больше как самозанятый, чем когда был сотрудником.",
+      "farsi": "و بهترین قسمت این است که اکنون به عنوان یک فرد خوداشتغال بیشتر از زمانی که کارمند بودم درآمد دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich heiße Salma Hazem und ich bin gerne selbstständig, aber ich vermisse noch immer die Gespräche im Büro mit meinen ehemaligen Kolleginnen und Kollegen.",
+      "english": "My name is Salma Hazem, and I enjoy being self-employed, but I still miss the office conversations with my former colleagues.",
+      "russian": "Меня зовут Сальма Хазем, и мне нравится быть самозанятой, но я всё ещё скучаю по разговорам в офисе с моими бывшими коллегами.",
+      "farsi": "من سالما حازم هستم و از خوداشتغالی لذت می‌برم، اما هنوز هم دلم برای گفتگوهای اداری با همکاران سابقم تنگ می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und dann hatte ich letztes Jahr einen Autounfall und konnte zwei Monate lang nicht arbeiten.",
+      "english": "And then last year I had a car accident and couldn't work for two months.",
+      "russian": "А потом в прошлом году у меня была автомобильная авария, и я не могла работать два месяца.",
+      "farsi": "و سپس سال گذشته یک تصادف رانندگی داشتم و دو ماه قادر به کار کردن نبودم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Zum Glück konnten meine Eltern mich in der Zeit finanziell unterstützen.",
+      "english": "Fortunately, my parents were able to support me financially during that time.",
+      "russian": "К счастью, мои родители смогли поддержать меня финансово в это время.",
+      "farsi": "خوشبختانه، والدینم توانستند در آن زمان از نظر مالی مرا حمایت کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Also manchmal wäre ich schon gern wieder fest angestellt und würde regelmäßig mein Gehalt bekommen.",
+      "english": "So sometimes I would like to be permanently employed again and receive a regular salary.",
+      "russian": "Так что иногда мне хочется снова быть официально трудоустроенной и получать регулярную зарплату.",
+      "farsi": "پس گاهی دلم می‌خواهد دوباره کارمند رسمی باشم و حقوق منظمی دریافت کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein Name ist Arda Kabak.",
+      "english": "My name is Arda Kabak.",
+      "russian": "Меня зовут Арда Кабак.",
+      "farsi": "نام من آردا کاباک است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein Bruder und ich hatten schon immer davon geträumt, einen eigenen Imbiss zu eröffnen.",
+      "english": "My brother and I had always dreamed of opening our own snack bar.",
+      "russian": "Мой брат и я всегда мечтали открыть свой собственный закусочный киоск.",
+      "farsi": "من و برادرم همیشه رؤیای افتتاح یک اغذیه‌فروشی را داشتیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir teilen uns die Arbeit und wir haben auch noch vier Angestellte. Trotzdem ist es sehr viel Arbeit.",
+      "english": "We share the work and we also have four employees. Nevertheless, it is a lot of work.",
+      "russian": "Мы делим работу и у нас также есть четыре сотрудника. Тем не менее, это очень много работы.",
+      "farsi": "ما کار را تقسیم می‌کنیم و همچنین چهار کارمند داریم. با این حال، این کار بسیار زیادی است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben ja jeden Tag von morgens bis spät in den Abend geöffnet.",
+      "english": "We are open every day from morning until late in the evening.",
+      "russian": "Мы открыты каждый день с утра до позднего вечера.",
+      "farsi": "ما هر روز از صبح تا دیر وقت شب باز هستیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir müssen oft 60 Stunden oder mehr pro Woche arbeiten.",
+      "english": "We often have to work 60 hours or more per week.",
+      "russian": "Нам часто приходится работать 60 часов или больше в неделю.",
+      "farsi": "ما اغلب مجبوریم ۶۰ ساعت یا بیشتر در هفته کار کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das ist manchmal ein Problem, denn ich habe oft nicht genug Zeit für meine Familie.",
+      "english": "That is sometimes a problem because I often do not have enough time for my family.",
+      "russian": "Это иногда проблема, потому что у меня часто не хватает времени на семью.",
+      "farsi": "این گاهی یک مشکل است زیرا من اغلب وقت کافی برای خانواده‌ام ندارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber ich möchte auf keinen Fall wieder irgendwo als Angestellter arbeiten.",
+      "english": "But I definitely do not want to work as an employee anywhere again.",
+      "russian": "Но я ни в коем случае не хочу снова работать где-то в качестве наемного работника.",
+      "farsi": "اما من به هیچ وجه نمی‌خواهم دوباره جایی به عنوان کارمند کار کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich nehme gern Risiken auf mich.",
+      "english": "I like to take risks.",
+      "russian": "Я люблю брать на себя риски.",
+      "farsi": "من دوست دارم ریسک کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mir ist ein regelmäßiges Einkommen wichtig.",
+      "english": "A regular income is important to me.",
+      "russian": "Для меня важно регулярное поступление дохода.",
+      "farsi": "درآمد منظم برای من مهم است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe ein gutes Zeitmanagement.",
+      "english": "I have good time management skills.",
+      "russian": "У меня хорошие навыки управления временем.",
+      "farsi": "من مهارت خوبی در مدیریت زمان دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sicherheit im Beruf ist mir sehr wichtig.",
+      "english": "Job security is very important to me.",
+      "russian": "Безопасность на работе очень важна для меня.",
+      "farsi": "امنیت شغلی برای من بسیار مهم است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich mag keine Routine.",
+      "english": "I do not like routine.",
+      "russian": "Я не люблю рутину.",
+      "farsi": "من از روال تکراری خوشم نمی‌آید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich übernehme nicht so gern Verantwortung.",
+      "english": "I do not like to take on responsibility.",
+      "russian": "Я не очень люблю брать на себя ответственность.",
+      "farsi": "من زیاد دوست ندارم مسئولیت بپذیرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich arbeite gern eigenständig und selbstverantwortlich.",
+      "english": "I like to work independently and take responsibility for myself.",
+      "russian": "Мне нравится работать самостоятельно и нести ответственность за себя.",
+      "farsi": "من دوست دارم به‌طور مستقل کار کنم و مسئولیت خود را بپذیرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich arbeite am liebsten zusammen mit anderen in Teams.",
+      "english": "I prefer to work together with others in teams.",
+      "russian": "Мне больше всего нравится работать вместе с другими в команде.",
+      "farsi": "من بیشتر دوست دارم با دیگران در تیم کار کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich möchte meine Arbeitszeit selbst einteilen.",
+      "english": "I want to organize my working hours myself.",
+      "russian": "Я хочу самостоятельно распределять свое рабочее время.",
+      "farsi": "من می‌خواهم زمان کاری خود را خودم تنظیم کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn ich keine Aufgabe habe, weiß ich nicht, was ich tun soll.",
+      "english": "If I do not have a task, I do not know what to do.",
+      "russian": "Если у меня нет задания, я не знаю, что делать.",
+      "farsi": "اگر وظیفه‌ای نداشته باشم، نمی‌دانم چه کار کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe eine Geschäftsidee.",
+      "english": "I have a business idea.",
+      "russian": "У меня есть бизнес-идея.",
+      "farsi": "من یک ایده کسب‌وکار دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Traum von der Selbstständigkeit.",
+      "english": "The dream of self-employment.",
+      "russian": "Мечта о самозанятости.",
+      "farsi": "رویای خوداشتغالی."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In Deutschland gibt es immer mehr Selbständige mit Einwanderungsgeschichte.",
+      "english": "In Germany, there are more and more self-employed people with an immigration background.",
+      "russian": "В Германии становится все больше самозанятых людей с иммиграционной историей.",
+      "farsi": "در آلمان تعداد افراد خوداشتغال با پیشینه مهاجرتی رو به افزایش است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Selbständige mit Migrationshintergrund sind heute in fast allen Branchen aktiv.",
+      "english": "Self-employed individuals with a migration background are active in almost all industries today.",
+      "russian": "Самозанятые с миграционным прошлым сегодня активны почти во всех отраслях.",
+      "farsi": "افراد خوداشتغال با پیشینه مهاجرتی امروزه در تقریباً همه صنایع فعال هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Zu den Branchen, in denen viel gegründet wird, gehören Gewerbe, Handwerk, Transport und Gastronomie.",
+      "english": "The industries where many businesses are founded include trade, craftsmanship, transport, and gastronomy.",
+      "russian": "Отрасли, в которых создается много предприятий, включают торговлю, ремесленничество, транспорт и гастрономию.",
+      "farsi": "صنایعی که در آن‌ها کسب‌وکارهای زیادی تأسیس می‌شود شامل تجارت، صنایع دستی، حمل‌ونقل و مهمان‌داری هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir stellen Ihnen heute die Geschichten von einer erfolgreichen Unternehmerin und einem glücklichen Unternehmer vor.",
+      "english": "Today, we present to you the stories of a successful businesswoman and a happy entrepreneur.",
+      "russian": "Сегодня мы представляем вам истории успешной предпринимательницы и счастливого предпринимателя.",
+      "farsi": "امروز داستان‌های یک کارآفرین موفق و یک کارآفرین خوشحال را به شما معرفی می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Andra Marcu hat in Bukarest eine Ausbildung zur Kosmetikerin gemacht, bevor sie nach Deutschland kam.",
+      "english": "Andra Marcu trained as a cosmetician in Bucharest before coming to Germany.",
+      "russian": "Андра Марку получила образование косметолога в Бухаресте, прежде чем приехать в Германию.",
+      "farsi": "آندرا مارکو قبل از آمدن به آلمان در بخارست آموزش آرایشگری دیده بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nachdem sie Deutsch gelernt hatte, arbeitete sie drei Jahre als Verkäuferin in einem Kaufhaus.",
+      "english": "After learning German, she worked for three years as a saleswoman in a department store.",
+      "russian": "После того, как она выучила немецкий, она три года работала продавщицей в универмаге.",
+      "farsi": "پس از یادگیری زبان آلمانی، او سه سال به عنوان فروشنده در یک فروشگاه بزرگ کار کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber sie wollte ihre eigene Chefin sein.",
+      "english": "But she wanted to be her own boss.",
+      "russian": "Но она хотела быть сама себе начальницей.",
+      "farsi": "اما او می‌خواست رئیس خودش باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Deshalb machte sie eine zweijährige Ausbildung zur Podologin.",
+      "english": "Therefore, she completed a two-year training to become a podiatrist.",
+      "russian": "Поэтому она прошла двухлетнее обучение на подолога.",
+      "farsi": "به همین دلیل، او یک دوره آموزشی دو ساله برای متخصص پا را گذراند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nach der Ausbildung hat sie freiberuflich Fußpflege in Altersheimen angeboten.",
+      "english": "After the training, she offered foot care services in nursing homes as a freelancer.",
+      "russian": "После обучения она предлагала услуги по уходу за ногами в домах престарелых в качестве фрилансера.",
+      "farsi": "پس از آموزش، او به‌صورت مستقل خدمات مراقبت از پا را در خانه‌های سالمندان ارائه داد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ihr Ziel war aber eine eigene Praxis.",
+      "english": "However, her goal was to have her own practice.",
+      "russian": "Однако её целью была собственная практика.",
+      "farsi": "اما هدف او داشتن یک مطب شخصی بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nach längerer Suche hat sie Räume in Freiburg gefunden.",
+      "english": "After a long search, she found premises in Freiburg.",
+      "russian": "После долгих поисков она нашла помещение во Фрайбурге.",
+      "farsi": "پس از جستجوی طولانی، او مکانی را در فرایبورگ پیدا کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Um einen Kredit von ihrer Bank zu bekommen, musste sie aber zuerst einen Businessplan schreiben.",
+      "english": "However, to get a loan from her bank, she first had to write a business plan.",
+      "russian": "Однако, чтобы получить кредит в своем банке, ей сначала нужно было написать бизнес-план.",
+      "farsi": "اما برای دریافت وام از بانک خود، ابتدا باید یک طرح کسب‌وکار می‌نوشت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "„Es macht mir Spaß, Menschen zu helfen,“ sagt sie.",
+      "english": "\"I enjoy helping people,\" she says.",
+      "russian": "«Мне нравится помогать людям», - говорит она.",
+      "farsi": "او می‌گوید: «من از کمک کردن به مردم لذت می‌برم.»"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vor allem ältere Menschen brauchen medizinische Fußpflege.",
+      "english": "Above all, older people need medical foot care.",
+      "russian": "Прежде всего, пожилые люди нуждаются в медицинском уходе за ногами.",
+      "farsi": "بیش از همه، افراد مسن به مراقبت پزشکی از پا نیاز دارند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Meine Leistungen werden von den Krankenkassen bezahlt.",
+      "english": "My services are covered by health insurance.",
+      "russian": "Мои услуги оплачиваются медицинскими страховыми компаниями.",
+      "farsi": "خدمات من توسط بیمه‌های درمانی پرداخت می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich empfehle allen, die sich selbstständig machen möchten, mehrere Seminare zu besuchen und sich alles gut zu überlegen.",
+      "english": "I recommend everyone who wants to become self-employed to attend several seminars and carefully consider everything.",
+      "russian": "Я рекомендую всем, кто хочет стать самозанятым, посетить несколько семинаров и хорошо все обдумать.",
+      "farsi": "من به همه کسانی که می‌خواهند خوداشتغال شوند توصیه می‌کنم که در چندین سمینار شرکت کنند و همه چیز را به‌دقت بررسی کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Seit 2021 gibt es das asiatische Restaurant New Day in Hamburg.",
+      "english": "Since 2021, the Asian restaurant New Day has been in Hamburg.",
+      "russian": "С 2021 года в Гамбурге работает азиатский ресторан New Day.",
+      "farsi": "از سال ۲۰۲۱، رستوران آسیایی نیو دی در هامبورگ فعالیت دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bui Trong beschäftigt sechs Mitarbeiterinnen in Teil- und Vollzeit.",
+      "english": "Bui Trong employs six female employees in part-time and full-time positions.",
+      "russian": "Буй Чонг нанимает шесть сотрудниц на частичную и полную занятость.",
+      "farsi": "بوی ترانگ شش کارمند زن را به‌صورت نیمه‌وقت و تمام‌وقت استخدام کرده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nachdem er nach Deutschland gekommen war, arbeitete er als Koch in einem großen Hotel.",
+      "english": "After coming to Germany, he worked as a chef in a large hotel.",
+      "russian": "После приезда в Германию он работал поваром в большом отеле.",
+      "farsi": "پس از آمدن به آلمان، او به عنوان آشپز در یک هتل بزرگ کار کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Arbeit im Hotel war eine gute Vorbereitung auf die Selbstständigkeit, aber er war mit seinem Lohn unzufrieden.",
+      "english": "Working in the hotel was good preparation for self-employment, but he was unhappy with his salary.",
+      "russian": "Работа в отеле была хорошей подготовкой к самозанятости, но он был недоволен своей зарплатой.",
+      "farsi": "کار در هتل آمادگی خوبی برای خوداشتغالی بود، اما او از حقوق خود ناراضی بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nachdem er den Aufenthaltstitel für eine selbstständige Tätigkeit bekommen hatte, konnte er sein Restaurant gründen.",
+      "english": "After obtaining the residence permit for self-employment, he was able to start his restaurant.",
+      "russian": "После получения вида на жительство для самозанятости он смог открыть свой ресторан.",
+      "farsi": "پس از دریافت اجازه اقامت برای فعالیت خوداشتغالی، او توانست رستوران خود را تأسیس کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es war schwierig, genug Geld zu bekommen.",
+      "english": "It was difficult to get enough money.",
+      "russian": "Было сложно получить достаточно денег.",
+      "farsi": "دریافت پول کافی دشوار بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "„Meine Eltern und Schwiegereltern haben mich finanziell unterstützt“, berichtet er.",
+      "english": "\"My parents and parents-in-law supported me financially,\" he reports.",
+      "russian": "«Мои родители и родители жены поддержали меня финансово», – рассказывает он.",
+      "farsi": "او گزارش می‌دهد: «والدین من و والدین همسرم از نظر مالی مرا حمایت کردند.»"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "„Wenn man erfolgreich sein will, muss man hart arbeiten“, meint er.",
+      "english": "\"If you want to be successful, you have to work hard,\" he says.",
+      "russian": "«Если хочешь быть успешным, нужно много работать», – говорит он.",
+      "farsi": "او می‌گوید: «اگر می‌خواهید موفق باشید، باید سخت کار کنید.»"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "„Seitdem ich mein Restaurant habe, habe ich fast keine Freizeit“.",
+      "english": "\"Since I have my restaurant, I have almost no free time.\"",
+      "russian": "«С тех пор как у меня появился ресторан, у меня почти нет свободного времени.»",
+      "farsi": "«از زمانی که رستوران خود را دارم، تقریباً هیچ وقت آزادی ندارم.»"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aus seiner Sicht sollte man als Gründer Erfahrung in der eigenen Branche mitbringen.",
+      "english": "From his perspective, as a founder, you should have experience in your own industry.",
+      "russian": "С его точки зрения, основатель должен иметь опыт в своей отрасли.",
+      "farsi": "از نظر او، یک مؤسس باید تجربه‌ای در صنعت خود داشته باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und man braucht Mut zum Risiko.",
+      "english": "And you need the courage to take risks.",
+      "russian": "И нужно иметь смелость рисковать.",
+      "farsi": "و شما باید شجاعت ریسک کردن را داشته باشید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sehr geehrter Herr Vida, hiermit kündige ich meinen Arbeitsvertrag ordentlich und fristgerecht zum nächstmöglichen Zeitpunkt.",
+      "english": "Dear Mr. Vida, I hereby terminate my employment contract properly and on time at the next possible date.",
+      "russian": "Уважаемый господин Вида, настоящим я расторгаю свой трудовой договор надлежащим образом и в установленный срок на ближайшую возможную дату.",
+      "farsi": "جناب آقای ویدا، بدین‌وسیله قرارداد کاری خود را به‌طور رسمی و در موعد مقرر در اولین فرصت ممکن فسخ می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nach meiner Berechnung ist dies der 01.10.2024.",
+      "english": "According to my calculation, this is October 1, 2024.",
+      "russian": "По моим расчетам, это 1 октября 2024 года.",
+      "farsi": "بر اساس محاسبات من، این تاریخ اول اکتبر ۲۰۲۴ است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bitte bestätigen Sie mir den Erhalt der Kündigung und das Datum meines letzten Arbeitstages schriftlich.",
+      "english": "Please confirm receipt of my resignation and the date of my last working day in writing.",
+      "russian": "Пожалуйста, подтвердите получение моего заявления об увольнении и дату моего последнего рабочего дня в письменной форме.",
+      "farsi": "لطفاً دریافت استعفای من و تاریخ آخرین روز کاری من را به صورت کتبی تأیید کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Darüber hinaus bitte ich Sie, mir ein qualifiziertes Arbeitszeugnis auszustellen.",
+      "english": "In addition, I ask you to issue me a qualified job reference.",
+      "russian": "Кроме того, я прошу вас выдать мне квалифицированную характеристику с места работы.",
+      "farsi": "علاوه بر این، از شما درخواست می‌کنم که یک گواهی شغلی معتبر برای من صادر کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bedanke mich für die gute Zusammenarbeit in den vergangenen Jahren und wünsche Ihnen für die Zukunft alles Gute.",
+      "english": "I thank you for the good cooperation in the past years and wish you all the best for the future.",
+      "russian": "Благодарю вас за хорошее сотрудничество в последние годы и желаю вам всего наилучшего в будущем.",
+      "farsi": "از همکاری خوب شما در سال‌های گذشته سپاسگزارم و برای آینده بهترین‌ها را برایتان آرزو می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mit freundlichen Grüßen",
+      "english": "With kind regards",
+      "russian": "С уважением",
+      "farsi": "با احترام"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie muss man kündigen?",
+      "english": "How should one resign?",
+      "russian": "Как нужно подавать заявление об увольнении?",
+      "farsi": "چگونه باید استعفا داد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie lange muss man nach einer Kündigung in der Regel noch arbeiten?",
+      "english": "How long does one usually have to work after resigning?",
+      "russian": "Как долго обычно нужно работать после подачи заявления об увольнении?",
+      "farsi": "معمولاً پس از استعفا چقدر باید کار کرد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wann wird Frau Hassan Logistik International verlassen?",
+      "english": "When will Ms. Hassan leave Logistics International?",
+      "russian": "Когда госпожа Хассан покинет компанию Logistik International?",
+      "farsi": "خانم حسن چه زمانی شرکت لجستیک بین‌الملل را ترک خواهد کرد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was soll Herr Vida noch tun?",
+      "english": "What else should Mr. Vida do?",
+      "russian": "Что еще должен сделать господин Вида?",
+      "farsi": ".آقای ویدا چه کار دیگری باید انجام دهد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wofür bedankt sich Frau Hassan?",
+      "english": "What is Ms. Hassan thanking for?",
+      "russian": "За что благодарит госпожа Хассан?",
+      "farsi": "خانم حسن بابت چه چیزی تشکر می‌کند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wofür bedankt sich Frau Hassan?",
+      "english": "What is Ms. Hassan thanking for?",
+      "russian": "За что благодарит госпожа Хассан?",
+      "farsi": "خانم حسن برای چه چیزی تشکر می‌کند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was wünscht sie der Firma?",
+      "english": "What does she wish for the company?",
+      "russian": "Что она желает компании?",
+      "farsi": "او برای شرکت چه آرزویی دارد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Guten Morgen, Frau Wilken.",
+      "english": "Good morning, Ms. Wilken.",
+      "russian": "Доброе утро, госпожа Вилкен.",
+      "farsi": "صبح بخیر، خانم ویلکن."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Danke für den kurzfristigen Termin.",
+      "english": "Thank you for the short-notice appointment.",
+      "russian": "Спасибо за встречу в короткие сроки.",
+      "farsi": "ممنون از اینکه در کوتاه‌ترین زمان وقت ملاقات دادید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es fällt mir nicht leicht, dieses Gespräch zu führen.",
+      "english": "It's not easy for me to have this conversation.",
+      "russian": "Мне нелегко вести этот разговор.",
+      "farsi": "برای من آسان نیست که این گفتگو را انجام دهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich muss Ihnen leider eine wichtige Mitteilung machen.",
+      "english": "Unfortunately, I have to make an important announcement to you.",
+      "russian": "К сожалению, я должен сделать вам важное сообщение.",
+      "farsi": "متأسفانه باید خبر مهمی را به شما بدهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe einen neuen Job gefunden, deshalb möchte ich zum 01.10. kündigen.",
+      "english": "I have found a new job, so I would like to resign effective October 1st.",
+      "russian": "Я нашел новую работу, поэтому хочу уволиться с 1 октября.",
+      "farsi": "من یک شغل جدید پیدا کرده‌ام، بنابراین می‌خواهم از اول اکتبر استعفا دهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das ist aber eine Überraschung.",
+      "english": "That is quite a surprise.",
+      "russian": "Это действительно неожиданность.",
+      "farsi": "این واقعاً غافلگیرکننده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie Sie wissen, bin ich schon seit mehr als fünf Jahren im Unternehmen und habe mich hier immer sehr wohl gefühlt.",
+      "english": "As you know, I have been with the company for more than five years and have always felt very comfortable here.",
+      "russian": "Как вы знаете, я работаю в компании уже более пяти лет и всегда чувствовал себя здесь очень комфортно.",
+      "farsi": "همانطور که می‌دانید، من بیش از پنج سال است که در این شرکت هستم و همیشه در اینجا احساس راحتی کرده‌ام."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe viel gelernt, aber ich möchte mich beruflich weiterentwickeln.",
+      "english": "I have learned a lot, but I want to develop professionally further.",
+      "russian": "Я многому научился, но хочу дальше развиваться профессионально.",
+      "farsi": "من چیزهای زیادی یاد گرفته‌ام، اما می‌خواهم از نظر حرفه‌ای پیشرفت کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe ein attraktives Angebot von einem anderen Unternehmen bekommen.",
+      "english": "I have received an attractive offer from another company.",
+      "russian": "Я получил привлекательное предложение от другой компании.",
+      "farsi": "من یک پیشنهاد جذاب از یک شرکت دیگر دریافت کرده‌ام."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Schade, dass Sie uns verlassen möchten.",
+      "english": "It's a pity that you want to leave us.",
+      "russian": "Жаль, что вы хотите нас покинуть.",
+      "farsi": "متأسفم که می‌خواهید ما را ترک کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich werde meine schriftliche Kündigung morgen bei Herrn Vida in der Personalabteilung einreichen.",
+      "english": "I will submit my written resignation to Mr. Vida in the HR department tomorrow.",
+      "russian": "Завтра я подам письменное заявление об увольнении господину Вида в отдел кадров.",
+      "farsi": "من فردا استعفای کتبی خود را به آقای ویدا در بخش منابع انسانی تحویل خواهم داد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es wäre natürlich schön, wenn Sie mir ein gutes Arbeitszeugnis geben könnten.",
+      "english": "It would be nice if you could give me a good job reference.",
+      "russian": "Было бы хорошо, если бы вы могли дать мне хорошую рекомендацию.",
+      "farsi": "البته خوب خواهد بود اگر بتوانید یک توصیه‌نامه شغلی خوب به من بدهید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Selbstverständlich.",
+      "english": "Of course.",
+      "russian": "Конечно.",
+      "farsi": "البته."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Danke, dass Sie mich informiert haben.",
+      "english": "Thank you for informing me.",
+      "russian": "Спасибо, что сообщили мне.",
+      "farsi": "ممنون که به من اطلاع دادید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und viel Erfolg weiterhin!",
+      "english": "And continued success!",
+      "russian": "И дальнейших успехов!",
+      "farsi": "و موفقیت بیشتر در آینده!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Frau Noura Hassan, geboren am 01.06.1992 in Doha in Katar, war vom 01.02.2019 bis zum 01.10.2024 in Vollzeit bei uns als Sachbearbeiterin tätig.",
+      "english": "Ms. Noura Hassan, born on June 1, 1992 in Doha, Qatar, was employed full-time with us as an administrative assistant from February 1, 2019 to October 1, 2024.",
+      "russian": "Госпожа Нура Хассан, родившаяся 1 июня 1992 года в Дохе, Катар, работала у нас на полную ставку в качестве делопроизводителя с 1 февраля 2019 года по 1 октября 2024 года.",
+      "farsi": "خانم نورا حسن، متولد ۱ ژوئن ۱۹۹۲ در دوحه قطر، از ۱ فوریه ۲۰۱۹ تا ۱ اکتبر ۲۰۲۴ به صورت تمام وقت به عنوان کارمند اداری نزد ما مشغول به کار بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Frau Hassan hat unsere Lagerbestände überwacht, Warensendungen angenommen und überprüft sowie Warensendungen zusammengestellt und für den Versand verpackt.",
+      "english": "Ms. Hassan monitored our inventory, received and checked shipments, as well as assembled and packed shipments for dispatch.",
+      "russian": "Госпожа Хассан контролировала наши складские запасы, принимала и проверяла товарные отправления, а также комплектовала и упаковывала товарные отправления для отправки.",
+      "farsi": "خانم حسن موجودی انبار ما را نظارت می‌کرد، محموله‌ها را دریافت و بررسی می‌کرد و همچنین محموله‌ها را جمع‌آوری و برای ارسال بسته‌بندی می‌کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Außerdem war sie für die Führung unserer Lagerlisten verantwortlich.",
+      "english": "Additionally, she was responsible for maintaining our inventory records.",
+      "russian": "Кроме того, она отвечала за ведение наших складских списков.",
+      "farsi": "علاوه بر این، او مسئول نگهداری سوابق موجودی ما بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Frau Hassan zeichnete sich durch ein hohes Maß an Initiative und Engagement aus.",
+      "english": "Ms. Hassan distinguished herself through a high degree of initiative and commitment.",
+      "russian": "Госпожа Хассан отличалась высокой степенью инициативности и преданности делу.",
+      "farsi": "خانم حسن با درجه بالایی از ابتکار عمل و تعهد خود را متمایز کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie erledigte ihre Aufgaben immer zu unserer vollsten Zufriedenheit.",
+      "english": "She always completed her tasks to our utmost satisfaction.",
+      "russian": "Она всегда выполняла свои задачи к нашему полному удовлетворению.",
+      "farsi": "او همیشه وظایف خود را با رضایت کامل ما انجام می‌داد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ihr Verhalten zu Vorgesetzten, Arbeitskolleginnen und Kundinnen war stets einwandfrei.",
+      "english": "Her behavior towards superiors, colleagues, and customers was always impeccable.",
+      "russian": "Ее поведение по отношению к начальству, коллегам и клиентам всегда было безупречным.",
+      "farsi": "رفتار او نسبت به مافوق‌ها، همکاران و مشتریان همیشه بی‌نقص بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Frau Hassan verlässt unser Unternehmen auf eigenen Wunsch.",
+      "english": "Ms. Hassan is leaving our company at her own request.",
+      "russian": "Госпожа Хассан покидает нашу компанию по собственному желанию.",
+      "farsi": "خانم حسن به درخواست خود شرکت ما را ترک می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir bedauern ihr Ausscheiden und bedanken uns für die sehr gute Zusammenarbeit.",
+      "english": "We regret her departure and thank her for the very good cooperation.",
+      "russian": "Мы сожалеем о ее уходе и благодарим за очень хорошее сотрудничество.",
+      "farsi": "ما از رفتن او متأسفیم و از همکاری بسیار خوب او تشکر می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir wünschen ihr persönlich alles Gute und weiterhin viel Erfolg.",
+      "english": "We personally wish her all the best and continued success.",
+      "russian": "Мы лично желаем ей всего наилучшего и дальнейших успехов.",
+      "farsi": "ما شخصاً برای او آرزوی موفقیت و پیشرفت مداوم داریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sehr geehrter Herr Kahraba,",
+      "english": "Dear Mr. Kahraba,",
+      "russian": "Уважаемый господин Кахраба,",
+      "farsi": "جناب آقای کهرابا،"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "hiermit kündigen wir das mit Ihnen seit dem 01.06.2017 bestehende Arbeitsverhältnis fristgemäß zum 01.09.2025.",
+      "english": "We hereby terminate the employment relationship with you, which has existed since June 1, 2017, effective September 1, 2025.",
+      "russian": "Настоящим мы расторгаем трудовые отношения с вами, которые существуют с 1 июня 2017 года, с соблюдением срока до 1 сентября 2025 года.",
+      "farsi": "بدین وسیله قرارداد کاری شما که از اول ژوئن ۲۰۱۷ برقرار بوده است، با رعایت مهلت قانونی تا اول سپتامبر ۲۰۲۵ فسخ می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Kündigung erfolgt betriebsbedingt.",
+      "english": "The termination is due to operational reasons.",
+      "russian": "Увольнение происходит по производственным причинам.",
+      "farsi": "این فسخ به دلایل عملیاتی انجام می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben uns aus wirtschaftlichen Gründen entschlossen, unser Medienkaufhaus zum 01. Dezember zu schließen.",
+      "english": "We have decided to close our media store on December 1 for economic reasons.",
+      "russian": "Мы решили закрыть наш медиамагазин с 1 декабря по экономическим причинам.",
+      "farsi": "ما به دلایل اقتصادی تصمیم گرفته‌ایم فروشگاه رسانه‌ای خود را از اول دسامبر تعطیل کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Betriebsrat ist angehört worden und hat der Kündigung zugestimmt.",
+      "english": "The works council has been consulted and has approved the termination.",
+      "russian": "Совет трудового коллектива был заслушан и одобрил увольнение.",
+      "farsi": "شورای کارگری مشورت شده و با فسخ قرارداد موافقت کرده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir möchten Sie daran erinnern, dass Sie verpflichtet sind, sich spätestens drei Monate vor Beendigung Ihres Arbeitsverhältnisses persönlich bei der Agentur für Arbeit arbeitssuchend sowie arbeitslos zu melden.",
+      "english": "We would like to remind you that you are required to personally register as a job seeker and unemployed with the employment agency no later than three months before the end of your employment relationship.",
+      "russian": "Мы хотим напомнить вам, что вы обязаны лично зарегистрироваться в агентстве по трудоустройству как ищущий работу и безработный не позднее чем за три месяца до окончания ваших трудовых отношений.",
+      "farsi": "ما می‌خواهیم به شما یادآوری کنیم که موظف هستید حداکثر سه ماه قبل از پایان قرارداد کاری خود، شخصاً در آژانس کاریابی به عنوان جویای کار و بیکار ثبت‌نام کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ihr Arbeitszeugnis schicken wir Ihnen in der kommenden Woche zu.",
+      "english": "We will send you your job reference next week.",
+      "russian": "Мы отправим вам вашу характеристику с работы на следующей неделе.",
+      "farsi": "ما گواهی شغلی شما را در هفته آینده ارسال خواهیم کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir danken Ihnen für die gute Zusammenarbeit und wünschen Ihnen für die Zukunft alles Gute.",
+      "english": "We thank you for the good cooperation and wish you all the best for the future.",
+      "russian": "Мы благодарим вас за хорошее сотрудничество и желаем вам всего наилучшего в будущем.",
+      "farsi": "ما از همکاری خوب شما تشکر می‌کنیم و برای آینده بهترین‌ها را برایتان آرزو داریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mit freundlichen Grüßen",
+      "english": "With kind regards",
+      "russian": "С уважением",
+      "farsi": "با احترام"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Guten Tag meine Damen und Herren.",
+      "english": "Good day, ladies and gentlemen.",
+      "russian": "Добрый день, дамы и господа.",
+      "farsi": "روز بخیر، خانم‌ها و آقایان."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In unserer Sendung „Ihre Rechte im Alltag“ ist die Rechtsanwältin Frau Dr. Dohr im Studio.",
+      "english": "In our program 'Your Rights in Everyday Life,' lawyer Dr. Dohr is in the studio.",
+      "russian": "В нашей передаче «Ваши права в повседневной жизни» адвокат доктор Доhr находится в студии.",
+      "farsi": "در برنامه «حقوق شما در زندگی روزمره»، وکیل دکتر دوهر در استودیو حضور دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir wollen heute über das Thema „Kündigungen“ mit ihr sprechen.",
+      "english": "Today, we want to talk to her about the topic 'Terminations.'",
+      "russian": "Сегодня мы хотим поговорить с ней на тему «Увольнения».",
+      "farsi": "امروز می‌خواهیم در مورد موضوع «فسخ قرارداد» با او صحبت کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie wissen sicherlich, dass das Medienkaufhaus am Marktplatz in Unterrödingen nach mehr als 30 Jahren Ende November seine Türen schließen wird.",
+      "english": "You surely know that the media store at the marketplace in Unterrödingen will close its doors at the end of November after more than 30 years.",
+      "russian": "Вы наверняка знаете, что медиамагазин на рыночной площади в Унтерредингене закроет свои двери в конце ноября после более чем 30 лет работы.",
+      "farsi": "شما قطعاً می‌دانید که فروشگاه رسانه‌ای در میدان بازار در اونترردینگن پس از بیش از ۳۰ سال، در پایان نوامبر تعطیل خواهد شد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Geschäftsführung hat mitgeteilt, dass sie leider allen Beschäftigten kündigen musste.",
+      "english": "The management has announced that it unfortunately had to terminate all employees.",
+      "russian": "Руководство сообщило, что, к сожалению, оно было вынуждено уволить всех сотрудников.",
+      "farsi": "مدیریت اعلام کرده است که متأسفانه مجبور شده است تمام کارکنان را اخراج کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dohr, darf das Unternehmen das?",
+      "english": "Dr. Dohr, is the company allowed to do that?",
+      "russian": "Доктор Доhr, имеет ли компания право на это?",
+      "farsi": ".دکتر دوهر، آیا شرکت اجازه این کار را دارد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In Betrieben mit mehr als zehn Arbeitnehmerinnen bzw. Arbeitnehmern gibt es das Kündigungsschutzgesetz.",
+      "english": "In businesses with more than ten employees, there is the Employment Protection Act.",
+      "russian": "В предприятиях с более чем десятью сотрудниками действует закон о защите от увольнений.",
+      "farsi": ".در شرکت‌هایی با بیش از ده کارمند، قانون حفاظت از فسخ قرارداد وجود دارد"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das bedeutet, dass der Arbeitgeber die Mitarbeiterinnen und Mitarbeiter nur kündigen kann, wenn ein Kündigungsgrund vorliegt.",
+      "english": "This means that the employer can only terminate employees if there is a valid reason for termination.",
+      "russian": "Это означает, что работодатель может уволить сотрудников только при наличии уважительной причины для увольнения.",
+      "farsi": "این بدان معناست که کارفرما فقط در صورتی می‌تواند کارکنان را اخراج کند که دلیل موجهی برای فسخ قرارداد وجود داشته باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Arbeitgeber können ihre Mitarbeitenden nicht ohne Grund kündigen.",
+      "english": "Employers cannot terminate their employees without reason.",
+      "russian": "Работодатели не могут увольнять своих сотрудников без причины.",
+      "farsi": "کارفرمایان نمی‌توانند کارکنان خود را بدون دلیل اخراج کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kündigungsgründe sind Gründe in der Person oder dem Verhalten der Arbeitnehmerin bzw. des Arbeitnehmers sowie betriebsbedingte Gründe.",
+      "english": "Reasons for termination are reasons related to the person or behavior of the employee, as well as operational reasons.",
+      "russian": "Причины увольнения - это причины, связанные с личностью или поведением работника, а также производственные причины.",
+      "farsi": "دلایل فسخ قرارداد شامل دلایل مربوط به شخص یا رفتار کارمند و همچنین دلایل عملیاتی است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Allerdings haben Mitarbeitende in der Probezeit keinen Kündigungsschutz.",
+      "english": "However, employees during the probationary period do not have protection against dismissal.",
+      "russian": "Однако сотрудники в испытательный срок не имеют защиты от увольнения.",
+      "farsi": "با این حال، کارکنان در دوره آزمایشی از حمایت در برابر اخراج برخوردار نیستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was sind betriebsbedingte Gründe?",
+      "english": "What are operational reasons?",
+      "russian": "Что такое производственные причины?",
+      "farsi": "دلایل عملیاتی چیست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn ein Unternehmen große wirtschaftliche oder finanzielle Probleme hat, kann es Mitarbeitenden kündigen.",
+      "english": "If a company has major economic or financial problems, it can terminate employees.",
+      "russian": "Если компания испытывает серьезные экономические или финансовые проблемы, она может уволить сотрудников.",
+      "farsi": "اگر یک شرکت مشکلات اقتصادی یا مالی بزرگی داشته باشد، می‌تواند کارکنان را اخراج کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Also, wenn es nicht mehr genug Geld verdient, um die Rechnungen oder die Gehälter zu zahlen, kann es zu Kündigungen kommen.",
+      "english": "So, if it no longer earns enough money to pay bills or salaries, layoffs can occur.",
+      "russian": "Таким образом, если компания больше не зарабатывает достаточно денег для оплаты счетов или зарплат, могут произойти увольнения.",
+      "farsi": "بنابراین، اگر دیگر پول کافی برای پرداخت صورتحساب‌ها یا حقوق‌ها کسب نکند، ممکن است اخراج‌ها رخ دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Genau. Wenn zum Beispiel ein Konkurs droht.",
+      "english": "Exactly. For example, if bankruptcy is imminent.",
+      "russian": "Точно. Например, если грозит банкротство.",
+      "farsi": "دقیقاً. به عنوان مثال، اگر ورشکستگی قریب الوقوع باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das scheint ja hier der Fall zu sein. Dann kann es zu betriebsbedingten Kündigungen kommen.",
+      "english": "This seems to be the case here. Then operational layoffs can occur.",
+      "russian": "Похоже, это и есть наш случай. Тогда могут произойти увольнения по производственным причинам.",
+      "farsi": "به نظر می‌رسد این مورد اینجا صدق می‌کند. در این صورت، اخراج‌های عملیاتی می‌تواند رخ دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn es nicht genug Aufträge gibt oder eine Umstrukturierung geplant ist, kann es auch zu betriebsbedingten Kündigungen kommen.",
+      "english": "If there are not enough orders or a restructuring is planned, operational layoffs can also occur.",
+      "russian": "Если недостаточно заказов или планируется реструктуризация, также могут произойти увольнения по производственным причинам.",
+      "farsi": "اگر سفارش‌ها کافی نباشد یا تجدید ساختار برنامه‌ریزی شده باشد، اخراج‌های عملیاتی نیز می‌تواند رخ دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was sind weitere typische Kündigungsgründe?",
+      "english": "What are other typical reasons for termination?",
+      "russian": "Какие еще типичные причины для увольнения?",
+      "farsi": "دلایل معمول دیگر برای فسخ قرارداد چیست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn jemand am Arbeitsplatz Alkohol trinkt, sehr oft zu spät kommt, stiehlt oder Kolleginnen oder Kollegen mobbt, kann er oder sie entlassen werden.",
+      "english": "If someone drinks alcohol at work, is very often late, steals, or bullies colleagues, they can be dismissed.",
+      "russian": "Если кто-то пьет алкоголь на рабочем месте, очень часто опаздывает, ворует или издевается над коллегами, его могут уволить.",
+      "farsi": "اگر کسی در محل کار الکل بنوشد، خیلی اوقات دیر برسد، دزدی کند یا همکاران را آزار دهد، می‌تواند اخراج شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was empfehlen Sie Menschen, wenn sie eine Kündigung bekommen?",
+      "english": "What do you recommend to people when they receive a termination notice?",
+      "russian": "Что вы рекомендуете людям, когда они получают уведомление об увольнении?",
+      "farsi": "به افرادی که اخراج می‌شوند چه توصیه‌ای می‌کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man sollte zur Arbeitsagentur gehen und Arbeitslosengeld beantragen.",
+      "english": "One should go to the employment agency and apply for unemployment benefits.",
+      "russian": "Следует обратиться в агентство по трудоустройству и подать заявление на получение пособия по безработице.",
+      "farsi": "باید به اداره کار مراجعه کرد و برای دریافت مزایای بیکاری درخواست داد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man sollte auch sofort mit der Suche nach einem neuen Job beginnen.",
+      "english": "One should also start looking for a new job immediately.",
+      "russian": "Также следует немедленно начать поиск новой работы.",
+      "farsi": "همچنین باید بلافاصله جستجو برای یک شغل جدید را آغاز کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Natürlich empfehle ich Menschen, denen gekündigt wurde, mit einer Rechtsanwältin oder einem Rechtsanwalt zu sprechen, denn man kann selbstverständlich auch gegen eine Kündigung klagen.",
+      "english": "Of course, I recommend that people who have been terminated speak to a lawyer, because one can, of course, also file a lawsuit against a termination.",
+      "russian": "Конечно, я рекомендую людям, которых уволили, поговорить с адвокатом, потому что, разумеется, можно также подать иск против увольнения.",
+      "farsi": "البته، به افرادی که اخراج شده‌اند توصیه می‌کنم با یک وکیل صحبت کنند، زیرا طبیعتاً می‌توان علیه اخراج نیز شکایت کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vielen Dank, Frau Dr. Dohr …",
+      "english": "Thank you very much, Dr. Dohr ...",
+      "russian": "Большое спасибо, доктор Дор ...",
+      "farsi": "بسیار متشکرم، دکتر دوهر ..."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Guten Tag, liebe Hörerinnen und Hörer.",
+      "english": "Good day, dear listeners.",
+      "russian": "Добрый день, дорогие слушатели.",
+      "farsi": "روز بخیر، شنوندگان عزیز."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im Magazin am Nachmittag geht es heute um das Thema Selbstständigkeit.",
+      "english": "In today's afternoon magazine, we're discussing the topic of self-employment.",
+      "russian": "В сегодняшнем дневном выпуске мы обсуждаем тему самозанятости.",
+      "farsi": "در مجله بعد از ظهر امروز، موضوع خوداشتغالی را بررسی می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im Studio begrüße ich Frau Dr. Charlotte Koch. Sie arbeitet am Institut für Berufsforschung.",
+      "english": "In the studio, I welcome Dr. Charlotte Koch. She works at the Institute for Occupational Research.",
+      "russian": "В студии я приветствую доктора Шарлотту Кох. Она работает в Институте исследования профессий.",
+      "farsi": "در استودیو، از دکتر شارلوت کخ استقبال می‌کنم. او در موسسه تحقیقات شغلی کار می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Frau Dr. Koch, wie viele Selbstständige gibt es zurzeit in Deutschland?",
+      "english": "Dr. Koch, how many self-employed people are there currently in Germany?",
+      "russian": "Доктор Кох, сколько сейчас в Германии самозанятых?",
+      "farsi": "دکتر کخ، در حال حاضر چند نفر خوداشتغال در آلمان وجود دارد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Also in Deutschland gibt es zurzeit fast 45,5 Millionen Menschen, die arbeiten.",
+      "english": "Well, in Germany there are currently almost 45.5 million people who work.",
+      "russian": "Итак, в Германии в настоящее время почти 45,5 миллиона работающих людей.",
+      "farsi": "خب، در حال حاضر در آلمان تقریباً ۴۵.۵ میلیون نفر مشغول به کار هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Davon sind ca. 3,9 Millionen Menschen selbstständig.",
+      "english": "Of these, about 3.9 million people are self-employed.",
+      "russian": "Из них около 3,9 миллиона человек являются самозанятыми.",
+      "farsi": "از این تعداد، حدود ۳.۹ میلیون نفر خوداشتغال هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Davon sind rund 2,2 Millionen Solo-Selbstständige, also Selbstständige, die keine Mitarbeitenden beschäftigen.",
+      "english": "Of these, around 2.2 million are solo self-employed, meaning self-employed individuals who do not employ any staff.",
+      "russian": "Из них около 2,2 миллиона - индивидуальные предприниматели, то есть самозанятые, которые не нанимают сотрудников.",
+      "farsi": "از این میان، حدود ۲.۲ میلیون نفر خوداشتغال تنها هستند، یعنی افراد خوداشتغالی که کارمندی استخدام نمی‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In welchen Bereichen arbeiten viele Solo-Selbstständige?",
+      "english": "In which areas do many solo self-employed people work?",
+      "russian": "В каких областях работает много индивидуальных предпринимателей?",
+      "farsi": "افراد خوداشتغال تنها در چه زمینه‌هایی کار می‌کنند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Solo-Selbständige gibt es in vielen Branchen: zum Beispiel in den Bereichen Gesundheit, Informatik, Gartenbau und Floristik oder Gebäudereinigung.",
+      "english": "Solo self-employed people can be found in many industries: for example, in the fields of health, information technology, horticulture and floristry, or building cleaning.",
+      "russian": "Индивидуальные предприниматели есть во многих отраслях: например, в сферах здравоохранения, информатики, садоводства и флористики или уборки помещений.",
+      "farsi": "افراد خوداشتغال تنها در بسیاری از صنایع یافت می‌شوند: به عنوان مثال، در زمینه‌های بهداشت، فناوری اطلاعات، باغبانی و گل‌آرایی، یا نظافت ساختمان."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und wie sieht das Verhältnis zwischen Männern und Frauen aus?",
+      "english": "And what is the ratio between men and women?",
+      "russian": "А как выглядит соотношение между мужчинами и женщинами?",
+      "farsi": "و نسبت بین مردان و زنان چگونه است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Da gibt es einen großen Unterschied.",
+      "english": "There is a big difference there.",
+      "russian": "Здесь есть большая разница.",
+      "farsi": "در این مورد تفاوت بزرگی وجود دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Etwa zwei Drittel der Selbstständigen sind Männer und nur ein Drittel Frauen.",
+      "english": "About two-thirds of the self-employed are men and only one-third are women.",
+      "russian": "Примерно две трети самозанятых - мужчины, и только одна треть - женщины.",
+      "farsi": "حدود دو سوم افراد خوداشتغال مرد هستند و تنها یک سوم زن هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie viele der Selbstständigen haben Migrationshintergrund?",
+      "english": "How many of the self-employed have a migration background?",
+      "russian": "Сколько самозанятых имеют миграционное происхождение?",
+      "farsi": "چند درصد از افراد خوداشتغال پیشینه مهاجرت دارند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "12 % der Selbstständigen haben eine ausländische Staatsangehörigkeit.",
+      "english": "12% of the self-employed have a foreign nationality.",
+      "russian": "12% самозанятых имеют иностранное гражданство.",
+      "farsi": "۱۲٪ از افراد خوداشتغال تابعیت خارجی دارند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Viele Migrantinnen und Migranten haben sich in den letzten Jahren selbstständig gemacht.",
+      "english": "Many migrants have become self-employed in recent years.",
+      "russian": "Многие мигранты стали самозанятыми в последние годы.",
+      "farsi": "بسیاری از مهاجران در سال‌های اخیر خوداشتغال شده‌اند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Unter Migrantinnen und Migranten ist der Wunsch nach beruflicher Selbstständigkeit stärker als in der Gesamtbevölkerung.",
+      "english": "Among migrants, the desire for professional self-employment is stronger than in the general population.",
+      "russian": "Среди мигрантов желание профессиональной самозанятости сильнее, чем среди населения в целом.",
+      "farsi": "در میان مهاجران، تمایل به خوداشتغالی حرفه‌ای قوی‌تر از جمعیت عمومی است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und wie viel verdienen die Selbstständigen durchschnittlich im Monat?",
+      "english": "And how much do the self-employed earn on average per month?",
+      "russian": "А сколько в среднем зарабатывают самозанятые в месяц?",
+      "farsi": "و افراد خوداشتغال به طور متوسط در ماه چقدر درآمد دارند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das monatliche Bruttoeinkommen von Solo-Selbstständigen beträgt etwa 1800 Euro.",
+      "english": "The monthly gross income of solo self-employed individuals is about 1800 euros.",
+      "russian": "Ежемесячный валовой доход индивидуальных предпринимателей составляет около 1800 евро.",
+      "farsi": "درآمد ناخالص ماهانه افراد خوداشتغال تنها حدود ۱۸۰۰ یورو است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Selbstständige mit Beschäftigten verdienen allerdings wesentlich mehr im Monat.",
+      "english": "However, self-employed individuals with employees earn significantly more per month.",
+      "russian": "Однако самозанятые с сотрудниками зарабатывают значительно больше в месяц.",
+      "farsi": "با این حال، افراد خوداشتغالی که کارمند دارند، درآمد ماهانه بسیار بیشتری دارند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie verdienen um die 4200 Euro im Monat brutto.",
+      "english": "They earn around 4200 euros gross per month.",
+      "russian": "Они зарабатывают около 4200 евро в месяц до вычета налогов.",
+      "farsi": "آنها حدود ۴۲۰۰ یورو ناخالص در ماه درآمد دارند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und warum wählen viele Menschen die Solo-Selbstständigkeit?",
+      "english": "And why do many people choose solo self-employment?",
+      "russian": "И почему многие люди выбирают индивидуальное предпринимательство?",
+      "farsi": "و چرا بسیاری از افراد خوداشتغالی تنها را انتخاب می‌کنند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dafür gibt es gute Gründe.",
+      "english": "There are good reasons for that.",
+      "russian": "Для этого есть веские причины.",
+      "farsi": "دلایل خوبی برای این کار وجود دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man ist unabhängig und kann sich seine Arbeitszeiten selbst einteilen.",
+      "english": "One is independent and can organize their own working hours.",
+      "russian": "Человек независим и может сам организовывать свое рабочее время.",
+      "farsi": "فرد مستقل است و می‌تواند ساعات کاری خود را تنظیم کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und wer keine Mitarbeitenden beschäftigt, hat auch keine Verantwortung für andere.",
+      "english": "And those who don't employ staff also don't have responsibility for others.",
+      "russian": "А те, кто не нанимает сотрудников, также не несут ответственности за других.",
+      "farsi": "و کسانی که کارمندی ندارند، مسئولیتی در قبال دیگران نیز ندارند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vielen Dank für das Gespräch und jetzt Musik von …",
+      "english": "Thank you for the conversation and now music from ...",
+      "russian": "Спасибо за беседу, а теперь музыка от ...",
+      "farsi": "از گفتگو متشکرم و حالا موسیقی از ..."
+    }
+  ]
+}
