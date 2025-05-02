@@ -1,0 +1,712 @@
+{
+  "info": {
+    "name": "B1_Plus_Fokus_Wörter_02",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Ansprechpartner, die Ansprechpartner",
+      "english": "the contact person (male), contact persons (male)",
+      "russian": "контактное лицо (мужчина), контактные лица (мужчины)",
+      "farsi": "فرد تماس (مرد)، افراد تماس (مردان)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Ansprechpartnerin, die Ansprechpartnerinnen",
+      "english": "the contact person (female), contact persons (female)",
+      "russian": "контактное лицо (женщина), контактные лица (женщины)",
+      "farsi": "فرد تماس (زن)، افراد تماس (زنان)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Aushang, die Aushänge",
+      "english": "the notice, notices",
+      "russian": "объявление, объявления",
+      "farsi": "اطلاعیه، اطلاعیه‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Bewerbungsschreiben, die Bewerbungsschreiben",
+      "english": "the application letter, application letters",
+      "russian": "заявление, заявления",
+      "farsi": "نامه درخواست، نامه‌های درخواست"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Bewerbungsverfahren , die Bewerbungsverfahren",
+      "english": "the application process, application processes",
+      "russian": "процесс подачи заявления, процессы подачи заявлений",
+      "farsi": "فرآیند درخواست، فرآیندهای درخواست"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Eindruck, die Eindrücke",
+      "english": "the impression, impressions",
+      "russian": "впечатление, впечатления",
+      "farsi": "تصور، تصورات"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Elektrofirma, die Elektrofirmen",
+      "english": "the electrical company, electrical companies",
+      "russian": "электротехническая компания, электротехнические компании",
+      "farsi": "شرکت برق، شرکت‌های برق"
+    },
+    {
+      "type": "verben",
+      "Infinitive": "erwarten",
+      "Präsens": "ich erwarte, du erwartest, er/sie/es erwartet, wir erwarten, ihr erwartet, sie erwarten",
+      "Präteritum": "ich erwartete, du erwartetest, er/sie/es erwartete, wir erwarteten, ihr erwartetet, sie erwarteten",
+      "Perfekt": "hat erwartet",
+      "englishMeaning": "to expect",
+      "englishUsage": "Used to describe the anticipation of something happening or someone arriving.",
+      "russianMeaning": "ожидать",
+      "russianUsage": "Используется для описания ожидания какого-либо события или прибытия кого-либо.",
+      "farsiMeaning": "انتظار داشتن",
+      "farsiUsage": "برای توصیف انتظار وقوع چیزی یا رسیدن کسی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Fachpersonal (Sg.)",
+      "english": "the specialized personnel",
+      "russian": "квалифицированный персонал",
+      "farsi": "پرسنل متخصص"
+    },
+    {
+      "type": "adjektive",
+      "Infinitive": "fehlerfrei",
+      "Komparativ": "fehlerfreier",
+      "Superlativ": "am fehlerfreiesten",
+      "englishMeaning": "error-free, flawless",
+      "englishUsage": "Describes something without mistakes or defects, often used for technical accuracy or perfect execution.",
+      "russianMeaning": "безошибочный, безупречный",
+      "russianUsage": "Используется для описания чего-либо без ошибок или дефектов, часто в технических или качественных контекстах.",
+      "farsiMeaning": "بدون خطا، بی‌عیب",
+      "farsiUsage": "برای توصیف چیزی بدون اشتباه یا نقص، اغلب در دقت فنی یا اجرای بی‌نقص استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Initiativbewerbung, die Initiativbewerbungen",
+      "english": "the unsolicited application, unsolicited applications",
+      "russian": "инициативное заявление, инициативные заявления",
+      "farsi": "درخواست ابتکاری، درخواست‌های ابتکاری"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Installateurfirma, die Installateurfirmen",
+      "english": "the installation company, installation companies",
+      "russian": "монтажная компания, монтажные компании",
+      "farsi": "شرکت نصب، شرکت‌های نصب"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Konkurrenz (Sg.)",
+      "english": "the competition",
+      "russian": "конкуренция",
+      "farsi": "رقابت"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Leiharbeiter, die Leiharbeiter",
+      "english": "the temporary worker (male), temporary workers (male)",
+      "russian": "временный работник (мужчина), временные работники (мужчины)",
+      "farsi": "کارگر موقت (مرد)، کارگران موقت (مردان)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Leiharbeiterin, die Leiharbeiterinnen",
+      "english": "the temporary worker (female), temporary workers (female)",
+      "russian": "временный работник (женщина), временные работники (женщины)",
+      "farsi": "کارگر موقت (زن)، کارگران موقت (زنان)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Leitbild, die Leitbilder",
+      "english": "the mission statement, mission statements",
+      "russian": "миссия/руководящие принципы, миссии/руководящие принципы",
+      "farsi": "بیانیه ماموریت، بیانیه‌های ماموریت"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Stand, die Stände",
+      "english": "the status/position, statuses/positions",
+      "russian": "положение/статус, положения/статусы",
+      "farsi": "وضعیت/موقعیت، وضعیت‌ها/موقعیت‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Stand der Dinge",
+      "english": "the current state of affairs",
+      "russian": "текущее положение дел",
+      "farsi": "وضعیت فعلی امور"
+    },
+    {
+      "type": "verben",
+      "Infinitive": "bestätigen",
+      "Präsens": "ich bestätige, du bestätigst, er/sie/es bestätigt, wir bestätigen, ihr bestätigt, sie bestätigen",
+      "Präteritum": "ich bestätigte, du bestätigtest, er/sie/es bestätigte, wir bestätigten, ihr bestätigtet, sie bestätigten",
+      "Perfekt": "hat bestätigt",
+      "englishMeaning": "to confirm",
+      "englishUsage": "Used to formally acknowledge or verify information, appointments, or arrangements.",
+      "russianMeaning": "подтверждать",
+      "russianUsage": "Используется для официального подтверждения информации, встреч или договоренностей.",
+      "farsiMeaning": "تایید کردن",
+      "farsiUsage": "برای تایید رسمی اطلاعات، قرارها یا ترتیبات استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Unterlage, die Unterlagen",
+      "english": "the document, documents",
+      "russian": "документ, документы",
+      "farsi": "سند، اسناد"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Wartezeit, die Wartezeiten",
+      "english": "the waiting period, waiting periods",
+      "russian": "время ожидания, периоды ожидания",
+      "farsi": "زمان انتظار، دوره‌های انتظار"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Zeitarbeitsfirma, die Zeitarbeitsfirmen",
+      "english": "the temporary employment agency, temporary employment agencies",
+      "russian": "агентство временного трудоустройства, агентства временного трудоустройства",
+      "farsi": "شرکت کاریابی موقت، شرکت‌های کاریابی موقت"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "zukünftig",
+      "english": "future, upcoming",
+      "russian": "будущий, грядущий",
+      "farsi": "آتی، آینده"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Arbeitsvermittlung, die Arbeitsvermittlungen",
+      "english": "the job placement service, job placement services",
+      "russian": "служба занятости, службы занятости",
+      "farsi": "خدمات کاریابی، خدمات کاریابی (جمع)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Arbeitskraft, die Arbeitskräfte",
+      "english": "the labor force, labor forces",
+      "russian": "рабочая сила, рабочие силы",
+      "farsi": "نیروی کار، نیروهای کار"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Arbeitsverhältnis, die Arbeitsverhältnisse",
+      "english": "the employment relationship, employment relationships",
+      "russian": "трудовые отношения, трудовые отношения (множественное число)",
+      "farsi": "رابطه کاری، روابط کاری"
+    },
+    {
+      "type": "verben",
+      "Infinitive": "ausleihen",
+      "Präsens": "ich leihe aus, du leihst aus, er/sie/es leiht aus, wir leihen aus, ihr leiht aus, sie leihen aus",
+      "Präteritum": "ich lieh aus, du liehst aus, er/sie/es lieh aus, wir liehen aus, ihr lieht aus, sie liehen aus",
+      "Perfekt": "hat ausgeliehen",
+      "englishMeaning": "to lend, to borrow",
+      "englishUsage": "Used for temporary transfer of items or resources (context determines lending/borrowing direction).",
+      "russianMeaning": "одалживать, брать взаймы",
+      "russianUsage": "Используется для временной передачи предметов или ресурсов (контекст определяет направление действия).",
+      "farsiMeaning": "قرض دادن، قرض گرفتن",
+      "farsiUsage": "برای انتقال موقت اقلام یا منابع استفاده می‌شود (جهت عمل با توجه به متن مشخص می‌شود)."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Berufsberatung, die Berufsberatungen",
+      "english": "the career counseling, career counseling services",
+      "russian": "профориентация, услуги по профориентации",
+      "farsi": "مشاوره شغلی، خدمات مشاوره شغلی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Berufserfahrung, die Berufserfahrungen",
+      "english": "the professional experience, professional experiences",
+      "russian": "профессиональный опыт, профессиональные опыты",
+      "farsi": "تجربه حرفه‌ای، تجربه‌های حرفه‌ای"
+    },
+    {
+      "type": "verben",
+      "Infinitive": "beschäftigen",
+      "Präsens": "ich beschäftige, du beschäftigst, er/sie/es beschäftigt, wir beschäftigen, ihr beschäftigt, sie beschäftigen",
+      "Präteritum": "ich beschäftigte, du beschäftigtest, er/sie/es beschäftigte, wir beschäftigten, ihr beschäftigtet, sie beschäftigten",
+      "Perfekt": "haben beschäftigt",
+      "englishMeaning": "to employ, to occupy",
+      "englishUsage": "Used for employing workers or keeping someone occupied with tasks/activities",
+      "russianMeaning": "нанимать, занимать",
+      "russianUsage": "Используется для найма работников или занятия кого-либо задачами/деятельностью",
+      "farsiMeaning": "استخدام کردن، مشغول کردن",
+      "farsiUsage": "برای استخدام کارگران یا مشغول نگه داشتن افراد با وظایف/فعالیت‌ها استفاده می‌شود"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Beschäftigung, die Beschäftigungen",
+      "english": "the employment, occupations",
+      "russian": "занятость, трудоустройство",
+      "farsi": "اشتغال، مشاغل"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Betrieb, die Betriebe",
+      "english": "the company, enterprise",
+      "russian": "предприятие, компания",
+      "farsi": "شرکت، کارخانه"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Genehmigung, die Genehmigungen",
+      "english": "the permission, authorization",
+      "russian": "разрешение",
+      "farsi": "مجوز"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Leiharbeit (Sg.)",
+      "english": "temporary agency work",
+      "russian": "временная работа через агентство",
+      "farsi": "کار موقت از طریق آژانس"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Leiharbeiter, die Leiharbeiter",
+      "english": "temporary agency worker (male)",
+      "russian": "временный работник (мужчина) через агентство",
+      "farsi": "کارگر موقت مرد از طریق آژانس"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Leiharbeiterin, die Leiharbeiterinnen",
+      "english": "temporary agency worker (female)",
+      "russian": "временная работница (женщина) через агентство",
+      "farsi": "کارگر موقت زن از طریق آژانس"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "staatlich",
+      "english": "state, state-owned, governmental",
+      "russian": "государственный",
+      "farsi": "دولتی، وابسته به دولت"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Tätigkeit, die Tätigkeiten",
+      "english": "the activity, activities",
+      "russian": "деятельность, деятельности",
+      "farsi": "فعالیت، فعالیت‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "einen Termin vereinbaren",
+      "english": "to arrange an appointment",
+      "russian": "договориться о встрече",
+      "farsi": "زمانی را تعیین کردن"
+    },
+    {
+      "type": "verben",
+      "Infinitive": "verleihen",
+      "Präsens": "ich verleihe, du verleihst, er/sie/es verleiht, wir verleihen, ihr verleiht, sie verleihen",
+      "Präteritum": "ich verlieh, du verliehst, er/sie/es verlieh, wir verliehen, ihr verlieht, sie verliehen",
+      "Perfekt": "haben verliehen",
+      "englishMeaning": "to award, to lend",
+      "englishUsage": "Used for granting awards/honors or temporarily lending objects",
+      "russianMeaning": "вручать (награду), давать взаймы",
+      "russianUsage": "Используется для вручения наград или временного предоставления предметов",
+      "farsiMeaning": "اعطا کردن (جایزه)، امانت دادن",
+      "farsiUsage": "برای اعطای جوایز یا امانت دادن موقت اشیاء استفاده می‌شود"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Vermittlung, die Vermittlungen",
+      "english": "the mediation, placement",
+      "russian": "посредничество, трудоустройство",
+      "farsi": "میانجی‌گری، کاریابی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Vermittlungsgebühr, die Vermittlungsgebühren",
+      "english": "the placement fee, brokerage fee",
+      "russian": "комиссия за посредничество",
+      "farsi": "هزینه کاریابی/میانجی‌گری"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Stellenanzeigen",
+      "english": "job postings, job advertisements",
+      "russian": "объявления о вакансиях",
+      "farsi": "آگهی‌های شغلی"
+    },
+    {
+      "type": "verben",
+      "Infinitive": "verstehen",
+      "Präsens": "ich verstehe, du verstehst, er/sie/es versteht, wir verstehen, ihr versteht, sie verstehen",
+      "Präteritum": "ich verstand, du verstandest, er/sie/es verstand, wir verstanden, ihr verstandet, sie verstanden",
+      "Perfekt": "haben verstanden",
+      "englishMeaning": "to understand",
+      "englishUsage": "Used for comprehending information or grasping concepts",
+      "russianMeaning": "понимать",
+      "russianUsage": "Используется для осмысления информации или усвоения концепций",
+      "farsiMeaning": "فهمیدن، درک کردن",
+      "farsiUsage": "برای درک اطلاعات یا مفاهیم استفاده می‌شود"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Agraringenieur, die Agraringenieure",
+      "english": "the agricultural engineer (male)",
+      "russian": "инженер-агроном (мужчина)",
+      "farsi": "مهندس کشاورزی (مرد)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Agraringenieurin, die Agraringenieurinnen",
+      "english": "the agricultural engineer (female)",
+      "russian": "инженер-агроном (женщина)",
+      "farsi": "مهندس کشاورزی (زن)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Arbeitseinsatz, die Arbeitseinsätze",
+      "english": "work deployment, labor assignment",
+      "russian": "трудовое задание, рабочее развёртывание",
+      "farsi": "استخدام نیروی کار، مأموریت کاری"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Bereich, die Bereiche",
+      "english": "the sector, field, area",
+      "russian": "область, сфера",
+      "farsi": "حوزه، زمینه"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Bereitschaft (Sg.)",
+      "english": "readiness, willingness",
+      "russian": "готовность",
+      "farsi": "آمادگی، تمایل"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Einsatzort, die Einsatzorte",
+      "english": "the deployment location, place of assignment",
+      "russian": "место назначения, место дислокации",
+      "farsi": "محل مأموریت، محل استقرار"
+    },
+    {
+      "type": "verben",
+      "Infinitive": "examinieren",
+      "Präsens": "ich examiniere, du examinierst, er/sie/es examiniert, wir examinieren, ihr examiniert, sie examinieren",
+      "Präteritum": "ich examinierte, du examiniertest, er/sie/es examinierte, wir examinierten, ihr examiniertet, sie examinierten",
+      "Perfekt": "haben examiniert",
+      "englishMeaning": "to examine, to interrogate",
+      "englishUsage": "Used for formal examinations (academic/medical) or detailed inspections",
+      "russianMeaning": "экзаменовать, тщательно проверять",
+      "russianUsage": "Используется для формальных экзаменов (академических/медицинских) или детальных проверок",
+      "farsiMeaning": "آزمودن، بازرسی دقیق کردن",
+      "farsiUsage": "برای امتحانات رسمی (آکادمیک/پزشکی) یا بازرسی‌های دقیق استفاده می‌شود"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Familienunternehmen, die Familienunternehmen",
+      "english": "the family business, family-owned company",
+      "russian": "семейное предприятие",
+      "farsi": "شرکت خانوادگی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Informatiker, die Informatiker",
+      "english": "the computer scientist (male)",
+      "russian": "информатик (мужчина)",
+      "farsi": "متخصص علوم کامپیوتر (مرد)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Informatikerin, die Informatikerinnen",
+      "english": "the computer scientist (female)",
+      "russian": "информатик (женщина)",
+      "farsi": "متخصص علوم کامپیوتر (زن)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Ingenieur, die Ingenieure",
+      "english": "the engineer (male)",
+      "russian": "инженер (мужчина)",
+      "farsi": "مهندس (مرد)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Ingenieurin, die Ingenieurinnen",
+      "english": "the engineer (female)",
+      "russian": "инженер (женщина)",
+      "farsi": "مهندس (زن)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "innovativ",
+      "english": "innovative",
+      "russian": "инновационный",
+      "farsi": "نوآورانه"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Karrierechance, die Karrierechancen",
+      "english": "the career opportunity, career opportunities",
+      "russian": "возможность карьерного роста, возможности карьерного роста",
+      "farsi": "فرصت شغلی، فرصت‌های شغلی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Kommunikationsfähigkeit, die Kommunikationsfähigkeiten",
+      "english": "the communication skill, communication skills",
+      "russian": "способность к общению, способности к общению",
+      "farsi": "مهارت ارتباطی، مهارت‌های ارتباطی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Kundenservice (Sg.)",
+      "english": "customer service",
+      "russian": "сервис для клиентов",
+      "farsi": "خدمات مشتری"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Pflegekraft, die Pflegekräfte",
+      "english": "the caregiver, caregivers",
+      "russian": "сиделка, сиделки",
+      "farsi": "پرستار، پرستاران"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Pflegeservice (Sg.)",
+      "english": "care service",
+      "russian": "услуги по уходу",
+      "farsi": "خدمات پرستاری"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Sicherheitsmitarbeiter, die Sicherheitsmitarbeiter",
+      "english": "the security officer, security officers",
+      "russian": "сотрудник службы безопасности, сотрудники службы безопасности",
+      "farsi": "کارمند امنیتی، کارمندان امنیتی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Sicherheitsmitarbeiterin, die Sicherheitsmitarbeiterinnen",
+      "english": "the security officer (female), security officers (female)",
+      "russian": "сотрудница службы безопасности, сотрудницы службы безопасности",
+      "farsi": "کارمند امنیتی زن، کارمندان امنیتی زن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Teamgeist (Sg.)",
+      "english": "team spirit",
+      "russian": "командный дух",
+      "farsi": "روحیه تیمی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Verantwortung (Sg.)",
+      "english": "the responsibility",
+      "russian": "ответственность",
+      "farsi": "مسئولیت"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Verkäufer, die Verkäufer",
+      "english": "the salesperson (male), salespeople",
+      "russian": "продавец (мужчина), продавцы",
+      "farsi": "فروشنده مرد، فروشندگان"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Verkäuferin, die Verkäuferinnen",
+      "english": "the salesperson (female), salespeople",
+      "russian": "продавец (женщина), продавцы",
+      "farsi": "فروشنده زن، فروشندگان"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Verstärkung, die Verstärkungen",
+      "english": "the reinforcement, reinforcements",
+      "russian": "усиление, подкрепление",
+      "farsi": "تقویت، تقویت‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Zukunftsperspektive, die Zukunftsperspektiven",
+      "english": "the career prospects, future perspectives",
+      "russian": "перспектива на будущее, карьерные перспективы",
+      "farsi": "چشم‌انداز آینده، چشماندازهای شغلی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Zusammenarbeit (Sg.)",
+      "english": "the cooperation, collaboration",
+      "russian": "сотрудничество",
+      "farsi": "همکاری"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "zuständig",
+      "english": "responsible, competent",
+      "russian": "ответственный, компетентный",
+      "farsi": "مسئول، صالح"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Informationsbogen",
+      "english": "information form",
+      "russian": "информационный бланк",
+      "farsi": "فرم اطلاعاتی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Bauvorhaben, die Bauvorhaben",
+      "english": "the construction project, construction projects",
+      "russian": "строительный проект, строительные проекты",
+      "farsi": "پروژه ساخت‌وساز، پروژه‌های ساخت‌وساز"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Berufsausbildung (Sg.)",
+      "english": "the vocational training",
+      "russian": "профессиональное обучение",
+      "farsi": "آموزش حرفه‌ای"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Einsatz, die Einsätze",
+      "english": "the deployment, commitment",
+      "russian": "развертывание, обязательство",
+      "farsi": "استقرار، تعهد"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Einverständnis (Sg.)",
+      "english": "the consent, agreement",
+      "russian": "согласие",
+      "farsi": "رضایت، توافق"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Fachinformatiker, die Fachinformatiker",
+      "english": "the IT specialist (male), IT specialists",
+      "russian": "специалист по информационным технологиям (мужчина), специалисты по ИТ",
+      "farsi": "متخصص فناوری اطلاعات (مرد)، متخصصان فناوری اطلاعات"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Fachinformatikerin, die Fachinformatikerinnen",
+      "english": "the IT specialist (female), IT specialists",
+      "russian": "специалист по информационным технологиям (женщина), специалистки по ИТ",
+      "farsi": "متخصص فناوری اطلاعات (زن)، متخصصان فناوری اطلاعات"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Krankheitsvertretung (Sg.)",
+      "english": "sick leave replacement",
+      "russian": "замещение на время болезни",
+      "farsi": "جانشینی در زمان بیماری"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Realschulabschluss, die Realschulabschlüsse",
+      "english": "the secondary school certificate (German Realschule)",
+      "russian": "аттестат зрелости реального училища (Германия)",
+      "farsi": "مدرک پایان دوره رئال‌شوله (آلمان)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Urlaubsvertretung (Sg.)",
+      "english": "holiday replacement",
+      "russian": "замещение на время отпуска",
+      "farsi": "جانشینی در زمان مرخصی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Zeitraum, die Zeiträume",
+      "english": "the period, time frame",
+      "russian": "период, временной интервал",
+      "farsi": "بازه زمانی، دوره"
+    }
+  ]
+}

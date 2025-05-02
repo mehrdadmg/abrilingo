@@ -1,0 +1,417 @@
+{
+  "info": {
+    "name": "B1_Fokus_Wörter_u04",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Stellenangebot, -e",
+      "english": "the job offer, job offers",
+      "russian": "предложение о работе, предложения о работе",
+      "farsi": "پیشنهاد شغلی، پیشنهادهای شغلی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Zeitung, -en",
+      "english": "the newspaper, newspapers",
+      "russian": "газета, газеты",
+      "farsi": "روزنامه، روزنامه‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Café, -s",
+      "english": "the café, cafés",
+      "russian": "кафе, кафе",
+      "farsi": "کافه، کافه‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Vorstellungsgespräch, -e",
+      "english": "the job interview, job interviews",
+      "russian": "собеседование, собеседования",
+      "farsi": "مصاحبه شغلی، مصاحبه‌های شغلی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Information, -en",
+      "english": "the information, pieces of information",
+      "russian": "информация, сведения",
+      "farsi": "اطلاعات، اطلاعات"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Bewerbung, -en",
+      "english": "the application, applications",
+      "russian": "заявление, заявления",
+      "farsi": "درخواست، درخواست‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Veranstaltung, -en",
+      "english": "the event, events",
+      "russian": "мероприятие, мероприятия",
+      "farsi": "رویداد، رویدادها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Vortrag, -ä-e",
+      "english": "the lecture, lectures",
+      "russian": "доклад, доклады",
+      "farsi": "سخنرانی، سخنرانی‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Termin, -e",
+      "english": "the appointment, appointments",
+      "russian": "встреча, встречи",
+      "farsi": "قرار ملاقات، قرارهای ملاقات"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "sich (beruflich)",
+      "english": "oneself (professionally)",
+      "russian": "себя (профессионально)",
+      "farsi": "خود (از نظر حرفه‌ای)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "verändern",
+      "english": "to change, to alter",
+      "russian": "изменять, менять",
+      "farsi": "تغییر دادن، دگرگون کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "unterstützen",
+      "english": "to support, to assist",
+      "russian": "поддерживать, помогать",
+      "farsi": "حمایت کردن، پشتیبانی کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Unterlagen (Pl.)",
+      "english": "the documents, papers",
+      "russian": "документы, бумаги",
+      "farsi": "مدارک، اسناد"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "(sich) etw. vorstellen",
+      "english": "to imagine something, to introduce oneself",
+      "russian": "представлять себе что-то, представляться",
+      "farsi": "تصور کردن چیزی، خود را معرفی کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "berechnen",
+      "english": "to calculate, to compute",
+      "russian": "вычислять, рассчитывать",
+      "farsi": "محاسبه کردن، برآورد کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Angebot, -e",
+      "english": "the offer, offers",
+      "russian": "предложение, предложения",
+      "farsi": "پیشنهاد، پیشنهادها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "sorgen",
+      "english": "to care, to worry",
+      "russian": "заботиться, беспокоиться",
+      "farsi": "مراقبت کردن، نگران بودن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "verantwortlich (für)",
+      "english": "responsible (for)",
+      "russian": "ответственный (за)",
+      "farsi": "مسئول (برای)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "organisieren",
+      "english": "to organize",
+      "russian": "организовывать",
+      "farsi": "سازماندهی کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Problem, -e",
+      "english": "the problem, problems",
+      "russian": "проблема, проблемы",
+      "farsi": "مشکل، مشکلات"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "verstehen",
+      "english": "to understand",
+      "russian": "понимать",
+      "farsi": "فهمیدن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Vertrauen (Sg.)",
+      "english": "the trust (singular)",
+      "russian": "доверие (ед. ч.)",
+      "farsi": "اعتماد (مفرد)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "nähen",
+      "english": "to sew",
+      "russian": "шить",
+      "farsi": "دوختن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "ändern",
+      "english": "to change, to alter",
+      "russian": "изменять, менять",
+      "farsi": "تغییر دادن، اصلاح کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Kleidung (Sg.)",
+      "english": "the clothing (singular)",
+      "russian": "одежда (ед. ч.)",
+      "farsi": "لباس (مفرد)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "dekorieren",
+      "english": "to decorate",
+      "russian": "украшать",
+      "farsi": "تزیین کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "sich bewerben",
+      "english": "to apply (for a job)",
+      "russian": "подавать заявление (на работу)",
+      "farsi": "درخواست دادن (برای شغل)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "zuverlässig",
+      "english": "reliable",
+      "russian": "надежный",
+      "farsi": "قابل اعتماد"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "fleißig",
+      "english": "diligent, hardworking",
+      "russian": "прилежный, трудолюбивый",
+      "farsi": "پرتلاش، سخت‌کوش"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Erfahrung, -en",
+      "english": "the experience, experiences",
+      "russian": "опыт, опыты",
+      "farsi": "تجربه، تجربیات"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Team, -s",
+      "english": "the team, teams",
+      "russian": "команда, команды",
+      "farsi": "تیم، تیم‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "sozial",
+      "english": "social",
+      "russian": "социальный",
+      "farsi": "اجتماعی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "achten (auf)",
+      "english": "to pay attention (to)",
+      "russian": "обращать внимание (на)",
+      "farsi": "توجه کردن (به)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "beschreiben",
+      "english": "to describe",
+      "russian": "описывать",
+      "farsi": "توصیف کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "persönlich",
+      "english": "personal",
+      "russian": "личный",
+      "farsi": "شخصی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "erwarten",
+      "english": "to expect",
+      "russian": "ожидать",
+      "farsi": "انتظار داشتن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Fehler, -",
+      "english": "the mistake, mistakes",
+      "russian": "ошибка, ошибки",
+      "farsi": "اشتباه، اشتباهات"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "reagieren",
+      "english": "to react",
+      "russian": "реагировать",
+      "farsi": "واکنش نشان دادن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "übernehmen",
+      "english": "to take over, to assume",
+      "russian": "брать на себя, принимать",
+      "farsi": "به عهده گرفتن، پذیرفتن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Meinung, -en",
+      "english": "the opinion, opinions",
+      "russian": "мнение, мнения",
+      "farsi": "نظر، نظرات"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "anders",
+      "english": "different, otherwise",
+      "russian": "другой, иначе",
+      "farsi": "متفاوت، طور دیگر"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "akzeptieren",
+      "english": "to accept",
+      "russian": "принимать, соглашаться",
+      "farsi": "پذیرفتن، قبول کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "pünktlich",
+      "english": "punctual, on time",
+      "russian": "пунктуальный, вовремя",
+      "farsi": "سر وقت، به موقع"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Kontakt, -e",
+      "english": "the contact, contacts",
+      "russian": "контакт, контакты",
+      "farsi": "تماس، تماس‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Erfolg, -e",
+      "english": "the success, successes",
+      "russian": "успех, успехи",
+      "farsi": "موفقیت، موفقیت‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "geeignet",
+      "english": "suitable, appropriate",
+      "russian": "подходящий, соответствующий",
+      "farsi": "مناسب، شایسته"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "selbstständig",
+      "english": "independent, self-employed",
+      "russian": "самостоятельный, независимый",
+      "farsi": "مستقل، خوداشتغال"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "beachten",
+      "english": "to observe, to pay attention to",
+      "russian": "соблюдать, обращать внимание",
+      "farsi": "توجه کردن، رعایت کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "passen (zu)",
+      "english": "to fit (with), to suit",
+      "russian": "подходить (к), соответствовать",
+      "farsi": "مناسب بودن (برای)، جور بودن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Titel, -",
+      "english": "the title, titles",
+      "russian": "заголовок, заголовки",
+      "farsi": "عنوان، عناوین"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Thema, Themen",
+      "english": "the topic, topics",
+      "russian": "тема, темы",
+      "farsi": "موضوع، موضوعات"
+    }
+  ]
+}

@@ -1,0 +1,883 @@
+{
+  "info": {
+    "name": "B1_Wortliste_04",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Apartment, die Apartments",
+      "english": "the apartment, apartments",
+      "russian": "апартамент, апартаменты",
+      "farsi": "آپارتمان، آپارتمان‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben ein Ferienapartment gemietet.",
+      "english": "We rented a vacation apartment.",
+      "russian": "Мы сняли апартамент на отдых.",
+      "farsi": "ما یک آپارتمان تعطیلات کرایه کردیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Apfel, die Äpfel",
+      "english": "the apple, apples",
+      "russian": "яблоко, яблоки",
+      "farsi": "سیب، سیب‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Zum Frühstück esse ich jeden Tag einen Apfel.",
+      "english": "I eat an apple every day for breakfast.",
+      "russian": "Я ем яблоко каждый день на завтрак.",
+      "farsi": "من هر روز صبح یک سیب می‌خورم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Apotheke, die Apotheken",
+      "english": "the pharmacy, pharmacies",
+      "russian": "аптека, аптеки",
+      "farsi": "داروخانه، داروخانه‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ist hier in der Nähe eine Apotheke?",
+      "english": "Is there a pharmacy nearby?",
+      "russian": "Рядом есть аптека?",
+      "farsi": "آیا در اینجا نزدیک داروخانه‌ای هست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Apparat, die Apparate",
+      "english": "the device, devices",
+      "russian": "прибор, приборы",
+      "farsi": "دستگاه، دستگاه‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können Sie den Apparat bitte etwas leiser stellen?",
+      "english": "Could you please turn down the device a bit?",
+      "russian": "Не могли бы вы сделать прибор немного тише?",
+      "farsi": "می‌توانید دستگاه را کمی کم کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wo ist mein Fotoapparat?",
+      "english": "Where is my camera?",
+      "russian": "Где мой фотоаппарат?",
+      "farsi": "دوربین من کجاست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Appetit",
+      "english": "the appetite",
+      "russian": "аппетит",
+      "farsi": "اشتها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe heute keinen Appetit. Ich mag nichts essen.",
+      "english": "I have no appetite today. I don't feel like eating anything.",
+      "russian": "У меня сегодня нет аппетита. Я не хочу есть.",
+      "farsi": "امروز اشتهایم نیست. چیزی نمی‌خواهم بخورم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Auf was hast du Appetit? Vielleicht auf einen Salat?",
+      "english": "What do you have an appetite for? Maybe a salad?",
+      "russian": "На что у тебя аппетит? Может быть, на салат?",
+      "farsi": "به چه چیزی اشتهای داری؟ شاید یک سالاد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Guten Appetit!",
+      "english": "Enjoy your meal!",
+      "russian": "Приятного аппетита!",
+      "farsi": "نوش جان!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Aprikose, die Aprikosen",
+      "english": "the apricot, apricots",
+      "russian": "абрикос, абрикосы",
+      "farsi": "زردآلو، زردآلوها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Schmecken dir die Aprikosen?",
+      "english": "Do you like apricots?",
+      "russian": "Тебе нравятся абрикосы?",
+      "farsi": "زردآلوها برایت خوشمزه هستند؟"
+    },
+    {
+      "type": "verben",
+      "Infinitive": "arbeiten",
+      "Präsens": "ich arbeite, du arbeitest, er/sie/es arbeitet, wir arbeiten, ihr arbeitet, sie/Sie arbeiten",
+      "Präteritum": "ich arbeitete, du arbeitestest, er/sie/es arbeitete, wir arbeiteten, ihr arbeitetet, sie/Sie arbeiteten",
+      "Perfekt": "hat gearbeitet",
+      "englishMeaning": "to work",
+      "englishUsage": "Used to describe the action of engaging in a job or activity.",
+      "russianMeaning": "работать",
+      "russianUsage": "Используется для описания действия занятия работой или какой-либо деятельностью.",
+      "farsiMeaning": "کار کردن",
+      "farsiUsage": "برای توصیف عمل اشتغال به یک شغل یا فعالیت استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er arbeitet heute bis 16 Uhr.",
+      "english": "He works until 4 PM today.",
+      "russian": "Сегодня он работает до 16 часов.",
+      "farsi": "امروز او تا ساعت 4 بعدازظهر کار می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Arzu arbeitet als Krankenschwester im Krankenhaus.",
+      "english": "Arzu works as a nurse in the hospital.",
+      "russian": "Арзу работает медсестрой в больнице.",
+      "farsi": "آرزو به عنوان پرستار در بیمارستان کار می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Arbeit, die Arbeiten",
+      "english": "the work, works",
+      "russian": "работа, работы",
+      "farsi": "کار، کارها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie gefällt dir deine Arbeit?",
+      "english": "How do you like your job?",
+      "russian": "Как тебе нравится твоя работа?",
+      "farsi": "کارت چطور است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nach der Ausbildung hat Mohamed eine Arbeit gefunden.",
+      "english": "After his training, Mohamed found a job.",
+      "russian": "После обучения Мохамед нашел работу.",
+      "farsi": "محمد بعد از آموزش یک شغل پیدا کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Arbeiter, die Arbeiter",
+      "english": "the worker, workers",
+      "russian": "работник, работники",
+      "farsi": "کارگر، کارگران"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Arbeiterin, die Arbeiterinnen",
+      "english": "the female worker, female workers",
+      "russian": "работница, работницы",
+      "farsi": "کارگر زن، کارگران زن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Maria ist seit zwei Jahren Arbeiterin bei Siemens.",
+      "english": "Maria has been a worker at Siemens for two years.",
+      "russian": "Мария уже два года работает на заводе Сименс.",
+      "farsi": "ماریا دو سال است که در شرکت زیمنس کار می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Arbeitserlaubnis, die Arbeitserlaubnisse",
+      "english": "the work permit, work permits",
+      "russian": "разрешение на работу, разрешения на работу",
+      "farsi": "اجازه کار، مجوزهای کار"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Haben Sie eine Arbeitserlaubnis?",
+      "english": "Do you have a work permit?",
+      "russian": "У вас есть разрешение на работу?",
+      "farsi": "آیا مجوز کار دارید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "arbeitslos",
+      "english": "unemployed",
+      "russian": "безработный",
+      "farsi": "بی‌کار"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie lange sind Sie schon arbeitslos?",
+      "english": "How long have you been unemployed?",
+      "russian": "Как долго вы безработны?",
+      "farsi": "چند وقت است که بی‌کار هستید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Arbeitslosigkeit",
+      "english": "unemployment",
+      "russian": "безработица",
+      "farsi": "بیکاری"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Arbeitslosigkeit ist gesunken.",
+      "english": "Unemployment has decreased.",
+      "russian": "Безработица снизилась.",
+      "farsi": "بیکاری کاهش یافته است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Arbeitsplatz, die Arbeitsplätze",
+      "english": "the job, jobs",
+      "russian": "рабочее место, рабочие места",
+      "farsi": "شغل، مشاغل"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In der Industrie gibt es immer weniger Arbeitsplätze.",
+      "english": "There are fewer and fewer jobs in the industry.",
+      "russian": "В промышленности становится все меньше рабочих мест.",
+      "farsi": "در صنعت به تدریج کمتر شغل وجود دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Arbeitsstelle, die Arbeitsstellen",
+      "english": "the position, positions",
+      "russian": "должность, должности",
+      "farsi": "موقعیت شغلی، موقعیت‌های شغلی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Meine Frau hat eine neue Arbeitsstelle gefunden.",
+      "english": "My wife has found a new position.",
+      "russian": "Моя жена нашла новую должность.",
+      "farsi": "همسرم یک موقعیت شغلی جدید پیدا کرده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Architekt, die Architekten",
+      "english": "the architect, architects",
+      "russian": "архитектор, архитекторы",
+      "farsi": "معمار، معماران"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Architektin, die Architektinnen",
+      "english": "the female architect, female architects",
+      "russian": "архитекторша, архитекторши",
+      "farsi": "معمار زن، معماران زن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dieses Haus hat eine berühmte Architektin gebaut.",
+      "english": "This house was built by a famous female architect.",
+      "russian": "Этот дом был построен известной архитекторшей.",
+      "farsi": "این خانه توسط یک معمار زن مشهور ساخته شده است."
+    },
+    {
+      "type": "verben",
+      "Infinitive": "(sich) ärgern",
+      "Präsens": "ich ärgere (mich), du ärgerst (dich), er/sie/es ärgert (sich), wir ärgern (uns), ihr ärgert (euch), sie/Sie ärgern (sich)",
+      "Präteritum": "ich ärgerte (mich), du ärgerstest (dich), er/sie/es ärgerte (sich), wir ärgerten (uns), ihr ärgertet (euch), sie/Sie ärgerten (sich)",
+      "Perfekt": "hat (sich) geärgert",
+      "englishMeaning": "to get annoyed, to be irritated",
+      "englishUsage": "Used to describe the action of feeling annoyed or irritated about something or someone.",
+      "russianMeaning": "раздражаться, злиться",
+      "russianUsage": "Используется для описания действия раздражения или злости на что-либо или кого-либо.",
+      "farsiMeaning": "عصبی شدن، خشمگین شدن",
+      "farsiUsage": "برای توصیف عمل عصبی شدن یا خشمگین شدن نسبت به چیزی یا کسی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ärgern Sie sich nicht.",
+      "english": "Don't get annoyed.",
+      "russian": "Не раздражайтесь.",
+      "farsi": "عصبی نشوید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein Bruder hat mich schon als Kind immer geärgert.",
+      "english": "My brother always annoyed me even when I was a child.",
+      "russian": "Мой брат всегда раздражал меня, даже когда я был ребенком.",
+      "farsi": "برادرم از بچگی همیشه مرا عصبانی می‌کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Ärger",
+      "english": "the annoyance, irritation",
+      "russian": "раздражение, злость",
+      "farsi": "عصبانیت، خشم"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich hatte heute Ärger im Büro. Ich habe mich mit einem Kollegen gestritten.",
+      "english": "I had trouble at the office today. I argued with a colleague.",
+      "russian": "Сегодня у меня были проблемы на работе. Я поссорился с коллегой.",
+      "farsi": "امروز در دفتر با یک همکارم بحث کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "ärgerlich",
+      "english": "annoying, irritating",
+      "russian": "раздражающий, злитый",
+      "farsi": "عصبی‌کننده، خشم‌آور"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Zug hat schon wieder Verspätung. Das ist wirklich ärgerlich.",
+      "english": "The train is delayed again. That's really annoying.",
+      "russian": "Поезд снова опаздывает. Это действительно раздражает.",
+      "farsi": "قطار دوباره دیر می‌شود. واقعاً عصبی‌کننده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "arm",
+      "english": "poor",
+      "russian": "бедный",
+      "farsi": "فقیر"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Regierung hilft armen Nachbarländern.",
+      "english": "The government helps poor neighboring countries.",
+      "russian": "Правительство помогает бедным соседним странам.",
+      "farsi": "دولت به کشورهای فقیر همسایه کمک می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich hätte gerne 200 g fettarmen Käse.",
+      "english": "I would like 200 grams of low-fat cheese.",
+      "russian": "Я бы хотел 200 граммов обезжиренного сыра.",
+      "farsi": "من 200 گرم پنیر کم‌چرب می‌خواهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Arm, die Arme",
+      "english": "the arm, arms",
+      "russian": "рука, руки",
+      "farsi": "بازو، بازوها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein Freund hat sich den Arm gebrochen.",
+      "english": "My friend broke his arm.",
+      "russian": "Мой друг сломал руку.",
+      "farsi": "دوستم بازویش را شکست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Art, die Arten",
+      "english": "the kind, kinds",
+      "russian": "вид, виды",
+      "farsi": "نوع، انواع"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im Zoo haben sie 34 verschiedene Arten von Vögeln.",
+      "english": "The zoo has 34 different species of birds.",
+      "russian": "В зоопарке есть 34 различных вида птиц.",
+      "farsi": "در باغ‌وحش 34 نوع مختلف از پرندگان وجود دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Seine Art gefällt mir nicht.",
+      "english": "I don't like his kind.",
+      "russian": "Мне не нравится его характер.",
+      "farsi": "از نوع او خوشم نمی‌آید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man kann auf unterschiedliche Art und Weise ein Fest feiern.",
+      "english": "You can celebrate a party in different ways.",
+      "russian": "Можно праздновать вечеринку разными способами.",
+      "farsi": "می‌توان یک جشن را به شیوه‌های مختلف برگزار کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Artikel, die Artikel",
+      "english": "the article, articles",
+      "russian": "статья, статьи",
+      "farsi": "مقال، مقالات"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe einen interessanten Artikel gelesen.",
+      "english": "I read an interesting article.",
+      "russian": "Я прочитал интересную статью.",
+      "farsi": "یک مقاله جالب خواندم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im Deutschen gibt es drei Artikel: der, die, das.",
+      "english": "In German, there are three articles: der, die, das.",
+      "russian": "В немецком языке есть три артикля: der, die, das.",
+      "farsi": "در زبان آلمانی سه نوع مقاله وجود دارد: der, die, das."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Arzt, die Ärzte",
+      "english": "the doctor, doctors",
+      "russian": "врач, врачи",
+      "farsi": "پزشک، پزشکان"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Ärztin, die Ärztinnen",
+      "english": "the female doctor, female doctors",
+      "russian": "врач женщина, врачи женщины",
+      "farsi": "پزشک زن، پزشکان زن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich muss heute zum Arzt.",
+      "english": "I have to go to the doctor today.",
+      "russian": "Мне нужно сегодня пойти к врачу.",
+      "farsi": "امروز باید به دکتر بروم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wann warst du beim Zahnarzt?",
+      "english": "When were you at the dentist?",
+      "russian": "Когда ты был у стоматолога?",
+      "farsi": "کی پیش دندانپزشک بودی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Asyl",
+      "english": "the asylum",
+      "russian": "убежище",
+      "farsi": "پناهندگی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Menschen sind auf der Flucht und bitten um Asyl.",
+      "english": "The people are fleeing and asking for asylum.",
+      "russian": "Люди бегут и просят убежища.",
+      "farsi": "مردم در حال فرار هستند و درخواست پناهندگی می‌کنند."
+    },
+    {
+      "type": "verben",
+      "Infinitive": "atmen",
+      "Präsens": "ich atme, du atmest, er/sie/es atmet, wir atmen, ihr atmet, sie/Sie atmen",
+      "Präteritum": "ich atmete, du atmetest, er/sie/es atmete, wir atmeten, ihr atmetet, sie/Sie atmeten",
+      "Perfekt": "hat geatmet",
+      "englishMeaning": "to breathe",
+      "englishUsage": "Used to describe the action of inhaling and exhaling air.",
+      "russianMeaning": "дышать",
+      "russianUsage": "Используется для описания действия вдоха и выдоха воздуха.",
+      "farsiMeaning": "نفس کشیدن",
+      "farsiUsage": "برای توصیف عمل دم و بازدم هوا استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat eine Erkältung und kann nicht durch die Nase atmen.",
+      "english": "He has a cold and can't breathe through his nose.",
+      "russian": "У него простуда, и он не может дышать через нос.",
+      "farsi": "او سرماخورده است و نمی‌تواند از طریق بینی نفس بکشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Atem",
+      "english": "the breath",
+      "russian": "дыхание",
+      "farsi": "نفس"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bitte den Atem anhalten.",
+      "english": "Please hold your breath.",
+      "russian": "Пожалуйста, задержите дыхание.",
+      "farsi": "لطفاً نفس خود را حبس کنید."
+    },
+    {
+      "type": "partikel",
+      "Partikel": "auch",
+      "englishMeaning": "also, too",
+      "englishUsage": "Used to indicate addition or inclusion.",
+      "russianMeaning": "также, тоже",
+      "russianUsage": "Используется для указания на добавление или включение.",
+      "farsiMeaning": "همچنین، نیز",
+      "farsiUsage": "برای نشان دادن الحاق یا شامل شدن استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich muss leider gehen. – Ich auch.",
+      "english": "I have to leave unfortunately. – Me too.",
+      "russian": "Мне, к сожалению, нужно уйти. – Я тоже.",
+      "farsi": "متأسفانه باید بروم. – من هم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich arbeite die ganze Woche und muss auch am Wochenende arbeiten.",
+      "english": "I work all week and also have to work on the weekend.",
+      "russian": "Я работаю всю неделю и также должен работать на выходных.",
+      "farsi": "من تمام هفته کار می‌کنم و باید آخر هفته هم کار کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir fahren auf jeden Fall, auch wenn es regnet.",
+      "english": "We will go anyway, even if it rains.",
+      "russian": "Мы поедем в любом случае, даже если будет дождь.",
+      "farsi": "ما در هر صورت می‌رویم، حتی اگر باران ببارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Zug ist gerade eben abgefahren. Warum kommst du auch so spät!",
+      "english": "The train just left. Why are you so late!",
+      "russian": "Поезд только что ушел. Почему ты так поздно пришел!",
+      "farsi": "قطار همین الان رفت. چرا اینقدر دیر آمدی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "auf",
+      "english": "on, at, in",
+      "russian": "на, в, на",
+      "farsi": "روی، در، بر"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Deine Brille liegt auf dem Schreibtisch.",
+      "english": "Your glasses are on the desk.",
+      "russian": "Твои очки лежат на столе.",
+      "farsi": "عینک تو روی میز است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Kinder spielen unten auf der Straße.",
+      "english": "The children are playing down on the street.",
+      "russian": "Дети играют внизу на улице.",
+      "farsi": "بچه‌ها پایین در خیابان بازی می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Meine Eltern leben auf dem Land.",
+      "english": "My parents live in the countryside.",
+      "russian": "Мои родители живут в деревне.",
+      "farsi": "پدر و مادرم در روستا زندگی می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Gestern waren wir auf einer Party.",
+      "english": "Yesterday we were at a party.",
+      "russian": "Вчера мы были на вечеринке.",
+      "farsi": "دیروز ما در یک مهمانی بودیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Auf unsere Anzeige in der Abendzeitung hat sich noch niemand gemeldet.",
+      "english": "No one has responded to our ad in the evening newspaper yet.",
+      "russian": "На нашу объявление в вечерней газете пока никто не откликнулся.",
+      "farsi": "هنوز کسی به آگهی ما در روزنامه عصر پاسخ نداده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie heißt das auf Deutsch?",
+      "english": "What is that called in German?",
+      "russian": "Как это называется по-немецки?",
+      "farsi": "این در آلمانی چی می‌شود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Meine Tochter kommt nächstes Jahr aufs Gymnasium.",
+      "english": "My daughter will start at the high school next year.",
+      "russian": "Моя дочь в следующем году пойдет в гимназию.",
+      "farsi": "دخترم سال آینده به دبیرستان می‌رود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im Mai war ich auf Urlaub.",
+      "english": "In May, I was on vacation.",
+      "russian": "В мае я был в отпуске.",
+      "farsi": "در ماه می من در تعطیلات بودم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin schon seit zwei Stunden auf.",
+      "english": "I've been up for two hours already.",
+      "russian": "Я уже два часа не сплю.",
+      "farsi": "من دو ساعت است که بیدارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Komm herein, die Tür ist auf.",
+      "english": "Come in, the door is open.",
+      "russian": "Входи, дверь открыта.",
+      "farsi": "بیا داخل، در باز است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Aufenthalt, die Aufenthalte",
+      "english": "the stay, stays",
+      "russian": "пребывание, пребывания",
+      "farsi": "اقامت، اقامت‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Zug hat in München nur 20 Minuten Aufenthalt.",
+      "english": "The train has only a 20-minute stop in Munich.",
+      "russian": "Поезд останавливается в Мюнхене всего на 20 минут.",
+      "farsi": "قطار فقط 20 دقیقه در مونیخ توقف دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir wünschen Ihnen einen angenehmen Aufenthalt.",
+      "english": "We wish you a pleasant stay.",
+      "russian": "Мы желаем вам приятного пребывания.",
+      "farsi": "ما برایتان یک اقامت دلپذیر آرزو می‌کنیم."
+    },
+    {
+      "type": "verben",
+      "Infinitive": "auffallen",
+      "Präsens": "ich falle auf, du fällst auf, er/sie/es fällt auf, wir fallen auf, ihr fallt auf, sie/Sie fallen auf",
+      "Präteritum": "ich fiel auf, du fielst auf, er/sie/es fiel auf, wir fielen auf, ihr falt auf, sie/Sie fielen auf",
+      "Perfekt": "ist aufgefallen",
+      "englishMeaning": "to be noticed, to stand out",
+      "englishUsage": "Used to describe something or someone that draws attention or is noticeable.",
+      "russianMeaning": "привлекать внимание, бросаться в глаза",
+      "russianUsage": "Используется для описания чего-либо или кого-либо, что привлекает внимание или бросается в глаза.",
+      "farsiMeaning": "توجه جلب کردن، به چشم آمدن",
+      "farsiUsage": "برای توصیف چیزی یا کسی که توجه را به خود جلب می‌کند یا به چشم می‌آید استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mir ist aufgefallen, dass Harriett ganz blass ist.",
+      "english": "I noticed that Harriett is very pale.",
+      "russian": "Мне показалось, что Харриет очень бледна.",
+      "farsi": "به من توجه شده است که هریت کاملاً رنگ پریده است."
+    },
+    {
+      "type": "verben",
+      "Infinitive": "auffordern",
+      "Präsens": "ich fordere auf, du forderst auf, er/sie/es fordert auf, wir fordern auf, ihr fordert auf, sie/Sie fordern auf",
+      "Präteritum": "ich forderte auf, du fordertest auf, er/sie/es forderte auf, wir forderten auf, ihr fordertet auf, sie/Sie forderten auf",
+      "Perfekt": "hat aufgefordert",
+      "englishMeaning": "to urge, to invite",
+      "englishUsage": "Used to describe the action of strongly asking or inviting someone to do something.",
+      "russianMeaning": "призывать, приглашать",
+      "russianUsage": "Используется для описания действия настойчивого приглашения или просьбы к кому-либо сделать что-либо.",
+      "farsiMeaning": "تحریک کردن، دعوت کردن",
+      "farsiUsage": "برای توصیف عمل تحریک کردن یا دعوت کردن کسی به انجام کاری استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie forderte mich auf, meine Meinung zu sagen.",
+      "english": "She asked me to express my opinion.",
+      "russian": "Она попросила меня высказать свое мнение.",
+      "farsi": "او از من خواست که نظر خود را بیان کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er fordert sie zum Tanz auf.",
+      "english": "He invites her to dance.",
+      "russian": "Он приглашает ее танцевать.",
+      "farsi": "او از او دعوت به رقص می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Aufforderung, die Aufforderungen",
+      "english": "the request, requests",
+      "russian": "призыв, призывы",
+      "farsi": "درخواست، درخواست‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie erhalten eine Aufforderung, den Betrag bis Juni zu zahlen.",
+      "english": "You will receive a request to pay the amount by June.",
+      "russian": "Вы получите просьбу оплатить сумму до июня.",
+      "farsi": "شما یک درخواست برای پرداخت مبلغ تا ژوئن دریافت می‌کنید."
+    },
+    {
+      "type": "verben",
+      "Infinitive": "aufführen",
+      "Präsens": "ich führe auf, du führst auf, er/sie/es führt auf, wir führen auf, ihr führt auf, sie/Sie führen auf",
+      "Präteritum": "ich führte auf, du führtest auf, er/sie/es führte auf, wir führten auf, ihr fuhrtet auf, sie/Sie führten auf",
+      "Perfekt": "hat aufgeführt",
+      "englishMeaning": "to perform, to present",
+      "englishUsage": "Used to describe the action of performing a play or presenting something to an audience.",
+      "russianMeaning": "исполнять, представлять",
+      "russianUsage": "Используется для описания действия исполнения пьесы или представления чего-либо аудитории.",
+      "farsiMeaning": "اجرا کردن، ارائه دادن",
+      "farsiUsage": "برای توصیف عمل اجرای یک نمایش یا ارائه چیزی به مخاطبان استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Kinder führen zu Weihnachten ein Theaterstück auf.",
+      "english": "The children are performing a play at Christmas.",
+      "russian": "Дети будут ставить пьесу на Рождество.",
+      "farsi": "بچه‌ها در کریسمس یک نمایش اجرا می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Aufgabe, die Aufgaben",
+      "english": "the task, tasks",
+      "russian": "задача, задачи",
+      "farsi": "وظیفه، وظایف"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hast du deine Hausaufgaben für die Schule schon gemacht?",
+      "english": "Have you already done your homework for school?",
+      "russian": "Ты уже сделал домашние задания для школы?",
+      "farsi": "تو هنوز تکالیف مدرسه‌ات را انجام دادی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das ist nicht meine Aufgabe.",
+      "english": "That is not my task.",
+      "russian": "Это не моя задача.",
+      "farsi": "این وظیفه من نیست."
+    },
+    {
+      "type": "verben",
+      "Infinitive": "aufgeben",
+      "Präsens": "ich gebe auf, du gibst auf, er/sie/es gibt auf, wir geben auf, ihr gebt auf, sie/Sie geben auf",
+      "Präteritum": "ich gab auf, du gavest auf, er/sie/es gab auf, wir gaben auf, ihr gabt auf, sie/Sie gaben auf",
+      "Perfekt": "hat aufgegeben",
+      "englishMeaning": "to give up, to abandon",
+      "englishUsage": "Used to describe the action of stopping an activity or abandoning something.",
+      "russianMeaning": "сдаваться, отказываться",
+      "russianUsage": "Используется для описания действия прекращения деятельности или отказа от чего-либо.",
+      "farsiMeaning": "از کار دست کشیدن، رها کردن",
+      "farsiUsage": "برای توصیف عمل متوقف کردن یک فعالیت یا رها کردن چیزی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe auf der Post ein Paket aufgegeben.",
+      "english": "I sent a package at the post office.",
+      "russian": "Я отправил посылку на почте.",
+      "farsi": "من یک پکیج را در پستی تحویل دادم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man darf nie aufgeben. Es gibt immer eine Hoffnung.",
+      "english": "You should never give up. There is always hope.",
+      "russian": "Никогда не сдавайтесь. Всегда есть надежда.",
+      "farsi": "هرگز تسلیم نشوید. همیشه امید وجود دارد."
+    },
+    {
+      "type": "verben",
+      "Infinitive": "aufhalten",
+      "Präsens": "ich halte auf, du hältst auf, er/sie/es hält auf, wir halten auf, ihr haltet auf, sie/Sie halten auf",
+      "Präteritum": "ich hielt auf, du hieltest auf, er/sie/es hielt auf, wir hielten auf, ihr hieltest auf, sie/Sie hielten auf",
+      "Perfekt": "hat aufgehalten",
+      "englishMeaning": "to stop, to hold up, to detain",
+      "englishUsage": "Used to describe the action of preventing something or someone from continuing or moving forward.",
+      "russianMeaning": "останавливать, задерживать",
+      "russianUsage": "Используется для описания действия предотвращения продолжения движения чего-либо или кого-либо.",
+      "farsiMeaning": "متوقف کردن، به تاخیر انداختن",
+      "farsiUsage": "برای توصیف عمل جلوگیری از ادامه حرکت چیزی یا کسی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wo hält er sich gerade auf? – In München.",
+      "english": "Where is he right now? – In Munich.",
+      "russian": "Где он сейчас? – В Мюнхене.",
+      "farsi": "او الان کجاست؟ – در مونیخ."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Darf ich Ihnen die Tür aufhalten?",
+      "english": "May I hold the door open for you?",
+      "russian": "Могу ли я вам открыть дверь?",
+      "farsi": "می‌توانم در را برایتان باز نگه دارم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Entschuldigen Sie die Verspätung, ich wurde aufgehalten.",
+      "english": "Excuse the delay, I was detained.",
+      "russian": "Извините за задержку, меня задержали.",
+      "farsi": "برای تأخیر عذرخواهی می‌کنم، من به تاخیر افتادم."
+    }
+  ]
+}

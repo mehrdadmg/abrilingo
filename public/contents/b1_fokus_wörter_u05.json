@@ -1,0 +1,521 @@
+{
+  "info": {
+    "name": "B1_Fokus_Wörter_u05",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Jobsuche, -n",
+      "english": "the job search, job searches",
+      "russian": "поиск работы, поиски работы",
+      "farsi": "جستجوی کار، جستجوهای کار"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Lebenslauf, -ä-e",
+      "english": "the resume/CV, resumes/CVs",
+      "russian": "резюме, резюме",
+      "farsi": "رزومه، رزومه‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Wissen (Sg.)",
+      "english": "the knowledge (singular)",
+      "russian": "знание (ед. ч.)",
+      "farsi": "دانش (مفرد)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Fotograf, -en",
+      "english": "the photographer, photographers (male)",
+      "russian": "фотограф, фотографы (мужской род)",
+      "farsi": "عکاس، عکاسان (مذکر)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Fotografin, -nen",
+      "english": "the photographer, photographers (female)",
+      "russian": "фотограф, фотографы (женский род)",
+      "farsi": "عکاس، عکاسان (مؤنث)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "fehlen",
+      "english": "to be missing, to lack",
+      "russian": "отсутствовать, не хватать",
+      "farsi": "غایب بودن، کم بودن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Kopie, -n",
+      "english": "the copy, copies",
+      "russian": "копия, копии",
+      "farsi": "کپی، کپی‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Pass, -ä-e",
+      "english": "the passport, passports",
+      "russian": "паспорт, паспорта",
+      "farsi": "گذرنامه، گذرنامه‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Anschreiben, -",
+      "english": "the cover letter, cover letters",
+      "russian": "сопроводительное письмо, сопроводительные письма",
+      "farsi": "نامه معرفی، نامه‌های معرفی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Arbeitszeugnis, -se",
+      "english": "the work reference, work references",
+      "russian": "рекомендательное письмо, рекомендательные письма",
+      "farsi": "گواهی کار، گواهی‌های کار"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Tipp, -s",
+      "english": "the tip, tips",
+      "russian": "совет, советы",
+      "farsi": "پیشنهاد، پیشنهادات"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Angst, Ä-e",
+      "english": "the fear, fears",
+      "russian": "страх, страхи",
+      "farsi": "ترس، ترس‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "fürchten (sich)",
+      "english": "to fear, to be afraid",
+      "russian": "бояться, страшиться",
+      "farsi": "ترسیدن، بیمناک بودن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Bewerbungsprozess, -se",
+      "english": "the application process, application processes",
+      "russian": "процесс подачи заявления, процессы подачи заявления",
+      "farsi": "فرآیند درخواست، فرآیندهای درخواست"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "tun (gegen)",
+      "english": "to do (against), to act against",
+      "russian": "делать (против), действовать против",
+      "farsi": "انجام دادن (در برابر)، عمل کردن علیه"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "dauern",
+      "english": "to last, to take time",
+      "russian": "продолжаться, занимать время",
+      "farsi": "ادامه داشتن، زمان بردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "erledigen",
+      "english": "to complete, to finish",
+      "russian": "выполнять, завершать",
+      "farsi": "انجام دادن، تکمیل کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "nervös",
+      "english": "nervous",
+      "russian": "нервный",
+      "farsi": "عصبی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "aufgeregt",
+      "english": "excited, agitated",
+      "russian": "взволнованный, взволнован",
+      "farsi": "برانگیزانده شده، تحریک شده"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Absage, -n",
+      "english": "the cancellation, cancellations",
+      "russian": "отмена, отмены",
+      "farsi": "لغو، لغوها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "reduzieren",
+      "english": "to reduce, to decrease",
+      "russian": "сокращать, уменьшать",
+      "farsi": "کاهش دادن، کم کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "selten",
+      "english": "rare, seldom",
+      "russian": "редкий, редко",
+      "farsi": "نادر، به ندرت"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "meinen",
+      "english": "to mean, to think",
+      "russian": "иметь в виду, думать",
+      "farsi": "به قصد داشتن، فکر کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "beantworten",
+      "english": "to answer, to respond",
+      "russian": "отвечать, реагировать",
+      "farsi": "پاسخ دادن، واکنش نشان دادن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "sammeln",
+      "english": "to collect, to gather",
+      "russian": "собирать, собира́ть",
+      "farsi": "جمع‌آوری کردن، گردآوری کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Vorbereitung, -en",
+      "english": "the preparation, preparations",
+      "russian": "подготовка, подготовки",
+      "farsi": "آماده‌سازی، آماده‌سازی‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Bekannte, -n",
+      "english": "the acquaintance, acquaintances (male)",
+      "russian": "знакомый, знакомые (мужской род)",
+      "farsi": "آشنا، آشناگان (مذکر)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Bekannte, -n",
+      "english": "the acquaintance, acquaintances (female)",
+      "russian": "знакомая, знакомые (женский род)",
+      "farsi": "آشنا، آشناگان (مؤنث)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "erleben",
+      "english": "to experience, to live through",
+      "russian": "испытывать, переживать",
+      "farsi": "تجربه کردن، از سر گذراندن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "anstrengend",
+      "english": "exhausting, strenuous",
+      "russian": "утомительный, изнурительный",
+      "farsi": "خسته‌کننده، سخت"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Ursache, -n",
+      "english": "the cause, causes",
+      "russian": "причина, причины",
+      "farsi": "علت، علل"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "männlich",
+      "english": "male, masculine",
+      "russian": "мужской",
+      "farsi": "مذکر، مردانه"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "weiblich",
+      "english": "female, feminine",
+      "russian": "женский",
+      "farsi": "مؤنث، زنانه"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "divers",
+      "english": "diverse, non-binary",
+      "russian": "небинарный, разнообразный",
+      "farsi": "متنوع، غیر دوگانه"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Geschlecht, -er",
+      "english": "the gender, genders",
+      "russian": "пол, полы",
+      "farsi": "جنسیت، جنسیت‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "pflegen",
+      "english": "to care for, to maintain",
+      "russian": "ухаживать, поддерживать",
+      "farsi": "مراقبت کردن، نگهداری کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Betriebsklima (Sg.)",
+      "english": "the work atmosphere (singular)",
+      "russian": "рабочая атмосфера (ед. ч.)",
+      "farsi": "جو کاری (مفرد)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Zuschuss, -ü-e",
+      "english": "the subsidy, subsidies",
+      "russian": "субсидия, субсидии",
+      "farsi": "یارانه، یارانه‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Schichtdienst, -e",
+      "english": "the shift work, shift works",
+      "russian": "сменная работа, сменные работы",
+      "farsi": "کار شیفتی، کارهای شیفتی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Gehaltsvorstellung, -en",
+      "english": "the salary expectation, salary expectations",
+      "russian": "ожидание по зарплате, ожидания по зарплате",
+      "farsi": "انتظار حقوق، انتظارات حقوق"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Reinigung, -en",
+      "english": "the cleaning, cleanings",
+      "russian": "чистка, чистки",
+      "farsi": "تمیزکاری، تمیزکاری‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "inklusive",
+      "english": "inclusive",
+      "russian": "включительно",
+      "farsi": "شامل"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "schätzen",
+      "english": "to appreciate, to value",
+      "russian": "ценить, оценивать",
+      "farsi": "ارزشمند دانستن، برآورد کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "gehören (zu)",
+      "english": "to belong (to), to be part of",
+      "russian": "принадлежать (к), быть частью",
+      "farsi": "متعلق بودن (به)، بخشی بودن از"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Betrieb, -e",
+      "english": "the operation, operations",
+      "russian": "предприятие, предприятия",
+      "farsi": "مؤسسه، مؤسسات"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "belastbar",
+      "english": "stress-resistant, resilient",
+      "russian": "выносливый, устойчивый к стрессу",
+      "farsi": "مقاوم در برابر استرس، انعطاف‌پذیر"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "sinnvoll",
+      "english": "meaningful, sensible",
+      "russian": "осмысленный, разумный",
+      "farsi": "معنی‌دار، معقول"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "gleich",
+      "english": "equal, same",
+      "russian": "равный, одинаковый",
+      "farsi": "مساوی، یکسان"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "besonders",
+      "english": "especially, particularly",
+      "russian": "особенно, в частности",
+      "farsi": "به‌ویژه، به‌طور خاص"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "überlegen",
+      "english": "to think over, to consider",
+      "russian": "обдумывать, рассматривать",
+      "farsi": "فکر کردن، در نظر گرفتن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "hinterlassen",
+      "english": "to leave behind, to make an impression",
+      "russian": "оставлять, производить впечатление",
+      "farsi": "به جا گذاشتن، تأثیر گذاشتن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Eindruck, -ü-e",
+      "english": "the impression, impressions",
+      "russian": "впечатление, впечатления",
+      "farsi": "تأثیر، تأثیرات"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Einleitung, -en",
+      "english": "the introduction, introductions",
+      "russian": "введение, введения",
+      "farsi": "مقدمه، مقدمه‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Anlage, -n",
+      "english": "the attachment, attachments",
+      "russian": "приложение, приложения",
+      "farsi": "پیوست، پیوست‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Anrede, -n",
+      "english": "the form of address, forms of address",
+      "russian": "обращение, обращения",
+      "farsi": "خطاب، خطاب‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Flucht, -en",
+      "english": "the escape, escapes",
+      "russian": "побег, побеги",
+      "farsi": "فرار، فرارها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "bestehen",
+      "english": "to exist, to pass (an exam)",
+      "russian": "существовать, сдавать (экзамен)",
+      "farsi": "وجود داشتن، قبول شدن (در امتحان)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Umschulung, -en",
+      "english": "the retraining, retrainings",
+      "russian": "переподготовка, переподготовки",
+      "farsi": "بازآموزی، بازآموزی‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Arbeitsbereich, -e",
+      "english": "the work area, work areas",
+      "russian": "рабочая область, рабочие области",
+      "farsi": "حوزه کاری، حوزه‌های کاری"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Einladung, -en",
+      "english": "the invitation, invitations",
+      "russian": "приглашение, приглашения",
+      "farsi": "دعوت، دعوت‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "vergessen",
+      "english": "to forget",
+      "russian": "забывать",
+      "farsi": "فراموش کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Kompetenz, -en",
+      "english": "the competence, competences",
+      "russian": "компетенция, компетенции",
+      "farsi": "شایستگی، شایستگی‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "aktuell",
+      "english": "current, up-to-date",
+      "russian": "актуальный, современный",
+      "farsi": "کنونی، به‌روز"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Anzeige, -n",
+      "english": "the advertisement, advertisements",
+      "russian": "объявление, объявления",
+      "farsi": "آگهی، آگهی‌ها"
+    }
+  ]
+}

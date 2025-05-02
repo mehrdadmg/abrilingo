@@ -1,0 +1,497 @@
+{
+  "info": {
+    "name": "B1_Fokus_Wörter_u03",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Arzt, Ä-e",
+      "english": "the doctor, doctors (male)",
+      "russian": "врач, врачи (мужской род)",
+      "farsi": "پزشک، پزشکان (مذکر)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Ärztin, -nen",
+      "english": "the doctor, doctors (female)",
+      "russian": "врач, врачи (женский род)",
+      "farsi": "پزشک، پزشکان (مؤنث)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "typisch",
+      "english": "typical",
+      "russian": "типичный",
+      "farsi": "معمولی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Bruder, -ü-",
+      "english": "the brother, brothers",
+      "russian": "брат, братья",
+      "farsi": "برادر، برادران"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Vater, -ä-",
+      "english": "the father, fathers",
+      "russian": "отец, отцы",
+      "farsi": "پدر، پدران"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "beeilen (sich)",
+      "english": "to hurry (oneself)",
+      "russian": "спешить",
+      "farsi": "عجله کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Ziel, -e",
+      "english": "the goal, goals",
+      "russian": "цель, цели",
+      "farsi": "هدف، اهداف"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "maximal",
+      "english": "maximum",
+      "russian": "максимальный",
+      "farsi": "حداکثر"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "zwischen",
+      "english": "between",
+      "russian": "между",
+      "farsi": "بین"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Stadt, -ä-e",
+      "english": "the city, cities",
+      "russian": "город, города",
+      "farsi": "شهر، شهرها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Verkehr, (Sg.)",
+      "english": "the traffic (singular)",
+      "russian": "движение, транспорт (ед. ч.)",
+      "farsi": "ترافیک (مفرد)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Bus, -se",
+      "english": "the bus, buses",
+      "russian": "автобус, автобусы",
+      "farsi": "اتوبوس، اتوبوس‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Durchsage, -n",
+      "english": "the announcement, announcements",
+      "russian": "объявление, объявления",
+      "farsi": "اعلان، اعلان‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Bahnhof, -ö-e",
+      "english": "the train station, train stations",
+      "russian": "вокзал, вокзалы",
+      "farsi": "ایستگاه قطار، ایستگاه‌های قطار"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Ware, -n",
+      "english": "the goods, merchandise",
+      "russian": "товар, товары",
+      "farsi": "کالا، کالاها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Umzug, -ü-e",
+      "english": "the move, moves (relocation)",
+      "russian": "переезд, переезды",
+      "farsi": "اسباب‌کشی، اسباب‌کشی‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "stressig",
+      "english": "stressful",
+      "russian": "стрессовый",
+      "farsi": "پراسترس"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "bestimmt",
+      "english": "certainly, definitely",
+      "russian": "определённо, наверняка",
+      "farsi": "قطعاً، حتماً"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "gründen",
+      "english": "to found, to establish",
+      "russian": "основывать, учреждать",
+      "farsi": "تأسیس کردن، بنیان گذاشتن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "anfangen",
+      "english": "to begin, to start",
+      "russian": "начинать",
+      "farsi": "شروع کردن، آغاز کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "fest",
+      "english": "firm, fixed",
+      "russian": "твердый, фиксированный",
+      "farsi": "محکم، ثابت"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "zuerst",
+      "english": "first, at first",
+      "russian": "сначала, сперва",
+      "farsi": "اول، در ابتدا"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "unterwegs",
+      "english": "on the way, en route",
+      "russian": "в пути, по дороге",
+      "farsi": "در راه، در مسیر"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "gesamt",
+      "english": "total, entire",
+      "russian": "общий, весь",
+      "farsi": "کل، تمام"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "außerdem",
+      "english": "besides, furthermore",
+      "russian": "кроме того, помимо этого",
+      "farsi": "علاوه بر این، همچنین"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "bieten",
+      "english": "to offer, to provide",
+      "russian": "предлагать, предоставлять",
+      "farsi": "ارائه کردن، پیشنهاد دادن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Kunde, -n",
+      "english": "the customer, customers (male)",
+      "russian": "клиент, клиенты (мужской род)",
+      "farsi": "(مشتری، مشتری‌ها (مذکر"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Kundin, -nen",
+      "english": "the customer, customers (female)",
+      "russian": "клиентка, клиентки (женский род)",
+      "farsi": "(مشتری، مشتری‌ها (مؤنث"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Möglichkeit, -en",
+      "english": "(the) possibility, possibilities",
+      "russian": "(возможность, возможности)",
+      "farsi": "(امکان، امکانات)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "mieten",
+      "english": "(to) rent",
+      "russian": "(арендовать)",
+      "farsi": "(اجاره کردن)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "ungefähr",
+      "english": "approximately, about",
+      "russian": "приблизительно, около",
+      "farsi": "تقریباً، حدوداً"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Verantwortung, -en",
+      "english": "the responsibility, responsibilities",
+      "russian": "ответственность, обязанности",
+      "farsi": "مسئولیت، مسئولیت‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Personal, (Sg.)",
+      "english": "the staff, personnel (singular)",
+      "russian": "персонал, кадры (ед. ч.)",
+      "farsi": "کارکنان، پرسنل (مفرد)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "einstellen",
+      "english": "to hire, to employ",
+      "russian": "нанимать, принимать на работу",
+      "farsi": "استخدام کردن، به کار گرفتن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "ablehnen",
+      "english": "to reject, to refuse",
+      "russian": "отклонять, отказывать",
+      "farsi": "رد کردن، نپذیرفتن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Überstunde, -n",
+      "english": "the overtime hour, overtime hours",
+      "russian": "сверхурочный час, сверхурочные часы",
+      "farsi": "ساعت اضافه کاری، ساعات اضافه کاری"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "verschieben",
+      "english": "to postpone, to reschedule",
+      "russian": "переносить, откладывать",
+      "farsi": "به تعویق انداختن، تغییر زمان دادن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "sondern",
+      "english": "but rather, but instead",
+      "russian": "а, но (в противопоставлении)",
+      "farsi": "بلکه، در عوض"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "zuständig",
+      "english": "responsible, in charge",
+      "russian": "ответственный, компетентный",
+      "farsi": "مسئول، در مسئولیت"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "üblich",
+      "english": "usual, common",
+      "russian": "обычный, распространенный",
+      "farsi": "معمول، رایج"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Behörde, -n",
+      "english": "the authority, authorities",
+      "russian": "ведомство, ведомства",
+      "farsi": "اداره، ادارات"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "abholen",
+      "english": "to pick up, to collect",
+      "russian": "забирать, получать",
+      "farsi": "برداشتن، جمع‌آوری کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "behindern",
+      "english": "to hinder, to obstruct",
+      "russian": "препятствовать, мешать",
+      "farsi": "مانع شدن، جلوگیری کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Leistung, -en",
+      "english": "the performance, performances",
+      "russian": "производительность, достижения",
+      "farsi": "عملکرد، عملکردها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Wert, -e",
+      "english": "the value, values",
+      "russian": "ценность, ценности",
+      "farsi": "ارزش، ارزش‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Verwaltung, -en",
+      "english": "the administration, administrations",
+      "russian": "управление, администрации",
+      "farsi": "مدیریت، مدیریت‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "gleichzeitig",
+      "english": "simultaneous, at the same time",
+      "russian": "одновременный, в то же время",
+      "farsi": "همزمان، در عین حال"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "während",
+      "english": "during, while",
+      "russian": "во время, в то время как",
+      "farsi": "در طول، در حالی که"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "abstimmen",
+      "english": "to vote, to coordinate",
+      "russian": "голосовать, согласовывать",
+      "farsi": "رأی دادن، هماهنگ کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Lösung, -en",
+      "english": "the solution, solutions",
+      "russian": "решение, решения",
+      "farsi": "راه‌حل، راه‌حل‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "insgesamt",
+      "english": "in total, altogether",
+      "russian": "в общей сложности, всего",
+      "farsi": "در مجموع، کلاً"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "wegen",
+      "english": "because of, due to",
+      "russian": "из-за, по причине",
+      "farsi": "به دلیل، به خاطر"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Auswahl, -en",
+      "english": "the selection, selections",
+      "russian": "выбор, выборы",
+      "farsi": "انتخاب، انتخاب‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "außerhalb",
+      "english": "outside, outside of",
+      "russian": "вне, за пределами",
+      "farsi": "خارج از، بیرون"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "innerhalb",
+      "english": "inside, within",
+      "russian": "внутри, в пределах",
+      "farsi": "داخل، در درون"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Pendler, -",
+      "english": "the commuter, commuters (male)",
+      "russian": "маятниковый мигрант, маятниковые мигранты (мужской род)",
+      "farsi": "مسافر روزانه، مسافران روزانه (مذکر)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Pendlerin, -nen",
+      "english": "the commuter, commuters (female)",
+      "russian": "маятниковая мигрантка, маятниковые мигрантки (женский род)",
+      "farsi": "مسافر روزانه، مسافران روزانه (مؤنث)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Umfrage, -n",
+      "english": "the survey, surveys",
+      "russian": "опрос, опросы",
+      "farsi": "نظرسنجی، نظرسنجی‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Verkehrsmittel, -",
+      "english": "the means of transport, means of transport",
+      "russian": "транспортное средство, транспортные средства",
+      "farsi": "وسیله نقلیه، وسایل نقلیه"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Weg, -e",
+      "english": "the way, ways",
+      "russian": "путь, пути",
+      "farsi": "راه، راه‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "benutzen",
+      "english": "to use, to utilize",
+      "russian": "использовать, пользоваться",
+      "farsi": "استفاده کردن، به کار بردن"
+    }
+  ]
+}

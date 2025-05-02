@@ -1,0 +1,497 @@
+{
+  "info": {
+    "name": "B1_Fokus_Wörter_u02",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Weiterbildung, -en",
+      "english": "the further education, further educations",
+      "russian": "повышение квалификации, повышения квалификации",
+      "farsi": "آموزش تکمیلی، آموزش‌های تکمیلی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Situation, -en",
+      "english": "the situation, situations",
+      "russian": "ситуация, ситуации",
+      "farsi": "وضعیت، وضعیت‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Abschluss, -ü-e",
+      "english": "the graduation, graduations",
+      "russian": "окончание, окончания",
+      "farsi": "فارغ‌التحصیلی، فارغ‌التحصیلی‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Vorteil, -e",
+      "english": "the advantage, advantages",
+      "russian": "преимущество, преимущества",
+      "farsi": "مزیت، مزایا"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Berufserfahrung, -en",
+      "english": "the professional experience, professional experiences",
+      "russian": "профессиональный опыт, профессиональные опыты",
+      "farsi": "تجربه حرفه‌ای، تجربیات حرفه‌ای"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Arbeitsmarkt, -ä-e",
+      "english": "the job market, job markets",
+      "russian": "рынок труда, рынки труда",
+      "farsi": "بازار کار، بازارهای کار"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Qualifikation, -en",
+      "english": "the qualification, qualifications",
+      "russian": "квалификация, квалификации",
+      "farsi": "صلاحیت، صلاحیت‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Kenntnisse (Pl.)",
+      "english": "the knowledge (plural)",
+      "russian": "знания (мн. ч.)",
+      "farsi": "دانش (جمع)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Fähigkeit, -en",
+      "english": "the ability, abilities",
+      "russian": "способность, способности",
+      "farsi": "توانایی، توانایی‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "sich informieren über",
+      "english": "to inform oneself about",
+      "russian": "информироваться о",
+      "farsi": "اطلاع پیدا کردن درباره"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "kostenlos",
+      "english": "free of charge",
+      "russian": "бесплатно",
+      "farsi": "رایگان"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "stattfinden",
+      "english": "to take place",
+      "russian": "проходить, состояться",
+      "farsi": "برگزار شدن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "teilnehmen",
+      "english": "to participate",
+      "russian": "участвовать",
+      "farsi": "شرکت کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "fördern",
+      "english": "to promote, to support",
+      "russian": "поддерживать, способствовать",
+      "farsi": "حمایت کردن، ترویج دادن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "anerkennen",
+      "english": "to recognize, to acknowledge",
+      "russian": "признавать, подтверждать",
+      "farsi": "به رسمیت شناختن، تصدیق کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "zufrieden sein",
+      "english": "to be satisfied",
+      "russian": "быть довольным",
+      "farsi": "راضی بودن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "erfahren",
+      "english": "to experience, to learn",
+      "russian": "узнавать, испытывать",
+      "farsi": "تجربه کردن، یاد گرفتن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Antrag, -ä-e",
+      "english": "the application, applications",
+      "russian": "заявление, заявления",
+      "farsi": "درخواست، درخواست‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "beraten",
+      "english": "to advise",
+      "russian": "консультировать",
+      "farsi": "مشاوره دادن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Zeugnis, -se",
+      "english": "the certificate, certificates",
+      "russian": "свидетельство, свидетельства",
+      "farsi": "گواهی، گواهی‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "prüfen",
+      "english": "to check, to examine",
+      "russian": "проверять, исследовать",
+      "farsi": "بررسی کردن، آزمایش کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "übersetzen",
+      "english": "to translate",
+      "russian": "переводить",
+      "farsi": "ترجمه کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "(sich) vorbereiten",
+      "english": "to prepare (oneself)",
+      "russian": "готовиться",
+      "farsi": "(خود را) آماده کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "offiziell",
+      "english": "official",
+      "russian": "официальный",
+      "farsi": "رسمی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Dokument, -e",
+      "english": "the document, documents",
+      "russian": "документ, документы",
+      "farsi": "سند، اسناد"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Stempel, -",
+      "english": "the stamp, stamps",
+      "russian": "печать, печати",
+      "farsi": "مُهر، مُهرها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Unterschrift, -en",
+      "english": "the signature, signatures",
+      "russian": "подпись, подписи",
+      "farsi": "امضا، امضاها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "korrekt",
+      "english": "correct",
+      "russian": "правильный",
+      "farsi": "صحیح"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "installieren",
+      "english": "to install",
+      "russian": "устанавливать",
+      "farsi": "نصب کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "studieren",
+      "english": "to study",
+      "russian": "учиться (в университете)",
+      "farsi": "تحصیل کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "eröffnen",
+      "english": "to open, to inaugurate",
+      "russian": "открывать, начинать",
+      "farsi": "افتتاح کردن، باز کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Plan, -ä-e",
+      "english": "the plan, plans",
+      "russian": "план, планы",
+      "farsi": "برنامه، برنامه‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Maler, -",
+      "english": "the painter, painters (male)",
+      "russian": "художник/маляр, художники/маляры (мужской род)",
+      "farsi": "نقاش، نقاشان (مذکر)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Malerin, -nen",
+      "english": "the painter, painters (female)",
+      "russian": "художница/малярша, художницы/малярши (женский род)",
+      "farsi": "نقاش، نقاشان (مؤنث)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Kellner, -",
+      "english": "the waiter, waiters",
+      "russian": "официант, официанты",
+      "farsi": "گارسون، گارسون‌ها (مذکر)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Kellnerin, -nen",
+      "english": "the waitress, waitresses",
+      "russian": "официантка, официантки",
+      "farsi": "گارسون، گارسون‌ها (مؤنث)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Bäcker, -",
+      "english": "the baker, bakers (male)",
+      "russian": "пекарь, пекари (мужской род)",
+      "farsi": "نانوای، نانوایان (مذکر)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Bäckerin, -nen",
+      "english": "the baker, bakers (female)",
+      "russian": "пекарша, пекарши (женский род)",
+      "farsi": "نانوای، نانوایان (مؤنث)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Verkäufer, -",
+      "english": "the salesperson, salespeople (male)",
+      "russian": "'продавец продавцы",
+      "farsi": "'فروشنده فروشندگان"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Verkäuferin, -nen",
+      "english": "the saleswoman, saleswomen",
+      "russian": "продавщица, продавщицы",
+      "farsi": "فروشنده، فروشندگان (مؤنث)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Handwerker, -",
+      "english": "the craftsman, craftsmen",
+      "russian": "ремесленник, ремесленники",
+      "farsi": "صنعتگر، صنعتگران (مذکر)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Handwerkerin, -nen",
+      "english": "the craftswoman, craftswomen",
+      "russian": "ремесленница, ремесленницы",
+      "farsi": "صنعتگر، صنعتگران (مؤنث)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Altenheim, -e",
+      "english": "the nursing home, nursing homes",
+      "russian": "дом престарелых, дома престарелых",
+      "farsi": "خانه سالمندان، خانه‌های سالمندان"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Baustellen, -n",
+      "english": "the construction sites",
+      "russian": "строительные площадки",
+      "farsi": "کارگاه‌های ساختمانی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Hotel, -s",
+      "english": "the hotel, hotels",
+      "russian": "отель, отели",
+      "farsi": "هتل، هتل‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Büro, -s",
+      "english": "the office, offices",
+      "russian": "офис, офисы",
+      "farsi": "دفتر، دفاتر"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Fabrik, -en",
+      "english": "the factory, factories",
+      "russian": "фабрика, фабрики",
+      "farsi": "کارخانه، کارخانه‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Geschäft, -e",
+      "english": "the shop, shops",
+      "russian": "магазин, магазины",
+      "farsi": "مغازه، مغازه‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Kneipe, -en",
+      "english": "the pub, pubs",
+      "russian": "паб, пабы",
+      "farsi": "میخانه، میخانه‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Werkstatt, -ä-en",
+      "english": "the workshop, workshops",
+      "russian": "мастерская, мастерские",
+      "farsi": "کارگاه، کارگاه‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "transportieren",
+      "english": "to transport",
+      "russian": "транспортировать",
+      "farsi": "حمل کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Möbel, -",
+      "english": "the furniture, pieces of furniture",
+      "russian": "мебель, предметы мебели",
+      "farsi": "مبلمان، قطعات مبلمان"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Rechnung, -en",
+      "english": "the bill, bills",
+      "russian": "счёт, счета",
+      "farsi": "صورتحساب، صورتحساب‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Medikament, -e",
+      "english": "the medicine, medicines",
+      "russian": "лекарство, лекарства",
+      "farsi": "دارو، داروها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "herstellen",
+      "english": "to produce, to manufacture",
+      "russian": "производить, изготавливать",
+      "farsi": "تولید کردن، ساختن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "streichen",
+      "english": "to paint, to cancel",
+      "russian": "красить, отменять",
+      "farsi": "رنگ کردن، لغو کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Projekt, -e",
+      "english": "the project, projects",
+      "russian": "проект, проекты",
+      "farsi": "پروژه، پروژه‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "etw. vorbereiten",
+      "english": "(to) prepare something",
+      "russian": "(что-то) подготовить",
+      "farsi": "(چیزی) آماده کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Aktivität, -en",
+      "english": "(the) activity, activities",
+      "russian": "(активность, активности)",
+      "farsi": "(فعالیت، فعالیت‌ها)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "planen",
+      "english": "(to) plan",
+      "russian": "(планировать)",
+      "farsi": "(برنامه‌ریزی کردن)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "zeigen",
+      "english": "(to) show",
+      "russian": "(показывать)",
+      "farsi": "(نشان دادن)"
+    }
+  ]
+}

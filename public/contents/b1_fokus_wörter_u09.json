@@ -1,0 +1,505 @@
+{
+  "info": {
+    "name": "B1_Fokus_Wörter_u09",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Arbeitsschutz (Sg.)",
+      "english": "occupational safety (singular)",
+      "russian": "охрана труда (ед. ч.)",
+      "farsi": "ایمنی شغلی (مفرد)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Unfallrisiko, -risiken",
+      "english": "accident risk, accident risks",
+      "russian": "риск несчастного случая, риски несчастных случаев",
+      "farsi": "خطر حادثه، خطرات حادثه"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "abstürzen",
+      "english": "to fall, to crash",
+      "russian": "падать, разбиваться",
+      "farsi": "سقوط کردن، فرو ریختن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "ausrutschen",
+      "english": "to slip",
+      "russian": "поскользнуться",
+      "farsi": "لیز خوردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Kabel, -",
+      "english": "the cable, cables",
+      "russian": "кабель, кабели",
+      "farsi": "کابل، کابل‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "stolpern",
+      "english": "to stumble, to trip",
+      "russian": "спотыкаться",
+      "farsi": "سکندری خوردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "fassen",
+      "english": "to grasp, to seize",
+      "russian": "хватать, схватывать",
+      "farsi": "گرفتن، چنگ زدن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Gerüst, -e",
+      "english": "the scaffold, scaffolds",
+      "russian": "леса, строительные леса",
+      "farsi": "داربست، داربست‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Gegenstand, -ä-e",
+      "english": "the object, objects",
+      "russian": "предмет, предметы",
+      "farsi": "شیء، اشیاء"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "verletzen",
+      "english": "to injure, to hurt",
+      "russian": "ранить, травмировать",
+      "farsi": "آسیب زدن، مجروح کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Unfall, -ä-e",
+      "english": "the accident, accidents",
+      "russian": "несчастный случай, несчастные случаи",
+      "farsi": "حادثه، حوادث"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Boden, -ö-",
+      "english": "the floor, floors",
+      "russian": "пол, полы",
+      "farsi": "کف، کف‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "liegen",
+      "english": "to lie, to be located",
+      "russian": "лежать, находиться",
+      "farsi": "دراز کشیدن، قرار داشتن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Sicherheitszeichen, -",
+      "english": "the safety sign, safety signs",
+      "russian": "знак безопасности, знаки безопасности",
+      "farsi": "علامت ایمنی، علائم ایمنی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Vorsicht (Sg.)",
+      "english": "caution, care (singular)",
+      "russian": "осторожность (ед. ч.)",
+      "farsi": "احتیاط (مفرد)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Stolpergefahr, -en",
+      "english": "the tripping hazard, tripping hazards",
+      "russian": "опасность споткнуться, опасности споткнуться",
+      "farsi": "خطر سکندری خوردن، خطرات سکندری خوردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Brandmelder, -",
+      "english": "the fire alarm, fire alarms",
+      "russian": "пожарная сигнализация, пожарные сигнализации",
+      "farsi": "هشدار دهنده آتش، هشدار دهنده‌های آتش"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Schutzhelm, -e",
+      "english": "the safety helmet, safety helmets",
+      "russian": "защитная каска, защитные каски",
+      "farsi": "کلاه ایمنی، کلاه‌های ایمنی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "löschen",
+      "english": "to extinguish, to delete",
+      "russian": "тушить, удалять",
+      "farsi": "خاموش کردن، پاک کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Erste Hilfe",
+      "english": "first aid",
+      "russian": "первая помощь",
+      "farsi": "کمک‌های اولیه"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Strom (Sg.)",
+      "english": "the electricity, power (singular)",
+      "russian": "электричество, ток (ед. ч.)",
+      "farsi": "برق، جریان (مفرد)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Notausgang, -ä-e",
+      "english": "the emergency exit, emergency exits",
+      "russian": "аварийный выход, аварийные выходы",
+      "farsi": "خروج اضطراری، خروج‌های اضطراری"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Feuerlöscher, -",
+      "english": "the fire extinguisher, fire extinguishers",
+      "russian": "огнетушитель, огнетушители",
+      "farsi": "کپسول آتش‌نشانی، کپسول‌های آتش‌نشانی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Verbotszeichen, -",
+      "english": "the prohibition sign, prohibition signs",
+      "russian": "запрещающий знак, запрещающие знаки",
+      "farsi": "علامت ممنوعیت، علائم ممنوعیت"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Warnzeichen, -",
+      "english": "the warning sign, warning signs",
+      "russian": "предупреждающий знак, предупреждающие знаки",
+      "farsi": "علامت هشدار، علائم هشدار"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Rettungszeichen, -",
+      "english": "the rescue sign, rescue signs",
+      "russian": "знак спасения, знаки спасения",
+      "farsi": "علامت نجات، علائم نجات"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Brandschutzzeichen, -",
+      "english": "the fire safety sign, fire safety signs",
+      "russian": "знак пожарной безопасности, знаки пожарной безопасности",
+      "farsi": "علامت ایمنی آتش، علائم ایمنی آتش"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Gebotszeichen, -",
+      "english": "the mandatory sign, mandatory signs",
+      "russian": "предписывающий знак, предписывающие знаки",
+      "farsi": "علامت الزامی، علائم الزامی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Unternehmen",
+      "english": "company, enterprise",
+      "russian": "предприятие, компания",
+      "farsi": "شرکت، بنگاه"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Pflicht, -en",
+      "english": "the duty, duties",
+      "russian": "обязанность, обязанности",
+      "farsi": "وظیفه، وظایف"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Gefahr, -en",
+      "english": "the danger, dangers",
+      "russian": "опасность, опасности",
+      "farsi": "خطر، خطرات"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Sicherheitsvorschrift, -en",
+      "english": "the safety regulation, safety regulations",
+      "russian": "правило техники безопасности, правила техники безопасности",
+      "farsi": "مقررات ایمنی، مقررات ایمنی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Flucht, -en",
+      "english": "the escape, escapes",
+      "russian": "побег, побеги",
+      "farsi": "فرار، فرارها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "bereitstellen",
+      "english": "to provide, to make available",
+      "russian": "предоставлять, обеспечивать",
+      "farsi": "فراهم کردن، در دسترس قرار دادن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Rettungsplan, -ä-e",
+      "english": "the rescue plan, rescue plans",
+      "russian": "план спасения, планы спасения",
+      "farsi": "طرح نجات، طرح‌های نجات"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Brand, -ä-e",
+      "english": "the fire, fires",
+      "russian": "пожар, пожары",
+      "farsi": "آتش‌سوزی، آتش‌سوزی‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Sicherheitsunterweisung, -en",
+      "english": "the safety instruction, safety instructions",
+      "russian": "инструктаж по технике безопасности, инструктажи по технике безопасности",
+      "farsi": "آموزش ایمنی، آموزش‌های ایمنی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Schwangerschaft, -en",
+      "english": "the pregnancy, pregnancies",
+      "russian": "беременность, беременности",
+      "farsi": "بارداری، بارداری‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Beratung, -en",
+      "english": "the consultation, consultations",
+      "russian": "консультация, консультации",
+      "farsi": "مشاوره، مشاوره‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Maßnahme, -n",
+      "english": "the measure, measures",
+      "russian": "мера, меры",
+      "farsi": "اقدام، اقدامات"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "verstoßen",
+      "english": "to violate, to infringe",
+      "russian": "нарушать",
+      "farsi": "نقض کردن، تخطی کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Auszahlung, -en",
+      "english": "the payout, payouts",
+      "russian": "выплата, выплаты",
+      "farsi": "پرداخت، پرداخت‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "melden",
+      "english": "to report, to notify",
+      "russian": "сообщать, уведомлять",
+      "farsi": "گزارش دادن، اطلاع دادن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Schmerz, -en",
+      "english": "the pain, pains",
+      "russian": "боль, боли",
+      "farsi": "درد، دردها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Rettungskraft, -ä-e",
+      "english": "the rescue worker, rescue workers",
+      "russian": "спасатель, спасатели",
+      "farsi": "نیروی امداد، نیروهای امداد"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "bluten",
+      "english": "to bleed",
+      "russian": "кровоточить",
+      "farsi": "خونریزی کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Feuerwehr (Sg.)",
+      "english": "the fire department (singular)",
+      "russian": "пожарная служба (ед. ч.)",
+      "farsi": "آتش‌نشانی (مفرد)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Rettungswagen, -",
+      "english": "the ambulance, ambulances",
+      "russian": "скорая помощь, машины скорой помощи",
+      "farsi": "آمبولانس، آمبولانس‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Notrufzentrale, -en",
+      "english": "the emergency call center, emergency call centers",
+      "russian": "центр экстренных вызовов, центры экстренных вызовов",
+      "farsi": "مرکز تماس اضطراری، مراکز تماس اضطراری"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Anweisung, -en",
+      "english": "the instruction, instructions",
+      "russian": "инструкция, инструкции",
+      "farsi": "دستورالعمل، دستورالعمل‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "auflegen",
+      "english": "to hang up (phone), to put on",
+      "russian": "положить трубку, накладывать",
+      "farsi": "قطع کردن (تلفن)، گذاشتن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Rücken, -",
+      "english": "the back, backs",
+      "russian": "спина, спины",
+      "farsi": "پشت، پشت‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "alarmieren",
+      "english": "to alert, to alarm",
+      "russian": "тревожить, предупреждать",
+      "farsi": "هشدار دادن، آگاه کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Rettungsdienst, -e",
+      "english": "the rescue service, rescue services",
+      "russian": "спасательная служба, спасательные службы",
+      "farsi": "خدمات امداد، خدمات امدادی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Uniform, -en",
+      "english": "the uniform, uniforms",
+      "russian": "форма, униформы",
+      "farsi": "یونیفرم، یونیفرم‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Overall, -s",
+      "english": "the overall, overalls",
+      "russian": "комбинезон, комбинезоны",
+      "farsi": "لباس یکسره، لباس‌های یکسره"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Staub (Sg.)",
+      "english": "the dust (singular)",
+      "russian": "пыль (ед. ч.)",
+      "farsi": "گرد و غبار (مفرد)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "vertragen",
+      "english": "to tolerate, to get along with",
+      "russian": "переносить, уживаться",
+      "farsi": "تحمل کردن، کنار آمدن با"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "reinigen",
+      "english": "to clean, to cleanse",
+      "russian": "чистить, очищать",
+      "farsi": "تمیز کردن، پاک کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "zugleich",
+      "english": "at the same time, simultaneously",
+      "russian": "одновременно, в то же время",
+      "farsi": "همزمان، در عین حال"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Schutz (Sg.)",
+      "english": "the protection (singular)",
+      "russian": "защита (ед. ч.)",
+      "farsi": "محافظت (مفرد)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Servicekleidung (Sg.)",
+      "english": "the service clothing (singular)",
+      "russian": "служебная одежда (ед. ч.)",
+      "farsi": "لباس خدمت (مفرد)"
+    }
+  ]
+}

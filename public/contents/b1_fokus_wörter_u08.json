@@ -1,0 +1,353 @@
+{
+  "info": {
+    "name": "B1_Fokus_Wörter_u08",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Kommunikation (Sg.)",
+      "english": "the communication (singular)",
+      "russian": "коммуникация (ед. ч.)",
+      "farsi": "ارتباطات (مفرد)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Altenpfleger, -",
+      "english": "the elderly care nurse, elderly care nurses (male)",
+      "russian": "медбрат по уходу за пожилыми, медбратья по уходу за пожилыми",
+      "farsi": "پرستار سالمندان، پرستاران سالمندان (مذکر)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Altenpflegerin, -nen",
+      "english": "the elderly care nurse, elderly care nurses (female)",
+      "russian": "медсестра по уходу за пожилыми, медсестры по уходу за пожилыми",
+      "farsi": "پرستار سالمندان، پرستاران سالمندان (مؤنث)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Dienstplan, -ä-e",
+      "english": "the duty roster, duty rosters",
+      "russian": "график дежурств, графики дежурств",
+      "farsi": "برنامه کاری، برنامه‌های کاری"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Konflikt, -e",
+      "english": "the conflict, conflicts",
+      "russian": "конфликт, конфликты",
+      "farsi": "تعارض، تعارض‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Gefallen, -",
+      "english": "the favor, favors",
+      "russian": "одолжение, одолжения",
+      "farsi": "لطف، لطف‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Schicht, -en",
+      "english": "the shift, shifts",
+      "russian": "смена, смены",
+      "farsi": "شیفت، شیفت‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "tauschen",
+      "english": "to exchange, to swap",
+      "russian": "менять, обменивать",
+      "farsi": "تعویض کردن، مبادله کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "aufregen",
+      "english": "to upset, to agitate",
+      "russian": "волновать, возбуждать",
+      "farsi": "ناراحت کردن، تحریک کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Sport (Sg.)",
+      "english": "the sport (singular)",
+      "russian": "спорт (ед. ч.)",
+      "farsi": "ورزش (مفرد)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Kalenderwoche, -n",
+      "english": "the calendar week, calendar weeks",
+      "russian": "календарная неделя, календарные недели",
+      "farsi": "هفته تقویمی، هفته‌های تقویمی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Bewohner, -",
+      "english": "the resident, residents (male)",
+      "russian": "житель, жители (мужской род)",
+      "farsi": "ساکن، ساکنان (مذکر)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Bewohnerin, -nen",
+      "english": "the resident, residents (female)",
+      "russian": "жительница, жительницы (женский род)",
+      "farsi": "ساکن، ساکنان (مؤنث)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Bitte, -n",
+      "english": "the request, requests",
+      "russian": "просьба, просьбы",
+      "farsi": "درخواست، درخواست‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Aufforderung, -en",
+      "english": "the invitation, invitations",
+      "russian": "приглашение, приглашения",
+      "farsi": "دعوت، دعوت‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Stau, -s",
+      "english": "the traffic jam, traffic jams",
+      "russian": "пробка, пробки",
+      "farsi": "ترافیک، ترافیک‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Konferenz, -en",
+      "english": "the conference, conferences",
+      "russian": "конференция, конференции",
+      "farsi": "همایش، همایش‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "liefern",
+      "english": "to deliver",
+      "russian": "доставлять",
+      "farsi": "تحویل دادن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "bringen",
+      "english": "to bring",
+      "russian": "приносить",
+      "farsi": "آوردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bescheid sagen",
+      "english": "to inform, to let know",
+      "russian": "сообщать, извещать",
+      "farsi": "اطلاع دادن، خبر دادن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Maschine, -n",
+      "english": "the machine, machines",
+      "russian": "машина, машины",
+      "farsi": "ماشین، ماشین‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Post (Sg.)",
+      "english": "the mail, postal service (singular)",
+      "russian": "почта (ед. ч.)",
+      "farsi": "پست (مفرد)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "verteilen",
+      "english": "to distribute, to hand out",
+      "russian": "распределять, раздавать",
+      "farsi": "توزیع کردن، پخش کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Reise, -n",
+      "english": "the journey, journeys",
+      "russian": "путешествие, путешествия",
+      "farsi": "سفر، سفرها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "buchen",
+      "english": "to book, to reserve",
+      "russian": "бронировать, заказывать",
+      "farsi": "رزرو کردن، ثبت کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Kostenvoranschlag, -ä-e",
+      "english": "the cost estimate, cost estimates",
+      "russian": "смета расходов, сметы расходов",
+      "farsi": "برآورد هزینه، برآوردهای هزینه"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Datum, Daten",
+      "english": "the date, dates",
+      "russian": "дата, даты",
+      "farsi": "تاریخ، تاریخ‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Mitteilung, -en",
+      "english": "the message, messages",
+      "russian": "сообщение, сообщения",
+      "farsi": "پیام، پیام‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "zusammenfassen",
+      "english": "to summarize, to sum up",
+      "russian": "обобщать, подводить итог",
+      "farsi": "خلاصه کردن، جمع‌بندی کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Leitung (Telefon), -en",
+      "english": "the line (telephone), lines",
+      "russian": "линия (телефон), линии",
+      "farsi": "خط (تلفن)، خطوط"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "verbinden",
+      "english": "to connect, to put through",
+      "russian": "соединять, переключать",
+      "farsi": "وصل کردن، ارتباط دادن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "nachfragen",
+      "english": "to inquire, to ask for more information",
+      "russian": "спрашивать, уточнять",
+      "farsi": "پرس و جو کردن، سؤال بیشتر پرسیدن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Auskunft, -ü-e",
+      "english": "the information, pieces of information",
+      "russian": "справка, справки",
+      "farsi": "اطلاعات، اطلاعات‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "wiederholen",
+      "english": "to repeat",
+      "russian": "повторять",
+      "farsi": "تکرار کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "buchstabieren",
+      "english": "to spell",
+      "russian": "произносить по буквам",
+      "farsi": "حروف‌چینی کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "ausrichten",
+      "english": "to organize, to align",
+      "russian": "организовывать, выравнивать",
+      "farsi": "برگزار کردن، هماهنگ کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Nachricht, -en",
+      "english": "the message, messages",
+      "russian": "сообщение, сообщения",
+      "farsi": "پیام، پیام‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Sekretariat, -e",
+      "english": "the secretariat, secretariats",
+      "russian": "секретариат, секретариаты",
+      "farsi": "دفتر دبیرخانه، دفاتر دبیرخانه"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "unpünktlich",
+      "english": "late, unpunctual",
+      "russian": "опоздавший, непунктуальный",
+      "farsi": "دیر، غیر به‌وقت"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Alltag (Sg.)",
+      "english": "the daily routine (singular)",
+      "russian": "повседневная жизнь (ед. ч.)",
+      "farsi": "روزمرگی (مفرد)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Zusammenarbeit (Sg.)",
+      "english": "the cooperation (singular)",
+      "russian": "сотрудничество (ед. ч.)",
+      "farsi": "همکاری (مفرد)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "stören",
+      "english": "to disturb, to bother",
+      "russian": "мешать, беспокоить",
+      "farsi": "آشفتگی ایجاد کردن، مزاحم کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "zuhören",
+      "english": "to listen",
+      "russian": "слушать",
+      "farsi": "گوش دادن"
+    }
+  ]
+}

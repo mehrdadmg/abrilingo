@@ -1,0 +1,433 @@
+{
+  "info": {
+    "name": "B1_Fokus_Wörter_u07",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Arbeitstag, -e",
+      "english": "the workday, workdays",
+      "russian": "рабочий день, рабочие дни",
+      "farsi": "روز کاری، روزهای کاری"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Schlüssel, -",
+      "english": "the key, keys",
+      "russian": "ключ, ключи",
+      "farsi": "کلید، کلیدها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Empfang, -ä-e",
+      "english": "the reception, receptions",
+      "russian": "прием, приемы",
+      "farsi": "پذیرش، پذیرش‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "anmelden",
+      "english": "to register, to sign in",
+      "russian": "регистрироваться, входить в систему",
+      "farsi": "ثبت‌نام کردن، وارد شدن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Arbeitskleidung (Sg.)",
+      "english": "the work clothing (singular)",
+      "russian": "рабочая одежда (ед. ч.)",
+      "farsi": "لباس کار (مفرد)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Spind, -e",
+      "english": "the locker, lockers",
+      "russian": "шкафчик, шкафчики",
+      "farsi": "کمد، کمدها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "bekommen",
+      "english": "to receive, to get",
+      "russian": "получать",
+      "farsi": "دریافت کردن، گرفتن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "besichtigen",
+      "english": "to visit, to inspect",
+      "russian": "осматривать, посещать",
+      "farsi": "بازدید کردن، بررسی کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Mitarbeiterausweis, -e",
+      "english": "the employee ID card, employee ID cards",
+      "russian": "удостоверение сотрудника, удостоверения сотрудников",
+      "farsi": "کارت شناسایی کارمند، کارت‌های شناسایی کارمند"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "allgemeine",
+      "english": "general",
+      "russian": "общий",
+      "farsi": "عمومی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "abhängen (von)",
+      "english": "to depend (on)",
+      "russian": "зависеть (от)",
+      "farsi": "بستگی داشتن (به)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "empfangen",
+      "english": "to receive, to welcome",
+      "russian": "принимать, получать",
+      "farsi": "پذیرفتن، دریافت کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "begrüßen",
+      "english": "to greet, to welcome",
+      "russian": "приветствовать",
+      "farsi": "سلام کردن، خوش‌آمدگویی کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Einarbeitung, -en",
+      "english": "the induction, inductions",
+      "russian": "введение в курс дела, введения в курс дела",
+      "farsi": "معرفی با کار، معرفی‌های با کار"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "abgeben",
+      "english": "to hand over, to submit",
+      "russian": "передавать, сдавать",
+      "farsi": "تحویل دادن، تسلیم کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Leiter, -",
+      "english": "the manager, managers (male)",
+      "russian": "руководитель, руководители (мужской род)",
+      "farsi": "مدیر، مدیران (مذکر)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Leiterin, -nen",
+      "english": "the manager, managers (female)",
+      "russian": "руководительница, руководительницы (женский род)",
+      "farsi": "مدیر، مدیران (مؤنث)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Vorgesetzte, -n",
+      "english": "the supervisor, supervisors (male)",
+      "russian": "начальник, начальники (мужской род)",
+      "farsi": "سرپرست، سرپرستان (مذکر)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Vorgesetzte, -n",
+      "english": "the supervisor, supervisors (female)",
+      "russian": "начальница, начальницы (женский род)",
+      "farsi": "سرپرست، سرپرستان (مؤنث)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Rundgang, -ä-e",
+      "english": "the tour, tours",
+      "russian": "экскурсия, экскурсии",
+      "farsi": "گشت، گشت‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "kennenlernen",
+      "english": "to get to know",
+      "russian": "знакомиться",
+      "farsi": "آشنا شدن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "erhalten",
+      "english": "to receive, to obtain",
+      "russian": "получать, получать",
+      "farsi": "دریافت کردن، به دست آوردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Betriebsrat, -ä-e",
+      "english": "the works council, works councils",
+      "russian": "профсоюзный комитет, профсоюзные комитеты",
+      "farsi": "شورای کارگری، شوراهای کارگری"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "drücken",
+      "english": "to press, to push",
+      "russian": "нажимать, толкать",
+      "farsi": "فشار دادن، هل دادن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "wissen",
+      "english": "to know",
+      "russian": "знать",
+      "farsi": "دانستن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "erklären",
+      "english": "to explain, to declare",
+      "russian": "объяснять, заявлять",
+      "farsi": "توضیح دادن، اعلام کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "funktionieren",
+      "english": "to function, to work",
+      "russian": "функционировать, работать",
+      "farsi": "عمل کردن، کار کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "kompliziert",
+      "english": "complicated",
+      "russian": "сложный",
+      "farsi": "پیچیده"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "kopieren",
+      "english": "to copy",
+      "russian": "копировать",
+      "farsi": "کپی کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "langsam",
+      "english": "slow, slowly",
+      "russian": "медленный, медленно",
+      "farsi": "آهسته، کند"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "passieren",
+      "english": "to happen, to occur",
+      "russian": "происходить, случаться",
+      "farsi": "اتفاق افتادن، رخ دادن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "rufen",
+      "English": "to call",
+      "Russian": "звать",
+      "Farsi": "صدا زدن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Hilfe, -n",
+      "english": "the help, helps",
+      "russian": "помощь, помощи",
+      "farsi": "کمک، کمک‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "(etw.) anzeigen",
+      "english": "to display, to show (something)",
+      "russian": "отображать, показывать (что-то)",
+      "farsi": "نمایش دادن، نشان دادن (چیزی)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "öffnen",
+      "english": "to open",
+      "russian": "открывать",
+      "farsi": "باز کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "entfernen",
+      "english": "to remove, to delete",
+      "russian": "удалять, удалять",
+      "farsi": "حذف کردن، برطرف کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Moment, -e",
+      "english": "the moment, moments",
+      "russian": "момент, моменты",
+      "farsi": "لحظه، لحظات"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "wechseln",
+      "english": "to change, to switch",
+      "russian": "менять, переключать",
+      "farsi": "تغییر دادن، تعویض کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Seiten, -n",
+      "english": "the pages, sides",
+      "russian": "страницы, стороны",
+      "farsi": "صفحات، جنبه‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "sauber",
+      "english": "clean",
+      "russian": "чистый",
+      "farsi": "پاکیزه"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Formular, -e",
+      "english": "the form, forms",
+      "russian": "форма, формы",
+      "farsi": "فرم، فرم‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "finden",
+      "english": "to find",
+      "russian": "находить",
+      "farsi": "یافتن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Etage, -n",
+      "english": "the floor, floors",
+      "russian": "этаж, этажи",
+      "farsi": "طبقه، طبقات"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Forschung, -en",
+      "english": "the research, researches",
+      "russian": "исследование, исследования",
+      "farsi": "تحقیق، تحقیقات"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Entwicklung, -en",
+      "english": "the development, developments",
+      "russian": "разработка, разработки",
+      "farsi": "توسعه، پیشرفت‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Besprechung, -en",
+      "english": "the meeting, meetings",
+      "russian": "совещание, совещания",
+      "farsi": "جلسه، جلسات"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "vorschlagen",
+      "english": "to suggest, to propose",
+      "russian": "предлагать",
+      "farsi": "پیشنهاد دادن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "schaffen",
+      "english": "to create, to accomplish",
+      "russian": "создавать, справляться",
+      "farsi": "ایجاد کردن، انجام دادن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Zweifel, -",
+      "english": "the doubt, doubts",
+      "russian": "сомнение, сомнения",
+      "farsi": "شک، شک‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Protokoll, -e",
+      "english": "the protocol/minutes, protocols/minutes",
+      "russian": "протокол, протоколы",
+      "farsi": "پروتکل/صورت‌جلسه، پروتکل‌ها/صورت‌جلسات"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "reparieren",
+      "English": "to repair",
+      "Russian": "ремонтировать",
+      "Farsi": "تعمیر کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "überrascht sein",
+      "english": "to be surprised",
+      "russian": "быть удивлённым",
+      "farsi": "شگفت‌زده بودن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Kurs, -e",
+      "english": "the course, courses",
+      "russian": "курс, курсы",
+      "farsi": "دوره، دوره‌ها"
+    }
+  ]
+}

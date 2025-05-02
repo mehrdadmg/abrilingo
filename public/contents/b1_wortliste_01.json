@@ -1,0 +1,985 @@
+{
+  "info": {
+    "name": "B1_Wortliste_01",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "ab",
+      "english": "from, as of",
+      "russian": "от, начиная с",
+      "farsi": "از، از آن زمان"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Fahrt kostet ab Hamburg 200 Euro.",
+      "english": "The trip costs 200 euros from Hamburg.",
+      "russian": "Поездка стоит 200 евро из Гамбурга.",
+      "farsi": "سفر از هامبورگ 200 یورو هزینه دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ab nächster Woche bleibt unser Geschäft samstags geschlossen.",
+      "english": "From next week, our store will remain closed on Saturdays.",
+      "russian": "Начиная со следующей недели, наш магазин будет закрыт по субботам.",
+      "farsi": "از هفته آینده، فروشگاه ما روزهای شنبه تعطیل خواهد بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein Bruder besucht uns ab und zu.",
+      "english": "My brother visits us from time to time.",
+      "russian": "Мой брат навещает нас время от времени.",
+      "farsi": "برادرم گاهی به ما سر می‌زند."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "abbiegen",
+      "Präsens": "ich biege ab, du biegst ab, er/sie/es biegt ab, wir biegen ab, ihr biegt ab, sie biegen ab",
+      "Präteritum": "ich bog ab, du bogst ab, er/sie/es bog ab, wir bogen ab, ihr bogt ab, sie bogen ab",
+      "Perfekt": "ist abgebogen",
+      "englishMeaning": "to turn off, to turn aside",
+      "englishUsage": "Used to describe the action of turning off a road or path or changing direction.",
+      "russianMeaning": "свернуть, повернуть в сторону",
+      "russianUsage": "Используется для описания действия по съезду с дороги или изменения направления.",
+      "farsiMeaning": "پیچیدن، تغییر مسیر دادن",
+      "farsiUsage": "برای توصیف عمل خروج از جاده یا تغییر مسیر استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "An der nächsten Kreuzung müssen Sie links abbiegen.",
+      "english": "At the next intersection, you must turn left.",
+      "russian": "На следующем перекрестке вы должны повернуть налево.",
+      "farsi": "در تقاطع بعدی، باید به سمت چپ بپیچید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Abbildung, die Abbildungen",
+      "english": "the illustration, illustrations",
+      "russian": "иллюстрация, иллюстрации",
+      "farsi": "تصویر، تصاویر"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Auf der Abbildung sehen Sie, wie man das Gerät einschaltet.",
+      "english": "In the illustration, you can see how to turn on the device.",
+      "russian": "На иллюстрации вы видите, как включить устройство.",
+      "farsi": "در تصویر می‌بینید که چگونه دستگاه را روشن کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Abenteuer, die Abenteuer",
+      "english": "the adventure, adventures",
+      "russian": "приключение, приключения",
+      "farsi": "ماجرا، ماجراها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Unser Urlaub war ein tolles Abenteuer.",
+      "english": "Our vacation was a great adventure.",
+      "russian": "Наш отпуск был отличным приключением.",
+      "farsi": "تعطیلات ما یک ماجرای عالی بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Kinder lieben Abenteuergeschichten.",
+      "english": "The children love adventure stories.",
+      "russian": "Дети любят приключенческие истории.",
+      "farsi": "بچه‌ها داستان‌های ماجراجویانه را دوست دارند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "aber",
+      "english": "but, however",
+      "russian": "но, однако",
+      "farsi": "اما، ولی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Heute kann ich nicht, aber morgen ganz bestimmt.",
+      "english": "I can't today, but definitely tomorrow.",
+      "russian": "Сегодня я не могу, но завтра обязательно.",
+      "farsi": "امروز نمی‌توانم، اما فردا حتماً."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es lag sehr viel Schnee, aber Enzo ist trotzdem mit dem Motorrad gefahren.",
+      "english": "There was a lot of snow, but Enzo still rode his motorcycle.",
+      "russian": "Было много снега, но Энцо все равно поехал на мотоцикле.",
+      "farsi": "برف زیادی بود، اما انزو با این حال با موتورسیکلت رفت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben nur eine kleine Wohnung, sind aber damit zufrieden.",
+      "english": "We only have a small apartment, but we are satisfied with it.",
+      "russian": "У нас только маленькая квартира, но мы довольны ею.",
+      "farsi": "ما فقط یک آپارتمان کوچک داریم، اما از آن راضی هستیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es war sehr schön. Jetzt muss ich aber gehen.",
+      "english": "It was very nice. But now I have to go.",
+      "russian": "Было очень хорошо. Но теперь мне нужно идти.",
+      "farsi": "خیلی خوب بود. اما حالا باید بروم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich würde gerne kommen, aber es geht leider nicht.",
+      "english": "I would like to come, but unfortunately it's not possible.",
+      "russian": "Я бы с удовольствием пришел, но, к сожалению, не получится.",
+      "farsi": "دوست داشتم بیایم، اما متأسفانه امکان‌پذیر نیست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Darf ich dich zu einem Kaffee einladen? – Aber ja, sehr gern.",
+      "english": "May I invite you for a coffee? – Yes, of course, I'd love to.",
+      "russian": "Могу я пригласить тебя на кофе? – Да, конечно, с удовольствием.",
+      "farsi": "می‌توانم شما را به یک قهوه دعوت کنم؟ - بله، البته، با کمال میل."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Du spielst aber gut Klavier.",
+      "english": "You play the piano really well.",
+      "russian": "Ты действительно хорошо играешь на пианино.",
+      "farsi": "تو واقعاً خوب پیانو می‌نوازی."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "abfahren",
+      "Präsens": "ich fahre ab, du fährst ab, er/sie/es fährt ab, wir fahren ab, ihr fahrt ab, sie fahren ab",
+      "Präteritum": "ich fuhr ab, du fuhrst ab, er/sie/es fuhr ab, wir fuhren ab, ihr fuhrt ab, sie fuhren ab",
+      "Perfekt": "ist abgefahren",
+      "englishMeaning": "to depart, to leave",
+      "englishUsage": "Used to describe the action of departing or leaving, especially in the context of vehicles or transportation.",
+      "russianMeaning": "отъезжать, отправляться",
+      "russianUsage": "Используется для описания действия отъезда или отправления, особенно в контексте транспортных средств или перевозок.",
+      "farsiMeaning": "حرکت کردن، عزیمت کردن",
+      "farsiUsage": "برای توصیف عمل حرکت یا ترک کردن استفاده می‌شود، به ویژه در زمینه وسایل نقلیه یا حمل و نقل."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Unser Zug ist pünktlich abgefahren.",
+      "english": "Our train departed on time.",
+      "russian": "Наш поезд отправился вовремя.",
+      "farsi": "قطار ما سر وقت حرکت کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Abfahrt, die Abfahrten",
+      "english": "the departure, departures",
+      "russian": "отправление, отправления",
+      "farsi": "عزیمت، عزیمت‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es bleiben uns noch zwanzig Minuten bis zur Abfahrt",
+      "english": "We still have twenty minutes until departure",
+      "russian": "У нас осталось еще двадцать минут до отправления",
+      "farsi": "ما هنوز بیست دقیقه تا زمان حرکت وقت داریم"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Abfalleimer, die Abfalleimer",
+      "english": "the trash can, trash cans",
+      "russian": "мусорное ведро, мусорные вёдра",
+      "farsi": "سطل زباله، سطل‌های زباله"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Werfen Sie den Bioabfall bitte nicht zum normalen Müll.",
+      "english": "Please don't throw the organic waste in with the regular trash.",
+      "russian": "Пожалуйста, не выбрасывайте органические отходы вместе с обычным мусором.",
+      "farsi": "لطفاً زباله‌های ارگانیک را با زباله‌های معمولی نریزید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Abfalleimer, die Abfalleimer",
+      "english": "the trash can, trash cans",
+      "russian": "мусорное ведро, мусорные вёдра",
+      "farsi": "سطل زباله، سطل‌های زباله"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wirf das bitte in den Abfalleimer!",
+      "english": "Please throw that in the trash can!",
+      "russian": "Пожалуйста, выброси это в мусорное ведро!",
+      "farsi": "لطفاً آن را در سطل زباله بینداز!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Abgase (Pl.)",
+      "english": "exhaust fumes, emissions",
+      "russian": "выхлопные газы, выбросы",
+      "farsi": "گازهای خروجی، انتشارات"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Abgase aus Industrie und Haushalten verschmutzen die Luft.",
+      "english": "Emissions from industry and households pollute the air.",
+      "russian": "Выбросы из промышленности и домашних хозяйств загрязняют воздух.",
+      "farsi": "گازهای خروجی از صنایع و خانه‌ها هوا را آلوده می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "abgeben",
+      "Präsens": "ich gebe ab, du gibst ab, er/sie/es gibt ab, wir geben ab, ihr gebt ab, sie geben ab",
+      "Präteritum": "ich gab ab, du gabst ab, er/sie/es gab ab, wir gaben ab, ihr gabt ab, sie gaben ab",
+      "Perfekt": "hat abgegeben",
+      "englishMeaning": "to hand over, to deliver",
+      "englishUsage": "Used to describe the action of handing something over or delivering it to someone.",
+      "russianMeaning": "отдавать, передавать",
+      "russianUsage": "Используется для описания действия передачи чего-либо кому-либо или доставки.",
+      "farsiMeaning": "تحویل دادن، واگذار کردن",
+      "farsiUsage": "برای توصیف عمل تحویل دادن یا رساندن چیزی به کسی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich soll dieses Päckchen bei Herrn Müller abgeben.",
+      "english": "I'm supposed to deliver this package to Mr. Müller.",
+      "russian": "Я должен передать этот пакет господину Мюллеру.",
+      "farsi": "من باید این بسته را به آقای مولر تحویل دهم."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "abhängen",
+      "Präsens": "ich hänge ab, du hängst ab, er/sie/es hängt ab, wir hängen ab, ihr hängt ab, sie hängen ab",
+      "Präteritum": "ich hing ab, du hingst ab, er/sie/es hing ab, wir hingen ab, ihr hingt ab, sie hingen ab",
+      "Perfekt": "hat abgehangen",
+      "englishMeaning": "to depend on",
+      "englishUsage": "Used to express that something is contingent or dependent on something else.",
+      "russianMeaning": "зависеть от",
+      "russianUsage": "Используется для выражения того, что что-то зависит или обусловлено чем-то другим.",
+      "farsiMeaning": "بستگی داشتن به",
+      "farsiUsage": "برای بیان اینکه چیزی وابسته یا مشروط به چیز دیگری است استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vielleicht bleiben wir ein paar Tage länger, das hängt vom Wetter ab.",
+      "english": "Maybe we'll stay a few days longer, it depends on the weather.",
+      "russian": "Возможно, мы останемся на несколько дней дольше, это зависит от погоды.",
+      "farsi": "شاید چند روز بیشتر بمانیم، این بستگی به آب و هوا دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "abhängig",
+      "english": "dependent",
+      "russian": "зависимый",
+      "farsi": "وابسته"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Gregor ist finanziell von seinen Eltern abhängig.",
+      "english": "Gregor is financially dependent on his parents.",
+      "russian": "Грегор финансово зависим от своих родителей.",
+      "farsi": "گرگور از نظر مالی به والدینش وابسته است."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "abheben",
+      "Präsens": "ich hebe ab, du hebst ab, er/sie/es hebt ab, wir heben ab, ihr hebt ab, sie heben ab",
+      "Präteritum": "ich hob ab, du hobst ab, er/sie/es hob ab, wir hoben ab, ihr hobt ab, sie hoben ab",
+      "Perfekt": "hat abgehoben",
+      "englishMeaning": "to lift off, to withdraw",
+      "englishUsage": "Used to describe the action of lifting something off or withdrawing money from an account.",
+      "russianMeaning": "взлетать, снимать",
+      "russianUsage": "Используется для описания действия взлета или снятия денег со счета.",
+      "farsiMeaning": "پرواز کردن، برداشت کردن",
+      "farsiUsage": "برای توصیف عمل برخاستن یا برداشت پول از حساب استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Für die Reise habe ich 500 Euro von meinem Konto abgehoben.",
+      "english": "I withdrew 500 euros from my account for the trip.",
+      "russian": "Я снял 500 евро со своего счета на поездку.",
+      "farsi": "برای سفر 500 یورو از حسابم برداشتم."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "abholen",
+      "Präsens": "ich hole ab, du holst ab, er/sie/es holt ab, wir holen ab, ihr holt ab, sie holen ab",
+      "Präteritum": "ich holte ab, du holtest ab, er/sie/es holte ab, wir holten ab, ihr holtet ab, sie holten ab",
+      "Perfekt": "hat abgeholt",
+      "englishMeaning": "to pick up",
+      "englishUsage": "Used to describe the action of picking something or someone up, often from a location.",
+      "russianMeaning": "забрать",
+      "russianUsage": "Используется для описания действия забора чего-либо или кого-либо, часто из определенного места.",
+      "farsiMeaning": "برداشتن",
+      "farsiUsage": "برای توصیف عمل بردن چیزی یا کسی، اغلب از یک مکان استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Meine Freundin hat mich vom Bahnhof abgeholt.",
+      "english": "My girlfriend picked me up from the station.",
+      "russian": "Моя подруга забрала меня с вокзала.",
+      "farsi": "دوستم مرا از ایستگاه برداشت."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "abschreiben",
+      "Präsens": "ich schreibe ab, du schreibst ab, er/sie/es schreibt ab, wir schreiben ab, ihr schreibt ab, sie schreiben ab",
+      "Präteritum": "ich schrieb ab, du schriebst ab, er/sie/es schrieb ab, wir schrieben ab, ihr schriebt ab, sie schrieben ab",
+      "Perfekt": "hat abgeschrieben",
+      "englishMeaning": "to copy, to plagiarize",
+      "englishUsage": "Used to describe the action of copying or plagiarizing something, often in an academic context.",
+      "russianMeaning": "копировать, списывать",
+      "russianUsage": "Используется для описания действия копирования или списывания чего-либо, часто в академическом контексте.",
+      "farsiMeaning": "کپی کردن، سرقت ادبی",
+      "farsiUsage": "برای توصیف عمل کپی کردن یا سرقت ادبی چیزی، اغلب در زمینه‌های علمی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat die Hausaufgaben von mir abgeschrieben.",
+      "english": "He copied the homework from me.",
+      "russian": "Он списал домашнее задание у меня.",
+      "farsi": "او کارهای خانه را از من کپی کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Abitur, das Abitur",
+      "english": "the Abitur, Abiturs",
+      "russian": "Абитур, Абитуры",
+      "farsi": "آبیتور، آبیتورها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Meine Tochter hat gerade Abitur gemacht.",
+      "english": "My daughter just graduated with an Abitur.",
+      "russian": "Моя дочь только что получила Абитур.",
+      "farsi": "دخترم دیپلم آبیتور گرفت."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "ablehnen",
+      "Präsens": "ich lehne ab, du lehnst ab, er/sie/es lehnt ab, wir lehnen ab, ihr lehnt ab, sie/Sie lehnen ab",
+      "Präteritum": "ich lehnte ab, du lehntest ab, er/sie/es lehnte ab, wir lehnten ab, ihr lehntet ab, sie/Sie lehnten ab",
+      "Perfekt": "hat abgelehnt",
+      "englishMeaning": "to refuse, to reject",
+      "englishUsage": "Used to describe the action of refusing or rejecting something.",
+      "russianMeaning": "отказываться, отклонять",
+      "russianUsage": "Используется для описания действия отказа или отклонения чего-либо.",
+      "farsiMeaning": "رد کردن، نپذیرفتن",
+      "farsiUsage": "برای توصیف عمل رد کردن یا نپذیرفتن چیزی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat mein Angebot, ihm zu helfen, abgelehnt.",
+      "english": "He rejected my offer to help him.",
+      "russian": "Он отклонил мое предложение ему помочь.",
+      "farsi": "او پیشنهاد کمک به او را رد کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "abmachen",
+      "Präsens": "ich mache ab, du machst ab, er/sie/es macht ab, wir machen ab, ihr macht ab, sie/Sie machen ab",
+      "Präteritum": "ich machte ab, du machtest ab, er/sie/es machte ab, wir machten ab, ihr machtet ab, sie/Sie machten ab",
+      "Perfekt": "hat abgemacht",
+      "englishMeaning": "to remove, to agree on",
+      "englishUsage": "Used to describe the action of removing something or agreeing on something.",
+      "russianMeaning": "снимать, договариваться",
+      "russianUsage": "Используется для описания действия снятия чего-либо или согласования чего-либо.",
+      "farsiMeaning": "برداشتن، توافق کردن",
+      "farsiUsage": "برای توصیف عمل برداشتن چیزی یا توافق کردن بر چیزی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir hatten doch abgemacht, dass du die Getränke besorgst.",
+      "english": "We had agreed that you would get the drinks.",
+      "russian": "Мы же договорились, что ты будешь заниматься напитками.",
+      "farsi": "ما توافق کرده بودیم که تو نوشیدنی‌ها را تهیه کنی."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "abnehmen",
+      "Präsens": "ich nehme ab, du nimmst ab, er/sie/es nimmt ab, wir nehmen ab, ihr nehmt ab, sie/Sie nehmen ab",
+      "Präteritum": "ich nahm ab, du nahmst ab, er/sie/es nahm ab, wir nahmen ab, ihr nahmt ab, sie/Sie nahmen ab",
+      "Perfekt": "hat abgenommen",
+      "englishMeaning": "to remove, to lose weight",
+      "englishUsage": "Used to describe the action of removing something or losing weight.",
+      "russianMeaning": "снимать, худеть",
+      "russianUsage": "Используется для описания действия снятия чего-либо или похудения.",
+      "farsiMeaning": "برداشتن، وزن کم کردن",
+      "farsiUsage": "برای توصیف عمل برداشتن چیزی یا کاهش وزن استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Morgen können wir den Verband abnehmen.",
+      "english": "Tomorrow we can remove the bandage.",
+      "russian": "Завтра мы сможем снять повязку.",
+      "farsi": "فردا می‌توانیم بانداژ را برداریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe zehn Kilo abgenommen.",
+      "english": "I have lost ten kilograms.",
+      "russian": "Я похудел на десять килограммов.",
+      "farsi": "من ده کیلوگرم وزن کم کرده‌ام."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "abonnieren",
+      "Präsens": "ich abonniere, du abonnierst, er/sie/es abonniert, wir abonnieren, ihr abonniert, sie/Sie abonnieren",
+      "Präteritum": "ich abonnierte, du abonnierstest, er/sie/es abonnierte, wir abonnierten, ihr abonnier tet, sie/Sie abonnierten",
+      "Perfekt": "hat abonniert",
+      "englishMeaning": "to subscribe to something",
+      "englishUsage": "Used to describe the action of subscribing to a service, publication, or channel.",
+      "russianMeaning": "подписаться на что-то",
+      "russianUsage": "Используется для описания действия подписки на услугу, издание или канал.",
+      "farsiMeaning": "عضویت در یک سرویس، نشریه یا کانال",
+      "farsiUsage": "برای توصیف عمل عضویت در یک سرویس، نشریه یا کانال استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Diese Zeitschrift würde ich gerne abonnieren.",
+      "english": "I would like to subscribe to this magazine.",
+      "russian": "Я бы хотел подписаться на этот журнал.",
+      "farsi": "من دوست دارم به این مجله عضو شوم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Abonnement, die Abonnements",
+      "english": "the subscription, subscriptions",
+      "russian": "подписка, подписки",
+      "farsi": "عضویت، عضویت‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe das Abonnement gekündigt.",
+      "english": "I have canceled the subscription.",
+      "russian": "Я расторг подписку.",
+      "farsi": "من عضویت را لغو کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "absagen",
+      "Präsens": "ich sage ab, du sagst ab, er/sie/es sagt ab, wir sagen ab, ihr sagt ab, sie/Sie sagen ab",
+      "Präteritum": "ich sagte ab, du sagtest ab, er/sie/es sagte ab, wir sagten ab, ihr sagtet ab, sie/Sie sagten ab",
+      "Perfekt": "hat abgesagt",
+      "englishMeaning": "to cancel, to decline",
+      "englishUsage": "Used to describe the action of canceling an event or declining an invitation.",
+      "russianMeaning": "отменять, отклонять",
+      "russianUsage": "Используется для описания действия отмены мероприятия или отклонения приглашения.",
+      "farsiMeaning": "لغو کردن، رد کردن",
+      "farsiUsage": "برای توصیف عمل لغو کردن یک رویداد یا رد کردن یک دعوت استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich muss unser Treffen leider absagen, weil ich krank geworden bin.",
+      "english": "I have to cancel our meeting unfortunately because I've become ill.",
+      "russian": "Мне, к сожалению, приходится отменить нашу встречу, так как я заболел.",
+      "farsi": "متأسفانه مجبورم جلسه‌مان را لغو کنم، چون بیمار شدم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Abschluss, die Abschlüsse",
+      "english": "the conclusion, conclusions",
+      "russian": "заключение, заключения",
+      "farsi": "نتیجه، نتایج"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ein guter Schulabschluss ist sehr wichtig.",
+      "english": "A good school diploma is very important.",
+      "russian": "Хороший школьный аттестат очень важен.",
+      "farsi": "گواهینامه‌ی خوب مدرسه بسیار مهم است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Abschnitt, die Abschnitte",
+      "english": "the section, sections",
+      "russian": "раздел, разделы",
+      "farsi": "بخش، بخش‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Lesen Sie bitte den zweiten Abschnitt.",
+      "english": "Please read the second section.",
+      "russian": "Пожалуйста, прочитайте второй раздел.",
+      "farsi": "لطفاً بخش دوم را بخوانید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Absender, die Absender",
+      "english": "the sender, senders",
+      "russian": "отправитель, отправители",
+      "farsi": "فرستنده، فرستندگان"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Schicken Sie das Paket an den Absender zurück.",
+      "english": "Send the package back to the sender.",
+      "russian": "Отправьте посылку обратно отправителю.",
+      "farsi": "پaket را به فرستنده برگردانید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Absicht, die Absichten",
+      "english": "the intention, intentions",
+      "russian": "намерение, намерения",
+      "farsi": "قصد، قصد‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Entschuldigen Sie bitte. Meine Tochter hat das nicht mit Absicht gemacht.",
+      "english": "Excuse me, please. My daughter did not do that intentionally.",
+      "russian": "Извините, пожалуйста. Моя дочь не сделала этого намеренно.",
+      "farsi": "ببخشید لطفا دخترم عمدا این کار را نکرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hast du die Absicht zu studieren?",
+      "english": "Do you intend to study?",
+      "russian": "У тебя есть намерение учиться?",
+      "farsi": "آیا قصد داری تحصیل کنی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "absolut",
+      "english": "absolute, completely",
+      "russian": "абсолютно, полностью",
+      "farsi": "کاملاً، مطلقاً"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was Sie da sagen, ist absolut falsch.",
+      "english": "What you're saying is completely wrong.",
+      "russian": "То, что вы говорите, полностью неверно.",
+      "farsi": "آنچه که می‌گویید کاملاً اشتباه است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe absolutes Vertrauen zu dir.",
+      "english": "I have complete trust in you.",
+      "russian": "Я полностью доверяю вам.",
+      "farsi": "من به تو اعتماد کامل دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "abstimmen",
+      "Präsens": "ich stimme ab, du stimmst ab, er/sie/es stimmt ab, wir stimmen ab, ihr stimmt ab, sie/Sie stimmen ab",
+      "Präteritum": "ich stimmte ab, du stimmtest ab, er/sie/es stimmte ab, wir stimmten ab, ihr stimmtet ab, sie/Sie stimmten ab",
+      "Perfekt": "hat abgestimmt",
+      "englishMeaning": "to vote, to coordinate",
+      "englishUsage": "Used to describe the action of voting on something or coordinating/aligning things.",
+      "russianMeaning": "голосовать, согласовывать",
+      "russianUsage": "Используется для описания действия голосования по чему-либо или согласования/координации вещей.",
+      "farsiMeaning": "رأی دادن، هماهنگ کردن",
+      "farsiUsage": "برای توصیف عمل رأی دادن در مورد چیزی یا هماهنگ/تنظیم کردن چیزها استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Lasst uns über diesen Punkt abstimmen.",
+      "english": "Let's vote on this point.",
+      "russian": "Давайте проголосуем по этому пункту.",
+      "farsi": "بیایید در مورد این نکته رأی‌گیری کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Abteilung, die Abteilungen",
+      "english": "the department, departments",
+      "russian": "отдел, отделы",
+      "farsi": "بخش، بخش‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Meine Freundin arbeitet in der Abteilung von Frau Kaufmann.",
+      "english": "My girlfriend works in Mrs. Kaufmann's department.",
+      "russian": "Моя подруга работает в отделе госпожи Кауфманн.",
+      "farsi": "دوست دخترم در بخش خانم کافمن کار می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Abwart / die Abwartin, die Abwarte / die Abwartinnen",
+      "english": "the caretaker (male/female), caretakers",
+      "russian": "смотритель/смотрительница, смотрители/смотрительницы",
+      "farsi": "سرایدار (مرد/زن)، سرایداران"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Abwart hat mir geholfen, den Schrank in die Wohnung zu tragen.",
+      "english": "The caretaker helped me carry the wardrobe into the apartment.",
+      "russian": "Смотритель помог мне занести шкаф в квартиру.",
+      "farsi": "سرایدار به من کمک کرد تا کمد را به آپارتمان ببرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "abwärts",
+      "english": "downwards, downhill",
+      "russian": "вниз, под гору",
+      "farsi": "به سمت پایین، سرازیری"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Von dort führt der Weg abwärts ins Tal.",
+      "english": "From there, the path leads downhill into the valley.",
+      "russian": "Оттуда дорога ведет вниз в долину.",
+      "farsi": "از آنجا، مسیر به سمت پایین به دره می‌رود."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "abwaschen",
+      "Präsens": "ich wasche ab, du wäschst ab, er/sie/es wäscht ab, wir waschen ab, ihr wascht ab, sie/Sie waschen ab",
+      "Präteritum": "ich wusch ab, du wuschest ab, er/sie/es wusch ab, wir wuschen ab, ihr wuscht ab, sie/Sie wuschen ab",
+      "Perfekt": "hat abgewaschen",
+      "englishMeaning": "to wash off, to clean",
+      "englishUsage": "Used to describe the action of washing something off or cleaning it with water.",
+      "russianMeaning": "смывать, мыть",
+      "russianUsage": "Используется для описания действия смывания чего-либо или мытья с водой.",
+      "farsiMeaning": "شستن، تمیز کردن",
+      "farsiUsage": "برای توصیف عمل شستن چیزی یا تمیز کردن آن با آب استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich muss noch das Geschirr abwaschen.",
+      "english": "I still need to wash the dishes.",
+      "russian": "Мне еще нужно помыть посуду.",
+      "farsi": "هنوز باید ظرف‌ها را بشویم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "abwesend",
+      "english": "absent",
+      "russian": "отсутствующий",
+      "farsi": "غایب"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Herr Huber ist bis zum 25. April abwesend.",
+      "english": "Mr. Huber is absent until April 25.",
+      "russian": "Господин Хубер отсутствует до 25 апреля.",
+      "farsi": "آقای هوبر تا 25 آوریل غایب است."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "achten",
+      "Präsens": "ich achte, du achtest, er/sie/es achtet, wir achten, ihr achtet, sie/Sie achten",
+      "Präteritum": "ich achtete, du achtetest, er/sie/es achtete, wir achteten, ihr achtetet, sie/Sie achteten",
+      "Perfekt": "hat geachtet",
+      "englishMeaning": "to pay attention, to respect",
+      "englishUsage": "Used to describe the action of paying attention or showing respect.",
+      "russianMeaning": "обращать внимание, уважать",
+      "russianUsage": "Используется для описания действия обращения внимания или проявления уважения.",
+      "farsiMeaning": "توجه کردن، احترام گذاشتن",
+      "farsiUsage": "برای توصیف عمل توجه کردن یا احترام گذاشتن استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Achten Sie bitte darauf, dass Sie abschließen, wenn Sie gehen.",
+      "english": "Please make sure to lock up when you leave.",
+      "russian": "Пожалуйста, убедитесь, что вы заперли дверь, когда уходите.",
+      "farsi": "لطفاً مطمئن شوید که در را قفل می‌کنید وقتی می‌روید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Achtung!",
+      "english": "Attention!",
+      "russian": "Внимание!",
+      "farsi": "توجه!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Achtung, hier endet die Straße!",
+      "english": "Attention, the road ends here!",
+      "russian": "Внимание, здесь заканчивается дорога!",
+      "farsi": "توجه، اینجا جاده به پایان می‌رسد!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Adresse, die Adressen",
+      "english": "the address, addresses",
+      "russian": "адрес, адреса",
+      "farsi": "آدرس، آدرس‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hast du schon meine neue Adresse?",
+      "english": "Have you got my new address yet?",
+      "russian": "У тебя уже мой новый адрес?",
+      "farsi": "آیا آدرس جدیدم را داری؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "ähnlich",
+      "english": "similar",
+      "russian": "похожий",
+      "farsi": "شبیه"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Emilia ist in einer ganz ähnlichen Situation wie ich.",
+      "english": "Emilia is in a very similar situation to mine.",
+      "russian": "Эмилия находится в ситуации, очень похожей на мою.",
+      "farsi": "امیلیا در شرایطی کاملاً شبیه به من قرار دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Oleg sieht seinem Bruder sehr ähnlich.",
+      "english": "Oleg looks very much like his brother.",
+      "russian": "Олег очень похож на своего брата.",
+      "farsi": "اولگ شبیه برادرش است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Ahnung, die Ahnungen",
+      "english": "the notion, notions",
+      "russian": "предчувствие, предчувствия",
+      "farsi": "احساس، احساسات"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich hatte keine Ahnung, dass du heute Geburtstag hast.",
+      "english": "I had no idea that it's your birthday today.",
+      "russian": "Я не знал, что сегодня твой день рождения.",
+      "farsi": "من هیچ ایده‌ای نداشتم که امروز تولدت است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Aktion, die Aktionen",
+      "english": "the action, actions",
+      "russian": "акция, акции",
+      "farsi": "اقدام، اقدامات"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Stadt sollte eine Aktion für Familien planen.",
+      "english": "The city should plan an event for families.",
+      "russian": "Город должен спланировать мероприятие для семей.",
+      "farsi": "شهر باید یک برنامه برای خانواده‌ها برنامه‌ریزی کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "aktiv",
+      "english": "active",
+      "russian": "активный",
+      "farsi": "فعال"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin sehr aktiv und mache viel Sport.",
+      "english": "I am very active and do a lot of sports.",
+      "russian": "Я очень активен и много занимаюсь спортом.",
+      "farsi": "من بسیار فعال هستم و ورزش زیادی انجام می‌دهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Aktivität, die Aktivitäten",
+      "english": "the activity, activities",
+      "russian": "активность, активности",
+      "farsi": "فعالیت، فعالیت‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In den Ferien bietet die Stadt für Kinder verschiedene Freizeitaktivitäten.",
+      "english": "During the holidays, the city offers various leisure activities for children.",
+      "russian": "В каникулы город предлагает детям различные досуговые активности.",
+      "farsi": "در تعطیلات، شهر فعالیت‌های تفریحی مختلفی را برای کودکان ارائه می‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "aktuell",
+      "english": "current, up-to-date",
+      "russian": "актуальный",
+      "farsi": "کنونی، به‌روز"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Umweltschutz ist ein aktuelles Thema.",
+      "english": "Environmental protection is a current topic.",
+      "russian": "Защита окружающей среды — актуальная тема.",
+      "farsi": "حفاظت از محیط زیست یک موضوع کنونی است."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "akzeptieren",
+      "Präsens": "ich akzeptiere, du akzeptierst, er/sie/es akzeptiert, wir akzeptieren, ihr akzeptiert, sie/Sie akzeptieren",
+      "Präteritum": "ich akzeptierte, du akzeptiertest, er/sie/es akzeptierte, wir akzeptierten, ihr akzeptiertet, sie/Sie akzeptierten",
+      "Perfekt": "hat akzeptiert",
+      "englishMeaning": "to accept",
+      "englishUsage": "Used to describe the action of accepting something.",
+      "russianMeaning": "принимать",
+      "russianUsage": "Используется для описания действия принятия чего-либо.",
+      "farsiMeaning": "پذیرفتن",
+      "farsiUsage": "برای توصیف عمل پذیرفتن چیزی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich kann diese Bedingungen nicht akzeptieren.",
+      "english": "I cannot accept these conditions.",
+      "russian": "Я не могу принять эти условия.",
+      "farsi": "من نمی‌توانم این شرایط را بپذیرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Alarm, die Alarme",
+      "english": "the alarm, alarms",
+      "russian": "сигнализация, сигнализации",
+      "farsi": "سیگنال، سیگنال‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bei Feueralarm dürfen Sie die Aufzüge nicht benutzen.",
+      "english": "In case of a fire alarm, you are not allowed to use the elevators.",
+      "russian": "При пожарной сигнализации использовать лифты запрещено.",
+      "farsi": "در صورت اعلام آتش‌سوزی، استفاده از آسانسور مجاز نیست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Alkohol, die Alkohole",
+      "english": "the alcohol, alcohols",
+      "russian": "спирт, спирты",
+      "farsi": "الکل، الکل‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Du musst die Wunde mit Alkohol reinigen.",
+      "english": "You need to clean the wound with alcohol.",
+      "russian": "Тебе нужно очистить рану с помощью спирта.",
+      "farsi": "باید زخم را با الکل تمیز کنی."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nein, danke! Ich trinke keinen Alkohol.",
+      "english": "No, thank you! I don't drink alcohol.",
+      "russian": "Нет, спасибо! Я не пью алкоголь.",
+      "farsi": "نه، ممنون! من الکل نمی‌نوشم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "all-",
+      "english": "all-",
+      "russian": "все-",
+      "farsi": "همه-"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sind alle Kinder da?",
+      "english": "Are all the children here?",
+      "russian": "Все ли дети здесь?",
+      "farsi": "همه بچه‌ها اینجا هستند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sonst noch etwas? – Nein, danke. Das ist alles.",
+      "english": "Anything else? – No, thank you. That's all.",
+      "russian": "Что-то еще? – Нет, спасибо. Это все.",
+      "farsi": "چیز دیگری؟ - نه، ممنون. همین است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Alles Gute!",
+      "english": "All the best!",
+      "russian": "Всего хорошего!",
+      "farsi": "همه چیز خوب!"
+    }
+  ]
+}

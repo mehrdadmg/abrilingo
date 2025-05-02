@@ -1,0 +1,1321 @@
+{
+  "info": {
+    "name": "B1_Plus_Fokus_02",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein Name ist Natalia Smirnova.",
+      "english": "My name is Natalia Smirnova.",
+      "russian": "Меня зовут Наталия Смирнова.",
+      "farsi": "نام من ناتالیا اسمیرنووا است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe in meiner Heimat Russisch studiert und war einige Jahre Russischlehrerin an einer staatlichen Schule.",
+      "english": "I studied Russian in my homeland and was a Russian teacher at a state school for several years.",
+      "russian": "Я изучала русский язык на родине и несколько лет была учителем русского языка в государственной школе.",
+      "farsi": "من در وطنم زبان روسی خواندم و چندین سال معلم زبان روسی در یک مدرسه دولتی بودم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Als ich dann nach Deutschland gekommen bin, war es für mich schwer, wieder so eine Arbeit zu finden – und eigentlich wollte ich beruflich auch gern etwas anderes machen.",
+      "english": "When I came to Germany, it was difficult for me to find such a job again – and actually, I also wanted to do something else professionally.",
+      "russian": "Когда я приехала в Германию, мне было трудно снова найти такую работу – и на самом деле я хотела профессионально заниматься чем-то другим.",
+      "farsi": "وقتی به آلمان آمدم، پیدا کردن چنین کاری برایم سخت بود - و در واقع، می‌خواستم حرفه‌ای کار دیگری انجام دهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Über eine Freundin habe ich dann eine Praktikumsstelle bei einer großen Konzertagentur gefunden.",
+      "english": "Through a friend, I then found an internship position at a large concert agency.",
+      "russian": "Через подругу я нашла место для стажировки в крупном концертном агентстве.",
+      "farsi": "از طریق یک دوست، من یک موقعیت کارآموزی در یک آژانس کنسرت بزرگ پیدا کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das war für mich ein großes Glück, denn ich interessiere mich sehr für Musik und Kultur allgemein.",
+      "english": "That was a great fortune for me because I am very interested in music and culture in general.",
+      "russian": "Это было для меня большой удачей, так как я очень интересуюсь музыкой и культурой в целом.",
+      "farsi": "این برای من یک خوش‌شانسی بزرگ بود زیرا من به موسیقی و فرهنگ به طور کلی بسیار علاقه دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und am besten war dann, dass die Agentur mir nach dem dreimonatigen Praktikum eine feste Stelle angeboten hat.",
+      "english": "And the best part was that the agency offered me a permanent position after the three-month internship.",
+      "russian": "А лучше всего было то, что агентство предложило мне постоянную должность после трехмесячной стажировки.",
+      "farsi": "و بهترین بخش این بود که آژانس پس از کارآموزی سه‌ماهه به من یک موقعیت دائمی پیشنهاد داد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Heute kümmere ich mich um Terminplanungen für Konzerte, ich reserviere Räume für Veranstaltungen und darf sogar bei der Programmplanung mitreden.",
+      "english": "Today, I take care of scheduling concerts, reserving venues for events, and I am even allowed to participate in program planning.",
+      "russian": "Сегодня я занимаюсь планированием концертов, бронированием помещений для мероприятий и даже могу участвовать в планировании программ.",
+      "farsi": "امروز من برنامه‌ریزی کنسرت‌ها، رزرو مکان‌ها برای رویدادها را انجام می‌دهم و حتی اجازه دارم در برنامه‌ریزی مشارکت کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Durch meine Arbeit habe ich sehr viel über Organisation gelernt und es war toll, dass die Chefs und meine Kollegen immer genug Zeit hatten, mich einzuarbeiten und mir alles genau zu erklären, was ich am Anfang noch nicht verstanden habe.",
+      "english": "Through my work, I have learned a lot about organization, and it was great that the bosses and my colleagues always had enough time to train me and explain everything I didn't understand at the beginning.",
+      "russian": "Благодаря моей работе я многому научилась в области организации, и было замечательно, что начальники и коллеги всегда находили достаточно времени, чтобы обучить меня и объяснить все, что я не понимала в начале.",
+      "farsi": "از طریق کارم چیزهای زیادی درباره سازماندهی یاد گرفتم و عالی بود که رئیس‌ها و همکارانم همیشه وقت کافی داشتند تا مرا آموزش دهند و همه چیزهایی که در ابتدا نمی‌فهمیدم را توضیح دهند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hallo, Mirko Park mein Name.",
+      "english": "Hello, my name is Mirko Park.",
+      "russian": "Здравствуйте, меня зовут Мирко Парк.",
+      "farsi": "سلام، نام من میرکو پارک است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich hatte über viele Jahre eine feste Anstellung als Elektriker in einer Handwerksfirma, aber dann hat diese Pleite gemacht und ich habe meine Arbeit verloren.",
+      "english": "For many years, I had a permanent position as an electrician in a craft company, but then it went bankrupt and I lost my job.",
+      "russian": "Много лет у меня была постоянная работа электриком в ремесленной компании, но потом она обанкротилась, и я потерял работу.",
+      "farsi": "برای سال‌های زیادی، من یک موقعیت دائمی به عنوان برقکار در یک شرکت صنایع دستی داشتم، اما سپس این شرکت ورشکست شد و کارم را از دست دادم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich war dann einige Zeit arbeitslos und habe viele Bewerbungen geschrieben, aber leider habe ich keine andere Elektrofirma gefunden, die mich fest einstellen wollte.",
+      "english": "I was unemployed for some time and wrote many applications, but unfortunately, I did not find another electrical company that wanted to hire me permanently.",
+      "russian": "Я был безработным некоторое время и написал много заявлений, но, к сожалению, не нашел другую электротехническую компанию, которая хотела бы взять меня на постоянную работу.",
+      "farsi": "من مدتی بیکار بودم و درخواست‌های زیادی نوشتم، اما متأسفانه هیچ شرکت برق دیگری پیدا نکردم که بخواهد مرا به صورت دائمی استخدام کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dann habe ich mich bei einer Zeitarbeitsfirma beworben.",
+      "english": "Then I applied to a temporary employment agency.",
+      "russian": "Затем я подал заявление в агентство временного трудоустройства.",
+      "farsi": "سپس در یک آژانس کاریابی موقت درخواست دادم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die hat mich an eine größere Firma vermittelt, wo ich jetzt arbeite.",
+      "english": "They placed me in a larger company where I now work.",
+      "russian": "Они направили меня в более крупную компанию, где я сейчас работаю.",
+      "farsi": "آن‌ها مرا به یک شرکت بزرگ‌تر معرفی کردند که اکنون در آن کار می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich verdiene jetzt zwar weniger als früher und auch weniger als die fest angestellten Mitarbeiter der Firma, aber ich bin froh, dass ich wieder Arbeit habe.",
+      "english": "I now earn less than before and also less than the permanently employed staff of the company, but I am glad to have work again.",
+      "russian": "Сейчас я зарабатываю меньше, чем раньше, и меньше, чем штатные сотрудники компании, но я рад, что снова у меня есть работа.",
+      "farsi": "اکنون کمتر از قبل و همچنین کمتر از کارکنان دائمی شرکت درآمد دارم، اما خوشحالم که دوباره کار دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bleibe noch zwei Monate in dieser Firma.",
+      "english": "I will stay in this company for another two months.",
+      "russian": "Я останусь в этой компании еще на два месяца.",
+      "farsi": "من دو ماه دیگر در این شرکت می‌مانم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich hoffe, dass die Zeitarbeitsfirma mich danach wieder an eine andere Firma vermitteln kann.",
+      "english": "I hope that the temporary employment agency can place me with another company afterwards.",
+      "russian": "Я надеюсь, что агентство временного трудоустройства сможет потом направить меня в другую компанию.",
+      "farsi": "امیدوارم که آژانس کاریابی موقت بتواند پس از آن مرا به یک شرکت دیگر معرفی کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein Mann Mustafa und ich, Naida Özil, haben eine Installateur- und Heizungsfirma.",
+      "english": "My husband Mustafa and I, Naida Özil, own an installation and heating company.",
+      "russian": "Мой муж Мустафа и я, Наида Озил, владеем компанией по установке и отоплению.",
+      "farsi": "همسرم مصطفی و من، نایدا اوزیل، یک شرکت نصب و سیستم‌های گرمایشی داریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir statten in Neubauten die Badezimmer mit Sanitäranlagen aus, verlegen Wasserleitungen und installieren, reparieren und warten Heizungen.",
+      "english": "We equip bathrooms in new buildings with sanitary facilities, lay water pipes, and install, repair, and maintain heating systems.",
+      "russian": "Мы оснащаем ванные комнаты в новостройках сантехническим оборудованием, прокладываем водопроводные трубы, а также устанавливаем, ремонтируем и обслуживаем системы отопления.",
+      "farsi": "ما حمام‌های ساختمان‌های نوساز را با تجهیزات بهداشتی مجهز می‌کنیم، لوله‌های آب را می‌کشیم و سیستم‌های گرمایشی را نصب، تعمیر و نگهداری می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Unser Betrieb ist nicht sehr groß, aber für einen Handwerksbetrieb auch nicht sehr klein.",
+      "english": "Our company is not very large, but for a craft business, it is not very small either.",
+      "russian": "Наша компания не очень большая, но для ремесленного предприятия она не слишком маленькая.",
+      "farsi": "شرکت ما خیلی بزرگ نیست، اما برای یک کسب‌وکار صنایع دستی خیلی هم کوچک محسوب نمی‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben 35 feste Mitarbeiter, die aber manchmal nicht ausreichen, wenn wir viele Aufträge gleichzeitig haben.",
+      "english": "We have 35 permanent employees, but they are sometimes insufficient when we have many orders simultaneously.",
+      "russian": "У нас 35 постоянных сотрудников, но их иногда не хватает, когда у нас много заказов одновременно.",
+      "farsi": "ما 35 کارمند دائمی داریم، اما گاهی وقتی سفارش‌های زیادی همزمان داریم، این تعداد کافی نیست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir arbeiten mit einer Leiharbeitsfirma zusammen, von der wir dann für einige Wochen oder Monate Arbeitskräfte bekommen, bis alle Aufträge erledigt sind.",
+      "english": "We collaborate with a temporary staffing agency from which we obtain workers for a few weeks or months until all orders are completed.",
+      "russian": "Мы сотрудничаем с агентством временного персонала, от которого получаем работников на несколько недель или месяцев, пока все заказы не будут выполнены.",
+      "farsi": "ما با یک آژانس نیروی کار موقت همکاری می‌کنیم که از آن نیروهای کاری برای چند هفته یا ماه دریافت می‌کنیم تا تمام سفارشات تکمیل شوند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Auf Großbaustellen kann das manchmal ziemlich lange dauern.",
+      "english": "On large construction sites, this can sometimes take quite a long time.",
+      "russian": "На крупных строительных площадках это иногда может занимать довольно много времени.",
+      "farsi": "در سایت‌های ساختمانی بزرگ، گاهی اوقات این کار ممکن است زمان زیادی ببرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das ist für uns sehr praktisch, denn so können wir flexibel auf die Auftragssituation reagieren – und für unser Stammpersonal ist garantiert, dass ihre Arbeitsplätze sicher sind.",
+      "english": "This is very practical for us, as it allows us to respond flexibly to order situations – and guarantees that our core staff's jobs are secure.",
+      "russian": "Это очень удобно для нас, так как мы можем гибко реагировать на ситуацию с заказами – и гарантировать нашим основным сотрудникам сохранность рабочих мест.",
+      "farsi": "این برای ما بسیار عملی است، زیرا به ما امکان می‌دهد تا به موقعیت سفارشات انعطاف‌پذیر پاسخ دهیم – و برای کارکنان اصلی ما تضمین می‌شود که شغل‌هایشان ایمن است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich, Frank Pauli, habe mehrere Restaurants in Hamburg, Kiel und Lübeck.",
+      "english": "I, Frank Pauli, own several restaurants in Hamburg, Kiel, and Lübeck.",
+      "russian": "Я, Франк Паули, владею несколькими ресторанами в Гамбурге, Киле и Любеке.",
+      "farsi": "من، فرانک پائولی، چندین رستوران در هامبورگ، کیل و لوبک دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Um Personal zu finden, nutze ich verschiedene Möglichkeiten.",
+      "english": "To find staff, I use various methods.",
+      "russian": "Чтобы найти персонал, я использую различные методы.",
+      "farsi": "برای یافتن پرسنل از روش‌های مختلفی استفاده می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Fachpersonal – wie zum Beispiel ausgebildete Köche – suche ich meistens mithilfe von Anzeigen in Zeitungen oder im Internet.",
+      "english": "For specialized staff – such as trained chefs – I usually search through advertisements in newspapers or on the internet.",
+      "russian": "Для поиска квалифицированного персонала – например, обученных поваров – я обычно использую объявления в газетах или интернете.",
+      "farsi": "برای پرسنل متخصص – مانند آشپزهای آموزش‌دیده – معمولاً از طریق آگهی‌ها در روزنامه‌ها یا اینترنت جستجو می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es kommt aber auch vor, dass meine Mitarbeiter Freunde oder Bekannte empfehlen, wenn in einem Restaurant Personal fehlt.",
+      "english": "It also happens that my employees recommend friends or acquaintances when a restaurant is short-staffed.",
+      "russian": "Также бывает, что мои сотрудники рекомендуют друзей или знакомых, когда в ресторане не хватает персонала.",
+      "farsi": "همچنین پیش می‌آید که کارمندان من دوستان یا آشنایان خود را معرفی می‌کنند، زمانی که در یک رستوران پرسنل کم است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und oft fragen auch Leute ganz direkt in einem Restaurant, ob es für sie eine Arbeitsmöglichkeit gibt.",
+      "english": "And often people directly ask in a restaurant if there is a job opportunity for them.",
+      "russian": "И часто люди напрямую спрашивают в ресторане, есть ли для них возможность работы.",
+      "farsi": "و اغلب مردم مستقیماً در یک رستوران می‌پرسند که آیا برایشان فرصت کاری وجود دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und wenn wir zum Beispiel gerade eine Bedienung suchen und die Person passt, stellen wir sie gerne ein.",
+      "english": "And if we are looking for a server, for example, and the person fits, we are happy to hire them.",
+      "russian": "И если мы, например, ищем официанта и человек подходит, мы с удовольствием его нанимаем.",
+      "farsi": "و اگر به عنوان مثال در حال حاضر به یک گارسون نیاز داریم و شخص مناسب است، ما با خوشحالی او را استخدام می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Für die Restaurants hat das viele Vorteile, denn so habe ich keinen großen Aufwand, Personal zu finden.",
+      "english": "This has many advantages for restaurants, as I don't have to make a big effort to find staff.",
+      "russian": "Это имеет много преимуществ для ресторанов, так как я не трачу много усилий на поиск персонала.",
+      "farsi": "این برای رستوران‌ها مزایای زیادی دارد، زیرا من برای یافتن پرسنل تلاش زیادی نمی‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Guten Tag, Frau Grube. Sie wollten mich sprechen?",
+      "english": "Good day, Mrs. Grube. Did you want to speak with me?",
+      "russian": "Добрый день, госпожа Грубе. Вы хотели меня видеть?",
+      "farsi": "سلام خانم گروبه. می‌خواستید با من صحبت کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Guten Tag, Herr Petrov, wir haben ab Mai eine neue Beschäftigung für Sie und die Firma Kahner IT-Lösungen, bei der Sie arbeiten sollen, hat uns einen Fragebogen geschickt, um sich über das Personal, das wir schicken, zu informieren.",
+      "english": "Good day, Mr. Petrov, we have a new employment opportunity for you starting in May, and the company Kahner IT Solutions, where you will be working, has sent us a questionnaire to gather information about the personnel we are sending.",
+      "russian": "Добрый день, господин Петров, у нас есть новая возможность трудоустройства для вас, начиная с мая, и компания Kahner IT Solutions, где вы будете работать, прислала нам опросник, чтобы получить информацию о персонале, которого мы отправляем.",
+      "farsi": "سلام آقای پتروف، ما از ماه می یک فرصت شغلی جدید برای شما داریم و شرکت Kahner IT Solutions، جایی که شما قرار است کار کنید، یک پرسشنامه برای ما فرستاده تا در مورد پرسنلی که ما می‌فرستیم اطلاعات جمع‌آوری کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Diesen Fragebogen möchte ich gerne gemeinsam mit Ihnen ausfüllen.",
+      "english": "I would like to fill out this questionnaire together with you.",
+      "russian": "Я хотел бы заполнить этот опросник вместе с вами.",
+      "farsi": "من می‌خواهم این پرسشنامه را به همراه شما پر کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ok. Was möchte die Firma wissen?",
+      "english": "Okay. What does the company want to know?",
+      "russian": "Хорошо. Что компания хочет знать?",
+      "farsi": "خوب. شرکت چه می‌خواهد بداند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Zunächst einmal Ihr Geburtsdatum.",
+      "english": "First of all, your date of birth.",
+      "russian": "Сначала ваша дата рождения.",
+      "farsi": "در ابتدا تاریخ تولد شما."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das habe ich schon eingetragen. Es ist der 18.6.1994, richtig?",
+      "english": "I have already entered it. It is June 18, 1994, correct?",
+      "russian": "Я уже внес это. Это 18 июня 1994 года, правильно?",
+      "farsi": "من این را قبلاً وارد کرده‌ام. این 18 ژوئن 1994 است، درست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ihre Adresse Buchenweg 12 in 73178 Sulz stimmt auch noch?",
+      "english": "Is your address still Buchenweg 12 in 73178 Sulz?",
+      "russian": "Ваш адрес по-прежнему Buchenweg 12 в 73178 Sulz?",
+      "farsi": "آدرس شما هنوز بوخِنوِگ ۱۲ در ۷۳۱۷۸ سولتس است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, da hat sich nichts geändert.",
+      "english": "Yes, nothing has changed there.",
+      "russian": "Да, там ничего не изменилось.",
+      "farsi": "بله، هیچ تغییری در آنجا ایجاد نشده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dann möchte die Firma Kahner gerne wissen, welchen Schulabschluss Sie haben.",
+      "english": "Then Kahner company would like to know what school qualification you have.",
+      "russian": "Тогда компания Kahner хотела бы узнать, какое у вас школьное образование.",
+      "farsi": "سپس شرکت کانر می‌خواهد بداند چه مدرک تحصیلی دارید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe den Realschulabschluss.",
+      "english": "I have a Realschulabschluss (secondary school leaving certificate).",
+      "russian": "У меня есть Realschulabschluss (аттестат об окончании средней школы).",
+      "farsi": "من دارای مدرک رئال‌شوله (دیپلم پایان دوره متوسطه) هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Danach habe ich bei der Firma Stoll in Stuttgart drei Jahre den Beruf des IT-Systemkaufmanns gelernt, aber ich kenne mich auch gut im Bereich Informatik aus.",
+      "english": "After that, I trained for three years as an IT systems merchant at Stoll company in Stuttgart, but I also have good knowledge in computer science.",
+      "russian": "После этого я три года обучался профессии IT-системного коммерсанта в компании Stoll в Штутгарте, но также хорошо разбираюсь в информатике.",
+      "farsi": "پس از آن، من سه سال به عنوان فروشنده سیستم‌های آی‌تی در شرکت اشتول در اشتوتگارت آموزش دیدم، اما در زمینه علوم کامپیوتر نیز دانش خوبی دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Gut, dann trage ich das hier ein. Ich sehe gerade, ich habe auch noch nicht eingetragen, seit wann Sie bei uns beschäftigt sind.",
+      "english": "Good, then I'll enter that here. I just noticed I haven't recorded when you started with us.",
+      "russian": "Хорошо, тогда я внесу это здесь. Я только что заметил, что не записал, когда вы начали у нас работать.",
+      "farsi": "خوب، پس آن را اینجا وارد می‌کنم. تازه متوجه شدم که تاریخ شروع کار شما را ثبت نکرده‌ام."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Haben Sie am 1. Juni oder 1. Juli 2018 bei uns angefangen?",
+      "english": "Did you start with us on June 1st or July 1st, 2018?",
+      "russian": "Вы начали у нас 1 июня или 1 июля 2018 года?",
+      "farsi": "آیا شما در ۱ ژوئن یا ۱ ژوئیه ۲۰۱۸ کار خود را با ما شروع کردید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Am 1. Juni war das.",
+      "english": "It was on June 1st.",
+      "russian": "Это было 1 июня.",
+      "farsi": "این در تاریخ ۱ ژوئن بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Firma Kahner wünscht auch Informationen über Ihre beiden letzten Einsätze in unserem Auftrag.",
+      "english": "Kahner company also wants information about your last two assignments under our commission.",
+      "russian": "Компания Kahner также хочет получить информацию о ваших последних двух заданиях по нашему поручению.",
+      "farsi": "شرکت کانر همچنین می‌خواهد اطلاعاتی درباره دو مأموریت آخر شما تحت نظر ما داشته باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der vorletzte Auftrag war für die Firma Attila.",
+      "english": "The second-to-last assignment was for Attila company.",
+      "russian": "Предпоследнее задание было для компании Attila.",
+      "farsi": "مأموریت ماقبل آخر برای شرکت آتیلا بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe zwei Monate, also von Mai bis Juni, in diesem Jahr dort mitgearbeitet, weil die Firma ein neues IT-System für die Stadtverwaltung aufgebaut hat.",
+      "english": "I worked there for two months, from May to June this year, because the company was setting up a new IT system for the city administration.",
+      "russian": "Я работал там два месяца, с мая по июнь этого года, потому что компания внедряла новую ИТ-систему для городской администрации.",
+      "farsi": "من به مدت دو ماه، از مه تا ژوئن امسال، در آنجا همکاری کردم زیرا شرکت در حال راه‌اندازی یک سیستم آی‌تی جدید برای شهرداری بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Zuletzt waren Sie bei der Firma Schmolke in Böblingen eingesetzt. Ist das richtig? Die Daten von Ihrem letzten Einsatz sind noch nicht in unser System eingetragen.",
+      "english": "Most recently, you were assigned to Schmolke company in Böblingen. Is that correct? The data from your last assignment has not yet been entered into our system.",
+      "russian": "В последний раз вы были направлены в компанию Schmolke в Бёблингене. Это правильно? Данные о вашем последнем задании еще не внесены в нашу систему.",
+      "farsi": "آخرین بار شما در شرکت شمولکه در بوبلینگن مستقر بودید. آیا این درست است؟ اطلاعات مربوط به آخرین مأموریت شما هنوز در سیستم ما وارد نشده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, bei der Firma Schmolke war ich drei Monate, von August bis Oktober.",
+      "english": "Yes, I was at Schmolke company for three months, from August to October.",
+      "russian": "Да, я был в компании Schmolke три месяца, с августа по октябрь.",
+      "farsi": "بله، من سه ماه در شرکت شمولکه بودم، از اوت تا اکتبر."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe einen Mitarbeiter vertreten, der sehr lange krank war.",
+      "english": "I substituted for an employee who was on prolonged sick leave.",
+      "russian": "Я заменял сотрудника, который долго болел.",
+      "farsi": "من جایگزین کارمندی شدم که مدت طولانی مریض بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Welche Aufgaben hatten Sie?",
+      "english": "What were your responsibilities?",
+      "russian": "Какие у вас были обязанности?",
+      "farsi": "وظایف شما چه بود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe Kunden beraten, die IT-Systeme installieren wollten.",
+      "english": "I advised clients who wanted to install IT systems.",
+      "russian": "Я консультировал клиентов, которые хотели установить ИТ-системы.",
+      "farsi": "من مشاوره‌هایی در مورد نصب سیستم‌های آی‌تی به مشتریان ارائه کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Würden Sie auch am Wochenende arbeiten?",
+      "english": "Would you also work on weekends?",
+      "russian": "Вы бы также работали на выходных?",
+      "farsi": "آیا شما در آخر هفته هم کار می‌کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Lieber nicht. Kreuzen Sie dort bitte „Nein“ an.",
+      "english": "I would rather not. Please mark 'No' there.",
+      "russian": "Лучше нет. Пожалуйста, отметьте там «Нет».",
+      "farsi": "بهتر است نه. لطفاً در آنجا «خیر» را علامت بزنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Noch eine letzte Frage: Haben Sie ein Auto?",
+      "english": "One last question: Do you have a car?",
+      "russian": "Последний вопрос: У вас есть машина?",
+      "farsi": "یک سوال آخر: آیا شما ماشین دارید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, ich habe eins.",
+      "english": "Yes, I have one.",
+      "russian": "Да, у меня есть.",
+      "farsi": "بله، من یک ماشین دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Außerdem brauche ich Ihre Einverständniserklärung, dass wir Ihre Daten weitergeben dürfen.",
+      "english": "Additionally, I need your consent form allowing us to share your data.",
+      "russian": "Кроме того, мне нужно ваше согласие на передачу ваших данных.",
+      "farsi": "علاوه بر این، به رضایت‌نامه شما نیاز دارم که اجازه می‌دهد اطلاعات شما را منتشر کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, gerne. Das Papier unterschreibe ich auch.",
+      "english": "Yes, gladly. I will also sign the document.",
+      "russian": "Да, с удовольствием. Я также подпишу документ.",
+      "farsi": "بله، با کمال میل. من این سند را نیز امضا می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vielen Dank, dann kann ich ja das Informationsformular an die Firma schicken.",
+      "english": "Thank you very much, then I can send the information form to the company.",
+      "russian": "Большое спасибо, тогда я могу отправить информационную форму в компанию.",
+      "farsi": "بسیار متشکرم، پس می‌توانم فرم اطلاعاتی را برای شرکت ارسال کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bei der Suche nach einer Arbeitsstelle ist es anfangs oft notwendig, die Stellenanzeigen in Zeitung oder Internet zu lesen oder auch Stellenanzeigen bei der Bundesagentur für Arbeit zu recherchieren.",
+      "english": "When searching for a job, it is often necessary at first to read job advertisements in newspapers or online or to research job postings on the Federal Employment Agency's website.",
+      "russian": "При поиске работы сначала часто необходимо просматривать вакансии в газетах или интернете или искать объявления на сайте Федерального агентства по трудоустройству.",
+      "farsi": "هنگام جستجوی شغل، در ابتدا اغلب لازم است آگهی‌های شغلی در روزنامه یا اینترنت را بخوانید یا آگهی‌های شغلی در وب‌سایت آژانس فدرال کار را جستجو کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn Sie ein passendes Angebot gefunden haben, müssen Sie ein gutes Bewerbungsschreiben formulieren.",
+      "english": "Once you find a suitable offer, you need to draft a strong application letter.",
+      "russian": "Как только вы найдете подходящее предложение, вам нужно составить убедительное сопроводительное письмо.",
+      "farsi": "وقتی پیشنهاد مناسب را پیدا کردید، باید یک نامه درخواست قوی بنویسید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dazu sollten Sie die Stellenanzeige noch einmal genau lesen und Notizen zu den folgenden Punkten machen:",
+      "english": "To do this, you should read the job advertisement carefully again and make notes on the following points:",
+      "russian": "Для этого вам следует внимательно ещё раз прочитать объявление о работе и сделать заметки по следующим пунктам:",
+      "farsi": "برای این کار باید آگهی شغلی را دوباره با دقت بخوانید و یادداشت‌هایی در مورد نکات زیر بردارید:"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was erwartet die Firma von dem neuen Mitarbeiter?",
+      "english": "What does the company expect from the new employee?",
+      "russian": "Чего компания ожидает от нового сотрудника?",
+      "farsi": "شرکت از کارمند جدید چه انتظاراتی دارد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wer ist der Ansprechpartner in der Firma?",
+      "english": "Who is the contact person in the company?",
+      "russian": "Кто является контактным лицом в компании?",
+      "farsi": "چه کسی در شرکت فرد مسئول تماس است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Erwartet die Firma eine Online- oder Offline-Bewerbung oder ist beides möglich?",
+      "english": "Does the company expect an online or offline application, or are both possible?",
+      "russian": "Компания ожидает онлайн- или оффлайн-заявку, или возможны оба варианта?",
+      "farsi": "آیا شرکت انتظار درخواست آنلاین یا آفلاین را دارد یا هر دو ممکن هستند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Brief muss fehlerfrei sein und sollte nicht länger als eine Seite sein.",
+      "english": "The letter must be error-free and should not be longer than one page.",
+      "russian": "Письмо должно быть без ошибок и не должно превышать одной страницы.",
+      "farsi": "نامه باید بدون اشتباه باشد و نباید بیشتر از یک صفحه باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es ist gut, wenn eine andere Person ihn noch einmal liest, bevor Sie ihn zusammen mit den anderen Unterlagen (Schulzeugnissen, Arbeitszeugnissen, Lebenslauf mit Foto) abschicken.",
+      "english": "It is good if another person reads it again before you send it along with the other documents (school certificates, job references, CV with photo).",
+      "russian": "Хорошо, если другой человек ещё раз прочитает его, прежде чем вы отправите его вместе с другими документами (школьными аттестатами, трудовыми рекомендациями, резюме с фотографией).",
+      "farsi": "خوب است اگر شخص دیگری آن را دوباره بخواند قبل از این‌که شما آن را همراه با سایر مدارک (گواهی‌های مدرسه، گواهی‌های کاری، رزومه با عکس) ارسال کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vergessen Sie auch nicht, sich genauer über die Firma zu informieren, bevor Sie Ihre Bewerbung starten.",
+      "english": "Also, don't forget to inform yourself more thoroughly about the company before you start your application.",
+      "russian": "Не забудьте также узнать больше о компании, прежде чем подавать заявление.",
+      "farsi": "فراموش نکنید که قبل از ارسال درخواست، اطلاعات بیشتری درباره شرکت کسب کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wichtige Informationen sind z.B. das Leitbild der Firma, die Produkte und eventuell auch die Mitarbeiterzahl und der Umsatz.",
+      "english": "Important information includes, for example, the company's mission statement, the products, and possibly also the number of employees and the turnover.",
+      "russian": "Важная информация включает, например, миссию компании, продукцию и, возможно, также количество сотрудников и оборот.",
+      "farsi": "اطلاعات مهم شامل مثلاً بیانیه ماموریت شرکت، محصولات و احتمالاً تعداد کارکنان و میزان فروش می‌باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn Sie zu einem Vorstellungsgespräch eingeladen werden, sollten Sie zunächst den Termin bestätigen oder – wenn Sie gar keine Zeit haben – um einen anderen Termin bitten.",
+      "english": "If you are invited to a job interview, you should first confirm the appointment or – if you have no time at all – ask for a different appointment.",
+      "russian": "Если вас пригласили на собеседование, вы должны сначала подтвердить встречу или – если у вас совсем нет времени – попросить другой срок.",
+      "farsi": "اگر به مصاحبه شغلی دعوت شدید، ابتدا باید وقت ملاقات را تأیید کنید یا – اگر اصلاً وقت ندارید – درخواست وقت دیگری بدهید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dann ist eine gute Vorbereitung auf das Gespräch wichtig.",
+      "english": "Then good preparation for the interview is important.",
+      "russian": "Тогда хорошая подготовка к собеседованию важна.",
+      "farsi": "در این صورت آمادگی خوب برای مصاحبه مهم است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im Internet informieren viele Webseiten über den typischen Verlauf eines Vorstellungsgesprächs und über häufige Fragen.",
+      "english": "On the internet, many websites provide information about the typical course of a job interview and common questions.",
+      "russian": "В интернете многие сайты информируют о типичном ходе собеседования и часто задаваемых вопросах.",
+      "farsi": "در اینترنت وب‌سایت‌های زیادی درباره روند معمول یک مصاحبه شغلی و سؤالات رایج اطلاعات ارائه می‌دهند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Gut ist auch, das Gespräch mit einem Freund, einer Freundin oder Bekannten zu üben.",
+      "english": "It is also good to practice the interview with a friend or acquaintance.",
+      "russian": "Также полезно потренироваться проходить собеседование с другом или знакомым.",
+      "farsi": "تمرین مصاحبه با یک دوست یا آشنا نیز مفید است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das gibt Ihnen im realen Vorstellungsgespräch Sicherheit.",
+      "english": "That gives you confidence in the real job interview.",
+      "russian": "Это придаёт уверенности на настоящем собеседовании.",
+      "farsi": "این در مصاحبه واقعی به شما اعتماد به نفس می‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Damit Sie pünktlich sind, sollten Sie den Weg zu Ihrem möglichen zukünftigen Arbeitgeber planen und eventuelle Verspätungen von öffentlichen Verkehrsmitteln einkalkulieren.",
+      "english": "To be on time, you should plan the route to your potential future employer and take into account possible delays in public transport.",
+      "russian": "Чтобы прийти вовремя, вы должны спланировать маршрут до вашего будущего работодателя и учесть возможные задержки общественного транспорта.",
+      "farsi": "برای اینکه به موقع برسید، باید مسیر رسیدن به کارفرمای احتمالی خود را برنامه‌ریزی کرده و تأخیر احتمالی وسایل حمل‌ونقل عمومی را در نظر بگیرید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bleiben Sie in dem Gespräch ruhig und vermitteln Sie einen sicheren Eindruck.",
+      "english": "Stay calm in the interview and convey a confident impression.",
+      "russian": "Оставайтесь спокойными на собеседовании и производите уверенное впечатление.",
+      "farsi": "در مصاحبه آرام بمانید و تصویری مطمئن از خود ارائه دهید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vergessen Sie nicht, sich am Ende bei Ihrem Gesprächspartner oder Ihrer Gesprächspartnerin zu bedanken.",
+      "english": "Don't forget to thank your interviewer at the end.",
+      "russian": "Не забудьте поблагодарить своего собеседника в конце.",
+      "farsi": "فراموش نکنید در پایان از مصاحبه‌کننده خود تشکر کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nach dem Vorstellungsgespräch beginnt meist die Wartezeit.",
+      "english": "After the interview, the waiting period usually begins.",
+      "russian": "После собеседования обычно начинается период ожидания.",
+      "farsi": "بعد از مصاحبه معمولاً دوره انتظار آغاز می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn man zum Beispiel nach einer Woche noch nichts von der Firma gehört hat, kann man auch anrufen und fragen, wie der Stand der Dinge ist.",
+      "english": "If, for example, you haven't heard from the company after a week, you can call and ask about the status.",
+      "russian": "Если, например, через неделю вы ничего не слышали от компании, можно позвонить и узнать, как обстоят дела.",
+      "farsi": "اگر مثلاً بعد از یک هفته هنوز چیزی از شرکت نشنیده‌اید، می‌توانید تماس بگیرید و وضعیت را جویا شوید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was ist wichtig, wenn man ein interessantes Stellenangebot gefunden hat?",
+      "english": "What is important when you have found an interesting job offer?",
+      "russian": "Что важно, когда вы нашли интересное предложение о работе?",
+      "farsi": "چه چیزی مهم است وقتی یک پیشنهاد شغلی جالب پیدا کرده‌اید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie sollte der Bewerbungsbrief sein?",
+      "english": "What should the application letter be like?",
+      "russian": "Каким должно быть сопроводительное письмо?",
+      "farsi": "نامه درخواست شغل باید چگونه باشد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was sollte man machen, bevor man die Bewerbungsunterlagen abschickt?",
+      "english": "What should you do before sending the application documents?",
+      "russian": "Что нужно сделать перед отправкой документов на работу?",
+      "farsi": "قبل از ارسال مدارک درخواست شغل چه کاری باید انجام داد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was ist zuerst wichtig, wenn man eine Einladung zu einem Vorstellungsgespräch bekommen hat?",
+      "english": "What is important first when you have received an invitation to a job interview?",
+      "russian": "Что сначала важно, когда вы получили приглашение на собеседование?",
+      "farsi": "اولین نکته مهم زمانی که دعوت‌نامه‌ای برای مصاحبه شغلی دریافت می‌کنید چیست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie kann man sich auf das Vorstellungsgespräch vorbereiten?",
+      "english": "How can you prepare for the job interview?",
+      "russian": "Как можно подготовиться к собеседованию?",
+      "farsi": "چگونه می‌توان برای مصاحبه شغلی آماده شد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was sollte man am Ende des Gesprächs machen?",
+      "english": "What should you do at the end of the interview?",
+      "russian": "Что нужно сделать в конце собеседования?",
+      "farsi": "در پایان مصاحبه چه کاری باید انجام داد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In Deutschland gibt es offiziell anerkannte Institutionen, die Arbeitsplätze vermitteln:",
+      "english": "In Germany, there are officially recognized institutions that mediate jobs:",
+      "russian": "В Германии существуют официально признанные учреждения, которые помогают с трудоустройством:",
+      "farsi": "در آلمان مؤسسات رسمی شناخته‌شده‌ای وجود دارند که در پیدا کردن شغل کمک می‌کنند:"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das ist erstens die Bundesagentur für Arbeit, zweitens sind es Zeitarbeitsfirmen.",
+      "english": "Firstly, this is the Federal Employment Agency, and secondly, temporary employment agencies.",
+      "russian": "Во-первых, это Федеральное агентство по труду, во-вторых, это агентства временной занятости.",
+      "farsi": "اولین مورد آژانس فدرال اشتغال است و دوم شرکت‌های کاریابی موقت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Bundesagentur für Arbeit ist eine staatliche Behörde, die 100.000 Mitarbeiter hat.",
+      "english": "The Federal Employment Agency is a government authority that has 100,000 employees.",
+      "russian": "Федеральное агентство по труду — это государственное учреждение с 100 000 сотрудников.",
+      "farsi": "آژانس فدرال اشتغال یک نهاد دولتی است که ۱۰۰٬۰۰۰ کارمند دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie nimmt verschiedene öffentliche Aufgaben wahr:",
+      "english": "It performs various public tasks:",
+      "russian": "Она выполняет различные общественные задачи:",
+      "farsi": "این نهاد وظایف عمومی مختلفی را بر عهده دارد:"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Eine sehr wichtige Aufgabe ist die Vermittlung von Arbeit.",
+      "english": "A very important task is job placement.",
+      "russian": "Очень важная задача — это содействие в трудоустройстве.",
+      "farsi": "یکی از وظایف بسیار مهم، یافتن شغل برای افراد است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Außerdem bietet sie zum Beispiel eine Berufsberatung für Jugendliche an, die bald die Schule beenden, und sie zahlt das Arbeitslosengeld aus.",
+      "english": "It also offers career counseling for young people who are about to finish school, and it pays unemployment benefits.",
+      "russian": "Кроме того, она предлагает профессиональное консультирование для молодежи, которая скоро окончит школу, и выплачивает пособие по безработице.",
+      "farsi": "همچنین مشاوره شغلی برای نوجوانانی که به‌زودی مدرسه را تمام می‌کنند ارائه می‌دهد و کمک‌هزینه بیکاری پرداخت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Zudem bietet sie finanzielle Hilfen an, zum Beispiel wenn jemand ein eigenes Geschäft eröffnen will.",
+      "english": "It also offers financial assistance, for example if someone wants to start their own business.",
+      "russian": "Кроме того, она предлагает финансовую помощь, например, если кто-то хочет открыть собственное дело.",
+      "farsi": "علاوه بر این، کمک‌های مالی نیز ارائه می‌دهد، مثلاً وقتی کسی بخواهد کسب‌وکار خودش را راه‌اندازی کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Berufsinformationszentren haben Internetarbeitsplätze, an denen man nach Stellen suchen kann.",
+      "english": "The career information centers have internet workstations where you can search for job vacancies.",
+      "russian": "Центры профессиональной информации имеют интернет-терминалы, где можно искать вакансии.",
+      "farsi": "مراکز اطلاع‌رسانی شغلی دارای ایستگاه‌های اینترنتی هستند که می‌توان در آن‌ها به دنبال شغل گشت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn man zum Beispiel Hilfe für eine Bewerbung braucht, kann man einen Termin vereinbaren.",
+      "english": "If you need help with a job application, for example, you can make an appointment.",
+      "russian": "Если, например, нужна помощь с заявлением о приеме на работу, можно договориться о встрече.",
+      "farsi": "اگر مثلاً برای نوشتن درخواست شغلی نیاز به کمک داشته باشید، می‌توانید یک قرار ملاقات تعیین کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bei der Bundesagentur ist auch die Familienkasse, bei der man das Kindergeld beantragt und die das Kindergeld auch auszahlt.",
+      "english": "The family benefits office is also part of the Federal Employment Agency, where you apply for child benefits and where they are paid out.",
+      "russian": "Семейная касса также находится при Федеральном агентстве по труду, там можно подать заявление на детское пособие и получить его.",
+      "farsi": "صندوق خانواده نیز در آژانس فدرال اشتغال قرار دارد، جایی که می‌توانید برای دریافت کمک‌هزینه کودک اقدام کرده و آن را دریافت کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Anders als Zeitarbeitsfirmen verdient die Bundesagentur mit der Vermittlung von Arbeit kein Geld.",
+      "english": "Unlike temporary employment agencies, the Federal Employment Agency does not make money from job placement.",
+      "russian": "В отличие от агентств временной занятости, Федеральное агентство по труду не зарабатывает деньги на трудоустройстве.",
+      "farsi": "برخلاف شرکت‌های کاریابی موقت، آژانس فدرال اشتغال از واسطه‌گری شغلی درآمدی کسب نمی‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie finanziert sich vor allem durch die Beiträge, die die Arbeitnehmenden für die Arbeitslosenversicherung bezahlen.",
+      "english": "It is mainly financed through the contributions employees pay for unemployment insurance.",
+      "russian": "Она финансируется главным образом за счёт взносов, которые работники платят на страхование от безработицы.",
+      "farsi": "منبع مالی اصلی آن از طریق حق‌بیمه‌هایی است که کارمندان برای بیمه بیکاری پرداخت می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Zeitarbeitsfirmen sind Privatfirmen.",
+      "english": "Temporary employment agencies are private companies.",
+      "russian": "Агентства временной занятости — это частные компании.",
+      "farsi": "شرکت‌های کاریابی موقت شرکت‌های خصوصی هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie stellen Arbeitnehmende an, die dann bei einer anderen Firma eingesetzt werden, zum Beispiel für ein bestimmtes Projekt, das nur einige Monate dauert.",
+      "english": "They hire employees who are then assigned to work at another company, for example, for a specific project that only lasts a few months.",
+      "russian": "Они нанимают работников, которых затем направляют в другую фирму, например, для выполнения определённого проекта, который длится всего несколько месяцев.",
+      "farsi": "آن‌ها کارمندانی را استخدام می‌کنند که سپس در یک شرکت دیگر مشغول به کار می‌شوند، مثلاً برای پروژه‌ای خاص که فقط چند ماه طول می‌کشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn ein Einsatz beendet ist, muss die Zeitarbeitsfirma eine andere Beschäftigung für die Arbeitnehmenden finden, denn die Arbeitnehmenden werden nicht automatisch arbeitslos, sondern bleiben bei der Zeitarbeitsfirma angestellt.",
+      "english": "When an assignment ends, the temp agency must find another job for the employees, because they do not automatically become unemployed, but remain employed by the temp agency.",
+      "russian": "Когда задание заканчивается, агентство временной занятости должно найти работникам другую работу, так как они не становятся автоматически безработными, а остаются в штате агентства.",
+      "farsi": "وقتی یک مأموریت کاری تمام می‌شود، شرکت کاریابی باید شغل دیگری برای کارکنان پیدا کند، چون آن‌ها به‌طور خودکار بیکار نمی‌شوند، بلکه همچنان در استخدام شرکت کاریابی هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie bekommen also ihr Gehalt nicht von der Firma, für die sie aktuell arbeiten, sondern von der Zeitarbeitsfirma.",
+      "english": "So they do not receive their salary from the company they currently work for, but from the temp agency.",
+      "russian": "Значит, зарплату они получают не от компании, в которой сейчас работают, а от агентства временной занятости.",
+      "farsi": "بنابراین آن‌ها حقوق خود را از شرکتی که در حال حاضر در آن کار می‌کنند دریافت نمی‌کنند، بلکه از شرکت کاریابی دریافت می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Darum sagt man, dass die Arbeitnehmenden von der Zeitarbeitsfirma an eine andere Firma „ausgeliehen“ werden, und spricht auch von Leiharbeit.",
+      "english": "That is why people say that employees are 'lent' by the temp agency to another company, and this is also called temporary employment.",
+      "russian": "Поэтому говорят, что работники «одалживаются» агентством другой фирме, и это называется заемным трудом.",
+      "farsi": "به همین دلیل گفته می‌شود که کارمندان توسط شرکت کاریابی به شرکت دیگری «قرض داده می‌شوند» و به این نوع کار، کار موقت یا کار قرضی می‌گویند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Firma, für die die Arbeitnehmenden aktuell arbeiten, zahlt an die Zeitarbeitsfirma eine Vermittlungsgebühr.",
+      "english": "The company the employees are currently working for pays a placement fee to the temp agency.",
+      "russian": "Компания, в которой сейчас работают сотрудники, платит агентству временной занятости комиссию за трудоустройство.",
+      "farsi": "شرکتی که کارمندان در حال حاضر در آن کار می‌کنند، به شرکت کاریابی مبلغی به عنوان هزینه واسطه‌گری پرداخت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Für Zeitarbeitsfirmen und Leiharbeit gelten strenge Regeln.",
+      "english": "There are strict rules for temp agencies and temporary employment.",
+      "russian": "Для агентств временной занятости и заемного труда действуют строгие правила.",
+      "farsi": "برای شرکت‌های کاریابی موقت و کار موقت قوانین سخت‌گیرانه‌ای وجود دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "So brauchen die Firmen eine staatliche Genehmigung für ihre Tätigkeit.",
+      "english": "Companies need a government license for their activities.",
+      "russian": "Таким компаниям требуется государственная лицензия на их деятельность.",
+      "farsi": "این شرکت‌ها به مجوز دولتی برای فعالیت خود نیاز دارند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Außerdem darf ein Arbeitnehmender nicht mehr als 18 Monate für eine Firma arbeiten.",
+      "english": "Furthermore, an employee may not work for a company for more than 18 months.",
+      "russian": "Кроме того, работник не может работать в одной компании более 18 месяцев.",
+      "farsi": "علاوه بر این، یک کارمند نباید بیش از ۱۸ ماه در یک شرکت کار کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der sogenannte Kettenverleih ist verboten.",
+      "english": "The so-called chain leasing is prohibited.",
+      "russian": "Так называемая цепная аренда запрещена.",
+      "farsi": "آنچه «قرض‌دهی زنجیره‌ای» نامیده می‌شود، ممنوع است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ein Betrieb, der Leiharbeiter beschäftigt, darf diese also nicht weiter an andere Firmen verleihen.",
+      "english": "A company that employs temporary workers may therefore not lend them to other companies.",
+      "russian": "Предприятие, использующее заемных работников, не имеет права передавать их другим компаниям.",
+      "farsi": "شرکتی که کارگران موقتی را به کار می‌گیرد، اجازه ندارد آن‌ها را به شرکت‌های دیگر قرض دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe Geschichte und Soziologie studiert und nach dem Studium war es für mich zuerst genau genommen unmöglich, eine passende Stelle zu finden, denn es gab fast keine passenden Stellenangebote.",
+      "english": "I studied history and sociology and after graduation, it was practically impossible for me to find a suitable job because there were almost no suitable job offers.",
+      "russian": "Я изучал историю и социологию, и после окончания учебы мне было практически невозможно найти подходящую работу, так как почти не было соответствующих вакансий.",
+      "farsi": "من تاریخ و جامعه‌شناسی خواندم و بعد از فارغ‌التحصیلی، در واقع برایم پیدا کردن یک شغل مناسب تقریباً غیرممکن بود، چون تقریباً هیچ آگهی شغلی مناسبی وجود نداشت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe dann in einem Café gejobbt und hatte Glück, denn in dem Café war ein Journalist Stammgast, mit dem ich ins Gespräch gekommen bin.",
+      "english": "I then worked in a café and was lucky because a journalist was a regular there, and I got into a conversation with him.",
+      "russian": "Потом я подрабатывал в кафе и мне повезло, потому что там常 бывал журналист, с которым я завел разговор.",
+      "farsi": "بعداً در یک کافه کار کردم و خوش‌شانس بودم، چون یک روزنامه‌نگار مشتری دائم آنجا بود و با او وارد گفتگو شدم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat mir dann den Kontakt zu unserer Lokalzeitung vermittelt und nach einem Gespräch mit dem Redaktionsleiter habe ich einige kleine Artikel über unsere Stadtgeschichte geschrieben, die bei den Lesern sehr gut ankamen.",
+      "english": "He then connected me with our local newspaper, and after a conversation with the editor-in-chief, I wrote some short articles about our city's history, which were very well received by the readers.",
+      "russian": "Он установил для меня контакт с нашей местной газетой, и после беседы с главным редактором я написал(а) несколько коротких статей о нашей городской истории, которые очень понравились читателям.",
+      "farsi": "او مرا با روزنامه محلی‌مان آشنا کرد و بعد از گفتگویی با سردبیر، چند مقاله کوتاه درباره تاریخ شهرمان نوشتم که خوانندگان خیلی دوست داشتند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "So wurde ich langsam bekannt und bekam immer mehr Aufträge.",
+      "english": "That’s how I slowly became known and received more and more assignments.",
+      "russian": "Так я постепенно стал(а) известным(ой) и получал(а) все больше заказов.",
+      "farsi": "به این صورت کم‌کم شناخته شدم و سفارش‌های بیشتری دریافت کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Heute bin ich freiberufliche Autorin und kann von meiner Arbeit gut leben.",
+      "english": "Today, I am a freelance author and can make a good living from my work.",
+      "russian": "Сегодня я работаю внештатным(ой) автором и могу хорошо зарабатывать своей работой.",
+      "farsi": "امروزه من نویسنده‌ای فریلنسر هستم و می‌توانم از کارم زندگی خوبی داشته باشم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Arbeitssuche war für mich lange kein Thema.",
+      "english": "Job searching was not an issue for me for a long time.",
+      "russian": "Поиск работы долгое время не был для меня актуален.",
+      "farsi": "برای مدت طولانی جستجوی کار برایم موضوعی نبود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nach meiner Ausbildung hat mich die Firma, in der ich meine Ausbildung zum Industriekaufmann gemacht habe, direkt übernommen.",
+      "english": "After my training, the company where I trained as an industrial clerk hired me directly.",
+      "russian": "После моего обучения компания, в которой я проходил(а) обучение на промышленного клерка, сразу приняла меня на работу.",
+      "farsi": "بعد از دوره آموزشی‌ام، شرکتی که در آن به عنوان کارمند صنعتی آموزش دیده بودم، بلافاصله مرا استخدام کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber nach 25 Jahren hat die Firma Pleite gemacht und ich stand auf der Straße.",
+      "english": "But after 25 years, the company went bankrupt and I was out on the street.",
+      "russian": "Но после 25 лет компания обанкротилась, и я остался(ась) без работы.",
+      "farsi": "اما پس از ۲۵ سال شرکت ورشکست شد و من بیکار شدم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es war dann sehr schwer, eine neue Arbeit zu finden.",
+      "english": "It was then very difficult to find a new job.",
+      "russian": "После этого было очень трудно найти новую работу.",
+      "farsi": "پیدا کردن کار جدید واقعاً سخت بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe über hundert Bewerbungen an Firmen in ganz Deutschland geschrieben, aber viele Firmen haben gar nicht geantwortet.",
+      "english": "I wrote over a hundred applications to companies all over Germany, but many didn't respond at all.",
+      "russian": "Я отправил(а) более ста заявлений в компании по всей Германии, но многие вообще не ответили.",
+      "farsi": "بیش از صد درخواست کاری برای شرکت‌های سراسر آلمان فرستادم، اما بسیاری از آن‌ها اصلاً پاسخی ندادند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nur sehr wenige haben mich zu einem Gespräch eingeladen, ohne dass ich eine Stelle bekommen habe.",
+      "english": "Only very few invited me for an interview, but I didn't get a job.",
+      "russian": "Лишь немногие пригласили меня на собеседование, но работу я так и не получил(а).",
+      "farsi": "فقط تعداد کمی مرا به مصاحبه دعوت کردند، اما کاری به دست نیاوردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dann habe ich in einem Radiobeitrag gehört, dass die Deutsche Bahn dringend Lokomotivführer sucht, und habe einfach mal dort angerufen.",
+      "english": "Then I heard in a radio report that Deutsche Bahn was urgently looking for train drivers, so I just gave them a call.",
+      "russian": "Потом я услышал(а) по радио, что Deutsche Bahn срочно ищет машинистов, и просто позвонил(а) туда.",
+      "farsi": "بعد در یک برنامه رادیویی شنیدم که راه‌آهن آلمان به شدت به دنبال لوکوموتیوران است، پس فقط با آن‌ها تماس گرفتم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Schon vier Tage später hatte ich einen Gesprächstermin und jetzt mache ich eine neue Ausbildung und werde schon bald Züge auf der Strecke zwischen Karlsruhe und Basel fahren.",
+      "english": "Just four days later I had an interview appointment, and now I am doing a new training and will soon be driving trains on the route between Karlsruhe and Basel.",
+      "russian": "Уже через четыре дня у меня было собеседование, и сейчас я прохожу новое обучение и скоро буду водить поезда по маршруту между Карлсруэ и Базелем.",
+      "farsi": "فقط چهار روز بعد یک وقت مصاحبه داشتم، و حالا در حال گذراندن آموزش جدیدی هستم و به زودی قطارهایی را در مسیر بین کارلسروهه و بازل هدایت خواهم کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nach meiner Ausbildung zur Versicherungsfachfrau habe ich vier Jahre bei einer großen Versicherung in Ludwigshafen gearbeitet und bin dort auch Bereichsleiterin geworden.",
+      "english": "After my training as an insurance specialist, I worked for four years at a large insurance company in Ludwigshafen and also became a department head there.",
+      "russian": "После обучения на специалиста по страхованию я четыре года проработала в крупной страховой компании в Людвигсхафене и стала там руководителем отдела.",
+      "farsi": "بعد از آموزش به عنوان کارشناس بیمه، چهار سال در یک شرکت بزرگ بیمه در لودویگسهافن کار کردم و در آنجا رئیس بخش شدم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dann hat mein Mann ein sehr gutes Angebot bekommen, Geschäftsführer einer großen Möbelfirma in München zu werden.",
+      "english": "Then my husband received a very good offer to become the managing director of a large furniture company in Munich.",
+      "russian": "Затем мой муж получил очень хорошее предложение стать управляющим директором крупной мебельной компании в Мюнхене.",
+      "farsi": "سپس همسرم یک پیشنهاد بسیار خوب برای مدیرعاملی یک شرکت بزرگ مبلمان در مونیخ دریافت کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben lange diskutiert, ob wir das Angebot annehmen sollten, denn es war klar, dass ich meine Stelle aufgeben musste.",
+      "english": "We discussed for a long time whether we should accept the offer, because it was clear that I would have to give up my job.",
+      "russian": "Мы долго обсуждали, стоит ли принимать предложение, так как было ясно, что мне придётся оставить свою работу.",
+      "farsi": "ما مدت زیادی در مورد اینکه آیا باید این پیشنهاد را بپذیریم بحث کردیم، چون مشخص بود که باید کارم را ترک کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben uns dann entschieden, dass mein Mann zuerst alleine nach München umzieht und ich nachkomme, wenn ich selbst eine gute Stelle gefunden habe.",
+      "english": "We then decided that my husband would move to Munich first and I would follow once I had found a good job myself.",
+      "russian": "Мы решили, что сначала мой муж переедет в Мюнхен один, а я присоединюсь позже, когда найду хорошую работу.",
+      "farsi": "سپس تصمیم گرفتیم که همسرم ابتدا به تنهایی به مونیخ برود و من وقتی خودم شغل خوبی پیدا کردم به او ملحق شوم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das hat dann auch sehr schnell geklappt.",
+      "english": "That worked out very quickly.",
+      "russian": "Это получилось очень быстро.",
+      "farsi": "این موضوع خیلی سریع پیش رفت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe mich bei mehreren Versicherungen in München beworben und auch schnell ein sehr gutes Angebot bekommen.",
+      "english": "I applied to several insurance companies in Munich and quickly received a very good offer.",
+      "russian": "Я подала заявления в несколько страховых компаний в Мюнхене и быстро получила очень хорошее предложение.",
+      "farsi": "من برای چند شرکت بیمه در مونیخ درخواست دادم و خیلی زود یک پیشنهاد بسیار خوب دریافت کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dabei war es sicher ein Vorteil, dass ich eine verantwortungsvolle und leitende Funktion in der Ludwigshafener Versicherung hatte und dass ich meinen Wunsch, die Stelle zu wechseln, gut begründen konnte.",
+      "english": "It was certainly an advantage that I had a responsible and managerial role at the insurance company in Ludwigshafen and that I could clearly explain my desire to change jobs.",
+      "russian": "Преимуществом было то, что у меня была ответственная руководящая должность в страховой компании Людвигсхафена и что я смогла хорошо обосновать своё желание сменить работу.",
+      "farsi": "مزیت این بود که من در شرکت بیمه لودویگسهافن نقش مدیریتی و مسئولانه‌ای داشتم و توانستم دلیل خوبی برای تغییر شغلم ارائه دهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich studiere Bauingenieurswesen an der Fachhochschule Unterrode in einem dualen Studiengang.",
+      "english": "I am studying civil engineering at the University of Applied Sciences in Unterrode in a dual study program.",
+      "russian": "Я изучаю строительство в прикладном университете в Унтерроде по дуальной программе обучения.",
+      "farsi": "من در دانشگاه علوم کاربردی اونترروده در رشته مهندسی عمران در یک برنامه تحصیلی دوگانه تحصیل می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dualer Studiengang bedeutet, dass ich einen Vertrag mit einer Firma habe, der Hochbau Tief, die mir auch ein Gehalt bezahlt.",
+      "english": "A dual study program means that I have a contract with a company, Hochbau Tief, which also pays me a salary.",
+      "russian": "Дуальная программа обучения означает, что у меня есть контракт с компанией Hochbau Tief, которая также платит мне зарплату.",
+      "farsi": "برنامه تحصیلی دوگانه به این معنی است که من قراردادی با یک شرکت دارم به نام Hochbau Tief که به من حقوق هم می‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das theoretische Studium an der Fachhochschule ist eng mit Praxissemestern und Praktika bei Hochbau Tief verbunden.",
+      "english": "Theoretical studies at the university are closely linked with practical semesters and internships at Hochbau Tief.",
+      "russian": "Теоретическое обучение в университете тесно связано с практическими семестрами и стажировками в Hochbau Tief.",
+      "farsi": "تحصیلات نظری در دانشگاه به طور نزدیک با دوره‌های عملی و کارآموزی‌ها در Hochbau Tief مرتبط است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Um meine berufliche Zukunft muss ich mir keine Sorgen machen, denn die Firma investiert viel Geld in mein Studium und wird mich nach meinem Bachelorabschluss übernehmen.",
+      "english": "I don't have to worry about my professional future because the company invests a lot of money in my studies and will hire me after I complete my Bachelor's degree.",
+      "russian": "Мне не нужно беспокоиться о своём профессиональном будущем, потому что компания инвестирует много денег в моё обучение и возьмёт меня на работу после окончания бакалавриата.",
+      "farsi": "من نیازی به نگرانی در مورد آینده شغلی‌ام ندارم چون شرکت سرمایه زیادی در تحصیلات من می‌گذارد و پس از اتمام مدرک کارشناسی من را استخدام خواهد کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das steht auch in meinem Ausbildungsvertrag.",
+      "english": "This is also stated in my training contract.",
+      "russian": "Это также указано в моём учебном контракте.",
+      "farsi": "این موضوع همچنین در قرارداد آموزشی من ذکر شده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Viel schwieriger war es, eine Partnerfirma für das duale Studium zu finden.",
+      "english": "It was much harder to find a partner company for the dual study program.",
+      "russian": "Намного сложнее было найти партнёрскую компанию для дуальной программы обучения.",
+      "farsi": "یافتن یک شرکت شریک برای برنامه تحصیلی دوگانه بسیار سخت‌تر بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Alle Firmen, bei denen ich mich beworben habe, haben mich zu zwei, einige sogar zu drei Gesprächsrunden eingeladen und Hochbau Tief hatte sogar zwölf Bewerber gleichzeitig eingeladen – für zwei freie Studienplätze.",
+      "english": "All the companies I applied to invited me to two, some even three interview rounds, and Hochbau Tief even invited twelve applicants at the same time – for two available study spots.",
+      "russian": "Все компании, в которые я подавал заявки, пригласили меня на два, некоторые даже на три раунда собеседований, а компания Hochbau Tief пригласила двенадцать кандидатов одновременно — на два свободных места для учёбы.",
+      "farsi": "تمام شرکت‌هایی که به آن‌ها درخواست داده بودم من را به دو جلسه مصاحبه دعوت کردند، برخی حتی به سه جلسه و شرکت Hochbau Tief حتی دوازده متقاضی را به طور همزمان دعوت کرد – برای دو جای خالی در برنامه تحصیلی."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich stand also elf Konkurrenten direkt gegenüber.",
+      "english": "So, I was directly competing against eleven other candidates.",
+      "russian": "Так что я конкурировал напрямую с одиннадцатью другими кандидатами.",
+      "farsi": "پس من مستقیماً با یازده رقیب دیگر روبرو بودم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das war wirklich hart und ich war ziemlich angespannt.",
+      "english": "That was really tough, and I was quite tense.",
+      "russian": "Это было действительно тяжело, и я была довольно напряжена.",
+      "farsi": "این واقعاً سخت بود و من خیلی عصبی بودم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber meine Präsentation war wohl überzeugend, denn ich habe einen Studienplatz bekommen.",
+      "english": "But my presentation must have been convincing, because I got a study place.",
+      "russian": "Но моя презентация, видимо, была убедительной, потому что я получила место для учёбы.",
+      "farsi": "اما به نظر می‌رسد که ارائه من قانع‌کننده بود چون من یک جای تحصیلی گرفتم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Warum konnte Gisela Rego keine passende Stelle finden?",
+      "english": "Why could Gisela Rego not find a suitable job?",
+      "russian": "Почему Жизела Рего не могла найти подходящую работу?",
+      "farsi": "چرا جی‌زیلا ریگو نتوانست شغل مناسبی پیدا کند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie hat sie Kontakt zu der Lokalzeitung bekommen?",
+      "english": "How did she get in contact with the local newspaper?",
+      "russian": "Как она связалась с местной газетой?",
+      "farsi": "چطور او با روزنامه محلی تماس گرفت؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Welche Erfahrung hat Daniel Mühl bei der Arbeitssuche am Anfang gemacht?",
+      "english": "What experience did Daniel Mühl have at the beginning of his job search?",
+      "russian": "Какой опыт имел Даниэль Мюль в начале поиска работы?",
+      "farsi": "دانیل میول در شروع جستجوی شغل چه تجربه‌ای داشت؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie ist er mit der Deutschen Bahn in Kontakt gekommen?",
+      "english": "How did he get in contact with the Deutsche Bahn?",
+      "russian": "Как он связался с Deutsche Bahn?",
+      "farsi": "چطور او با راه‌آهن آلمان تماس گرفت؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Warum hat Samar Khosa ihre Stelle gekündigt?",
+      "english": "Why did Samar Khosa quit her job?",
+      "russian": "Почему Самар Хоса уволилась с работы?",
+      "farsi": "چرا سمار خوسا شغل خود را ترک کرد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was ist ein duales Studium?",
+      "english": "What is a dual study program?",
+      "russian": "Что такое дуальная программа обучения?",
+      "farsi": "برنامه تحصیلی دوگانه چیست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Welche Garantie hat Benjamin Johnson nach dem Ende der Ausbildung?",
+      "english": "What guarantee does Benjamin Johnson have after completing his training?",
+      "russian": "Какая гарантия есть у Бенжамина Джонсона после завершения его обучения?",
+      "farsi": "بنجامین جانسون بعد از اتمام تحصیلاتش چه تضمینی دارد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bis vor drei Jahren war ich Mitarbeiterin in einer Leiharbeitsfirma, die mich in viele verschiedene Unternehmen geschickt hat.",
+      "english": "Until three years ago, I was an employee in a temp agency, which sent me to many different companies.",
+      "russian": "До трёх лет назад я работала в агентстве временных работ, которое отправляло меня в различные компании.",
+      "farsi": "تا سه سال پیش من در یک شرکت کاریابی موقت کار می‌کردم که من را به شرکت‌های مختلف می‌فرستاد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich hatte in den zweieinhalb Jahren, in denen ich für die Firma gearbeitet habe, insgesamt neun verschiedene Einsatzorte.",
+      "english": "In the two and a half years I worked for the company, I had a total of nine different work locations.",
+      "russian": "За два с половиной года, которые я проработала в компании, у меня было девять различных рабочих мест.",
+      "farsi": "در دو سال و نیم که من برای این شرکت کار می‌کردم، در مجموع نه مکان کاری مختلف داشتم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dann hat mir schließlich die letzte Firma, in der ich als Leiharbeiterin gearbeitet habe, eine feste Stelle angeboten – darüber bin ich jetzt sehr froh.",
+      "english": "Then the last company I worked for as a temp finally offered me a permanent position – I'm very happy about that now.",
+      "russian": "Затем последняя компания, в которой я работала временным сотрудником, предложила мне постоянную должность — я очень рада этому.",
+      "farsi": "سپس آخرین شرکتی که من به عنوان کارگر موقت در آن کار می‌کردم، یک شغل دائمی به من پیشنهاد داد – من اکنون از این بابت بسیار خوشحالم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich verdiene mehr und habe mehr Sicherheit, denn sehr oft war nicht sicher, wie es weitergeht, wenn ein Einsatz für die Leiharbeitsfirma beendet war.",
+      "english": "I earn more and have more security, because it was often uncertain what would happen when an assignment for the temp agency ended.",
+      "russian": "Я зарабатываю больше и имею больше безопасности, потому что часто было неясно, что будет происходить, когда задание для временной рабочей компании завершится.",
+      "farsi": "من بیشتر درآمد دارم و امنیت بیشتری دارم، چون اغلب مشخص نبود که وقتی مأموریت برای شرکت کاریابی موقت تمام می‌شود، چه پیش خواهد آمد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Für mich war ein großer Nachteil der Leiharbeit, dass ich weniger verdient habe als die festen Mitarbeiter, obwohl ich dieselbe Arbeit gemacht habe.",
+      "english": "For me, a big disadvantage of temp work was that I earned less than the permanent employees, even though I did the same work.",
+      "russian": "Для меня большим недостатком временной работы было то, что я зарабатывала меньше, чем постоянные сотрудники, хотя выполняла ту же работу.",
+      "farsi": "برای من یک معایب بزرگ از کار موقت این بود که من کمتر از کارکنان دائمی درآمد داشتم، حتی اگر همان کار را انجام می‌دادم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich denke, eigentlich haben nur Arbeitgeber Vorteile von der Leiharbeit, weil sie in ihrer Personalplanung flexibler sind.",
+      "english": "I think, actually, only employers benefit from temp work because they are more flexible in their personnel planning.",
+      "russian": "Я думаю, что на самом деле выгоду от временной работы получают только работодатели, потому что они более гибки в планировании персонала.",
+      "farsi": "من فکر می‌کنم که در واقع تنها کارفرمایان از کار موقت بهره‌مند می‌شوند چون آنها در برنامه‌ریزی نیروی کار انعطاف‌پذیرتر هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe noch nie für eine Leiharbeitsfirma gearbeitet, aber ich habe einige Bekannte, die schon Leiharbeitsverträge hatten.",
+      "english": "I have never worked for a temp agency, but I have some acquaintances who have had temp contracts.",
+      "russian": "Я никогда не работала в агентстве временных работ, но у меня есть знакомые, которые уже имели контракты на временную работу.",
+      "farsi": "من هرگز برای یک شرکت کاریابی موقت کار نکرده‌ام، اما چند آشنا دارم که قراردادهای کاری موقت داشته‌اند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie sind oder waren alle Berufsanfänger und die Zeitarbeit war für sie eine gute Chance, ins Arbeitsleben zu kommen und Berufserfahrung zu sammeln, was ich bei der Zeitarbeit vorteilhaft finde.",
+      "english": "They are or were all career starters, and temp work was a good opportunity for them to enter the workforce and gain work experience, which I find beneficial about temp work.",
+      "russian": "Они все были или являются начинающими профессионалами, и временная работа была для них хорошей возможностью войти в трудовую жизнь и получить опыт работы, что я считаю выгодным в временной работе.",
+      "farsi": "آنها همه تازه‌کار بودند یا هستند، و کار موقت برای آنها یک فرصت خوب بود تا وارد بازار کار شوند و تجربه شغلی کسب کنند، که من آن را در کار موقت مفید می‌بینم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber sie haben auch von weniger positiven Dingen berichtet.",
+      "english": "But they also reported on less positive things.",
+      "russian": "Но они также рассказали о менее позитивных вещах.",
+      "farsi": "اما آنها همچنین درباره چیزهای کمتر مثبت گزارش داده‌اند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "So gab es zum Beispiel manchmal Konflikte mit den festen Mitarbeitern eines Unternehmens, die die Leiharbeiter als Konkurrenz betrachtet haben oder sie nicht richtig respektiert haben.",
+      "english": "For example, there were sometimes conflicts with the permanent employees of a company, who viewed the temp workers as competition or did not respect them properly.",
+      "russian": "Например, иногда возникали конфликты с постоянными сотрудниками компании, которые рассматривали временных работников как конкурентов или не уважали их должным образом.",
+      "farsi": "برای مثال، گاهی اوقات درگیری‌هایی با کارکنان دائمی یک شرکت پیش می‌آمد که کارگران موقت را به عنوان رقیب می‌دیدند یا به درستی احترام نمی‌گذاشتند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn ich – was hoffentlich nicht passiert – einmal meine Arbeit verliere, will ich ganz bestimmt nicht bei einer Leiharbeitsfirma arbeiten, sondern ich würde mich selbstständig machen.",
+      "english": "If I – which hopefully won't happen – ever lose my job, I definitely don't want to work for a temp agency, but I would become self-employed.",
+      "russian": "Если я — что, надеюсь, не произойдёт — когда-нибудь потеряю свою работу, я точно не хочу работать в агентстве временных работ, а стану работать на себя.",
+      "farsi": "اگر من – که امیدوارم این اتفاق نیفتد – روزی شغل خود را از دست بدهم، قطعاً نمی‌خواهم برای یک شرکت کاریابی موقت کار کنم، بلکه می‌خواهم خودم کسب‌وکار راه بیندازم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Zurzeit arbeite ich bei der Leiharbeitsfirma Spieß in Unterrode.",
+      "english": "Currently, I work at the temp agency Spieß in Unterrode.",
+      "russian": "В настоящее время я работаю в агентстве временных работ Spieß в Унтерроде.",
+      "farsi": "در حال حاضر من در شرکت کاریابی موقت Spieß در Unterrode کار می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin jetzt seit acht Monaten dort angestellt und schon an meinem dritten Einsatzort.",
+      "english": "I have been employed there for eight months now and am already at my third assignment location.",
+      "russian": "Я работаю там уже восемь месяцев и уже на своём третьем месте назначения.",
+      "farsi": "من حالا هشت ماه است که در آنجا مشغول به کار هستم و در حال حاضر در سومین محل کارم قرار دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das ist manchmal etwas stressig, man muss sich immer an eine neue Umgebung gewöhnen und der Weg zur Arbeit ist immer anders.",
+      "english": "It's sometimes a bit stressful, you always have to get used to a new environment and the way to work is always different.",
+      "russian": "Это иногда немного стрессово, всегда нужно привыкать к новой обстановке, и путь на работу всегда разный.",
+      "farsi": "این گاهی اوقات کمی استرس‌زا است، باید همیشه به یک محیط جدید عادت کنید و مسیر به محل کار همیشه متفاوت است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber für mich ist ein Vorteil, dass ich verschiedene Betriebe und Unternehmenskulturen kennenlerne.",
+      "english": "But for me, an advantage is that I get to know different companies and corporate cultures.",
+      "russian": "Но для меня преимуществом является то, что я знакомлюсь с разными компаниями и корпоративными культурами.",
+      "farsi": "اما برای من یک مزیت این است که با شرکت‌ها و فرهنگ‌های سازمانی مختلف آشنا می‌شوم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das ist nicht nur interessant, sondern auch wichtig für mich, denn ich komme aus Malaysia und dort ist das Arbeitsleben ganz anders organisiert als hier.",
+      "english": "This is not only interesting, but also important for me, because I come from Malaysia and the work life there is organized very differently than here.",
+      "russian": "Это не только интересно, но и важно для меня, потому что я родом из Малайзии, и трудовая жизнь там организована совсем иначе, чем здесь.",
+      "farsi": "این نه تنها جالب است، بلکه برای من مهم است زیرا من از مالزی هستم و زندگی کاری در آنجا کاملاً متفاوت از اینجا سازماندهی شده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Gut finde ich auch, dass ich mit so vielen verschiedenen Menschen zu tun habe.",
+      "english": "I also think it's good that I have to deal with so many different people.",
+      "russian": "Мне также нравится, что я имею дело с таким количеством разных людей.",
+      "farsi": "همچنین برایم خوب است که با افراد مختلف زیادی سر و کار دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das erleichtert mir sicher die Integration.",
+      "english": "This definitely makes integration easier for me.",
+      "russian": "Это определённо облегчает мне интеграцию.",
+      "farsi": "این قطعاً ادغام من را راحت‌تر می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mit meinem Verdienst bin ich so zufrieden, aber ich habe auch nicht vor, für immer bei der Leiharbeitsfirma zu bleiben.",
+      "english": "I am satisfied with my earnings, but I also don't plan to stay at the temp agency forever.",
+      "russian": "Я доволен своим заработком, но также не планирую оставаться в агентстве временных работ навсегда.",
+      "farsi": "از درآمدم راضی هستم، اما قصد ندارم برای همیشه در شرکت کاریابی موقت بمانم."
+    }
+  ]
+}

@@ -1,0 +1,593 @@
+{
+  "info": {
+    "name": "B1_Fokus_Wörter_u01",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Anfang, -ä-e",
+      "english": "the beginning, beginnings",
+      "russian": "начало, начала",
+      "farsi": "آغاز، شروع‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Arbeit, -en",
+      "english": "the work, works",
+      "russian": "работа, работы",
+      "farsi": "کار، کارها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Kantine, -n",
+      "english": "the canteen, canteens",
+      "russian": "столовая, столовые",
+      "farsi": "غذاخوری، غذاخوری‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Person, -en",
+      "english": "the person, persons",
+      "russian": "человек, люди",
+      "farsi": "شخص، اشخاص"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Gespräch, -e",
+      "english": "the conversation, conversations",
+      "russian": "разговор, разговоры",
+      "farsi": "گفتگو، گفتگوها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Pause, -n",
+      "english": "the break, breaks",
+      "russian": "перерыв, перерывы",
+      "farsi": "استراحت، استراحت‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Wochenende, -n",
+      "english": "the weekend, weekends",
+      "russian": "выходные, выходные дни",
+      "farsi": "آخر هفته، آخر هفته‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Urlaub, -e",
+      "english": "the vacation, vacations",
+      "russian": "отпуск, отпуска",
+      "farsi": "تعطیلات، تعطیلات‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Musik (Sg.)",
+      "english": "the music (singular)",
+      "russian": "музыка (ед. ч.)",
+      "farsi": "موسیقی (مفرد)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Nachbar, -n",
+      "english": "the neighbor, neighbors",
+      "russian": "сосед, соседи",
+      "farsi": "همسایه، همسایه‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Familie, -n",
+      "english": "the family, families",
+      "russian": "семья, семьи",
+      "farsi": "خانواده، خانواده‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Gesundheit (Sg.)",
+      "english": "the health (singular)",
+      "russian": "здоровье (ед. ч.)",
+      "farsi": "سلامتی (مفرد)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Politik (Sg.)",
+      "english": "the politics (singular)",
+      "russian": "политика (ед. ч.)",
+      "farsi": "سیاست (مفرد)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Freizeit (Sg.)",
+      "english": "the leisure time (singular)",
+      "russian": "свободное время (ед. ч.)",
+      "farsi": "اوقات فراغت (مفرد)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Gesprächsthema, -themen",
+      "english": "the topic of conversation, topics of conversation",
+      "russian": "тема разговора, темы разговора",
+      "farsi": "موضوع گفتگو، موضوعات گفتگو"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "spannend",
+      "english": "exciting",
+      "russian": "захватывающий",
+      "farsi": "هیجان‌انگیز"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Produktion, -en",
+      "english": "the production, productions",
+      "russian": "производство, производства",
+      "farsi": "تولید، تولیدات"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "putzen",
+      "english": "to clean",
+      "russian": "чистить",
+      "farsi": "تمیز کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Abteilung, -en",
+      "english": "the department, departments",
+      "russian": "отдел, отделы",
+      "farsi": "بخش، بخش‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Stimmung, -en",
+      "english": "the mood, moods",
+      "russian": "настроение, настроения",
+      "farsi": "خلق و خو، خلق و خوها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Arbeitszeit, -en",
+      "english": "the working hours, working hours",
+      "russian": "рабочее время, рабочие часы",
+      "farsi": "ساعات کاری، ساعات کاری‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Teilzeit (Sg.)",
+      "english": "the part-time (singular)",
+      "russian": "неполный рабочий день (ед. ч.)",
+      "farsi": "کار نیمه‌وقت (مفرد)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Vollzeit (Sg.)",
+      "english": "the full-time (singular)",
+      "russian": "полный рабочий день (ед. ч.)",
+      "farsi": "کار تمام‌وقت (مفرد)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Auftrag, -ä-e",
+      "english": "the assignment, assignments",
+      "russian": "задание, задания",
+      "farsi": "وظیفه، وظایف"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Ausbildung, -en",
+      "english": "the training, trainings",
+      "russian": "обучение, обучения",
+      "farsi": "آموزش، آموزش‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Vertrag, -ä-e",
+      "english": "the contract, contracts",
+      "russian": "договор, договоры",
+      "farsi": "قرارداد، قراردادها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "regelmäßig",
+      "english": "regularly",
+      "russian": "регулярно",
+      "farsi": "به طور منظم"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "kündigen",
+      "english": "to terminate/resign",
+      "russian": "увольнять/уволиться",
+      "farsi": "فسخ کردن/استعفا دادن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Entscheidung, -en",
+      "english": "the decision, decisions",
+      "russian": "решение, решения",
+      "farsi": "تصمیم، تصمیم‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "flexibel",
+      "english": "flexible",
+      "russian": "гибкий",
+      "farsi": "انعطاف‌پذیر"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "verdienen",
+      "english": "to earn",
+      "russian": "зарабатывать",
+      "farsi": ".درآمد داشتن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Risiko, Risiken",
+      "english": "the risk, risks",
+      "russian": "риск, риски",
+      "farsi": "خطر، خطرات"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "bedienen",
+      "english": "to serve",
+      "russian": "обслуживать",
+      "farsi": "خدمت کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Mitarbeiter, -",
+      "english": "the employee, employees (male)",
+      "russian": "сотрудник, сотрудники (мужской род)",
+      "farsi": "کارمند، کارمندان (مذکر)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Mitarbeiterin, -nen",
+      "english": "the employee, employees (female)",
+      "russian": "сотрудница, сотрудницы (женский род)",
+      "farsi": "کارمند، کارمندان (مؤنث)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Aushilfe, -n",
+      "english": "the temporary help, temporary helpers",
+      "russian": "временный работник, временные работники",
+      "farsi": "کمک موقت، کمک‌های موقت"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "erfolgreich",
+      "english": "successful",
+      "russian": "успешный",
+      "farsi": "موفق"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Stelle, -n",
+      "english": "the position, positions",
+      "russian": "должность, должности",
+      "farsi": "موقعیت شغلی، موقعیت‌های شغلی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Kontrolle, -n",
+      "english": "the control, controls",
+      "russian": "контроль, виды контроля",
+      "farsi": "کنترل، کنترل‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Lager, -",
+      "english": "the warehouse, warehouses",
+      "russian": "склад, склады",
+      "farsi": "انبار، انبارها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Firma, Firmen",
+      "english": "the company, companies",
+      "russian": "компания, компании",
+      "farsi": "شرکت، شرکت‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "sich kümmern um",
+      "english": "to take care of",
+      "russian": "заботиться о",
+      "farsi": "مراقبت کردن از"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "interessant",
+      "english": "interesting",
+      "russian": "интересный",
+      "farsi": "جالب"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "langweilig",
+      "english": "boring",
+      "russian": "скучный",
+      "farsi": "خسته‌کننده"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Verspätung, -en",
+      "english": "the delay, delays",
+      "russian": "задержка, задержки",
+      "farsi": "تاخیر، تاخیرها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Unterschied, -e",
+      "english": "the difference, differences",
+      "russian": "разница, различия",
+      "farsi": "تفاوت، تفاوت‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "höflich",
+      "english": "polite",
+      "russian": "вежливый",
+      "farsi": "مودب"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Respekt (Sg.)",
+      "english": "(the) respect (singular)",
+      "russian": "(уважение (ед. ч.)",
+      "farsi": "احترام (مفرد)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Kultur, -en",
+      "english": "(the) culture, cultures",
+      "russian": "(культура, культуры)",
+      "farsi": "(فرهنگ، فرهنگ‌ها)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Regel, -n",
+      "english": "(the) rule, rules",
+      "russian": "(правило, правила)",
+      "farsi": "(قانون، قوانین)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "verbessern",
+      "english": "to improve",
+      "russian": "улучшать",
+      "farsi": "بهبود دادن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Position, -en",
+      "english": "the position, positions",
+      "russian": "позиция, позиции",
+      "farsi": "موقعیت، موقعیت‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Angestellte -n",
+      "english": "the employee, employees (male)",
+      "russian": "служащий, служащие (мужской род)",
+      "farsi": "کارمند، کارمندان (مذکر)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Angestellte -n",
+      "english": "the employee, employees (female)",
+      "russian": "служащая, служащие (женский род)",
+      "farsi": "کارمند، کارمندان (مؤنث)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Zusammenarbeit (Sg.)",
+      "english": "the cooperation (singular)",
+      "russian": "сотрудничество (ед. ч.)",
+      "farsi": "همکاری (مفرد)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Auszubildende, -n",
+      "english": "the trainee, trainees (male)",
+      "russian": "ученик, ученики (мужской род)",
+      "farsi": "کارآموز، کارآموزان (مذکر)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Auszubildende, -n",
+      "english": "the trainee, trainees (female)",
+      "russian": "ученица, ученицы (женский род)",
+      "farsi": "کارآموز، کارآموزان (مؤنث)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Werbung, -en",
+      "english": "the advertisement, advertisements",
+      "russian": "реклама, рекламы",
+      "farsi": "تبلیغ، تبلیغات"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Koch -ö-e",
+      "english": "the cook, cooks (male)",
+      "russian": "повар, повара (мужской род)",
+      "farsi": "آشپز، آشپزها (مذکر)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Köchin, -nen",
+      "english": "the cook, cooks (female)",
+      "russian": "повариха, поварихи (женский род)",
+      "farsi": "آشپز، آشپزها (مؤنث)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Kaufmann, -ä-er",
+      "english": "the businessman, businessmen",
+      "russian": "коммерсант, коммерсанты",
+      "farsi": "تاجر، تاجران (مذکر)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Kauffrau, -en",
+      "english": "the businesswoman, businesswomen",
+      "russian": "коммерсантка, коммерсантки",
+      "farsi": "تاجر، تاجران (مؤنث)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Fachmann, -ä-er",
+      "english": "the expert, experts (male)",
+      "russian": "специалист, специалисты (мужской род)",
+      "farsi": "متخصص، متخصصان (مذکر)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Fachfrau, -en",
+      "english": "the expert, experts (female)",
+      "russian": "специалистка, специалистки (женский род)",
+      "farsi": "متخصص، متخصصان (مؤنث)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Friseur, -e",
+      "english": "the hairdresser, hairdressers (male)",
+      "russian": "парикмахер, парикмахеры (мужской род)",
+      "farsi": "آرایشگر، آرایشگران (مذکر)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Friseurin, -nen",
+      "english": "the hairdresser, hairdressers (female)",
+      "russian": "парикмахер, парикмахеры (женский род)",
+      "farsi": "آرایشگر، آرایشگران (مؤنث)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Pfleger, -",
+      "english": "the nurse, nurses (male)",
+      "russian": "медбрат, медбратья",
+      "farsi": "پرستار، پرستاران (مذکر)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Pflegerin, -nen",
+      "english": "the nurse, nurses (female)",
+      "russian": "медсестра, медсёстры",
+      "farsi": "پرستار، پرستاران (مؤنث)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Gehalt, -ä-er",
+      "english": "the salary, salaries",
+      "russian": "зарплата, зарплаты",
+      "farsi": "حقوق، حقوق‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "leisten",
+      "english": "to perform, to achieve",
+      "russian": "выполнять, достигать",
+      "farsi": "انجام دادن، به دست آوردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "kreativ",
+      "english": "creative",
+      "russian": "творческий",
+      "farsi": "خلاق"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Chance, -n",
+      "english": "the chance, chances",
+      "russian": "шанс, шансы",
+      "farsi": "فرصت، فرصت‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Sicherheit, -en",
+      "english": "the security, securities",
+      "russian": "безопасность, виды безопасности",
+      "farsi": "امنیت، امنیت‌ها"
+    }
+  ]
+}

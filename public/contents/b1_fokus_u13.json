@@ -1,0 +1,2241 @@
+{
+  "info": {
+    "name": "B1_Fokus_u13",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Guten Tag, liebe Hörerinnen und Hörer.",
+      "english": "Good day, dear listeners.",
+      "russian": "Добрый день, уважаемые слушатели.",
+      "farsi": "روز بخیر، شنوندگان عزیز."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In unserem Mittagsmagazin beschäftigen wir uns heute mit dem Thema „Digitalisierung in der Arbeitswelt“.",
+      "english": "In our midday magazine, today we are dealing with the topic 'Digitalization in the working world.'",
+      "russian": "В нашей дневной передаче мы сегодня занимаемся темой «Цифровизация в мире труда».",
+      "farsi": "در برنامه ظهرگاهی امروز ما به موضوع «دیجیتالی شدن در دنیای کار» می‌پردازیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir alle haben es in den letzten Jahren erlebt:",
+      "english": "We have all experienced it in recent years:",
+      "russian": "Мы все это пережили в последние годы:",
+      "farsi": "همه ما در سال‌های اخیر آن را تجربه کرده‌ایم:"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir können immer mehr online erledigen, das Onlinebanking ist sicherer geworden.",
+      "english": "We can do more and more online, online banking has become more secure.",
+      "russian": "Мы можем все больше делать онлайн, онлайн-банкинг стал безопаснее.",
+      "farsi": "ما می‌توانیم کارهای بیشتری را به صورت آنلاین انجام دهیم و بانکداری آنلاین امن‌تر شده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Früher lasen wir in der S-Bahn auf dem Weg zur Arbeit eine Zeitung auf Papier, heute ein E-Paper auf dem Smartphone und in einigen Jahren werden wir die Zeitung vielleicht direkt in einer Smartbrille lesen.",
+      "english": "In the past, we read a newspaper on paper in the subway on the way to work, today an e-paper on the smartphone, and in a few years we might read the newspaper directly in smart glasses.",
+      "russian": "Раньше мы читали бумажную газету в электричке по пути на работу, сегодня - электронную газету на смартфоне, а через несколько лет, возможно, будем читать газету прямо в умных очках.",
+      "farsi": "قبلاً در راه رفتن به محل کار در قطار شهری روزنامه کاغذی می‌خواندیم، امروز یک روزنامه الکترونیکی روی گوشی هوشمند و شاید چند سال دیگر روزنامه را مستقیماً در عینک هوشمند بخوانیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Zu Gast im Studio sind bei mir heute drei Personen, die berichten, wie sich ihre Arbeit in der letzten Zeit verändert hat.",
+      "english": "Today, I have three guests in the studio who will talk about how their work has changed recently.",
+      "russian": "Сегодня у меня в студии три гостя, которые расскажут, как изменилась их работа в последнее время.",
+      "farsi": "امروز سه نفر مهمان در استودیو دارم که گزارش می‌دهند چگونه کارشان در این مدت تغییر کرده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wollen Sie anfangen, Frau Saleh?",
+      "english": "Would you like to start, Ms. Saleh?",
+      "russian": "Хотите начать, госпожа Салех?",
+      "farsi": "خانم صالح، می‌خواهید شروع کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, gerne.",
+      "english": "Yes, gladly.",
+      "russian": "Да, с удовольствием.",
+      "farsi": "بله، با کمال میل."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich arbeite seit einigen Jahren in einem Schnellrestaurant.",
+      "english": "I have been working in a fast food restaurant for several years.",
+      "russian": "Я уже несколько лет работаю в ресторане быстрого питания.",
+      "farsi": "من چند سالی است که در یک رستوران فست‌فود کار می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im letzten Jahr wurde bei uns ein neues Bestell- und Bezahlsystem eingeführt.",
+      "english": "Last year, a new ordering and payment system was introduced at our place.",
+      "russian": "В прошлом году у нас ввели новую систему заказа и оплаты.",
+      "farsi": "سال گذشته یک سیستم جدید سفارش و پرداخت در محل کار ما راه‌اندازی شد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben jetzt Terminals, wo man die gewünschten Speisen und Getränke auf einem Touchscreen bestellen und dann auch gleich bargeldlos bezahlen kann.",
+      "english": "We now have terminals where you can order the desired food and drinks on a touchscreen and then pay cashless right away.",
+      "russian": "Теперь у нас есть терминалы, где можно заказать желаемые блюда и напитки на сенсорном экране и сразу же оплатить безналично.",
+      "farsi": "اکنون ما ترمینال‌هایی داریم که می‌توان غذا و نوشیدنی مورد نظر را روی صفحه لمسی سفارش داد و بلافاصله به صورت غیرنقدی پرداخت کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das ist für unsere Gäste viel entspannter als früher, denn sie müssen jetzt nicht mehr in einer langen Schlange warten, bis sie an der Reihe sind.",
+      "english": "That is much more relaxing for our guests than before, because now they no longer have to wait in a long line until it is their turn.",
+      "russian": "Для наших гостей это намного удобнее, чем раньше, потому что теперь им не нужно долго стоять в очереди, чтобы дождаться своей очереди.",
+      "farsi": "این برای مهمانان ما خیلی راحت‌تر از قبل است، چون دیگر مجبور نیستند مدت زیادی در صف بایستند تا نوبتشان شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Auch für uns Angestellte ist das besser, der Arbeitsalltag ist jetzt nicht mehr so hektisch.",
+      "english": "It is also better for us employees; the workday is now no longer so hectic.",
+      "russian": "Для нас, сотрудников, это тоже лучше - рабочий день теперь не такой напряжённый.",
+      "farsi": "برای ما کارکنان هم بهتر است، چون روز کاری دیگر آن‌قدر شلوغ و پرتنش نیست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Herr Vargas, Sie sind Leiter einer Supermarktfiliale?",
+      "english": "Mr. Vargas, you are the manager of a supermarket branch?",
+      "russian": "Господин Варгас, вы управляющий филиалом супермаркета?",
+      "farsi": "آقای وارگاس، شما مدیر یک شعبه سوپرمارکت هستید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was ist bei Ihnen heute anders als früher?",
+      "english": "What is different for you today compared to before?",
+      "russian": "Что у вас сегодня по-другому, чем раньше?",
+      "farsi": "چه چیزی امروز در محل کار شما نسبت به گذشته متفاوت است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich möchte vor allem zwei Dinge nennen.",
+      "english": "I would like to mention two things in particular.",
+      "russian": "Я хотел бы назвать особенно две вещи.",
+      "farsi": "من می‌خواهم به ویژه به دو نکته اشاره کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Erstens: Immer mehr Leute bezahlen mit einer App, immer weniger bezahlen bar.",
+      "english": "First: More and more people are paying with an app, fewer and fewer are paying in cash.",
+      "russian": "Во-первых: все больше людей оплачивают покупки через приложение, все меньше - наличными.",
+      "farsi": "اول: هر روز افراد بیشتری با اپلیکیشن پرداخت می‌کنند و تعداد کمتری نقدی پرداخت می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Zweitens: Unsere Selbstbedienungskassen, bei denen man die Waren selbst einscannen und bezahlen kann, werden immer beliebter.",
+      "english": "Second: Our self-service checkouts, where you can scan and pay for the goods yourself, are becoming increasingly popular.",
+      "russian": "Во-вторых: наши кассы самообслуживания, где можно самостоятельно сканировать и оплачивать товары, становятся всё популярнее.",
+      "farsi": "دوم: صندوق‌های خودپرداز ما که می‌توان کالاها را خودتان اسکن و پرداخت کنید، هر روز محبوب‌تر می‌شوند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In Zukunft wird es sicher so weitergehen:",
+      "english": "In the future, it will certainly continue like this:",
+      "russian": "В будущем это, несомненно, будет продолжаться так:",
+      "farsi": "در آینده مطمئناً همین روند ادامه خواهد داشت:"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Apps werden für das Bezahlen immer wichtiger sein, wie schon heute in vielen anderen Ländern der Welt, bald werden noch mehr Kundinnen und Kunden zu den Selbstbedienungskassen gehen.",
+      "english": "Apps will become increasingly important for payments, as is already the case in many other countries, and soon even more customers will use the self-service checkouts.",
+      "russian": "Приложения будут становиться всё важнее для оплаты, как это уже происходит во многих других странах мира, и вскоре ещё больше клиентов будут пользоваться кассами самообслуживания.",
+      "farsi": "اپلیکیشن‌ها برای پرداخت هر روز مهم‌تر می‌شوند، همان‌طور که در بسیاری از کشورهای دیگر دنیا هم اکنون این‌گونه است و به زودی مشتریان بیشتری به سمت صندوق‌های خودپرداز خواهند رفت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Frau Larsson, für Sie als Bürokauffrau hat sich in den letzten zwei bis drei Jahren auch viel verändert, richtig?",
+      "english": "Ms. Larsson, as an office clerk, a lot has changed for you in the last two to three years as well, right?",
+      "russian": "Госпожа Ларссон, для вас, как для офис-менеджера, тоже многое изменилось за последние два-три года, верно?",
+      "farsi": "خانم لارسن، برای شما به عنوان کارمند اداری هم در دو تا سه سال گذشته خیلی چیزها تغییر کرده، درست است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, so ist es.",
+      "english": "Yes, that's right.",
+      "russian": "Да, это так.",
+      "farsi": "بله، همین طور است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Während des ersten Lockdowns in der Coronapandemie, habe ich mehrere Wochen im Homeoffice gearbeitet und bin nur sehr selten in die Firma gefahren.",
+      "english": "During the first lockdown in the coronavirus pandemic, I worked from home for several weeks and only rarely went to the company.",
+      "russian": "Во время первого локдауна из-за пандемии коронавируса я несколько недель работала из дома и очень редко ездила в офис.",
+      "farsi": "در اولین قرنطینه دوران پاندمی کرونا، من چندین هفته دورکاری کردم و فقط خیلی کم به شرکت رفتم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und auch jetzt, wo es keine Lockdowns mehr gibt, arbeite ich viel öfter von zu Hause aus als im Büro.",
+      "english": "And even now, when there are no more lockdowns, I work from home much more often than in the office.",
+      "russian": "И даже сейчас, когда больше нет локдаунов, я гораздо чаще работаю из дома, чем в офисе.",
+      "farsi": "و حتی حالا که دیگر قرنطینه‌ای وجود ندارد، من خیلی بیشتر از خانه کار می‌کنم تا در دفتر."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es ist auch gar nicht mehr so einfach, im Büro zu arbeiten, denn meine Firma hat viele Büroräume gekündigt.",
+      "english": "It is also no longer so easy to work in the office, because my company has terminated many office spaces.",
+      "russian": "Работать в офисе теперь тоже не так просто, потому что моя компания отказалась от многих офисных помещений.",
+      "farsi": "کار کردن در دفتر دیگر آنقدرها هم آسان نیست، چون شرکت من بسیاری از اتاق‌های اداری را فسخ کرده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und jetzt müssen sich drei Mitarbeitende einen Büroarbeitsplatz teilen.",
+      "english": "And now three employees have to share one office workstation.",
+      "russian": "И теперь троим сотрудникам приходится делить одно рабочее место в офисе.",
+      "farsi": "و حالا سه نفر باید یک محل کار اداری را با هم تقسیم کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn ich also nicht zu Hause arbeiten will, muss ich zwei Tage vorher einen Büroarbeitsplatz reservieren.",
+      "english": "So if I do not want to work from home, I have to reserve an office workstation two days in advance.",
+      "russian": "Если я не хочу работать из дома, мне нужно за два дня заранее бронировать рабочее место в офисе.",
+      "farsi": "پس اگر نخواهم از خانه کار کنم، باید دو روز قبل یک محل کار اداری رزرو کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Firma spart so einige 10.000 Euro Miete pro Monat.",
+      "english": "The company saves several tens of thousands of euros in rent per month this way.",
+      "russian": "Таким образом компания экономит десятки тысяч евро аренды в месяц.",
+      "farsi": "شرکت با این کار ماهانه چندین ده هزار یورو اجاره صرفه‌جویی می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich denke, das ist ein allgemeiner Trend:",
+      "english": "I think this is a general trend:",
+      "russian": "Я думаю, это общая тенденция:",
+      "farsi": "فکر می‌کنم این یک روند کلی است:"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Immer mehr Menschen werden wohl zu Hause arbeiten, man wird immer weniger Büroräume brauchen.",
+      "english": "More and more people will probably work from home, and fewer and fewer office spaces will be needed.",
+      "russian": "Все больше людей, вероятно, будут работать из дома, и офисных помещений потребуется всё меньше.",
+      "farsi": "احتمالاً افراد بیشتری در خانه کار خواهند کرد و نیاز به فضای اداری کمتر خواهد شد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das finde ich auch gut, denn so wird es vielleicht mehr Platz für Wohnraum geben.",
+      "english": "I also think this is good, because this way there might be more space available for housing.",
+      "russian": "Я тоже считаю это хорошим, потому что тогда, возможно, появится больше места для жилья.",
+      "farsi": "من هم این را خوب می‌دانم، چون شاید به این ترتیب فضای بیشتری برای مسکن ایجاد شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In Zukunft wird es viele Innovationen geben.",
+      "english": "In the future, there will be many innovations.",
+      "russian": "В будущем будет много инноваций.",
+      "farsi": "در آینده نوآوری‌های زیادی خواهد بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Immer mehr Menschen werden wohl zu Hause arbeiten.",
+      "english": "More and more people will probably work from home.",
+      "russian": "Всё больше людей, вероятно, будут работать из дома.",
+      "farsi": "احتمالاً افراد بیشتری در خانه کار خواهند کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Futur I bildet man mit werden + Infinitiv. Man verwendet es für Vermutungen, Prognosen und Pläne in der Zukunft.",
+      "english": "The future tense I is formed with 'werden' + infinitive. It is used for assumptions, predictions, and plans in the future.",
+      "russian": "Futur I образуется с помощью 'werden' + инфинитив. Его используют для предположений, прогнозов и планов на будущее.",
+      "farsi": "زمان آینده ساده با 'werden' + مصدر ساخته می‌شود. از آن برای حدس‌ها، پیش‌بینی‌ها و برنامه‌های آینده استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Smartphones kann man für alles Mögliche benutzen, zum Beispiel zum ...",
+      "english": "You can use smartphones for all sorts of things, for example for ...",
+      "russian": "Смартфоны можно использовать для чего угодно, например для ...",
+      "farsi": "می‌توان از گوشی‌های هوشمند برای هر کاری استفاده کرد، مثلاً برای ..."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Tablets sind sehr praktisch. Ich benutze mein Tablet für …",
+      "english": "Tablets are very practical. I use my tablet for ...",
+      "russian": "Планшеты очень удобны. Я использую свой планшет для ...",
+      "farsi": "تبلت‌ها بسیار کاربردی هستند. من از تبلت خود برای ... استفاده می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ein Smartboard ist für Unterricht, Werbung oder auch … geeignet.",
+      "english": "A smartboard is suitable for teaching, advertising, or also ...",
+      "russian": "Смартборд подходит для обучения, рекламы или также ...",
+      "farsi": "اسمارت‌بورد برای تدریس، تبلیغات یا حتی ... مناسب است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hallo, ich bin Joachim Schote und von Beruf Lehrer.",
+      "english": "Hello, I am Joachim Schote and a teacher by profession.",
+      "russian": "Здравствуйте, я Иоахим Шоте, и по профессии я учитель.",
+      "farsi": "سلام، من یواخیم شوت هستم و شغلم معلمی است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In meinem Beruf hat sich durch die Digitalisierung viel verändert.",
+      "english": "A lot has changed in my profession due to digitalization.",
+      "russian": "В моей профессии многое изменилось из-за цифровизации.",
+      "farsi": "در شغل من با دیجیتالی شدن خیلی چیزها تغییر کرده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Als ich vor 30 Jahren meine Lehrtätigkeit für Deutsch anfing, hatten wir für das Hörverstehen zum Beispiel nur Kassetten und ein großer Teil der Unterrichtsvorbereitung war für mich, die Kassetten so einzustellen, dass ich sofort mit dem Hörverstehen starten konnte.",
+      "english": "When I started teaching German 30 years ago, for listening comprehension we only had cassettes, for example, and a large part of my lesson preparation was setting up the cassettes so that I could start the listening exercise right away.",
+      "russian": "Когда я начал преподавать немецкий 30 лет назад, для аудирования у нас, например, были только кассеты, и большая часть подготовки к уроку заключалась для меня в том, чтобы настроить кассеты так, чтобы сразу начать аудирование.",
+      "farsi": "وقتی ۳۰ سال پیش تدریس زبان آلمانی را شروع کردم، برای مهارت شنیداری فقط نوار کاست داشتیم و بخش بزرگی از آماده‌سازی درس برای من این بود که نوارها را طوری تنظیم کنم که بتوانم بلافاصله با بخش شنیداری شروع کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Später kamen CDs, aber die sind auch schon wieder veraltet.",
+      "english": "Later, CDs came along, but they are already outdated again.",
+      "russian": "Позже появились CD-диски, но они тоже уже устарели.",
+      "farsi": "بعدها سی‌دی‌ها آمدند، اما آن‌ها هم اکنون دیگر قدیمی شده‌اند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Für das Hörverstehen benutze ich jetzt die Apps, die die Verlage für das Lehrwerk anbieten.",
+      "english": "For listening comprehension, I now use the apps that the publishers provide for the textbooks.",
+      "russian": "Для аудирования я сейчас использую приложения, которые издательства предлагают к учебникам.",
+      "farsi": "برای بخش شنیداری حالا از اپلیکیشن‌هایی که ناشران برای کتاب درسی ارائه می‌دهند استفاده می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Für die Hörtexte benutze ich mein Smartphone.",
+      "english": "For the audio texts, I use my smartphone.",
+      "russian": "Для аудиотекстов я использую свой смартфон.",
+      "farsi": "برای فایل‌های صوتی از گوشی هوشمندم استفاده می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das ist laut genug und meine Studenten und Studentinnen können die Texte gut verstehen.",
+      "english": "That is loud enough and my students can understand the texts well.",
+      "russian": "Этого достаточно по громкости, и мои студенты хорошо понимают тексты.",
+      "farsi": "صدای آن کافی است و دانشجویانم می‌توانند به خوبی متن‌ها را بفهمند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In einigen Unterrichtsräumen haben wir auch Smartboards, die mit dem Internet verbunden sind.",
+      "english": "In some classrooms, we also have smartboards that are connected to the internet.",
+      "russian": "В некоторых учебных аудиториях у нас также есть смартборды, подключённые к интернету.",
+      "farsi": "در بعضی از کلاس‌هایمان هم اسمارت‌بورد داریم که به اینترنت متصل هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich kann sie also nicht nur als digitale Tafel benutzen, sondern ich kann auch Landkarten von Deutschland oder Fotos präsentieren oder Musikvideos zeigen und meine Studentinnen und Studenten können ihre Referate mit einer PowerPoint-Präsentation interessanter gestalten.",
+      "english": "So I can not only use them as a digital blackboard, but I can also present maps of Germany or photos, show music videos, and my students can make their presentations more interesting with a PowerPoint presentation.",
+      "russian": "Я могу использовать их не только как цифровую доску, но и показывать карты Германии или фотографии, демонстрировать музыкальные клипы, а мои студенты могут сделать свои доклады интереснее с помощью презентации PowerPoint.",
+      "farsi": "پس من می‌توانم از آن‌ها نه تنها به عنوان تخته دیجیتال، بلکه برای نمایش نقشه‌های آلمان یا عکس‌ها، پخش موزیک‌ویدیو و این‌که دانشجویانم ارائه‌های خود را با پاورپوینت جذاب‌تر کنند، استفاده کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber das Smartboard hat auch einen großen Nachteil:",
+      "english": "But the smartboard also has a big disadvantage:",
+      "russian": "Но у смартборда есть и большой недостаток:",
+      "farsi": "اما اسمارت‌بورد یک عیب بزرگ هم دارد:"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es verbraucht Strom und wird deshalb nach einiger Zeit ziemlich warm.",
+      "english": "It consumes electricity and therefore gets quite warm after some time.",
+      "russian": "Он потребляет электричество и поэтому через некоторое время становится довольно тёплым.",
+      "farsi": "برق مصرف می‌کند و به همین دلیل بعد از مدتی کاملاً گرم می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Deshalb benutze ich lieber ein Whiteboard oder eine Tafel mit Kreide, wenn ich in einer Unterrichtsstunde keine Filme oder Fotos zeigen muss.",
+      "english": "That is why I prefer to use a whiteboard or a chalkboard when I do not have to show films or photos in a lesson.",
+      "russian": "Поэтому я предпочитаю использовать обычную белую доску или классическую доску с мелом, если мне не нужно показывать фильмы или фотографии на уроке.",
+      "farsi": "به همین دلیل ترجیح می‌دهم از وایت‌برد یا تخته سیاه با گچ استفاده کنم، اگر لازم نباشد در کلاس فیلم یا عکس نشان دهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hallo, mein Name ist Jördis Maier.",
+      "english": "Hello, my name is Jördis Maier.",
+      "russian": "Здравствуйте, меня зовут Йёрдис Майер.",
+      "farsi": "سلام، نام من یوردیس مایر است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Auch in meinem Beruf als Anlagenmechanikerin bieten das Smartphone und Tablets viele Möglichkeiten.",
+      "english": "In my profession as a plant mechanic, smartphones and tablets also offer many possibilities.",
+      "russian": "И в моей профессии слесаря по оборудованию смартфоны и планшеты тоже открывают много возможностей.",
+      "farsi": "در شغل من به عنوان مکانیک تأسیسات هم گوشی هوشمند و تبلت امکانات زیادی فراهم می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mit meinen Kunden zum Beispiel kommuniziere ich sehr oft über WhatsApp.",
+      "english": "For example, I communicate with my customers very often via WhatsApp.",
+      "russian": "Например, с моими клиентами я очень часто общаюсь через WhatsApp.",
+      "farsi": "مثلاً من خیلی وقت‌ها با مشتریانم از طریق واتس‌اپ ارتباط برقرار می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie rufen mich auf dem Smartphone an, wenn sie ein Problem haben, wenn also zum Beispiel der Abfluss am Waschbecken tropft.",
+      "english": "They call me on my smartphone when they have a problem, for example, when the drain on the sink is leaking.",
+      "russian": "Они звонят мне на смартфон, когда у них возникает проблема, например, если протекает слив в раковине.",
+      "farsi": "آن‌ها وقتی مشکلی دارند، مثلاً وقتی لوله تخلیه سینک چکه می‌کند، با گوشی هوشمند با من تماس می‌گیرند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bitte sie dann, dass sie mir per WhatsApp ein Foto zuschicken.",
+      "english": "I then ask them to send me a photo via WhatsApp.",
+      "russian": "Я прошу их прислать мне фотографию по WhatsApp.",
+      "farsi": "من از آن‌ها می‌خواهم که یک عکس از طریق واتس‌اپ برایم بفرستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dann kann ich sehr oft schon sehen, wo der Fehler ist.",
+      "english": "Then I can often already see where the problem is.",
+      "russian": "Тогда я часто сразу могу увидеть, в чём проблема.",
+      "farsi": "در این صورت خیلی وقت‌ها می‌توانم بفهمم مشکل کجاست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "So sparen nicht nur ich, sondern auch die Kundinnen und Kunden viel Zeit.",
+      "english": "This way, not only I, but also the customers save a lot of time.",
+      "russian": "Так экономлю время не только я, но и клиенты.",
+      "farsi": "به این ترتیب نه تنها من، بلکه مشتریان هم وقت زیادی صرفه‌جویی می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn eine Heizungsanlage oder eine Pumpe defekt ist, untersuche ich die Geräte und mache Fotos, die ich dann den Kunden zeige.",
+      "english": "If a heating system or a pump is defective, I examine the devices and take photos, which I then show to the customers.",
+      "russian": "Если отопительная система или насос неисправны, я осматриваю оборудование и делаю фотографии, которые потом показываю клиентам.",
+      "farsi": "اگر یک سیستم گرمایشی یا پمپ خراب باشد، دستگاه‌ها را بررسی می‌کنم و عکس می‌گیرم تا بعد به مشتریان نشان دهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Für Arbeitsberichte benutze ich kein Papier mehr, sondern eine App.",
+      "english": "I no longer use paper for work reports, but an app.",
+      "russian": "Для рабочих отчётов я больше не использую бумагу, а приложение.",
+      "farsi": "برای گزارش‌های کاری دیگر از کاغذ استفاده نمی‌کنم، بلکه از یک اپلیکیشن استفاده می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich zeige sie den Kunden direkt auf dem Tablet und sie unterschreiben digital.",
+      "english": "I show them to the customers directly on the tablet and they sign digitally.",
+      "russian": "Я показываю их клиентам прямо на планшете, и они подписывают их в электронном виде.",
+      "farsi": "گزارش‌ها را مستقیماً روی تبلت به مشتریان نشان می‌دهم و آن‌ها به صورت دیجیتال امضا می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Den Arbeitsbericht schicke ich ihnen dann sofort per E-Mail zu.",
+      "english": "I then send the work report to them immediately by email.",
+      "russian": "Затем я сразу отправляю рабочий отчёт им по электронной почте.",
+      "farsi": "سپس گزارش کاری را بلافاصله برایشان ایمیل می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe auch ein Programm, mit dem ich ganz schnell Rechnungen schreiben kann.",
+      "english": "I also have a program with which I can write invoices very quickly.",
+      "russian": "У меня также есть программа, с помощью которой я могу очень быстро выписывать счета.",
+      "farsi": "همچنین یک برنامه دارم که با آن می‌توانم خیلی سریع فاکتور بنویسم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Welche Medien hat Joachim Schote früher für Hörtexte benutzt?",
+      "english": "Which media did Joachim Schote use for audio texts in the past?",
+      "russian": "Какие носители раньше использовал Иоахим Шоте для аудиотекстов?",
+      "farsi": "یواخیم شوت قبلاً از چه رسانه‌هایی برای فایل‌های شنیداری استفاده می‌کرد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Warum findet er das Smartboard praktisch?",
+      "english": "Why does he find the smartboard practical?",
+      "russian": "Почему он считает смартборд удобным?",
+      "farsi": "چرا او اسمارت‌بورد را کاربردی می‌داند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Warum benutzt er manchmal lieber das Whiteboard?",
+      "english": "Why does he sometimes prefer to use the whiteboard?",
+      "russian": "Почему он иногда предпочитает использовать обычную доску?",
+      "farsi": "چرا او گاهی ترجیح می‌دهد از وایت‌برد استفاده کند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wofür verwendet Jördis Maier WhatsApp?",
+      "english": "What does Jördis Maier use WhatsApp for?",
+      "russian": "Для чего Йёрдис Майер использует WhatsApp?",
+      "farsi": "یوردیس مایر از واتس‌اپ برای چه کاری استفاده می‌کند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie unterschreiben ihre Kunden heute Arbeitsberichte?",
+      "english": "How do her customers sign work reports today?",
+      "russian": "Как её клиенты сегодня подписывают рабочие отчёты?",
+      "farsi": "امروزه مشتریان او چگونه گزارش‌های کاری را امضا می‌کنند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Warum kann sie heute sehr schnell Rechnungen schreiben?",
+      "english": "Why can she write invoices very quickly today?",
+      "russian": "Почему она сегодня может очень быстро выписывать счета?",
+      "farsi": "چرا او امروزه می‌تواند خیلی سریع فاکتور بنویسد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich benutze oft die Wetter- App …",
+      "english": "I often use the weather app ...",
+      "russian": "Я часто пользуюсь приложением погоды ...",
+      "farsi": "من اغلب از اپلیکیشن هواشناسی استفاده می‌کنم ..."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was machst du damit?",
+      "english": "What do you do with it?",
+      "russian": "Что ты с ней делаешь?",
+      "farsi": "با آن چه کار می‌کنی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich prüfe jeden Morgen, wie das Wetter wird.",
+      "english": "I check every morning what the weather will be like.",
+      "russian": "Я каждое утро проверяю, какая будет погода.",
+      "farsi": "هر صبح بررسی می‌کنم که هوا چگونه خواهد بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dann weiß ich, ob ich mit dem Fahrrad oder dem Auto zur Arbeit fahre.",
+      "english": "Then I know whether I go to work by bike or by car.",
+      "russian": "Тогда я знаю, поеду ли я на работу на велосипеде или на машине.",
+      "farsi": "بعد می‌دانم که با دوچرخه یا با ماشین به سر کار بروم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ist die App gratis?",
+      "english": "Is the app free?",
+      "russian": "Приложение бесплатное?",
+      "farsi": "آیا این اپلیکیشن رایگان است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es gibt zwei Versionen, die eine … und die andere …",
+      "english": "There are two versions, one ... and the other ...",
+      "russian": "Есть две версии: одна ... и другая ...",
+      "farsi": "دو نسخه وجود دارد، یکی ... و دیگری ..."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein Kopierer streikt.",
+      "english": "My copier is on strike.",
+      "russian": "Мой копировальный аппарат не работает.",
+      "farsi": "دستگاه کپی من خراب شده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich kann weder scannen noch kopieren.",
+      "english": "I can neither scan nor copy.",
+      "russian": "Я не могу ни сканировать, ни копировать.",
+      "farsi": "نه می‌توانم اسکن کنم و نه کپی بگیرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie heute noch zu mir ins Büro kommen und mal schauen, was los ist?",
+      "english": "Could you come to my office today and have a look at what is going on?",
+      "russian": "Могли бы вы сегодня прийти ко мне в офис и посмотреть, в чём дело?",
+      "farsi": "می‌توانید امروز به دفتر من بیایید و ببینید مشکل چیست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mir ist etwas Dummes passiert.",
+      "english": "Something stupid happened to me.",
+      "russian": "Со мной случилось кое-что глупое.",
+      "farsi": "یک اتفاق احمقانه برایم افتاده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein Account ist gesperrt, weil ich mein Passwort dreimal falsch eingegeben habe.",
+      "english": "My account is locked because I entered my password incorrectly three times.",
+      "russian": "Мой аккаунт заблокирован, потому что я трижды неправильно ввёл пароль.",
+      "farsi": "حساب من مسدود شده چون سه بار رمز عبورم را اشتباه وارد کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und jetzt? Ich habe nicht nur mein Passwort vergessen, sondern auch, wie ich das Problem alleine lösen kann.",
+      "english": "And now? I have not only forgotten my password, but also how to solve the problem on my own.",
+      "russian": "И что теперь? Я не только забыл свой пароль, но и то, как самостоятельно решить эту проблему.",
+      "farsi": "حالا چی؟ من نه تنها رمز عبورم را فراموش کرده‌ام، بلکه یادم نیست چطور خودم مشکل را حل کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kannst mir bitte helfen?",
+      "english": "Can you please help me?",
+      "russian": "Можешь мне, пожалуйста, помочь?",
+      "farsi": "می‌توانی لطفاً به من کمک کنی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "am Mittwoch, dem 25.11. muss im dritten Stock der Strom wegen Wartungsarbeiten zwischen 10.00 und 15.00 Uhr abgeschaltet werden.",
+      "english": "On Wednesday, November 25th, the electricity on the third floor must be turned off between 10:00 and 15:00 due to maintenance work.",
+      "russian": "В среду, 25 ноября, на третьем этаже из-за ремонтных работ с 10:00 до 15:00 будет отключено электричество.",
+      "farsi": "روز چهارشنبه، ۲۵ نوامبر، به دلیل تعمیرات، برق طبقه سوم بین ساعت ۱۰ تا ۱۵ قطع خواهد شد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Deshalb sind sowohl das Internet und die Computer als auch die Telefonanlage außer Betrieb.",
+      "english": "Therefore, both the internet and the computers as well as the telephone system will be out of service.",
+      "russian": "Поэтому не будут работать ни интернет, ни компьютеры, ни телефонная система.",
+      "farsi": "به همین دلیل هم اینترنت و هم کامپیوترها و همچنین سیستم تلفن از کار خواهند افتاد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das bedeutet: Entweder arbeiten Sie am 25.11. im Homeoffice oder Sie nehmen einen Urlaubstag.",
+      "english": "This means: Either you work from home on November 25th or you take a day off.",
+      "russian": "Это значит: либо вы работаете 25 ноября из дома, либо берёте выходной.",
+      "farsi": "این یعنی: یا در تاریخ ۲۵ نوامبر دورکاری کنید یا یک روز مرخصی بگیرید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Frau Essfeld hat große Probleme mit unserem Anmeldeprogramm QX.",
+      "english": "Ms. Essfeld is having major problems with our registration program QX.",
+      "russian": "У госпожи Эссфельд большие проблемы с нашей регистрационной программой QX.",
+      "farsi": "خانم اسفلد با برنامه ثبت‌نام ما به نام QX مشکلات زیادی دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es ist sehr langsam und manchmal können sich Interessenten nicht für die Sprachkurse der Volkshochschule anmelden.",
+      "english": "It is very slow and sometimes interested people cannot register for the adult education center's language courses.",
+      "russian": "Она очень медленная, и иногда желающие не могут записаться на языковые курсы в народном университете.",
+      "farsi": "این برنامه خیلی کند است و گاهی علاقه‌مندان نمی‌توانند برای دوره‌های زبان آموزشگاه ثبت‌نام کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mittlerweile sind modernere Programme auf dem Markt.",
+      "english": "Meanwhile, more modern programs are available on the market.",
+      "russian": "Тем временем на рынке появились более современные программы.",
+      "farsi": "در حال حاضر برنامه‌های مدرن‌تری در بازار وجود دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe mich über die Kosten informiert und würde gerne mit Ihnen darüber sprechen.",
+      "english": "I have informed myself about the costs and would like to discuss them with you.",
+      "russian": "Я узнал(а) о стоимости и хотел(а) бы поговорить с вами об этом.",
+      "farsi": "من درباره هزینه‌ها اطلاعات کسب کرده‌ام و دوست دارم با شما در این باره صحبت کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wann haben Sie Zeit?",
+      "english": "When do you have time?",
+      "russian": "Когда у вас будет время?",
+      "farsi": "چه زمانی وقت دارید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Jetzt geht das schon wieder nicht.",
+      "english": "Now it is not working again.",
+      "russian": "Теперь это снова не работает.",
+      "farsi": "الان دوباره کار نمی‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wo habe ich denn die Nummer des Supports? Ah, hier.",
+      "english": "Where do I have the support number? Ah, here.",
+      "russian": "Где же у меня номер службы поддержки? А, вот он.",
+      "farsi": "شماره پشتیبانی را کجا گذاشته‌ام؟ آها، اینجاست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Guten Tag! Sie sind verbunden mit der technischen Hotline von Matzon.",
+      "english": "Good day! You are connected to the technical hotline of Matzon.",
+      "russian": "Добрый день! Вы подключены к технической горячей линии компании Matzon.",
+      "farsi": "روز بخیر! شما به خط پشتیبانی فنی ماتزون وصل شده‌اید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Damit wir Ihnen schnell helfen können, drücken Sie bitte die Taste eins für Fragen zu Software und Apps, zwei für Fragen zu Tablet-PCs und Notebooks, drei für Fragen zu PCs und vier für Fragen zu Druckern.",
+      "english": "So that we can help you quickly, please press key one for questions about software and apps, two for questions about tablet PCs and notebooks, three for questions about PCs, and four for questions about printers.",
+      "russian": "Чтобы мы могли быстро помочь вам, нажмите, пожалуйста, клавишу один для вопросов по программному обеспечению и приложениям, два - по планшетам и ноутбукам, три - по ПК и четыре - по принтерам.",
+      "farsi": "برای اینکه بتوانیم سریع‌تر به شما کمک کنیم، لطفاً برای سوالات مربوط به نرم‌افزار و اپلیکیشن‌ها کلید یک، برای تبلت و نوت‌بوک کلید دو، برای رایانه کلید سه و برای پرینتر کلید چهار را فشار دهید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "… also die Taste vier.",
+      "english": "... so key four.",
+      "russian": "... значит, клавиша четыре.",
+      "farsi": "... پس کلید چهار."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vielen Dank. Bitte haben Sie einen Moment Geduld.",
+      "english": "Thank you very much. Please be patient for a moment.",
+      "russian": "Большое спасибо. Пожалуйста, подождите немного.",
+      "farsi": "بسیار متشکرم. لطفاً کمی صبر کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im Moment sind alle unsere Mitarbeiter im Gespräch.",
+      "english": "At the moment, all our employees are on a call.",
+      "russian": "В данный момент все наши сотрудники разговаривают по телефону.",
+      "farsi": "در حال حاضر همه کارکنان ما در حال مکالمه هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir verbinden Sie so schnell wie möglich.",
+      "english": "We will connect you as soon as possible.",
+      "russian": "Мы свяжем вас как можно скорее.",
+      "farsi": "ما در اسرع وقت شما را وصل خواهیم کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die IT-Hotline, Anita Thomas.",
+      "english": "The IT hotline, Anita Thomas.",
+      "russian": "IT-горячая линия, Анита Томас.",
+      "farsi": "خط پشتیبانی فناوری اطلاعات، آنیتا توماس."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie kann ich Ihnen helfen?",
+      "english": "How can I help you?",
+      "russian": "Чем я могу вам помочь?",
+      "farsi": "چطور می‌توانم به شما کمک کنم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Guten Tag.",
+      "english": "Good day.",
+      "russian": "Добрый день.",
+      "farsi": "روز بخیر."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Victor Dobre hier. Ich habe ein Problem.",
+      "english": "Victor Dobre here. I have a problem.",
+      "russian": "Виктор Добре, это я. У меня проблема.",
+      "farsi": "ویکتور دوبرو هستم. یک مشکل دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe einen neuen Netzwerkdrucker, aber ich kann ihn weder installieren noch druckt er.",
+      "english": "I have a new network printer, but I can neither install it nor does it print.",
+      "russian": "У меня новый сетевой принтер, но я не могу его ни установить, ни напечатать на нём.",
+      "farsi": "یک پرینتر شبکه‌ای جدید دارم، اما نه می‌توانم آن را نصب کنم و نه چاپ می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie heißt Ihr Drucker?",
+      "english": "What is the name of your printer?",
+      "russian": "Как называется ваш принтер?",
+      "farsi": "نام پرینتر شما چیست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das ist der Pro-Printer 3000-A.",
+      "english": "It is the Pro-Printer 3000-A.",
+      "russian": "Это Pro-Printer 3000-A.",
+      "farsi": "این پرینتر پرو-پرینتر ۳۰۰۰-A است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Verstehe. Vielleicht ist der Drucker an Ihrem Rechner noch nicht installiert.",
+      "english": "I see. Maybe the printer is not yet installed on your computer.",
+      "russian": "Понимаю. Возможно, принтер ещё не установлен на вашем компьютере.",
+      "farsi": "متوجه شدم. شاید پرینتر هنوز روی رایانه شما نصب نشده باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Klicken Sie zuerst auf „Start“.",
+      "english": "First, click on 'Start.'",
+      "russian": "Сначала нажмите на «Пуск».",
+      "farsi": "ابتدا روی «استارت» کلیک کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Habe ich gemacht.",
+      "english": "I have done that.",
+      "russian": "Я это сделал.",
+      "farsi": "انجام دادم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Gut, jetzt klicken Sie auf „Einstellungen“ und dann auf „Geräte“.",
+      "english": "Good, now click on 'Settings' and then on 'Devices.'",
+      "russian": "Хорошо, теперь нажмите «Настройки», а затем «Устройства».",
+      "farsi": "خوب، حالا روی «تنظیمات» و سپس روی «دستگاه‌ها» کلیک کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Jetzt müssten Sie an Ihrem Bildschirm unter „Drucker“ Ihren Drucker Pro-Printer 3000-A sehen.",
+      "english": "Now you should see your Pro-Printer 3000-A under 'Printers' on your screen.",
+      "russian": "Теперь вы должны увидеть свой принтер Pro-Printer 3000-A в разделе «Принтеры» на экране.",
+      "farsi": "حالا باید پرینتر Pro-Printer 3000-A را زیر بخش «پرینترها» روی صفحه خود ببینید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nein, leider nicht.",
+      "english": "No, unfortunately not.",
+      "russian": "Нет, к сожалению, нет.",
+      "farsi": "نه، متأسفانه نه."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dann muss der Drucker noch hinzugefügt werden.",
+      "english": "Then the printer still needs to be added.",
+      "russian": "Тогда принтер нужно добавить.",
+      "farsi": "پس باید پرینتر را اضافه کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wählen Sie „Drucker hinzufügen“ mit einem Doppelklick aus.",
+      "english": "Select 'Add printer' with a double click.",
+      "russian": "Выберите «Добавить принтер» двойным щелчком.",
+      "farsi": "«افزودن پرینتر» را با دوبار کلیک انتخاب کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Warten Sie, bis der Drucker gefunden wird.",
+      "english": "Wait until the printer is found.",
+      "russian": "Подождите, пока принтер будет найден.",
+      "farsi": "صبر کنید تا پرینتر پیدا شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ah, jetzt sehe ich ganz viele Drucker.",
+      "english": "Ah, now I see a lot of printers.",
+      "russian": "А, теперь я вижу много принтеров.",
+      "farsi": "آها، حالا تعداد زیادی پرینتر می‌بینم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sehr gut. Klicken Sie jetzt auf den Pro-Printer 3000-A und wählen Sie dann „Gerät hinzufügen“ aus.",
+      "english": "Very good. Now click on the Pro-Printer 3000-A and then select 'Add device.'",
+      "russian": "Очень хорошо. Теперь кликните на Pro-Printer 3000-A и выберите «Добавить устройство».",
+      "farsi": "خیلی خوب. حالا روی Pro-Printer 3000-A کلیک کنید و سپس «افزودن دستگاه» را انتخاب کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Jetzt müssten Sie drucken können.",
+      "english": "Now you should be able to print.",
+      "russian": "Теперь вы должны иметь возможность печатать.",
+      "farsi": "حالا باید بتوانید چاپ کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Super, vielen Dank für Ihre Hilfe!",
+      "english": "Great, thank you very much for your help!",
+      "russian": "Отлично, большое спасибо за вашу помощь!",
+      "farsi": "عالی، خیلی ممنون بابت کمکتان!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Herr Dobres Drucker heißt Pro-Printer 300-A.",
+      "english": "Mr. Dobre's printer is called Pro-Printer 300-A.",
+      "russian": "Принтер господина Добре называется Pro-Printer 300-A.",
+      "farsi": "پرینتر آقای دوبرو Pro-Printer 300-A نام دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Frau Thomas vermutet, dass der Drucker nicht installiert ist.",
+      "english": "Ms. Thomas suspects that the printer is not installed.",
+      "russian": "Госпожа Томас предполагает, что принтер не установлен.",
+      "farsi": "خانم توماس حدس می‌زند که پرینتر نصب نشده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er soll zuerst auf „Start“ und dann auf „Geräte“ klicken.",
+      "english": "He should first click on 'Start' and then on 'Devices.'",
+      "russian": "Сначала ему нужно нажать на «Пуск», а затем на «Устройства».",
+      "farsi": "او باید ابتدا روی «استارت» و سپس روی «دستگاه‌ها» کلیک کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er soll seinen Drucker aus einer Liste mit vielen Druckern auswählen.",
+      "english": "He should select his printer from a list with many printers.",
+      "russian": "Он должен выбрать свой принтер из списка с множеством принтеров.",
+      "farsi": "او باید پرینتر خود را از بین لیستی از پرینترهای متعدد انتخاب کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im Internet finden Sie fast alles, was Sie suchen – wenn Sie richtig fragen.",
+      "english": "On the internet, you can find almost everything you are looking for-if you ask correctly.",
+      "russian": "В интернете вы найдёте почти всё, что ищете - если правильно спрашиваете.",
+      "farsi": "در اینترنت تقریباً هر چیزی که دنبالش هستید را پیدا می‌کنید-اگر درست جستجو کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "So können Sie vorgehen:",
+      "english": "This is how you can proceed:",
+      "russian": "Вот как вы можете действовать:",
+      "farsi": "می‌توانید این‌گونه عمل کنید:"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Eine Suchmaschine wie Google, Bing oder Yahoo im Internet öffnen.",
+      "english": "Open a search engine like Google, Bing, or Yahoo on the internet.",
+      "russian": "Откройте поисковую систему, например Google, Bing или Yahoo, в интернете.",
+      "farsi": "یک موتور جستجو مانند گوگل، بینگ یا یاهو را در اینترنت باز کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vor der Recherche überlegen, was Sie suchen.",
+      "english": "Before researching, think about what you are looking for.",
+      "russian": "Перед поиском подумайте, что вы ищете.",
+      "farsi": "قبل از جستجو فکر کنید که دنبال چه چیزی هستید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Weil Suchmaschinen nicht denken können, ist es wichtig, die richtigen Suchbegriffe einzugeben.",
+      "english": "Because search engines cannot think, it is important to enter the correct search terms.",
+      "russian": "Поскольку поисковые системы не умеют думать, важно вводить правильные поисковые запросы.",
+      "farsi": "چون موتورهای جستجو نمی‌توانند فکر کنند، وارد کردن واژه‌های جستجوی درست اهمیت دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Suchbegriffe im Singular und kleingeschrieben eingeben.",
+      "english": "Enter search terms in the singular and in lowercase.",
+      "russian": "Вводите поисковые слова в единственном числе и с маленькой буквы.",
+      "farsi": "واژه‌های جستجو را به صورت مفرد و با حروف کوچک وارد کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Ergebnis wird genauer, wenn man mehr Wörter eintippt.",
+      "english": "The result becomes more precise when you enter more words.",
+      "russian": "Результат становится точнее, если ввести больше слов.",
+      "farsi": "هرچه واژه‌های بیشتری وارد کنید، نتیجه دقیق‌تر خواهد بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ein einzelner Suchbegriff bringt oft Hunderttausende von Treffern.",
+      "english": "A single search term often yields hundreds of thousands of results.",
+      "russian": "Один поисковый запрос часто даёт сотни тысяч результатов.",
+      "farsi": "یک واژه جستجوی تنها اغلب صدها هزار نتیجه به همراه دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Deshalb kann man mehrere Suchbegriffe mit der Leertaste trennen und so gezielter nach Informationen suchen.",
+      "english": "Therefore, you can separate several search terms with the space bar and thus search for information more specifically.",
+      "russian": "Поэтому можно разделять несколько поисковых слов пробелом и таким образом искать информацию более целенаправленно.",
+      "farsi": "به همین دلیل می‌توانید چند واژه جستجو را با فاصله جدا کنید و به این ترتیب هدفمندتر دنبال اطلاعات بگردید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Auf die Links klicken, die seriös aussehen.",
+      "english": "Click on the links that look reputable.",
+      "russian": "Нажимайте на те ссылки, которые выглядят надёжно.",
+      "farsi": "روی لینک‌هایی کلیک کنید که معتبر به نظر می‌رسند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Welche Suchwörter haben Sie eingegeben?",
+      "english": "Which search words did you enter?",
+      "russian": "Какие поисковые слова вы ввели?",
+      "farsi": "چه واژه‌هایی را جستجو کردید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie viele Ergebnisse haben Sie bekommen?",
+      "english": "How many results did you get?",
+      "russian": "Сколько результатов вы получили?",
+      "farsi": "چند نتیجه به دست آوردید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Welche Anbieter haben Sie gefunden?",
+      "english": "Which providers did you find?",
+      "russian": "Каких поставщиков вы нашли?",
+      "farsi": "چه ارائه‌دهندگانی پیدا کردید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "KI oder Künstliche Intelligenz:",
+      "english": "AI or artificial intelligence:",
+      "russian": "ИИ или искусственный интеллект:",
+      "farsi": "هوش مصنوعی یا AI:"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Davon liest und hört man in Zeitungsmeldungen oder Nachrichtenblogs im Internet sowie im Radio und Fernsehen immer häufiger.",
+      "english": "You read and hear about it more and more often in newspaper reports or news blogs on the internet as well as on radio and television.",
+      "russian": "Об этом всё чаще читают и слышат в газетах, новостных блогах в интернете, а также по радио и телевидению.",
+      "farsi": "در گزارش‌های روزنامه‌ها یا وبلاگ‌های خبری در اینترنت و همچنین در رادیو و تلویزیون هر روز بیشتر درباره آن می‌خوانیم و می‌شنویم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "KI bedeutet, dass Programme ähnlich funktionieren können wie das Denken von Menschen.",
+      "english": "AI means that programs can function in a way similar to human thinking.",
+      "russian": "ИИ означает, что программы могут работать подобно человеческому мышлению.",
+      "farsi": "هوش مصنوعی یعنی برنامه‌ها می‌توانند مشابه تفکر انسان عمل کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie sammeln Daten und lernen durch Erfahrung und sie lösen Probleme selbstständig.",
+      "english": "They collect data and learn through experience, and they solve problems independently.",
+      "russian": "Они собирают данные и учатся на опыте, а также самостоятельно решают проблемы.",
+      "farsi": "آن‌ها داده‌ها را جمع‌آوری می‌کنند و از طریق تجربه یاد می‌گیرند و مشکلات را به طور مستقل حل می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ein großer Vorteil ist, dass sie dabei schneller und auch effektiver sein können als Menschen.",
+      "english": "A major advantage is that they can be faster and also more effective than humans.",
+      "russian": "Большое преимущество в том, что они могут быть быстрее и эффективнее людей.",
+      "farsi": "یک مزیت بزرگ این است که آن‌ها می‌توانند سریع‌تر و مؤثرتر از انسان باشند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "KI wird schon heute in Unternehmen auf verschiedene Weise genutzt.",
+      "english": "AI is already being used in companies in various ways today.",
+      "russian": "ИИ уже сегодня используется в компаниях по-разному.",
+      "farsi": "هوش مصنوعی امروزه به روش‌های مختلفی در شرکت‌ها استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "So kann KI Produktionsprozesse optimieren, um schon früh Fehler zu erkennen und vorauszusehen.",
+      "english": "For example, AI can optimize production processes in order to detect and predict errors early.",
+      "russian": "Например, ИИ может оптимизировать производственные процессы, чтобы заранее выявлять и предсказывать ошибки.",
+      "farsi": "مثلاً هوش مصنوعی می‌تواند فرایندهای تولید را بهینه کند تا خطاها را زود تشخیص داده و پیش‌بینی کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das soll den Unternehmen helfen, besser zu planen.",
+      "english": "This is intended to help companies plan better.",
+      "russian": "Это должно помочь компаниям лучше планировать.",
+      "farsi": "این قرار است به شرکت‌ها کمک کند بهتر برنامه‌ریزی کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Mitarbeitenden müssen sich weniger mit Problemen in der Produktion beschäftigen und können dadurch effektiver arbeiten.",
+      "english": "Employees have to deal less with problems in production and can thus work more effectively.",
+      "russian": "Сотрудникам приходится меньше заниматься проблемами на производстве, и они могут работать эффективнее.",
+      "farsi": "کارکنان کمتر مجبورند با مشکلات تولید درگیر شوند و به این ترتیب مؤثرتر کار می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "KI ist in Unternehmen schon heute so weit verbreitet, dass die Beschäftigten sie im Arbeitsalltag kaum bemerken.",
+      "english": "AI is already so widespread in companies today that employees hardly notice it in their daily work.",
+      "russian": "ИИ уже настолько широко распространён в компаниях, что сотрудники почти не замечают его в повседневной работе.",
+      "farsi": "هوش مصنوعی امروزه آن‌قدر در شرکت‌ها رایج است که کارکنان در زندگی کاری روزمره تقریباً متوجه آن نمی‌شوند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Viele sind beim Thema KI auch skeptisch, weil sie Angst haben, dass sie ihren Arbeitsplatz verlieren.",
+      "english": "Many are also skeptical about AI because they are afraid of losing their jobs.",
+      "russian": "Многие скептически относятся к ИИ, потому что боятся потерять работу.",
+      "farsi": "خیلی‌ها نسبت به موضوع هوش مصنوعی تردید دارند، چون می‌ترسند شغلشان را از دست بدهند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich aber denke: Man muss keine Angst vor KI haben.",
+      "english": "But I think: There is no need to be afraid of AI.",
+      "russian": "Но я считаю: бояться ИИ не нужно.",
+      "farsi": "اما من فکر می‌کنم: نباید از هوش مصنوعی ترسید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie soll den Menschen unterstützen.",
+      "english": "It is supposed to support people.",
+      "russian": "Она должна поддерживать людей.",
+      "farsi": "هوش مصنوعی باید از انسان‌ها حمایت کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn die Unternehmen sie richtig einsetzen, kann der Arbeitsalltag viel ruhiger und entspannter werden.",
+      "english": "If companies use it correctly, everyday work can become much calmer and more relaxed.",
+      "russian": "Если компании будут правильно её использовать, рабочие будни могут стать намного спокойнее и комфортнее.",
+      "farsi": "اگر شرکت‌ها به درستی از آن استفاده کنند، روز کاری می‌تواند بسیار آرام‌تر و راحت‌تر شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Arbeitsplätze könnten sogar sicherer werden, weil ein Unternehmen durch KI auf dem Markt konkurrenzfähiger wird.",
+      "english": "Jobs could even become more secure because a company becomes more competitive on the market through AI.",
+      "russian": "Рабочие места могут даже стать безопаснее, потому что компания с помощью ИИ становится более конкурентоспособной на рынке.",
+      "farsi": "حتی ممکن است شغل‌ها امن‌تر شوند، چون شرکت با هوش مصنوعی در بازار رقابتی‌تر می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Manche haben auch Angst, dass KI ein eigenes Bewusstsein bekommt und eine Konkurrenz zum Menschen wird.",
+      "english": "Some are also afraid that AI will develop its own consciousness and become a competitor to humans.",
+      "russian": "Некоторые также боятся, что ИИ приобретёт собственное сознание и станет конкурентом человеку.",
+      "farsi": "برخی هم می‌ترسند که هوش مصنوعی به خودآگاهی برسد و رقیب انسان شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dieses Thema ist auch in Science-Fiction-Filmen sehr beliebt.",
+      "english": "This topic is also very popular in science fiction films.",
+      "russian": "Эта тема также очень популярна в научно-фантастических фильмах.",
+      "farsi": "این موضوع در فیلم‌های علمی-تخیلی هم بسیار محبوب است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber auch da bin ich optimistisch.",
+      "english": "But I am optimistic about that as well.",
+      "russian": "Но и здесь я оптимистично настроен.",
+      "farsi": "اما در این مورد هم خوش‌بین هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ein gutes Beispiel dafür ist der Chatbot ChatGPT, den viele Leute im Alltag und privat benutzen, zum Beispiel um Briefe zu schreiben.",
+      "english": "A good example of this is the chatbot ChatGPT, which many people use in everyday life and privately, for example to write letters.",
+      "russian": "Хороший пример этого - чат-бот ChatGPT, которым многие пользуются в повседневной жизни и в личных целях, например, чтобы писать письма.",
+      "farsi": "یک مثال خوب برای این موضوع چت‌بات ChatGPT است که خیلی‌ها در زندگی روزمره و خصوصی استفاده می‌کنند، مثلاً برای نوشتن نامه."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man kann mit ChatGPT wie mit einem realen Menschen kommunizieren und durch geschickte Fragen und Anweisungen an ChatGPT gute und immer bessere Ergebnisse bekommen.",
+      "english": "You can communicate with ChatGPT like with a real person and, through clever questions and instructions, get good and ever better results.",
+      "russian": "С ChatGPT можно общаться как с реальным человеком и с помощью умных вопросов и инструкций получать хорошие и всё более лучшие результаты.",
+      "farsi": "می‌توان با ChatGPT مثل یک انسان واقعی ارتباط برقرار کرد و با پرسش‌ها و دستورهای هوشمندانه نتایج خوب و هر بار بهتری گرفت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich stimme der Kommentatorin zu.",
+      "english": "I agree with the commentator.",
+      "russian": "Я согласен с комментатором.",
+      "farsi": "من با نظر مفسر موافقم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "KI wird für viele Menschen die Arbeit erleichtern.",
+      "english": "AI will make work easier for many people.",
+      "russian": "ИИ упростит работу для многих людей.",
+      "farsi": "هوش مصنوعی کار را برای خیلی‌ها آسان‌تر خواهد کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es kann aber auch sein, dass viele dadurch ihre Arbeit verlieren.",
+      "english": "But it is also possible that many will lose their jobs because of it.",
+      "russian": "Но также возможно, что многие из-за этого потеряют работу.",
+      "farsi": "اما ممکن است خیلی‌ها به همین دلیل شغل خود را از دست بدهند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich kenne ChatGPT.",
+      "english": "I know ChatGPT.",
+      "russian": "Я знаю ChatGPT.",
+      "farsi": "من ChatGPT را می‌شناسم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe damit meinen Urlaub organisiert.",
+      "english": "I organized my vacation with it.",
+      "russian": "Я с его помощью организовал(а) свой отпуск.",
+      "farsi": "با آن تعطیلاتم را برنامه‌ریزی کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das war sehr praktisch.",
+      "english": "That was very practical.",
+      "russian": "Это было очень удобно.",
+      "farsi": "این خیلی کاربردی بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Früher habe ich meinen Tagesplan in ein Notizheft geschrieben.",
+      "english": "I used to write my daily schedule in a notebook.",
+      "russian": "Раньше я записывал свой дневной план в блокнот.",
+      "farsi": "قبلاً برنامه روزانه‌ام را در یک دفترچه یادداشت می‌نوشتم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Heute mache ich das mit einer App.",
+      "english": "Today I do that with an app.",
+      "russian": "Сегодня я делаю это с помощью приложения.",
+      "farsi": "امروز این کار را با یک اپلیکیشن انجام می‌دهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich war LKW-Fahrer.",
+      "english": "I was a truck driver.",
+      "russian": "Я был водителем грузовика.",
+      "farsi": "من راننده کامیون بودم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In einigen Jahren werden LKWs vielleicht durch GPS gesteuert auf der Autobahn fahren.",
+      "english": "In a few years, trucks might be driving on the highway controlled by GPS.",
+      "russian": "Через несколько лет, возможно, грузовики будут ездить по автомагистрали под управлением GPS.",
+      "farsi": "شاید چند سال دیگر کامیون‌ها با هدایت GPS در بزرگراه حرکت کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In dem Beruf wird es möglicherweise mehr Roboter und weniger Arbeitskräfte geben.",
+      "english": "In that profession, there may possibly be more robots and fewer workers.",
+      "russian": "В этой профессии, возможно, будет больше роботов и меньше рабочих.",
+      "farsi": "در این شغل احتمالاً ربات‌های بیشتری و نیروی انسانی کمتری وجود خواهد داشت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mit einem Handy konnte man früher nur telefonieren, vielleicht auch fotografieren.",
+      "english": "With a mobile phone, you could only make calls in the past, maybe also take photos.",
+      "russian": "Раньше с мобильного телефона можно было только звонить, может быть, ещё фотографировать.",
+      "farsi": "قبلاً با یک گوشی فقط می‌شد تماس گرفت، شاید هم عکس گرفت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber heute kann man mit einem Smartphone im Internet surfen, Texte schreiben und vieles mehr.",
+      "english": "But today you can surf the internet, write texts, and do much more with a smartphone.",
+      "russian": "Но сегодня со смартфоном можно выходить в интернет, писать тексты и многое другое.",
+      "farsi": "اما امروزه با یک گوشی هوشمند می‌توان در اینترنت گشت، متن نوشت و کارهای زیادی انجام داد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Tablets sind sehr praktisch.",
+      "english": "Tablets are very practical.",
+      "russian": "Планшеты очень удобны.",
+      "farsi": "تبلت‌ها بسیار کاربردی هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich benutze mein Tablet, um Filme zu sehen.",
+      "english": "I use my tablet to watch movies.",
+      "russian": "Я использую свой планшет, чтобы смотреть фильмы.",
+      "farsi": "من از تبلتم برای تماشای فیلم استفاده می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ein Smartboard ist für den Unterricht oder auch Werbung geeignet.",
+      "english": "A smartboard is suitable for teaching or even advertising.",
+      "russian": "Смартборд подходит для учебы или даже для рекламы.",
+      "farsi": "اسمارت‌بورد برای تدریس یا حتی تبلیغات مناسب است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn ich Probleme mit dem Computer habe, rufe ich die Hotline an.",
+      "english": "When I have problems with the computer, I call the hotline.",
+      "russian": "Если у меня возникают проблемы с компьютером, я звоню на горячую линию.",
+      "farsi": "وقتی با کامپیوتر مشکل دارم، با پشتیبانی تماس می‌گیرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Mitarbeiter vom IT-Support können oft sehr schnell helfen.",
+      "english": "The IT support staff can often help very quickly.",
+      "russian": "Сотрудники IT-поддержки часто могут помочь очень быстро.",
+      "farsi": "کارکنان پشتیبانی فناوری اطلاعات اغلب می‌توانند خیلی سریع کمک کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In Zukunft wird es so weitergehen.",
+      "english": "In the future, it will continue like this.",
+      "russian": "В будущем всё будет продолжаться так же.",
+      "farsi": "در آینده همین روند ادامه خواهد داشت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Immer mehr Menschen werden wohl zu Hause bleiben.",
+      "english": "More and more people will probably stay at home.",
+      "russian": "Всё больше людей, вероятно, будут оставаться дома.",
+      "farsi": "احتمالاً افراد بیشتری در خانه خواهند ماند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man wird immer weniger Büroräume brauchen.",
+      "english": "Fewer and fewer office spaces will be needed.",
+      "russian": "Потребность в офисных помещениях будет всё меньше.",
+      "farsi": "نیاز به فضای اداری کمتر و کمتر خواهد شد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe nicht nur mein Passwort vergessen, sondern auch, wie ich das Problem lösen kann.",
+      "english": "I have not only forgotten my password, but also how I can solve the problem.",
+      "russian": "Я не только забыл свой пароль, но и то, как решить эту проблему.",
+      "farsi": "نه تنها رمز عبورم را فراموش کرده‌ام، بلکه یادم نیست چطور مشکل را حل کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sowohl das Internet und die Computer als auch die Telefonanlage sind außer Betrieb.",
+      "english": "Both the internet and the computers as well as the telephone system are out of service.",
+      "russian": "Не работают ни интернет, ни компьютеры, ни телефонная система.",
+      "farsi": "هم اینترنت و هم کامپیوترها و همچنین سیستم تلفن از کار افتاده‌اند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich kann weder scannen noch kopieren.",
+      "english": "I can neither scan nor copy.",
+      "russian": "Я не могу ни сканировать, ни копировать.",
+      "farsi": "نه می‌توانم اسکن کنم و نه کپی بگیرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Entweder arbeiten Sie am 25.11. im Homeoffice oder Sie nehmen einen Urlaubstag.",
+      "english": "Either you work from home on November 25th or you take a day off.",
+      "russian": "Либо вы работаете 25 ноября из дома, либо берёте выходной.",
+      "farsi": "یا در تاریخ ۲۵ نوامبر دورکاری کنید یا یک روز مرخصی بگیرید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Julio, ich habe Probleme mit dem Computer.",
+      "english": "Julio, I have problems with the computer.",
+      "russian": "Хулио, у меня проблемы с компьютером.",
+      "farsi": "خولیو، من با کامپیوتر مشکل دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Tatsächlich? Ich habe doch erst vor zwei Wochen ein neues Betriebssystem installiert.",
+      "english": "Really? I just installed a new operating system two weeks ago.",
+      "russian": "Правда? Я ведь только две недели назад установил новую операционную систему.",
+      "farsi": "واقعاً؟ من فقط دو هفته پیش یک سیستم‌عامل جدید نصب کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vielleicht ist die Festplatte nicht in Ordnung.",
+      "english": "Maybe the hard drive is not working properly.",
+      "russian": "Возможно, жёсткий диск неисправен.",
+      "farsi": "شاید هارد دیسک مشکل داشته باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Unsere Computer haben wir ja schon seit wir die Firma gegründet haben – also schon seit fünf Jahren.",
+      "english": "We have had our computers since we founded the company – so for five years now.",
+      "russian": "Наши компьютеры у нас с тех пор, как мы основали компанию – то есть уже пять лет.",
+      "farsi": "ما کامپیوترهایمان را از زمان تأسیس شرکت داریم – یعنی پنج سال است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, vielleicht sollten wir neue und modernere Computer kaufen.",
+      "english": "Yes, maybe we should buy new and more modern computers.",
+      "russian": "Да, возможно, нам стоит купить новые и более современные компьютеры.",
+      "farsi": "بله، شاید باید کامپیوترهای جدیدتر و مدرن‌تری بخریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Außerdem haben wir nicht genug Tablets.",
+      "english": "Besides, we do not have enough tablets.",
+      "russian": "Кроме того, у нас недостаточно планшетов.",
+      "farsi": "علاوه بر این، تبلت کافی نداریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie viele Computer und Tablets brauchen wir deiner Meinung nach?",
+      "english": "How many computers and tablets do you think we need?",
+      "russian": "Как ты думаешь, сколько компьютеров и планшетов нам нужно?",
+      "farsi": "به نظر تو به چند کامپیوتر و تبلت نیاز داریم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich denke, wir sollten alle Computer austauschen, das sind insgesamt 15 an den Büroarbeitsplätzen.",
+      "english": "I think we should replace all the computers, that is a total of 15 at the office workstations.",
+      "russian": "Я думаю, нам нужно заменить все компьютеры, всего это 15 на офисных рабочих местах.",
+      "farsi": "فکر می‌کنم باید همه کامپیوترها را عوض کنیم، در مجموع ۱۵ عدد برای محل‌های کار اداری."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Außerdem brauchen unsere Mitarbeiter im Außendienst mindestes zwölf zusätzliche Tablets.",
+      "english": "In addition, our field staff need at least twelve additional tablets.",
+      "russian": "Кроме того, нашим сотрудникам на выезде нужно как минимум двенадцать дополнительных планшетов.",
+      "farsi": "علاوه بر این، کارکنان ما در بخش بیرونی حداقل به دوازده تبلت اضافی نیاز دارند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "15 Computer, ja, das kann passen.",
+      "english": "15 computers, yes, that could work.",
+      "russian": "15 компьютеров, да, это может подойти.",
+      "farsi": "۱۵ کامپیوتر، بله، این می‌تواند مناسب باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die sind dann sicher schneller und arbeiten zuverlässiger.",
+      "english": "They will certainly be faster and work more reliably.",
+      "russian": "Они тогда наверняка будут быстрее и работать надёжнее.",
+      "farsi": "آن‌ها مطمئناً سریع‌تر و قابل اعتمادتر کار خواهند کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber zwölf Tablets?",
+      "english": "But twelve tablets?",
+      "russian": "Но двенадцать планшетов?",
+      "farsi": "اما دوازده تبلت؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich finde, das sind zu viele.",
+      "english": "I think that is too many.",
+      "russian": "Я считаю, что это слишком много.",
+      "farsi": "فکر می‌کنم این تعداد زیاد است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Reichen nicht sechs oder acht?",
+      "english": "Wouldn't six or eight be enough?",
+      "russian": "Разве не хватит шести или восьми?",
+      "farsi": "آیا شش یا هشت تا کافی نیست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das sollten wir noch mal prüfen.",
+      "english": "We should check that again.",
+      "russian": "Это нужно ещё раз проверить.",
+      "farsi": "باید دوباره این را بررسی کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vielleicht reichen auch acht.",
+      "english": "Maybe eight would be enough.",
+      "russian": "Может быть, хватит и восьми.",
+      "farsi": "شاید هشت تا هم کافی باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir müssen ja auch an die Kosten denken.",
+      "english": "We also have to think about the costs.",
+      "russian": "Нам ведь нужно думать и о расходах.",
+      "farsi": "ما باید به هزینه‌ها هم فکر کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Natürlich müssen wir die Preise genau kalkulieren.",
+      "english": "Of course, we have to calculate the prices precisely.",
+      "russian": "Конечно, нам нужно точно рассчитать цены.",
+      "farsi": "البته ما باید قیمت‌ها را دقیق محاسبه کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir sollten uns ein Limit setzen, in das wir auch die Kosten für die Inbetriebnahme und unser Intranet einbeziehen.",
+      "english": "We should set a limit that also includes the costs for commissioning and our intranet.",
+      "russian": "Нам стоит установить лимит, в который войдут и расходы на ввод в эксплуатацию, и на наш интранет.",
+      "farsi": "ما باید یک سقف تعیین کنیم که هزینه‌های راه‌اندازی و اینترانت شرکت را هم شامل شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Denn dafür brauchen wir sicher einen IT-Fachmann.",
+      "english": "Because for that we will certainly need an IT specialist.",
+      "russian": "Потому что для этого нам точно понадобится IT-специалист.",
+      "farsi": "چون برای این کار حتماً به یک متخصص فناوری اطلاعات نیاز داریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vielleicht brauchen wir auch neue Software.",
+      "english": "Maybe we also need new software.",
+      "russian": "Может быть, нам также понадобится новое программное обеспечение.",
+      "farsi": "شاید به نرم‌افزار جدید هم نیاز داشته باشیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich denke, wir sollten nicht mehr als 9.000 Euro ausgeben?",
+      "english": "I think we should not spend more than 9,000 euros?",
+      "russian": "Я думаю, нам не стоит тратить больше 9 000 евро?",
+      "farsi": "فکر می‌کنم نباید بیش از ۹۰۰۰ یورو خرج کنیم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das reicht sicher nicht.",
+      "english": "That certainly will not be enough.",
+      "russian": "Этого точно не хватит.",
+      "farsi": "این قطعاً کافی نخواهد بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich würde eher mit 14.000 bis 15.000 Euro kalkulieren, denn vielleicht kommen noch Kosten dazu, mit denen wir nicht gerechnet haben.",
+      "english": "I would rather calculate with 14,000 to 15,000 euros, because there may be additional costs that we have not considered.",
+      "russian": "Я бы скорее рассчитывал на 14 000–15 000 евро, потому что могут возникнуть дополнительные расходы, которые мы не учли.",
+      "farsi": "من بیشتر روی ۱۴ تا ۱۵ هزار یورو حساب می‌کنم، چون شاید هزینه‌های دیگری هم پیش بیاید که پیش‌بینی نکرده‌ایم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das ist richtig.",
+      "english": "That is correct.",
+      "russian": "Это правильно.",
+      "farsi": "درست است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dann planen wir mit Kosten von 14.000 Euro.",
+      "english": "Then we will plan with costs of 14,000 euros.",
+      "russian": "Тогда мы планируем расходы в размере 14 000 евро.",
+      "farsi": "پس با هزینه ۱۴ هزار یورو برنامه‌ریزی می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich werde mich mal im Internet informieren, wie viel gute Computer und Tablets jetzt pro Stück kosten.",
+      "english": "I will check on the internet how much good computers and tablets cost per piece now.",
+      "russian": "Я посмотрю в интернете, сколько сейчас стоят хорошие компьютеры и планшеты за штуку.",
+      "farsi": "من در اینترنت جستجو می‌کنم که الان کامپیوترها و تبلت‌های خوب چقدر قیمت دارند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vielleicht bekommen wir Rabatt, wenn wir mehrere kaufen.",
+      "english": "Maybe we will get a discount if we buy several.",
+      "russian": "Может быть, мы получим скидку, если купим несколько.",
+      "farsi": "شاید اگر چند تا بخریم، تخفیف بگیریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mach das.",
+      "english": "Do that.",
+      "russian": "Сделай это.",
+      "farsi": "این کار را انجام بده."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber die Sachen sollten wir dann doch bei einem Händler hier im Ort kaufen.",
+      "english": "But we should buy the things from a local dealer here in town.",
+      "russian": "Но всё же нам стоит купить это у местного продавца.",
+      "farsi": "اما بهتر است این وسایل را از یک فروشنده محلی همین‌جا بخریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Firma Compus Aktiv im Gewerbepark zum Beispiel bietet eine sehr gute Beratung.",
+      "english": "The company Compus Aktiv in the business park, for example, offers very good advice.",
+      "russian": "Например, компания Compus Aktiv в бизнес-парке предлагает очень хорошую консультацию.",
+      "farsi": "مثلاً شرکت Compus Aktiv در پارک صنعتی مشاوره بسیار خوبی ارائه می‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie viele Tablets und Computer wollen Camila und Julio kaufen?",
+      "english": "How many tablets and computers do Camila and Julio want to buy?",
+      "russian": "Сколько планшетов и компьютеров хотят купить Камила и Хулио?",
+      "farsi": "کامیلا و خولیو می‌خواهند چند تبلت و کامپیوتر بخرند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Welche Vorteile nennt Camila für die neuen Computer?",
+      "english": "What advantages does Camila mention for the new computers?",
+      "russian": "Какие преимущества называет Камила для новых компьютеров?",
+      "farsi": "کامیلا چه مزایایی برای کامپیوترهای جدید ذکر می‌کند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie viel Geld wollen sie maximal investieren?",
+      "english": "How much money do they want to invest at most?",
+      "russian": "Сколько денег они хотят вложить максимум?",
+      "farsi": "آن‌ها حداکثر چقدر می‌خواهند سرمایه‌گذاری کنند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wo will sich Julio über Angebote für Tablets und Computer informieren?",
+      "english": "Where does Julio want to get information about offers for tablets and computers?",
+      "russian": "Где Хулио хочет узнать о предложениях на планшеты и компьютеры?",
+      "farsi": "خولیو می‌خواهد از کجا درباره پیشنهادهای تبلت و کامپیوتر اطلاعات کسب کند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wo will Camila die Tablets und Computer kaufen?",
+      "english": "Where does Camila want to buy the tablets and computers?",
+      "russian": "Где Камила хочет купить планшеты и компьютеры?",
+      "farsi": "کامیلا می‌خواهد تبلت‌ها و کامپیوترها را از کجا بخرد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "CVB-Computer.",
+      "english": "CVB-Computer.",
+      "russian": "CVB-Computer.",
+      "farsi": "CVB-Computer."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kann ich Ihnen helfen?",
+      "english": "Can I help you?",
+      "russian": "Могу я вам помочь?",
+      "farsi": "می‌توانم کمکتان کنم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Guten Tag, Aras Hajm hier.",
+      "english": "Good day, Aras Hajm here.",
+      "russian": "Добрый день, Арас Хайм на связи.",
+      "farsi": "روز بخیر، آراس حاجم هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe ein Problem mit meinem Scanner.",
+      "english": "I have a problem with my scanner.",
+      "russian": "У меня проблема со сканером.",
+      "farsi": "من با اسکنرم مشکل دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie mir bitte den Namen des Scanners sagen?",
+      "english": "Could you please tell me the name of the scanner?",
+      "russian": "Не могли бы вы сказать мне название сканера?",
+      "farsi": "می‌توانید لطفاً نام اسکنر را به من بگویید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das ist ein ScanStar 300X.",
+      "english": "It is a ScanStar 300X.",
+      "russian": "Это ScanStar 300X.",
+      "farsi": "این یک ScanStar 300X است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Okay. Und welches Problem haben Sie?",
+      "english": "Okay. And what problem do you have?",
+      "russian": "Хорошо. А в чём у вас проблема?",
+      "farsi": "خوب. چه مشکلی دارید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe den Treiber für den Scanner aus dem Internet heruntergeladen und auf meinem Laptop installiert.",
+      "english": "I downloaded the driver for the scanner from the internet and installed it on my laptop.",
+      "russian": "Я скачал драйвер для сканера из интернета и установил его на свой ноутбук.",
+      "farsi": "درایور اسکنر را از اینترنت دانلود و روی لپ‌تاپم نصب کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber ich kann jetzt keine Verbindung vom Computer zum Scanner herstellen.",
+      "english": "But now I cannot establish a connection from the computer to the scanner.",
+      "russian": "Но теперь я не могу установить соединение между компьютером и сканером.",
+      "farsi": "اما حالا نمی‌توانم بین کامپیوتر و اسکنر ارتباط برقرار کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kann es sein, dass immer die Meldung „Scanner nicht erkannt“ erscheint?",
+      "english": "Is it possible that the message 'Scanner not recognized' always appears?",
+      "russian": "Может быть, постоянно появляется сообщение «Сканер не распознан»?",
+      "farsi": "آیا ممکن است همیشه پیام «اسکنر شناسایی نشد» ظاهر شود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Genauso ist es.",
+      "english": "That's exactly right.",
+      "russian": "Именно так.",
+      "farsi": "دقیقاً همین طور است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich denke, das Problem liegt am Treiber.",
+      "english": "I think the problem is with the driver.",
+      "russian": "Я думаю, проблема в драйвере.",
+      "farsi": "فکر می‌کنم مشکل از درایور است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Seit einigen Tagen gibt es eine neue Version.",
+      "english": "There has been a new version for a few days.",
+      "russian": "Уже несколько дней есть новая версия.",
+      "farsi": "چند روزی است که یک نسخه جدید منتشر شده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Welche Version haben Sie?",
+      "english": "Which version do you have?",
+      "russian": "Какая у вас версия?",
+      "farsi": "چه نسخه‌ای دارید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Moment, ich schaue nach … Die Version ist 2.2.1.",
+      "english": "One moment, I’ll check ... The version is 2.2.1.",
+      "russian": "Минуточку, сейчас посмотрю ... Версия 2.2.1.",
+      "farsi": "یک لحظه، نگاه می‌کنم ... نسخه ۲.۲.۱ است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dann passt Ihre Version nicht mehr.",
+      "english": "Then your version is no longer suitable.",
+      "russian": "Тогда ваша версия больше не подходит.",
+      "farsi": "پس نسخه شما دیگر مناسب نیست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die aktuelle Version ist die 2.2.4.",
+      "english": "The current version is 2.2.4.",
+      "russian": "Текущая версия - 2.2.4.",
+      "farsi": "نسخه فعلی ۲.۲.۴ است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Laden Sie den Treiber noch einmal herunter.",
+      "english": "Download the driver again.",
+      "russian": "Скачайте драйвер ещё раз.",
+      "farsi": "درایور را دوباره دانلود کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Achten Sie auf die Version: 2.2.4.",
+      "english": "Pay attention to the version: 2.2.4.",
+      "russian": "Обратите внимание на версию: 2.2.4.",
+      "farsi": "به نسخه توجه کنید: ۲.۲.۴."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das mache ich, vielen Dank.",
+      "english": "I will do that, thank you very much.",
+      "russian": "Я так и сделаю, большое спасибо.",
+      "farsi": "این کار را می‌کنم، خیلی ممنون."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Gern geschehen.",
+      "english": "You’re welcome.",
+      "russian": "Пожалуйста.",
+      "farsi": "خواهش می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn es noch Probleme gibt, melden Sie sich einfach noch mal.",
+      "english": "If there are still problems, just get in touch again.",
+      "russian": "Если возникнут ещё проблемы, просто свяжитесь снова.",
+      "farsi": "اگر باز هم مشکلی بود، دوباره تماس بگیرید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe gerade mit dem Abteilungsleiter gesprochen.",
+      "english": "I just spoke with the department manager.",
+      "russian": "Я только что поговорил с начальником отдела.",
+      "farsi": "من همین الان با رئیس بخش صحبت کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir bekommen eine neue Software.",
+      "english": "We are getting new software.",
+      "russian": "Мы получаем новое программное обеспечение.",
+      "farsi": "ما یک نرم‌افزار جدید دریافت می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das weiß ich schon.",
+      "english": "I already know that.",
+      "russian": "Я это уже знаю.",
+      "farsi": "این را قبلاً می‌دانستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Frau Huning hat es mir gestern erzählt.",
+      "english": "Ms. Huning told me about it yesterday.",
+      "russian": "Госпожа Хунинг рассказала мне об этом вчера.",
+      "farsi": "خانم هونینگ دیروز این را به من گفت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie ist viel komplexer und kann viel mehr als unsere aktuelle Software.",
+      "english": "It is much more complex and can do much more than our current software.",
+      "russian": "Она гораздо сложнее и умеет гораздо больше, чем наше текущее программное обеспечение.",
+      "farsi": "این نرم‌افزار خیلی پیچیده‌تر است و خیلی بیشتر از نرم‌افزار فعلی ما قابلیت دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es ist ein KI-Programm. Das wird dann die Daten von allen LKW-Touren sammeln und analysieren:",
+      "english": "It is an AI program. It will then collect and analyze the data from all truck routes:",
+      "russian": "Это программа с искусственным интеллектом. Она будет собирать и анализировать данные всех маршрутов грузовиков:",
+      "farsi": "این یک برنامه هوش مصنوعی است. سپس داده‌های همه سفرهای کامیون‌ها را جمع‌آوری و تحلیل خواهد کرد:"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie lange dauern die Fahrten, wie viel Diesel verbrauchen die LKWs, wo und wann gibt es viele Staus?",
+      "english": "How long do the trips take, how much diesel do the trucks consume, where and when are there many traffic jams?",
+      "russian": "Сколько длятся поездки, сколько дизеля расходуют грузовики, где и когда бывают большие пробки?",
+      "farsi": "سفرها چقدر طول می‌کشد، کامیون‌ها چقدر گازوئیل مصرف می‌کنند، کجا و چه زمانی ترافیک زیاد است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mit diesen Daten macht das Programm dann auch Prognosen für die Zukunft.",
+      "english": "With this data, the program also makes forecasts for the future.",
+      "russian": "На основе этих данных программа также делает прогнозы на будущее.",
+      "farsi": "این برنامه با این داده‌ها برای آینده هم پیش‌بینی‌هایی انجام می‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und es plant die Routen und macht Vorschläge, wie man die LKWs optimal einsetzen kann, schon klar.",
+      "english": "And it plans the routes and makes suggestions on how to use the trucks optimally, of course.",
+      "russian": "И она планирует маршруты и даёт рекомендации, как оптимально использовать грузовики, это понятно.",
+      "farsi": "و مسیرها را برنامه‌ریزی می‌کند و پیشنهاد می‌دهد که چگونه می‌توان کامیون‌ها را بهینه‌تر به کار گرفت، بله واضح است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "So spart die Firma Geld.",
+      "english": "This way, the company saves money.",
+      "russian": "Так компания экономит деньги.",
+      "farsi": "به این ترتیب شرکت پول صرفه‌جویی می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und nicht nur unsere Firma.",
+      "english": "And not just our company.",
+      "russian": "И не только наша компания.",
+      "farsi": "و نه فقط شرکت ما."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin sicher, dass sehr viele Unternehmen mit Hilfe von intelligenter Software ihre Kosten senken können.",
+      "english": "I am sure that many companies can reduce their costs with the help of intelligent software.",
+      "russian": "Я уверен, что многие компании могут снизить свои расходы с помощью интеллектуального программного обеспечения.",
+      "farsi": "مطمئنم که شرکت‌های زیادی با کمک نرم‌افزار هوشمند می‌توانند هزینه‌های خود را کاهش دهند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber was machen dann noch Disponenten, wenn die Software alles managt?",
+      "english": "But what will dispatchers do if the software manages everything?",
+      "russian": "А что тогда будут делать диспетчеры, если программа всем управляет?",
+      "farsi": "اما اگر نرم‌افزار همه چیز را مدیریت کند، دیگر مسئولان توزیع چه کار خواهند کرد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Da brauchen wir doch viel weniger Personal!",
+      "english": "Then we will need much less staff!",
+      "russian": "Тогда нам потребуется гораздо меньше персонала!",
+      "farsi": "در این صورت به نیروی انسانی بسیار کمتری نیاز خواهیم داشت!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hast du Angst um deinen Arbeitsplatz?",
+      "english": "Are you afraid for your job?",
+      "russian": "Ты боишься за своё рабочее место?",
+      "farsi": "آیا نگران شغل خود هستی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Na ja, ich weiß nicht. Sicher kann das System nur funktionieren, wenn es auch Menschen gibt, aber in der Zukunft?",
+      "english": "Well, I don't know. Certainly, the system can only function if there are also people, but in the future?",
+      "russian": "Ну, я не знаю. Конечно, система может работать только при участии людей, но как будет в будущем?",
+      "farsi": "خب، نمی‌دانم. مطمئناً این سیستم فقط وقتی کار می‌کند که انسان‌ها هم باشند، اما در آینده چطور؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vielleicht arbeiten hier in zwei Jahren nur noch drei Leute und nicht wie jetzt mehr als 20.",
+      "english": "Maybe in two years only three people will be working here and not more than 20 as now.",
+      "russian": "Может быть, через два года здесь будут работать только три человека, а не более 20, как сейчас.",
+      "farsi": "شاید دو سال دیگر فقط سه نفر اینجا کار کنند و نه مثل حالا بیش از بیست نفر."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich mache mir weniger Sorgen.",
+      "english": "I am less worried.",
+      "russian": "Я меньше переживаю.",
+      "farsi": "من کمتر نگرانم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Arbeit wird für alle leichter und die Disponenten haben dann mehr Zeit für Kundenkontakte und Kundenservice.",
+      "english": "Work will become easier for everyone and dispatchers will then have more time for customer contact and service.",
+      "russian": "Работа станет проще для всех, а у диспетчеров будет больше времени для работы с клиентами и обслуживания.",
+      "farsi": "کار برای همه راحت‌تر می‌شود و مسئولان توزیع وقت بیشتری برای ارتباط با مشتری و خدمات خواهند داشت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Durch KI wird Huning gegenüber der Konkurrenz viele Vorteile haben.",
+      "english": "Through AI, Huning will have many advantages over the competition.",
+      "russian": "Благодаря ИИ у компании Huning будет много преимуществ перед конкурентами.",
+      "farsi": "هونینگ با کمک هوش مصنوعی نسبت به رقبا مزایای زیادی خواهد داشت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vielleicht hast du recht.",
+      "english": "Maybe you are right.",
+      "russian": "Может быть, ты прав.",
+      "farsi": "شاید حق با تو باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber ich sehe auch die Risiken.",
+      "english": "But I also see the risks.",
+      "russian": "Но я также вижу и риски.",
+      "farsi": "اما من خطرات را هم می‌بینم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was bringt die Zukunft? Kann es sein, dass KI eines Tages die Kontrolle über uns Menschen bekommt?",
+      "english": "What does the future hold? Is it possible that AI will one day take control over us humans?",
+      "russian": "Что принесёт будущее? Возможно ли, что однажды ИИ возьмёт над нами, людьми, контроль?",
+      "farsi": "آینده چه خواهد شد؟ آیا ممکن است روزی هوش مصنوعی کنترل ما انسان‌ها را به دست بگیرد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ganz sicher nicht.",
+      "english": "Definitely not.",
+      "russian": "Совершенно точно нет.",
+      "farsi": "قطعاً نه."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In unserer Familie nutzen wir KI übrigens auch privat.",
+      "english": "By the way, in our family we also use AI privately.",
+      "russian": "Кстати, в нашей семье мы тоже используем ИИ в личных целях.",
+      "farsi": "راستی، ما در خانواده‌مان هم از هوش مصنوعی به صورت شخصی استفاده می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein Sohn hat mit ChatGPT zum Beispiel seine Asienreise geplant.",
+      "english": "For example, my son planned his trip to Asia with ChatGPT.",
+      "russian": "Например, мой сын спланировал свою поездку в Азию с помощью ChatGPT.",
+      "farsi": "مثلاً پسرم سفرش به آسیا را با ChatGPT برنامه‌ریزی کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er sagt, dass er sich mit ChatGPT wie mit einem Menschen unterhalten hat und sehr schnell viele gute Tipps bekommen hat.",
+      "english": "He says that he talked with ChatGPT as if with a human and got many good tips very quickly.",
+      "russian": "Он говорит, что общался с ChatGPT как с человеком и очень быстро получил много хороших советов.",
+      "farsi": "او می‌گوید که با ChatGPT مثل یک انسان صحبت کرده و خیلی سریع نکات خوبی دریافت کرده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Künstliche Intelligenz zeigt also auch Kreativität.",
+      "english": "So artificial intelligence also shows creativity.",
+      "russian": "Значит, искусственный интеллект проявляет и креативность.",
+      "farsi": "پس هوش مصنوعی خلاقیت هم نشان می‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und wo bleibt unsere Kreativität?",
+      "english": "And what about our creativity?",
+      "russian": "А где же тогда наша креативность?",
+      "farsi": "پس خلاقیت ما چه می‌شود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was ist, wenn nur noch die KI Ideen hat, Vorschläge macht und für uns denkt, und wir Menschen gar nicht mehr selbst denken müssen?",
+      "english": "What if only AI has ideas, makes suggestions and thinks for us, and we humans no longer have to think for ourselves?",
+      "russian": "Что если только ИИ будет придумывать идеи, делать предложения и думать за нас, а нам, людям, уже не нужно будет самим думать?",
+      "farsi": "اگر فقط هوش مصنوعی ایده بدهد، پیشنهاد کند و به جای ما فکر کند و دیگر ما انسان‌ها خودمان فکر نکنیم چه می‌شود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das ist vielleicht praktisch und sehr bequem, aber so trainieren wir unser Gehirn gar nicht mehr.",
+      "english": "That might be practical and very convenient, but this way we no longer train our brains at all.",
+      "russian": "Это, может быть, удобно и очень комфортно, но тогда мы совсем не тренируем свой мозг.",
+      "farsi": "این شاید کاربردی و خیلی راحت باشد، اما این‌طور دیگر مغزمان را تمرین نمی‌دهیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das ist dann eine interessante Perspektive:",
+      "english": "That is an interesting perspective:",
+      "russian": "Это интересная перспектива:",
+      "farsi": "این یک دیدگاه جالب است:"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "KI wird immer intelligenter und wir Menschen werden immer dümmer!",
+      "english": "AI is becoming more and more intelligent and we humans are becoming more and more stupid!",
+      "russian": "ИИ становится всё умнее, а мы, люди, всё глупее!",
+      "farsi": "هوش مصنوعی هر روز باهوش‌تر می‌شود و ما انسان‌ها هر روز کم‌هوش‌تر!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir sollten nicht zu viel Vertrauen in KI haben.",
+      "english": "We should not have too much trust in AI.",
+      "russian": "Не стоит слишком доверять ИИ.",
+      "farsi": "نباید بیش از حد به هوش مصنوعی اعتماد کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Jetzt bist du aber sehr pessimistisch!",
+      "english": "Now you are being very pessimistic!",
+      "russian": "Теперь ты очень пессимистичен!",
+      "farsi": "الان خیلی بدبین شده‌ای!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Unsere Intelligenz wird auch in Zukunft gebraucht!",
+      "english": "Our intelligence will still be needed in the future!",
+      "russian": "Наш интеллект будет нужен и в будущем!",
+      "farsi": "هوش ما در آینده هم لازم خواهد بود!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir müssen uns genau überlegen, wie wir die KI richtig nutzen, wo sie sinnvoll ist und wo nicht.",
+      "english": "We have to think carefully about how to use AI correctly, where it makes sense and where it does not.",
+      "russian": "Нам нужно хорошо подумать, как правильно использовать ИИ, где это уместно, а где нет.",
+      "farsi": "ما باید دقیق فکر کنیم که چطور هوش مصنوعی را درست استفاده کنیم، کجا مفید است و کجا نه."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich denke, in vielen Bereichen kann und sollte man auf KI verzichten.",
+      "english": "I think in many areas you can and should do without AI.",
+      "russian": "Я считаю, что во многих сферах можно и нужно обходиться без ИИ.",
+      "farsi": "فکر می‌کنم در خیلی زمینه‌ها می‌توان و باید از هوش مصنوعی صرف‌نظر کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber wenn wir es richtig machen, bietet sie uns gute Perspektiven für unser zukünftiges Leben.",
+      "english": "But if we do it right, it offers us good prospects for our future life.",
+      "russian": "Но если мы всё сделаем правильно, она даст нам хорошие перспективы для будущей жизни.",
+      "farsi": "اما اگر این کار را درست انجام دهیم، چشم‌اندازهای خوبی برای زندگی آینده ما فراهم می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wo erfährt man etwas über KI?",
+      "english": "Where can you learn something about AI?",
+      "russian": "Где можно узнать что-то об искусственном интеллекте?",
+      "farsi": "کجا می‌توان درباره هوش مصنوعی چیزی یاد گرفت؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was kann KI?",
+      "english": "What can AI do?",
+      "russian": "Что умеет искусственный интеллект?",
+      "farsi": "هوش مصنوعی چه کارهایی می‌تواند انجام دهد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Warum benutzen Firmen KI?",
+      "english": "Why do companies use AI?",
+      "russian": "Почему компании используют искусственный интеллект?",
+      "farsi": "چرا شرکت‌ها از هوش مصنوعی استفاده می‌کنند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Warum haben manche Menschen Angst vor KI?",
+      "english": "Why are some people afraid of AI?",
+      "russian": "Почему некоторые люди боятся искусственного интеллекта?",
+      "farsi": "چرا بعضی‌ها از هوش مصنوعی می‌ترسند؟"
+    }
+  ]
+}

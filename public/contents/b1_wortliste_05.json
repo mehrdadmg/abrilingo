@@ -1,0 +1,905 @@
+{
+  "info": {
+    "name": "B1_Wortliste_05",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "type": "verben",
+      "Infinitive": "aufheben",
+      "Präsens": "ich hebe auf, du hebst auf, er/sie/es hebt auf, wir heben auf, ihr hebt auf, sie/Sie heben auf",
+      "Präteritum": "ich hob auf, du hobst auf, er/sie/es hob auf, wir hoben auf, ihr hobt auf, sie/Sie hoben auf",
+      "Perfekt": "hat aufgehoben",
+      "englishMeaning": "to pick up, to keep",
+      "englishUsage": "Used to describe the action of lifting something from the ground or keeping something for later.",
+      "russianMeaning": "поднять, сохранить",
+      "russianUsage": "Используется для описания действия поднять что-либо с земли или сохранить что-либо на потом.",
+      "farsiMeaning": "بردن، نگه داشتن",
+      "farsiUsage": "برای توصیف عمل بردن چیزی از زمین یا نگه داشتن آن برای بعد استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Lassen Sie die Papiere nur auf dem Boden liegen, ich hebe sie schon auf.",
+      "english": "Just leave the papers on the floor, I'll pick them up.",
+      "russian": "Просто оставьте бумаги на полу, я их подберу.",
+      "farsi": "کاغذها را فقط روی زمین بگذارید، من آنها را برمی‌دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Quittung müssen Sie gut aufheben.",
+      "english": "You need to keep the receipt well.",
+      "russian": "Вы должны хорошо сохранить квитанцию.",
+      "farsi": "شما باید رسید را خوب نگه دارید."
+    },
+    {
+      "type": "verben",
+      "Infinitive": "aufhören",
+      "Präsens": "ich höre auf, du hörst auf, er/sie/es hört auf, wir hören auf, ihr hört auf, sie/Sie hören auf",
+      "Präteritum": "ich hörte auf, du hörtest auf, er/sie/es hörte auf, wir hörten auf, ihr hörtet auf, sie/Sie hörten auf",
+      "Perfekt": "hat aufgehört",
+      "englishMeaning": "to stop, to end",
+      "englishUsage": "Used to describe the action of ceasing an activity or a state.",
+      "russianMeaning": "перестать, закончить",
+      "russianUsage": "Используется для описания действия прекращения деятельности или состояния.",
+      "farsiMeaning": "متوقف کردن، پایان دادن",
+      "farsiUsage": "برای توصیف عمل متوقف کردن یک فعالیت یا پایان دادن به یک وضعیت استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es hört nicht auf zu schneien.",
+      "english": "It won't stop snowing.",
+      "russian": "Снег не прекращается.",
+      "farsi": "بارش برف متوقف نمی‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wann hört ihr mit der Arbeit auf?",
+      "english": "When do you stop working?",
+      "russian": "Когда вы прекратите работу?",
+      "farsi": "کی می‌خواهید کار را متوقف کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hier hört die Hauptstraße auf.",
+      "english": "The main street ends here.",
+      "russian": "Главная улица заканчивается здесь.",
+      "farsi": "خیابان اصلی اینجا به پایان می‌رسد."
+    },
+    {
+      "type": "verben",
+      "Infinitive": "aufladen",
+      "Präsens": "ich lade auf, du lädst auf, er/sie/es lädt auf, wir laden auf, ihr ladet auf, sie/Sie laden auf",
+      "Präteritum": "ich lud auf, du ludst auf, er/sie/es lud auf, wir luden auf, ihr ludt auf, sie/Sie luden auf",
+      "Perfekt": "hat aufgeladen",
+      "englishMeaning": "to load, to charge",
+      "englishUsage": "Used to describe the action of loading something onto a vehicle or charging a device.",
+      "russianMeaning": "загружать, заряжать",
+      "russianUsage": "Используется для описания действия загрузки чего-либо на транспортное средство или зарядки устройства.",
+      "farsiMeaning": "بارگذاری کردن، شارژ کردن",
+      "farsiUsage": "برای توصیف عمل بارگذاری چیزی روی یک وسیله نقلیه یا شارژ کردن یک دستگاه استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich muss mein Telefon aufladen. Die Batterie ist leer.",
+      "english": "I need to charge my phone. The battery is empty.",
+      "russian": "Мне нужно зарядить телефон. Батарея разряжена.",
+      "farsi": "باید تلفنم را شارژ کنم. باتری خالی است."
+    },
+    {
+      "type": "verben",
+      "Infinitive": "auflösen",
+      "Präsens": "ich löse auf, du löst auf, er/sie/es löst auf, wir lösen auf, ihr löst auf, sie/Sie lösen auf",
+      "Präteritum": "ich löste auf, du löstest auf, er/sie/es löste auf, wir lösten auf, ihr löstet auf, sie/Sie lösten auf",
+      "Perfekt": "hat aufgelöst",
+      "englishMeaning": "to dissolve, to cancel, to resolve",
+      "englishUsage": "Used to describe the action of dissolving something in a liquid, canceling a contract, or resolving a problem.",
+      "russianMeaning": "растворять, отменять, решать",
+      "russianUsage": "Используется для описания действия растворения чего-либо в жидкости, отмены контракта или решения проблемы.",
+      "farsiMeaning": "در آب حل کردن، لغو کردن، حل کردن",
+      "farsiUsage": "برای توصیف عمل حل کردن چیزی در مایع، لغو کردن قرارداد یا حل کردن یک مشکل استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Tablette bitte in Wasser auflösen.",
+      "english": "Please dissolve the tablet in water.",
+      "russian": "Пожалуйста, растворите таблетку в воде.",
+      "farsi": "لطفاً قرص را در آب حل کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "aufmerksam",
+      "english": "attentive",
+      "russian": "внимательный",
+      "farsi": "توجه‌دار"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Schülerin hörte aufmerksam zu.",
+      "english": "The student listened attentively.",
+      "russian": "Ученица внимательно слушала.",
+      "farsi": "دانش‌آموز با دقت گوش داد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich mache Sie darauf aufmerksam, dass wir in einer halben Stunde schließen.",
+      "english": "I would like to bring to your attention that we will close in half an hour.",
+      "russian": "Я хочу вас предупредить, что мы закроемся через полчаса.",
+      "farsi": "می‌خواهم به این موضوع توجه شما را جلب کنم که ما در نیم ساعت بسته می‌شویم."
+    },
+    {
+      "type": "verben",
+      "Infinitive": "aufnehmen",
+      "Präsens": "ich nehme auf, du nimmst auf, er/sie/es nimmt auf, wir nehmen auf, ihr nehmt auf, sie/Sie nehmen auf",
+      "Präteritum": "ich nahm auf, du nahmst auf, er/sie/es nahm auf, wir nahmen auf, ihr nahmt auf, sie/Sie nahmen auf",
+      "Perfekt": "hat aufgenommen",
+      "englishMeaning": "to take up, to record, to accept",
+      "englishUsage": "Used to describe the action of picking something up, recording audio or video, or accepting someone into a group.",
+      "russianMeaning": "поднимать, записывать, принимать",
+      "russianUsage": "Используется для описания действия поднять что-либо, записать аудио или видео или принять кого-либо в группу.",
+      "farsiMeaning": "بردن، ضبط کردن، پذیرفتن",
+      "farsiUsage": "برای توصیف عمل بردن چیزی، ضبط صدا یا تصویر یا پذیرفتن کسی در یک گروه استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben Aneta in unseren Verein aufgenommen.",
+      "english": "We have accepted Aneta into our club.",
+      "russian": "Мы приняли Анету в наш клуб.",
+      "farsi": "ما آنتا را به باشگاهمان پذیرفته‌ایم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe den Film im Urlaub aufgenommen.",
+      "english": "I recorded the movie on vacation.",
+      "russian": "Я записал фильм на отдыхе.",
+      "farsi": "من فیلم را در تعطیلات ضبط کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Aufnahme, die Aufnahmen",
+      "english": "the recording, recordings",
+      "russian": "запись, записи",
+      "farsi": "ضبط، ضبط‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bitte seid leise! – Ich starte die Aufnahme.",
+      "english": "Please be quiet! – I'm starting the recording.",
+      "russian": "Пожалуйста, будьте тихи! – Я начинаю запись.",
+      "farsi": "لطفاً ساکت باشید! – من ضبط را شروع می‌کنم."
+    },
+    {
+      "type": "verben",
+      "Infinitive": "aufpassen",
+      "Präsens": "ich passe auf, du passt auf, er/sie/es passt auf, wir passen auf, ihr passt auf, sie/Sie passen auf",
+      "Präteritum": "ich passte auf, du passtest auf, er/sie/es passte auf, wir passten auf, ihr passtet auf, sie/Sie passten auf",
+      "Perfekt": "hat aufgepasst",
+      "englishMeaning": "to pay attention, to watch over",
+      "englishUsage": "Used to describe the action of being attentive or taking care of someone or something.",
+      "russianMeaning": "обращать внимание, присматривать",
+      "russianUsage": "Используется для описания действия внимательного отношения или ухода за кем-либо или чем-либо.",
+      "farsiMeaning": "توجه کردن، مراقبت کردن",
+      "farsiUsage": "برای توصیف عمل توجه داشتن یا مراقبت از کسی یا چیزی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Tut mir leid. Da habe ich wohl nicht aufgepasst.",
+      "english": "Sorry. I guess I wasn't paying attention.",
+      "russian": "Извините. Наверное, я не обращал внимания.",
+      "farsi": "متاسفم. احتمالاً من حواسم نبود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich muss zu Hause bleiben und auf die Kinder aufpassen.",
+      "english": "I have to stay home and watch the children.",
+      "russian": "Мне нужно остаться дома и присмотреть за детьми.",
+      "farsi": "باید در خانه بمانم و از بچه‌ها مراقبت کنم."
+    },
+    {
+      "type": "verben",
+      "Infinitive": "aufräumen",
+      "Präsens": "ich räume auf, du räumst auf, er/sie/es räumt auf, wir räumen auf, ihr räumt auf, sie/Sie räumen auf",
+      "Präteritum": "ich räumte auf, du räumtest auf, er/sie/es räumte auf, wir räumten auf, ihr räumtet auf, sie/Sie räumten auf",
+      "Perfekt": "hat aufgeräumt",
+      "englishMeaning": "to clean up, to tidy",
+      "englishUsage": "Used to describe the action of organizing and clearing a space.",
+      "russianMeaning": "убирать, наводить порядок",
+      "russianUsage": "Используется для описания действия организации и очистки пространства.",
+      "farsiMeaning": "پاک کردن، مرتب کردن",
+      "farsiUsage": "برای توصیف عمل سازماندهی و تمیز کردن یک فضا استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vor meinem Urlaub muss ich unbedingt noch meinen Schreibtisch aufräumen.",
+      "english": "Before my vacation, I absolutely need to clean up my desk.",
+      "russian": "Перед отпуском мне обязательно нужно убрать свой стол.",
+      "farsi": "قبل از تعطیلاتم باید حتماً میز کارم را تمیز کنم."
+    },
+    {
+      "type": "verben",
+      "Infinitive": "aufregen",
+      "Präsens": "ich rege auf, du regst auf, er/sie/es regt auf, wir regen auf, ihr regt auf, sie/Sie regen auf",
+      "Präteritum": "ich regte auf, du regtest auf, er/sie/es regte auf, wir regten auf, ihr regtet auf, sie/Sie regten auf",
+      "Perfekt": "hat aufgeregt",
+      "englishMeaning": "to excite, to upset",
+      "englishUsage": "Used to describe the action of causing strong emotions or irritation.",
+      "russianMeaning": "волновать, раздражать",
+      "russianUsage": "Используется для описания действия вызывания сильных эмоций или раздражения.",
+      "farsiMeaning": "تحریک کردن، عصبانی کردن",
+      "farsiUsage": "برای توصیف عمل ایجاد احساسات قوی یا عصبانیت استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es regt mich auf, dass ich schon wieder Überstunden machen muss.",
+      "english": "It upsets me that I have to work overtime again.",
+      "russian": "Меня раздражает, что мне снова приходится работать сверхурочно.",
+      "farsi": "اینکه دوباره باید اضافه‌کاری کنم، مرا عصبانی می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ganz ruhig! Bitte regen Sie sich nicht auf.",
+      "english": "Stay calm! Please don't get upset.",
+      "russian": "Сохраняйте спокойствие! Пожалуйста, не раздражайтесь.",
+      "farsi": "آرام باشید! لطفاً عصبانی نشوید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Heute hast du eine Prüfung. Bist du schon aufgeregt?",
+      "english": "You have an exam today. Are you already excited?",
+      "russian": "Сегодня у тебя экзамен. Ты уже волнуешься?",
+      "farsi": "امروز امتحانت است. آیا الان عصبی هستی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Musikgruppe zu erleben war sehr aufregend.",
+      "english": "Experiencing the music group was very exciting.",
+      "russian": "Слушать музыкальную группу было очень волнующе.",
+      "farsi": "مشاهده گروه موسیقی بسیار هیجان‌انگیز بود."
+    },
+    {
+      "type": "verben",
+      "Infinitive": "aufstehen",
+      "Präsens": "ich stehe auf, du stehst auf, er/sie/es steht auf, wir stehen auf, ihr steht auf, sie/Sie stehen auf",
+      "Präteritum": "ich stand auf, du standest auf, er/sie/es stand auf, wir standen auf, ihr standet auf, sie/Sie standen auf",
+      "Perfekt": "ist aufgestanden",
+      "englishMeaning": "to get up, to rise",
+      "englishUsage": "Used to describe the action of standing up from a sitting or lying position.",
+      "russianMeaning": "вставать, подниматься",
+      "russianUsage": "Используется для описания действия подниматься с сидячего или лежачего положения.",
+      "farsiMeaning": "از جایش بر خاستن، بلند شدن",
+      "farsiUsage": "برای توصیف عمل بلند شدن از حالت نشسته یا دراز کشیده استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich stehe jeden Morgen um sechs Uhr auf.",
+      "english": "I get up every morning at six o'clock.",
+      "russian": "Я встаю каждое утро в шесть часов.",
+      "farsi": "من هر صبح ساعت شش بلند می‌شوم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie brauchen nicht aufzustehen. Sie können sitzen bleiben.",
+      "english": "You don't need to get up. You can stay seated.",
+      "russian": "Вам не нужно вставать. Вы можете остаться сидеть.",
+      "farsi": "شما نیاز ندارید بلند شوید. می‌توانید بنشینید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Auftrag, die Aufträge",
+      "english": "the order, orders",
+      "russian": "заказ, заказы",
+      "farsi": "سفارش، سفارش‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich komme im Auftrag von Frau Müller und soll Ihnen diesen Brief geben.",
+      "english": "I come on behalf of Frau Müller and am supposed to give you this letter.",
+      "russian": "Я прихожу от имени фрау Мюллер и должен передать вам это письмо.",
+      "farsi": "من به نمایندگی از خانم مولر آمده‌ام و باید این نامه را به شما بدهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im Moment hat die Firma besonders viele Aufträge.",
+      "english": "At the moment, the company has a lot of orders.",
+      "russian": "В настоящее время у компании много заказов.",
+      "farsi": "در حال حاضر شرکت سفارش‌های زیادی دارد."
+    },
+    {
+      "type": "verben",
+      "Infinitive": "auftreten",
+      "Präsens": "ich trete auf, du trittst auf, er/sie/es tritt auf, wir treten auf, ihr treten auf, sie/Sie treten auf",
+      "Präteritum": "ich trat auf, du tratest auf, er/sie/es trat auf, wir traten auf, ihr trattet auf, sie/Sie traten auf",
+      "Perfekt": "ist aufgetreten",
+      "englishMeaning": "to appear, to perform",
+      "englishUsage": "Used to describe the action of appearing in public or performing on stage.",
+      "russianMeaning": "появляться, выступать",
+      "russianUsage": "Используется для описания действия появления на публике или выступления на сцене.",
+      "farsiMeaning": "ظاهر شدن، اجرا کردن",
+      "farsiUsage": "برای توصیف عمل ظاهر شدن در انظار عمومی یا اجرای یک برنامه روی صحنه استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nächste Woche tritt in der Stadthalle eine berühmte Musikgruppe auf.",
+      "english": "Next week, a famous music group will perform at the city hall.",
+      "russian": "На следующей неделе в городской зале выступит знаменитая музыкальная группа.",
+      "farsi": "هفته آینده یک گروه موسیقی مشهور در سالن شهر به اجرا می‌پردازد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Auftritt, die Auftritte",
+      "english": "the performance, performances",
+      "russian": "выступление, выступления",
+      "farsi": "اجرا، اجراها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nach dem Auftritt feiern die Musiker.",
+      "english": "After the performance, the musicians celebrate.",
+      "russian": "После выступления музыканты празднуют.",
+      "farsi": "پس از اجرا، موسیقیدانان جشن می‌گیرند."
+    },
+    {
+      "type": "verben",
+      "Infinitive": "aufwachen",
+      "Präsens": "ich wache auf, du wachst auf, er/sie/es wacht auf, wir wachen auf, ihr wacht auf, sie/Sie wachen auf",
+      "Präteritum": "ich wachte auf, du wachtest auf, er/sie/es wachte auf, wir wachten auf, ihr wachtet auf, sie/Sie wachten auf",
+      "Perfekt": "ist aufgewacht",
+      "englishMeaning": "to wake up",
+      "englishUsage": "Used to describe the action of becoming awake from sleep.",
+      "russianMeaning": "просыпаться",
+      "russianUsage": "Используется для описания действия пробуждения от сна.",
+      "farsiMeaning": "بیدار شدن",
+      "farsiUsage": "برای توصیف عمل بیدار شدن از خواب استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Von dem Lärm bin ich aufgewacht.",
+      "english": "I woke up from the noise.",
+      "russian": "Я проснулся от шума.",
+      "farsi": "از سر و صدا بیدار شدم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "aufwärts",
+      "english": "upwards",
+      "russian": "вверх",
+      "farsi": "به سمت بالا"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie müssen gute Schuhe anziehen. Der Weg geht immer aufwärts.",
+      "english": "You need to wear good shoes. The path always goes upwards.",
+      "russian": "Вам нужно надеть хорошие туфли. Тропинка всегда идет вверх.",
+      "farsi": "شما باید کفش‌های خوبی بپوشید. مسیر همیشه به سمت بالا می‌رود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In letzter Zeit geht es wieder aufwärts mit der Wirtschaft.",
+      "english": "Lately, the economy has been improving again.",
+      "russian": "В последнее время экономика снова улучшается.",
+      "farsi": "اخیراً اقتصاد دوباره در حال بهبود است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Aufzug, die Aufzüge",
+      "english": "the elevator, elevators",
+      "russian": "лифт, лифты",
+      "farsi": "آسانسور، آسانسورها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im Büro ist leider der Aufzug kaputt.",
+      "english": "Unfortunately, the elevator in the office is broken.",
+      "russian": "К сожалению, лифт в офисе сломан.",
+      "farsi": "متأسفانه آسانسور در دفتر خراب است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Auge, die Augen",
+      "english": "the eye, eyes",
+      "russian": "глаз, глаза",
+      "farsi": "چشم، چشم‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Meine beiden Kinder haben blaue Augen.",
+      "english": "My two children have blue eyes.",
+      "russian": "Мои двое детей имеют голубые глаза.",
+      "farsi": "هر دو فرزندم چشم‌های آبی دارند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Augenblick, die Augenblicke",
+      "english": "the moment, moments",
+      "russian": "момент, моменты",
+      "farsi": "لحظه، لحظات"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich wollte gerade parken. In dem Augenblick ist ein Wagen aus der Ausfahrt gekommen.",
+      "english": "I was about to park. At that moment, a car came out of the exit.",
+      "russian": "Я собирался припарковаться. В этот момент машина выехала из въезда.",
+      "farsi": "می‌خواستم پارک کنم. در همان لحظه یک ماشین از خروجی خارج شد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Einen Augenblick, bitte!",
+      "english": "Just a moment, please!",
+      "russian": "Минутку, пожалуйста!",
+      "farsi": "یک لحظه لطفاً!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im Augenblick sind keine Plätze frei.",
+      "english": "At the moment, there are no seats available.",
+      "russian": "На данный момент мест нет.",
+      "farsi": "در حال حاضر هیچ جای خالی وجود ندارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "aus",
+      "english": "from, out of",
+      "russian": "из, из-за",
+      "farsi": "از، از میان"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Frau Müller geht jeden Morgen um 8 Uhr aus dem Haus.",
+      "english": "Mrs. Müller leaves the house every morning at 8 AM.",
+      "russian": "Фрау Мюллер выходит из дома каждое утро в 8 часов.",
+      "farsi": "خانم مولر هر صبح ساعت 8 از خانه خارج می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Frau Özgen kommt aus der Türkei.",
+      "english": "Mrs. Özgen comes from Turkey.",
+      "russian": "Фрау Озген приезжает из Турции.",
+      "farsi": "خانم اوزگن از ترکیه می‌آید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Möbel sind noch aus der Zeit um 1900.",
+      "english": "The furniture is still from around 1900.",
+      "russian": "Мебель все еще из времени около 1900 года.",
+      "farsi": "مبلمان هنوز از دوره‌ای حدود سال 1900 است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich trage nur Pullover aus reiner Wolle.",
+      "english": "I only wear sweaters made of pure wool.",
+      "russian": "Я ношу только свитера из чистой шерсти.",
+      "farsi": "من فقط پلیورهایی از پشم خالص می‌پوشم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben aus Liebe geheiratet.",
+      "english": "We got married out of love.",
+      "russian": "Мы поженились по любви.",
+      "farsi": "ما به دلیل عشق ازدواج کردیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wann ist der Kurs aus?",
+      "english": "When is the course over?",
+      "russian": "Когда курс закончится?",
+      "farsi": "دوره چه زمانی تمام می شود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich seh‘ nichts! Das Licht ist aus!",
+      "english": "I don't see anything! The light is off!",
+      "russian": "Я ничего не вижу! Свет выключен!",
+      "farsi": "هیچی نمی‌بینم! چراغ خاموش است!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Ausbildung, die Ausbildungen",
+      "english": "the training, trainings",
+      "russian": "обучение, обучения",
+      "farsi": "آموزش، آموزش‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe meine Ausbildung abgeschlossen.",
+      "english": "I have completed my training.",
+      "russian": "Я завершил свое обучение.",
+      "farsi": "من آموزشم را تمام کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mit deiner guten Ausbildung findest du sicher eine Arbeit.",
+      "english": "With your good training, you will definitely find a job.",
+      "russian": "С твоим хорошим обучением ты обязательно найдешь работу.",
+      "farsi": "با آموزش خوبت حتماً شغلی پیدا می‌کنی."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "ausgebildet",
+      "english": "trained",
+      "russian": "обученный",
+      "farsi": "آموزش دیده"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Für diesen Beruf müssen Sie gut ausgebildet sein.",
+      "english": "You need to be well-trained for this profession.",
+      "russian": "Для этой профессии вам нужно быть хорошо обученным.",
+      "farsi": "برای این شغل باید خوب آموزش دیده باشید."
+    },
+    {
+      "type": "verben",
+      "Infinitive": "ausdrucken",
+      "Präsens": "ich drucke aus, du druckst aus, er/sie/es druckt aus, wir drucken aus, ihr druckt aus, sie/Sie drucken aus",
+      "Präteritum": "ich druckte aus, du drucktest aus, er/sie/es druckte aus, wir druckten aus, ihr drucktet aus, sie/Sie druckten aus",
+      "Perfekt": "hat ausgedruckt",
+      "englishMeaning": "to print out",
+      "englishUsage": "Used to describe the action of printing something from a digital source onto paper.",
+      "russianMeaning": "распечатывать",
+      "russianUsage": "Используется для описания действия печати чего-либо из цифрового источника на бумагу.",
+      "farsiMeaning": "چاپ کردن",
+      "farsiUsage": "برای توصیف عمل چاپ چیزی از یک منبع دیجیتال روی کاغذ استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kann ich das auf deinem Drucker ausdrucken?",
+      "english": "Can I print it out on your printer?",
+      "russian": "Могу ли я распечатать это на вашем принтере?",
+      "farsi": "می‌توانم این را روی پرینترت چاپ کنم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Ausdruck, die Ausdrücke",
+      "english": "the expression, expressions",
+      "russian": "выражение, выражения",
+      "farsi": "عبارت، عبارات"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Diesen Ausdruck habe ich noch nie gehört.",
+      "english": "I have never heard this expression before.",
+      "russian": "Я никогда не слышал этого выражения.",
+      "farsi": "این عبارت را هرگز نشنیده‌ام."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Machen Sie doch bitte einen Ausdruck von der E-Mail.",
+      "english": "Please print out the email.",
+      "russian": "Пожалуйста, распечатайте электронное письмо.",
+      "farsi": "لطفاً یک نسخه از ایمیل را چاپ کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "auseinander",
+      "english": "apart, separated",
+      "russian": "врозь, отдельно",
+      "farsi": "جدا، جدا از هم"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir wohnen nicht weit auseinander.",
+      "english": "We don't live far apart.",
+      "russian": "Мы не живем далеко друг от друга.",
+      "farsi": "ما دور از هم زندگی نمی‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Ausfahrt, die Ausfahrten",
+      "english": "the exit, exits",
+      "russian": "выезд, выезды",
+      "farsi": "خروجی، خروجی‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hier ist eine Ausfahrt, da dürfen Sie nicht parken.",
+      "english": "There is an exit here, you are not allowed to park.",
+      "russian": "Здесь есть выезд, здесь нельзя парковаться.",
+      "farsi": "اینجا یک خروجی است، شما نمی‌توانید اینجا پارک کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie weit ist es noch bis zur Ausfahrt Freiburg?",
+      "english": "How far is it to the Freiburg exit?",
+      "russian": "Как далеко до выезда Фрайбург?",
+      "farsi": "تا خروجی فرایبورگ چقدر راه است؟"
+    },
+    {
+      "type": "verben",
+      "Infinitive": "ausfallen",
+      "Präsens": "ich falle aus, du fällst aus, er/sie/es fällt aus, wir fallen aus, ihr fallt aus, sie/Sie fallen aus",
+      "Präteritum": "ich fiel aus, du fielst aus, er/sie/es fiel aus, wir fielen aus, ihr falt aus, sie/Sie fielen aus",
+      "Perfekt": "ist ausgefallen",
+      "englishMeaning": "to fail, to be cancelled",
+      "englishUsage": "Used to describe something that does not function or is cancelled.",
+      "russianMeaning": "выходить из строя, отменяться",
+      "russianUsage": "Используется для описания чего-либо, что не функционирует или отменяется.",
+      "farsiMeaning": "شکستن، لغو شدن",
+      "farsiUsage": "برای توصیف چیزی که کار نمی‌کند یا لغو می‌شود استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nächste Woche fällt der Kurs aus.",
+      "english": "The course will be cancelled next week.",
+      "russian": "На следующей неделе курс будет отменен.",
+      "farsi": "هفته آینده کلاس لغو می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Ausflug, die Ausflüge",
+      "english": "the excursion, excursions",
+      "russian": "экскурсия, экскурсии",
+      "farsi": "سفر کوتاه، سفرهای کوتاه"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Am Wochenende machen wir mit Freunden einen Ausflug nach Heidelberg.",
+      "english": "On the weekend, we're going on a trip to Heidelberg with friends.",
+      "russian": "На выходных мы с друзьями совершаем экскурсию в Гейдельберг.",
+      "farsi": " آخر هفته با دوستانمان به هیدلبرگ سفر می‌کنیم."
+    },
+    {
+      "type": "verben",
+      "Infinitive": "ausfüllen",
+      "Präsens": "ich fülle aus, du füllst aus, er/sie/es füllt aus, wir füllen aus, ihr füllt aus, sie/Sie füllen aus",
+      "Präteritum": "ich füllte aus, du füllest aus, er/sie/es füllte aus, wir füllten aus, ihr fülltet aus, sie/Sie füllten aus",
+      "Perfekt": "hat ausgefüllt",
+      "englishMeaning": "to fill out",
+      "englishUsage": "Used to describe the action of completing a form or questionnaire.",
+      "russianMeaning": "заполнять",
+      "russianUsage": "Используется для описания действия заполнения формы или анкеты.",
+      "farsiMeaning": "پر کردن",
+      "farsiUsage": "برای توصیف عمل تکمیل یک فرم یا پرسشنامه استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Füllen Sie bitte dieses Formular aus!",
+      "english": "Please fill out this form!",
+      "russian": "Пожалуйста, заполните эту форму!",
+      "farsi": "لطفاً این فرم را پر کنید!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Ausgabe, die Ausgaben",
+      "english": "the output, expenses",
+      "russian": "выдача, расходы",
+      "farsi": "خروجی، هزینه‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie hoch sind Ihre Ausgaben in einem Monat?",
+      "english": "How high are your expenses per month?",
+      "russian": "Каковы ваши расходы в месяц?",
+      "farsi": "هزینه‌های شما در یک ماه چقدر است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wo ist die Essensausgabe?",
+      "english": "Where is the food distribution?",
+      "russian": "Где выдача еды?",
+      "farsi": "جایگاه توزیع غذا کجاست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In welchem Buch hast du das gelesen? In welcher Ausgabe?",
+      "english": "In which book did you read that? In which edition?",
+      "russian": "В какой книге вы прочитали это? В каком издании?",
+      "farsi": "در چه کتابی این را خوانده‌ای؟ در چه نسخه‌ای؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Ausgang, die Ausgänge",
+      "english": "the exit, exits",
+      "russian": "выход, выходы",
+      "farsi": "خروجی، خروجی‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wo ist der Ausgang bitte?",
+      "english": "Where is the exit, please?",
+      "russian": "Где выход, пожалуйста?",
+      "farsi": "لطفاً خروجی کجاست؟"
+    },
+    {
+      "type": "verben",
+      "Infinitive": "ausgeben",
+      "Präsens": "ich gebe aus, du gibst aus, er/sie/es gibt aus, wir geben aus, ihr gebt aus, sie/Sie geben aus",
+      "Präteritum": "ich gab aus, du gabst aus, er/sie/es gab aus, wir gaben aus, ihr gabt aus, sie/Sie gaben aus",
+      "Perfekt": "hat ausgegeben",
+      "englishMeaning": "to spend, to distribute",
+      "englishUsage": "Used to describe the action of spending money or distributing something.",
+      "russianMeaning": "тратить, распределять",
+      "russianUsage": "Используется для описания действия траты денег или распределения чего-либо.",
+      "farsiMeaning": "پول خرج کردن، توزیع کردن",
+      "farsiUsage": "برای توصیف عمل خرج کردن پول یا توزیع چیزی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Carola gibt viel Geld für ihr Hobby aus.",
+      "english": "Carola spends a lot of money on her hobby.",
+      "russian": "Карола тратит много денег на свое хобби.",
+      "farsi": "کارولا çok پول برای سرگرمی‌اش خرج می‌کند."
+    },
+    {
+      "type": "verben",
+      "Infinitive": "ausgehen",
+      "Präsens": "ich gehe aus, du gehst aus, er/sie/es geht aus, wir gehen aus, ihr geht aus, sie/Sie gehen aus",
+      "Präteritum": "ich ging aus, du gingst aus, er/sie/es ging aus, wir gingen aus, ihr gingt aus, sie/Sie gingen aus",
+      "Perfekt": "ist ausgegangen",
+      "englishMeaning": "to go out, to turn off",
+      "englishUsage": "Used to describe the action of leaving a place or something ceasing to function.",
+      "russianMeaning": "выходить, выключаться",
+      "russianUsage": "Используется для описания действия выхода из места или прекращения функционирования чего-либо.",
+      "farsiMeaning": "بیرون رفتن، خاموش شدن",
+      "farsiUsage": "برای توصیف عمل خارج شدن از یک مکان یا متوقف شدن کار چیزی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Plötzlich ist das Licht ausgegangen.",
+      "english": "Suddenly, the light went out.",
+      "russian": "Внезапно свет погас.",
+      "farsi": "ناگهان چراغ خاموش شد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Gehen wir heute Abend aus?",
+      "english": "Shall we go out tonight?",
+      "russian": "Пойдем ли мы сегодня вечером?",
+      "farsi": "امشب بیرون برویم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie ist das Spiel ausgegangen?",
+      "english": "How did the game end?",
+      "russian": "Как закончилась игра?",
+      "farsi": "بازی چطور تمام شد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "ausgezeichnet",
+      "english": "excellent",
+      "russian": "отличный",
+      "farsi": "عالی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Essen und Unterkunft waren ausgezeichnet.",
+      "english": "The food and accommodation were excellent.",
+      "russian": "Еда и проживание были отличными.",
+      "farsi": "غذا و محل اقامت عالی بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Aushilfe, die Aushilfen",
+      "english": "the temporary help, temporary helpers",
+      "russian": "временная помощь, временные помощники",
+      "farsi": "کمک موقت، کمک‌کنندگان موقت"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir suchen eine freundliche Aushilfe für unser Geschäft.",
+      "english": "We are looking for a friendly temporary helper for our business.",
+      "russian": "Мы ищем дружелюбную временную помощь для нашего бизнеса.",
+      "farsi": "ما به دنبال یک کمک‌کننده موقت دوستانه برای کسب‌وکارمان هستیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Auskunft, die Auskünfte",
+      "english": "the information, informations",
+      "russian": "информация, сведения",
+      "farsi": "اطلاعات، اطلاعات"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich hätte gern eine Auskunft.",
+      "english": "I would like some information.",
+      "russian": "Я хотел бы получить информацию.",
+      "farsi": "من می‌خواهم اطلاعاتی دریافت کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Firma hat eine neue Nummer. Bitte, rufen Sie die Auskunft an.",
+      "english": "The company has a new number. Please call directory assistance.",
+      "russian": "У компании новый номер. Пожалуйста, позвоните в справочную службу.",
+      "farsi": "شرکت شماره جدیدی دارد. لطفاً با تلفن‌اطلاعات تماس بگیرید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Ausland",
+      "english": "abroad, foreign countries",
+      "russian": "за границей, иностранные страны",
+      "farsi": "خارج از کشور، کشورهای خارجی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir fahren im Urlaub meistens ins Ausland.",
+      "english": "We usually travel abroad on vacation.",
+      "russian": "Мы обычно ездим за границу на отдых.",
+      "farsi": "ما معمولاً در تعطیلات به خارج از کشور می‌رویم."
+    }
+  ]
+}

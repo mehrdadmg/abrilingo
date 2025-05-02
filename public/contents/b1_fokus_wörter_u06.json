@@ -1,0 +1,385 @@
+{
+  "info": {
+    "name": "B1_Fokus_Wörter_u06",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Gefühl, -e",
+      "english": "the feeling, feelings",
+      "russian": "чувство, чувства",
+      "farsi": "احساس، احساسات"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "ängstlich",
+      "english": "fearful, anxious",
+      "russian": "страхливый, тревожный",
+      "farsi": "ترسو، نگران"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "angespannt",
+      "english": "tense, strained",
+      "russian": "напряжённый, натянутый",
+      "farsi": "در حال تنش، کشیده شده"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "freundlich",
+      "english": "friendly",
+      "russian": "дружелюбный",
+      "farsi": "دوستانه"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "gestresst",
+      "english": "stressed",
+      "russian": "стрессированный",
+      "farsi": "استرس زده"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "glücklich",
+      "english": "happy",
+      "russian": "счастливый",
+      "farsi": "خوشبخت"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "interessiert",
+      "english": "interested",
+      "russian": "заинтересованный",
+      "farsi": "علاقه‌مند"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "neugierig",
+      "english": "curious",
+      "russian": "любопытный",
+      "farsi": "پرسشگر"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "ordentlich",
+      "english": "orderly, tidy",
+      "russian": "порядочный, аккуратный",
+      "farsi": "منظم، مرتب"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "ruhig",
+      "english": "calm, peaceful",
+      "russian": "спокойный, мирный",
+      "farsi": "آرام، صلح‌آمیز"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "sympathisch",
+      "english": "sympathetic, likable",
+      "russian": "симпатичный, приятный",
+      "farsi": "دوست‌داشتنی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "wütend",
+      "english": "angry",
+      "russian": "сердитый",
+      "farsi": "خشمگین"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "positiv",
+      "english": "positive",
+      "russian": "положительный",
+      "farsi": "مثبت"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "negativ",
+      "english": "negative",
+      "russian": "отрицательный",
+      "farsi": "منفی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "kennenlernen",
+      "english": "to get to know",
+      "russian": "знакомиться",
+      "farsi": "آشنا شدن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "bestätigen",
+      "english": "to confirm",
+      "russian": "подтверждать",
+      "farsi": "تأیید کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "vereinbaren",
+      "english": "to agree, to arrange",
+      "russian": "согласовывать, договариваться",
+      "farsi": "توافق کردن، ترتیب دادن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "senden",
+      "english": "to send",
+      "russian": "отправлять",
+      "farsi": "فرستادن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "einladen",
+      "english": "to invite",
+      "russian": "приглашать",
+      "farsi": "دعوت کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Bruder, -ü-",
+      "english": "the brother, brothers",
+      "russian": "брат, братья",
+      "farsi": "برادر، برادران"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "(sich) vorbereiten (auf)",
+      "english": "to prepare (for)",
+      "russian": "готовиться (к)",
+      "farsi": "آماده شدن (برای)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "erzählen",
+      "english": "to tell, to narrate",
+      "russian": "рассказывать",
+      "farsi": "روایت کردن، تعریف کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "üben",
+      "english": "to practice, to exercise",
+      "russian": "упражнять, тренироваться",
+      "farsi": "تمرین کردن، ورزش کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Stärke, -n",
+      "english": "the strength, strengths",
+      "russian": "сила, сильные стороны",
+      "farsi": "نیروی، نقاط قوت"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Schwäche, -n",
+      "english": "the weakness, weaknesses",
+      "russian": "слабость, слабые стороны",
+      "farsi": "نقص، نقاط ضعف"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "denken (an)",
+      "english": "to think (of), to remember",
+      "russian": "думать (о), вспоминать",
+      "farsi": "فکر کردن (به)، به یاد آوردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "warten (auf)",
+      "english": "to wait (for)",
+      "russian": "ждать (за)",
+      "farsi": "منتظر بودن (برای)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "reden (über)",
+      "english": "to talk (about), to discuss",
+      "russian": "говорить (о), обсуждать",
+      "farsi": "حرف زدن (در مورد)، بحث کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "beginnen",
+      "english": "to begin, to start",
+      "russian": "начинать",
+      "farsi": "شروع کردن، آغاز کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "sich bedanken",
+      "english": "to thank",
+      "russian": "благодарить",
+      "farsi": "تشکر کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Atmosphäre (Sg.)",
+      "english": "the atmosphere (singular)",
+      "russian": "атмосфера (ед. ч.)",
+      "farsi": "جو، اتمسفر (مفرد)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Einarbeitung (hier Sg.)",
+      "english": "the training, induction (here singular)",
+      "russian": "введение в курс дела, обучение (здесь ед. ч.)",
+      "farsi": "آموزش، معارفه (اینجا مفرد)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "krank",
+      "english": "sick, ill",
+      "russian": "больной",
+      "farsi": "بیمار، مریض"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "schwanger",
+      "english": "pregnant",
+      "russian": "беременная",
+      "farsi": "باردار"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "politisch",
+      "english": "political",
+      "russian": "политический",
+      "farsi": "سیاسی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Partei, -en",
+      "english": "the party, parties",
+      "russian": "партия, партии",
+      "farsi": "حزب، احزاب"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "bevor",
+      "english": "before",
+      "russian": "прежде чем, до того как",
+      "farsi": "قبل از، پیش از"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "nachdem",
+      "english": "after",
+      "russian": "после того как",
+      "farsi": "بعد از، پس از"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Geburtsort",
+      "english": "the place of birth",
+      "russian": "место рождения",
+      "farsi": "محل تولد"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Herkunftsland",
+      "english": "the country of origin",
+      "russian": "страна происхождения",
+      "farsi": "کشور مبدأ"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Tempo, Tempi",
+      "english": "the pace, paces",
+      "russian": "темп, темпы",
+      "farsi": "سرعت، سرعت‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Küche, -n",
+      "english": "the kitchen, kitchens",
+      "russian": "кухня, кухни",
+      "farsi": "آشپزخانه، آشپزخانه‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Toilette, -n",
+      "english": "the toilet, toilets",
+      "russian": "туалет, туалеты",
+      "farsi": "توالت، توالت‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Dienstplan, -ä-e",
+      "english": "the duty roster/schedule, duty rosters/schedules",
+      "russian": "график дежурств, графики дежурств",
+      "farsi": "برنامه کاری، برنامه‌های کاری"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "unbefristet",
+      "english": "permanent, unlimited",
+      "russian": "бессрочный, постоянный",
+      "farsi": "نامحدود، دائمی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "teamfähig",
+      "english": "team-oriented, able to work in a team",
+      "russian": "способный работать в команде",
+      "farsi": "توانمند در کار گروهی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Meine Wörter",
+      "english": "My words",
+      "russian": "Мои слова",
+      "farsi": "کلمات من"
+    }
+  ]
+}

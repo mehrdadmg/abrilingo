@@ -1,0 +1,682 @@
+{
+  "info": {
+    "name": "B1_Plus_Fokus_Wörter_01",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Abteilung",
+      "english": "the department",
+      "russian": "отдел",
+      "farsi": "بخش"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Arbeitgeber",
+      "english": "the employer (male)",
+      "russian": "работодатель (мужчина)",
+      "farsi": "کارفرما (مرد)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Arbeitgeberin",
+      "english": "the employer (female)",
+      "russian": "работодательница (женщина)",
+      "farsi": "کارفرما (زن)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Asylverfahren",
+      "english": "the asylum procedure",
+      "russian": "процедура предоставления убежища",
+      "farsi": "روند پناهندگی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Ausbildung",
+      "english": "the training, education",
+      "russian": "обучение, образование",
+      "farsi": "آموزش، تحصیل"
+    },
+    {
+      "type": "verben",
+      "Infinitive": "auffallen",
+      "Präsens": "ich falle auf, du fällst auf, er/sie/es fällt auf, wir fallen auf, ihr fallt auf, sie fallen auf",
+      "Präteritum": "ich fiel auf, du fielst auf, er/sie/es fiel auf, wir fielen auf, ihr fielt auf, sie fielen auf",
+      "Perfekt": "ist aufgefallen",
+      "englishMeaning": "to stand out, to attract attention",
+      "englishUsage": "Used to describe something or someone that catches attention or is noticeable.",
+      "russianMeaning": "выделяться, привлекать внимание",
+      "russianUsage": "Используется для описания чего-то или кого-то, кто привлекает внимание или заметен.",
+      "farsiMeaning": "جلب توجه کردن، برجسته بودن",
+      "farsiUsage": "برای توصیف چیزی یا کسی که توجه را جلب می‌کند یا قابل توجه است استفاده می‌شود."
+    },
+    {
+      "type": "verben",
+      "Infinitive": "(eine Prüfung) bestehen",
+      "Präsens": "(ich bestehe eine Prüfung), du bestehst eine Prüfung, er/sie/es besteht eine Prüfung, wir bestehen eine Prüfung, ihr besteht eine Prüfung, sie bestehen eine Prüfung",
+      "Präteritum": "(ich bestand eine Prüfung), du bestandest eine Prüfung, er/sie/es bestand eine Prüfung, wir bestanden eine Prüfung, ihr bestandet eine Prüfung, sie bestanden eine Prüfung",
+      "Perfekt": "(hat eine Prüfung bestanden)",
+      "englishMeaning": "(to pass an exam)",
+      "englishUsage": "(Used when someone successfully completes an exam or test.)",
+      "russianMeaning": "(сдать экзамен)",
+      "russianUsage": "(Используется, когда кто-то успешно сдаёт экзамен или тест.)",
+      "farsiMeaning": "(قبول شدن در امتحان)",
+      "farsiUsage": "(وقتی کسی با موفقیت امتحان یا آزمونی را می‌گذراند استفاده می‌شود.)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Berufsinformationszentrum (BIZ)",
+      "english": "the career information center",
+      "russian": "центр профессиональной информации",
+      "farsi": "مرکز اطلاعات شغلی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Betrieb",
+      "english": "the business",
+      "russian": "предприятие",
+      "farsi": "کسب و کار"
+    },
+    {
+      "type": "verben",
+      "Infinitive": "sich bewerben",
+      "Präsens": "ich bewerbe mich, du bewirbst dich, er/sie/es bewirbt sich, wir bewerben uns, ihr bewerbt euch, sie bewerben sich",
+      "Präteritum": "ich bewarb mich, du bewarbst dich, er/sie/es bewarb sich, wir bewarben uns, ihr bewarbt euch, sie bewarben sich",
+      "Perfekt": "hat sich beworben",
+      "englishMeaning": "to apply (for a job or position)",
+      "englishUsage": "Used when someone applies for a job or position by submitting an application.",
+      "russianMeaning": "подавать заявление (на работу или должность)",
+      "russianUsage": "Используется, когда кто-то подаёт заявление на работу или должность.",
+      "farsiMeaning": "درخواست دادن (برای شغل یا موقعیت)",
+      "farsiUsage": "وقتی کسی برای شغل یا موقعیتی درخواست می‌دهد استفاده می‌شود."
+    },
+    {
+      "type": "verben",
+      "Infinitive": "jdn. einstellen",
+      "Präsens": "ich stelle ein, du stellst ein, er/sie/es stellt ein, wir stellen ein, ihr stellt ein, sie stellen ein",
+      "Präteritum": "ich stellte ein, du stelltest ein, er/sie/es stellte ein, wir stellten ein, ihr stelltet ein, sie stellten ein",
+      "Perfekt": "hat eingestellt",
+      "englishMeaning": "(to hire someone)",
+      "englishUsage": "(Used when a company or employer hires someone for a job.)",
+      "russianMeaning": "(нанимать кого-либо)",
+      "russianUsage": "(Используется, когда компания или работодатель нанимает кого-то на работу.)",
+      "farsiMeaning": "(استخدام کردن کسی)",
+      "farsiUsage": "(وقتی یک شرکت یا کارفرما کسی را استخدام می‌کند استفاده می‌شود.)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das E-Learning (Sg.)",
+      "english": "(the e-learning)",
+      "russian": "(электронное обучение)",
+      "farsi": "(آموزش الکترونیکی)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der E-Learning-Kurs",
+      "english": "(the e-learning course)",
+      "russian": "(курс электронного обучения)",
+      "farsi": "(دوره آموزش الکترونیکی)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Facharbeiter",
+      "english": "(the skilled worker)",
+      "russian": "(квалифицированный рабочий)",
+      "farsi": "(کارگر ماهر)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Facharbeiterin",
+      "english": "the skilled worker (female)",
+      "russian": "квалифицированная рабочая",
+      "farsi": "کارگر ماهر (زن)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Gabelstapler",
+      "english": "the forklift",
+      "russian": "погрузчик",
+      "farsi": "لیفتراک"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Geschäftsführung",
+      "english": "the management",
+      "russian": "руководство",
+      "farsi": "مدیریت"
+    },
+    {
+      "type": "verben",
+      "Infinitive": "sich informieren",
+      "Präsens": "ich informiere mich, du informierst dich, er/sie/es informiert sich, wir informieren uns, ihr informiert euch, sie informieren sich",
+      "Präteritum": "ich informierte mich, du informiertest dich, er/sie/es informierte sich, wir informierten uns, ihr informiertet euch, sie informierten sich",
+      "Perfekt": "hat sich informiert",
+      "englishMeaning": "(to inform oneself)",
+      "englishUsage": "(Used when someone seeks or gathers information for themselves.)",
+      "russianMeaning": "(узнавать информацию)",
+      "russianUsage": "(Используется, когда кто-то ищет или получает информацию для себя.)",
+      "farsiMeaning": "(اطلاع پیدا کردن)",
+      "farsiUsage": "(وقتی کسی به دنبال اطلاعات می‌گردد یا اطلاعاتی را برای خود جمع‌آوری می‌کند استفاده می‌شود.)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Lager",
+      "english": "(the warehouse, storage)",
+      "russian": "(склад, хранилище)",
+      "farsi": "(انبار، ذخیره‌سازی)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Lagerlogistik (Sg.)",
+      "english": "(the warehouse logistics)",
+      "russian": "(складская логистика)",
+      "farsi": "(لجستیک انبار)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Mitarbeiter",
+      "english": "(the employee, staff member)",
+      "russian": "(сотрудник)",
+      "farsi": "(کارمند، عضو کارکنان)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Mitarbeiterin",
+      "english": "the employee (female)",
+      "russian": "сотрудница",
+      "farsi": "کارمند (زن)"
+    },
+    {
+      "type": "verben",
+      "Infinitive": "jdm. etw. raten",
+      "Präsens": "ich rate, du rätst, er/sie/es rät, wir raten, ihr ratet, sie raten",
+      "Präteritum": "ich riet, du rietest, er/sie/es riet, wir rieten, ihr rietet, sie rieten",
+      "Perfekt": "hat geraten",
+      "englishMeaning": "(to advise someone something)",
+      "englishUsage": "(Used when giving advice or a recommendation to someone.)",
+      "russianMeaning": "(советовать кому-либо что-либо)",
+      "russianUsage": "(Используется при даче совета или рекомендации кому-либо.)",
+      "farsiMeaning": "(به کسی چیزی توصیه کردن)",
+      "farsiUsage": "(وقتی به کسی توصیه یا پیشنهاد می‌دهید استفاده می‌شود.)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Schulabschluss",
+      "english": "the school-leaving qualification",
+      "russian": "школьный аттестат",
+      "farsi": "مدرک تحصیلی پایان مدرسه"
+    },
+    {
+      "type": "verben",
+      "Infinitive": "steigen",
+      "Präsens": "ich steige, du steigst, er/sie/es steigt, wir steigen, ihr steigt, sie steigen",
+      "Präteritum": "ich stieg, du stiegst, er/sie/es stieg, wir stiegen, ihr stiegt, sie stiegen",
+      "Perfekt": "ist gestiegen",
+      "englishMeaning": "(to rise, to climb)",
+      "englishUsage": "(Used to describe an increase or upward movement.)",
+      "russianMeaning": "(подниматься, увеличиваться)",
+      "russianUsage": "(Используется для описания увеличения или движения вверх.)",
+      "farsiMeaning": "(بالا رفتن، افزایش یافتن)",
+      "farsiUsage": "(برای توصیف افزایش یا حرکت به سمت بالا استفاده می‌شود.)"
+    },
+    {
+      "type": "verben",
+      "Infinitive": "teilnehmen an (+ Dat.)",
+      "Präsens": "ich nehme teil, du nimmst teil, er/sie/es nimmt teil, wir nehmen teil, ihr nehmt teil, sie nehmen teil",
+      "Präteritum": "ich nahm teil, du nahmst teil, er/sie/es nahm teil, wir nahmen teil, ihr nahmt teil, sie nahmen teil",
+      "Perfekt": "hat teilgenommen",
+      "englishMeaning": "(to participate in)",
+      "englishUsage": "(Used when someone takes part in an event or activity.)",
+      "russianMeaning": "(участвовать в чём-либо)",
+      "russianUsage": "(Используется для обозначения участия в мероприятии или деятельности.)",
+      "farsiMeaning": "(شرکت کردن در)",
+      "farsiUsage": "(وقتی کسی در یک رویداد یا فعالیت شرکت می‌کند استفاده می‌شود.)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Umsatz",
+      "english": "(the revenue, turnover)",
+      "russian": "(выручка, оборот)",
+      "farsi": "(درآمد، گردش مالی)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Umschulung",
+      "english": "(the retraining)",
+      "russian": "(переквалификация)",
+      "farsi": "(بازآموزی)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "wahrscheinlich",
+      "english": "probably, likely",
+      "russian": "вероятно",
+      "farsi": "احتمالاً"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Weiterbildung, -en",
+      "english": "the further education, training",
+      "russian": "дополнительное образование, повышение квалификации",
+      "farsi": "آموزش تکمیلی، دوره‌های آموزشی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Lebenswege",
+      "english": "life paths",
+      "russian": "жизненные пути",
+      "farsi": "مسیرهای زندگی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Antrag",
+      "english": "the application, request",
+      "russian": "заявление, запрос",
+      "farsi": "درخواست، تقاضا"
+    },
+    {
+      "type": "verben",
+      "Infinitive": "einen Antrag stellen",
+      "Präsens": "ich stelle einen Antrag, du stellst einen Antrag, er/sie/es stellt einen Antrag, wir stellen einen Antrag, ihr stellt einen Antrag, sie stellen einen Antrag",
+      "Präteritum": "ich stellte einen Antrag, du stelltest einen Antrag, er/sie/es stellte einen Antrag, wir stellten einen Antrag, ihr stelltet einen Antrag, sie stellten einen Antrag",
+      "Perfekt": "hat einen Antrag gestellt",
+      "englishMeaning": "(to submit an application)",
+      "englishUsage": "(Used when someone formally submits a request or application.)",
+      "russianMeaning": "(подать заявление)",
+      "russianUsage": "(Используется, когда кто-то формально подаёт запрос или заявление.)",
+      "farsiMeaning": "(ارائه درخواست)",
+      "farsiUsage": "(وقتی کسی به طور رسمی درخواستی را ارائه می‌دهد استفاده می‌شود.)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Aufenthaltsgenehmigung",
+      "english": "(the residence permit)",
+      "russian": "(разрешение на проживание)",
+      "farsi": "(مجوز اقامت)"
+    },
+    {
+      "type": "verben",
+      "Infinitive": "aufwachsen",
+      "Präsens": "ich wachse auf, du wächst auf, er/sie/es wächst auf, wir wachsen auf, ihr wachst auf, sie wachsen auf",
+      "Präteritum": "ich wuchs auf, du wuchsest auf, er/sie/es wuchs auf, wir wuchsen auf, ihr wuchst auf, sie wuchsen auf",
+      "Perfekt": "ist aufgewachsen",
+      "englishMeaning": "(to grow up)",
+      "englishUsage": "(Used when describing the process of growing up in a specific place or environment.)",
+      "russianMeaning": "(вырастать)",
+      "russianUsage": "(Используется для описания процесса взросления в определённом месте или среде.)",
+      "farsiMeaning": "(بزرگ شدن)",
+      "farsiUsage": "(برای توصیف فرآیند بزرگ شدن در یک مکان یا محیط خاص استفاده می‌شود.)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Berater",
+      "english": "the consultant (male)",
+      "russian": "консультант (мужчина)",
+      "farsi": "مشاور (مرد)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Beraterin",
+      "english": "the consultant (female)",
+      "russian": "консультант (женщина)",
+      "farsi": "مشاور (زن)"
+    },
+    {
+      "type": "verben",
+      "Infinitive": "jdn. beschäftigen",
+      "Präsens": "ich beschäftige, du beschäftigst, er/sie/es beschäftigt, wir beschäftigen, ihr beschäftigt, sie beschäftigen",
+      "Präteritum": "ich beschäftigte, du beschäftigtest, er/sie/es beschäftigte, wir beschäftigten, ihr beschäftigtet, sie beschäftigten",
+      "Perfekt": "hat beschäftigt",
+      "englishMeaning": "(to employ someone)",
+      "englishUsage": "(Used when giving someone a job or work.)",
+      "russianMeaning": "(нанимать кого-либо на работу)",
+      "russianUsage": "(Используется, когда кому-то предоставляют работу.)",
+      "farsiMeaning": "(استخدام کردن کسی)",
+      "farsiUsage": "(وقتی به کسی شغل یا کاری داده می‌شود استفاده می‌شود.)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Businessplan",
+      "english": "(the business plan)",
+      "russian": "(бизнес-план)",
+      "farsi": "(طرح تجاری)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Einkommen",
+      "english": "(the income)",
+      "russian": "(доход)",
+      "farsi": "(درآمد)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Entscheidung",
+      "english": "(the decision)",
+      "russian": "(решение)",
+      "farsi": "(تصمیم)"
+    },
+    {
+      "type": "verben",
+      "Infinitive": "eine Entscheidung treffen",
+      "Präsens": "ich treffe eine Entscheidung, du triffst eine Entscheidung, er/sie/es trifft eine Entscheidung, wir treffen eine Entscheidung, ihr trefft eine Entscheidung, sie treffen eine Entscheidung",
+      "Präteritum": "ich traf eine Entscheidung, du trafst eine Entscheidung, er/sie/es traf eine Entscheidung, wir trafen eine Entscheidung, ihr traft eine Entscheidung, sie trafen eine Entscheidung",
+      "Perfekt": "hat eine Entscheidung getroffen",
+      "englishMeaning": "(to make a decision)",
+      "englishUsage": "(Used when someone decides on something after consideration.)",
+      "russianMeaning": "(принять решение)",
+      "russianUsage": "(Используется, когда кто-то принимает решение после обдумывания.)",
+      "farsiMeaning": "(تصمیم گرفتن)",
+      "farsiUsage": "(وقتی کسی پس از بررسی تصمیمی می‌گیرد استفاده می‌شود.)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Existenzgründung",
+      "english": "the business start-up",
+      "russian": "создание бизнеса",
+      "farsi": "راه‌اندازی کسب‌وکار"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Fortbildung",
+      "english": "the advanced training",
+      "russian": "повышение квалификации",
+      "farsi": "آموزش پیشرفته"
+    },
+    {
+      "type": "verben",
+      "Infinitive": "eine Fortbildung machen",
+      "Präsens": "ich mache eine Fortbildung, du machst eine Fortbildung, er/sie/es macht eine Fortbildung, wir machen eine Fortbildung, ihr macht eine Fortbildung, sie machen eine Fortbildung",
+      "Präteritum": "ich machte eine Fortbildung, du machtest eine Fortbildung, er/sie/es machte eine Fortbildung, wir machten eine Fortbildung, ihr machtet eine Fortbildung, sie machten eine Fortbildung",
+      "Perfekt": "hat eine Fortbildung gemacht",
+      "englishMeaning": "(to do advanced training)",
+      "englishUsage": "(Used when someone participates in training to enhance their professional skills.)",
+      "russianMeaning": "(проводить повышение квалификации)",
+      "russianUsage": "(Используется, когда кто-то участвует в обучении для повышения профессиональных навыков.)",
+      "farsiMeaning": "(آموزش پیشرفته دیدن)",
+      "farsiUsage": "(وقتی کسی برای ارتقای مهارت‌های حرفه‌ای خود در آموزش شرکت می‌کند استفاده می‌شود.)"
+    },
+    {
+      "type": "verben",
+      "Infinitive": "(ein Unternehmen) gründen",
+      "Präsens": "ich gründe ein Unternehmen, du gründest ein Unternehmen, er/sie/es gründet ein Unternehmen, wir gründen ein Unternehmen, ihr gründet ein Unternehmen, sie gründen ein Unternehmen",
+      "Präteritum": "ich gründete ein Unternehmen, du gründetest ein Unternehmen, er/sie/es gründete ein Unternehmen, wir gründeten ein Unternehmen, ihr gründetet ein Unternehmen, sie gründeten ein Unternehmen",
+      "Perfekt": "hat ein Unternehmen gegründet",
+      "englishMeaning": "(to start a business)",
+      "englishUsage": "(Used when someone establishes or starts a new company or enterprise.)",
+      "russianMeaning": "(основать предприятие)",
+      "russianUsage": "(Используется, когда кто-то основывает или начинает новую компанию или предприятие.)",
+      "farsiMeaning": "(راه‌اندازی یک شرکت)",
+      "farsiUsage": "(وقتی کسی یک شرکت یا کسب‌وکار جدید تأسیس می‌کند استفاده می‌شود.)"
+    },
+    {
+      "type": "verben",
+      "Infinitive": "einen Kredit bewilligen",
+      "Präsens": "ich bewillige einen Kredit, du bewilligst einen Kredit, er/sie/es bewilligt einen Kredit, wir bewilligen einen Kredit, ihr bewilligt einen Kredit, sie bewilligen einen Kredit",
+      "Präteritum": "ich bewilligte einen Kredit, du bewilligtest einen Kredit, er/sie/es bewilligte einen Kredit, wir bewilligten einen Kredit, ihr bewilligtet einen Kredit, sie bewilligten einen Kredit",
+      "Perfekt": "hat einen Kredit bewilligt",
+      "englishMeaning": "(to approve a loan)",
+      "englishUsage": "(Used when a financial institution agrees to grant a loan to someone.)",
+      "russianMeaning": "(одобрить кредит)",
+      "russianUsage": "(Используется, когда финансовое учреждение соглашается предоставить кредит кому-либо.)",
+      "farsiMeaning": "(تأیید وام)",
+      "farsiUsage": "(وقتی یک مؤسسه مالی موافقت می‌کند که به کسی وام بدهد استفاده می‌شود.)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Küchenhelfer",
+      "english": "(the kitchen assistant - male)",
+      "russian": "(помощник на кухне - мужчина)",
+      "farsi": "(دستیار آشپزخانه - مرد)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Küchenhelferin",
+      "english": "(the kitchen assistant - female)",
+      "russian": "(помощница на кухне - женщина)",
+      "farsi": "(دستیار آشپزخانه - زن)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "sich selbstständig machen",
+      "english": "(to become self-employed)",
+      "russian": "(открыть собственное дело)",
+      "farsi": "(خوداشتغال شدن)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Selbstständigkeit (Sg.)",
+      "english": "(the self-employment, independence)",
+      "russian": "(самозанятость, независимость)",
+      "farsi": "(خوداشتغالی، استقلال)"
+    },
+    {
+      "type": "verben",
+      "Infinitive": "überlegen",
+      "Präsens": "ich überlege, du überlegst, er/sie/es überlegt, wir überlegen, ihr überlegt, sie überlegen",
+      "Präteritum": "ich überlegte, du überlegtest, er/sie/es überlegte, wir überlegten, ihr überlegtet, sie überlegten",
+      "Perfekt": "hat überlegt",
+      "englishMeaning": "(to consider, to think about)",
+      "englishUsage": "(Used when someone carefully thinks about or reflects on something.)",
+      "russianMeaning": "(обдумывать)",
+      "russianUsage": "(Используется, когда кто-то тщательно обдумывает или размышляет о чём-то.)",
+      "farsiMeaning": "(فکر کردن، در نظر گرفتن)",
+      "farsiUsage": "(وقتی کسی به دقت درباره چیزی فکر می‌کند یا آن را بررسی می‌کند استفاده می‌شود.)"
+    },
+    {
+      "type": "verben",
+      "Infinitive": "Verantwortung tragen für (+ Akk.)",
+      "Präsens": "ich trage Verantwortung für ..., du trägst Verantwortung für ..., er/sie/es trägt Verantwortung für ..., wir tragen Verantwortung für ..., ihr tragt Verantwortung für ..., sie tragen Verantwortung für ...",
+      "Präteritum": "ich trug Verantwortung für ..., du trugst Verantwortung für ..., er/sie/es trug Verantwortung für ..., wir trugen Verantwortung для ..., ihr trugt Verantwortung для ..., sie trugen Verantwortung для ...",
+      "Perfekt": "hat Verantwortung getragen für ...",
+      "englishMeaning": "(to bear responsibility for)",
+      "englishUsage": "(Used when someone is accountable for a task or obligation.)",
+      "russianMeaning": "(нести ответственность за)",
+      "russianUsage": "(Используется, когда кто-то несёт ответственность за задачу или обязательство.)",
+      "farsiMeaning": "(مسئولیت داشتن برای)",
+      "farsiUsage": "(وقتی کسی مسئولیت کاری یا تعهدی را بر عهده دارد استفاده می‌شود.)"
+    },
+    {
+      "type": "verben",
+      "Infinitive": "etw. anerkennen lassen",
+      "Präsens": "ich lasse etwas anerkennen, du lässt etwas anerkennen, er/sie/es lässt etwas anerkennen, wir lassen etwas anerkennen, ihr lasst etwas anerkennen, sie lassen etwas anerkennen",
+      "Präteritum": "ich ließ etwas anerkennen, du ließest etwas anerkennen, er/sie/es ließ etwas anerkennen, wir ließen etwas anerkennen, ihr ließt etwas anerkennen, sie ließen etwas anerkennen",
+      "Perfekt": "hat etwas anerkennen lassen",
+      "englishMeaning": "(to have something recognized)",
+      "englishUsage": "(Used when someone seeks official recognition for qualifications or achievements.)",
+      "russianMeaning": "(добиться признания чего-либо)",
+      "russianUsage": "(Используется, когда кто-то добивается официального признания своих квалификаций или достижений.)",
+      "farsiMeaning": "(به رسمیت شناختن چیزی)",
+      "farsiUsage": "(وقتی کسی به دنبال تأیید رسمی مدارک یا دستاوردهای خود است استفاده می‌شود.)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Berufsabschluss",
+      "english": "(the professional qualification)",
+      "russian": "(профессиональная квалификация)",
+      "farsi": "(مدرک حرفه‌ای)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Berufsausbildung, -en",
+      "english": "(the vocational training)",
+      "russian": "(профессиональное обучение)",
+      "farsi": "(آموزش حرفه‌ای)"
+    },
+    {
+      "type": "verben",
+      "Infinitive": "etw. beschließen",
+      "Präsens": "ich beschließe, du beschließt, er/sie/es beschließt, wir beschließen, ihr beschließt, sie beschließen",
+      "Präteritum": "ich beschloss, du beschlossest, er/sie/es beschloss, wir beschlossen, ihr beschlosset, sie beschlossen",
+      "Perfekt": "hat beschlossen",
+      "englishMeaning": "(to decide on something)",
+      "englishUsage": "(Used when someone makes a formal decision or resolution.)",
+      "russianMeaning": "(решить что-либо)",
+      "russianUsage": "(Используется, когда кто-то принимает официальное решение или постановление.)",
+      "farsiMeaning": "(تصمیم گرفتن درباره چیزی)",
+      "farsiUsage": "(وقتی کسی تصمیم رسمی یا قطعنامه‌ای می‌گیرد استفاده می‌شود.)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Zeugnis",
+      "english": "(the certificate)",
+      "russian": "(свидетельство)",
+      "farsi": "(گواهی)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Anerkennung",
+      "english": "(the recognition)",
+      "russian": "(признание)",
+      "farsi": "(به رسمیت شناختن)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Anerkennungsverfahren",
+      "english": "the recognition procedure",
+      "russian": "процедура признания",
+      "farsi": "فرآیند به رسمیت شناختن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Arbeitserlaubnis",
+      "english": "the work permit",
+      "russian": "разрешение на работу",
+      "farsi": "مجوز کار"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Fachkraft",
+      "english": "the skilled worker",
+      "russian": "квалифицированный специалист",
+      "farsi": "نیروی کار ماهر"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Kompetenz",
+      "english": "the competence, skill",
+      "russian": "компетенция, навык",
+      "farsi": "مهارت، شایستگی"
+    },
+    {
+      "type": "verben",
+      "Infinitive": "Kosten übernehmen",
+      "Präsens": "ich übernehme Kosten, du übernimmst Kosten, er/sie/es übernimmt Kosten, wir übernehmen Kosten, ihr übernehmt Kosten, sie übernehmen Kosten",
+      "Präteritum": "ich übernahm Kosten, du übernahmst Kosten, er/sie/es übernahm Kosten, wir übernahmen Kosten, ihr übernahmt Kosten, sie übernahmen Kosten",
+      "Perfekt": "hat Kosten übernommen",
+      "englishMeaning": "(to cover costs)",
+      "englishUsage": "(Used when someone agrees to pay or take responsibility for expenses.)",
+      "russianMeaning": "(взять на себя расходы)",
+      "russianUsage": "(Используется, когда кто-то соглашается оплатить или взять на себя расходы.)",
+      "farsiMeaning": "(پرداخت هزینه‌ها)",
+      "farsiUsage": "(وقتی کسی موافقت می‌کند که هزینه‌ها را پرداخت کند یا مسئولیت آن‌ها را بر عهده بگیرد استفاده می‌شود.)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Nachweis",
+      "english": "the proof, evidence",
+      "russian": "доказательство, подтверждение",
+      "farsi": "مدرک، اثبات"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Praktikum",
+      "english": "the internship",
+      "russian": "стажировка",
+      "farsi": "دوره کارآموزی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Praktika",
+      "english": "internships",
+      "russian": "стажировки",
+      "farsi": "دوره‌های کارآموزی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Qualifikation",
+      "english": "the qualification",
+      "russian": "квалификация",
+      "farsi": "صلاحیت"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "reglementiert",
+      "english": "(regulated)",
+      "russian": "(регламентированный)",
+      "farsi": "(قانون‌مند)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Unterlage",
+      "english": "(the document, record)",
+      "russian": "(документ, запись)",
+      "farsi": "(مدرک، سند)"
+    },
+    {
+      "type": "verben",
+      "Infinitive": "etw. vergleichen mit (+ Dat.)",
+      "Präsens": "ich vergleiche etwas mit ..., du vergleichst etwas mit ..., er/sie/es vergleicht etwas mit ..., wir vergleichen etwas mit ..., ihr vergleicht etwas mit ..., sie vergleichen etwas mit ...",
+      "Präteritum": "ich verglich etwas mit ..., du verglichst etwas с ..., er/sie/es verglich etwas с ..., wir verglichen etwas с ..., ihr verglicht etwas с ..., sie verglichen что-то с ...",
+      "Perfekt": "(hat etwas verglichen mit ...)",
+      "englishMeaning": "(to compare something with ...)",
+      "englishUsage": "(Used when evaluating similarities or differences between two or more things.)",
+      "russianMeaning": "(сравнить что-либо с ...)",
+      "russianUsage": "(Используется для оценки сходств или различий между двумя или более объектами.)",
+      "farsiMeaning": "(مقایسه کردن چیزی با ...)",
+      "farsiUsage": "(وقتی شباهت‌ها یا تفاوت‌های بین دو یا چند چیز ارزیابی می‌شود استفاده می‌شود.)"
+    }
+  ]
+}

@@ -1,0 +1,718 @@
+{
+  "info": {
+    "name": "B1_Wortliste_06",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Ausländer, die Ausländer",
+      "english": "the foreigner, foreigners",
+      "russian": "иностранец, иностранцы",
+      "farsi": "خارجی، خارجی‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Ausländerin, die Ausländerinnen",
+      "english": "the female foreigner, female foreigners",
+      "russian": "иностранка, иностранки",
+      "farsi": "زن خارجی، زنان خارجی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Viele Ausländer und Ausländerinnen lernen in der Volkshochschule Deutsch.",
+      "english": "Many foreigners learn German at the adult education center.",
+      "russian": "Многие иностранцы изучают немецкий язык в народном университете.",
+      "farsi": "بسیاری از خارجی‌ها در مدرسه بزرگسالان آلمانی یاد می‌گیرند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "ausländisch",
+      "english": "foreign",
+      "russian": "иностранный",
+      "farsi": "خارجی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die ausländischen Studenten müssen zuerst einen Deutschkurs besuchen.",
+      "english": "The foreign students must first attend a German course.",
+      "russian": "Иностранные студенты должны сначала посетить курс немецкого языка.",
+      "farsi": "دانشجویان خارجی ابتدا باید در یک دوره زبان آلمانی شرکت کنند."
+    },
+    {
+      "type": "verben",
+      "Infinitive": "ausmachen",
+      "Präsens": "ich mache aus, du machst aus, er/sie/es macht aus, wir machen aus, ihr macht aus, sie/Sie machen aus",
+      "Präteritum": "ich machte aus, du machtest aus, er/sie/es machte aus, wir machten aus, ihr machtet aus, sie/Sie machten aus",
+      "Perfekt": "hat ausgemacht",
+      "englishMeaning": "to turn off, to matter, to arrange",
+      "englishUsage": "Used to describe turning something off, mattering to someone, or arranging something.",
+      "russianMeaning": "выключать, иметь значение, договариваться",
+      "russianUsage": "Используется для описания выключения чего-либо, значимости для кого-то или договоренности о чем-либо.",
+      "farsiMeaning": "خاموش کردن، اهمیت داشتن، ترتیب دادن",
+      "farsiUsage": "برای توصیف خاموش کردن چیزی، اهمیت داشتن برای کسی یا ترتیب دادن چیزی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie müssen leider warten. – Kein Problem. Das macht mir nichts aus.",
+      "english": "Unfortunately, you have to wait. – No problem. That doesn't bother me.",
+      "russian": "К сожалению, вам придется подождать. – Ничего страшного. Меня это не беспокоит.",
+      "farsi": "متأسفانه باید منتظر بمانید. - مشکلی نیست. این برای من مهم نیست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Machen Sie bitte das Licht aus!",
+      "english": "Please turn off the light!",
+      "russian": "Пожалуйста, выключите свет!",
+      "farsi": "لطفاً چراغ را خاموش کنید!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir hatten doch ausgemacht, dass du die Getränke besorgst.",
+      "english": "We had agreed that you would get the drinks.",
+      "russian": "Мы же договорились, что ты принесешь напитки.",
+      "farsi": "ما توافق کرده بودیم که تو نوشیدنی‌ها را تهیه کنی."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Haben Sie einen Termin ausgemacht?",
+      "english": "Have you made an appointment?",
+      "russian": "Вы назначили встречу?",
+      "farsi": "آیا قرار ملاقاتی تعیین کرده‌اید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Ausnahme, die Ausnahmen",
+      "english": "the exception, exceptions",
+      "russian": "исключение, исключения",
+      "farsi": "استثنا، استثناها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Normalerweise muss ich am Wochenende arbeiten. Aber heute ist eine Ausnahme.",
+      "english": "Normally, I have to work on weekends. But today is an exception.",
+      "russian": "Обычно я должен работать по выходным. Но сегодня исключение.",
+      "farsi": "معمولاً باید آخر هفته‌ها کار کنم. اما امروز یک استثنا است."
+    },
+    {
+      "type": "verben",
+      "Infinitive": "ausreichen",
+      "Präsens": "ich reiche aus, du reichst aus, er/sie/es reicht aus, wir reichen aus, ihr reicht aus, sie/Sie reichen aus",
+      "Präteritum": "ich reichte aus, du reichtest aus, er/sie/es reichte aus, wir reichten aus, ihr reichtet aus, sie/Sie reichten aus",
+      "Perfekt": "hat ausgereicht",
+      "englishMeaning": "to suffice, to be enough",
+      "englishUsage": "Used to describe something that is sufficient or adequate for a purpose.",
+      "russianMeaning": "хватать, быть достаточным",
+      "russianUsage": "Используется для описания чего-либо, что достаточно или удовлетворяет определенной цели.",
+      "farsiMeaning": "کافی بودن، بسنده کردن",
+      "farsiUsage": "برای توصیف چیزی که برای یک هدف کافی یا مناسب است استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Geld muss bis März ausreichen.",
+      "english": "The money must suffice until March.",
+      "russian": "Денег должно хватить до марта.",
+      "farsi": "پول باید تا ماه مارس کافی باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Seine Kenntnisse reichen für diese Arbeit aus.",
+      "english": "His knowledge is sufficient for this job.",
+      "russian": "Его знаний достаточно для этой работы.",
+      "farsi": "دانش او برای این کار کافی است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "ausreichend",
+      "english": "sufficient",
+      "russian": "достаточный",
+      "farsi": "کافی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Geld ist für die Reise ausreichend.",
+      "english": "The money is sufficient for the trip.",
+      "russian": "Денег достаточно для поездки.",
+      "farsi": "پول برای سفر کافی است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "ausreichend",
+      "english": "sufficient",
+      "russian": "достаточный",
+      "farsi": "کافی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein Mann ist nicht da. Soll ich ihm etwas ausrichten?",
+      "english": "My husband is not here. Should I pass on a message to him?",
+      "russian": "Моего мужа нет. Передать ему что-нибудь?",
+      "farsi": "شوهرم اینجا نیست. آیا باید پیامی به او برسانم؟"
+    },
+    {
+      "type": "verben",
+      "Infinitive": "ausruhen",
+      "Präsens": "ich ruhe aus, du ruhst aus, er/sie/es ruht aus, wir ruhen aus, ihr ruht aus, sie/Sie ruhen aus",
+      "Präteritum": "ich ruhte aus, du ruhtest aus, er/sie/es ruhte aus, wir ruhten aus, ihr ruhtet aus, sie/Sie ruhten aus",
+      "Perfekt": "hat ausgeruht",
+      "englishMeaning": "to rest, to relax",
+      "englishUsage": "Used to describe the action of resting or relaxing after exertion.",
+      "russianMeaning": "отдыхать",
+      "russianUsage": "Используется для описания действия отдыха или расслабления после напряжения.",
+      "farsiMeaning": "استراحت کردن",
+      "farsiUsage": "برای توصیف عمل استراحت یا آرامش پس از تلاش استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie ruhen sich von der Arbeit aus.",
+      "english": "They are resting from work.",
+      "russian": "Они отдыхают от работы.",
+      "farsi": "آنها از کار استراحت می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bist du gut ausgeruht?",
+      "english": "Are you well-rested?",
+      "russian": "Ты хорошо отдохнул?",
+      "farsi": "آیا خوب استراحت کرده‌ای؟"
+    },
+    {
+      "type": "verben",
+      "Infinitive": "ausschließen",
+      "Präsens": "ich schließe aus, du schließt aus, er/sie/es schließt aus, wir schließen aus, ihr schließt aus, sie/Sie schließen aus",
+      "Präteritum": "ich schloss aus, du schlossest aus, er/sie/es schloss aus, wir schlossen aus, ihr schlosst aus, sie/Sie schlossen aus",
+      "Perfekt": "hat ausgeschlossen",
+      "englishMeaning": "to exclude, to rule out",
+      "englishUsage": "Used to describe the action of excluding something or someone from a group or possibility.",
+      "russianMeaning": "исключать",
+      "russianUsage": "Используется для описания действия исключения чего-либо или кого-либо из группы или возможности.",
+      "farsiMeaning": "مستثنی کردن، رد کردن",
+      "farsiUsage": "برای توصیف عمل حذف چیزی یا کسی از یک گروه یا امکان استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das kann man nicht ganz ausschließen.",
+      "english": "One cannot completely rule that out.",
+      "russian": "Этого нельзя полностью исключить.",
+      "farsi": "نمی‌توان آن را کاملاً رد کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "So viel kann ich nicht bezahlen. Das ist völlig ausgeschlossen.",
+      "english": "I can't pay that much. That's completely out of the question.",
+      "russian": "Я не могу столько заплатить. Это полностью исключено.",
+      "farsi": "من نمی‌توانم این مقدار بپردازم. این کاملاً غیرممکن است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "ausschließlich",
+      "english": "exclusively",
+      "russian": "исключительно",
+      "farsi": "منحصراً"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Tut mir leid. Wir haben ausschließlich Nichtraucherzimmer.",
+      "english": "I'm sorry. We only have non-smoking rooms.",
+      "russian": "Извините. У нас есть только номера для некурящих.",
+      "farsi": "متأسفم. ما فقط اتاق‌های غیرسیگاری داریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "aussehen",
+      "english": "to look",
+      "russian": "выглядеть",
+      "farsi": "به نظر آمدن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie sehen wieder besser aus. Sind Sie wieder gesund?",
+      "english": "You look better again. Are you healthy again?",
+      "russian": "Вы снова выглядите лучше. Вы снова здоровы?",
+      "farsi": "شما دوباره بهتر به نظر می‌رسید. آیا دوباره سالم هستید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er sieht genauso aus wie sein Vater.",
+      "english": "He looks just like his father.",
+      "russian": "Он выглядит точно как его отец.",
+      "farsi": "او درست مثل پدرش به نظر می‌آید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es sieht so aus, als ob es bald regnen würde.",
+      "english": "It looks like it will rain soon.",
+      "russian": "Похоже, скоро пойдет дождь.",
+      "farsi": "به نظر می‌آید که زود باران می‌بارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "außen",
+      "english": "outside",
+      "russian": "снаружи",
+      "farsi": "بیرون"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben das Schloss nur von außen gesehen.",
+      "english": "We only saw the castle from the outside.",
+      "russian": "Мы видели замок только снаружи.",
+      "farsi": "ما قلعه را فقط از بیرون دیده‌ایم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Außen ist das Haus nicht sehr schön.",
+      "english": "The house is not very beautiful on the outside.",
+      "russian": "Снаружи дом не очень красив.",
+      "farsi": "خانه از بیرون خیلی زیبا نیست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "außerhalb",
+      "english": "outside, beyond",
+      "russian": "за пределами, вне",
+      "farsi": "بیرون از، فراتر از"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir wohnen außerhalb von Berlin.",
+      "english": "We live outside of Berlin.",
+      "russian": "Мы живем за пределами Берлина.",
+      "farsi": "ما در بیرون از برلین زندگی می‌کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "äußerlich",
+      "english": "externally, outwardly",
+      "russian": "внешне",
+      "farsi": "به صورت خارجی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Medikament dürfen Sie nur äußerlich anwenden.",
+      "english": "You may only apply the medication externally.",
+      "russian": "Препарат можно применять только внешне.",
+      "farsi": "این دارو را فقط به صورت خارجی می‌توانید استفاده کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "außer",
+      "english": "except, besides",
+      "russian": "кроме, кроме того",
+      "farsi": "به جز، علاوه بر"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Außer Lisa hat sich niemand um die Stelle beworben.",
+      "english": "Except for Lisa, no one applied for the position.",
+      "russian": "Кроме Лизы, никто не подал заявку на эту должность.",
+      "farsi": "به جز لیزا، هیچ کس برای این موقعیت درخواست نکرده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Aufzug ist außer Betrieb.",
+      "english": "The elevator is out of service.",
+      "russian": "Лифт не работает.",
+      "farsi": "آسانسور از کار افتاده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben täglich außer Samstag geöffnet.",
+      "english": "We are open daily except for Saturday.",
+      "russian": "Мы открыты ежедневно, кроме субботы.",
+      "farsi": "ما هر روز به جز شنبه باز هستیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "außerdem",
+      "english": "also, additionally",
+      "russian": "также, кроме того",
+      "farsi": "همچنین، علاوه بر این"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Möchten Sie außerdem noch etwas?",
+      "english": "Would you like something else as well?",
+      "russian": "Хотите ли вы что-то еще?",
+      "farsi": "آیا می‌خواهید چیزی دیگر هم داشته باشید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Film war langweilig, und außerdem haben die Schauspieler schlecht gespielt.",
+      "english": "The movie was boring, and also the actors performed poorly.",
+      "russian": "Фильм был скучным, и кроме того, актеры сыграли плохо.",
+      "farsi": "فیلم خسته‌کننده بود و علاوه بر این، بازیگران بد بازی کردند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Aussicht, die Aussichten",
+      "english": "the view, prospects",
+      "russian": "вид, перспективы",
+      "farsi": "منظره، چشم‌اندازها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Von diesem Turm hat man eine tolle Aussicht.",
+      "english": "From this tower, you have a great view.",
+      "russian": "С этой башни открывается отличный вид.",
+      "farsi": "از این برج منظره‌ای عالی دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mit mehreren Fremdsprachen hat man gute Aussichten im Beruf.",
+      "english": "With several foreign languages, you have good prospects in your career.",
+      "russian": "С несколькими иностранными языками у вас есть хорошие перспективы в карьере.",
+      "farsi": "با چند زبان خارجی، چشم‌اندازهای خوبی در شغل دارید."
+    },
+    {
+      "type": "verben",
+      "Infinitive": "aussprechen",
+      "Präsens": "ich spreche aus, du sprichst aus, er/sie/es spricht aus, wir sprechen aus, ihr sprecht aus, sie/Sie sprechen aus",
+      "Präteritum": "ich sprach aus, du sprachst aus, er/sie/es sprach aus, wir sprachen aus, ihr spracht aus, sie/Sie sprachen aus",
+      "Perfekt": "hat ausgesprochen",
+      "englishMeaning": "to pronounce, to express",
+      "englishUsage": "Used to describe the action of pronouncing words or expressing thoughts and feelings.",
+      "russianMeaning": "произносить, выражать",
+      "russianUsage": "Используется для описания действия произношения слов или выражения мыслей и чувств.",
+      "farsiMeaning": "تلفظ کردن، بیان کردن",
+      "farsiUsage": "برای توصیف عمل تلفظ کلمات یا بیان افکار و احساسات استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie spricht man dieses Wort aus?",
+      "english": "How do you pronounce this word?",
+      "russian": "Как произносится это слово?",
+      "farsi": "این کلمه چگونه تلفظ می‌شود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Aussprache, die Aussprachen",
+      "english": "the pronunciation, pronunciations",
+      "russian": "произношение, произношения",
+      "farsi": "تلفظ، تلفظ‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ali hat eine gute Aussprache.",
+      "english": "Ali has good pronunciation.",
+      "russian": "У Али хорошее произношение.",
+      "farsi": "علی تلفظ خوبی دارد."
+    },
+    {
+      "type": "verben",
+      "Infinitive": "ausstellen",
+      "Präsens": "ich stelle aus, du stellst aus, er/sie/es stellt aus, wir stellen aus, ihr stellt aus, sie/Sie stellen aus",
+      "Präteritum": "ich stellte aus, du stelltest aus, er/sie/es stellte aus, wir stellten aus, ihr stelltet aus, sie/Sie stellten aus",
+      "Perfekt": "hat ausgestellt",
+      "englishMeaning": "to exhibit, to issue",
+      "englishUsage": "Used to describe the action of displaying items for public view or issuing official documents.",
+      "russianMeaning": "выставлять, выдавать",
+      "russianUsage": "Используется для описания действия выставления предметов для публичного просмотра или выдачи официальных документов.",
+      "farsiMeaning": "به نمایش گذاشتن، صادر کردن",
+      "farsiUsage": "برای توصیف عمل نمایش اقلام برای بازدید عمومی یا صدور اسناد رسمی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im Schaufenster sind Winterschuhe ausgestellt.",
+      "english": "Winter shoes are displayed in the shop window.",
+      "russian": "В витрине выставлена зимняя обувь.",
+      "farsi": "کفش‌های زمستانی در ویترین به نمایش گذاشته شده‌اند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Zeugnis wird bis nächste Woche ausgestellt.",
+      "english": "The certificate will be issued by next week.",
+      "russian": "Свидетельство будет выдано к следующей неделе.",
+      "farsi": "گواهی تا هفته آینده صادر خواهد شد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Ausstellung, die Ausstellungen",
+      "english": "the exhibition, exhibitions",
+      "russian": "выставка, выставки",
+      "farsi": "نمایشگاه، نمایشگاه‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir waren mit der Lehrerin in einer Ausstellung.",
+      "english": "We were at an exhibition with the teacher.",
+      "russian": "Мы были с учительницей на выставке.",
+      "farsi": "ما با معلم در یک نمایشگاه بودیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Ausstellung eines neuen Passes dauert zwei Wochen.",
+      "english": "The issuance of a new passport takes two weeks.",
+      "russian": "Выдача нового паспорта занимает две недели.",
+      "farsi": "صدور گذرنامه جدید دو هفته طول می‌کشد."
+    },
+    {
+      "type": "verben",
+      "Infinitive": "sich aussuchen",
+      "Präsens": "ich wähle mir aus, du wählst dir aus, er/sie/es wählt sich aus, wir wählen uns aus, ihr wählt euch aus, sie/Sie wählen sich aus",
+      "Präteritum": "ich wählte mir aus, du wähltest dir aus, er/sie/es wählte sich aus, wir wählten uns aus, ihr wähltet euch aus, sie/Sie wählten sich aus",
+      "Perfekt": "hat sich ausgesucht",
+      "englishMeaning": "to choose for oneself",
+      "englishUsage": "Used to describe the action of selecting something for oneself.",
+      "russianMeaning": "выбирать для себя",
+      "russianUsage": "Используется для описания действия выбора чего-либо для себя.",
+      "farsiMeaning": "برای خود انتخاب کردن",
+      "farsiUsage": "برای توصیف عمل انتخاب چیزی برای خود استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Such dir etwas Schönes aus! Ich lade dich ein.",
+      "english": "Choose something nice for yourself! I'm inviting you.",
+      "russian": "Выбери что-нибудь хорошее для себя! Я приглашаю тебя.",
+      "farsi": "چیزی زیبا برای خودت انتخاب کن! تو را دعوت می‌کنم."
+    },
+    {
+      "type": "verben",
+      "Infinitive": "auswählen",
+      "Präsens": "ich wähle aus, du wählst aus, er/sie/es wählt aus, wir wählen aus, ihr wählt aus, sie/Sie wählen aus",
+      "Präteritum": "ich wählte aus, du wähltest aus, er/sie/es wählte aus, wir wählten aus, ihr wähltet aus, sie/Sie wählten aus",
+      "Perfekt": "hat ausgewählt",
+      "englishMeaning": "to select, to choose",
+      "englishUsage": "Used to describe the action of choosing something from a group of options.",
+      "russianMeaning": "выбирать",
+      "russianUsage": "Используется для описания действия выбора чего-либо из группы вариантов.",
+      "farsiMeaning": "انتخاب کردن",
+      "farsiUsage": "برای توصیف عمل انتخاب چیزی از بین گزینه‌ها استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Für die Aufgabe können Sie aus drei Themen auswählen.",
+      "english": "For the task, you can choose from three topics.",
+      "russian": "Для задания вы можете выбрать из трех тем.",
+      "farsi": "برای این کار می‌توانید از بین سه موضوع انتخاب کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Auswahl, die Auswahlen",
+      "english": "the selection, selections",
+      "russian": "выбор, выборы",
+      "farsi": "انتخاب، انتخاب‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir müssen eine Auswahl aus den Büchern treffen.",
+      "english": "We need to make a selection from the books.",
+      "russian": "Нам нужно сделать выбор из книг.",
+      "farsi": "ما باید از بین کتاب‌ها انتخابی انجام دهیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Geschäft hat eine große Auswahl.",
+      "english": "The store has a wide selection.",
+      "russian": "В магазине большой выбор.",
+      "farsi": "این فروشگاه انتخاب‌های زیادی دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Ausweis, die Ausweise",
+      "english": "the ID, IDs",
+      "russian": "удостоверение, удостоверения",
+      "farsi": "کارت شناسایی، کارت‌های شناسایی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Darf ich mal Ihren Ausweis sehen?",
+      "english": "May I see your ID?",
+      "russian": "Могу ли я посмотреть ваше удостоверение?",
+      "farsi": "می‌توانم کارت شناسایی شما را ببینم؟"
+    },
+    {
+      "type": "verben",
+      "Infinitive": "ausziehen",
+      "Präsens": "ich ziehe aus, du ziehst aus, er/sie/es zieht aus, wir ziehen aus, ihr zieht aus, sie/Sie ziehen aus",
+      "Präteritum": "ich zog aus, du zogst aus, er/sie/es zog aus, wir zogen aus, ihr zogt aus, sie/Sie zogen aus",
+      "Perfekt": "ist ausgezogen",
+      "englishMeaning": "to move out, to take off",
+      "englishUsage": "Used to describe the action of moving out of a place or removing clothing.",
+      "russianMeaning": "выезжать, снимать",
+      "russianUsage": "Используется для описания действия съезда из места или снятия одежды.",
+      "farsiMeaning": "از جا بر خاستن، درآوردن",
+      "farsiUsage": "برای توصیف عمل خارج شدن از یک مکان یا درآوردن لباس استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Willst du den Mantel nicht ausziehen?",
+      "english": "Don't you want to take off your coat?",
+      "russian": "Ты не хочешь снять пальто?",
+      "farsi": "آیا نمی‌خواهی پالتوت را درآوری؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Müllers sind schon vor vier Wochen ausgezogen.",
+      "english": "The Müllers moved out four weeks ago.",
+      "russian": "Мюллеры съехали четыре недели назад.",
+      "farsi": "خانواده مولر چهار هفته پیش از جا بر خاستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Auto, die Autos",
+      "english": "the car, cars",
+      "russian": "машина, машины",
+      "farsi": "ماشین، ماشین‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mario fährt mit dem Auto zur Arbeit.",
+      "english": "Mario drives to work by car.",
+      "russian": "Марио ездит на работу на машине.",
+      "farsi": "ماریو با ماشین به کار می‌رود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Autobahn, die Autobahnen",
+      "english": "the highway, highways",
+      "russian": "автострада, автострады",
+      "farsi": "اتوبان، اتوبان‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Dorf liegt direkt an der Autobahn.",
+      "english": "The village is located right next to the highway.",
+      "russian": "Деревня находится прямо рядом с автострадой.",
+      "farsi": "دهکده درست کنار اتوبان واقع شده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Automat, die Automaten",
+      "english": "the machine, machines",
+      "russian": "автомат, автоматы",
+      "farsi": "ماشین خودکار، ماشین‌های خودکار"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Zigaretten bekommst du am Automaten.",
+      "english": "You can get cigarettes from the vending machine.",
+      "russian": "Сигареты можно купить в автомате.",
+      "farsi": "سیگار را می‌توانی از دستگاه خودکار بگیری."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Fahrkartenautomat ist auf dem Bahnsteig.",
+      "english": "The ticket machine is on the platform.",
+      "russian": "Автомат по продаже билетов находится на платформе.",
+      "farsi": "دستگاه بلیط‌فروشی روی سکوی ایستگاه است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "automatisch",
+      "english": "automatically",
+      "russian": "автоматически",
+      "farsi": "به صورت خودکار"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Tür schließt automatisch.",
+      "english": "The door closes automatically.",
+      "russian": "Дверь закрывается автоматически.",
+      "farsi": "در به صورت خودکار بسته می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Zeugnis bekommen Sie automatisch zugeschickt.",
+      "english": "You will receive the certificate automatically.",
+      "russian": "Свидетельство вам будет автоматически отправлено.",
+      "farsi": "گواهی به صورت خودکار برایتان ارسال می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Autor, die Autoren",
+      "english": "the author, authors",
+      "russian": "автор, авторы",
+      "farsi": "نویسنده، نویسندگان"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Autorin, die Autorinnen",
+      "english": "the female author, female authors",
+      "russian": "авторка, авторки",
+      "farsi": "نویسنده زن، نویسندگان زن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Diese Autorin hat in diesem Jahr schon zwei Bücher geschrieben.",
+      "english": "This author has already written two books this year.",
+      "russian": "Эта писательница уже написала два книги в этом году.",
+      "farsi": "این نویسنده زن در این سال دو کتاب نوشته است."
+    }
+  ]
+}

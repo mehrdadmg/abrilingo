@@ -1,0 +1,514 @@
+{
+  "info": {
+    "name": "B1_Fokus_Wörter_u13",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Innovation, die Innovationen",
+      "english": "the innovation, innovations",
+      "russian": "инновация, инновации",
+      "farsi": "نوآوری، نوآوری‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Warteschlange, die Warteschlangen",
+      "english": "the queue, queues",
+      "russian": "очередь, очереди",
+      "farsi": "صف، صف‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "hektisch",
+      "english": "hectic",
+      "russian": "суматошный, суетливый",
+      "farsi": "پرتلاطم، پرشلوغ"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Wohnraum, die Wohnräume",
+      "english": "the living space, living spaces",
+      "russian": "жилая площадь, жилые площади",
+      "farsi": "فضای مسکونی، فضاهای مسکونی"
+    },
+    {
+      "type": "verben",
+      "Infinitive": "weitergehen",
+      "Präsens": "er geht weiter",
+      "Präteritum": "er ging weiter",
+      "Perfekt": "ist weitergegangen",
+      "englishMeaning": "to continue, to go on",
+      "englishUsage": "Used to describe the action of continuing something or moving forward. It can refer to physical motion as well as abstract processes.",
+      "russianMeaning": "продолжаться, идти дальше",
+      "russianUsage": "Используется для описания продолжения чего-либо или движения вперёд. Может относиться как к физическому движению, так и к абстрактным процессам.",
+      "farsiMeaning": "ادامه دادن، جلو رفتن",
+      "farsiUsage": "برای توصیف ادامه دادن یا پیش رفتن به کار می‌رود. هم برای حرکت فیزیکی و هم برای فرآیندهای انتزاعی به کار می‌رود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Vermutung, die Vermutungen",
+      "english": "the assumption, assumptions",
+      "russian": "предположение, предположения",
+      "farsi": "حدس، حدس‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Prognose, die Prognosen",
+      "english": "the forecast, forecasts",
+      "russian": "прогноз, прогнозы",
+      "farsi": "پیش‌بینی، پیش‌بینی‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Tagesplan, die Tagespläne",
+      "english": "the daily schedule, daily schedules",
+      "russian": "расписание дня, расписания дня",
+      "farsi": "برنامه روزانه، برنامه‌های روزانه"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "möglicherweise",
+      "english": "possibly, maybe",
+      "russian": "возможно, может быть",
+      "farsi": "احتمالاً، شاید"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Karriere, die Karrieren",
+      "english": "the career, careers",
+      "russian": "карьера, карьеры",
+      "farsi": "حرفه، حرفه‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Computer, die Computer",
+      "english": "the computer, computers",
+      "russian": "компьютер, компьютеры",
+      "farsi": "رایانه، رایانه‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Smartphone, die Smartphones",
+      "english": "the smartphone, smartphones",
+      "russian": "смартфон, смартфоны",
+      "farsi": "گوشی هوشمند، گوشی‌های هوشمند"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Rechner, die Rechner",
+      "english": "the calculator/computer, calculators/computers",
+      "russian": "калькулятор/компьютер, калькуляторы/компьютеры",
+      "farsi": "ماشین حساب/رایانه، ماشین حساب‌ها/رایانه‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Tastatur, die Tastaturen",
+      "english": "the keyboard, keyboards",
+      "russian": "клавиатура, клавиатуры",
+      "farsi": "صفحه‌کلید، صفحه‌کلیدها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Festplatte, die Festplatten",
+      "english": "the hard drive, hard drives",
+      "russian": "жёсткий диск, жёсткие диски",
+      "farsi": "هارد دیسک، هارد دیسک‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Tablet, die Tablets",
+      "english": "the tablet, tablets",
+      "russian": "планшет, планшеты",
+      "farsi": "تبلت، تبلت‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Lautsprecher, die Lautsprecher",
+      "english": "the speaker, speakers",
+      "russian": "динамик, динамики",
+      "farsi": "بلندگو، بلندگوها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Maus, die Mäuse",
+      "english": "the mouse, mice",
+      "russian": "мышь, мыши",
+      "farsi": "ماوس، ماوس‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Drucker, die Drucker",
+      "english": "the printer, printers",
+      "russian": "принтер, принтеры",
+      "farsi": "پرینتر، پرینترها"
+    },
+    {
+      "type": "verben",
+      "Infinitive": "hochladen",
+      "Präsens": "er lädt hoch",
+      "Präteritum": "er lud hoch",
+      "Perfekt": "hat hochgeladen",
+      "englishMeaning": "to upload",
+      "englishUsage": "Used when transferring data or files from a local device to a server or online platform.",
+      "russianMeaning": "загружать (на сервер)",
+      "russianUsage": "Используется для передачи данных или файлов с локального устройства на сервер или онлайн-платформу.",
+      "farsiMeaning": "آپلود کردن",
+      "farsiUsage": "برای توصیف انتقال داده یا فایل‌ها از یک دستگاه محلی به سرور یا پلتفرم آنلاین به کار می‌رود."
+    },
+    {
+      "type": "verben",
+      "Infinitive": "suchen",
+      "Präsens": "er sucht",
+      "Präteritum": "er suchte",
+      "Perfekt": "hat gesucht",
+      "englishMeaning": "to search, to look for",
+      "englishUsage": "Used to express the act of trying to find someone or something.",
+      "russianMeaning": "искать",
+      "russianUsage": "Используется для выражения действия поиска кого-либо или чего-либо.",
+      "farsiMeaning": "جستجو کردن، دنبال چیزی گشتن",
+      "farsiUsage": "برای بیان انجام عمل جستجو یا پیدا کردن کسی یا چیزی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Gerät, die Geräte",
+      "english": "the device, devices",
+      "russian": "устройство, устройства",
+      "farsi": "دستگاه، دستگاه‌ها"
+    },
+    {
+      "type": "verben",
+      "Infinitive": "fotografieren",
+      "Präsens": "er fotografiert",
+      "Präteritum": "er fotografierte",
+      "Perfekt": "hat fotografiert",
+      "englishMeaning": "to photograph, to take photos",
+      "englishUsage": "Used to describe the action of taking pictures with a camera or a smartphone.",
+      "russianMeaning": "фотографировать",
+      "russianUsage": "Используется для описания действия съемки фотографий с помощью камеры или смартфона.",
+      "farsiMeaning": "عکاسی کردن، عکس گرفتن",
+      "farsiUsage": "برای توصیف عمل عکس گرفتن با دوربین یا گوشی هوشمند استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "praktisch",
+      "english": "practical, handy",
+      "russian": "практичный, удобный",
+      "farsi": "عملی، کاربردی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Medien, die Medien",
+      "english": "the media (plural)",
+      "russian": "медиа, средства массовой информации (множественное число)",
+      "farsi": "رسانه‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Technik, die Techniken",
+      "english": "the technology, technologies",
+      "russian": "техника, технологии",
+      "farsi": "فناوری، فناوری‌ها"
+    },
+    {
+      "type": "verben",
+      "Infinitive": "streiken",
+      "Präsens": "er streikt",
+      "Präteritum": "er streikte",
+      "Perfekt": "hat gestreikt",
+      "englishMeaning": "to strike, to go on strike",
+      "englishUsage": "Used to describe when workers or devices stop functioning as a form of protest or malfunction.",
+      "russianMeaning": "бастовать",
+      "russianUsage": "Используется для описания остановки работы (людей или техники) в знак протеста или из-за неисправности.",
+      "farsiMeaning": "اعتصاب کردن، از کار افتادن",
+      "farsiUsage": "برای توصیف زمانی که کارگران یا دستگاه‌ها به عنوان اعتراض یا اختلال، کار نمی‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Wartungsarbeiten, die Wartungsarbeiten",
+      "english": "the maintenance work (plural)",
+      "russian": "технические работы (множественное число)",
+      "farsi": "کارهای نگهداری (جمع)"
+    },
+    {
+      "type": "verben",
+      "Infinitive": "abschalten",
+      "Präsens": "er schaltet ab",
+      "Präteritum": "er schaltete ab",
+      "Perfekt": "hat abgeschaltet",
+      "englishMeaning": "to switch off, to turn off",
+      "englishUsage": "Used to describe turning off a device or a machine, or to disconnect from something mentally or emotionally.",
+      "russianMeaning": "выключать, отключать",
+      "russianUsage": "Используется для описания выключения устройства или машины, а также для обозначения отключения от чего-либо умственно или эмоционально.",
+      "farsiMeaning": "خاموش کردن، قطع کردن",
+      "farsiUsage": "برای توصیف خاموش کردن یک دستگاه یا قطع کردن ذهنی یا احساسی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "mittlerweile",
+      "english": "meanwhile, in the meantime, by now",
+      "russian": "тем временем, между тем, к настоящему времени",
+      "farsi": "در این میان، در این فاصله، اکنون"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Festnetz, die Festnetze",
+      "english": "the landline, landlines",
+      "russian": "стационарная телефонная сеть, стационарные телефонные сети",
+      "farsi": "خط ثابت، خطوط ثابت"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Start, die Starts",
+      "english": "the start, starts",
+      "russian": "старт, старты",
+      "farsi": "شروع، شروع‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Suchmaschine, die Suchmaschinen",
+      "english": "the search engine, search engines",
+      "russian": "поисковая система, поисковые системы",
+      "farsi": "موتور جستجو، موتورهای جستجو"
+    },
+    {
+      "type": "verben",
+      "Infinitive": "vorgehen",
+      "Präsens": "er geht vor",
+      "Präteritum": "er ging vor",
+      "Perfekt": "ist vorgegangen",
+      "englishMeaning": "to proceed, to go about, to act",
+      "englishUsage": "Used to describe the way someone proceeds or acts in a situation, or to move forward.",
+      "russianMeaning": "действовать, поступать, продвигаться вперёд",
+      "russianUsage": "Используется для описания того, как кто-то действует или поступает в ситуации, или движется вперёд.",
+      "farsiMeaning": "پیش رفتن، عمل کردن",
+      "farsiUsage": "برای توصیف اینکه کسی چگونه پیش می‌رود یا در موقعیتی عمل می‌کند، یا به جلو حرکت می‌کند استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Suchbegriff, die Suchbegriffe",
+      "english": "the search term, search terms",
+      "russian": "поисковый запрос, поисковые запросы",
+      "farsi": "عبارت جستجو، عبارات جستجو"
+    },
+    {
+      "type": "verben",
+      "Infinitive": "eingeben",
+      "Präsens": "er gibt ein",
+      "Präteritum": "er gab ein",
+      "Perfekt": "hat eingegeben",
+      "englishMeaning": "to enter, to input (data)",
+      "englishUsage": "Used when putting information into a computer, device, or form.",
+      "russianMeaning": "вводить (данные)",
+      "russianUsage": "Используется при вводе информации в компьютер, устройство или форму.",
+      "farsiMeaning": "وارد کردن (داده‌ها)",
+      "farsiUsage": "برای وارد کردن اطلاعات به رایانه، دستگاه یا فرم استفاده می‌شود."
+    },
+    {
+      "type": "verben",
+      "Infinitive": "tippen",
+      "Präsens": "er tippt",
+      "Präteritum": "er tippte",
+      "Perfekt": "hat getippt",
+      "englishMeaning": "to type, to tap",
+      "englishUsage": "Used to describe pressing keys on a keyboard or screen to input text.",
+      "russianMeaning": "набирать (текст), печатать",
+      "russianUsage": "Используется для описания нажатия клавиш на клавиатуре или экране для ввода текста.",
+      "farsiMeaning": "تایپ کردن، ضربه زدن (روی صفحه‌کلید یا صفحه لمسی)",
+      "farsiUsage": "برای توصیف فشار دادن کلیدها برای وارد کردن متن استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Treffer, die Treffer",
+      "english": "the hit, hits (e.g. search results, successes)",
+      "russian": "результат, результаты (например, поиска), попадание, попадания",
+      "farsi": "نتیجه (جستجو)، نتایج، موفقیت، موفقیت‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Leertaste, die Leertasten",
+      "english": "the space bar, space bars",
+      "russian": "пробел (клавиша), пробелы",
+      "farsi": "کلید فاصله، کلیدهای فاصله"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "gezielt",
+      "english": "targeted, focused, purposeful",
+      "russian": "целенаправленный, прицельно",
+      "farsi": "هدفمند، با تمرکز"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "zunächst",
+      "english": "at first, initially",
+      "russian": "сначала, изначально",
+      "farsi": "در ابتدا، نخست"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Künstliche Intelligenz, die Künstlichen Intelligenzen",
+      "english": "the artificial intelligence, artificial intelligences",
+      "russian": "искусственный интеллект, искусственные интеллекты",
+      "farsi": "هوش مصنوعی، هوش‌های مصنوعی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "effektiv",
+      "english": "effective, efficiently",
+      "russian": "эффективный, эффективно",
+      "farsi": "موثر، به طور مؤثر"
+    },
+    {
+      "type": "verben",
+      "Infinitive": "optimieren",
+      "Präsens": "er optimiert",
+      "Präteritum": "er optimierte",
+      "Perfekt": "hat optimiert",
+      "englishMeaning": "to optimize",
+      "englishUsage": "Used to describe the act of making something as good or effective as possible.",
+      "russianMeaning": "оптимизировать",
+      "russianUsage": "Используется для описания действия по улучшению или максимизации эффективности чего-либо.",
+      "farsiMeaning": "بهینه کردن",
+      "farsiUsage": "برای توصیف عملی که چیزی را تا حد امکان خوب یا مؤثر می‌کند به کار می‌رود."
+    },
+    {
+      "type": "verben",
+      "Infinitive": "erkennen",
+      "Präsens": "er erkennt",
+      "Präteritum": "er erkannte",
+      "Perfekt": "hat erkannt",
+      "englishMeaning": "to recognize, to identify, to realize",
+      "englishUsage": "Used when someone notices or becomes aware of something, or identifies someone or something.",
+      "russianMeaning": "распознавать, узнавать, осознавать",
+      "russianUsage": "Используется, когда кто-то замечает, осознает или идентифицирует что-либо или кого-либо.",
+      "farsiMeaning": "تشخیص دادن، شناسایی کردن، پی بردن",
+      "farsiUsage": "برای زمانی که کسی متوجه چیزی شود یا کسی/چیزی را بشناسد یا درک کند به کار می‌رود."
+    },
+    {
+      "type": "verben",
+      "Infinitive": "voraussehen",
+      "Präsens": "er sieht voraus",
+      "Präteritum": "er sah voraus",
+      "Perfekt": "hat vorausgesehen",
+      "englishMeaning": "to foresee, to anticipate",
+      "englishUsage": "Used to describe predicting or being able to see something ahead of time.",
+      "russianMeaning": "предвидеть, предсказывать",
+      "russianUsage": "Используется для описания предсказания или предвидения чего-либо заранее.",
+      "farsiMeaning": "پیش‌بینی کردن، از پیش دیدن",
+      "farsiUsage": "برای توصیف پیش‌بینی کردن یا دیدن چیزی قبل از وقوع به کار می‌رود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Beschäftigte, die Beschäftigten",
+      "english": "the (male) employee, employees",
+      "russian": "работник, работники (мужской род)",
+      "farsi": "کارمند (مذکر)، کارمندان"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Beschäftigte, die Beschäftigten",
+      "english": "the (female) employee, employees",
+      "russian": "работница, работницы (женский род)",
+      "farsi": "کارمند (مونث)، کارمندان"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "skeptisch",
+      "english": "skeptical",
+      "russian": "скептический, скептически",
+      "farsi": "با تردید، شکاک"
+    },
+    {
+      "type": "verben",
+      "Infinitive": "einsetzen",
+      "Präsens": "er setzt ein",
+      "Präteritum": "er setzte ein",
+      "Perfekt": "hat eingesetzt",
+      "englishMeaning": "to use, to employ, to put in, to insert",
+      "englishUsage": "Used when placing something into operation or putting something/someone to use.",
+      "russianMeaning": "применять, использовать, вставлять",
+      "russianUsage": "Используется, когда что-то вводится в действие или используется.",
+      "farsiMeaning": "به کار بردن، استفاده کردن، قرار دادن",
+      "farsiUsage": "برای به کار گیری یا قرار دادن چیزی/کسی در عمل استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "konkurrenzfähig",
+      "english": "competitive",
+      "russian": "конкурентоспособный",
+      "farsi": "رقابتی، توان رقابت داشتن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Bewusstsein, die Bewusstseine",
+      "english": "the consciousness, consciousnesses; awareness",
+      "russian": "сознание, осознание",
+      "farsi": "آگاهی، هوشیاری"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "optimistisch",
+      "english": "optimistic",
+      "russian": "оптимистичный",
+      "farsi": "خوش‌بین"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "geschickt",
+      "english": "skilled, skillful, clever",
+      "russian": "ловкий, умелый, искусный",
+      "farsi": "ماهر، زیرک"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "meine Wörter, meine Wörter",
+      "english": "my words",
+      "russian": "мои слова",
+      "farsi": "کلمات من"
+    }
+  ]
+}

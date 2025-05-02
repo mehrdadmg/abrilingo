@@ -1,0 +1,2025 @@
+{
+  "info": {
+    "name": "B1_Fokus_u12",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was essen wir? Ich hatte keine Zeit, einzukaufen und der Kühlschrank ist ziemlich leer.",
+      "english": "What are we going to eat? I didn't have time to go shopping and the fridge is pretty empty.",
+      "russian": "Что мы будем есть? У меня не было времени сходить за покупками, и холодильник почти пустой.",
+      "farsi": "چی بخوریم؟ من وقت خرید نداشتم و یخچال تقریباً خالیه."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir könnten ja mal wieder etwas online bestellen.",
+      "english": "We could order something online again.",
+      "russian": "Мы могли бы снова заказать что-нибудь онлайн.",
+      "farsi": "میتونیم دوباره یه چیزی آنلاین سفارش بدیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Gute Idee. Worauf hättest du Lust? Chinesisch, Indisch oder Italienisch?",
+      "english": "Good idea. What do you feel like? Chinese, Indian or Italian?",
+      "russian": "Хорошая идея. Чего тебе хочется: китайской, индийской или итальянской кухни?",
+      "farsi": "ایده خوبیه. دلت چی می‌خواد؟ چینی، هندی یا ایتالیایی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir waren am Wochenende erst beim Inder. Ich habe Lust auf Pizza – und du?",
+      "english": "We just went to the Indian place on the weekend. I feel like pizza – and you?",
+      "russian": "Мы только в выходные были в индийском ресторане. Мне хочется пиццы – а тебе?",
+      "farsi": "آخر هفته رفتیم رستوران هندی. من دلم پیتزا می‌خواد – تو چی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, Pizza ist gut. Was für eine Pizza möchtest du?",
+      "english": "Yes, pizza sounds good. What kind of pizza would you like?",
+      "russian": "Да, пицца – это хорошо. Какую пиццу ты хочешь?",
+      "farsi": "آره، پیتزا خوبه. چه پیتزایی می‌خوای؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hmmm – ich nehme eine Pizza mit Thunfisch und Zwiebeln. Und du?",
+      "english": "Hmm – I'll take a pizza with tuna and onions. And you?",
+      "russian": "Хмм – я возьму пиццу с тунцом и луком. А ты?",
+      "farsi": "هوممم – من یه پیتزا با تن ماهی و پیاز می‌گیرم. تو چی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich glaube, ich bestelle eine Pizza mit vier Käsesorten.",
+      "english": "I think I'll order a pizza with four types of cheese.",
+      "russian": "Думаю, я закажу пиццу с четырьмя видами сыра.",
+      "farsi": "فکر کنم یه پیتزا با چهار نوع پنیر سفارش بدم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hast du schon bestellt?",
+      "english": "Have you already ordered?",
+      "russian": "Ты уже заказал?",
+      "farsi": "سفارش دادی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, die Pizzen sollten in circa 30 Minuten da sein.",
+      "english": "Yes, the pizzas should be here in about 30 minutes.",
+      "russian": "Да, пиццы должны прийти примерно через 30 минут.",
+      "farsi": "آره، پیتزاها باید حدوداً تا ۳۰ دقیقه دیگه برسن."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was macht das?",
+      "english": "How much is it?",
+      "russian": "Сколько это стоит?",
+      "farsi": "چقدر شد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Lieferant 18 Euro.",
+      "english": "Delivery person, 18 euros.",
+      "russian": "Доставщик – 18 евро.",
+      "farsi": "پیک، ۱۸ یورو."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir möchten das Wohn- und Schlafzimmer streichen lassen.",
+      "english": "We want to have the living room and bedroom painted.",
+      "russian": "Мы хотим покрасить гостиную и спальню.",
+      "farsi": "می‌خواهیم پذیرایی و اتاق خواب رو رنگ کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Wände und die Decken?",
+      "english": "The walls and the ceilings?",
+      "russian": "Стены и потолки?",
+      "farsi": "دیوارها و سقف‌ها؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, und die Türen müssen auch lackiert werden.",
+      "english": "Yes, and the doors also need to be painted.",
+      "russian": "Да, и двери тоже нужно покрасить.",
+      "farsi": "بله، و درها هم باید رنگ بشن."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In welcher Farbe?",
+      "english": "In which color?",
+      "russian": "В каком цвете?",
+      "farsi": "چه رنگی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich weiß nicht, das Schlafzimmer weiß und das Wohnzimmer vielleicht blau?",
+      "english": "I don't know, the bedroom white and the living room maybe blue?",
+      "russian": "Не знаю, спальню – белой, а гостиную, может быть, синей?",
+      "farsi": "نمی‌دونم، اتاق خواب سفید و پذیرایی شاید آبی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Blau im Wohnzimmer – das würde bestimmt sehr gut aussehen und auch gut zu Ihren Möbeln passen.",
+      "english": "Blue in the living room – that would certainly look very nice and also match your furniture well.",
+      "russian": "Синий в гостиной – это точно будет хорошо смотреться и подойдёт к вашей мебели.",
+      "farsi": "آبی توی پذیرایی – مطمئناً خیلی قشنگ میشه و به مبلهاتونم خوب میاد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was würde das kosten?",
+      "english": "How much would that cost?",
+      "russian": "Сколько это будет стоить?",
+      "farsi": "هزینه‌اش چقدره؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Um den Preis zu berechnen, muss ich erst die Wandfläche ausmessen.",
+      "english": "To calculate the price, I first need to measure the wall area.",
+      "russian": "Чтобы рассчитать цену, мне сначала нужно измерить площадь стен.",
+      "farsi": "برای محاسبه قیمت، اول باید مساحت دیوارها رو اندازه بگیرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Natürlich.",
+      "english": "Of course.",
+      "russian": "Конечно.",
+      "farsi": "حتماً."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bei einer Fläche von 80 Quadratmetern müssen Sie mit etwa 800 Euro rechnen.",
+      "english": "For an area of 80 square meters, you have to expect about 800 euros.",
+      "russian": "При площади 80 квадратных метров нужно рассчитывать примерно на 800 евро.",
+      "farsi": "برای مساحت ۸۰ متر مربع، باید حدود ۸۰۰ یورو در نظر بگیرید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber ich schicke Ihnen noch mein Angebot.",
+      "english": "But I will still send you my offer.",
+      "russian": "Но я всё равно отправлю вам своё предложение.",
+      "farsi": "اما من پیشنهادم رو براتون می‌فرستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vielen Dank.",
+      "english": "Thank you very much.",
+      "russian": "Большое спасибо.",
+      "farsi": "خیلی ممنون."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Lavamet GmbH, Michael Oliveira, guten Tag.",
+      "english": "Lavamet GmbH, Michael Oliveira, good day.",
+      "russian": "Lavamet GmbH, Михаэль Оливейра, добрый день.",
+      "farsi": "شرکت Lavamet، مایکل اولیویرا، روز بخیر."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Guten Tag, ich bin Rebecca Jeschke von der Großwäscherei Braun in Ludwigsburg.",
+      "english": "Good day, I am Rebecca Jeschke from the large laundry Braun in Ludwigsburg.",
+      "russian": "Добрый день, я Ребекка Ешке из прачечной Braun в Людвигсбурге.",
+      "farsi": "روز بخیر، من ربکا یشکه از رختشوی‌خانه بزرگ براون در لودویگسبورگ هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir sind bereits Kunden bei Ihnen und haben bei Ihnen auch schon Waschmaschinen und Trockner gekauft.",
+      "english": "We are already customers of yours and have already bought washing machines and dryers from you.",
+      "russian": "Мы уже являемся вашими клиентами и уже покупали у вас стиральные машины и сушилки.",
+      "farsi": "ما قبلاً مشتری شما هستیم و از شما ماشین لباسشویی و خشک‌کن خریدیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir wollen jetzt in Stuttgart und Böblingen neue Filialen eröffnen und brauchen dafür neue Geräte, also neue Waschmaschinen und Trockner.",
+      "english": "We now want to open new branches in Stuttgart and Böblingen and need new equipment for that, i.e., new washing machines and dryers.",
+      "russian": "Мы хотим открыть новые филиалы в Штутгарте и Бёблингене и нам для этого нужны новые устройства — стиральные машины и сушилки.",
+      "farsi": "ما الان می‌خواهیم در اشتوتگارت و ببلیگن شعبه‌های جدید باز کنیم و برای این کار به دستگاه‌های جدید نیاز داریم، یعنی ماشین‌های لباسشویی و خشک‌کن."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie uns bitte ein Angebot schicken?",
+      "english": "Could you please send us an offer?",
+      "russian": "Не могли бы вы прислать нам предложение?",
+      "farsi": "ممکنه لطفاً یه پیشنهاد برامون بفرستید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, sehr gerne. Wie viele Waschmaschinen und Trockner möchten Sie denn kaufen?",
+      "english": "Yes, with pleasure. How many washing machines and dryers would you like to buy?",
+      "russian": "Да, с удовольствием. Сколько стиральных машин и сушилок вы хотите купить?",
+      "farsi": "بله، با کمال میل. چند تا ماشین لباسشویی و خشک‌کن می‌خواهید بخرید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Für beide Standorte so jeweils 50.",
+      "english": "For both locations, 50 each.",
+      "russian": "По 50 для каждого из двух филиалов.",
+      "farsi": "برای هر دو شعبه، ۵۰ تا."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn Sie so viel abnehmen, kann ich Ihnen sicher ein günstiges Angebot machen.",
+      "english": "If you buy such a large quantity, I can certainly make you a good offer.",
+      "russian": "Если вы закажете так много, я смогу сделать вам выгодное предложение.",
+      "farsi": "اگر این مقدار زیاد خرید کنید، قطعاً می‌تونم یه پیشنهاد مناسب بهتون بدم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sagen Sie mir bitte noch einmal Ihren Namen und den Namen Ihrer Firma.",
+      "english": "Please tell me your name and the name of your company again.",
+      "russian": "Скажите, пожалуйста, ещё раз ваше имя и название вашей фирмы.",
+      "farsi": "لطفاً دوباره اسم خودتون و اسم شرکت‌تون رو بگید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Rebecca Jeschke von der Großwäscherei Braun. Wie war doch gleich Ihr Name?",
+      "english": "Rebecca Jeschke from the large laundry Braun. What was your name again?",
+      "russian": "Ребекка Ешке из прачечной Braun. Как вас звали?",
+      "farsi": "ربکا یشکه از رختشوی‌خانه براون. اسم شما چی بود دوباره؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Michael Oliveira. Ich habe alles notiert, Frau Jeschke.",
+      "english": "Michael Oliveira. I have noted everything down, Ms. Jeschke.",
+      "russian": "Михаэль Оливейра. Я всё записал, госпожа Ешке.",
+      "farsi": "مایکل اولیویرا. همه‌چیز رو یادداشت کردم، خانم یشکه."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können Sie mir noch eine Telefonnummer geben, damit ich Sie anrufen kann, falls etwas dazwischenkommt?",
+      "english": "Could you give me a phone number so I can call you if something comes up?",
+      "russian": "Можете дать мне ещё номер телефона, чтобы я мог вам позвонить, если что-то случится?",
+      "farsi": "ممکنه یه شماره تلفن هم بدید که اگه مشکلی پیش اومد بتونم تماس بگیرم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin telefonisch unter 07141/345698 erreichbar oder per Handy unter 0162/2082784.",
+      "english": "I can be reached by phone at 07141/345698 or by mobile at 0162/2082784.",
+      "russian": "Со мной можно связаться по телефону 07141/345698 или по мобильному 0162/2082784.",
+      "farsi": "از طریق تلفن ۰۷۱۴۱/۳۴۵۶۹۸ یا موبایل ۰۱۶۲/۲۰۸۲۷۸۴ در دسترسم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich schicke Ihnen dann bis zum Ende der Woche unser Angebot, Frau Jeschke. Auf Wiederhören.",
+      "english": "I will send you our offer by the end of the week, Ms. Jeschke. Goodbye.",
+      "russian": "Я пришлю вам наше предложение до конца недели, госпожа Ешке. До свидания.",
+      "farsi": "تا آخر هفته پیشنهادمون رو براتون می‌فرستم، خانم یشکه. خداحافظ."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vielen Dank. Auf Wiederhören, Herr Oliveira.",
+      "english": "Thank you very much. Goodbye, Mr. Oliveira.",
+      "russian": "Большое спасибо. До свидания, господин Оливейра.",
+      "farsi": "خیلی ممنون. خداحافظ، آقای اولیویرا."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Script Papiergroßhandel, Berkay Adeniz am Apparat.",
+      "english": "Script paper wholesale, Berkay Adeniz speaking.",
+      "russian": "Оптовая торговля бумагой Script, Беркай Адениз у телефона.",
+      "farsi": "فروش عمده کاغذ Script، برکای آدنیز پشت خط هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Guten Tag, Herr Adeniz, Barbara Gollwitz vom Druckhaus Greibl in Wiesbaden.",
+      "english": "Good day, Mr. Adeniz, Barbara Gollwitz from the Greibl printing house in Wiesbaden.",
+      "russian": "Добрый день, господин Адениз, Барбара Голльвиц из типографии Грайбль в Висбадене.",
+      "farsi": "روز بخیر، آقای آدنیز، باربارا گولوویتس از چاپخانه گربل در ویسبادن."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hallo, Frau Gollwitz, wie geht es Ihnen?",
+      "english": "Hello, Ms. Gollwitz, how are you?",
+      "russian": "Здравствуйте, госпожа Голльвиц, как у вас дела?",
+      "farsi": "سلام خانم گولوویتس، حال‌تون چطوره؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sehr gut, danke und Ihnen?",
+      "english": "Very well, thank you, and you?",
+      "russian": "Очень хорошо, спасибо, а у вас?",
+      "farsi": "خیلی خوب، ممنون. شما چطورید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Auch gut. Was kann ich für Sie tun?",
+      "english": "Also good. What can I do for you?",
+      "russian": "Тоже хорошо. Чем могу вам помочь?",
+      "farsi": "منم خوبم. چه کمکی می‌تونم بکنم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir brauchen 30.000 Blatt Briefpapier im Format A4.",
+      "english": "We need 30,000 sheets of letter paper in A4 format.",
+      "russian": "Нам нужно 30 000 листов офисной бумаги формата A4.",
+      "farsi": "ما به ۳۰٬۰۰۰ برگ کاغذ نامه در سایز A4 نیاز داریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie immer 90 Gramm weiß?",
+      "english": "As always, 90 grams white?",
+      "russian": "Как всегда, 90 грамм, белая?",
+      "farsi": "مثل همیشه ۹۰ گرمی سفید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja. Und zum Druck von Postern brauchen wir auch noch 5000 Blatt im Format A0.",
+      "english": "Yes. And for printing posters, we also need 5,000 sheets in A0 format.",
+      "russian": "Да. А для печати постеров нам ещё нужно 5000 листов формата A0.",
+      "farsi": "بله. و برای چاپ پوستر هم به ۵۰۰۰ برگ در سایز A0 نیاز داریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In welcher Stärke brauchen Sie das Posterpapier?",
+      "english": "What weight do you need the poster paper in?",
+      "russian": "Какой плотности вам нужна бумага для постеров?",
+      "farsi": "کاغذ پوستر رو با چه گرماژی نیاز دارید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "170 Gramm.",
+      "english": "170 grams.",
+      "russian": "170 грамм.",
+      "farsi": "۱۷۰ گرمی."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kein Problem. Die Papiere sind lieferbar.",
+      "english": "No problem. The papers are available.",
+      "russian": "Без проблем. Бумага в наличии.",
+      "farsi": "مشکلی نیست. کاغذها موجوده."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sehr gut. Könnten Sie uns bitte ein Angebot schicken?",
+      "english": "Very good. Could you please send us an offer?",
+      "russian": "Отлично. Не могли бы вы прислать нам предложение?",
+      "farsi": "خیلی خوب. میشه لطفاً یه پیش‌فاکتور برامون بفرستید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Natürlich. Sie bekommen noch heute ein Angebot per E-Mail.",
+      "english": "Of course. You will receive an offer by email today.",
+      "russian": "Конечно. Вы получите предложение по электронной почте уже сегодня.",
+      "farsi": "حتماً. امروز یک پیش‌فاکتور از طریق ایمیل دریافت می‌کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vielen Dank.",
+      "english": "Thank you very much.",
+      "russian": "Большое спасибо.",
+      "farsi": "خیلی ممنون."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Guten Tag, liebe Hörerinnen und Hörer. Onlineshopping boomt.",
+      "english": "Good day, dear listeners. Online shopping is booming.",
+      "russian": "Добрый день, уважаемые слушатели. Онлайн-шопинг процветает.",
+      "farsi": "روز بخیر، شنوندگان عزیز. خرید آنلاین رونق گرفته."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es gibt kaum jemanden in Deutschland, der nicht regelmäßig online einkauft.",
+      "english": "There is hardly anyone in Germany who doesn't shop online regularly.",
+      "russian": "В Германии почти не осталось людей, которые не делают регулярные онлайн-покупки.",
+      "farsi": "در آلمان تقریباً کسی نیست که به طور منظم آنلاین خرید نکند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im Jahr 2023 wurden in Deutschland Waren im Wert von mehr als 90 Milliarden Euro online verkauft.",
+      "english": "In 2023, goods worth more than 90 billion euros were sold online in Germany.",
+      "russian": "В 2023 году в Германии онлайн было продано товаров на сумму более 90 миллиардов евро.",
+      "farsi": "در سال ۲۰۲۳، کالاهایی به ارزش بیش از ۹۰ میلیارد یورو در آلمان به صورت آنلاین فروخته شدند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich spreche heute mit dem Experten für E-Commerce, Martin Schuster.",
+      "english": "Today I'm speaking with the e-commerce expert, Martin Schuster.",
+      "russian": "Сегодня я беседую с экспертом по электронной коммерции Мартином Шустером.",
+      "farsi": "امروز با کارشناس تجارت الکترونیک، مارتین شوستر، صحبت می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Herr Schuster, warum kaufen immer mehr Menschen online ein?",
+      "english": "Mr. Schuster, why are more and more people shopping online?",
+      "russian": "Господин Шустер, почему всё больше людей совершают покупки онлайн?",
+      "farsi": "آقای شوستر، چرا افراد بیشتری به صورت آنلاین خرید می‌کنند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es gibt viele Vorteile des Onlineeinkaufs.",
+      "english": "There are many advantages to online shopping.",
+      "russian": "У онлайн-шопинга много преимуществ.",
+      "farsi": "خرید آنلاین مزایای زیادی دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Onlineshopping ist bequem, schnell und einfach.",
+      "english": "Online shopping is convenient, fast, and easy.",
+      "russian": "Онлайн-покупки — это удобно, быстро и просто.",
+      "farsi": "خرید اینترنتی راحت، سریع و آسان است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man hat oft eine größere Auswahl an Produkten als in einem Geschäft.",
+      "english": "You often have a wider selection of products than in a store.",
+      "russian": "Часто ассортимент товаров в интернете шире, чем в магазине.",
+      "farsi": "معمولاً تنوع محصولات در خرید آنلاین بیشتر از فروشگاه‌هاست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Online kann man auch Preise besser vergleichen.",
+      "english": "Online you can also compare prices better.",
+      "russian": "В интернете также легче сравнивать цены.",
+      "farsi": "به صورت آنلاین می‌توان قیمت‌ها را بهتر مقایسه کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man kann zwar die Produkte nicht anfassen, aber man kann meistens Bewertungen von Kundinnen und Kunden lesen.",
+      "english": "You can't touch the products, but you can usually read reviews from customers.",
+      "russian": "Хотя товары нельзя потрогать, обычно можно прочитать отзывы покупателей.",
+      "farsi": "اگرچه نمی‌توان محصولات را لمس کرد، اما معمولاً می‌توان نظرات مشتریان را خواند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im Internet kann man zu jeder Tages- und Nachtzeit einkaufen.",
+      "english": "You can shop online at any time of day or night.",
+      "russian": "В интернете можно делать покупки в любое время дня и ночи.",
+      "farsi": "در اینترنت می‌توان در هر ساعتی از شبانه‌روز خرید کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und man muss das Haus nicht verlassen.",
+      "english": "And you don't have to leave the house.",
+      "russian": "И не нужно выходить из дома.",
+      "farsi": "و نیازی نیست از خانه خارج شوید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Deshalb bestellen mehr als zwei Drittel der Deutschen wöchentlich mindestens einmal etwas online.",
+      "english": "That's why more than two-thirds of Germans order something online at least once a week.",
+      "russian": "Поэтому более двух третей немцев заказывают что-то онлайн как минимум раз в неделю.",
+      "farsi": "به همین دلیل بیش از دو سوم آلمانی‌ها حداقل هفته‌ای یک‌بار چیزی را به صورت آنلاین سفارش می‌دهند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Für fast alle Unternehmen, egal ob groß oder klein, ist der Handel von Produkten oder Dienstleistungen über das Internet heute also eine Notwendigkeit.",
+      "english": "For almost all companies, whether big or small, selling products or services online is now a necessity.",
+      "russian": "Для почти всех компаний, больших или малых, продажа товаров или услуг через интернет сейчас является необходимостью.",
+      "farsi": "بنابراین برای تقریباً تمام شرکت‌ها، چه بزرگ و چه کوچک، فروش محصولات یا خدمات از طریق اینترنت امروزه یک ضرورت است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was kaufen denn die Deutschen online am liebsten ein?",
+      "english": "What do Germans like to buy online the most?",
+      "russian": "Что же немцы охотнее всего покупают онлайн?",
+      "farsi": "آلمانی‌ها بیشتر از همه چه چیزهایی را به صورت آنلاین خریداری می‌کنند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Zu den beliebtesten Produkten gehören Bekleidung und Schuhe, Elektroartikel und Telekommunikation sowie Bücher.",
+      "english": "Among the most popular products are clothing and shoes, electronics and telecommunications, as well as books.",
+      "russian": "К самым популярным товарам относятся одежда и обувь, электроника и телекоммуникации, а также книги.",
+      "farsi": "از جمله محبوب‌ترین محصولات می‌توان به پوشاک و کفش، وسایل الکترونیکی و ارتباطی، و همچنین کتاب‌ها اشاره کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber auch Medikamente, Pflege- und Drogerieartikel sowie Lebensmittel werden immer häufiger online bestellt.",
+      "english": "But medicines, personal care products, and groceries are also being ordered online more and more often.",
+      "russian": "Но также всё чаще заказывают онлайн лекарства, средства гигиены и продукты питания.",
+      "farsi": "اما داروها، محصولات بهداشتی و آرایشی، و مواد غذایی نیز هر روز بیشتر به صورت آنلاین سفارش داده می‌شوند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was erwarten Kunden, wenn sie etwas online bestellen?",
+      "english": "What do customers expect when they order something online?",
+      "russian": "Что ожидают клиенты, когда заказывают что-то онлайн?",
+      "farsi": "مشتریان هنگام سفارش آنلاین چه انتظاراتی دارند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Käuferinnen und Käufer erwarten, dass die bestellten Produkte von guter Qualität sind.",
+      "english": "Buyers expect that the ordered products are of good quality.",
+      "russian": "Покупатели ожидают, что заказанные товары будут хорошего качества.",
+      "farsi": "خریداران انتظار دارند که محصولات سفارش‌داده‌شده با کیفیت خوب باشند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dann ist Ihnen sehr wichtig, dass der Bestellvorgang einfach ist und dass ihre Bestellung schnell geliefert wird.",
+      "english": "It is also very important to them that the ordering process is simple and that their order is delivered quickly.",
+      "russian": "Им также очень важно, чтобы процесс заказа был простым и чтобы заказ доставлялся быстро.",
+      "farsi": "برای آن‌ها بسیار مهم است که روند سفارش آسان باشد و سفارش‌شان سریع تحویل داده شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie möchten nicht lange warten.",
+      "english": "They don't want to wait long.",
+      "russian": "Они не хотят долго ждать.",
+      "farsi": "آن‌ها نمی‌خواهند زیاد منتظر بمانند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und natürlich sollten die gelieferten Produkte keine Fehler oder Mängel haben.",
+      "english": "And of course, the delivered products should have no defects or faults.",
+      "russian": "И, конечно, доставленные товары не должны иметь дефектов или недостатков.",
+      "farsi": "و البته محصولات تحویل‌داده‌شده نباید هیچ‌گونه نقص یا ایرادی داشته باشند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Falls es aber Probleme gibt, möchten sie Hilfe vom Kundenservice.",
+      "english": "But if there are problems, they want help from customer service.",
+      "russian": "Если возникают проблемы, они хотят получить помощь от службы поддержки.",
+      "farsi": "اما اگر مشکلی پیش بیاید، آن‌ها خواهان کمک از خدمات مشتری هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ein guter Kundenservice schafft eine hohe Kundenzufriedenheit.",
+      "english": "Good customer service creates high customer satisfaction.",
+      "russian": "Хорошее обслуживание клиентов обеспечивает высокую удовлетворённость клиентов.",
+      "farsi": "خدمات مشتری خوب باعث رضایت بالای مشتریان می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und schließlich ist den Kundinnen und Kunden wichtig, dass ihre persönlichen und finanziellen Daten sicher behandelt werden.",
+      "english": "And finally, customers care that their personal and financial data is handled securely.",
+      "russian": "И, наконец, для клиентов важно, чтобы их личные и финансовые данные обрабатывались безопасно.",
+      "farsi": "و در نهایت برای مشتریان مهم است که داده‌های شخصی و مالی‌شان به‌صورت ایمن نگهداری شوند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie vertrauen darauf, dass sie nicht missbraucht werden.",
+      "english": "They trust that their data will not be misused.",
+      "russian": "Они доверяют, что их данные не будут использованы неправомерно.",
+      "farsi": "آن‌ها اطمینان دارند که داده‌هایشان سوءاستفاده نمی‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Onlineshopping wird in den kommenden Jahren also eine noch wichtigere Rolle spielen?",
+      "english": "So will online shopping play an even more important role in the coming years?",
+      "russian": "Значит, онлайн-шопинг будет играть ещё более важную роль в ближайшие годы?",
+      "farsi": "پس آیا خرید آنلاین در سال‌های آینده نقش مهم‌تری ایفا خواهد کرد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Auf jeden Fall. Deshalb bieten immer mehr Einzelhändler ihre Produkte auch im Netz an.",
+      "english": "Absolutely. That's why more and more retailers are offering their products online.",
+      "russian": "Однозначно. Поэтому всё больше розничных продавцов предлагают свои товары в интернете.",
+      "farsi": "قطعاً. به همین دلیل فروشندگان بیشتری محصولات خود را در اینترنت عرضه می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wichtig ist natürlich, dass die Internetseiten gut gemacht sind.",
+      "english": "It is of course important that the websites are well made.",
+      "russian": "Важно, конечно, чтобы интернет-сайты были хорошо сделаны.",
+      "farsi": "مهم است که صفحات اینترنتی به‌خوبی طراحی شده باشند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das wird heute erwartet.",
+      "english": "That is expected nowadays.",
+      "russian": "Сегодня это считается само собой разумеющимся.",
+      "farsi": "امروزه این موضوع مورد انتظار است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vielen Dank für das Gespräch. Und jetzt die Nachrichten …",
+      "english": "Thank you very much for the interview. And now the news …",
+      "russian": "Большое спасибо за беседу. А теперь новости…",
+      "farsi": "بسیار ممنون بابت گفت‌وگو. و حالا اخبار …"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hi, Paul. Ist noch Kaffee da?",
+      "english": "Hi, Paul. Is there still some coffee left?",
+      "russian": "Привет, Пауль. Кофе ещё есть?",
+      "farsi": "سلام، پاول. هنوز قهوه هست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hi, Nara. Ja, ich habe gerade erst eine Kanne gemacht.",
+      "english": "Hi, Nara. Yes, I just made a pot.",
+      "russian": "Привет, Нара. Да, я только что заварил кофейник.",
+      "farsi": "سلام، نارا. بله، همین الان یک قوری درست کرده‌ام."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Super. Der Tag hat schon wieder stressig angefangen.",
+      "english": "Great. The day has started stressfully again.",
+      "russian": "Отлично. День снова начался с напряжения.",
+      "farsi": "عالیه. روز دوباره با استرس شروع شده."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ein Kunde will, dass wir sein Buch bis zum Ende der Woche drucken.",
+      "english": "A customer wants us to print his book by the end of the week.",
+      "russian": "Один клиент хочет, чтобы мы напечатали его книгу к концу недели.",
+      "farsi": "یک مشتری می‌خواهد که کتابش را تا پایان هفته چاپ کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich weiß nicht, wie wir das schaffen sollen.",
+      "english": "I don't know how we're supposed to manage that.",
+      "russian": "Я не знаю, как мы это успеем.",
+      "farsi": "نمی‌دانم چطور باید از پسش بربیایم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie viele Exemplare sollen denn gedruckt werden?",
+      "english": "How many copies are supposed to be printed?",
+      "russian": "Сколько экземпляров нужно напечатать?",
+      "farsi": "قراره چند نسخه چاپ بشه؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er will 300 Exemplare haben.",
+      "english": "He wants to have 300 copies.",
+      "russian": "Он хочет 300 экземпляров.",
+      "farsi": "او ۳۰۰ نسخه می‌خواهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und sein Buch ist über 200 Seiten lang.",
+      "english": "And his book is over 200 pages long.",
+      "russian": "А его книга содержит более 200 страниц.",
+      "farsi": "و کتابش بیش از ۲۰۰ صفحه دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Na ja, das heißt schon wieder Überstunden für mich.",
+      "english": "Well, that means overtime for me again.",
+      "russian": "Ну что ж, это снова значит переработки для меня.",
+      "farsi": "خب، این یعنی دوباره کار اضافه برای من."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich kann dir gern helfen.",
+      "english": "I'm happy to help you.",
+      "russian": "Я с удовольствием тебе помогу.",
+      "farsi": "با کمال میل کمکت می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Danke. Das ist sehr nett von dir, aber ich schaffe das.",
+      "english": "Thanks. That’s very kind of you, but I can manage it.",
+      "russian": "Спасибо. Это очень мило с твоей стороны, но я справлюсь.",
+      "farsi": "ممنون. خیلی لطف داری، اما خودم از پسش برمی‌آیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und du hast ja selbst genug zu tun.",
+      "english": "And you have enough to do yourself.",
+      "russian": "И у тебя ведь и так достаточно дел.",
+      "farsi": "تو خودت هم کلی کار داری."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Du, ich war heute Morgen im Lager und habe festgestellt, dass wir dringend Papier bestellen müssen.",
+      "english": "Hey, I was in the warehouse this morning and realized that we urgently need to order paper.",
+      "russian": "Слушай, я сегодня утром был на складе и заметил, что нам срочно нужно заказать бумагу.",
+      "farsi": "ببین، من صبح رفتم انبار و متوجه شدم که باید فوری کاغذ سفارش بدیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir brauchen Fotopapier und Kopierpapier.",
+      "english": "We need photo paper and copy paper.",
+      "russian": "Нам нужна фотобумага и бумага для копиров.",
+      "farsi": "ما به کاغذ عکس و کاغذ کپی نیاز داریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Danke für den Hinweis.",
+      "english": "Thanks for the tip.",
+      "russian": "Спасибо за напоминание.",
+      "farsi": "ممنون بابت یادآوری."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich hole gleich Angebote ein und bestelle dann.",
+      "english": "I'll get quotes right away and then place the order.",
+      "russian": "Я сейчас же запрошу предложения и потом сделаю заказ.",
+      "farsi": "الان فوراً قیمت می‌گیرم و بعد سفارش می‌دم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sehr geehrte Frau Kumar, vielen Dank für Ihre telefonische Anfrage.",
+      "english": "Dear Ms. Kumar, thank you very much for your telephone inquiry.",
+      "russian": "Уважаемая госпожа Кумар, благодарим за ваш телефонный запрос.",
+      "farsi": "سرکار خانم کومار، بابت تماس تلفنی‌تان بسیار سپاسگزاریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich kann Ihnen dazu gern folgendes Angebot machen:",
+      "english": "I can gladly make the following offer for you:",
+      "russian": "Я с радостью сделаю вам следующее предложение:",
+      "farsi": "من می‌توانم این پیشنهاد را برای شما آماده کنم:"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bitte beachten Sie, dass das Fotopapier erst ab nächster Woche wieder lieferbar ist.",
+      "english": "Please note that the photo paper will only be available again from next week.",
+      "russian": "Пожалуйста, обратите внимание, что фотобумага будет доступна только с следующей недели.",
+      "farsi": "لطفاً توجه داشته باشید که کاغذ عکس از هفته آینده دوباره در دسترس خواهد بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Alle unsere Preise sind Nettopreise und verstehen sich zuzüglich 19% Mehrwertsteuer.",
+      "english": "All our prices are net prices and are plus 19% VAT.",
+      "russian": "Все наши цены - это цены без НДС, к ним добавляется 19% НДС.",
+      "farsi": "تمام قیمت‌های ما قیمت‌های خالص هستند و به علاوه ۱۹٪ مالیات بر ارزش افزوده می‌باشند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Lieferung erfolgt frei Haus.",
+      "english": "The delivery is free of charge.",
+      "russian": "Доставка осуществляется бесплатно.",
+      "farsi": "تحویل رایگان است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mit freundlichen Grüßen",
+      "english": "Kind regards",
+      "russian": "С уважением",
+      "farsi": "با احترام"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Herzlichen Dank für die schnelle Antwort und Ihr Angebot.",
+      "english": "Thank you very much for the quick response and your offer.",
+      "russian": "Большое спасибо за быстрый ответ и ваше предложение.",
+      "farsi": "بسیار از پاسخ سریع و پیشنهاد شما سپاسگزارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie bestellen hiermit zu den genannten Konditionen:",
+      "english": "We hereby order under the mentioned conditions:",
+      "russian": "Мы подтверждаем заказ на указанных условиях:",
+      "farsi": "ما بدین وسیله سفارش خود را تحت شرایط ذکر شده ثبت می‌کنیم:"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir benötigen die Ware spätestens 10 Tage nach Auftragserteilung.",
+      "english": "We need the goods no later than 10 days after the order is placed.",
+      "russian": "Нам нужны товары не позднее чем через 10 дней после размещения заказа.",
+      "farsi": "ما کالا را حداکثر تا ۱۰ روز پس از ثبت سفارش نیاز داریم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie viel kosten 100 Blatt Fotopapier und 500 Blatt Kopierpapier?",
+      "english": "How much do 100 sheets of photo paper and 500 sheets of copy paper cost?",
+      "russian": "Сколько стоят 100 листов фотобумаги и 500 листов копировальной бумаги?",
+      "farsi": "هزینه ۱۰۰ ورق کاغذ عکس و ۵۰۰ ورق کاغذ کپی چقدر است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ab wann kann der Großhandel das Fotopapier liefern?",
+      "english": "When can the wholesaler deliver the photo paper?",
+      "russian": "Когда оптовик может доставить фотобумагу?",
+      "farsi": "چه زمانی عمده‌فروشی می‌تواند کاغذ عکس را تحویل دهد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Muss das Kopier-Center für die Lieferung bezahlen?",
+      "english": "Does the copy center have to pay for the delivery?",
+      "russian": "Должен ли копировальный центр платить за доставку?",
+      "farsi": "آیا مرکز کپی باید هزینه تحویل را پرداخت کند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie viel Fotopapier und wie viel Kopierpapier liefert der Papiergroßhandel?",
+      "english": "How much photo paper and how much copy paper does the paper wholesaler deliver?",
+      "russian": "Сколько фотобумаги и сколько копировальной бумаги поставляет оптовик бумаги?",
+      "farsi": "چقدر کاغذ عکس و چقدر کاغذ کپی عمده‌فروشی تحویل می‌دهد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie hoch ist der Nettobetrag in der Rechnung?",
+      "english": "What is the net amount on the invoice?",
+      "russian": "Какова сумма без НДС в счете?",
+      "farsi": "مبلغ خالص در فاکتور چقدر است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie viel Mehrwertsteuer muss für das gelieferte Papier bezahlt werden?",
+      "english": "How much VAT needs to be paid for the delivered paper?",
+      "russian": "Сколько НДС нужно заплатить за поставленную бумагу?",
+      "farsi": "چقدر مالیات بر ارزش افزوده باید برای کاغذ تحویلی پرداخت شود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wann soll das Kopier-Center die Ware bezahlen?",
+      "english": "When should the copy center pay for the goods?",
+      "russian": "Когда копировальный центр должен оплатить товар?",
+      "farsi": "مرکز کپی باید چه زمانی هزینه کالا را پرداخت کند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Auf welches Konto soll das Kopier-Center den Rechnungsbetrag überweisen?",
+      "english": "To which account should the copy center transfer the invoice amount?",
+      "russian": "На какой счет копировальный центр должен перевести сумму счета?",
+      "farsi": "مرکز کپی باید مبلغ فاکتور را به کدام حساب واریز کند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bei der Prüfung Ihrer Lieferung heute mussten wir leider feststellen, dass diese nicht unserer Bestellung vom 15.07.2024 entspricht.",
+      "english": "Upon checking your delivery today, we unfortunately found that it does not match our order from 15.07.2024.",
+      "russian": "При проверке вашей поставки сегодня мы, к сожалению, обнаружили, что она не соответствует нашему заказу от 15.07.2024.",
+      "farsi": "هنگام بررسی تحویل امروز شما متاسفانه متوجه شدیم که این مطابق با سفارش ما از تاریخ ۱۵.۰۷.۲۰۲۴ نیست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie haben uns zehn Holzbetten der Marke Padua mit einer Liegefläche von 160x200cm und zehn Kommoden der Marke Nueva geliefert.",
+      "english": "You delivered ten wooden beds from the Padua brand with a sleeping area of 160x200 cm and ten dressers from the Nueva brand.",
+      "russian": "Вы поставили нам десять деревянных кроватей марки Padua с размером спального места 160x200 см и десять комодов марки Nueva.",
+      "farsi": "شما ده تخت چوبی از برند Padua با اندازه 160x200 سانتیمتر و ده کمد از برند Nueva تحویل داده‌اید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir hatten aber 15 Holzbetten der Marke Padua und 30 Nachttische der Marke Optima in der Größe 38x46x49cm bestellt.",
+      "english": "However, we had ordered 15 wooden beds from the Padua brand and 30 nightstands from the Optima brand in the size of 38x46x49 cm.",
+      "russian": "Однако мы заказали 15 деревянных кроватей марки Padua и 30 тумбочек марки Optima размером 38x46x49 см.",
+      "farsi": "اما ما ۱۵ تخت چوبی از برند Padua و ۳۰ میز کنار تخت از برند Optima به اندازه ۳۸x۴۶x۴۹ سانتیمتر سفارش داده بودیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir möchten Sie bitten, die fünf fehlenden Holzbetten der Marke Padua sowie die 30 Nachttische der Marke Optima so schnell wie möglich nachzuliefern.",
+      "english": "We would like to ask you to deliver the five missing wooden beds from the Padua brand as well as the 30 nightstands from the Optima brand as soon as possible.",
+      "russian": "Мы просим вас как можно скорее доставить пять недостающих деревянных кроватей марки Padua, а также 30 тумбочек марки Optima.",
+      "farsi": "ما از شما خواهش می‌کنیم که پنج تخت چوبی مفقود شده از برند Padua و ۳۰ میز کنار تخت از برند Optima را در اسرع وقت تحویل دهید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die falsch gelieferten Kommoden senden wir Ihnen auf Ihre Kosten zurück.",
+      "english": "We will return the incorrectly delivered dressers at your expense.",
+      "russian": "Неправильно доставленные комоды мы вернем за ваш счет.",
+      "farsi": "ما کمدهای اشتباهی تحویل داده شده را به هزینه شما برمی‌گردانیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Warum schreibt Frau Ghanbari?",
+      "english": "Why is Mrs. Ghanbari writing?",
+      "russian": "Почему госпожа Ганбари пишет?",
+      "farsi": "چرا خانم غنبری نامه می‌نویسد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was erwartet sie von Herrn Greibl?",
+      "english": "What does she expect from Mr. Greibl?",
+      "russian": "Что она ожидает от господина Грайбла?",
+      "farsi": "چه چیزی خانم غنبری از آقای گریبل انتظار دارد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was macht sie mit den Kommoden der Marke Optima?",
+      "english": "What is she doing with the Optima brand dressers?",
+      "russian": "Что она делает с комодами марки Optima?",
+      "farsi": "او با کمدهای برند Optima چه کار می‌کند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wofür ist Frau Ghanbari zuständig?",
+      "english": "What is Mrs. Ghanbari responsible for?",
+      "russian": "За что отвечает госпожа Ганбари?",
+      "farsi": "خانم غنبری مسئول چه چیزی است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Enderle Wärmeservice, Sie sprechen mit Berta Morales.",
+      "english": "Enderle Heating Service, you are speaking with Berta Morales.",
+      "russian": "Сервис отопления Эндерле, вы говорите с Бертой Моралес.",
+      "farsi": "سرویس گرمایش اندرله، شما با برتا موراالز صحبت می‌کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hier ist noch einmal Amanda Paulsen.",
+      "english": "Here is Amanda Paulsen again.",
+      "russian": "С вами снова Аманда Паулсен.",
+      "farsi": "اینجا دوباره آماندا پالسن است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vor vier Tagen waren zwei Mitarbeiter Ihrer Firma hier.",
+      "english": "Four days ago, two employees of your company were here.",
+      "russian": "Четыре дня назад два сотрудника вашей компании были здесь.",
+      "farsi": "چهار روز پیش دو نفر از کارکنان شرکت شما اینجا بودند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie haben die Heizung gewartet.",
+      "english": "They serviced the heating.",
+      "russian": "Они обслуживали отопление.",
+      "farsi": "آنها سیستم گرمایش را سرویس کردند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber seit gestern geht gar nichts mehr.",
+      "english": "But since yesterday, nothing works anymore.",
+      "russian": "Но с вчерашнего дня ничего не работает.",
+      "farsi": "اما از دیروز هیچ چیز کار نمی‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Heizkörper werden nicht warm.",
+      "english": "The radiators are not getting warm.",
+      "russian": "Радиаторы не нагреваются.",
+      "farsi": "رادیاتورها گرم نمی‌شوند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Einen Moment bitte, ich rufe mal eben Ihren Auftrag hier im Computer auf.",
+      "english": "One moment, please, I will quickly pull up your order in the computer.",
+      "russian": "Минутку, пожалуйста, я быстро открою ваш заказ в компьютере.",
+      "farsi": "یک لحظه لطفاً، من سریعاً سفارش شما را در کامپیوتر باز می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Haben Sie die Auftragsnummer?",
+      "english": "Do you have the order number?",
+      "russian": "У вас есть номер заказа?",
+      "farsi": "آیا شماره سفارش را دارید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, die Auftragsnummer ist die 304561.",
+      "english": "Yes, the order number is 304561.",
+      "russian": "Да, номер заказа 304561.",
+      "farsi": "بله، شماره سفارش 304561 است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Unsere Monteure haben geschrieben, dass die Heizung nach der Wartung einwandfrei funktioniert hat.",
+      "english": "Our technicians wrote that the heating was working perfectly after the maintenance.",
+      "russian": "Наши монтажники написали, что отопление работало идеально после обслуживания.",
+      "farsi": "تکنسین‌های ما نوشته‌اند که سیستم گرمایش پس از سرویس به‌طور کامل کار می‌کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und jetzt funktioniert sie nicht mehr?",
+      "english": "And now it's not working anymore?",
+      "russian": "А теперь она больше не работает?",
+      "farsi": "و حالا دیگر کار نمی‌کند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nein, leider überhaupt nicht.",
+      "english": "No, unfortunately not at all.",
+      "russian": "Нет, к сожалению, вообще не работает.",
+      "farsi": "نه، متاسفانه اصلاً کار نمی‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie müssen so schnell wie möglich kommen.",
+      "english": "You need to come as soon as possible.",
+      "russian": "Вам нужно приехать как можно скорее.",
+      "farsi": "شما باید هرچه سریع‌تر بیایید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ab morgen soll es noch kälter werden.",
+      "english": "It's supposed to get even colder starting tomorrow.",
+      "russian": "Завтра должно стать еще холоднее.",
+      "farsi": "از فردا هوا حتی سردتر خواهد شد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, klar. Passt Ihnen morgen früh um acht Uhr?",
+      "english": "Yes, of course. Does tomorrow morning at eight o'clock work for you?",
+      "russian": "Да, конечно. Подходит ли вам завтрашнее утро в восемь часов?",
+      "farsi": "بله، البته. آیا فردا صبح ساعت هشت برای شما مناسب است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, das passt. Danke, dass es so schnell geht. Auf Wiederhören.",
+      "english": "Yes, that works. Thank you for doing it so quickly. Goodbye.",
+      "russian": "Да, это подходит. Спасибо, что сделали это так быстро. До свидания.",
+      "farsi": "بله، این مناسب است. از اینکه این کار را سریع انجام دادید، متشکرم. خداحافظ."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Guten Tag, wie kann ich Ihnen helfen?",
+      "english": "Good day, how can I help you?",
+      "russian": "Добрый день, чем я могу вам помочь?",
+      "farsi": "سلام، چطور می‌توانم به شما کمک کنم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Guten Tag, ich habe vor einer Woche bei Ihnen dieses Smartphone gekauft.",
+      "english": "Good day, I bought this smartphone from you a week ago.",
+      "russian": "Добрый день, я купил этот смартфон у вас неделю назад.",
+      "farsi": "سلام، من یک هفته پیش این گوشی هوشمند را از شما خریدم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber jetzt reagiert es nicht mehr.",
+      "english": "But now it doesn't respond anymore.",
+      "russian": "Но теперь он больше не реагирует.",
+      "farsi": "اما حالا دیگر پاسخ نمی‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie können es nicht mehr einschalten?",
+      "english": "You can't turn it on anymore?",
+      "russian": "Вы не можете больше его включить?",
+      "farsi": "دیگر نمی‌توانید آن را روشن کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Genau.",
+      "english": "Exactly.",
+      "russian": "Точно.",
+      "farsi": "دقیقاً."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Haben Sie den Akku geladen?",
+      "english": "Have you charged the battery?",
+      "russian": "Вы заряжали батарею?",
+      "farsi": "آیا باتری را شارژ کرده‌اید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, natürlich. Den habe ich gleich gecheckt.",
+      "english": "Yes, of course. I checked it right away.",
+      "russian": "Да, конечно. Я сразу проверил.",
+      "farsi": "بله، البته. بلافاصله چک کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Darf ich mal sehen?",
+      "english": "May I see it?",
+      "russian": "Могу я посмотреть?",
+      "farsi": "می‌توانم آن را ببینم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn Sie die Ein/Aus-Taste circa zehn Sekunden lang drücken, dann startet das Gerät meistens wieder.",
+      "english": "If you press the power button for about ten seconds, the device usually restarts.",
+      "russian": "Если вы нажмете кнопку питания на десять секунд, устройство обычно перезапускается.",
+      "farsi": "اگر دکمه روشن/خاموش را حدود ده ثانیه فشار دهید، دستگاه معمولاً دوباره راه‌اندازی می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das habe ich schon probiert.",
+      "english": "I have already tried that.",
+      "russian": "Я уже пробовал это.",
+      "farsi": "من قبلاً این را امتحان کرده‌ام."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Tja … es ist defekt.",
+      "english": "Well... it’s defective.",
+      "russian": "Ну... он сломан.",
+      "farsi": "خب... خراب است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dann müssen wir es leider zur Reparatur schicken.",
+      "english": "Then we unfortunately have to send it for repair.",
+      "russian": "Тогда нам, к сожалению, нужно отправить его на ремонт.",
+      "farsi": "پس متاسفانه باید آن را برای تعمیر ارسال کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Haben Sie noch die Rechnung?",
+      "english": "Do you still have the receipt?",
+      "russian": "У вас есть еще квитанция?",
+      "farsi": "آیا هنوز فاکتور را دارید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, hier bitte. Ich habe noch Garantie.",
+      "english": "Yes, here you go. I still have a warranty.",
+      "russian": "Да, вот, пожалуйста. У меня еще есть гарантия.",
+      "farsi": "بله، لطفاً. هنوز گارانتی دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich möchte ein neues Smartphone oder mein Geld zurück.",
+      "english": "I would like a new smartphone or my money back.",
+      "russian": "Я хочу новый смартфон или мои деньги обратно.",
+      "farsi": "من یک گوشی هوشمند جدید می‌خواهم یا پولم را پس بگیرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Gut, dann tauschen wir es um. Einen Moment bitte, bin gleich wieder da.",
+      "english": "Alright, then we will exchange it. One moment, please, I’ll be right back.",
+      "russian": "Хорошо, тогда мы его обменяем. Один момент, пожалуйста, я сейчас вернусь.",
+      "farsi": "خیب، پس آن را تعویض می‌کنیم. لطفاً یک لحظه، همین الان برمی‌گردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vielen Dank.",
+      "english": "Thank you very much.",
+      "russian": "Большое спасибо.",
+      "farsi": "بسیار متشکرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Lavamet GmbH, Sie sprechen mit Michael Oliveira.",
+      "english": "Lavamet GmbH, you are speaking with Michael Oliveira.",
+      "russian": "Lavamet GmbH, вы говорите с Майклом Оливейрой.",
+      "farsi": "شرکت Lavamet GmbH، شما با مایکل اولیویرا صحبت می‌کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was kann ich für Sie tun?",
+      "english": "What can I do for you?",
+      "russian": "Что я могу для вас сделать?",
+      "farsi": "چه کمکی می‌توانم به شما بکنم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Guten Tag, mein Name ist Rebecca Jeschke von der Großwäscherei Braun.",
+      "english": "Good day, my name is Rebecca Jeschke from the Braun laundry service.",
+      "russian": "Добрый день, меня зовут Ребекка Ешке из прачечной Браун.",
+      "farsi": "سلام، نام من ربکا یشکه از خدمات خشکشویی براون است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie haben vorgestern Waschmaschinen in unsere Filialen in Stuttgart und Ludwigsburg geliefert.",
+      "english": "You delivered washing machines to our branches in Stuttgart and Ludwigsburg the day before yesterday.",
+      "russian": "Вы доставили стиральные машины в наши филиалы в Штутгарте и Людвигсбурге позавчера.",
+      "farsi": "شما دو روز پیش ماشین‌های لباسشویی را به شعبه‌های ما در اشتوتگارت و لودویگسبورگ تحویل دادید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, richtig. Ich hoffe, die Ware ist gut angekommen.",
+      "english": "Yes, that's right. I hope the goods arrived in good condition.",
+      "russian": "Да, правильно. Я надеюсь, что товар дошел в хорошем состоянии.",
+      "farsi": "بله، درست است. امیدوارم کالاها به خوبی به مقصد رسیده باشند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In Stuttgart ist alles in Ordnung, aber in Ludwigsburg wird das Wasser in vier Waschmaschinen nicht warm.",
+      "english": "Everything is fine in Stuttgart, but in Ludwigsburg, the water in four washing machines isn't getting warm.",
+      "russian": "В Штутгарте все в порядке, но в Людвигсбурге вода в четырех стиральных машинах не нагревается.",
+      "farsi": "در اشتوتگارت همه چیز مرتب است، اما در لودویگسبورگ آب در چهار ماشین لباسشویی گرم نمی‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben alles ausprobiert, aber es funktioniert einfach nicht.",
+      "english": "We have tried everything, but it just doesn't work.",
+      "russian": "Мы попробовали все, но это просто не работает.",
+      "farsi": "ما همه چیز را امتحان کرده‌ایم، اما اصلاً کار نمی‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dann schicken wir einen Mitarbeiter vom Kundendienst zu Ihnen.",
+      "english": "Then we will send a customer service representative to you.",
+      "russian": "Тогда мы отправим к вам сотрудника службы поддержки.",
+      "farsi": "پس یک کارمند خدمات مشتریان را به شما ارسال خواهیم کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, bitte möglichst schnell.",
+      "english": "Yes, please as soon as possible.",
+      "russian": "Да, пожалуйста, как можно скорее.",
+      "farsi": "بله، لطفاً هر چه زودتر."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir können schon für morgen einen Termin machen.",
+      "english": "We can make an appointment for tomorrow.",
+      "russian": "Мы можем назначить встречу на завтра.",
+      "farsi": "ما می‌توانیم برای فردا یک قرار ملاقات تنظیم کنیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sagen wir um 10.00 Uhr?",
+      "english": "Shall we say at 10:00?",
+      "russian": "Договоримся на 10:00?",
+      "farsi": "بگوییم ساعت 10:00؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Morgen, Mittwoch? Ja, das passt, wir erwarten Ihren Mitarbeiter.",
+      "english": "Tomorrow, Wednesday? Yes, that works, we are expecting your employee.",
+      "russian": "Завтра, в среду? Да, это подходит, мы ждем вашего сотрудника.",
+      "farsi": "فردا، چهارشنبه؟ بله، مناسب است، ما منتظر کارمند شما هستیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vielen Dank und auf Wiederhören.",
+      "english": "Thank you very much and goodbye.",
+      "russian": "Большое спасибо и до свидания.",
+      "farsi": "بسیار سپاسگزارم و خداحافظ."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Auf Wiederhören.",
+      "english": "Goodbye.",
+      "russian": "До свидания.",
+      "farsi": "خداحافظ."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "SCRIPT Papiergroßhandel, Adeniz, guten Tag.",
+      "english": "SCRIPT Paper Wholesale, Adeniz, good day.",
+      "russian": "SCRIPT оптовая торговля бумагой, Адениз, добрый день.",
+      "farsi": "SCRIPT عمده‌فروشی کاغذ، آدنیز، سلام."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was kann ich für Sie tun?",
+      "english": "What can I do for you?",
+      "russian": "Что я могу для вас сделать?",
+      "farsi": "چطور می‌توانم به شما کمک کنم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Guten Tag, hier ist Barbara Gollwitz vom KopierCenter in Berlin.",
+      "english": "Good day, this is Barbara Gollwitz from the Copy Center in Berlin.",
+      "russian": "Добрый день, это Барбара Голвитц из копировального центра в Берлине.",
+      "farsi": "سلام، اینجا باربارا گولویتس از مرکز کپی در برلین است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich muss leider Ihre Lieferung vom 25. April reklamieren.",
+      "english": "Unfortunately, I have to complain about your delivery from April 25th.",
+      "russian": "К сожалению, мне нужно подать жалобу на вашу доставку от 25 апреля.",
+      "farsi": "متاسفانه باید از تحویل شما در تاریخ 25 آوریل شکایت کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ach! Was ist denn das Problem?",
+      "english": "Oh! What is the problem?",
+      "russian": "О! В чем проблема?",
+      "farsi": "آه! مشکل چی هست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie haben die Mengen verwechselt und zu viel Fotopapier, aber zu wenig Kopierpapier geliefert.",
+      "english": "You mixed up the quantities and delivered too much photo paper, but too little copy paper.",
+      "russian": "Вы перепутали количество и доставили слишком много фотобумаги, но слишком мало копировальной бумаги.",
+      "farsi": "شما مقادیر را اشتباه گرفته‌اید و کاغذ عکس زیادی تحویل داده‌اید اما کاغذ کپی کمی."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Oh, das tut mir leid. Moment, ich suche den Lieferschein ...",
+      "english": "Oh, I’m sorry. One moment, I’ll look for the delivery note...",
+      "russian": "О, извините. Момент, я найду накладную...",
+      "farsi": "آه، معذرت می‌خواهم. یک لحظه، من فاکتور تحویل را پیدا می‌کنم..."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hier steht: viermal 500 Blatt Kopierpapier und 200 mal 100 Blatt Fotopapier.",
+      "english": "It says here: four times 500 sheets of copy paper and 200 times 100 sheets of photo paper.",
+      "russian": "Здесь написано: четыре раза по 500 листов копировальной бумаги и 200 раз по 100 листов фотобумаги.",
+      "farsi": "اینجا نوشته شده: چهار بار 500 برگ کاغذ کپی و 200 بار 100 برگ کاغذ عکس."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber wir hatten nur 2.000 Blatt Fotopapier, aber 20.000 Blatt Kopierpapier bestellt.",
+      "english": "But we only ordered 2,000 sheets of photo paper and 20,000 sheets of copy paper.",
+      "russian": "Но мы заказали только 2000 листов фотобумаги и 20000 листов копировальной бумаги.",
+      "farsi": "اما ما فقط 2000 برگ کاغذ عکس و 20000 برگ کاغذ کپی سفارش داده بودیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das steht in unserer E-Mail vom 17. April.",
+      "english": "It says in our email from April 17th.",
+      "russian": "Это указано в нашем электронном письме от 17 апреля.",
+      "farsi": "این در ایمیل ما از 17 آوریل نوشته شده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe Ihre E-Mail aufgerufen.",
+      "english": "I have opened your email.",
+      "russian": "Я открыл ваше письмо.",
+      "farsi": "من ایمیل شما را باز کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie haben recht. Das ist mir wirklich peinlich.",
+      "english": "You are right. I’m really embarrassed.",
+      "russian": "Вы правы. Мне действительно неловко.",
+      "farsi": "شما درست می‌گویید. واقعاً شرمنده‌ام."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können Sie uns bitte noch schnell 18.000 Blatt Kopierpapier nachliefern?",
+      "english": "Can you please deliver the 18,000 sheets of copy paper quickly?",
+      "russian": "Не могли бы вы быстро доставить нам еще 18000 листов копировальной бумаги?",
+      "farsi": "آیا می‌توانید سریعاً 18000 برگ کاغذ کپی برای ما ارسال کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber natürlich.",
+      "english": "Of course.",
+      "russian": "Конечно.",
+      "farsi": "البته."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was ist mit dem Fotopapier, das wir zu viel geliefert haben?",
+      "english": "What about the photo paper that we delivered too much of?",
+      "russian": "Что с фотоб бумагой, которую мы доставили слишком много?",
+      "farsi": "چه باید کرد با کاغذ عکس که بیش از حد ارسال کرده‌ایم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir schicken die zu viel gelieferte Ware zurück.",
+      "english": "We will return the excess delivered goods.",
+      "russian": "Мы вернем избыточно доставленные товары.",
+      "farsi": "ما کالاهای اضافی تحویل داده شده را باز می‌گردانیم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wann will die Firma Enderle Wärmeservice kommen?",
+      "english": "When does the company Enderle Wärmeservice plan to come?",
+      "russian": "Когда компания Enderle Wärmeservice планирует приехать?",
+      "farsi": "شرکت Enderle Wärmeservice کی قصد دارد بیاید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie wird das Problem am Handy gelöst?",
+      "english": "How will the problem be solved on the phone?",
+      "russian": "Как будет решена проблема по телефону?",
+      "farsi": "چطور مشکل از طریق تلفن حل خواهد شد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Welche Probleme gibt es mit den Waschmaschinen?",
+      "english": "What problems are there with the washing machines?",
+      "russian": "Какие проблемы с стиральными машинами?",
+      "farsi": "چه مشکلاتی با ماشین‌های لباسشویی وجود دارد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was soll Herr Adeniz machen?",
+      "english": "What should Mr. Adeniz do?",
+      "russian": "Что должен сделать господин Адениц?",
+      "farsi": "آقای آدنیز باید چه کار کند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Für Unternehmen ist ein gutes Beschwerdemanagement sehr wichtig.",
+      "english": "For companies, good complaint management is very important.",
+      "russian": "Для компаний хорошее управление жалобами очень важно.",
+      "farsi": "برای شرکت‌ها، مدیریت مناسب شکایات بسیار مهم است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Durch Beschwerden und Reklamationen können sie erfahren, wo es Probleme oder Fehler mit ihren Produkten oder Dienstleistungen gibt.",
+      "english": "Through complaints and claims, they can learn where there are problems or errors with their products or services.",
+      "russian": "Через жалобы и рекламации они могут узнать, где есть проблемы или ошибки в их продуктах или услугах.",
+      "farsi": "از طریق شکایات و اعتراضات می‌توانند متوجه شوند که کجا مشکلات یا اشتباهاتی در محصولات یا خدماتشان وجود دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kein Unternehmen kann es sich heute noch leisten, Kundenbeschwerden nicht zu beachten.",
+      "english": "No company can afford to ignore customer complaints today.",
+      "russian": "Ни одна компания не может позволить себе игнорировать жалобы клиентов сегодня.",
+      "farsi": "هیچ شرکتی امروز نمی‌تواند شکایات مشتریان را نادیده بگیرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Diese Tipps helfen Ihnen, erfolgreich mit Beschwerden und Reklamationen umzugehen.",
+      "english": "These tips will help you handle complaints and claims successfully.",
+      "russian": "Эти советы помогут вам успешно справляться с жалобами и рекламациями.",
+      "farsi": "این نکات به شما کمک می‌کند تا با شکایات و اعتراضات به خوبی برخورد کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Lassen Sie die Kundin oder den Kunden ausreden.",
+      "english": "Let the customer finish speaking.",
+      "russian": "Дайте клиенту закончить говорить.",
+      "farsi": "بگذارید مشتری صحبتش را تمام کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie werden oft wütend, wenn sie unzufrieden sind.",
+      "english": "They often get angry when they are dissatisfied.",
+      "russian": "Они часто злятся, когда недовольны.",
+      "farsi": "آنها اغلب وقتی ناراضی هستند عصبانی می‌شوند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In solchen Situationen ist es wichtig, dass man ihnen ruhig zuhört.",
+      "english": "In such situations, it is important to listen to them calmly.",
+      "russian": "В таких ситуациях важно спокойно выслушать их.",
+      "farsi": "در چنین موقعیت‌هایی مهم است که با آرامش به آنها گوش دهید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Zeigen Sie Verständnis für das Problem.",
+      "english": "Show understanding for the problem.",
+      "russian": "Покажите понимание проблемы.",
+      "farsi": "درک خود را از مشکل نشان دهید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Geben Sie der Kundin oder dem Kunden das Gefühl, dass Sie ihren/seinen Ärger verstehen.",
+      "english": "Give the customer the feeling that you understand their anger.",
+      "russian": "Дайте клиенту почувствовать, что вы понимаете его злость.",
+      "farsi": "به مشتری این احساس را بدهید که عصبانیت او را درک می‌کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sagen Sie z.B.: „Ich kann gut verstehen, dass Sie verärgert sind.“",
+      "english": "Say, for example: 'I can understand that you are upset.'",
+      "russian": "Скажите, например: 'Я понимаю, что вы расстроены.'",
+      "farsi": "مثلاً بگویید: 'من می‌توانم درک کنم که شما ناراحت هستید.'"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Oder: „Das Produkt funktioniert nicht? Das ist natürlich ärgerlich.“",
+      "english": "Or: 'The product is not working? That’s certainly annoying.'",
+      "russian": "Или: 'Продукт не работает? Это, конечно, раздражает.'",
+      "farsi": "یا: 'محصول کار نمی‌کند؟ این قطعاً آزاردهنده است.'"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Je ruhiger und freundlicher Sie reagieren, desto zufriedener werden die Kundinnen und Kunden sein.",
+      "english": "The calmer and friendlier you react, the more satisfied the customers will be.",
+      "russian": "Чем спокойнее и дружелюбнее вы реагируете, тем более удовлетворены будут клиенты.",
+      "farsi": "هرچه شما آرام‌تر و دوستانه‌تر واکنش نشان دهید، مشتریان راضی‌تر خواهند بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Klären Sie, wenn Sie etwas nicht verstanden haben.",
+      "english": "Clarify if you have not understood something.",
+      "russian": "Уточните, если вы что-то не поняли.",
+      "farsi": "اگر چیزی را متوجه نشدید، آن را روشن کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Fragen Sie nach: „Verstehe ich richtig, dass …?“",
+      "english": "Ask: 'Do I understand correctly that...?'",
+      "russian": "Спросите: 'Правильно ли я понимаю, что...?'",
+      "farsi": "بپرسید: 'آیا درست متوجه شده‌ام که...؟'"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Stellen Sie dann konkrete Fragen: „Welche Lieferung ist zu spät gekommen?“",
+      "english": "Then ask specific questions: 'Which delivery was late?'",
+      "russian": "Задайте конкретные вопросы: 'Какая поставка опоздала?'",
+      "farsi": "سپس سوالات خاصی بپرسید: 'کدام تحویل دیر آمده است؟'"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Oder: „Wo genau liegt das Problem?“",
+      "english": "Or: 'Where exactly is the problem?'",
+      "russian": "Или: 'Где именно проблема?'",
+      "farsi": "یا: 'مشکل دقیقاً کجا است؟'"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Versuchen Sie, eine Lösung vorzuschlagen: „Sie können die kaputte Ware umtauschen.“",
+      "english": "Try to suggest a solution: 'You can exchange the defective product.'",
+      "russian": "Попробуйте предложить решение: 'Вы можете обменять неисправный товар.'",
+      "farsi": "سعی کنید یک راه حل پیشنهاد دهید: 'شما می‌توانید کالای معیوب را تعویض کنید.'"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Oder: „Wir können Ihnen einen Preisnachlass geben.“",
+      "english": "Or: 'We can give you a discount.'",
+      "russian": "Или: 'Мы можем предоставить вам скидку.'",
+      "farsi": "یا: 'ما می‌توانیم به شما تخفیف بدهیم.'"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Je schneller Sie eine Lösung finden, desto schneller entspannt sich die Situation.",
+      "english": "The faster you find a solution, the faster the situation will calm down.",
+      "russian": "Чем быстрее вы найдете решение, тем быстрее ситуация успокоится.",
+      "farsi": "هرچه سریع‌تر یک راه‌حل پیدا کنید، وضعیت سریع‌تر آرام می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Warum können Beschwerden für Unternehmen wichtig sein?",
+      "english": "Why can complaints be important for companies?",
+      "russian": "Почему жалобы могут быть важны для компаний?",
+      "farsi": "چرا شکایات می‌توانند برای شرکت‌ها مهم باشند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was sollten Mitarbeitende bei einem Beschwerdegespräch tun?",
+      "english": "What should employees do during a complaint conversation?",
+      "russian": "Что должны делать сотрудники во время разговора о жалобах?",
+      "farsi": "کارمندان باید در طول یک گفت‌وگو درباره شکایت چه کاری انجام دهند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Welche Lösungen kann man einer Kundin oder einem Kunden bei einem Problem anbieten?",
+      "english": "What solutions can be offered to a customer when there is a problem?",
+      "russian": "Какие решения можно предложить клиенту при возникновении проблемы?",
+      "farsi": "چه راه‌حل‌هایی می‌توان به مشتری در صورت بروز مشکل پیشنهاد داد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Lavamet GmbH, Michael Oliveira, guten Tag.",
+      "english": "Lavamet GmbH, Michael Oliveira, good day.",
+      "russian": "Lavamet GmbH, Майкл Оливейра, добрый день.",
+      "farsi": "Lavamet GmbH، مایکل اولیورا، روز بخیر."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Guten Tag, ich bin Rebecca Jeschke von der Großwäscherei Braun in Ludwigsburg.",
+      "english": "Good day, I am Rebecca Jeschke from the Braun laundry in Ludwigsburg.",
+      "russian": "Добрый день, я Ребекка Ешке из прачечной Браун в Людвигсбурге.",
+      "farsi": "روز بخیر، من ربکا یشکه از خشکشویی براون در لودویگسبورگ هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir sind bereits Kunden bei Ihnen und haben bei Ihnen auch schon Waschmaschinen und Trockner gekauft.",
+      "english": "We are already customers with you and have already purchased washing machines and dryers from you.",
+      "russian": "Мы уже являемся вашими клиентами и уже покупали у вас стиральные машины и сушилки.",
+      "farsi": "ما قبلاً مشتری شما هستیم و قبلاً ماشین‌های لباسشویی و خشک‌کن‌ها را از شما خریداری کرده‌ایم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir wollen jetzt in Stuttgart und Böblingen neue Filialen eröffnen und brauchen dafür neue Geräte, also neue Waschmaschinen und Trockner.",
+      "english": "We now want to open new branches in Stuttgart and Böblingen and need new equipment for that, so new washing machines and dryers.",
+      "russian": "Мы сейчас хотим открыть новые филиалы в Штутгарте и Бёблингене и для этого нам нужно новое оборудование, то есть новые стиральные машины и сушилки.",
+      "farsi": "ما حالا می‌خواهیم شعبه‌های جدیدی در اشتوتگارت و بوبلینگن افتتاح کنیم و برای این کار به تجهیزات جدید نیاز داریم، بنابراین ماشین‌های لباسشویی و خشک‌کن‌های جدید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Könnten Sie uns bitte ein Angebot schicken?",
+      "english": "Could you please send us an offer?",
+      "russian": "Не могли бы вы прислать нам предложение?",
+      "farsi": "آیا می‌توانید لطفاً یک پیشنهاد برای ما ارسال کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, sehr gerne.",
+      "english": "Yes, of course.",
+      "russian": "Да, с удовольствием.",
+      "farsi": "بله، با کمال میل."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie viele Waschmaschinen und Trockner möchten Sie denn kaufen?",
+      "english": "How many washing machines and dryers would you like to purchase?",
+      "russian": "Сколько стиральных машин и сушилок вы хотите купить?",
+      "farsi": "چند دستگاه ماشین لباسشویی و خشک‌کن می‌خواهید خریداری کنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Für beide Standorte so jeweils 50.",
+      "english": "50 for each location.",
+      "russian": "По 50 для каждого местоположения.",
+      "farsi": "برای هر شعبه ۵۰ دستگاه."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn Sie so viel abnehmen, kann ich Ihnen sicher ein günstiges Angebot machen.",
+      "english": "If you buy that much, I can certainly make you a good offer.",
+      "russian": "Если вы купите столько, я смогу предложить вам хорошее предложение.",
+      "farsi": "اگر اینقدر خرید کنید، قطعاً می‌توانم یک پیشنهاد خوب برایتان آماده کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sagen Sie mir bitte noch einmal Ihren Namen und den Namen Ihrer Firma.",
+      "english": "Please tell me your name and the name of your company again.",
+      "russian": "Пожалуйста, скажите мне ваше имя и название вашей компании снова.",
+      "farsi": "لطفاً دوباره نام خود و نام شرکتتان را بگویید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Rebecca Jeschke von der Großwäscherei Braun.",
+      "english": "Rebecca Jeschke from the Braun laundry.",
+      "russian": "Ребекка Ешке из прачечной Браун.",
+      "farsi": "ربکا یشکه از خشکشویی براون."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie war doch gleich Ihr Name?",
+      "english": "What was your name again?",
+      "russian": "Как ваше имя еще раз?",
+      "farsi": "نام شما دوباره چه بود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Michael Oliveira.",
+      "english": "Michael Oliveira.",
+      "russian": "Майкл Оливейра.",
+      "farsi": "مایکل اولیورا."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe alles notiert, Frau Jeschke.",
+      "english": "I have noted everything down, Ms. Jeschke.",
+      "russian": "Я все записал, госпожа Ешке.",
+      "farsi": "من همه چیز را یادداشت کردم، خانم یشکه."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Können Sie mir noch eine Telefonnummer geben, damit ich Sie anrufen kann, falls etwas dazwischenkommt?",
+      "english": "Could you give me another phone number so I can call you in case something comes up?",
+      "russian": "Можете ли вы дать мне другой номер телефона, чтобы я мог позвонить вам, если что-то случится?",
+      "farsi": "آیا می‌توانید شماره تلفن دیگری به من بدهید تا در صورت پیش آمدن مشکلی با شما تماس بگیرم؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin telefonisch unter 07141/345698 erreichbar oder per Handy unter 0162/2082784.",
+      "english": "I can be reached at 07141/345698 or by mobile at 0162/2082784.",
+      "russian": "Я доступен по телефону 07141/345698 или по мобильному телефону 0162/2082784.",
+      "farsi": "من را می‌توانید از طریق تلفن 07141/345698 یا موبایل 0162/2082784 تماس بگیرید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich schicke Ihnen dann bis zum Ende der Woche unser Angebot, Frau Jeschke. Auf Wiederhören.",
+      "english": "I will send you our offer by the end of the week, Ms. Jeschke. Goodbye.",
+      "russian": "Я отправлю вам наше предложение до конца недели, госпожа Ешке. До свидания.",
+      "farsi": "من تا پایان هفته پیشنهاد خود را برای شما ارسال خواهم کرد، خانم یشکه. خداحافظ."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vielen Dank. Auf Wiederhören, Herr Oliveira.",
+      "english": "Thank you very much. Goodbye, Mr. Oliveira.",
+      "russian": "Большое спасибо. До свидания, мистер Оливейра.",
+      "farsi": "بسیار متشکرم. خداحافظ، آقای اولیورا."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Seit sieben Jahre arbeite ich im 3-Schicht-Sytem an der Rezeption in einem Vier-Sterne-Hotel in Köln.",
+      "english": "I have been working in the 3-shift system at the reception in a four-star hotel in Cologne for seven years.",
+      "russian": "Я работаю в 3-сменной системе на рецепции в четырехзвездочном отеле в Кельне уже семь лет.",
+      "farsi": "من به مدت هفت سال در سیستم سه شیفت در پذیرش یک هتل چهار ستاره در کلن کار می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich empfange unsere Gäste und heiße sie willkommen.",
+      "english": "I welcome our guests and greet them.",
+      "russian": "Я встречаю наших гостей и приветствую их.",
+      "farsi": "من از مهمانانمان استقبال می‌کنم و به آنها خوش‌آمد می‌گویم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin zuständig für den Check-in und Check-out sowie für die Beratung und Betreuung unserer Gäste.",
+      "english": "I am responsible for the check-in and check-out as well as for advising and taking care of our guests.",
+      "russian": "Я отвечаю за регистрацию и выписку, а также за консультации и заботу о наших гостях.",
+      "farsi": "من مسئول چک‌این و چک‌اوت هستم و همچنین مشاوره و مراقبت از مهمانانمان را بر عهده دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Als Ansprechpartner für alle Gästewünsche bin ich natürlich auch zuständig für die Bearbeitung von Beschwerden.",
+      "english": "As the contact person for all guest requests, I am, of course, also responsible for handling complaints.",
+      "russian": "Как контактное лицо для всех запросов гостей, я, конечно, также отвечаю за обработку жалоб.",
+      "farsi": "به عنوان شخص مسئول برای تمام درخواست‌های مهمانان، من طبیعتاً مسئول رسیدگی به شکایات نیز هستم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Unsere Gäste erwarten einen tollen Service, ein ausgezeichnetes Frühstück und komfortable sowie ruhige Zimmer.",
+      "english": "Our guests expect great service, an excellent breakfast, and comfortable and quiet rooms.",
+      "russian": "Наши гости ожидают отличное обслуживание, прекрасный завтрак и комфортные, а также тихие номера.",
+      "farsi": "مهمانان ما انتظار دارند خدمات عالی، صبحانه ممتاز و اتاق‌های راحت و آرام داشته باشند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die meisten Gäste sind mit unseren Leistungen sehr zufrieden.",
+      "english": "Most guests are very satisfied with our services.",
+      "russian": "Большинство гостей очень довольны нашими услугами.",
+      "farsi": "بیشتر مهمانان از خدمات ما راضی هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Natürlich gibt es aber manchmal Beschwerden.",
+      "english": "Of course, there are sometimes complaints.",
+      "russian": "Конечно, иногда бывают жалобы.",
+      "farsi": "البته گاهی اوقات شکایاتی وجود دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Manche Gäste beschweren sich zum Beispiel, wenn ihr Zimmer zu laut ist, sie ihr Bett unbequem finden oder der WiFi-Empfang zu langsam ist.",
+      "english": "Some guests complain, for example, if their room is too noisy, they find their bed uncomfortable, or the WiFi reception is too slow.",
+      "russian": "Некоторые гости жалуются, например, если их номер слишком шумный, кровать неудобная или WiFi-сигнал слишком слабый.",
+      "farsi": "برخی از مهمانان شکایت می‌کنند، به عنوان مثال اگر اتاقشان خیلی پر سر و صدا باشد، تختشان ناراحت کننده باشد یا سیگنال WiFi خیلی ضعیف باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Manchmal ärgern sich die Gäste über das Frühstück, weil zum Beispiel die Rühreier kalt waren oder die Auswahl an veganen Gerichten nicht groß genug war.",
+      "english": "Sometimes guests get upset about the breakfast, for example, because the scrambled eggs were cold or the selection of vegan dishes wasn't large enough.",
+      "russian": "Иногда гости раздражаются из-за завтрака, например, если яичница была холодной или выбор веганских блюд был недостаточно большим.",
+      "farsi": "گاهی اوقات مهمانان از صبحانه ناراحت می‌شوند، به عنوان مثال اگر تخم‌مرغ‌های همزده سرد بودند یا انتخاب غذاهای وگان کافی نبوده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn sich ein Gast bei mir beschwert, höre ich gut zu und versuche dann aktiv auf die Beschwerden zu reagieren und das Problem so schnell und gut wie möglich zu lösen.",
+      "english": "When a guest complains to me, I listen carefully and then try to actively respond to the complaints and solve the problem as quickly and well as possible.",
+      "russian": "Когда гость жалуется мне, я внимательно слушаю и затем стараюсь активно реагировать на жалобы и решить проблему как можно быстрее и лучше.",
+      "farsi": "وقتی مهمانی به من شکایت می‌کند، به دقت گوش می‌کنم و سپس سعی می‌کنم به شکایات به طور فعال پاسخ دهم و مشکل را هر چه سریعتر و بهتر حل کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bedanke mich dann bei den Gästen für ihr Feedback.",
+      "english": "I then thank the guests for their feedback.",
+      "russian": "Затем я благодарю гостей за их отзыв.",
+      "farsi": "سپس از مهمانان برای بازخوردشان تشکر می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich gebe ihre Beschwerde weiter, damit am nächsten Tag alles in Ordnung ist.",
+      "english": "I pass on their complaint so that everything is in order the next day.",
+      "russian": "Я передаю их жалобу, чтобы на следующий день все было в порядке.",
+      "farsi": "شکایت آنها را منتقل می‌کنم تا روز بعد همه چیز مرتب باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Meine Erfahrung ist: Je freundlicher ich reagiere, desto zufriedener sind die Gäste.",
+      "english": "My experience is: The friendlier I react, the more satisfied the guests are.",
+      "russian": "Мой опыт таков: чем дружелюбнее я реагирую, тем более довольны гости.",
+      "farsi": "تجربه من این است: هر چقدر که من دوستانه‌تر واکنش نشان دهم، مهمانان راضی‌تر خواهند بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Alfonso Navas ist seit einem Jahrzehnt in einem Köllner Hotel beschäftigt.",
+      "english": "Alfonso Navas has been working in a hotel in Cologne for a decade.",
+      "russian": "Альфонсо Навес работает в отеле в Кельне уже десять лет.",
+      "farsi": "آلفونسو ناواس ده سال است که در یک هتل در کلن مشغول به کار است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er muss früh, spät und nachts arbeiten.",
+      "english": "He has to work early, late, and at night.",
+      "russian": "Он должен работать рано, поздно и ночью.",
+      "farsi": "او باید زود، دیر و شب‌ها کار کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn Gäste im Hotel ankommen, bringt er sie zu ihren Zimmern.",
+      "english": "When guests arrive at the hotel, he takes them to their rooms.",
+      "russian": "Когда гости прибывают в отель, он проводит их в их номера.",
+      "farsi": "وقتی مهمانان به هتل می‌آیند، او آنها را به اتاقشان می‌برد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn Gäste Fragen haben, versucht er, sie zu beantworten.",
+      "english": "When guests have questions, he tries to answer them.",
+      "russian": "Когда у гостей есть вопросы, он пытается ответить на них.",
+      "farsi": "وقتی مهمانان سوالاتی دارند، او سعی می‌کند به آنها پاسخ دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Gäste sind oft unzufrieden, weil die Hotelzimmer zu laut sind.",
+      "english": "Guests are often dissatisfied because the hotel rooms are too noisy.",
+      "russian": "Гости часто недовольны, потому что номера отеля слишком шумные.",
+      "farsi": "مهمانان اغلب ناراضی هستند چون اتاق‌های هتل خیلی پر سر و صدا هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Manche Gäste sind mit dem Frühstücksangebot unzufrieden.",
+      "english": "Some guests are dissatisfied with the breakfast offering.",
+      "russian": "Некоторые гости недовольны предложением завтраков.",
+      "farsi": "برخی از مهمانان از پیشنهادات صبحانه ناراضی هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn ein Gast sich über etwas beschwert, gibt er die Kritik an die Kolleginnen und Kollegen im Hotel weiter, damit eine Lösung gefunden wird.",
+      "english": "When a guest complains about something, he passes the criticism on to his colleagues at the hotel so that a solution can be found.",
+      "russian": "Когда гость жалуется на что-то, он передает критику коллегам в отеле, чтобы была найдена решение.",
+      "farsi": "وقتی مهمانی از چیزی شکایت می‌کند، او انتقاد را به همکارانش در هتل منتقل می‌کند تا راه حلی پیدا شود."
+    }
+  ]
+}

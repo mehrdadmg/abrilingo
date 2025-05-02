@@ -1,0 +1,410 @@
+{
+  "info": {
+    "name": "B1_Fokus_Wörter_u12",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Bestellung, die Bestellungen",
+      "english": "the order, orders",
+      "russian": "заказ, заказы",
+      "farsi": "سفارش، سفارش‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "online",
+      "english": "online",
+      "russian": "онлайн",
+      "farsi": "آنلاین"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Kaufhaus, die Kaufhäuser",
+      "english": "the department store, department stores",
+      "russian": "универмаг, универмаги",
+      "farsi": "فروشگاه بزرگ، فروشگاه‌های بزرگ"
+    },
+    {
+      "type": "verben",
+      "Infinitive": "aufgeben",
+      "Präsens": "ich gebe auf, du gibst auf, er/sie/es gibt auf, wir geben auf, ihr gebt auf, sie geben auf",
+      "Präteritum": "ich gab auf, du gabst auf, er/sie/es gab auf, wir gaben auf, ihr gabt auf, sie gaben auf",
+      "Perfekt": "hat aufgegeben",
+      "englishMeaning": "to place (an order), to give up",
+      "englishUsage": "Used to describe the action of placing an order or surrendering something.",
+      "russianMeaning": "разместить (заказ), сдаваться",
+      "russianUsage": "Используется для описания действия размещения заказа или сдачи чего-либо.",
+      "farsiMeaning": "ثبت کردن (سفارش)، تسلیم شدن",
+      "farsiUsage": "برای توصیف عمل ثبت سفارش یا تسلیم شدن استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "bequem",
+      "english": "comfortable, convenient",
+      "russian": "удобный, комфортный",
+      "farsi": "راحت، مناسب"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "wöchentlich",
+      "english": "weekly",
+      "russian": "еженедельно",
+      "farsi": "هفتگی"
+    },
+    {
+      "type": "verben",
+      "Infinitive": "speichern",
+      "Präsens": "ich speichere, du speicherst, er/sie/es speichert, wir speichern, ihr speichert, sie speichern",
+      "Präteritum": "ich speicherte, du speichertest, er/sie/es speicherte, wir speicherten, ihr speichertet, sie speicherten",
+      "Perfekt": "hat gespeichert",
+      "englishMeaning": "to save, to store",
+      "englishUsage": "Used to describe the action of saving or storing data or resources.",
+      "russianMeaning": "сохранять, хранить",
+      "russianUsage": "Используется для описания действия сохранения или хранения данных или ресурсов.",
+      "farsiMeaning": "ذخیره کردن، نگهداری کردن",
+      "farsiUsage": "برای توصیف عمل ذخیره یا نگهداری داده‌ها یا منابع استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "günstig",
+      "english": "affordable, favorable",
+      "russian": "выгодный, благоприятный",
+      "farsi": "مقرون به صرفه، مطلوب"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Versandkosten (Pl.)",
+      "english": "the shipping costs",
+      "russian": "стоимость доставки",
+      "farsi": "هزینه‌های ارسال"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "niedrig",
+      "english": "low",
+      "russian": "низкий",
+      "farsi": "پایین"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Lieferschein, die Lieferscheine",
+      "english": "the delivery note, delivery notes",
+      "russian": "накладная, накладные",
+      "farsi": "برگه تحویل، برگه‌های تحویل"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Anfrage, die Anfragen",
+      "english": "the inquiry, inquiries",
+      "russian": "запрос, запросы",
+      "farsi": "درخواست، درخواست‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "lieferbar",
+      "english": "(available for) delivery",
+      "russian": "(доступный для) доставки",
+      "farsi": "(قابل) تحویل"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Mehrwertsteuer (Sg.)",
+      "english": "the value-added tax (VAT)",
+      "russian": "налог на добавленную стоимость (НДС)",
+      "farsi": "مالیات بر ارزش افزوده (VAT)"
+    },
+    {
+      "type": "verben",
+      "Infinitive": "benötigen",
+      "Präsens": "ich benötige, du benötigst, er/sie/es benötigt, wir benötigen, ihr benötigt, sie benötigen",
+      "Präteritum": "ich benötigte, du benötigtest, er/sie/es benötigte, wir benötigten, ihr benötigtet, sie benötigten",
+      "Perfekt": "hat benötigt",
+      "englishMeaning": "to need, to require",
+      "englishUsage": "Used to express necessity for something in formal contexts.",
+      "russianMeaning": "нуждаться, требовать",
+      "russianUsage": "Используется для выражения необходимости чего-либо в формальных контекстах.",
+      "farsiMeaning": "نیاز داشتن، احتیاج داشتن",
+      "farsiUsage": "برای بیان نیاز به چیزی در زمینه‌های رسمی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Rechnungsnummer, die Rechnungsnummern",
+      "english": "the invoice number, invoice numbers",
+      "russian": "номер счета, номера счетов",
+      "farsi": "شماره فاکتور، شماره‌های فاکتور"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Menge, die Mengen",
+      "english": "the quantity, quantities",
+      "russian": "количество, количества",
+      "farsi": "مقدار، مقادیر"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Summe, die Summen",
+      "english": "the amount, amounts / the sum, sums",
+      "russian": "сумма, суммы",
+      "farsi": "مبلغ، مبالغ / جمع، مجموع‌ها"
+    },
+    {
+      "type": "verben",
+      "Infinitive": "überweisen",
+      "Präsens": "ich überweise, du überweist, er/sie/es überweist, wir überweisen, ihr überweist, sie überweisen",
+      "Präteritum": "ich überwies, du überwiest, er/sie/es überwies, wir überwiesen, ihr überwies, sie überwiesen",
+      "Perfekt": "hat überwiesen",
+      "englishMeaning": "to transfer (money)",
+      "englishUsage": "Used for bank transfers or formal money transactions.",
+      "russianMeaning": "переводить (деньги)",
+      "russianUsage": "Используется для банковских переводов или формальных денежных операций.",
+      "farsiMeaning": "واریز کردن (پول)",
+      "farsiUsage": "برای انتقال بانکی یا تراکنش‌های رسمی پولی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Konto, die Konten",
+      "english": "the account, accounts",
+      "russian": "счет, счета",
+      "farsi": "حساب، حساب‌ها"
+    },
+    {
+      "type": "verben",
+      "Infinitive": "bezahlen",
+      "Präsens": "ich bezahle, du bezahlst, er/sie/es bezahlt, wir bezahlen, ihr bezahlt, sie bezahlen",
+      "Präteritum": "ich bezahlte, du bezahltest, er/sie/es bezahlte, wir bezahlten, ihr bezahltet, sie bezahlten",
+      "Perfekt": "hat bezahlt",
+      "englishMeaning": "to pay",
+      "englishUsage": "Used to describe the action of paying for something.",
+      "russianMeaning": "платить",
+      "russianUsage": "Используется для описания действия оплаты чего-либо.",
+      "farsiMeaning": "پرداخت کردن",
+      "farsiUsage": "برای توصیف عمل پرداخت پول استفاده می‌شود."
+    },
+    {
+      "type": "verben",
+      "Infinitive": "brauchen",
+      "Präsens": "ich brauche, du brauchst, er/sie/es braucht, wir brauchen, ihr braucht, sie brauchen",
+      "Präteritum": "ich brauchte, du brauchtest, er/sie/es brauchte, wir brauchten, ihr brauchtet, sie brauchten",
+      "Perfekt": "hat gebraucht",
+      "englishMeaning": "to need, to require",
+      "englishUsage": "Used to express necessity for something.",
+      "russianMeaning": "нуждаться, требовать",
+      "russianUsage": "Используется для выражения необходимости чего-либо.",
+      "farsiMeaning": "نیاز داشتن، احتیاج داشتن",
+      "farsiUsage": "برای بیان نیاز به چیزی استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Beschwerde, die Beschwerden",
+      "english": "the complaint, complaints",
+      "russian": "жалоба, жалобы",
+      "farsi": "شکایت، شکایات"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Reklamation, die Reklamationen",
+      "english": "the complaint, complaints (formal)",
+      "russian": "претензия, претензии",
+      "farsi": "شکایت رسمی، شکایات رسمی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "aufgeräumt",
+      "english": "tidy, organized",
+      "russian": "опрятный, организованный",
+      "farsi": "منظم، مرتب"
+    },
+    {
+      "type": "verben",
+      "Infinitive": "zerreißen",
+      "Präsens": "ich zerreiße, du zerreißt, er/sie/es zerreißt, wir zerreißen, ihr zerreißt, sie zerreißen",
+      "Präteritum": "ich zerriss, du zerrissest, er/sie/es zerriss, wir zerrissen, ihr zerrisset, sie zerrissen",
+      "Perfekt": "ist zerrissen",
+      "englishMeaning": "to tear apart, to rip",
+      "englishUsage": "Used for physically tearing objects into pieces or metaphorically describing extreme emotional states. Also indicates material failure under stress.",
+      "russianMeaning": "разрывать, рвать",
+      "russianUsage": "Используется для описания физического разрыва объектов на части или эмоционального напряжения. Также указывает на разрушение материала под нагрузкой.",
+      "farsiMeaning": "پاره کردن، گسستن",
+      "farsiUsage": "برای توصیف پاره کردن فیزیکی اشیا یا حالت‌های احساسی شدید استفاده می‌شود. همچنین نشان‌دهنده شکست مواد تحت فشار است."
+    },
+    {
+      "type": "verben",
+      "Infinitive": "zerbrechen",
+      "Präsens": "ich zerbreche, du zerbrichst, er/sie/es zerbricht, wir zerbrechen, ihr zerbrecht, sie zerbrechen",
+      "Präteritum": "ich zerbrach, du zerbrachst, er/sie/es zerbrach, wir zerbrachen, ihr zerbracht, sie zerbrachen",
+      "Perfekt": "ist zerbrochen",
+      "englishMeaning": "to break, to shatter",
+      "englishUsage": "Describes the physical breaking of brittle objects or metaphorical collapse (e.g., relationships). Implies complete fragmentation.",
+      "russianMeaning": "разбивать, ломать",
+      "russianUsage": "Используется для описания физического разрушения хрупких предметов или метафорического краха (например, отношений). Подразумевает полное разрушение.",
+      "farsiMeaning": "شکستن، خرد کردن",
+      "farsiUsage": "برای توصیف شکستن فیزیکی اشیا شکننده یا فروپاشی استعاری (مانند روابط) استفاده می‌شود. دلالت بر تکه‌تکه شدن کامل دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "unvollständig",
+      "english": "incomplete",
+      "russian": "неполный",
+      "farsi": "ناقص"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "zerkratzt",
+      "english": "scratched",
+      "russian": "поцарапанный",
+      "farsi": "خراشیده"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Prüfung, die Prüfungen",
+      "english": "the exam, exams",
+      "russian": "экзамен, экзамены",
+      "farsi": "آزمون، آزمون‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Heizung, die Heizungen",
+      "english": "the heating, the heating systems",
+      "russian": "отопление, системы отопления",
+      "farsi": "سیستم گرمایشی، سیستم‌های گرمایشی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Fotoapparat, die Fotoapparate",
+      "english": "the camera, the cameras",
+      "russian": "фотоаппарат, фотоаппараты",
+      "farsi": "دوربین عکاسی، دوربین‌های عکاسی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Quittung, die Quittungen",
+      "english": "the receipt, the receipts",
+      "russian": "квитанция, квитанции",
+      "farsi": "رسید، رسیدها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Garantie, die Garantien",
+      "english": "the warranty, the warranties",
+      "russian": "гарантия, гарантии",
+      "farsi": "گارانتی، گارانتی‌ها"
+    },
+    {
+      "type": "verben",
+      "Infinitive": "umtauschen",
+      "Präsens": "ich tausche um, du tauschst um, er/sie/es tauscht um, wir tauschen um, ihr tauscht um, sie tauschen um",
+      "Präteritum": "ich tauschte um, du tauschtest um, er/sie/es tauschte um, wir tauschten um, ihr tauschtet um, sie tauschten um",
+      "Perfekt": "hat umgetauscht",
+      "englishMeaning": "to exchange, to return (goods)",
+      "englishUsage": "Used for returning purchased items to a store for replacement or refund. Also applies to currency exchange (e.g., Euros to Dollars). Requires receipt in most cases",
+      "russianMeaning": "обменивать, возвращать товар",
+      "russianUsage": "Используется для возврата купленных товаров в магазин для замены или возврата денег. Также применяется для обмена валюты (например, евро на доллары). Требуется чек в большинстве случаев",
+      "farsiMeaning": "تعویض کردن، پس دادن کالا",
+      "farsiUsage": "برای بازگرداندن کالاهای خریداری شده به فروشگاه جهت تعویض یا بازپرداخت استفاده می‌شود. همچنین برای تبدیل ارز (مانند یورو به دلار) کاربرد دارد. در بیشتر موارد نیاز به ارائه رسید دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Beschwerdemanagement",
+      "english": "the complaint management",
+      "russian": "управление жалобами",
+      "farsi": "مدیریت شکایات"
+    },
+    {
+      "type": "verben",
+      "Infinitive": "sich verhalten",
+      "Präsens": "ich verhalte mich, du verhältst dich, er/sie/es verhält sich, wir verhalten uns, ihr verhaltet euch, sie verhalten sich",
+      "Präteritum": "ich verhielt mich, du verhieltest dich, er/sie/es verhielt sich, wir verhielten uns, ihr verhieltet euch, sie verhielten sich",
+      "Perfekt": "hat sich verhalten",
+      "englishMeaning": "to behave",
+      "englishUsage": "Describes how someone acts or reacts in a situation, including physical actions, speech, and emotional responses.",
+      "russianMeaning": "поведаться",
+      "russianUsage": "Описывает, как кто-то действует или реагирует в ситуации, включая физические действия, речь и эмоциональные реакции.",
+      "farsiMeaning": "رفتار کردن",
+      "farsiUsage": "توصیف می‌کند که چگونه کسی در یک موقعیت عمل می‌کند یا واکنش نشان می‌دهد، از جمله اقدامات فیزیکی، گفتار و واکنش‌های عاطفی."
+    },
+    {
+      "type": "verben",
+      "Infinitive": "umgehen",
+      "Präsens": "ich gehe um, du gehst um, er/sie/es geht um, wir gehen um, ihr geht um, sie gehen um",
+      "Präteritum": "ich ging um, du gingst um, er/sie/es ging um, wir gingen um, ihr gingt um, sie gingen um",
+      "Perfekt": "ist umgegangen",
+      "englishMeaning": "to bypass, to avoid, to handle",
+      "englishUsage": "Used for taking a detour, avoiding something, or handling something in a specific way. Can also imply treating someone in a particular manner.",
+      "russianMeaning": "обходить, избегать, обращаться",
+      "russianUsage": "Используется для описания обхода чего-либо, избегания или обращения с чем-либо определенным образом. Может также подразумевать обращение с кем-либо в определенной манере.",
+      "farsiMeaning": "از چیزی دور زدن، اجتناب کردن، با چیزی رفتار کردن",
+      "farsiUsage": "برای توصیف دور زدن چیزی، اجتناب کردن یا رفتار کردن با چیزی به یک روش خاص استفاده می‌شود. همچنین می‌تواند به معنای رفتار کردن با کسی به یک شیوه خاص باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "unzufrieden",
+      "english": "dissatisfied",
+      "russian": "неудовлетворённый",
+      "farsi": "ناراضی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "ärgerlich",
+      "english": "annoying",
+      "russian": "раздражающий",
+      "farsi": "آزاردهنده"
+    },
+    {
+      "type": "verben",
+      "Infinitive": "sich entspannen",
+      "Präsens": "ich entspanne mich, du entspannst dich, er/sie/es entspannt sich, wir entspannen uns, ihr entspannt euch, sie entspannen sich",
+      "Präteritum": "ich entspannte mich, du entspanntest dich, er/sie/es entspannte sich, wir entspannten uns, ihr entspanntet euch, sie entspannten sich",
+      "Perfekt": "hat sich entspannt",
+      "englishMeaning": "to relax",
+      "englishUsage": "Used to describe the act of relieving tension or stress, either physically or mentally.",
+      "russianMeaning": "расслабляться",
+      "russianUsage": "Используется для описания действия по устранению напряжения или стресса, как физического, так и психического.",
+      "farsiMeaning": "آرامش گرفتن",
+      "farsiUsage": "برای توصیف عمل کاهش تنش یا استرس، چه از نظر جسمی و چه روانی استفاده می‌شود."
+    },
+    {
+      "type": "verben",
+      "Infinitive": "anbieten",
+      "Präsens": "ich biete an, du bietest an, er/sie/es bietet an, wir bieten an, ihr bietet an, sie bieten an",
+      "Präteritum": "ich bot an, du botest an, er/sie/es bot an, wir boten an, ihr botet an, sie boten an",
+      "Perfekt": "hat angeboten",
+      "englishMeaning": "to offer",
+      "englishUsage": "Used for presenting something for acceptance or consideration.",
+      "russianMeaning": "предлагать",
+      "russianUsage": "Используется для представления чего-либо для принятия или рассмотрения.",
+      "farsiMeaning": "پیشنهاد دادن",
+      "farsiUsage": "برای ارائه چیزی برای پذیرش یا در نظر گرفتن استفاده می‌شود."
+    }
+  ]
+}

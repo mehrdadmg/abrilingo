@@ -1,0 +1,409 @@
+{
+  "info": {
+    "name": "B1_Fokus_Wörter_u10",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Veränderung, -en",
+      "english": "the change, changes",
+      "russian": "изменение, изменения",
+      "farsi": "تغییر، تغییرات"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "beruflich",
+      "english": "professional, occupational",
+      "russian": "профессиональный, служебный",
+      "farsi": "شغلی، حرفه‌ای"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Selbstständigkeit (Sg.)",
+      "english": "the self-employment, independence (singular)",
+      "russian": "самозанятость, независимость (ед. ч.)",
+      "farsi": "خوداشتغالی، استقلال (مفرد)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "pro",
+      "english": "pro, in favor of",
+      "russian": "за, в пользу",
+      "farsi": "موافق، به نفع"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "kontra",
+      "english": "contra, against",
+      "russian": "против",
+      "farsi": "مخالف، علیه"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "angestellt sein",
+      "english": "to be employed",
+      "russian": "быть нанятым, работать по найму",
+      "farsi": "استخدام بودن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "betreiben",
+      "english": "to operate, to run (a business)",
+      "russian": "управлять, заниматься (бизнесом)",
+      "farsi": "اداره کردن، راه‌اندازی کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "reich",
+      "english": "rich, wealthy",
+      "russian": "богатый",
+      "farsi": "ثروتمند"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Konkurrenz, -en",
+      "english": "the competition, competitors",
+      "russian": "конкуренция, конкуренты",
+      "farsi": "رقابت، رقبا"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Badezimmer, -",
+      "english": "the bathroom, bathrooms",
+      "russian": "ванная комната, ванные комнаты",
+      "farsi": "حمام، حمام‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Unabhängigkeit, -en",
+      "english": "the independence, independences",
+      "russian": "независимость, независимости",
+      "farsi": "استقلال، استقلال‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "auswählen",
+      "english": "to select, to choose",
+      "russian": "выбирать, отбирать",
+      "farsi": "انتخاب کردن، گزینش کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Routine, -n",
+      "english": "the routine, routines",
+      "russian": "рутина, рутины",
+      "farsi": "روال، روال‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Argument, -e",
+      "english": "the argument, arguments",
+      "russian": "аргумент, аргументы",
+      "farsi": "استدلال، استدلال‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Traum, -ä-e",
+      "english": "the dream, dreams",
+      "russian": "мечта, мечты",
+      "farsi": "رؤیا، رؤیاها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Migrationshintergrund (Sg.)",
+      "english": "the migration background (singular)",
+      "russian": "миграционное происхождение (ед. ч.)",
+      "farsi": "پیشینه مهاجرت (مفرد)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Gewerbe, -",
+      "english": "the trade, trades",
+      "russian": "промысел, промыслы",
+      "farsi": "کسب و کار، کسب و کارها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Handwerk, -e",
+      "english": "the craft, crafts",
+      "russian": "ремесло, ремесла",
+      "farsi": "صنعت دستی، صنایع دستی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Transport, -e",
+      "english": "the transport, transports",
+      "russian": "транспорт, транспорты",
+      "farsi": "حمل و نقل، حمل و نقل‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Gastronomie, -n",
+      "english": "the gastronomy, gastronomies",
+      "russian": "гастрономия, гастрономии",
+      "farsi": "صنعت غذا، صنایع غذایی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Unternehmer, -",
+      "english": "the entrepreneur, entrepreneurs (male)",
+      "russian": "предприниматель, предприниматели (мужской род)",
+      "farsi": "کارآفرین، کارآفرینان (مذکر)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Unternehmerin, -nen",
+      "english": "the entrepreneur, entrepreneurs (female)",
+      "russian": "предпринимательница, предпринимательницы (женский род)",
+      "farsi": "کارآفرین، کارآفرینان (مؤنث)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Praxis, Praxen",
+      "english": "the practice, practices",
+      "russian": "практика, практики",
+      "farsi": "مطب، مطب‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Kredit, -e",
+      "english": "the credit, credits",
+      "russian": "кредит, кредиты",
+      "farsi": "وام، وام‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "empfehlen",
+      "english": "to recommend",
+      "russian": "рекомендовать",
+      "farsi": "توصیه کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Seminar, -e",
+      "english": "the seminar, seminars",
+      "russian": "семинар, семинары",
+      "farsi": "سمینار، سمینارها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "beschäftigen",
+      "english": "to employ, to occupy",
+      "russian": "занимать, трудоустраивать",
+      "farsi": "استخدام کردن، مشغول کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Lohn, -ö-e",
+      "english": "the wage, wages",
+      "russian": "зарплата, зарплаты",
+      "farsi": "دستمزد، دستمزدها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Mut (Sg.)",
+      "english": "the courage (singular)",
+      "russian": "мужество, смелость (ед. ч.)",
+      "farsi": "شجاعت (مفرد)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "klappen",
+      "english": "to work out, to succeed",
+      "russian": "получаться, удаваться",
+      "farsi": "موفق شدن، جور شدن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Idee, -n",
+      "english": "the idea, ideas",
+      "russian": "идея, идеи",
+      "farsi": "ایده، ایده‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "überzeugen",
+      "english": "to convince, to persuade",
+      "russian": "убеждать, уговаривать",
+      "farsi": "متقاعد کردن، قانع کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Streit, -e",
+      "english": "the argument, arguments",
+      "russian": "спор, споры",
+      "farsi": "مشاجره، مشاجرات"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Bezahlung, -en",
+      "english": "the payment, payments",
+      "russian": "оплата, оплаты",
+      "farsi": "پرداخت، پرداخت‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Stress (Sg.)",
+      "english": "the stress (singular)",
+      "russian": "стресс (ед. ч.)",
+      "farsi": "استرس (مفرد)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Ärger, -",
+      "english": "the anger, annoyance",
+      "russian": "гнев, раздражение",
+      "farsi": "خشم، ناراحتی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Kündigung, -en",
+      "english": "the termination, resignations",
+      "russian": "увольнение, расторжение договора",
+      "farsi": "اخراج، استعفا"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "schriftlich",
+      "english": "written, in writing",
+      "russian": "письменный, в письменной форме",
+      "farsi": "کتبی، به صورت نوشتاری"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "mündlich",
+      "english": "oral, verbally",
+      "russian": "устный, устно",
+      "farsi": "شفاهی، به صورت گفتاری"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Zeitpunkt, -e",
+      "english": "the point in time, moments",
+      "russian": "момент времени, моменты",
+      "farsi": "زمان، لحظات"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "unterschreiben",
+      "english": "to sign",
+      "russian": "подписывать",
+      "farsi": "امضا کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Bestätigung, -en",
+      "english": "the confirmation, confirmations",
+      "russian": "подтверждение, подтверждения",
+      "farsi": "تأیید، تأییدیه‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Empfänger, -",
+      "english": "the recipient, recipients (male)",
+      "russian": "получатель, получатели (мужской род)",
+      "farsi": "گیرنده، گیرندگان (مذکر)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Empfängerin, -nen",
+      "english": "the recipient, recipients (female)",
+      "russian": "получательница, получательницы (женский род)",
+      "farsi": "گیرنده، گیرندگان (مؤنث)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "melden (sich)",
+      "english": "to report, to register (oneself)",
+      "russian": "сообщать, регистрироваться",
+      "farsi": "گزارش دادن، ثبت‌نام کردن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "betriebsbedingt",
+      "english": "operational, for operational reasons",
+      "russian": "по производственным причинам",
+      "farsi": "به دلایل عملیاتی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Grund, -ü-e",
+      "english": "the reason, reasons",
+      "russian": "причина, причины",
+      "farsi": "دلیل، دلایل"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "entschließen (sich)",
+      "english": "to decide (oneself)",
+      "russian": "решаться",
+      "farsi": "تصمیم گرفتن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "schließen",
+      "english": "to close",
+      "russian": "закрывать",
+      "farsi": "بستن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "zustimmen",
+      "english": "to agree, to approve",
+      "russian": "соглашаться, одобрять",
+      "farsi": "موافقت کردن، تأیید کردن"
+    }
+  ]
+}
