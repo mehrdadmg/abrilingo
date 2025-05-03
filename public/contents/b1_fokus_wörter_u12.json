@@ -30,6 +30,7 @@
       "farsi": "فروشگاه بزرگ، فروشگاه‌های بزرگ"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "aufgeben",
       "Präsens": "ich gebe auf, du gibst auf, er/sie/es gibt auf, wir geben auf, ihr gebt auf, sie geben auf",
@@ -59,6 +60,7 @@
       "farsi": "هفتگی"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "speichern",
       "Präsens": "ich speichere, du speicherst, er/sie/es speichert, wir speichern, ihr speichert, sie speichern",
@@ -128,6 +130,7 @@
       "farsi": "مالیات بر ارزش افزوده (VAT)"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "benötigen",
       "Präsens": "ich benötige, du benötigst, er/sie/es benötigt, wir benötigen, ihr benötigt, sie benötigen",
@@ -165,6 +168,7 @@
       "farsi": "مبلغ، مبالغ / جمع، مجموع‌ها"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "überweisen",
       "Präsens": "ich überweise, du überweist, er/sie/es überweist, wir überweisen, ihr überweist, sie überweisen",
@@ -186,6 +190,7 @@
       "farsi": "حساب، حساب‌ها"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "bezahlen",
       "Präsens": "ich bezahle, du bezahlst, er/sie/es bezahlt, wir bezahlen, ihr bezahlt, sie bezahlen",
@@ -199,6 +204,7 @@
       "farsiUsage": "برای توصیف عمل پرداخت پول استفاده می‌شود."
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "brauchen",
       "Präsens": "ich brauche, du brauchst, er/sie/es braucht, wir brauchen, ihr braucht, sie brauchen",
@@ -236,6 +242,7 @@
       "farsi": "منظم، مرتب"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "zerreißen",
       "Präsens": "ich zerreiße, du zerreißt, er/sie/es zerreißt, wir zerreißen, ihr zerreißt, sie zerreißen",
@@ -249,6 +256,7 @@
       "farsiUsage": "برای توصیف پاره کردن فیزیکی اشیا یا حالت‌های احساسی شدید استفاده می‌شود. همچنین نشان‌دهنده شکست مواد تحت فشار است."
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "zerbrechen",
       "Präsens": "ich zerbreche, du zerbrichst, er/sie/es zerbricht, wir zerbrechen, ihr zerbrecht, sie zerbrechen",
@@ -318,6 +326,7 @@
       "farsi": "گارانتی، گارانتی‌ها"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "umtauschen",
       "Präsens": "ich tausche um, du tauschst um, er/sie/es tauscht um, wir tauschen um, ihr tauscht um, sie tauschen um",
@@ -339,6 +348,7 @@
       "farsi": "مدیریت شکایات"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "sich verhalten",
       "Präsens": "ich verhalte mich, du verhältst dich, er/sie/es verhält sich, wir verhalten uns, ihr verhaltet euch, sie verhalten sich",
@@ -352,6 +362,7 @@
       "farsiUsage": "توصیف می‌کند که چگونه کسی در یک موقعیت عمل می‌کند یا واکنش نشان می‌دهد، از جمله اقدامات فیزیکی، گفتار و واکنش‌های عاطفی."
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "umgehen",
       "Präsens": "ich gehe um, du gehst um, er/sie/es geht um, wir gehen um, ihr geht um, sie gehen um",
@@ -381,6 +392,7 @@
       "farsi": "آزاردهنده"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "sich entspannen",
       "Präsens": "ich entspanne mich, du entspannst dich, er/sie/es entspannt sich, wir entspannen uns, ihr entspannt euch, sie entspannen sich",
@@ -394,6 +406,7 @@
       "farsiUsage": "برای توصیف عمل کاهش تنش یا استرس، چه از نظر جسمی و چه روانی استفاده می‌شود."
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "anbieten",
       "Präsens": "ich biete an, du bietest an, er/sie/es bietet an, wir bieten an, ihr bietet an, sie bieten an",

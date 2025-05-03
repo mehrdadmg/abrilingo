@@ -6,6 +6,7 @@
 
   "content": [
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "einhalten",
       "Präsens": "ich halte ein, du hältst ein, er/sie/es hält ein, wir halten ein, ihr haltet ein, sie halten ein",
@@ -19,6 +20,7 @@
       "farsiUsage": "برای توصیف عمل رعایت قوانین، توافق‌ها یا برنامه‌ها استفاده می‌شود."
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "feststehen",
       "Präsens": "ich stehe fest, du stehst fest, er/sie/es steht fest, wir stehen fest, ihr steht fest, sie stehen fest",
@@ -48,6 +50,7 @@
       "farsi": "با هم، مشترکاً"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "(sich) erinnern",
       "Präsens": "(ich erinnere mich), du erinnerst dich, er/sie/es erinnert sich, wir erinnern uns, ihr erinnert euch, sie erinnern sich",
@@ -77,6 +80,7 @@
       "farsi": "آپارتمان"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "klingeln",
       "Präsens": "ich klingle, du klingelst, er/sie/es klingelt, wir klingeln, ihr klingelt, sie klingeln",
@@ -90,6 +94,7 @@
       "farsiUsage": "برای توصیف عمل زنگ زدن یا ایجاد صدای زنگ استفاده می‌شود."
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "schneien",
       "Präsens": "es schneit",
@@ -127,6 +132,7 @@
       "farsi": "(هشدار (اخطار"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "vereinbaren",
       "Präsens": "ich vereinbare, du vereinbarst, er/sie/es vereinbart, wir vereinbaren, ihr vereinbart, sie vereinbaren",
@@ -140,6 +146,7 @@
       "farsiUsage": "برای توصیف عمل توافق کردن یا ترتیب دادن چیزی با کسی استفاده می‌شود."
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "kosten",
       "Präsens": "ich koste, du kostest, er/sie/es kostet, wir kosten, ihr kostet, sie kosten",
@@ -153,6 +160,7 @@
       "farsiUsage": "برای توصیف عمل این که چیزی دارای یک قیمت یا هزینه خاص است استفاده می‌شود."
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "absagen",
       "Präsens": "ich sage ab, du sagst ab, er/sie/es sagt ab, wir sagen ab, ihr sagt ab, sie sagen ab",
@@ -166,6 +174,7 @@
       "farsiUsage": "برای توصیف عمل لغو کردن یک قرار یا ملاقات استفاده می‌شود."
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "erreichen",
       "Präsens": "ich erreiche, du erreichst, er/sie/es erreicht, wir erreichen, ihr erreicht, sie erreichen",
@@ -179,6 +188,7 @@
       "farsiUsage": "برای توصیف عمل رسیدن یا به دست آوردن چیزی استفاده می‌شود."
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "sich entschuldigen",
       "Präsens": "ich entschuldige mich, du entschuldigst dich, er/sie/es entschuldigt sich, wir entschuldigen uns, ihr entschuldigt euch, sie entschuldigen sich",
@@ -192,6 +202,7 @@
       "farsiUsage": "برای توصیف عمل عذرخواهی کردن برای چیزی استفاده می‌شود."
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "bestellen",
       "Präsens": "ich bestelle, du bestellst, er/sie/es bestellt, wir bestellen, ihr bestellt, sie bestellen",
@@ -213,6 +224,7 @@
       "farsi": "موافق"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "überprüfen",
       "Präsens": "ich überprüfe, du überprüfst, er/sie/es überprüft, wir überprüfen, ihr überprüft, sie überprüfen",
@@ -226,6 +238,7 @@
       "farsiUsage": "برای توصیف عمل بررسی یا تایید چیزی استفاده می‌شود."
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "lösen",
       "Präsens": "ich löse, du löst, er/sie/es löst, wir lösen, ihr löst, sie lösen",
@@ -239,6 +252,7 @@
       "farsiUsage": "برای توصیف عمل حل کردن یک مشکل یا پازل استفاده می‌شود."
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "kontaktieren",
       "Präsens": "ich kontaktiere, du kontaktierst, er/sie/es kontaktiert, wir kontaktieren, ihr kontaktiert, sie kontaktieren",
@@ -268,6 +282,7 @@
       "farsi": "در واقع"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "bedauern",
       "Präsens": "ich bedauere, du bedauerst, er/sie/es bedauert, wir bedauern, ihr bedauert, sie bedauern",
@@ -281,6 +296,7 @@
       "farsiUsage": "برای توصیف عمل پشیمان شدن یا تأسف خوردن از چیزی استفاده می‌شود."
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "beseitigen",
       "Präsens": "ich beseitige, du beseitigst, er/sie/es beseitigt, wir beseitigen, ihr beseitigt, sie beseitigen",
@@ -310,6 +326,7 @@
       "farsi": "صمیمی، صادقانه"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "festhalten",
       "Präsens": "ich halte fest, du hältst fest, er/sie/es hält fest, wir halten fest, ihr haltet fest, sie halten fest",
@@ -363,6 +380,7 @@
       "farsi": "جلسه بحران"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "beschweren (sich)",
       "Präsens": "ich beschwere mich, du beschwerst dich, er/sie/es beschwert sich, wir beschweren uns, ihr beschwert euch, sie beschweren sich",
@@ -392,6 +410,7 @@
       "farsi": "کمبود، نقص"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "verlieren",
       "Präsens": "ich verliere, du verlierst, er/sie/es verliert, wir verlieren, ihr verliert, sie verlieren",
@@ -405,6 +424,7 @@
       "farsiUsage": "برای توصیف عمل از دست دادن چیزی یا کسی استفاده می‌شود."
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "schuld sein",
       "Präsens": "ich bin schuld, du bist schuld, er/sie/es ist schuld, wir sind schuld, ihr seid schuld, sie sind schuld",
@@ -466,6 +486,7 @@
       "farsi": "پی‌آمد"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "beeinflussen",
       "Präsens": "ich beeinflusse, du beeinflusst, er/sie/es beeinflusst, wir beeinflussen, ihr beeinflusst, sie beeinflussen",
@@ -479,6 +500,7 @@
       "farsiUsage": "برای توصیف عمل تأثیرگذاری بر چیزی یا کسی استفاده می‌شود."
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "beauftragen",
       "Präsens": "ich beauftrage, du beauftragst, er/sie/es beauftragt, wir beauftragen, ihr beauftragt, sie beauftragen",

@@ -6,6 +6,7 @@
 
   "content": [
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "aufheben",
       "Präsens": "ich hebe auf, du hebst auf, er/sie/es hebt auf, wir heben auf, ihr hebt auf, sie/Sie heben auf",
@@ -35,6 +36,7 @@
       "farsi": "شما باید رسید را خوب نگه دارید."
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "aufhören",
       "Präsens": "ich höre auf, du hörst auf, er/sie/es hört auf, wir hören auf, ihr hört auf, sie/Sie hören auf",
@@ -72,6 +74,7 @@
       "farsi": "خیابان اصلی اینجا به پایان می‌رسد."
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "aufladen",
       "Präsens": "ich lade auf, du lädst auf, er/sie/es lädt auf, wir laden auf, ihr ladet auf, sie/Sie laden auf",
@@ -93,6 +96,7 @@
       "farsi": "باید تلفنم را شارژ کنم. باتری خالی است."
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "auflösen",
       "Präsens": "ich löse auf, du löst auf, er/sie/es löst auf, wir lösen auf, ihr löst auf, sie/Sie lösen auf",
@@ -138,6 +142,7 @@
       "farsi": "می‌خواهم به این موضوع توجه شما را جلب کنم که ما در نیم ساعت بسته می‌شویم."
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "aufnehmen",
       "Präsens": "ich nehme auf, du nimmst auf, er/sie/es nimmt auf, wir nehmen auf, ihr nehmt auf, sie/Sie nehmen auf",
@@ -183,6 +188,7 @@
       "farsi": "لطفاً ساکت باشید! – من ضبط را شروع می‌کنم."
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "aufpassen",
       "Präsens": "ich passe auf, du passt auf, er/sie/es passt auf, wir passen auf, ihr passt auf, sie/Sie passen auf",
@@ -212,6 +218,7 @@
       "farsi": "باید در خانه بمانم و از بچه‌ها مراقبت کنم."
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "aufräumen",
       "Präsens": "ich räume auf, du räumst auf, er/sie/es räumt auf, wir räumen auf, ihr räumt auf, sie/Sie räumen auf",
@@ -233,6 +240,7 @@
       "farsi": "قبل از تعطیلاتم باید حتماً میز کارم را تمیز کنم."
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "aufregen",
       "Präsens": "ich rege auf, du regst auf, er/sie/es regt auf, wir regen auf, ihr regt auf, sie/Sie regen auf",
@@ -278,6 +286,7 @@
       "farsi": "مشاهده گروه موسیقی بسیار هیجان‌انگیز بود."
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "aufstehen",
       "Präsens": "ich stehe auf, du stehst auf, er/sie/es steht auf, wir stehen auf, ihr steht auf, sie/Sie stehen auf",
@@ -331,6 +340,7 @@
       "farsi": "در حال حاضر شرکت سفارش‌های زیادی دارد."
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "auftreten",
       "Präsens": "ich trete auf, du trittst auf, er/sie/es tritt auf, wir treten auf, ihr treten auf, sie/Sie treten auf",
@@ -368,6 +378,7 @@
       "farsi": "پس از اجرا، موسیقیدانان جشن می‌گیرند."
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "aufwachen",
       "Präsens": "ich wache auf, du wachst auf, er/sie/es wacht auf, wir wachen auf, ihr wacht auf, sie/Sie wachen auf",
@@ -581,6 +592,7 @@
       "farsi": "برای این شغل باید خوب آموزش دیده باشید."
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "ausdrucken",
       "Präsens": "ich drucke aus, du druckst aus, er/sie/es druckt aus, wir drucken aus, ihr druckt aus, sie/Sie drucken aus",
@@ -666,6 +678,7 @@
       "farsi": "تا خروجی فرایبورگ چقدر راه است؟"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "ausfallen",
       "Präsens": "ich falle aus, du fällst aus, er/sie/es fällt aus, wir fallen aus, ihr fallt aus, sie/Sie fallen aus",
@@ -703,6 +716,7 @@
       "farsi": " آخر هفته با دوستانمان به هیدلبرگ سفر می‌کنیم."
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "ausfüllen",
       "Präsens": "ich fülle aus, du füllst aus, er/sie/es füllt aus, wir füllen aus, ihr füllt aus, sie/Sie füllen aus",
@@ -772,6 +786,7 @@
       "farsi": "لطفاً خروجی کجاست؟"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "ausgeben",
       "Präsens": "ich gebe aus, du gibst aus, er/sie/es gibt aus, wir geben aus, ihr gebt aus, sie/Sie geben aus",
@@ -793,6 +808,7 @@
       "farsi": "کارولا çok پول برای سرگرمی‌اش خرج می‌کند."
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "ausgehen",
       "Präsens": "ich gehe aus, du gehst aus, er/sie/es geht aus, wir gehen aus, ihr geht aus, sie/Sie gehen aus",

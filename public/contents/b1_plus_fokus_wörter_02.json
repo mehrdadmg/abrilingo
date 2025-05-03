@@ -62,6 +62,7 @@
       "farsi": "شرکت برق، شرکت‌های برق"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "erwarten",
       "Präsens": "ich erwarte, du erwartest, er/sie/es erwartet, wir erwarten, ihr erwartet, sie erwarten",
@@ -159,6 +160,7 @@
       "farsi": "وضعیت فعلی امور"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "bestätigen",
       "Präsens": "ich bestätige, du bestätigst, er/sie/es bestätigt, wir bestätigen, ihr bestätigt, sie bestätigen",
@@ -228,6 +230,7 @@
       "farsi": "رابطه کاری، روابط کاری"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "ausleihen",
       "Präsens": "ich leihe aus, du leihst aus, er/sie/es leiht aus, wir leihen aus, ihr leiht aus, sie leihen aus",
@@ -257,6 +260,7 @@
       "farsi": "تجربه حرفه‌ای، تجربه‌های حرفه‌ای"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "beschäftigen",
       "Präsens": "ich beschäftige, du beschäftigst, er/sie/es beschäftigt, wir beschäftigen, ihr beschäftigt, sie beschäftigen",
@@ -342,6 +346,7 @@
       "farsi": "زمانی را تعیین کردن"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "verleihen",
       "Präsens": "ich verleihe, du verleihst, er/sie/es verleiht, wir verleihen, ihr verleiht, sie verleihen",
@@ -379,6 +384,7 @@
       "farsi": "آگهی‌های شغلی"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "verstehen",
       "Präsens": "ich verstehe, du verstehst, er/sie/es versteht, wir verstehen, ihr versteht, sie verstehen",
@@ -440,6 +446,7 @@
       "farsi": "محل مأموریت، محل استقرار"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "examinieren",
       "Präsens": "ich examiniere, du examinierst, er/sie/es examiniert, wir examinieren, ihr examiniert, sie examinieren",

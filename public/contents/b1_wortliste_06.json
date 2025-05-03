@@ -46,6 +46,7 @@
       "farsi": "دانشجویان خارجی ابتدا باید در یک دوره زبان آلمانی شرکت کنند."
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "ausmachen",
       "Präsens": "ich mache aus, du machst aus, er/sie/es macht aus, wir machen aus, ihr macht aus, sie/Sie machen aus",
@@ -107,6 +108,7 @@
       "farsi": "معمولاً باید آخر هفته‌ها کار کنم. اما امروز یک استثنا است."
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "ausreichen",
       "Präsens": "ich reiche aus, du reichst aus, er/sie/es reicht aus, wir reichen aus, ihr reicht aus, sie/Sie reichen aus",
@@ -168,6 +170,7 @@
       "farsi": "شوهرم اینجا نیست. آیا باید پیامی به او برسانم؟"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "ausruhen",
       "Präsens": "ich ruhe aus, du ruhst aus, er/sie/es ruht aus, wir ruhen aus, ihr ruht aus, sie/Sie ruhen aus",
@@ -197,6 +200,7 @@
       "farsi": "آیا خوب استراحت کرده‌ای؟"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "ausschließen",
       "Präsens": "ich schließe aus, du schließt aus, er/sie/es schließt aus, wir schließen aus, ihr schließt aus, sie/Sie schließen aus",
@@ -410,6 +414,7 @@
       "farsi": "با چند زبان خارجی، چشم‌اندازهای خوبی در شغل دارید."
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "aussprechen",
       "Präsens": "ich spreche aus, du sprichst aus, er/sie/es spricht aus, wir sprechen aus, ihr sprecht aus, sie/Sie sprechen aus",
@@ -447,6 +452,7 @@
       "farsi": "علی تلفظ خوبی دارد."
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "ausstellen",
       "Präsens": "ich stelle aus, du stellst aus, er/sie/es stellt aus, wir stellen aus, ihr stellt aus, sie/Sie stellen aus",
@@ -500,6 +506,7 @@
       "farsi": "صدور گذرنامه جدید دو هفته طول می‌کشد."
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "sich aussuchen",
       "Präsens": "ich wähle mir aus, du wählst dir aus, er/sie/es wählt sich aus, wir wählen uns aus, ihr wählt euch aus, sie/Sie wählen sich aus",
@@ -521,6 +528,7 @@
       "farsi": "چیزی زیبا برای خودت انتخاب کن! تو را دعوت می‌کنم."
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "auswählen",
       "Präsens": "ich wähle aus, du wählst aus, er/sie/es wählt aus, wir wählen aus, ihr wählt aus, sie/Sie wählen aus",
@@ -582,6 +590,7 @@
       "farsi": "می‌توانم کارت شناسایی شما را ببینم؟"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "ausziehen",
       "Präsens": "ich ziehe aus, du ziehst aus, er/sie/es zieht aus, wir ziehen aus, ihr zieht aus, sie/Sie ziehen aus",

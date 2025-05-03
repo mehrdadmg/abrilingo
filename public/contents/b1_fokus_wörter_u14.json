@@ -1,0 +1,477 @@
+{
+  "info": {
+    "name": "B1_Fokus_Wörter_u14",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Recht, die Rechte",
+      "english": "the right, rights; the law, laws",
+      "russian": "право, права; закон, законы",
+      "farsi": "حق، حقوق؛ قانون، قوانین"
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "verpflichten",
+      "Präsens": "er verpflichtet",
+      "Präteritum": "er verpflichtete",
+      "Perfekt": "hat verpflichtet",
+      "englishMeaning": "to oblige, to obligate, to commit",
+      "englishUsage": "Used to indicate that someone is bound by duty, law, or contract to do something.",
+      "russianMeaning": "обязывать, обязать",
+      "russianUsage": "Используется, когда кто-то обязывает кого-то выполнить что-либо по закону, договору или долгу.",
+      "farsiMeaning": "متعهد کردن، ملزم کردن",
+      "farsiUsage": "برای بیان اینکه کسی توسط قانون یا قرارداد به انجام کاری ملزم شده است، به کار می‌رود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Probezeit, die Probezeiten",
+      "english": "the probationary period, probationary periods",
+      "russian": "испытательный срок, испытательные сроки",
+      "farsi": "دوره آزمایشی، دوره‌های آزمایشی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Anzahl",
+      "english": "the number, quantity",
+      "russian": "количество, число",
+      "farsi": "تعداد، شماره"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Frist, die Fristen",
+      "english": "the deadline, period; deadlines, periods",
+      "russian": "срок, сроки",
+      "farsi": "مهلت، مهلت‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Paragraph, die Paragraphen",
+      "english": "the paragraph (in a legal text), paragraphs",
+      "russian": "параграф, параграфы (в юридических документах)",
+      "farsi": "بند (در متن حقوقی)، بندها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Arbeitsverhältnis, die Arbeitsverhältnisse",
+      "english": "the employment relationship, employment relationships",
+      "russian": "трудовые отношения, трудовые отношения (мн.ч.)",
+      "farsi": "رابطه کاری، روابط کاری"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Vereinbarung, die Vereinbarungen",
+      "english": "the agreement, agreements",
+      "russian": "соглашение, соглашения",
+      "farsi": "توافق، توافق‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "ausführen",
+      "Präsens": "er führt aus",
+      "Präteritum": "er führte aus",
+      "Perfekt": "hat ausgeführt",
+      "englishMeaning": "to carry out, to execute, to perform",
+      "englishUsage": "Used for completing or carrying out tasks, assignments, or orders.",
+      "russianMeaning": "выполнять, исполнять",
+      "russianUsage": "Используется для обозначения выполнения заданий, приказов или поручений.",
+      "farsiMeaning": "اجرا کردن، انجام دادن",
+      "farsiUsage": "برای بیان انجام دستورات، کارها، یا وظایف استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Vorkenntnis, die Vorkenntnisse",
+      "english": "the prior knowledge, prior knowledge (plural: prerequisites, prior experience)",
+      "russian": "предварительное знание, предварительные знания",
+      "farsi": "دانش قبلی، دانش‌های قبلی (پیش‌نیازها)"
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "erkranken",
+      "Präsens": "er erkrankt",
+      "Präteritum": "er erkrankte",
+      "Perfekt": "ist erkrankt",
+      "englishMeaning": "to fall ill, to become sick",
+      "englishUsage": "Used when someone becomes ill or contracts a disease.",
+      "russianMeaning": "заболеть",
+      "russianUsage": "Используется, когда кто-то заболевает или заражается.",
+      "farsiMeaning": "بیمار شدن",
+      "farsiUsage": "هنگامی استفاده می‌شود که کسی بیمار می‌شود یا دچار مریضی می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "unverzüglich",
+      "english": "without delay, immediately",
+      "russian": "незамедлительно, без промедления",
+      "farsi": "فوراً، بدون تأخیر"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Attest, die Atteste",
+      "english": "the certificate (medical), certificates",
+      "russian": "справка (медицинская), справки",
+      "farsi": "گواهی (پزشکی)، گواهی‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "regulär",
+      "english": "regular, normal, according to the rules",
+      "russian": "регулярный, обычный, согласно правилам",
+      "farsi": "معمول، منظم، مطابق با قوانین"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Nebentätigkeit, die Nebentätigkeiten",
+      "english": "the secondary job, secondary jobs; side activity, side activities",
+      "russian": "подработка, подработки; побочная деятельность, побочные деятельности",
+      "farsi": "شغل دوم، شغل‌های دوم؛ فعالیت جانبی، فعالیت‌های جانبی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Zustimmung",
+      "english": "the consent, approval, agreement",
+      "russian": "согласие, одобрение",
+      "farsi": "رضایت، موافقت"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "unbestimmt",
+      "english": "indefinite, undefined, uncertain",
+      "russian": "неопределённый, неясный",
+      "farsi": "نامعین، نامشخص"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "automatisch",
+      "english": "automatic, automatically",
+      "russian": "автоматический, автоматически",
+      "farsi": "خودکار، به طور خودکار"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Rentenbeginn",
+      "english": "the beginning of retirement, commencement of a pension",
+      "russian": "начало пенсии, выход на пенсию",
+      "farsi": "آغاز بازنشستگی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "befristet",
+      "english": "limited (in time), temporary, fixed-term",
+      "russian": "ограниченный (по времени), временный, срочный",
+      "farsi": "موقت، محدود به زمان"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "dagegen",
+      "english": "on the other hand, in contrast, against it",
+      "russian": "напротив, с другой стороны, против этого",
+      "farsi": "در مقابل، برخلاف، علیه آن"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Erwerbstätige, die Erwerbstätigen",
+      "english": "the (male) employed person, (male) employed persons",
+      "russian": "работающий (мужчина), работающие (мужчины)",
+      "farsi": "شاغل (مرد)، شاغلان (مرد)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Erwerbstätige, die Erwerbstätigen",
+      "english": "the (female) employed person, (female) employed persons",
+      "russian": "работающая (женщина), работающие (женщины)",
+      "farsi": "شاغل (زن)، شاغلان (زن)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Arbeitslose, die Arbeitslosen",
+      "english": "the unemployed man, unemployed men",
+      "russian": "безработный, безработные (мужчины)",
+      "farsi": "بیکار (مرد)، بیکاران (مرد)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Arbeitslose, die Arbeitslosen",
+      "english": "the unemployed woman, unemployed women",
+      "russian": "безработная, безработные (женщины)",
+      "farsi": "بیکار (زن)، بیکاران (زن)"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Betriebsrat, die Betriebsräte",
+      "english": "the works council, works councils",
+      "russian": "производственный совет, производственные советы",
+      "farsi": "شورای کارگری، شوراهای کارگری"
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "nerven",
+      "Präsens": "er nervt",
+      "Präteritum": "er nervte",
+      "Perfekt": "hat genervt",
+      "englishMeaning": "to annoy, to irritate",
+      "englishUsage": "Used when someone gets on someone’s nerves or bothers them.",
+      "russianMeaning": "действовать на нервы, раздражать",
+      "russianUsage": "Используется, когда кто-то раздражает или надоедает другому.",
+      "farsiMeaning": "اعصاب کسی را خورد کردن، اذیت کردن",
+      "farsiUsage": "وقتی کسی باعث ناراحتی یا عصبانیت دیگری می‌شود استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "ausfallen",
+      "Präsens": "er fällt aus",
+      "Präteritum": "er fiel aus",
+      "Perfekt": "ist ausgefallen",
+      "englishMeaning": "to fail, to be cancelled, to fall out",
+      "englishUsage": "Used when something does not take place as planned or when something stops working.",
+      "russianMeaning": "отменяться, выпадать, выходить из строя",
+      "russianUsage": "Используется, когда что-то не происходит как планировалось или выходит из строя.",
+      "farsiMeaning": "لغو شدن، از کار افتادن",
+      "farsiUsage": "هنگامی‌که کاری طبق برنامه انجام نشود یا چیزی از کار بیفتد کاربرد دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Arbeitsatmosphäre, die Arbeitsatmosphären",
+      "english": "the working atmosphere, working atmospheres",
+      "russian": "рабочая атмосфера, рабочие атмосферы",
+      "farsi": "جو کاری، جوهای کاری"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Arbeitsbelastung, die Arbeitsbelastungen",
+      "english": "the workload, workloads",
+      "russian": "нагрузка на работе, рабочие нагрузки",
+      "farsi": "بار کاری، بارهای کاری"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Lob, die Lobe",
+      "english": "the praise, praises",
+      "russian": "похвала, похвалы",
+      "farsi": "تحسین، تحسین‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Betriebsrat, die Betriebsräte",
+      "english": "the works council, works councils",
+      "russian": "производственный совет, производственные советы",
+      "farsi": "شورای کارگری، شوراهای کارگری"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Betriebsversammlung, die Betriebsversammlungen",
+      "english": "the staff meeting, staff meetings (company meeting)",
+      "russian": "производственное собрание, производственные собрания",
+      "farsi": "جلسه کارکنان، جلسات کارکنان"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Arbeitsbedingung, die Arbeitsbedingungen",
+      "english": "the working condition, working conditions",
+      "russian": "условие труда, условия труда",
+      "farsi": "شرط کاری، شرایط کاری"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Betriebsratswahl, die Betriebsratswahlen",
+      "english": "the works council election, works council elections",
+      "russian": "выборы производственного совета, выборы производственных советов",
+      "farsi": "انتخابات شورای کارگری، انتخابات شوراهای کارگری"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Eröffnung, die Eröffnungen",
+      "english": "the opening, openings",
+      "russian": "открытие, открытия",
+      "farsi": "افتتاح، افتتاح‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Bericht, die Berichte",
+      "english": "the report, reports",
+      "russian": "отчет, отчеты",
+      "farsi": "گزارش، گزارش‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Zeitarbeit, die Zeitarbeiten",
+      "english": "the temporary work, temporary jobs",
+      "russian": "временная работа, временные работы",
+      "farsi": "کار موقت، کارهای موقت"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Gewerkschaft, die Gewerkschaften",
+      "english": "the trade union, trade unions",
+      "russian": "профсоюз, профсоюзы",
+      "farsi": "اتحادیه کارگری، اتحادیه‌های کارگری"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Gehaltsabrechnung, die Gehaltsabrechnungen",
+      "english": "the payroll, payrolls; pay slip, pay slips",
+      "russian": "расчет заработной платы, расчеты заработной платы",
+      "farsi": "فیش حقوقی، فیش‌های حقوقی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Nettoeinkommen, die Nettoeinkommen",
+      "english": "the net income, net incomes",
+      "russian": "чистый доход, чистые доходы",
+      "farsi": "درآمد خالص، درآمدهای خالص"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Gehaltsabrechnung, die Gehaltsabrechnungen",
+      "english": "the payroll, payrolls; pay slip, pay slips",
+      "russian": "расчет заработной платы, расчеты заработной платы",
+      "farsi": "فیش حقوقی، فیش‌های حقوقی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Steuerklasse, die Steuerklassen",
+      "english": "the tax class, tax classes",
+      "russian": "класс налогообложения, классы налогообложения",
+      "farsi": "طبقه مالیاتی، طبقات مالیاتی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "das Bruttoeinkommen, die Bruttoeinkommen",
+      "english": "the gross income, gross incomes",
+      "russian": "валовой доход, валовые доходы",
+      "farsi": "درآمد ناخالص، درآمدهای ناخالص"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Bezug, die Bezüge",
+      "english": "the allowance, allowances; (salary) payment, payments; reference, references",
+      "russian": "пособие, пособия; выплата, выплаты; ссылка, ссылки",
+      "farsi": "دریافت، دریافت‌ها؛ (حقوق) پرداخت، پرداخت‌ها؛ ارجاع، ارجاعات"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Abzug, die Abzüge",
+      "english": "the deduction, deductions",
+      "russian": "вычет, вычеты",
+      "farsi": "کسری، کسری‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Steuer, die Steuern",
+      "english": "the tax, taxes",
+      "russian": "налог, налоги",
+      "farsi": "مالیات، مالیات‌ها"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Sozialabgabe, die Sozialabgaben",
+      "english": "the social security contribution, social security contributions",
+      "russian": "социальный взнос, социальные взносы",
+      "farsi": "حق بیمه اجتماعی، حق بیمه‌های اجتماعی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Betrag, die Beträge",
+      "english": "the amount, amounts; the sum, sums",
+      "russian": "сумма, суммы",
+      "farsi": "مبلغ، مبالغ"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Krankenkasse, die Krankenkassen",
+      "english": "the health insurance fund, health insurance funds",
+      "russian": "медицинская страховая касса, медицинские страховые кассы",
+      "farsi": "صندوق بیمه درمانی، صندوق‌های بیمه درمانی"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Vermögenswirksamen Leistungen",
+      "english": "the capital-forming benefits; asset-building payments",
+      "russian": "накопительные выплаты, выплаты на формирование капитала",
+      "farsi": "مزایای سرمایه‌گذاری، پرداخت‌های دارایی‌ساز"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "der Sparbetrag, die Sparbeträge",
+      "english": "the saving amount, saving amounts",
+      "russian": "сумма сбережений, суммы сбережений",
+      "farsi": "مبلغ پس‌انداز، مبالغ پس‌انداز"
+    },
+    {
+      "isSelected": false,
+      "type": "verben",
+      "Infinitive": "sparen",
+      "Präsens": "er spart",
+      "Präteritum": "er sparte",
+      "Perfekt": "hat gespart",
+      "englishMeaning": "to save (money, resources)",
+      "englishUsage": "Used when someone puts money aside or economizes resources.",
+      "russianMeaning": "экономить, копить, сберегать",
+      "russianUsage": "Используется, когда кто-то откладывает деньги или экономит ресурсы.",
+      "farsiMeaning": "پس‌انداز کردن، صرفه‌جویی کردن",
+      "farsiUsage": "وقتی کسی پول یا منابع خود را پس‌انداز یا ذخیره می‌کند، استفاده می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "die Zulage, die Zulagen",
+      "english": "the allowance, allowances; the bonus, bonuses",
+      "russian": "доплата, доплаты; надбавка, надбавки",
+      "farsi": "کمک‌هزینه، کمک‌هزینه‌ها؛ پاداش، پاداش‌ها"
+    }
+  ]
+}

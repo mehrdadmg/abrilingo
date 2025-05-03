@@ -1,0 +1,1777 @@
+{
+  "info": {
+    "name": "B1_Fokus_u14",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Beschäftigte haben das Recht auf Urlaub.",
+      "english": "Employees have the right to vacation.",
+      "russian": "Сотрудники имеют право на отпуск.",
+      "farsi": "کارکنان حق مرخصی دارند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In manchen Berufen ist man verpflichtet, …",
+      "english": "In some professions, one is obliged to ...",
+      "russian": "В некоторых профессиях человек обязан ...",
+      "farsi": "در بعضی مشاغل افراد موظف هستند که ..."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Arbeitgeber muss …",
+      "english": "The employer must ...",
+      "russian": "Работодатель должен ...",
+      "farsi": "کارفرما باید ..."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mitarbeitende können …",
+      "english": "Employees can ...",
+      "russian": "Сотрудники могут ...",
+      "farsi": "کارکنان می‌توانند ..."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das ist aber ein Zufall.",
+      "english": "But that's a coincidence.",
+      "russian": "Но это совпадение.",
+      "farsi": "اما این یک تصادف است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Du kaufst auch hier ein?",
+      "english": "You shop here too?",
+      "russian": "Ты тоже здесь покупаешь?",
+      "farsi": "تو هم اینجا خرید می‌کنی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, die Lebensmittel sind hier so günstig.",
+      "english": "Yes, the groceries are so cheap here.",
+      "russian": "Да, продукты здесь такие дешевые.",
+      "farsi": "بله، مواد غذایی اینجا خیلی ارزان هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Machst du noch deine Umschulung",
+      "english": "Are you still doing your retraining?",
+      "russian": "Ты все еще проходишь переподготовку?",
+      "farsi": "هنوز در حال گذراندن دوره آموزش مجدد هستی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nein, ich habe sie vor circa sechs Monaten abgeschlossen.",
+      "english": "No, I completed it about six months ago.",
+      "russian": "Нет, я закончил её примерно шесть месяцев назад.",
+      "farsi": "نه، من آن را حدود شش ماه پیش به پایان رساندم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Danach habe ich eine Stelle mit Zeitvertrag bei Braun Objektmanagement als Haustechniker gefunden.",
+      "english": "After that, I found a temporary position at Braun Objektmanagement as a building technician.",
+      "russian": "После этого я нашёл работу по срочному контракту в Braun Objektmanagement в качестве техника по обслуживанию зданий.",
+      "farsi": "بعد از آن یک شغل با قرارداد موقت در شرکت Braun Objektmanagement به عنوان تکنسین ساختمان پیدا کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das ist ja toll.",
+      "english": "That's great.",
+      "russian": "Это здорово.",
+      "farsi": "این که عالی است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, der Zeitvertrag endet am Ende des Monats.",
+      "english": "Yes, the temporary contract ends at the end of the month.",
+      "russian": "Да, срочный контракт заканчивается в конце месяца.",
+      "farsi": "بله، قرارداد موقت در پایان ماه به پایان می‌رسد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber gestern habe ich von der Personalabteilung einen unbefristeten Vertrag bekommen.",
+      "english": "But yesterday I received a permanent contract from the HR department.",
+      "russian": "Но вчера я получил бессрочный контракт от отдела кадров.",
+      "farsi": "اما دیروز از بخش منابع انسانی یک قرارداد دائمی دریافت کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ach prima. Herzlichen Glückwunsch!",
+      "english": "Oh great. Congratulations!",
+      "russian": "О, отлично. Поздравляю!",
+      "farsi": "آه، عالی است. تبریک می‌گویم!"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Danke schön.",
+      "english": "Thank you very much.",
+      "russian": "Большое спасибо.",
+      "farsi": "خیلی ممنون."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe mich natürlich riesig gefreut.",
+      "english": "Of course, I was extremely happy.",
+      "russian": "Конечно, я был очень рад.",
+      "farsi": "البته خیلی خوشحال شدم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber ich muss den Vertrag noch einmal in Ruhe durchlesen.",
+      "english": "But I have to read through the contract again carefully.",
+      "russian": "Но мне нужно ещё раз внимательно прочитать контракт.",
+      "farsi": "اما باید قرارداد را یک بار دیگر با دقت بخوانم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er ist ziemlich lang.",
+      "english": "It is quite long.",
+      "russian": "Он довольно длинный.",
+      "farsi": "آن نسبتاً طولانی است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Als ich meinen ersten Arbeitsvertrag bekommen habe, habe ich vor allem geschaut, wie lange meine Probezeit ist, wie viel Geld ich im Monat bekomme und wie viele Stunden ich in der Woche arbeiten muss.",
+      "english": "When I received my first employment contract, I mainly looked at how long my probation period was, how much money I would get per month, and how many hours I had to work per week.",
+      "russian": "Когда я получил свой первый трудовой договор, я в первую очередь посмотрел, какова продолжительность моего испытательного срока, сколько денег я буду получать в месяц и сколько часов в неделю мне нужно работать.",
+      "farsi": "وقتی اولین قرارداد کاری‌ام را گرفتم، بیشتر به این نگاه کردم که دوره آزمایشی‌ام چقدر طول می‌کشد، ماهانه چقدر حقوق می‌گیرم و چند ساعت در هفته باید کار کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das alles habe ich auch gleich überprüft.",
+      "english": "I checked all of that right away as well.",
+      "russian": "Я тоже сразу всё это проверил.",
+      "farsi": "من هم همه این موارد را بلافاصله بررسی کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und natürlich auch die Anzahl der Urlaubstage.",
+      "english": "And of course, also the number of vacation days.",
+      "russian": "И, конечно, количество дней отпуска.",
+      "farsi": "و البته تعداد روزهای مرخصی را هم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Deine Aufgaben werden in deinem Arbeitsvertrag bestimmt auch genau beschrieben.",
+      "english": "Your duties are certainly described in detail in your employment contract as well.",
+      "russian": "Твои обязанности, наверняка, тоже подробно описаны в твоём трудовом договоре.",
+      "farsi": "وظایف تو هم مطمئناً به طور دقیق در قرارداد کاری‌ات توضیح داده شده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Richtig, ich muss ja die Anlagen in verschiedenen Gebäuden warten und Störungen beheben.",
+      "english": "That's right, I have to maintain the systems in different buildings and fix malfunctions.",
+      "russian": "Верно, я должен обслуживать оборудование в разных зданиях и устранять неисправности.",
+      "farsi": "درست است، من باید تأسیسات را در ساختمان‌های مختلف نگهداری کنم و مشکلات را برطرف کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Darüber steht ganz viel im Vertrag.",
+      "english": "There is a lot about that in the contract.",
+      "russian": "Об этом многое написано в контракте.",
+      "farsi": "در مورد این موضوعات در قرارداد خیلی چیزها نوشته شده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Für welche Firma wird Herr Radebe arbeiten?",
+      "english": "For which company will Mr. Radebe work?",
+      "russian": "В какой компании будет работать господин Радебе?",
+      "farsi": "آقای رادبه برای کدام شرکت کار خواهد کرد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wann beginnt der Arbeitsvertrag?",
+      "english": "When does the employment contract begin?",
+      "russian": "Когда начинается трудовой договор?",
+      "farsi": "قرارداد کاری چه زمانی شروع می‌شود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie viel wird Herr Radebe verdienen?",
+      "english": "How much will Mr. Radebe earn?",
+      "russian": "Сколько будет зарабатывать господин Радебе?",
+      "farsi": "آقای رادبه چقدر درآمد خواهد داشت؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie viele Stunden wird er pro Woche arbeiten?",
+      "english": "How many hours will he work per week?",
+      "russian": "Сколько часов в неделю он будет работать?",
+      "farsi": "او چند ساعت در هفته کار خواهد کرد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie viel Urlaub wird er jährlich bekommen?",
+      "english": "How much vacation will he get annually?",
+      "russian": "Сколько дней отпуска в год он будет получать?",
+      "farsi": "او سالانه چقدر مرخصی خواهد داشت؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "§1 Beginn des Arbeitsverhältnisses: Das Arbeitsverhältnis beginnt am 01.04.2025.",
+      "english": "§1 Start of the employment relationship: The employment relationship begins on 01.04.2025.",
+      "russian": "§1 Начало трудовых отношений: Трудовые отношения начинаются 01.04.2025.",
+      "farsi": "§1 شروع رابطه کاری: رابطه کاری از تاریخ ۰۱.۰۴.۲۰۲۵ آغاز می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es endet ohne besondere Vereinbarung mit Erreichen der gesetzlichen Altersgrenze.",
+      "english": "It ends without special agreement upon reaching the statutory retirement age.",
+      "russian": "Оно заканчивается без специального соглашения по достижении установленного законом пенсионного возраста.",
+      "farsi": "این رابطه بدون توافق خاصی با رسیدن به سن بازنشستگی قانونی پایان می‌یابد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "§2 Tätigkeit: Der Arbeitnehmer wird als Haustechniker eingestellt und mit folgenden Arbeiten beschäftigt: Überwachung, Wartung und Instandsetzung der Gebäudetechnik.",
+      "english": "§2 Duties: The employee is hired as a building technician and is assigned the following tasks: monitoring, maintenance, and repair of building technology.",
+      "russian": "§2 Должностные обязанности: Работник принимается на работу в качестве техника по обслуживанию зданий и занимается следующими работами: контроль, обслуживание и ремонт инженерных систем здания.",
+      "farsi": "§2 وظایف: کارمند به عنوان تکنسین ساختمان استخدام می‌شود و با وظایف زیر مشغول خواهد بود: نظارت، نگهداری و تعمیر تأسیسات ساختمان."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "§3 Arbeitsvergütung: Der Arbeitnehmer enthält eine monatliche Bruttovergütung von 2.500,00 €.",
+      "english": "§3 Remuneration: The employee receives a monthly gross salary of €2,500.00.",
+      "russian": "§3 Оплата труда: Работник получает ежемесячную брутто-зарплату в размере 2 500,00 евро.",
+      "farsi": "§3 دستمزد: کارمند ماهانه حقوق ناخالص ۲۵۰۰ یورو دریافت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er erhält mit dem Novembergehalt auch ein 13. Gehalt (Weihnachtsgeld).",
+      "english": "He also receives a 13th salary (Christmas bonus) with the November salary.",
+      "russian": "Он также получает 13-ю зарплату (рождественский бонус) вместе с зарплатой за ноябрь.",
+      "farsi": "او همچنین با حقوق ماه نوامبر یک حقوق سیزدهم (پاداش کریسمس) دریافت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "§4 Arbeitszeit: Die regelmäßige wöchentliche Arbeitszeit beträgt 40 Stunden.",
+      "english": "§4 Working hours: The regular weekly working time is 40 hours.",
+      "russian": "§4 Рабочее время: Обычная еженедельная продолжительность работы составляет 40 часов.",
+      "farsi": "§4 ساعات کاری: ساعات کاری منظم هفتگی ۴۰ ساعت است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Beginn und Ende der täglichen Arbeitszeit richten sich nach der betrieblichen Einteilung.",
+      "english": "The start and end of the daily working hours are determined by the company schedule.",
+      "russian": "Начало и конец рабочего дня определяются производственным расписанием.",
+      "farsi": "شروع و پایان ساعات کاری روزانه بر اساس تقسیم‌بندی شرکت تعیین می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Arbeitnehmer ist jedoch verpflichtet, betriebsnotwendige Überstunden zu leisten.",
+      "english": "However, the employee is obliged to work necessary overtime required by the company.",
+      "russian": "Однако работник обязан выполнять необходимые для предприятия сверхурочные работы.",
+      "farsi": "با این حال، کارمند موظف است اضافه‌کاری‌های ضروری شرکت را انجام دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "§5 Urlaub: Der Jahresurlaub beträgt 30 Arbeitstage.",
+      "english": "§5 Vacation: The annual vacation is 30 working days.",
+      "russian": "§5 Отпуск: Ежегодный отпуск составляет 30 рабочих дней.",
+      "farsi": "§5 مرخصی: مرخصی سالانه ۳۰ روز کاری است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Den Zeitraum für den Urlaub darf der Arbeitnehmer nicht frei wählen, sondern muss ihn mit seinem Vorgesetzten abstimmen.",
+      "english": "The employee may not freely choose the vacation period, but must coordinate it with his supervisor.",
+      "russian": "Работник не может самостоятельно выбирать период отпуска, а должен согласовывать его со своим руководителем.",
+      "farsi": "کارمند نمی‌تواند دوره مرخصی را آزادانه انتخاب کند، بلکه باید آن را با سرپرست خود هماهنگ کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "§6 Krankheit: Ist der Arbeitnehmer erkrankt, muss er das dem Arbeitgeber unverzüglich mitteilen.",
+      "english": "§6 Illness: If the employee is ill, they must inform the employer immediately.",
+      "russian": "§6 Болезнь: Если работник заболел, он должен немедленно сообщить об этом работодателю.",
+      "farsi": "§6 بیماری: اگر کارمند بیمار شود، باید فوراً این موضوع را به کارفرما اطلاع دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dauert die Krankheit länger als drei Tage, muss er spätestens am dritten Tag ein ärztliches Attest vorlegen.",
+      "english": "If the illness lasts longer than three days, they must submit a medical certificate no later than the third day.",
+      "russian": "Если болезнь длится более трёх дней, работник должен предоставить медицинскую справку не позднее третьего дня.",
+      "farsi": "اگر بیماری بیش از سه روز طول بکشد، کارمند باید حداکثر تا روز سوم گواهی پزشکی ارائه دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bei Krankheit erhält der Arbeitnehmer sechs Wochen lang sein reguläres Gehalt weiter.",
+      "english": "In case of illness, the employee continues to receive their regular salary for six weeks.",
+      "russian": "В случае болезни работник продолжает получать свою обычную зарплату в течение шести недель.",
+      "farsi": "در صورت بیماری، کارمند به مدت شش هفته حقوق معمول خود را دریافت می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "§7 Nebentätigkeit: Jede Nebentätigkeit, gleich ob sie entgeltlich oder unentgeltlich ausgeübt wird, bedarf der vorherigen Zustimmung des Arbeitgebers.",
+      "english": "§7 Secondary employment: Any secondary employment, whether paid or unpaid, requires the prior approval of the employer.",
+      "russian": "§7 Подработка: Любая подработка, независимо от того, оплачивается она или нет, требует предварительного согласия работодателя.",
+      "farsi": "§7 شغل دوم: هر نوع شغل دوم، چه با حقوق و چه بدون حقوق، نیاز به تأیید قبلی کارفرما دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "§8 Kündigung: Das Arbeitsverhältnis wird auf unbestimmte Zeit geschlossen.",
+      "english": "§8 Termination: The employment relationship is concluded for an indefinite period.",
+      "russian": "§8 Расторжение: Трудовые отношения заключаются на неопределённый срок.",
+      "farsi": "§8 فسخ قرارداد: رابطه کاری برای مدت نامحدود منعقد می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die ersten sechs Monate gelten als Probezeit.",
+      "english": "The first six months are considered a probationary period.",
+      "russian": "Первые шесть месяцев считаются испытательным сроком.",
+      "farsi": "شش ماه اول به عنوان دوره آزمایشی محسوب می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Während der Probezeit kann das Arbeitsverhältnis mit einer Frist von zwei Wochen gekündigt werden.",
+      "english": "During the probationary period, the employment relationship can be terminated with two weeks' notice.",
+      "russian": "В течение испытательного срока трудовые отношения могут быть расторгнуты с двухнедельным уведомлением.",
+      "farsi": "در طول دوره آزمایشی، رابطه کاری می‌تواند با مهلت دو هفته فسخ شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nach Ablauf der Probezeit gelten die gesetzlichen Kündigungsfristen.",
+      "english": "After the probationary period, the statutory notice periods apply.",
+      "russian": "По окончании испытательного срока применяются установленные законом сроки уведомления об увольнении.",
+      "farsi": "پس از پایان دوره آزمایشی، مهلت‌های قانونی فسخ قرارداد اعمال می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Kündigung bedarf der Schriftform.",
+      "english": "The termination must be in writing.",
+      "russian": "Увольнение должно быть оформлено в письменной форме.",
+      "farsi": "فسخ قرارداد باید به صورت کتبی باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Welche Arbeitsverträge gibt es?",
+      "english": "What types of employment contracts are there?",
+      "russian": "Какие существуют трудовые договоры?",
+      "farsi": "چه انواع قراردادهای کاری وجود دارد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die meisten Arbeitsverträge sind unbefristete Verträge.",
+      "english": "Most employment contracts are permanent contracts.",
+      "russian": "Большинство трудовых договоров - это бессрочные контракты.",
+      "farsi": "بیشتر قراردادهای کاری، قراردادهای دائمی هستند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das bedeutet, dass man so lange bei der Firma arbeiten kann, wie beide Seiten damit einverstanden sind.",
+      "english": "This means that you can work at the company as long as both parties agree.",
+      "russian": "Это означает, что человек может работать в компании столько, сколько обе стороны согласны.",
+      "farsi": "این یعنی تا زمانی که هر دو طرف موافق باشند، می‌توانید در شرکت کار کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Meistens endet das Arbeitsverhältnis aber automatisch bei Rentenbeginn.",
+      "english": "Usually, however, the employment relationship ends automatically when retirement begins.",
+      "russian": "Однако чаще всего трудовые отношения автоматически заканчиваются с выходом на пенсию.",
+      "farsi": "اما معمولاً رابطه کاری به طور خودکار با شروع بازنشستگی پایان می‌یابد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es gibt aber auch Arbeitsverträge, die befristet sind.",
+      "english": "But there are also employment contracts that are fixed-term.",
+      "russian": "Но есть и срочные трудовые договоры.",
+      "farsi": "اما قراردادهای کاری مدت‌دار هم وجود دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das bedeutet, dass man nur für eine bestimmte Zeit bei der Firma arbeitet.",
+      "english": "This means that you only work at the company for a certain period of time.",
+      "russian": "Это означает, что человек работает в компании только определённое время.",
+      "farsi": "این یعنی فقط برای مدت مشخصی در شرکت کار می‌کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nach dieser Zeit endet das Arbeitsverhältnis automatisch, wenn es vorher nicht verlängert wird.",
+      "english": "After this period, the employment relationship ends automatically if it is not extended beforehand.",
+      "russian": "По истечении этого времени трудовые отношения автоматически прекращаются, если не были продлены заранее.",
+      "farsi": "پس از این مدت، رابطه کاری به طور خودکار پایان می‌یابد، مگر اینکه قبلاً تمدید شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Arbeitsverträge können bis zu zwei Jahre befristet werden.",
+      "english": "Employment contracts can be limited to up to two years.",
+      "russian": "Трудовые договоры могут заключаться на срок до двух лет.",
+      "farsi": "قراردادهای کاری می‌توانند تا دو سال مدت‌دار باشند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es gibt noch Teilzeitarbeitsverträge, Arbeitsverträge für Auszubildende, Verträge zur Probearbeitszeit und Verträge für Praktikanten.",
+      "english": "There are also part-time employment contracts, contracts for trainees, contracts for probationary periods, and contracts for interns.",
+      "russian": "Существуют также трудовые договоры на неполный рабочий день, договоры для учеников, договоры на испытательный срок и договоры для стажёров.",
+      "farsi": "قراردادهای کاری پاره‌وقت، قراردادهای کارآموزی، قراردادهای دوره آزمایشی و قراردادهای کارآموزی برای کارآموزان نیز وجود دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nach meiner dreijährigen Ausbildung zur Restaurantfachfrau habe ich eine Stelle als Servicemitarbeiterin in einem Restaurant am Flughafen gefunden.",
+      "english": "After my three-year training as a restaurant specialist, I found a job as a service employee in a restaurant at the airport.",
+      "russian": "После трёхлетнего обучения на специалиста ресторанного дела я нашла работу сотрудницей обслуживания в ресторане в аэропорту.",
+      "farsi": "پس از سه سال آموزش به عنوان کارشناس رستوران، یک شغل به عنوان کارمند خدماتی در یک رستوران فرودگاه پیدا کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In den ersten drei Jahren habe ich in Vollzeit im Schichtbetrieb gearbeitet, natürlich auch an Wochenenden.",
+      "english": "In the first three years, I worked full-time in shifts, of course also on weekends.",
+      "russian": "В первые три года я работала полный рабочий день по сменам, конечно, и по выходным.",
+      "farsi": "در سه سال اول به صورت تمام‌وقت و شیفتی کار کردم، البته در تعطیلات آخر هفته هم کار می‌کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber nach der Geburt meiner Tochter konnte ich nicht mehr so viel arbeiten.",
+      "english": "But after the birth of my daughter, I could no longer work as much.",
+      "russian": "Но после рождения дочери я уже не могла так много работать.",
+      "farsi": "اما بعد از تولد دخترم دیگر نتوانستم به همان اندازه کار کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Deshalb habe ich einen Antrag bei meinem Arbeitgeber auf Teilzeit gestellt.",
+      "english": "That is why I submitted a request to my employer for part-time work.",
+      "russian": "Поэтому я подала заявление своему работодателю на неполный рабочий день.",
+      "farsi": "به همین دلیل از کارفرمایم درخواست کار پاره‌وقت کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich hatte Glück, denn mein Chef war einverstanden.",
+      "english": "I was lucky because my boss agreed.",
+      "russian": "Мне повезло, потому что мой начальник согласился.",
+      "farsi": "من خوش‌شانس بودم چون رئیسم موافقت کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe dann einen neuen Arbeitsvertrag bekommen.",
+      "english": "Then I got a new employment contract.",
+      "russian": "Потом я получила новый трудовой договор.",
+      "farsi": "سپس یک قرارداد کاری جدید گرفتم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Jetzt arbeite ich 25 Stunden pro Woche – von montags bis freitags immer von 9.00 bis 14.00 Uhr.",
+      "english": "Now I work 25 hours per week – from Monday to Friday always from 9:00 to 14:00.",
+      "russian": "Сейчас я работаю 25 часов в неделю - с понедельника по пятницу всегда с 9:00 до 14:00.",
+      "farsi": "اکنون من هفته‌ای ۲۵ ساعت کار می‌کنم – از دوشنبه تا جمعه همیشه از ساعت ۹ تا ۱۴."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "So kann ich meine Tochter morgens in die Kita bringen und sie nachmittags wieder abholen.",
+      "english": "This way I can take my daughter to daycare in the morning and pick her up again in the afternoon.",
+      "russian": "Так я могу утром отводить дочь в детский сад и забирать её после обеда.",
+      "farsi": "به این ترتیب می‌توانم صبح‌ها دخترم را به مهدکودک ببرم و بعدازظهرها او را دوباره بیاورم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn meine Tochter älter ist, möchte ich aber wieder Vollzeit arbeiten.",
+      "english": "But when my daughter is older, I would like to work full-time again.",
+      "russian": "Но когда моя дочь станет старше, я снова хочу работать полный рабочий день.",
+      "farsi": "اما وقتی دخترم بزرگ‌تر شد، دوباره می‌خواهم تمام‌وقت کار کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe keine abgeschlossene Ausbildung.",
+      "english": "I do not have a completed vocational training.",
+      "russian": "У меня нет законченного профессионального образования.",
+      "farsi": "من مدرک تحصیلی کامل ندارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nach meinem Deutschkurs habe ich bei einer Zeitarbeitsfirma in Hannover einen Job bekommen",
+      "english": "After my German course, I got a job at a temporary employment agency in Hanover.",
+      "russian": "После курса немецкого языка я получила работу в агентстве временной занятости в Ганновере.",
+      "farsi": "بعد از دوره زبان آلمانی‌ام، در یک شرکت کاریابی موقت در هانوفر کار پیدا کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe drei Jahre lang in verschiedenen Firmen als Produktionshelfer gearbeitet.",
+      "english": "I worked as a production assistant in various companies for three years.",
+      "russian": "Я три года работал помощником на производстве в разных компаниях.",
+      "farsi": "من به مدت سه سال در شرکت‌های مختلف به عنوان کمک‌کار تولید کار کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das letzte Unternehmen, in dem ich für die Zeitarbeitsfirma gearbeitet habe, hat mir dann einen zweijährigen befristeten Vertrag mit einem höheren Gehalt angeboten.",
+      "english": "The last company where I worked for the temporary employment agency then offered me a two-year fixed-term contract with a higher salary.",
+      "russian": "Последняя компания, в которой я работал через агентство временной занятости, предложила мне двухлетний срочный контракт с более высокой зарплатой.",
+      "farsi": "آخرین شرکتی که از طریق شرکت کاریابی موقت در آن کار می‌کردم، به من یک قرارداد دوساله با حقوق بالاتر پیشنهاد داد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Da das Arbeitsklima in dem Unternehmen sehr gut ist, habe ich bei der Zeitarbeitsfirma gekündigt.",
+      "english": "Since the working atmosphere in the company is very good, I resigned from the temporary employment agency.",
+      "russian": "Поскольку рабочая атмосфера в компании очень хорошая, я уволился из агентства временной занятости.",
+      "farsi": "از آنجا که فضای کاری در این شرکت بسیار خوب است، از شرکت کاریابی موقت استعفا دادم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich arbeite jetzt bei einem Autozulieferer in der Montage im Dreischichtbetrieb.",
+      "english": "I now work at an automotive supplier in assembly in a three-shift system.",
+      "russian": "Сейчас я работаю на автомобильном поставщике на сборке в три смены.",
+      "farsi": "اکنون در یک شرکت قطعه‌سازی خودرو در بخش مونتاژ به صورت سه شیفت کار می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich hoffe natürlich, dass ich in zwei Jahren einen unbefristeten Vertrag bekommen werde.",
+      "english": "Of course, I hope that in two years I will get a permanent contract.",
+      "russian": "Я, конечно, надеюсь, что через два года получу постоянный контракт.",
+      "farsi": "البته امیدوارم که تا دو سال دیگر یک قرارداد دائمی بگیرم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Auf den Philippinen habe ich eine Ausbildung zur Altenpflegerin gemacht.",
+      "english": "In the Philippines, I trained as a geriatric nurse.",
+      "russian": "На Филиппинах я получила образование по уходу за пожилыми людьми.",
+      "farsi": "در فیلیپین من دوره آموزش پرستاری سالمندان را گذراندم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nachdem meine Abschlüsse in Deutschland anerkannt wurden und ich auch den Deutschkurs bestanden hatte, habe ich zuerst einen Probearbeitsvertrag in einem Altenheim in der Nähe von Dortmund bekommen.",
+      "english": "After my qualifications were recognized in Germany and I also passed the German course, I first got a trial employment contract at a nursing home near Dortmund.",
+      "russian": "После того как мои дипломы были признаны в Германии и я также сдала курс немецкого языка, я сначала получила пробный трудовой договор в доме престарелых недалеко от Дортмунда.",
+      "farsi": "پس از اینکه مدارکم در آلمان تأیید شد و همچنین دوره زبان آلمانی را گذراندم، ابتدا یک قرارداد کاری آزمایشی در یک خانه سالمندان نزدیک دورتموند گرفتم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Vertrag war auf neun Monate befristet.",
+      "english": "The contract was limited to nine months.",
+      "russian": "Контракт был ограничен девятью месяцами.",
+      "farsi": "قرارداد به مدت نه ماه محدود بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Weil meine Chefin mit meiner Arbeit zufrieden war, hat das Altenheim mir aber nach den neun Monaten einen unbefristeten Vertrag angeboten.",
+      "english": "Because my boss was satisfied with my work, the nursing home offered me a permanent contract after the nine months.",
+      "russian": "Поскольку моя начальница была довольна моей работой, дом престарелых предложил мне постоянный контракт после девяти месяцев.",
+      "farsi": "چون رئیس من از کارم راضی بود، خانه سالمندان پس از نه ماه به من یک قرارداد دائمی پیشنهاد داد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wir haben flexible Arbeitszeitmodelle, aber als Altenpflegerin muss ich natürlich auch Nacht-, Sonntags- und Feiertagsdienste machen.",
+      "english": "We have flexible working time models, but as a geriatric nurse I of course also have to work night, Sunday, and holiday shifts.",
+      "russian": "У нас есть гибкие модели рабочего времени, но как сиделка за пожилыми я, конечно, должна работать и в ночные смены, и по воскресеньям, и в праздничные дни.",
+      "farsi": "ما مدل‌های کاری انعطاف‌پذیر داریم، اما به عنوان پرستار سالمندان باید شب‌ها، یکشنبه‌ها و تعطیلات هم کار کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Immer mehr Erwerbstätige wollen in Teilzeit arbeiten",
+      "english": "More and more employed people want to work part-time.",
+      "russian": "Всё больше работающих хотят работать неполный рабочий день.",
+      "farsi": "تعداد بیشتری از شاغلان می‌خواهند به صورت پاره‌وقت کار کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Immer mehr Menschen in Deutschland wollen in Teilzeit arbeiten.",
+      "english": "More and more people in Germany want to work part-time.",
+      "russian": "Всё больше людей в Германии хотят работать неполный рабочий день.",
+      "farsi": "تعداد بیشتری از مردم در آلمان می‌خواهند پاره‌وقت کار کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "So wollen z.B. viele erwerbstätige Elternpaare in Teilzeit arbeiten, damit sie Beruf und Familie besser vereinbaren können.",
+      "english": "For example, many working parent couples want to work part-time so they can better balance work and family.",
+      "russian": "Например, многие работающие родители хотят работать неполный рабочий день, чтобы лучше совмещать работу и семью.",
+      "farsi": "برای مثال، بسیاری از والدین شاغل می‌خواهند پاره‌وقت کار کنند تا بتوانند کار و خانواده را بهتر با هم هماهنگ کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber auch viele Erwerbstätige ohne Kinder wollen ihre wöchentliche Arbeitszeit reduzieren, zum Beispiel um mehr Freizeit für Hobbys zu haben.",
+      "english": "But many employed people without children also want to reduce their weekly working hours, for example to have more free time for hobbies.",
+      "russian": "Но и многие работающие без детей хотят сократить свою недельную рабочую нагрузку, например, чтобы иметь больше свободного времени для хобби.",
+      "farsi": "اما بسیاری از شاغلان بدون فرزند نیز می‌خواهند ساعات کاری هفتگی خود را کاهش دهند، مثلاً برای داشتن وقت آزاد بیشتر برای سرگرمی‌ها."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Beschäftigte können einen Antrag auf Teilzeitarbeit stellen.",
+      "english": "Employees can apply for part-time work.",
+      "russian": "Сотрудники могут подать заявление на работу с неполной занятостью.",
+      "farsi": "کارمندان می‌توانند درخواست کار پاره‌وقت بدهند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Eine Beschäftigte oder ein Beschäftigter hat das Recht, wöchentlich weniger als Vollzeit zu arbeiten.",
+      "english": "An employee has the right to work less than full-time per week.",
+      "russian": "Сотрудник имеет право работать в неделю меньше, чем полный рабочий день.",
+      "farsi": "یک کارمند حق دارد کمتر از ساعات کاری کامل در هفته کار کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man muss allerdings mindestens sechs Monate beschäftigt sein, bevor man einen Antrag auf Teilzeit stellen kann.",
+      "english": "However, you must have been employed for at least six months before you can apply for part-time work.",
+      "russian": "Однако вы должны быть трудоустроены не менее шести месяцев, прежде чем сможете подать заявление на неполный рабочий день.",
+      "farsi": "با این حال، باید حداقل شش ماه مشغول به کار باشید تا بتوانید درخواست کار پاره‌وقت بدهید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und der Betrieb muss mindestens 15 Angestellte haben.",
+      "english": "And the company must have at least 15 employees.",
+      "russian": "И в компании должно быть не менее 15 сотрудников.",
+      "farsi": "و شرکت باید حداقل ۱۵ کارمند داشته باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dann kann man dem Vorgesetzten oder der Vorgesetzten z.B. in einer E-Mail drei Monate vorher mitteilen, um wie viele Stunden man die wöchentliche Arbeitszeit reduzieren möchte.",
+      "english": "Then you can inform your supervisor, for example by email, three months in advance by how many hours you want to reduce your weekly working hours.",
+      "russian": "Затем вы можете, например, по электронной почте за три месяца заранее сообщить своему руководителю, на сколько часов вы хотите сократить свою еженедельную рабочую нагрузку.",
+      "farsi": "سپس می‌توانید مثلاً سه ماه قبل از طریق ایمیل به رئیس خود اطلاع دهید که می‌خواهید ساعات کاری هفتگی خود را چند ساعت کاهش دهید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Einen Grund, warum man weniger arbeiten möchte, muss man nicht angeben.",
+      "english": "You do not have to give a reason why you want to work less.",
+      "russian": "Причину, почему вы хотите работать меньше, указывать не нужно.",
+      "farsi": "لازم نیست دلیلی برای اینکه چرا می‌خواهید کمتر کار کنید، ذکر کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es schadet aber nicht, den Wunsch kurz zu begründen.",
+      "english": "However, it does no harm to briefly explain your wish.",
+      "russian": "Однако не помешает кратко объяснить своё желание.",
+      "farsi": "اما ضرری ندارد که خواسته خود را به طور مختصر توضیح دهید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Nur wenn es wichtige Gründe gibt, darf der Arbeitgeber den Wunsch nach Teilzeit ablehnen.",
+      "english": "Only if there are important reasons may the employer refuse the request for part-time work.",
+      "russian": "Только если есть важные причины, работодатель может отказать в просьбе о неполной занятости.",
+      "farsi": "فقط اگر دلایل مهمی وجود داشته باشد، کارفرما می‌تواند درخواست کار پاره‌وقت را رد کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Warum wollen viele Menschen in Deutschland in Teilzeit arbeiten?",
+      "english": "Why do many people in Germany want to work part-time?",
+      "russian": "Почему многие люди в Германии хотят работать неполный рабочий день?",
+      "farsi": "چرا بسیاری از مردم در آلمان می‌خواهند پاره‌وقت کار کنند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was können Beschäftigte tun, wenn sie weniger arbeiten möchten?",
+      "english": "What can employees do if they want to work less?",
+      "russian": "Что могут сделать сотрудники, если хотят работать меньше?",
+      "farsi": "کارمندان اگر بخواهند کمتر کار کنند، چه کاری می‌توانند انجام دهند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie groß muss der Betrieb sein, damit man ein Recht auf Teilzeit hat?",
+      "english": "How large must the company be for you to have a right to part-time work?",
+      "russian": "Какой должна быть компания по размеру, чтобы иметь право на неполный рабочий день?",
+      "farsi": "شرکت باید چه اندازه‌ای داشته باشد تا حق کار پاره‌وقت داشته باشید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was muss man tun, wenn man seine Arbeitszeit reduzieren möchte?",
+      "english": "What must you do if you want to reduce your working hours?",
+      "russian": "Что нужно сделать, если вы хотите сократить свое рабочее время?",
+      "farsi": "اگر بخواهید ساعات کاری خود را کاهش دهید، چه باید بکنید؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wann darf der Arbeitgeber eine Teilzeitarbeit ablehnen?",
+      "english": "When is the employer allowed to refuse part-time work?",
+      "russian": "Когда работодатель может отказать в неполной занятости?",
+      "farsi": "کارفرما چه زمانی می‌تواند کار پاره‌وقت را رد کند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In dem Text geht es um das Thema …",
+      "english": "The text is about the topic ...",
+      "russian": "В тексте речь идет о теме ...",
+      "farsi": "در متن موضوع ... مطرح شده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Thema des Textes ist …",
+      "english": "The topic of the text is ...",
+      "russian": "Тема текста - ...",
+      "farsi": "موضوع متن ... است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Autorin schreibt, dass …",
+      "english": "The author writes that ...",
+      "russian": "Автор пишет, что ...",
+      "farsi": "نویسنده می‌نویسد که ..."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im Text steht, dass …",
+      "english": "The text states that ...",
+      "russian": "В тексте говорится, что ...",
+      "farsi": "در متن آمده است که ..."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die wichtigste Information im Text ist …",
+      "english": "The most important information in the text is ...",
+      "russian": "Самая важная информация в тексте - ...",
+      "farsi": "مهم‌ترین اطلاعات در متن این است که ..."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Besonders interessant ist der Punkt …",
+      "english": "The particularly interesting point is ...",
+      "russian": "Особенно интересен пункт ...",
+      "farsi": "نکته جالب توجه این است که ..."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Für mich gehört zu den Vorteilen von Teilzeit, dass …",
+      "english": "For me, one of the advantages of part-time work is that ...",
+      "russian": "Для меня к преимуществам неполной занятости относится то, что ...",
+      "farsi": "برای من از مزایای کار پاره‌وقت این است که ..."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Für Teilzeitarbeit spricht, dass …",
+      "english": "An argument in favor of part-time work is that ...",
+      "russian": "В пользу неполной занятости говорит то, что ...",
+      "farsi": "دلیل موافقت با کار پاره‌وقت این است که ..."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Hauptargument für Teilzeitarbeit ist, dass …",
+      "english": "The main argument for part-time work is that ...",
+      "russian": "Главный аргумент в пользу неполной занятости заключается в том, что ...",
+      "farsi": "مهم‌ترین دلیل برای کار پاره‌وقت این است که ..."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin für Teilzeitarbeit, weil …",
+      "english": "I am in favor of part-time work because ...",
+      "russian": "Я за неполную занятость, потому что ...",
+      "farsi": "من موافق کار پاره‌وقت هستم چون ..."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Gegen Teilzeit spricht, dass …",
+      "english": "An argument against part-time work is that ...",
+      "russian": "Против неполной занятости говорит то, что ...",
+      "farsi": "دلیل مخالفت با کار پاره‌وقت این است که ..."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Hauptargument dagegen ist, dass …",
+      "english": "The main argument against it is that ...",
+      "russian": "Главный аргумент против этого заключается в том, что ...",
+      "farsi": "مهم‌ترین دلیل مخالفت با آن این است که ..."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was dagegen spricht, ist, dass …",
+      "english": "What speaks against it is that ...",
+      "russian": "Против этого говорит то, что ...",
+      "farsi": "آنچه مخالف آن است، این است که ..."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin gegen Teilzeitarbeit, weil …",
+      "english": "I am against part-time work because ...",
+      "russian": "Я против работы неполный рабочий день, потому что ...",
+      "farsi": "من مخالف کار پاره‌وقت هستم چون ..."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Arbeit ist nicht zu schaffen.",
+      "english": "The work is unmanageable.",
+      "russian": "Работу невозможно выполнить.",
+      "farsi": "کار غیرقابل انجام است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Meine Kollegen nerven.",
+      "english": "My colleagues are annoying.",
+      "russian": "Мои коллеги раздражают.",
+      "farsi": "همکارانم اذیتم می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich musste wieder nachts arbeiten.",
+      "english": "I had to work nights again.",
+      "russian": "Мне снова пришлось работать ночью.",
+      "farsi": "من دوباره مجبور شدم شب‌ها کار کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich muss oft Überstunden machen.",
+      "english": "I often have to work overtime.",
+      "russian": "Мне часто приходится работать сверхурочно.",
+      "farsi": "من اغلب باید اضافه‌کاری کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Arbeit ist sehr stressig.",
+      "english": "The work is very stressful.",
+      "russian": "Работа очень стрессовая.",
+      "farsi": "کار بسیار پراسترس است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Schon wieder hat sich jemand bei mir beschwert.",
+      "english": "Someone complained about me again.",
+      "russian": "Кто-то снова пожаловался на меня.",
+      "farsi": "دوباره کسی از من شکایت کرده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich kam schon wieder zu spät zur Arbeit, weil mein Zug ausgefallen ist.",
+      "english": "I was late for work again because my train was canceled.",
+      "russian": "Я снова опоздал на работу, потому что мой поезд отменили.",
+      "farsi": "دوباره به دلیل لغو قطارم دیر به سر کار رسیدم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich muss oft während meiner Pause weiterarbeiten.",
+      "english": "I often have to keep working during my break.",
+      "russian": "Мне часто приходится продолжать работать во время перерыва.",
+      "farsi": "من اغلب مجبورم در زمان استراحتم به کار ادامه دهم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Stimmung in unserem Team ist oft schlecht.",
+      "english": "The atmosphere in our team is often bad.",
+      "russian": "Атмосфера в нашей команде часто плохая.",
+      "farsi": "جو تیم ما اغلب بد است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Beschäftigte können sich ärgern, wenn …",
+      "english": "Employees can get annoyed when ...",
+      "russian": "Сотрудники могут раздражаться, когда ...",
+      "farsi": "کارمندان ممکن است عصبانی شوند وقتی ..."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mitarbeitende werden manchmal wütend, wenn …",
+      "english": "Employees sometimes get angry when ...",
+      "russian": "Сотрудники иногда злятся, когда ...",
+      "farsi": "کارکنان گاهی عصبانی می‌شوند وقتی ..."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es kann Ärger geben, weil …",
+      "english": "There can be trouble because ...",
+      "russian": "Могут возникнуть проблемы, потому что ...",
+      "farsi": "ممکن است دردسر پیش بیاید چون ..."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Schlechte Stimmung kann es geben, wenn …",
+      "english": "There can be a bad atmosphere when ...",
+      "russian": "Плохое настроение может быть, когда ...",
+      "farsi": "جو بدی می‌تواند ایجاد شود وقتی ..."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Liebe Hörerinnen und Hörer, Ärger und Frust gehören zum Arbeitsleben dazu … leider.",
+      "english": "Dear listeners, anger and frustration are part of working life ... unfortunately.",
+      "russian": "Дорогие слушатели, раздражение и разочарование - часть трудовой жизни ... к сожалению.",
+      "farsi": "شنوندگان عزیز، ناراحتی و ناامیدی بخشی از زندگی کاری است ... متأسفانه."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber welche Gründe sorgen im Job am häufigsten für Unzufriedenheit?",
+      "english": "But which reasons most often cause dissatisfaction at work?",
+      "russian": "Но какие причины чаще всего вызывают недовольство на работе?",
+      "farsi": "اما چه دلایلی بیشتر باعث نارضایتی در کار می‌شوند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mehr als 1000 Erwerbstätige in Deutschland wurden gefragt, was sie am meisten im Beruf stört.",
+      "english": "More than 1,000 employed people in Germany were asked what bothers them most at work.",
+      "russian": "Более 1000 работающих в Германии были спрошены, что их больше всего раздражает на работе.",
+      "farsi": "بیش از ۱۰۰۰ شاغل در آلمان پرسیده شدند که چه چیزی بیشتر از همه در کار آن‌ها را آزار می‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Unser Reporter Ralf Lorenzini hat die Studie, die letzte Woche veröffentlicht wurde, für uns gelesen.",
+      "english": "Our reporter Ralf Lorenzini read the study, which was published last week, for us.",
+      "russian": "Наш репортер Ральф Лоренцини прочитал для нас исследование, которое было опубликовано на прошлой неделе.",
+      "farsi": "خبرنگار ما رالف لورنتسینی مطالعه‌ای را که هفته گذشته منتشر شد، برای ما خوانده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ralf, was stört die Beschäftigten am meisten?",
+      "english": "Ralf, what bothers employees the most?",
+      "russian": "Ральф, что больше всего раздражает сотрудников?",
+      "farsi": "رالف، چه چیزی بیشتر از همه کارکنان را آزار می‌دهد؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "37 % der Befragten sagten, dass es sie stört, wenn die Arbeitsatmosphäre im Betrieb schlecht ist.",
+      "english": "37% of respondents said they are bothered when the working atmosphere in the company is bad.",
+      "russian": "37% опрошенных сказали, что их раздражает, когда рабочая атмосфера в компании плохая.",
+      "farsi": "۳۷٪ از پاسخ‌دهندگان گفتند که وقتی جو کاری در شرکت بد است، این موضوع آن‌ها را آزار می‌دهد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "An zweiter Stelle steht die Arbeitsbelastung.",
+      "english": "Workload is in second place.",
+      "russian": "На втором месте стоит рабочая нагрузка.",
+      "farsi": "در رتبه دوم، حجم کار قرار دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ein Drittel der Befragten fragt sich fast täglich, wie sie die Arbeit schaffen sollen.",
+      "english": "A third of respondents ask themselves almost daily how they are supposed to manage the work.",
+      "russian": "Треть опрошенных почти каждый день задаются вопросом, как им справиться с работой.",
+      "farsi": "یک سوم پاسخ‌دهندگان تقریباً هر روز از خود می‌پرسند که چگونه باید از عهده کار برآیند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie leiden unter Arbeitsstress.",
+      "english": "They suffer from work-related stress.",
+      "russian": "Они страдают от рабочего стресса.",
+      "farsi": "آن‌ها از استرس کاری رنج می‌برند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Je länger man unter hohem Zeit- und Termindruck steht, desto höher wird die Unzufriedenheit mit dem Job.",
+      "english": "The longer you are under high time and deadline pressure, the greater your dissatisfaction with the job becomes.",
+      "russian": "Чем дольше человек находится под сильным давлением времени и сроков, тем выше становится недовольство работой.",
+      "farsi": "هر چه مدت بیشتری تحت فشار زمانی و ضرب‌الاجل باشید، نارضایتی از کار بیشتر می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Klar. Das überrascht mich nicht.",
+      "english": "Sure. That doesn't surprise me.",
+      "russian": "Конечно. Это меня не удивляет.",
+      "farsi": "معلوم است. این من را شگفت‌زده نمی‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und wie sieht es mit Überstunden aus?",
+      "english": "And what about overtime?",
+      "russian": "А как насчет сверхурочной работы?",
+      "farsi": "و وضعیت اضافه‌کاری چگونه است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man liest ja, dass viele Arbeitnehmerinnen und Arbeitnehmer ständig Überstunden machen müssen.",
+      "english": "You read that many employees constantly have to work overtime.",
+      "russian": "Пишут, что многим сотрудникам постоянно приходится работать сверхурочно.",
+      "farsi": "همه جا می‌نویسند که بسیاری از کارکنان مجبورند دائماً اضافه‌کاری کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sind die ein Problem?",
+      "english": "Are they a problem?",
+      "russian": "Это проблема?",
+      "farsi": "آیا این یک مشکل است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Auf jeden Fall.",
+      "english": "Definitely.",
+      "russian": "Определенно.",
+      "farsi": "قطعاً."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ein Viertel der Beschäftigten beklagt sich über zu viele Überstunden.",
+      "english": "A quarter of employees complain about too much overtime.",
+      "russian": "Четверть сотрудников жалуются на слишком много сверхурочной работы.",
+      "farsi": "یک چهارم کارکنان از اضافه‌کاری زیاد شکایت دارند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Problem mit langen Arbeitstagen und vielen Überstunden ist ja, dass sie krank machen können.",
+      "english": "The problem with long working days and a lot of overtime is that they can make you ill.",
+      "russian": "Проблема длинных рабочих дней и большого количества сверхурочных в том, что это может привести к болезням.",
+      "farsi": "مشکل روزهای کاری طولانی و اضافه‌کاری زیاد این است که می‌تواند باعث بیماری شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich hätte eigentlich gedacht, dass sich mehr Arbeitnehmerinnen und Arbeitnehmer über ihr Gehalt ärgern würden.",
+      "english": "I would actually have thought that more employees would be annoyed about their salary.",
+      "russian": "Я бы на самом деле подумал, что больше сотрудников будут недовольны своей зарплатой.",
+      "farsi": "در واقع فکر می‌کردم که کارکنان بیشتری از حقوق خود ناراضی باشند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Na ja, etwas mehr als ein Fünftel der Befragten sagten, sie würden gern mehr Geld verdienen.",
+      "english": "Well, a little more than a fifth of respondents said they would like to earn more money.",
+      "russian": "Ну, чуть больше одной пятой опрошенных сказали, что хотели бы зарабатывать больше денег.",
+      "farsi": "خب، کمی بیش از یک پنجم پاسخ‌دهندگان گفتند که دوست دارند پول بیشتری دربیاورند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie haben das Gefühl, dass sie unterbezahlt sind.",
+      "english": "They feel that they are underpaid.",
+      "russian": "Они чувствуют, что им недоплачивают.",
+      "farsi": "آن‌ها احساس می‌کنند که حقوقشان کم است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dann folgt an fünfter Stelle das Thema Lob und Anerkennung durch die Vorgesetzten.",
+      "english": "Then, in fifth place, comes the issue of praise and recognition from supervisors.",
+      "russian": "Затем на пятом месте стоит тема похвалы и признания со стороны руководства.",
+      "farsi": "در رتبه پنجم، موضوع تشویق و قدردانی از سوی مدیران قرار دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Leider bekommt nicht jeder einen Vorgesetzten, der offen und direkt seine Mitarbeitenden loben kann.",
+      "english": "Unfortunately, not everyone gets a supervisor who can openly and directly praise their employees.",
+      "russian": "К сожалению, не у всех есть руководитель, который может открыто и прямо хвалить своих сотрудников.",
+      "farsi": "متأسفانه همه یک مدیر ندارند که بتواند به طور صریح و مستقیم از کارکنانش تعریف کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das ist für viele ziemlich frustrierend.",
+      "english": "That is quite frustrating for many.",
+      "russian": "Для многих это довольно расстраивает.",
+      "farsi": "این برای بسیاری کاملاً ناامیدکننده است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Darüber haben sich fast 20 % der Befragten beklagt.",
+      "english": "Almost 20% of respondents complained about this.",
+      "russian": "Почти 20% опрошенных жаловались на это.",
+      "farsi": "تقریباً ۲۰٪ از پاسخ‌دهندگان از این موضوع شکایت کردند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und schließlich noch das Thema Pausenzeiten.",
+      "english": "And finally, the issue of break times.",
+      "russian": "И, наконец, тема времени для перерывов.",
+      "farsi": "و در نهایت موضوع زمان استراحت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ein Zehntel der Befragten hat berichtet, dass sie wegen Termindruck oft keine Zeit haben, um eine Pause zu machen.",
+      "english": "A tenth of respondents reported that, due to deadline pressure, they often have no time to take a break.",
+      "russian": "Одна десятая опрошенных сообщили, что из-за давления сроков у них часто нет времени на перерыв.",
+      "farsi": "یک دهم پاسخ‌دهندگان گزارش دادند که به دلیل فشار زمانی اغلب زمانی برای استراحت ندارند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vielen Dank, Ralf.",
+      "english": "Thank you very much, Ralf.",
+      "russian": "Большое спасибо, Ральф.",
+      "farsi": "خیلی ممنون، رالف."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mein Tipp an unsere Hörerinnen und Hörer:",
+      "english": "My tip for our listeners:",
+      "russian": "Мой совет нашим слушателям:",
+      "farsi": "توصیه من به شنوندگان ما:"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wenn es in Ihrem Job Probleme gibt, reden Sie mit Ihrem Betriebsrat.",
+      "english": "If there are problems in your job, talk to your works council.",
+      "russian": "Если на вашей работе есть проблемы, поговорите с производственным советом.",
+      "farsi": "اگر در شغل شما مشکلی وجود دارد، با شورای کارگری خود صحبت کنید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er kann Sie bei der Suche nach einer Lösung meistens unterstützen.",
+      "english": "It can usually support you in finding a solution.",
+      "russian": "Он обычно может помочь вам в поиске решения.",
+      "farsi": "او معمولاً می‌تواند در پیدا کردن راه‌حل به شما کمک کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Betriebsrat ist eine Gruppe von Mitarbeitenden, der von den Beschäftigten alle vier Jahre gewählt wird.",
+      "english": "The works council is a group of employees elected by the workforce every four years.",
+      "russian": "Производственный совет - это группа сотрудников, избираемая работниками каждые четыре года.",
+      "farsi": "شورای کارگری گروهی از کارکنان است که هر چهار سال یک بار توسط کارکنان انتخاب می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es kann Betriebsräte in jedem Betrieb geben, der mindestens fünf Beschäftigte hat.",
+      "english": "There can be works councils in any company that has at least five employees.",
+      "russian": "Производственные советы могут быть в любом предприятии, где есть как минимум пять сотрудников.",
+      "farsi": "در هر شرکتی که حداقل پنج کارمند داشته باشد، می‌تواند شورای کارگری وجود داشته باشد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Mindestens einmal im Jahr gibt es eine Betriebsversammlung, zu der alle eingeladen sind.",
+      "english": "At least once a year there is a works meeting to which everyone is invited.",
+      "russian": "Как минимум раз в год проводится производственное собрание, на которое приглашаются все.",
+      "farsi": "حداقل یک بار در سال یک جلسه کاری برگزار می‌شود که همه به آن دعوت می‌شوند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Betriebsräte treffen Betriebsvereinbarungen und kümmern sich um faire Bezahlung, sichere Arbeitsbedingungen sowie um die Gesundheit der Beschäftigten.",
+      "english": "Works councils make company agreements and take care of fair pay, safe working conditions, and the health of employees.",
+      "russian": "Производственные советы заключают производственные соглашения и заботятся о справедливой оплате труда, безопасных условиях работы и здоровье сотрудников.",
+      "farsi": "شوراهای کارگری توافق‌نامه‌های کاری تنظیم می‌کنند و به پرداخت منصفانه، شرایط کاری ایمن و سلامت کارکنان رسیدگی می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie beraten und unterstützen Mitarbeitende bei Konflikten oder Kündigungen.",
+      "english": "They advise and support employees in cases of conflicts or dismissals.",
+      "russian": "Они консультируют и поддерживают сотрудников при конфликтах или увольнениях.",
+      "farsi": "آن‌ها به کارکنان در موارد اختلاف یا اخراج مشاوره و حمایت می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Betriebsrat kann helfen, Missverständnisse zu klären oder Probleme im Betrieb zu lösen.",
+      "english": "The works council can help clarify misunderstandings or solve problems in the company.",
+      "russian": "Производственный совет может помочь прояснить недоразумения или решить проблемы на предприятии.",
+      "farsi": "شورای کارگری می‌تواند به رفع سوءتفاهم‌ها یا حل مشکلات در شرکت کمک کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wer wählt den Betriebsrat?",
+      "english": "Who elects the works council?",
+      "russian": "Кто выбирает производственный совет?",
+      "farsi": "چه کسی شورای کارگری را انتخاب می‌کند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie oft gibt es Betriebsratswahlen?",
+      "english": "How often are works council elections held?",
+      "russian": "Как часто проводятся выборы производственного совета?",
+      "farsi": "انتخابات شورای کارگری هر چند وقت یک بار برگزار می‌شود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie oft gibt es Betriebsversammlungen?",
+      "english": "How often are works meetings held?",
+      "russian": "Как часто проводятся производственные собрания?",
+      "farsi": "جلسات کاری هر چند وقت یک بار برگزار می‌شود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Welche Aufgaben hat der Betriebsrat?",
+      "english": "What are the duties of the works council?",
+      "russian": "Какие задачи у производственного совета?",
+      "farsi": "وظایف شورای کارگری چیست؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hallo, Lia. Komm rein. Möchtest du einen Tee?",
+      "english": "Hello, Lia. Come in. Would you like some tea?",
+      "russian": "Привет, Лия. Заходи. Хочешь чаю?",
+      "farsi": "سلام لیا. بیا داخل. چای می‌خواهی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Hallo, Sevil. Danke, gern.",
+      "english": "Hello, Sevil. Thanks, I'd love some.",
+      "russian": "Привет, Севиль. Спасибо, с удовольствием.",
+      "farsi": "سلام، سویل. ممنون، با کمال میل."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und wie war dein erster Monat im Haus der Pflege Sonnenschein?",
+      "english": "And how was your first month at the Sonnenschein Care Home?",
+      "russian": "А как прошёл твой первый месяц в доме престарелых «Зонненшайн»?",
+      "farsi": "خب، ماه اولت در خانه سالمندان زونن‌شاین چطور بود؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sehr gut. Ich habe nette Kolleginnen und Kollegen, die mir bei der Einarbeitung geholfen haben.",
+      "english": "Very good. I have nice colleagues who helped me with the onboarding.",
+      "russian": "Очень хорошо. У меня хорошие коллеги, которые помогли мне освоиться.",
+      "farsi": "خیلی خوب. همکاران خوبی دارم که در آموزش اولیه به من کمک کردند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und die Chefin ist auch sehr nett.",
+      "english": "And the boss is also very nice.",
+      "russian": "И начальница тоже очень приятная.",
+      "farsi": "و رئیس هم خیلی مهربان است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe übrigens gestern meine erste Gehaltsabrechnung bekommen.",
+      "english": "By the way, I received my first payslip yesterday.",
+      "russian": "Кстати, вчера я получила свою первую расчетную ведомость.",
+      "farsi": "راستی، دیروز اولین فیش حقوقی‌ام را گرفتم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Und? Bist du mit deinem Gehalt zufrieden?",
+      "english": "And? Are you satisfied with your salary?",
+      "russian": "Ну и что? Ты довольна своей зарплатой?",
+      "farsi": "خب، از حقوقت راضی هستی؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, schon. Ich wusste ja, wie viel ich verdienen würde.",
+      "english": "Yes, I am. I knew how much I would earn.",
+      "russian": "Да, в целом. Я знала, сколько буду зарабатывать.",
+      "farsi": "بله، تقریباً. می‌دانستم چقدر قرار است درآمد داشته باشم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber als ich meine Gehaltsabrechnung gelesen habe, war ich doch überrascht, wie hoch die Abzüge sind.",
+      "english": "But when I read my payslip, I was surprised at how high the deductions are.",
+      "russian": "Но когда я прочитала свою расчетную ведомость, я удивилась, насколько высоки вычеты.",
+      "farsi": "اما وقتی فیش حقوقی‌ام را خواندم، واقعاً از میزان کسری‌ها شگفت‌زده شدم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ja, ich weiß. Bruttogehalt ist nicht gleich Nettogehalt.",
+      "english": "Yes, I know. Gross salary is not the same as net salary.",
+      "russian": "Да, я знаю. Брутто-зарплата - это не то же самое, что нетто-зарплата.",
+      "farsi": "بله، می‌دانم. حقوق ناخالص با حقوق خالص یکی نیست."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich verdiene brutto 2688 Euro im Monat, aber ich bekomme nur ca. 1870 Euro netto raus.",
+      "english": "I earn 2688 euros gross per month, but I only get about 1870 euros net.",
+      "russian": "Я зарабатываю 2688 евро брутто в месяц, но получаю только около 1870 евро нетто.",
+      "farsi": "من ماهانه ۲۶۸۸ یورو ناخالص درآمد دارم، اما فقط حدود ۱۸۷۰ یورو خالص دریافت می‌کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe nicht gedacht, dass etwa 30 % von meinem Gehalt abgezogen werden.",
+      "english": "I didn’t think that about 30% would be deducted from my salary.",
+      "russian": "Я не думал, что около 30 % будут вычтены из моей зарплаты.",
+      "farsi": "فکر نمی‌کردم حدود ۳۰٪ از حقوقم کم شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das geht mir genauso.",
+      "english": "I feel the same way.",
+      "russian": "У меня то же самое.",
+      "farsi": "من هم همینطورم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich bin auch immer wieder überrascht, wie hoch die Steuern und die Sozialabgaben sind.",
+      "english": "I am also always surprised at how high the taxes and social contributions are.",
+      "russian": "Меня тоже всегда удивляет, насколько высоки налоги и социальные взносы.",
+      "farsi": "من هم همیشه از میزان بالای مالیات‌ها و پرداخت‌های اجتماعی شگفت‌زده می‌شوم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Du kennst dich ja mit Gehaltsabrechnungen aus.",
+      "english": "You know a lot about pay slips.",
+      "russian": "Ты же разбираешься в расчетных листках зарплаты.",
+      "farsi": "تو که با فیش حقوقی آشنایی داری."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe hier einige Sachen nicht verstanden.",
+      "english": "I didn’t understand some things here.",
+      "russian": "Я здесь кое-чего не понял.",
+      "farsi": "من اینجا چند تا چیز را نفهمیدم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Zeig mal her, vielleicht kann ich dir ja helfen.",
+      "english": "Let me see, maybe I can help you.",
+      "russian": "Покажи-ка, может, я смогу тебе помочь.",
+      "farsi": "بذار ببینم، شاید بتونم کمکت کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Seit wann arbeitet Frau Petcu im Haus der Pflege Sonnenschein?",
+      "english": "Since when has Ms. Petcu been working at the Haus der Pflege Sonnenschein?",
+      "russian": "С каких пор госпожа Петку работает в доме престарелых «Sonnenschein»?",
+      "farsi": "خانم پتکو از چه زمانی در خانه سالمندان زونن‌شاین کار می‌کند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wann wurde Frau Petcu geboren?",
+      "english": "When was Ms. Petcu born?",
+      "russian": "Когда родилась госпожа Петку?",
+      "farsi": "خانم پتکو چه زمانی متولد شده است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bei welcher Krankenkasse ist sie versichert?",
+      "english": "With which health insurance is she insured?",
+      "russian": "В какой медицинской страховой компании она застрахована?",
+      "farsi": "او در کدام شرکت بیمه درمانی بیمه شده است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie hoch ist ihr Krankenversicherungsbeitrag?",
+      "english": "How much is her health insurance contribution?",
+      "russian": "Каков размер её взноса на медицинское страхование?",
+      "farsi": "میزان سهم بیمه درمانی او چقدر است؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie viel Geld überweist das Haus der Pflege Sonnenschein an Frau Petcu?",
+      "english": "How much money does the Haus der Pflege Sonnenschein transfer to Ms. Petcu?",
+      "russian": "Сколько денег переводит дом престарелых «Sonnenschein» госпоже Петку?",
+      "farsi": "خانه سالمندان زونن‌شاین چه مقدار پول به خانم پتکو واریز می‌کند؟"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vermögenswirksame Leistungen sollen Arbeitnehmenden beim Sparen helfen.",
+      "english": "Capital-forming benefits are intended to help employees save money.",
+      "russian": "Финансовые накопительные выплаты должны помочь работникам копить деньги.",
+      "farsi": "پرداخت‌های مبتنی بر پس‌انداز برای کمک به کارکنان در پس‌انداز طراحی شده‌اند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Bis zu 480 € im Jahr können sie bekommen.",
+      "english": "They can receive up to 480 euros per year.",
+      "russian": "Они могут получать до 480 евро в год.",
+      "farsi": "آن‌ها می‌توانند تا ۴۸۰ یورو در سال دریافت کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Sparbetrag wird nach sieben Jahren ausgezahlt.",
+      "english": "The savings amount is paid out after seven years.",
+      "russian": "Сумма накоплений выплачивается через семь лет.",
+      "farsi": "مبلغ پس‌انداز پس از هفت سال پرداخت می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Viele Arbeitgeber zahlen Zulagen.",
+      "english": "Many employers pay bonuses.",
+      "russian": "Многие работодатели выплачивают надбавки.",
+      "farsi": "بسیاری از کارفرمایان مزایا پرداخت می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Diese kann es für Überstunden oder für Arbeiten an Sonn- und Feiertagen und Nachtarbeit geben.",
+      "english": "These may be for overtime or for work on Sundays, public holidays, and night shifts.",
+      "russian": "Они могут выплачиваться за сверхурочную работу, работу по воскресеньям, праздникам и ночам.",
+      "farsi": "این مزایا ممکن است برای اضافه‌کاری یا کار در روزهای یکشنبه، تعطیلات رسمی و شیفت شب پرداخت شوند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In meinem Arbeitsvertrag steht, dass ich … Euro monatlich verdiene / 40/… Stunden pro Woche arbeiten muss / Nebentätigkeiten (nicht) erlaubt sind.",
+      "english": "My employment contract states that I earn ... euros per month / have to work 40/... hours per week / secondary employment is (not) allowed.",
+      "russian": "В моём трудовом договоре указано, что я зарабатываю ... евро в месяц / должен работать 40/... часов в неделю / побочная занятость (не) разрешена.",
+      "farsi": "در قرارداد کاری من آمده که من ... یورو در ماه حقوق می‌گیرم / باید ۴۰/... ساعت در هفته کار کنم / شغل‌های جانبی (مجاز نیستند / مجاز هستند)."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe eine Kündigungsfrist von drei/… Monaten.",
+      "english": "I have a notice period of three/... months.",
+      "russian": "У меня срок уведомления об увольнении три/... месяца.",
+      "farsi": "مهلت اطلاع‌رسانی برای ترک کار من سه/... ماه است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich möchte gern einen unbefristeten/befristeten Arbeitsvertrag haben.",
+      "english": "I would like to have a permanent/fixed-term employment contract.",
+      "russian": "Я хотел(а) бы иметь бессрочный/срочный трудовой договор.",
+      "farsi": "من دوست دارم یک قرارداد کاری دائمی/موقت داشته باشم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe einen Vollzeitarbeitsvertrag/Teilzeitarbeitsvertrag/…",
+      "english": "I have a full-time/part-time employment contract/…",
+      "russian": "У меня трудовой договор на полную/неполную занятость/…",
+      "farsi": "من یک قرارداد کاری تمام‌وقت/پاره‌وقت/... دارم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich würde gern in Teilzeit/… arbeiten, weil …",
+      "english": "I would like to work part-time/... because ...",
+      "russian": "Я хотел(а) бы работать неполный рабочий день/..., потому что ...",
+      "farsi": "من دوست دارم پاره‌وقت/... کار کنم، چون ..."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich hätte (nichts/etwas) dagegen, einen Probearbeitsvertrag zu unterschreiben.",
+      "english": "I would (not) mind signing a trial employment contract.",
+      "russian": "Я (не) был(а) бы против подписать пробный трудовой договор.",
+      "farsi": "من (مشکلی ندارم/کمی مشکل دارم) که یک قرارداد کاری آزمایشی امضا کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man kann Beruf und Familie besser vereinbaren.",
+      "english": "You can better balance work and family.",
+      "russian": "Можно лучше совмещать работу и семью.",
+      "farsi": "می‌توان شغل و خانواده را بهتر با هم هماهنگ کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man hat mehr Freizeit.",
+      "english": "You have more free time.",
+      "russian": "У человека больше свободного времени.",
+      "farsi": "آدم وقت آزاد بیشتری دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man hat mehr Zeit für ein Ehrenamt.",
+      "english": "You have more time for voluntary work.",
+      "russian": "Больше времени для волонтёрской деятельности.",
+      "farsi": "وقت بیشتری برای کار داوطلبانه دارید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man kann sich weiterbilden.",
+      "english": "You can continue your education.",
+      "russian": "Можно продолжить обучение.",
+      "farsi": "می‌توان ادامه تحصیل یا آموزش دید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man hat weniger Stress.",
+      "english": "You have less stress.",
+      "russian": "Меньше стресса.",
+      "farsi": "استرس کمتری دارید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man hat schlechte Aufstiegschancen.",
+      "english": "You have poor chances for promotion.",
+      "russian": "Плохие шансы на карьерный рост.",
+      "farsi": "فرصت‌های پیشرفت شغلی کمتر است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man bekommt ein niedrigeres Gehalt.",
+      "english": "You receive a lower salary.",
+      "russian": "Получаешь более низкую зарплату.",
+      "farsi": "حقوق کمتری دریافت می‌کنی."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Arbeitsbelastung ist oft höher.",
+      "english": "The workload is often higher.",
+      "russian": "Нагрузка часто выше.",
+      "farsi": "بار کاری اغلب بیشتر است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man bekommt später eine niedrigere Rente.",
+      "english": "You later receive a lower pension.",
+      "russian": "Позже получаешь меньшую пенсию.",
+      "farsi": "بعدها مستمری بازنشستگی کمتری دریافت می‌کنی."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ein wichtiges Argument für/gegen Teilzeit ist für mich ist, dass …",
+      "english": "An important argument for/against part-time work for me is that ...",
+      "russian": "Важный аргумент за/против неполной занятости для меня — это то, что ...",
+      "farsi": "یک دلیل مهم برای/علیه کار پاره‌وقت برای من این است که ..."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Gut/Schlecht an einem Teilzeitjob wäre für mich …",
+      "english": "What would be good/bad about a part-time job for me is ...",
+      "russian": "Хорошо/Плохо в работе на неполный день для меня — это ...",
+      "farsi": "خوبی/بدی کار پاره‌وقت برای من این است که ..."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "An Teilzeit gefällt mir (nicht), dass …",
+      "english": "What I (don't) like about part-time work is that ...",
+      "russian": "Мне (не) нравится в неполной занятости то, что ...",
+      "farsi": "در مورد کار پاره‌وقت چیزی که (دوست ندارم/دوست دارم) این است که ..."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Statistik zeigt, dass …",
+      "english": "The statistics show that ...",
+      "russian": "Статистика показывает, что ...",
+      "farsi": "آمار نشان می‌دهد که ..."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es fällt auf, dass …",
+      "english": "It is noticeable that ...",
+      "russian": "Бросается в глаза, что ...",
+      "farsi": "مشخص است که ..."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es hat mich überrascht, dass …",
+      "english": "I was surprised that ...",
+      "russian": "Меня удивило, что ...",
+      "farsi": "من را شگفت‌زده کرد که ..."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das Bruttoeinkommen ist das Geld, das man verdient.",
+      "english": "Gross income is the money you earn.",
+      "russian": "Брутто-доход — это деньги, которые вы зарабатываете.",
+      "farsi": "درآمد ناخالص پولی است که شما به دست می‌آورید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Aber man behält nicht alles, denn jede Arbeitnehmerin und jeder Arbeitnehmer muss in Deutschland Steuern und Sozialabgaben zahlen.",
+      "english": "But you don't keep all of it, because every employee in Germany has to pay taxes and social contributions.",
+      "russian": "Но вы оставляете себе не всё, потому что каждый работник в Германии должен платить налоги и социальные взносы.",
+      "farsi": "اما شما همه آن را نگه نمی‌دارید، چون هر کارمند در آلمان باید مالیات و حق بیمه اجتماعی پرداخت کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Wie hoch die Steuern sind, hängt davon ab, wie viel Geld man verdient, in welcher Steuerklasse man ist, wie viele Kinder man hat und ob man Kirchensteuer zahlt.",
+      "english": "The amount of taxes depends on how much money you earn, which tax class you are in, how many children you have, and whether you pay church tax.",
+      "russian": "Размер налогов зависит от того, сколько вы зарабатываете, в каком вы налоговом классе, сколько у вас детей и платите ли вы церковный налог.",
+      "farsi": "میزان مالیات بستگی دارد به اینکه چقدر درآمد دارید، در کدام طبقه مالیاتی هستید، چند فرزند دارید و آیا مالیات کلیسا پرداخت می‌کنید یا نه."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Kirchensteuer zahlen alle Mitglieder der evangelischen oder katholischen Kirche.",
+      "english": "Church tax is paid by all members of the Protestant or Catholic Church.",
+      "russian": "Церковный налог платят все члены евангелической или католической церкви.",
+      "farsi": "مالیات کلیسا را همه اعضای کلیسای پروتستان یا کاتولیک پرداخت می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Zu den Sozialabgaben gehören die Rentenversicherung, die Krankenversicherung und die Pflegeversicherung sowie die Arbeitslosenversicherung.",
+      "english": "Social contributions include pension insurance, health insurance, nursing care insurance, and unemployment insurance.",
+      "russian": "К социальным взносам относятся пенсионное страхование, медицинское страхование, страхование по уходу и страхование от безработицы.",
+      "farsi": "حق بیمه‌های اجتماعی شامل بیمه بازنشستگی، بیمه درمانی، بیمه مراقبت و بیمه بیکاری می‌شوند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Beiträge für die Sozialversicherungen teilen sich Arbeitgeber und Arbeitnehmer.",
+      "english": "The contributions to social insurance are shared between employers and employees.",
+      "russian": "Взносы на социальное страхование делятся между работодателями и работниками.",
+      "farsi": "حق بیمه‌های اجتماعی بین کارفرما و کارمند تقسیم می‌شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Was vom Bruttogehalt übrig bleibt, ist das Nettoeinkommen.",
+      "english": "What remains from the gross salary is the net income.",
+      "russian": "То, что остается от брутто-зарплаты, это чистый доход.",
+      "farsi": "آنچه از حقوق ناخالص باقی می‌ماند، درآمد خالص است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Alle Arbeitnehmenden müssen Steuern und Abgaben vom Nettogehalt zahlen.",
+      "english": "All employees must pay taxes and contributions from their net income.",
+      "russian": "Все работники должны платить налоги и взносы из своей чистой зарплаты.",
+      "farsi": "همه کارکنان باید از درآمد خالص خود مالیات و حق بیمه پرداخت کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Je höher das Bruttogehalt ist, desto höher sind die Steuern.",
+      "english": "The higher the gross salary, the higher the taxes.",
+      "russian": "Чем выше брутто-зарплата, тем выше налоги.",
+      "farsi": "هرچه حقوق ناخالص بیشتر باشد، مالیات نیز بیشتر است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Alle Beschäftigten müssen Kirchensteuer zahlen.",
+      "english": "All employees must pay church tax.",
+      "russian": "Все занятые должны платить церковный налог.",
+      "farsi": "همه کارکنان باید مالیات کلیسا پرداخت کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Auch die Arbeitgebenden zahlen für die Arbeitnehmenden in die Sozialversicherungen ein.",
+      "english": "Employers also pay social insurance contributions for their employees.",
+      "russian": "Работодатели также платят взносы на социальное страхование за своих работников.",
+      "farsi": "کارفرمایان نیز برای کارکنان خود حق بیمه اجتماعی پرداخت می‌کنند."
+    }
+  ]
+}

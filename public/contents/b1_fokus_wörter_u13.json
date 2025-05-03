@@ -38,6 +38,7 @@
       "farsi": "فضای مسکونی، فضاهای مسکونی"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "weitergehen",
       "Präsens": "er geht weiter",
@@ -163,6 +164,7 @@
       "farsi": "پرینتر، پرینترها"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "hochladen",
       "Präsens": "er lädt hoch",
@@ -176,6 +178,7 @@
       "farsiUsage": "برای توصیف انتقال داده یا فایل‌ها از یک دستگاه محلی به سرور یا پلتفرم آنلاین به کار می‌رود."
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "suchen",
       "Präsens": "er sucht",
@@ -197,6 +200,7 @@
       "farsi": "دستگاه، دستگاه‌ها"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "fotografieren",
       "Präsens": "er fotografiert",
@@ -234,6 +238,7 @@
       "farsi": "فناوری، فناوری‌ها"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "streiken",
       "Präsens": "er streikt",
@@ -255,6 +260,7 @@
       "farsi": "کارهای نگهداری (جمع)"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "abschalten",
       "Präsens": "er schaltet ab",
@@ -300,6 +306,7 @@
       "farsi": "موتور جستجو، موتورهای جستجو"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "vorgehen",
       "Präsens": "er geht vor",
@@ -321,6 +328,7 @@
       "farsi": "عبارت جستجو، عبارات جستجو"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "eingeben",
       "Präsens": "er gibt ein",
@@ -334,6 +342,7 @@
       "farsiUsage": "برای وارد کردن اطلاعات به رایانه، دستگاه یا فرم استفاده می‌شود."
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "tippen",
       "Präsens": "er tippt",
@@ -395,6 +404,7 @@
       "farsi": "موثر، به طور مؤثر"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "optimieren",
       "Präsens": "er optimiert",
@@ -408,6 +418,7 @@
       "farsiUsage": "برای توصیف عملی که چیزی را تا حد امکان خوب یا مؤثر می‌کند به کار می‌رود."
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "erkennen",
       "Präsens": "er erkennt",
@@ -421,6 +432,7 @@
       "farsiUsage": "برای زمانی که کسی متوجه چیزی شود یا کسی/چیزی را بشناسد یا درک کند به کار می‌رود."
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "voraussehen",
       "Präsens": "er sieht voraus",
@@ -458,6 +470,7 @@
       "farsi": "با تردید، شکاک"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "einsetzen",
       "Präsens": "er setzt ein",

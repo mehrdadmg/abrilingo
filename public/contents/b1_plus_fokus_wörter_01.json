@@ -46,6 +46,7 @@
       "farsi": "آموزش، تحصیل"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "auffallen",
       "Präsens": "ich falle auf, du fällst auf, er/sie/es fällt auf, wir fallen auf, ihr fallt auf, sie fallen auf",
@@ -59,6 +60,7 @@
       "farsiUsage": "برای توصیف چیزی یا کسی که توجه را جلب می‌کند یا قابل توجه است استفاده می‌شود."
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "(eine Prüfung) bestehen",
       "Präsens": "(ich bestehe eine Prüfung), du bestehst eine Prüfung, er/sie/es besteht eine Prüfung, wir bestehen eine Prüfung, ihr besteht eine Prüfung, sie bestehen eine Prüfung",
@@ -88,6 +90,7 @@
       "farsi": "کسب و کار"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "sich bewerben",
       "Präsens": "ich bewerbe mich, du bewirbst dich, er/sie/es bewirbt sich, wir bewerben uns, ihr bewerbt euch, sie bewerben sich",
@@ -101,6 +104,7 @@
       "farsiUsage": "وقتی کسی برای شغل یا موقعیتی درخواست می‌دهد استفاده می‌شود."
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "jdn. einstellen",
       "Präsens": "ich stelle ein, du stellst ein, er/sie/es stellt ein, wir stellen ein, ihr stellt ein, sie stellen ein",
@@ -162,6 +166,7 @@
       "farsi": "مدیریت"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "sich informieren",
       "Präsens": "ich informiere mich, du informierst dich, er/sie/es informiert sich, wir informieren uns, ihr informiert euch, sie informieren sich",
@@ -207,6 +212,7 @@
       "farsi": "کارمند (زن)"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "jdm. etw. raten",
       "Präsens": "ich rate, du rätst, er/sie/es rät, wir raten, ihr ratet, sie raten",
@@ -228,6 +234,7 @@
       "farsi": "مدرک تحصیلی پایان مدرسه"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "steigen",
       "Präsens": "ich steige, du steigst, er/sie/es steigt, wir steigen, ihr steigt, sie steigen",
@@ -241,6 +248,7 @@
       "farsiUsage": "(برای توصیف افزایش یا حرکت به سمت بالا استفاده می‌شود.)"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "teilnehmen an (+ Dat.)",
       "Präsens": "ich nehme teil, du nimmst teil, er/sie/es nimmt teil, wir nehmen teil, ihr nehmt teil, sie nehmen teil",
@@ -302,6 +310,7 @@
       "farsi": "درخواست، تقاضا"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "einen Antrag stellen",
       "Präsens": "ich stelle einen Antrag, du stellst einen Antrag, er/sie/es stellt einen Antrag, wir stellen einen Antrag, ihr stellt einen Antrag, sie stellen einen Antrag",
@@ -323,6 +332,7 @@
       "farsi": "(مجوز اقامت)"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "aufwachsen",
       "Präsens": "ich wachse auf, du wächst auf, er/sie/es wächst auf, wir wachsen auf, ihr wachst auf, sie wachsen auf",
@@ -352,6 +362,7 @@
       "farsi": "مشاور (زن)"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "jdn. beschäftigen",
       "Präsens": "ich beschäftige, du beschäftigst, er/sie/es beschäftigt, wir beschäftigen, ihr beschäftigt, sie beschäftigen",
@@ -389,6 +400,7 @@
       "farsi": "(تصمیم)"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "eine Entscheidung treffen",
       "Präsens": "ich treffe eine Entscheidung, du triffst eine Entscheidung, er/sie/es trifft eine Entscheidung, wir treffen eine Entscheidung, ihr trefft eine Entscheidung, sie treffen eine Entscheidung",
@@ -418,6 +430,7 @@
       "farsi": "آموزش پیشرفته"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "eine Fortbildung machen",
       "Präsens": "ich mache eine Fortbildung, du machst eine Fortbildung, er/sie/es macht eine Fortbildung, wir machen eine Fortbildung, ihr macht eine Fortbildung, sie machen eine Fortbildung",
@@ -431,6 +444,7 @@
       "farsiUsage": "(وقتی کسی برای ارتقای مهارت‌های حرفه‌ای خود در آموزش شرکت می‌کند استفاده می‌شود.)"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "(ein Unternehmen) gründen",
       "Präsens": "ich gründe ein Unternehmen, du gründest ein Unternehmen, er/sie/es gründet ein Unternehmen, wir gründen ein Unternehmen, ihr gründet ein Unternehmen, sie gründen ein Unternehmen",
@@ -444,6 +458,7 @@
       "farsiUsage": "(وقتی کسی یک شرکت یا کسب‌وکار جدید تأسیس می‌کند استفاده می‌شود.)"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "einen Kredit bewilligen",
       "Präsens": "ich bewillige einen Kredit, du bewilligst einen Kredit, er/sie/es bewilligt einen Kredit, wir bewilligen einen Kredit, ihr bewilligt einen Kredit, sie bewilligen einen Kredit",
@@ -489,6 +504,7 @@
       "farsi": "(خوداشتغالی، استقلال)"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "überlegen",
       "Präsens": "ich überlege, du überlegst, er/sie/es überlegt, wir überlegen, ihr überlegt, sie überlegen",
@@ -502,6 +518,7 @@
       "farsiUsage": "(وقتی کسی به دقت درباره چیزی فکر می‌کند یا آن را بررسی می‌کند استفاده می‌شود.)"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "Verantwortung tragen für (+ Akk.)",
       "Präsens": "ich trage Verantwortung für ..., du trägst Verantwortung für ..., er/sie/es trägt Verantwortung für ..., wir tragen Verantwortung für ..., ihr tragt Verantwortung für ..., sie tragen Verantwortung für ...",
@@ -515,6 +532,7 @@
       "farsiUsage": "(وقتی کسی مسئولیت کاری یا تعهدی را بر عهده دارد استفاده می‌شود.)"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "etw. anerkennen lassen",
       "Präsens": "ich lasse etwas anerkennen, du lässt etwas anerkennen, er/sie/es lässt etwas anerkennen, wir lassen etwas anerkennen, ihr lasst etwas anerkennen, sie lassen etwas anerkennen",
@@ -544,6 +562,7 @@
       "farsi": "(آموزش حرفه‌ای)"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "etw. beschließen",
       "Präsens": "ich beschließe, du beschließt, er/sie/es beschließt, wir beschließen, ihr beschließt, sie beschließen",
@@ -605,6 +624,7 @@
       "farsi": "مهارت، شایستگی"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "Kosten übernehmen",
       "Präsens": "ich übernehme Kosten, du übernimmst Kosten, er/sie/es übernimmt Kosten, wir übernehmen Kosten, ihr übernehmt Kosten, sie übernehmen Kosten",
@@ -666,6 +686,7 @@
       "farsi": "(مدرک، سند)"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "etw. vergleichen mit (+ Dat.)",
       "Präsens": "ich vergleiche etwas mit ..., du vergleichst etwas mit ..., er/sie/es vergleicht etwas mit ..., wir vergleichen etwas mit ..., ihr vergleicht etwas mit ..., sie vergleichen etwas mit ...",

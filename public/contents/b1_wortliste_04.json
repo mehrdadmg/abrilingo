@@ -126,6 +126,7 @@
       "farsi": "زردآلوها برایت خوشمزه هستند؟"
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "arbeiten",
       "Präsens": "ich arbeite, du arbeitest, er/sie/es arbeitet, wir arbeiten, ihr arbeitet, sie/Sie arbeiten",
@@ -307,6 +308,7 @@
       "farsi": "این خانه توسط یک معمار زن مشهور ساخته شده است."
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "(sich) ärgern",
       "Präsens": "ich ärgere (mich), du ärgerst (dich), er/sie/es ärgert (sich), wir ärgern (uns), ihr ärgert (euch), sie/Sie ärgern (sich)",
@@ -512,6 +514,7 @@
       "farsi": "مردم در حال فرار هستند و درخواست پناهندگی می‌کنند."
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "atmen",
       "Präsens": "ich atme, du atmest, er/sie/es atmet, wir atmen, ihr atmet, sie/Sie atmen",
@@ -703,6 +706,7 @@
       "farsi": "ما برایتان یک اقامت دلپذیر آرزو می‌کنیم."
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "auffallen",
       "Präsens": "ich falle auf, du fällst auf, er/sie/es fällt auf, wir fallen auf, ihr fallt auf, sie/Sie fallen auf",
@@ -724,6 +728,7 @@
       "farsi": "به من توجه شده است که هریت کاملاً رنگ پریده است."
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "auffordern",
       "Präsens": "ich fordere auf, du forderst auf, er/sie/es fordert auf, wir fordern auf, ihr fordert auf, sie/Sie fordern auf",
@@ -769,6 +774,7 @@
       "farsi": "شما یک درخواست برای پرداخت مبلغ تا ژوئن دریافت می‌کنید."
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "aufführen",
       "Präsens": "ich führe auf, du führst auf, er/sie/es führt auf, wir führen auf, ihr führt auf, sie/Sie führen auf",
@@ -814,6 +820,7 @@
       "farsi": "این وظیفه من نیست."
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "aufgeben",
       "Präsens": "ich gebe auf, du gibst auf, er/sie/es gibt auf, wir geben auf, ihr gebt auf, sie/Sie geben auf",
@@ -843,6 +850,7 @@
       "farsi": "هرگز تسلیم نشوید. همیشه امید وجود دارد."
     },
     {
+      "isSelected": false,
       "type": "verben",
       "Infinitive": "aufhalten",
       "Präsens": "ich halte auf, du hältst auf, er/sie/es hält auf, wir halten auf, ihr haltet auf, sie/Sie halten auf",
