@@ -1,0 +1,137 @@
+{
+  "info": {
+    "name": "2_Beschreiben_Sie_einen_bestimmten_Beruf",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe als Thema 'Beschreiben Sie einen bestimmten Beruf' gewählt.",
+      "english": "I have chosen the topic 'Describe a specific profession.'",
+      "russian": "Я выбрал тему «Опишите определённую профессию».",
+      "farsi": "من موضوع «توصیف یک شغل خاص» را انتخاب کرده‌ام."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich möchte über den Programmierberuf sprechen, den ich persönlich sehr interessant finde und für mich wie ein Hobby ist.",
+      "english": "I would like to talk about the profession of programming, which I personally find very interesting and is like a hobby for me.",
+      "russian": "Я хотел бы рассказать о профессии программиста, которую я лично считаю очень интересной и которая для меня как хобби.",
+      "farsi": "می‌خواهم درباره شغل برنامه‌نویسی صحبت کنم که شخصاً آن را بسیار جالب می‌دانم و برای من مانند یک سرگرمی است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Dieser Beruf passt gut zu Menschen, die gerne Probleme lösen und mit Algorithmen arbeiten.",
+      "english": "This profession is well suited to people who like to solve problems and work with algorithms.",
+      "russian": "Эта профессия хорошо подходит людям, которые любят решать проблемы и работать с алгоритмами.",
+      "farsi": "این شغل برای افرادی که دوست دارند مسائل را حل کنند و با الگوریتم‌ها کار کنند، بسیار مناسب است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Heutzutage gibt es für fast alles eine App oder ein Programm, das es einfacher oder interessanter macht.",
+      "english": "Nowadays, there is an app or a program for almost everything that makes it easier or more interesting.",
+      "russian": "В наши дни почти для всего существует приложение или программа, которые делают это проще или интереснее.",
+      "farsi": "امروزه تقریباً برای هر چیزی یک اپلیکیشن یا برنامه وجود دارد که آن را ساده‌تر یا جالب‌تر می‌کند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es gibt immer ein Problem, das mit einer App besser oder einfacher und schneller gelöst werden kann.",
+      "english": "There is always a problem that can be solved better, more easily, and faster with an app.",
+      "russian": "Всегда найдётся проблема, которую можно решить лучше, проще и быстрее с помощью приложения.",
+      "farsi": "همیشه مشکلی وجود دارد که می‌توان آن را با یک اپلیکیشن بهتر، ساده‌تر و سریع‌تر حل کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Programmierberuf hat viele Vorteile, zum Beispiel:",
+      "english": "The programming profession has many advantages, for example:",
+      "russian": "Профессия программиста имеет много преимуществ, например:",
+      "farsi": "شغل برنامه‌نویسی مزایای زیادی دارد، مثلاً:"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er ist ein Beruf mit hohem Einkommen und großer Nachfrage auf dem Arbeitsmarkt.",
+      "english": "It is a profession with high income and great demand on the job market.",
+      "russian": "Это профессия с высоким доходом и большим спросом на рынке труда.",
+      "farsi": "این شغل درآمد بالایی دارد و در بازار کار تقاضای زیادی برای آن وجود دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Arbeitszeiten sind oft flexibel und viele Programmierer können als Freelancer oder von zu Hause arbeiten.",
+      "english": "Working hours are often flexible and many programmers can work as freelancers or from home.",
+      "russian": "Рабочее время часто гибкое, и многие программисты могут работать фрилансерами или из дома.",
+      "farsi": "ساعات کاری اغلب انعطاف‌پذیر است و بسیاری از برنامه‌نویسان می‌توانند به عنوان فریلنسر یا از خانه کار کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Es ist auch möglich, ein eigenes Startup zu gründen oder ein eigenes Produkt zu entwickeln.",
+      "english": "It is also possible to start your own startup or develop your own product.",
+      "russian": "Также возможно основать собственный стартап или разработать свой продукт.",
+      "farsi": "همچنین امکان راه‌اندازی یک استارتاپ شخصی یا توسعه یک محصول اختصاصی وجود دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Programmierberuf hat auch Nachteile, zum Beispiel:",
+      "english": "The programming profession also has disadvantages, for example:",
+      "russian": "Профессия программиста также имеет недостатки, например:",
+      "farsi": "شغل برنامه‌نویسی معایبی هم دارد، مثلاً:"
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Lange Zeit am Computer zu sitzen, kann Rücken-, Nacken- oder Augenprobleme verursachen.",
+      "english": "Sitting at the computer for long periods can cause back, neck, or eye problems.",
+      "russian": "Длительное сидение за компьютером может вызывать проблемы со спиной, шеей или глазами.",
+      "farsi": "نشستن طولانی‌مدت پشت کامپیوتر می‌تواند باعث مشکلات کمر، گردن یا چشم شود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Technologien in der IT-Welt entwickeln sich sehr schnell.",
+      "english": "Technologies in the IT world develop very quickly.",
+      "russian": "Технологии в IT-мире развиваются очень быстро.",
+      "farsi": "فناوری‌ها در دنیای فناوری اطلاعات بسیار سریع پیشرفت می‌کنند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man muss immer auf dem neuesten Stand bleiben.",
+      "english": "You always have to stay up to date.",
+      "russian": "Нужно всегда быть в курсе последних новостей.",
+      "farsi": "همیشه باید به‌روز باشید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Außerdem gibt es viele Programmierer, sodass die Konkurrenz um gute Positionen oder gute Unternehmen groß ist.",
+      "english": "There are also many programmers, so the competition for good positions or good companies is strong.",
+      "russian": "Кроме того, программистов много, поэтому конкуренция за хорошие должности или компании высокая.",
+      "farsi": "علاوه بر این، برنامه‌نویسان زیادی وجود دارند، بنابراین رقابت برای موقعیت‌های خوب یا شرکت‌های خوب زیاد است."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Insgesamt ist Programmieren ein kreativer Beruf und man braucht gute Analysefähigkeiten und muss komplexe Probleme lösen.",
+      "english": "Overall, programming is a creative profession and you need good analytical skills and have to solve complex problems.",
+      "russian": "В целом программирование - это творческая профессия, в которой нужны хорошие аналитические способности и умение решать сложные задачи.",
+      "farsi": "در مجموع، برنامه‌نویسی یک شغل خلاقانه است و به مهارت‌های تحلیلی خوب و توانایی حل مسائل پیچیده نیاز دارد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vielen Dank fürs Zuhören!",
+      "english": "Thank you very much for listening!",
+      "russian": "Большое спасибо за внимание!",
+      "farsi": "بسیار متشکرم که گوش دادید!"
+    }
+  ]
+}

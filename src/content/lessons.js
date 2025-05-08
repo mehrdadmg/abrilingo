@@ -336,6 +336,12 @@ const alllessons = [
         file_name: 'verben_mit_präposition_fokus_b1.json',
         name: 'Verben_Mit_Präposition_Fokus_B1',
       },
+      {
+        id: '209',
+        level: 1,
+        file_name: 'fokus_b1_verben.json',
+        name: 'Fokus_B1_Verben',
+      },
     ],
   },
   {
@@ -839,6 +845,25 @@ const alllessons = [
         level: 1,
         file_name: 'frontend_100_200.json',
         name: 'Frontend_100_200',
+      },
+    ],
+  },
+  {
+    id: '1000',
+    name: 'Mein Mündliche Prüfung Teil 1(Beruf B1)',
+    level: 0,
+    children: [
+      {
+        id: '1001',
+        level: 1,
+        file_name: '1_beschreiben_sie_einen_arbeitgeber.json',
+        name: '1_Beschreiben_Sie_einen_Arbeitgeber',
+      },
+      {
+        id: '1002',
+        level: 1,
+        file_name: '2_beschreiben_sie_einen_bestimmten_Beruf.json',
+        name: '2_Beschreiben_Sie_einen_bestimmten_Beruf',
       },
     ],
   },

@@ -1,0 +1,161 @@
+{
+  "info": {
+    "name": "1_Beschreiben_Sie_einen_Arbeitgeber",
+    "learning": "Sentences"
+  },
+
+  "content": [
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe als Thema 'Beschreiben Sie einen Arbeitgeber' gewählt.",
+      "english": "I have chosen the topic 'Describe an employer.'",
+      "russian": "Я выбрал тему «Опишите работодателя».",
+      "farsi": "من موضوع «توصیف یک کارفرما» را انتخاب کرده‌ام."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich möchte Ihnen von meiner früheren Firma erzählen.",
+      "english": "I would like to tell you about my former company.",
+      "russian": "Я хотел бы рассказать вам о своей прежней компании.",
+      "farsi": "می‌خواهم درباره شرکت قبلی‌ام برای شما تعریف کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe fast drei Jahre bei Webcentriq gearbeitet.",
+      "english": "I worked at Webcentriq for almost three years.",
+      "russian": "Я проработал в Webcentriq почти три года.",
+      "farsi": "من تقریباً سه سال در Webcentriq کار کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Das war ein IT-Unternehmen in der Ukraine.",
+      "english": "It was an IT company in Ukraine.",
+      "russian": "Это была IT-компания в Украине.",
+      "farsi": "این یک شرکت فناوری اطلاعات در اوکراین بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Webcentriq war eine amerikanisch-ukrainische Firma.",
+      "english": "Webcentriq was an American-Ukrainian company.",
+      "russian": "Webcentriq была американско-украинской компанией.",
+      "farsi": "Webcentriq یک شرکت آمریکایی-اوکراینی بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Im Büro in der Ukraine arbeiteten ungefähr 50 Personen.",
+      "english": "About 50 people worked in the office in Ukraine.",
+      "russian": "В офисе в Украине работало примерно 50 человек.",
+      "farsi": "در دفتر اوکراین حدود ۵۰ نفر کار می‌کردند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Atmosphäre dort war sehr angenehm.",
+      "english": "The atmosphere there was very pleasant.",
+      "russian": "Атмосфера там была очень приятной.",
+      "farsi": "فضای آنجا بسیار دلپذیر بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Alle Kolleginnen und Kollegen waren freundlich und haben sich gegenseitig geholfen.",
+      "english": "All colleagues were friendly and helped each other.",
+      "russian": "Все коллеги были дружелюбны и помогали друг другу.",
+      "farsi": "همه همکاران دوستانه بودند و به یکدیگر کمک می‌کردند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich mochte besonders die Projekte.",
+      "english": "I especially liked the projects.",
+      "russian": "Мне особенно нравились проекты.",
+      "farsi": "من به‌ویژه پروژه‌ها را دوست داشتم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Sie waren modern und haben neue Technologien benutzt.",
+      "english": "They were modern and used new technologies.",
+      "russian": "Они были современными и использовали новые технологии.",
+      "farsi": "آن‌ها مدرن بودند و از فناوری‌های جدید استفاده می‌کردند."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ein großer Vorteil war auch, dass man von zu Hause arbeiten konnte.",
+      "english": "A big advantage was also that you could work from home.",
+      "russian": "Большим преимуществом было также то, что можно было работать из дома.",
+      "farsi": "یک مزیت بزرگ این بود که می‌شد از خانه کار کرد."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Die Firma hatte ein gutes System für die Bewertung der Mitarbeiter.",
+      "english": "The company had a good system for evaluating employees.",
+      "russian": "В компании была хорошая система оценки сотрудников.",
+      "farsi": "شرکت یک سیستم خوب برای ارزیابی کارکنان داشت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Man wusste genau, welche Technologien man lernen musste, um mehr Gehalt zu bekommen.",
+      "english": "You knew exactly which technologies you had to learn to get a higher salary.",
+      "russian": "Было точно известно, какие технологии нужно изучить, чтобы получать больше зарплаты.",
+      "farsi": "دقیقاً می‌دانستید که باید چه فناوری‌هایی را یاد بگیرید تا حقوق بیشتری بگیرید."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Ich habe jeden Tag mehr als zwölf Stunden gearbeitet und gelernt.",
+      "english": "I worked and studied more than twelve hours every day.",
+      "russian": "Я работал и учился более двенадцати часов каждый день.",
+      "farsi": "من هر روز بیش از دوازده ساعت کار و مطالعه می‌کردم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "In meinem ersten Jahr wurde mein Gehalt fünfmal erhöht.",
+      "english": "In my first year, my salary was increased five times.",
+      "russian": "В первый год мою зарплату повысили пять раз.",
+      "farsi": "در سال اولم، حقوقم پنج بار افزایش یافت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Der Chef war sehr unterstützend.",
+      "english": "The boss was very supportive.",
+      "russian": "Начальник был очень поддерживающим.",
+      "farsi": "رئیس بسیار حمایت‌کننده بود."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Er hat mir immer gute Projekte gegeben, damit ich mich schneller verbessern konnte.",
+      "english": "He always gave me good projects so that I could improve faster.",
+      "russian": "Он всегда давал мне хорошие проекты, чтобы я мог быстрее развиваться.",
+      "farsi": "او همیشه پروژه‌های خوبی به من می‌داد تا بتوانم سریع‌تر پیشرفت کنم."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Leider begann im Jahr 2022 der Krieg in der Ukraine, und die Firma musste schließen, weil es ständig Strom- und Internetausfälle gab.",
+      "english": "Unfortunately, the war in Ukraine began in 2022, and the company had to close because there were constant power and internet outages.",
+      "russian": "К сожалению, в 2022 году началась война в Украине, и компания была вынуждена закрыться из-за постоянных перебоев с электричеством и интернетом.",
+      "farsi": "متأسفانه در سال ۲۰۲۲ جنگ در اوکراین آغاز شد و شرکت مجبور شد تعطیل شود، چون دائماً قطعی برق و اینترنت وجود داشت."
+    },
+    {
+      "isSelected": false,
+      "type": "sentence",
+      "sentence": "Vielen Dank fürs Zuhören!",
+      "english": "Thank you very much for listening!",
+      "russian": "Большое спасибо за внимание!",
+      "farsi": "بسیار متشکرم که گوش دادید!"
+    }
+  ]
+}
