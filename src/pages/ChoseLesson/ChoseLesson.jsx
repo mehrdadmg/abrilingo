@@ -45,7 +45,10 @@ const Choselesson = (props) => {
 
   // Component to render a lesson node (leaf)
   const LessonNode = (lessonItem, index) => (
-    <label key={index} className={cssClassName} style={{ display: openNodes[lessonItem.parentId] ? 'block' : 'none' }}>
+    <label
+      key={index}
+      className={cssClassName} /* style={{ display: openNodes[lessonItem.parentId] ? 'block' : 'none' }} */
+    >
       <input
         type="radio"
         name="mylesson"
@@ -58,9 +61,9 @@ const Choselesson = (props) => {
           await allLoadedLessons();
         }}
         checked={loadedLessons.includes(lessonItem.name) && lesson === lessonItem.name}
-        style={{ marginLeft: `${lessonItem.level * 20}px` }}
+        style={{ marginLeft: `${lessonItem.level * 1}px` }}
       />
-      {lessonItem.name}
+      <p>{lessonItem.name}</p>
       <button
         className="action_to_lesson"
         onClick={async () => {
@@ -83,9 +86,10 @@ const Choselesson = (props) => {
     <div
       key={lessonItem.id}
       className={`${cssClassName} ${lessonItem.level === 0 && 'level_0'}`}
-      style={{ marginLeft: `${lessonItem.level * 20}px` }}
+      style={{ marginLeft: `${lessonItem.level * 1}px` }}
     >
       <div
+        className="title_lesson_wrapper"
         onClick={() => toggleNode(lessonItem.id)}
         style={{
           cursor: lessonItem.children ? 'pointer' : 'default',
@@ -93,7 +97,7 @@ const Choselesson = (props) => {
         }}
       >
         {lessonItem.children && (openNodes[lessonItem.id] ? '▼ ' : '▶ ')}
-        {lessonItem.name}
+        <p className="title_lesson">{lessonItem.name}</p>
       </div>
       {lessonItem.children &&
         openNodes[lessonItem.id] &&

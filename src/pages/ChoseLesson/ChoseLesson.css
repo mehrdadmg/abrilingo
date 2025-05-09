@@ -28,17 +28,50 @@
 
 /* General styling for lesson input units */
 .chose_lesson .input_unit {
-  position: relative;
-  padding: 15px;
-  display: block;
-  line-height: 35px;
+  /* position: relative; */
+  padding: 8px;
+  /* display: block; */
+  line-height: 24px;
   border-bottom: none;
+
+  display: flex;
+  align-items: center;
+  flex-wrap: nowrap;
+  width: 100%;
+}
+
+.chose_lesson .input_unit.false {
+  display: block;
+}
+
+.chose_lesson .input_unit input[type='radio'] {
+  flex: 0 0 auto;
+  margin-right: 8px;
+}
+
+.chose_lesson .input_unit p {
+  flex: 1;
+  margin: 5px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: normal; /* اجازه می‌دهد متن در صورت نیاز شکسته شود */
 }
 
 /* Styling for the first input unit */
 .chose_lesson .input_unit.first_input {
   border-bottom: none;
 }
+
+.chose_lesson .title_lesson_wrapper {
+  display: flex;
+  align-items: center;
+  flex-wrap: nowrap;
+  width: 100%;
+}
+
+/* .chose_lesson .title_lesson {
+  margin-left: 5px;
+} */
 
 /* Styling for level_0 input units */
 .chose_lesson .input_unit.level_0 {
@@ -92,13 +125,19 @@
 
 /* Action button styling */
 .chose_lesson .action_to_lesson {
-  background-color: white;
+  background-color: rgba(255, 255, 255, 0);
   border: none;
   padding: 13px;
-  position: absolute;
+  /* position: absolute;
   right: 0;
   top: 50%;
-  transform: translateY(-50%);
+  transform: translateY(-50%); */
+
+  flex: 0 0 auto;
+  margin-left: 8px;
+  border: none;
+  background: none;
+  cursor: pointer;
 }
 
 /* SVG icon styling for action button */
