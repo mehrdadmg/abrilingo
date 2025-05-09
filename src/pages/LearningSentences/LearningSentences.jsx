@@ -1,8 +1,9 @@
 // src/WordReview.js
 import { useDispatch, useSelector } from 'react-redux';
-import { chooseLesson, handleSentenceNo, handleContentsLength } from '../../redux/actionCreator';
-
 import { useEffect, useRef } from 'react';
+import { useSwipeable } from 'react-swipeable';
+
+import { chooseLesson, handleSentenceNo, handleContentsLength } from '../../redux/actionCreator';
 
 import { GrPrevious } from 'react-icons/gr';
 
@@ -39,6 +40,9 @@ const LearningSentences = (props) => {
   const rateRef = useRef();
   const pitchRef = useRef();
   //const voiceURIRef = useRef();
+
+  // ایجاد یک رفرنس برای دسترسی به متدهای کامپوننت فرزند
+  const bottomActionsRef = useRef(null);
 
   let lesson = getlesson();
   if (!lesson) {
@@ -79,9 +83,50 @@ const LearningSentences = (props) => {
     })();
   }, []);
 
+  /*  // تنظیم آبجکت swipeable برای تشخیص کشیدن‌ها
+  const swipeNavigation = useSwipeable({
+    // کشیدن از چپ به راست - تابع قبلی
+    onSwipedRight: () => {
+      console.log('کشیدن از چپ به راست - تابع قبلی');
+      //onPrev();
+    },
+    // کشیدن از راست به چپ - تابع بعدی
+    onSwipedLeft: () => {
+      console.log('کشیدن از راست به چپ - تابع بعدی');
+      //onNext();
+    },
+    // تنظیمات بیشتر برای کنترل حساسیت و رفتار
+    trackMouse: false, // غیرفعال کردن در موس
+    swipeDuration: 500, // مدت زمان کشیدن به میلی‌ثانیه
+    preventDefaultTouchmoveEvent: true, // جلوگیری از رفتارهای پیش‌فرض
+    delta: 50, // حداقل فاصله لازم برای تشخیص کشیدن (پیکسل)
+  }); */
+
+  // تنظیمات اسوایپ
+  const swipeHandlers = useSwipeable({
+    // اسوایپ از راست به چپ (برای "بعدی")
+    onSwipedLeft: () => {
+      console.log('اسوایپ به چپ - فراخوانی تابع بعدی');
+      if (bottomActionsRef.current) {
+        bottomActionsRef.current.handlerNextContent();
+      }
+    },
+    // اسوایپ از چپ به راست (برای "قبلی")
+    onSwipedRight: () => {
+      console.log('اسوایپ به راست - فراخوانی تابع قبلی');
+      if (bottomActionsRef.current) {
+        bottomActionsRef.current.handlerPreviousContent();
+      }
+    },
+    // تنظیمات بیشتر
+    trackMouse: false,
+    swipeDuration: 500,
+    minDistance: 50,
+  });
+
   if (dataLesson.info.name === lesson) {
     return (
-      <div className="learning-sentences">
+      <div {...swipeHandlers} className="learning-sentences">
         <div className="container">
           <div className="flex-container">
             <div className="header">
@@ -111,7 +156,7 @@ const LearningSentences = (props) => {
                 pitch={pitchRef.current}
                 voice={voice}
               />
-              <BottomActions />
+              <BottomActions ref={bottomActionsRef} />
             </div>
           </div>
         </div>

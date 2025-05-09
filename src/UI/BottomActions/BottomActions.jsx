@@ -1,4 +1,6 @@
+import { forwardRef, useImperativeHandle } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
+
 import { handleSentenceNo } from '../../redux/actionCreator';
 import { GrNext, GrPrevious } from 'react-icons/gr';
 
@@ -6,10 +8,10 @@ import { setLearnSentenceNo, setPracticeSentenceNo } from '../../api/handleLocal
 
 import './BottomActions.css';
 
-const BottomActions = (props) => {
+const BottomActions = forwardRef((props, ref) => {
   const dispatch = useDispatch();
   const indexState = useSelector((state) => state.indexSentence);
-  const dataLesson = useSelector((state) => state.lesson);
+  // const dataLesson = useSelector((state) => state.lesson);
   const typePage = useSelector((state) => state.typePage);
   const contentLength = useSelector((state) => state.contentsLength);
   const activeTab = useSelector((state) => state.isSelectedTabActive);
@@ -42,6 +44,11 @@ const BottomActions = (props) => {
     }
   };
 
+  useImperativeHandle(ref, () => ({
+    handlerNextContent,
+    handlerPreviousContent,
+  }));
+
   return (
     <div className="bottom_actions">
       <button
@@ -61,6 +68,6 @@ const BottomActions = (props) => {
       </button>
     </div>
   );
-};
+});
 
 export default BottomActions;
