@@ -42,6 +42,7 @@ const LearningSentences = (props) => {
   //const voiceURIRef = useRef();
 
   const bottomActionsRef = useRef(null);
+  const contentContainerRef = useRef(null);
 
   let lesson = getlesson();
   if (!lesson) {
@@ -84,13 +85,21 @@ const LearningSentences = (props) => {
 
   const swipeHandlers = useSwipeable({
     onSwipedLeft: () => {
-      if (bottomActionsRef.current) {
-        bottomActionsRef.current.handlerNextContent();
+      if (contentContainerRef.current) {
+        contentContainerRef.current.prepareTransition('forward');
+        // Increase timeout to ensure animation starts before content changes
+        setTimeout(() => {
+          bottomActionsRef.current?.handlerNextContent();
+        }, 100);
       }
     },
     onSwipedRight: () => {
-      if (bottomActionsRef.current) {
-        bottomActionsRef.current.handlerPreviousContent();
+      if (contentContainerRef.current) {
+        contentContainerRef.current.prepareTransition('backward');
+        // Increase timeout to ensure animation starts before content changes
+        setTimeout(() => {
+          bottomActionsRef.current?.handlerPreviousContent();
+        }, 100);
       }
     },
     trackMouse: false,
@@ -119,6 +128,7 @@ const LearningSentences = (props) => {
             </div>
             <div className="card">
               <ContentContainer
+                ref={contentContainerRef}
                 content={
                   !activeTab
                     ? dataLesson.content[contentIndex]

@@ -1,12 +1,13 @@
 .bottom_actions {
-  position: absolute;
-  bottom: 5px;
+  position: fixed;
+  bottom: 0px;
   left: 0;
   right: 0;
   margin: 0 auto;
   display: flex;
   justify-content: space-between;
   align-items: center;
+  background-color: rgb(255, 255, 255);
 }
 
 .bottom_actions .action-btn {

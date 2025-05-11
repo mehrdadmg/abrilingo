@@ -15,6 +15,7 @@
 
 .content_container .bottom_sentenceContainer {
   min-width: 100%;
+  margin-bottom: 10px;
 }
 
 .content_container .show_icon {
@@ -28,4 +29,112 @@
 
 .content_container .show_icon svg {
   color: black;
+}
+
+/* Animation classes */
+.content_container .fade-enter {
+  opacity: 0;
+  transform: translateX(100%);
+}
+
+.content_container .fade-enter-active {
+  opacity: 1;
+  transform: translateX(0);
+  transition: opacity 300ms ease-in-out, transform 300ms ease-in-out;
+}
+
+.content_container .fade-exit {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+.content_container .fade-exit-active {
+  opacity: 0;
+  transform: translateX(-100%);
+  transition: opacity 300ms ease-in-out, transform 300ms ease-in-out;
+}
+
+.content_container .fade-reverse-enter {
+  opacity: 0;
+  transform: translateX(-100%);
+}
+
+.content_container .fade-reverse-enter-active {
+  opacity: 1;
+  transform: translateX(0);
+  transition: opacity 300ms ease-in-out, transform 300ms ease-in-out;
+}
+
+.content_container .fade-reverse-exit {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+.content_container .fade-reverse-exit-active {
+  opacity: 0;
+  transform: translateX(100%);
+  transition: opacity 300ms ease-in-out, transform 300ms ease-in-out;
+}
+
+.content_container .animation-container {
+  /* position: relative; */
+  width: 100%;
+  min-height: 300px; /* اضافه کردن ارتفاع حداقل */
+  overflow: hidden;
+}
+
+.content_container .content-wrapper {
+  width: 100%;
+  /* position: absolute; */
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  visibility: visible; /* اطمینان از دیده شدن محتوا */
+  display: flex;
+  flex-direction: column;
+}
+
+.content_container .slide-forward-enter {
+  opacity: 1;
+  transform: translateX(100%);
+}
+
+.content_container .slide-forward-enter-active {
+  opacity: 1;
+  transform: translateX(0);
+  transition: transform 300ms ease-in-out;
+}
+
+.content_container .slide-forward-exit {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+.content_container .slide-forward-exit-active {
+  opacity: 1;
+  transform: translateX(-100%);
+  transition: transform 300ms ease-in-out;
+}
+
+.content_container .slide-backward-enter {
+  opacity: 1;
+  transform: translateX(-100%);
+}
+
+.content_container .slide-backward-enter-active {
+  opacity: 1;
+  transform: translateX(0);
+  transition: transform 300ms ease-in-out;
+}
+
+.content_container .slide-backward-exit {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+.content_container .slide-backward-exit-active {
+  opacity: 1;
+  transform: translateX(100%);
+  transition: transform 300ms ease-in-out;
 }
